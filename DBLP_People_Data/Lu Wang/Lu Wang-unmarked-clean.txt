@@ -1,0 +1,2589 @@
+
+id:2011279637
+title:Multiple-Human Tracking by Iterative Data Association and Detection Update
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Nelson Hon Ching Yung
+author organization:University of Hong Kong
+author id:1992431397|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+]
+abstract:forming|closedloop|manner|resolve|results|use|improves|several|accuracy|tracklets|singleframe|stateoftheart|inside|tracking|approach|propagated|reliable|multiplehumantracking|results|temporal|making|quantities|demonstrates|last|surveillance|experimental|done|important|input|improving|ambiguities|task|proposed|present|conservative|multipleobject|works|trajectories|show|association|tracklet|global|video|refining|local|across|refined|comparison|takes|human|effectiveness|detection|original|associates|also|approaches|performed|automated|form|responses|information|approach|first
+venue name:IEEE Transactions on Intelligent Transportation Systems
+venue id:144771191
+venue type:J
+document type:Journal
+study fields:Data mining|Computer vision|Information processing|Computer science|Simulation|Video tracking|Data association|Artificial intelligence
+references:1514810895|1541809062|1591285480|1840672702|1987118352|2016135469|2056250745|2060022598|2061773916|2082716591|2083049794|2096246546|2098669323|2105621472|2107401725|2109770203|2111644456|2120079785|2121224247|2122088301|2122469558|2124211486|2124541566|2126974080|2128079343|2132103241|2132200263|2146820038|2147953023|2148958980|2160801049|2163385949|2167462877|2168356304|2171243491|2172055967|2416156489
+
+
+id:2026469559
+title:Bayesian 3D model based human detection in crowded scenes using efficient optimization
+year:2011
+author information:[
+author name:Lu Wang
+author organization:University of Hong Kong
+author id:2805593719|
+author name:Nelson H. C. Yung
+author organization:University of Hong Kong
+author id:1992431397|
+]
+abstract:unoccluded|results|tested|mutually|experimental|avoided|foreground|depicts|relation|reliable|problem|optimization|model|validation|addition|knowledge|human|based|similar|models|using|shape|method|models|extraction|likelihood|restriction|obtained|caviar|methods|global|distribution|derive|matching|foot|include|detection|approaches|procedure|performed|confirm|interobject|obvious|unreasonable|approach|comparable|minimum|dataset|first|priors|available|challenging|decomposing|edge|solution|prior|find|method|greedy|candidates|results|computational|image|individual|bayesian|merit|real|publicly|employing|graph|rejection|candidates|proposed|solve|scenes|demonstrate|detector|distance|configuration|applied|provided|description|best|decomposition|head|related|human|effectiveness|cost|constructed|performing|occluded|length|crowded|also|performance|corresponding|nominated|ones|information|strategy
+venue name:Workshop on Applications of Computer Vision
+venue id:1149655676
+venue type:C
+document type:Conference
+study fields:Object detection|Computer vision|Data set|Pattern recognition|Global optimization|Edge detection|Computer science|Iterative method|Minimum description length|Artificial intelligence|Prior probability|Bayesian probability
+references:1591285480|2072643367|2097324787|2100428290|2101178587|2111309546|2118061983|2119823327|2122243179|2133243643|2135347708|2161969291
+
+
+id:2031865986
+title:Adaptive human motion analysis and prediction
+year:2011
+author information:[
+author name:Zhuo Chen
+author organization:University of Hong Kong
+author id:2697097794|
+author name:Lu Wang
+author organization:University of Hong Kong
+author id:2805593719|
+author name:Nelson H. C. Yung
+author organization:University of Hong Kong
+author id:1992431397|
+]
+abstract:called|accuracy|observed|adaptively|number|realworld|contributions|experiment|terms|evaluated|recent|human|based|inadequate|method|simulated|steps|active|classified|analysis|rsp|mps|experiments|motion|environment|predictor|methods|reliability|experiments|indicative|quantitatively|naturally|adaptive|current|shortterm|term|predicting|compared|performance|may|learn|performed|single|accuracy|future|use|reasonable|credibility|evaluated|historical|main|research|method|results|area|including|patterns|conducted|often|predicts|longer|refers|proposed|prediction|scenes|present|applied|trajectories|show|description|best|recursively|effective|prediction|provides|autoregressive|human|motion|learned|affects|also|specific|improvement|superior|performance|due|step|time|attempted|recursive|comprehensive|longterm
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Autoregressive model|Signal processing|Long-term prediction|Pattern recognition|Adaptive method|Human motion|Artificial intelligence|Motion analysis|Motion prediction|Recursion|Mathematics
+references:1484830317|1587769556|1683982302|2008810234|2039505394|2057518281|2072643367|2088604406|2102242752|2119823327|2120327182|2120387504|2122075562|2122439876|2122469558|2136947569|2142079327|2147677349|2148238513|2149519014|2152891050|2154642173|2156142530|2163145488
+
+
+id:2033597495
+title:Voltage compensation based calibration measurement of 3D-acceleration transducer in fall detection system for the elderly
+year:2014
+author information:[
+author name:Li Zheng
+author organization:Northeastern University
+author id:2547867867|
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Dianning He
+author organization:Northeastern University
+author id:2159685689|
+author name:Ning Geng
+author organization:China Medical University
+author id:2672206677|
+author name:Ping Geng
+author organization:Northeastern University
+author id:2627696936|
+author name:Dejun Guan
+author organization:Shenyang Open University
+author id:2720675354|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+]
+abstract:transducer|data|postural|accuracy|collected|body|variation|analyzing|acceleration|elderly|different|based|coordinate|method|coincide|en|recognize|accurately|important|signals|system|illustrated|directions|proposed|motion|errors|part|coordinates|changes|battery|collecting|experiments|transform|fall|body|influences|course|human|detection|may|motion|one|also|transformation|voltage|due|calibrate|various|compensation|signal
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Coordinate system|Transducer|Computer science|Human motion|Artificial intelligence|Computer vision|Voltage compensation|Simulation|Voltage|Voltage variation|Acceleration|Acoustics|Calibration
+references:1754934731|2076068958|2080326930|2122057414|2151642109
+
+
+id:2051140192
+title:Arrhythmic Pulses Detection Using Lempel-Ziv Complexity Analysis
+year:2006
+author information:[
+author name:Lisheng Xu
+author organization:Department of Computer Science and Engineering, Harbin Institute of Technology (HIT), Harbin, China
+author id:2105191770|
+author name:David Zhang
+author organization:Hong Kong
+author id:2163830057|
+author name:Kuanquan Wang
+author organization:Harbin Institute of Technology
+author id:2131585752|
+author name:Lu Wang
+author organization:Department of Computer Science and Engineering, Harbin Institute of Technology (HIT), Harbin, China
+author id:2668955586|
+]
+abstract:recognition|intermittent|seven|accuracy|extracting|none|approach|features|correctly|lempelziv|signal|results|computerized|based|new|researches|using|patterns|proposes|presented|difficult|analysis|classification|done|traditional|unit|achieving|field|pulses|detecting|relatively|position|considerable|complexity|assessed|analysis|applied|automatically|according|arrhythmic|two|paper|diagnosis|detection|identify|four|one|automatic|heuristic|medicine|also|rhythms|periodical|pulse|pulse|chinese|clinic|experts|physiological|novel
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Trellis modulation|Signal processing|Heuristic|Detection theory|Computer science|Pulse (signal processing)|Lempel-Ziv complexity|Speech recognition|Rhythm|Lemma (mathematics)
+references:1586646666|1967382114|2077770566|2085709642|2097124571|2106923614|2125257275|2136864990|2137478377|2155892791
+
+
+id:2057518281
+title:Detection Based Low Frame Rate Human Tracking
+year:2010
+author information:[
+author name:Lu Wang
+author organization:University of Hong Kong
+author id:2805593719|
+author name:Nelson H.C. Yung
+author organization:University of Hong Kong
+author id:1992431397|
+]
+abstract:effectively|data|intertrack|tracklets|ambiguous|challenging|problem|split|shows|continuous|differentiates|merge|method|longtime|likely|ambiguous|method|linking|experiment|less|propose|becomes|proposed|occlusion|solve|detecting|frame|explicitly|deal|tracking|according|association|low|rate|similarity|firstly|hence|surveillance|relationship|track|human|effectiveness|detection|robust|motion|incorrect|introduce|performing|occurs|appearance|responses|dataset|order
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Computer vision|Object detection|Occlusion|Pattern recognition|Image fusion|Computer science|Robustness (computer science)|Robust statistics|Frame rate|Artificial intelligence|Merge (version control)|Trajectory
+references:1987118352|2033745884|2120079785|2120327182|2122088301|2122469558|2534411223
+
+
+id:2072643367
+title:Extraction of Moving Objects From Their Background Based on Multiple Adaptive Thresholds and Boundary Evaluation
+year:2010
+author information:[
+author name:Lu Wang
+author organization:University of Hong Kong
+author id:2973522443|
+author name:N.H.C. Yung
+author organization:Hong Kong University
+author id:1992431397|
+]
+abstract:shadow|accurate|criteria|objects|ambiguities|foreground|three|adaptively|visual|displacement|moving|images|merging|method|considering|index|probable|methods|extraction|accurately|classification|propose|substantial|distributions|resulting|input|thresholds|determined|boundary|cases|refined|consistently|evaluate|differences|referring|indicate|estimating|map|set|sets|produce|inconsistent|single|associated|width|sets|first|performs|resolve|dim|threshold|used|challenging|pairs|correctly|edge|proceeds|segment|boundaries|different|generate|results|new|including|comparison|surveillance|experimental|finally|comparing|often|background|task|pixels|proposed|background|final|true|ground|inconsistent|boundary|classify|identifying|show|error|represents|rate|fails|halolike|illumination|merged|improvement|existing|truth|well|uses|step|location|significantly|objects
+venue name:IEEE Transactions on Intelligent Transportation Systems
+venue id:144771191
+venue type:J
+document type:Journal
+study fields:Computer vision|Change detection|Simulation|Edge detection|Word error rate|Image segmentation|Ground truth|Artificial intelligence|Pixel|Engineering|Motion estimation|Contextual image classification
+references:2039205052|2081071612|2083970667|2098305432|2106592804|2109609054|2111918405|2114701396|2124048892|2130411857|2137397284|2140235142|2143373691|2150464846|2160544350|2164208630|2164598857|2167191822|2168690674|2170140722
+
+
+id:2081322869
+title:Multi-Gaussian fitting for pulse waveform using Weighted Least Squares and multi-criteria decision making method
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+author name:Shuting Feng
+author organization:Northeastern University
+author id:2114716408|
+author name:Max Q.-H. Meng
+author organization:Chinese University of Hongkong
+author id:2138739745|
+author name:Kuanquan Wang
+author organization:Harbin Institute of Technology
+author id:2131585752|
+]
+abstract:accuracy|waveforms|fit|analyzing|number|normalized|least|model|types|evaluated|recent|wls|using|method|root|depends|sampling|square|vascular|propose|resulting|analysis|multicriteria|conditions|performance|waveform|much|methods|waves|unknown|adaptive|noninvasive|weighted|low|demonstrating|key|synthesizing|cardiovascular|disclose|decision|information|singleperiod|multigaussian|constant|decomposition|points|method|mg|different|mechanisms|five|selected|pathological|individual|making|pay|weight|positions|real|less|obtaining|system|estimation|proposed|vital|waveforms|parameters|squares|mean|applied|optimized|values|decompose|error|effective|related|human|pulse|estimated|error|wave|corresponding|pulse|attention|waveform|gaussian|fitting
+venue name:Computers in Biology and Medicine
+venue id:44278595
+venue type:J
+document type:Journal
+study fields:Least squares|Multiple-criteria decision analysis|Pattern recognition|Photoplethysmogram|Waveform|Pulse wave|Pulse (signal processing)|Gaussian|Sampling (statistics)|Artificial intelligence|Mathematics
+references:1968781317|1970648291|1983580115|1994076864|2013865584|2025012812|2040966419|2065962440|2087151509|2096467866|2111358144
+
+
+id:2118950679
+title:FPGA-based design and implementation of arterial pulse wave generator using piecewise Gaussian-cosine fitting
+year:2015
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+author name:Dazhe Zhao
+author organization:University
+author id:2690323559|
+author name:Yang Yao
+author organization:Northeastern University
+author id:2310410863|
+author name:Dan Song
+author organization:Northeastern University
+author id:2628780882|
+]
+abstract:unavailable|considered|type|users|three|analyzing|reflect|four|recent|circuits|drift|waves|based|devoted|using|method|containing|sampling|testing|baseline|analysis|years|contains|system|gaussiancosine|field|provide|flexible|evaluating|study|periodic|waves|piecewise|desired|feature|known|acquiring|low|occasionally|noise|acquisition|usersthe|contain|set|may|within|purposes|cardiovascular|many|produce|fitted|fpgaproposed|stage|maximum|information|essential|compact|added|using|paper|developing|residual|simple|arterial|developed|good|research|points|function|adding|implemented|noises|signal|needs|given|comparison|test|solutions|equipment|reconstruct|real|integratedit|condition|signals|proposed|vital|according|development|generator|investigate|error|wave|point|integrated|database|considerable|related|array|debugging|designed|accurate|algorithms|types|programmable|cost|also|specific|special|performance|pulse|typical|attention|gate|reconfigurability|physiological|fitting
+venue name:Computers in Biology and Medicine
+venue id:44278595
+venue type:J
+document type:Journal
+study fields:Computer vision|Trigonometric functions|Computer science|Signal generator|Pulse wave|Pulse (signal processing)|Gaussian|Artificial intelligence|Square wave|Acoustics|Electronic circuit|Piecewise
+references:1969546072|1994076864|2040966419|2080403247|2081322869|2129788823|2142242593|2159348352
+
+
+id:2120327182
+title:Crowd counting and segmentation in visual surveillance
+year:2009
+author information:[
+author name:Lu Wang
+author organization:University of Hong Kong
+author id:2805593719|
+author name:Nelson H.C. Yung
+author organization:University of Hong Kong
+author id:1992431397|
+]
+abstract:unoccluded|smaller|evidence|crowd|approach|occlusions|problem|solution|shown|separation|optimization|validation|computational|counting|models|image|based|shape|probability|considering|posterior|merit|rejection|respect|candidates|length|proposed|boundary|matched|obtained|partial|much|methods|provided|description|global|segmentation|human|designed|applying|cost|robust|possible|procedure|formulated|performance|severe|maximum|strategy|minimum|comparable
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Global optimization|Pattern recognition|Iterative method|Computer science|Segmentation|Computational geometry|Minimum description length|Image segmentation|Artificial intelligence|Crowd counting|Bayesian probability
+references:1890253021|2072643367|2096229530|2096349671|2097324787|2101178587|2118061983|2119823327|2133243643|2135347708|2161841955
+
+
+id:2160801049
+title:Three-Dimensional Model-Based Human Detection in Crowded Scenes
+year:2012
+author information:[
+author name:Lu Wang
+author organization:North-eastern University
+author id:2668955586|
+author name:N. H. C. Yung
+author organization:University of Hong Kong
+author id:1992431397|
+]
+abstract:smaller|optimal|reasoning|mutually|foreground|problem|optimization|estimate|model|validation|models|based|images|using|shape|method|probability|extraction|occlusion|set|matched|obtained|much|caviar|another|global|local|matching|result|reported|detection|set|procedure|matching|unoccluded|maximum|relations|minimum|comparable|data|achieves|challenging|predefined|decomposing|works|solution|candidates|computational|given|image|graph|rejection|candidates|posteriori|proposed|scenes|demonstrate|higher|configuration|provided|according|description|best|candidate|related|rate|iteration|human|carried|process|cost|previous|advantage|occluded|length|crowded|also|formulated|performance|ones|subset
+venue name:IEEE Transactions on Intelligent Transportation Systems
+venue id:144771191
+venue type:J
+document type:Journal
+study fields:Object detection|Computer vision|Pattern recognition|Global optimization|Computer science|Minimum description length|Feature extraction|Solid modeling|Artificial intelligence|Maximum a posteriori estimation|Bayes theorem|Bayesian probability
+references:1536943225|1591285480|1608462934|1890253021|1906375339|1987118352|2072643367|2096349671|2097324787|2098999879|2099355420|2100428290|2101178587|2101974252|2105621472|2107775979|2111309546|2116022929|2118061983|2119823327|2120419212|2121102817|2122243179|2126974080|2128079343|2133243643|2133986780|2135347708|2139479830|2152473410|2156539399|2158563300|2161446043|2161969291|2167765625|2169566837|2169671170|2172055967|2548197316
+
+
+id:2517428341
+title:Pedestrian detection in crowded scenes via scale and occlusion analysis
+year:2016
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2564460352|
+author name:Lisheng Xu
+author organization:University
+author id:2562581644|
+author name:Ming-Hsuan Yang
+author organization:University
+author id:2112462370|
+]
+abstract:cluster|stateoftheart|consistency|score|facilitates|despite|visual|recent|algorithm|based|using|made|local|methods|analysis|propose|benchmark|prior|occlusion|refined|favorably|neighboring|detection|problem|sets|initial|suppression|progress|first|detections|performs|data|use|remains|detectors|contexts|body|challenging|cues|prior|generate|results|detections|image|experimental|significant|proposed|proximity|exploited|detecting|scenes|parts|final|full|scores|provided|according|show|scale|detect|refining|surveillance|applications|apply|confidence|pedestrians|estimated|crowded|scale|better|nonmaximum|pedestrian|location
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Confidence score|Computer vision|Data set|Algorithm design|Occlusion|Pattern recognition|Computer science|Visualization|Artificial intelligence|Pedestrian detection|Benchmark (computing)
+references:345900524|1560380655|1890253021|1903127635|1943388055|2031454541|2060022598|2074777933|2083896825|2097324787|2101178587|2125556102|2130751540|2136579260|2150385913|2156727185|2161969291|2162846286|2168356304|2344132218|2548197316
+
+
+id:2583610392
+title:Improving object visual tracking performance by scene occluder estimation for video surveillance
+year:2016
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+author name:Liling Hao
+author organization:Northeastern University
+author id:2557826915|
+author name:Qingxu Deng
+author organization:University
+author id:2709768625|
+author name:Max Q.-H Meng
+author organization:Chinese University of Hong Kong
+author id:2138739745|
+]
+abstract:data|several|accuracy|scenarios|approach|tracking|scene|analyzing|introduced|compensating|results|shift|using|static|frames|minutes|experimental|propose|improving|proposed|occlusion|improve|demonstrate|object|video|mean|normalized|video|two|public|surveillance|map|estimating|effectiveness|map|motion|sets|gradient|estimated|cumulative|occluder|compensation|approach|objects|first
+venue name:International Conference on Information and Automation
+venue id:2623485896
+venue type:C
+document type:Conference
+study fields:Computer vision|Data set|Normalization (statistics)|Computer graphics (images)|Computer science|Visualization|Tracking system|Video tracking|Eye tracking|Artificial intelligence|Mean-shift
+references:2001054718|2011279637|2061773916|2080920426|2083049794|2122469558|2132103241
+
+
+id:2605124923
+title:Design and implementation of a pulse wave generator based on Windkessel model using field programmable gate array technology
+year:2017
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2668955586|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+author name:Shuran Zhou
+author organization:Northeastern University
+author id:2560292629|
+author name:Hao Wang
+author organization:Northeastern University
+author id:2662670256|
+author name:Yang Yao
+author organization:Northeastern University
+author id:2310410863|
+author name:Liling Hao
+author organization:Northeastern University
+author id:2557826915|
+author name:Bing Nan Li
+author organization:Hefei University of Technol
+author id:2778604642|
+author name:Lin Qi
+author organization:Northeastern University
+author id:2714272289|
+]
+abstract:measured|products|software|scalability|clinic|users|programmable|easily|model|rungekutta|case|order|waves|based|similar|using|quantification|thus|work|systemonaprogrammablechip|analysis|contains|system|flexible|analyze|obtained|evaluate|study|quantitatively|products|portability|varying|case|set|necessary|abstract|could|representing|possible|cardiovascular|many|results|information|describe|commercial|developing|features|generated|implemented|method|quite|windkessel|noises|different|generate|conclusion|add|pathological|new|test|solutions|plenty|often|system|functions|signals|varies|waveforms|parameters|useful|methods|critical|young|generator|gate|training|wave|platform|states|modulated|general|numerical|field|hospital|designed|types|signaltonoise|pulse|purpose|also|devices|array|significance|students|performance|various|physiologically|pulse|typical|personnel|interpretable|physiological
+venue name:Biomedical Signal Processing and Control
+venue id:8427965
+venue type:J
+document type:Journal
+study fields:Computer vision|Waveform|Field-programmable gate array|Pulse wave|Pulse (signal processing)|Electronic engineering|Software|Software portability|Artificial intelligence|Mathematics|Pulse Wave Analysis|Scalability
+references:1969546072|1994076864|2012602326|2040966419|2065962440|2069636918|2080830616|2081322869|2081324807|2104380142|2118950679|2129788823|2142242593|2157744388
+
+
+id:2784549149
+title:Online multiple object tracking via flow and convolutional features
+year:2017
+author information:[
+author name:Lu Wang
+author organization:Northeastern University
+author id:2564460352|
+author name:Lisheng Xu
+author organization:University
+author id:2562581644|
+author name:Min Young Kim
+author organization:Panasonic Silicon Valley Laboratory, USA
+author id:2792608844|
+author name:Luca Rigazico
+author organization:Panasonic Silicon Valley Laboratory, USA
+author id:2794221363|
+author name:Ming-Hsuan Yang
+author organization:UC Merced
+author id:2112462370|
+]
+abstract:objects|scenarios|stateoftheart|ambiguous|tracking|via|model|flow|algorithm|based|method|methods|raw|handle|propose|easy|benchmark|heavy|correlation|occlusion|deals|object|affinity|favorably|template|deal|achieve|association|tracklet|datasets|targets|two|exploits|matching|positives|relationship|convolutional|detection|robust|noisy|inaccurate|corrected|recovered|appearance|removed|locations|increasing|optical|performs|data|use|shortterm|associate|features|complement|potential|results|detections|difficulty|experimental|difficult|develop|proposed|carry|demonstrate|frequent|missing|predict|tracking|cases|motion|multiple|false|filters|occluders|occlusion|online|well|detected|objects
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Template matching|Computer vision|Online algorithm|Pattern recognition|Computer science|Active appearance model|Video tracking|Correlation|Artificial intelligence|Optical flow|Trajectory|False positive paradox
+references:1521019969|1531192956|1536680647|1863704471|1963882359|1968405646|2022515186|2056250745|2082716591|2115579991|2122469558|2125556102|2168356304|2175073583|2214352687|2219554887|2225887246|2237765446|2252862078|2260975248|2323401846|2468912036|2477869242|2520234541|2579024533|2963063317|2964015640
+
+
+id:2795844877
+title:Local Motion Intensity Clustering (LMIC) Model for Segmentation of Right Ventricle in Cardiac MRI Images
+year:2019
+author information:[
+author name:Zengzhi Guo
+author organization:Northeastern University
+author id:2796183516|
+author name:Wenjun Tan
+author organization:University
+author id:2796228991|
+author name:Lu Wang
+author organization:Northeastern University
+author id:2796032954|
+author name:Lisheng Xu
+author organization:University
+author id:2105191770|
+author name:Xinhui Wang
+author organization:Northeastern University
+author id:2795666996|
+author name:Benqiang Yang
+author organization:General Hospital of Shenyang Military
+author id:2923112703|
+author name:Yudong Yao
+author organization:Northeastern University
+author id:2736256027|
+]
+abstract:borders|accuracy|analyzing|flow|improved|magnetic|model|flow|utilized|algorithm|energy|based|images|using|still|morphology|method|methods|resonance|accurately|analysis|cardiac|images|rv|mri|ventricle|local|segmentation|address|lic|combines|right|cardiovascular|disease|blood|model|kanade|able|lmic|approach|optical|noise|paper|remains|used|mainly|function|calculated|results|experimental|diagnosis|imaging|heart|illdefined|addressed|proposed|prediction|interference|demonstrate|region|borders|provided|description|stronger|accurate|motion|lucas|segmented|structure|intensity|existing|parameter|segmenting|due|inhomogeneity|challenge|clustering
+venue name:IEEE Journal of Biomedical and Health Informatics
+venue id:2495854775
+venue type:J
+document type:Journal
+study fields:Computer vision|Pattern recognition|Computer science|Segmentation|Level set|Image segmentation|Lucas–Kanade method|Artificial intelligence|Cardiac magnetic resonance imaging|Cluster analysis|Optical flow|Magnetic resonance imaging
+references:1987512289|2057441779|2059240422|2118877769|2132116135|2146308017|2165680220|2337438617
+
+
+id:2898756229
+title:A Local Top-Down Module for Object Detection with Multi-scale Features
+year:2018
+author information:[
+author name:Shihua Huang
+author organization:University
+author id:2899192452|
+author name:Lu Wang
+author organization:University
+author id:2898619202|
+author name:Peiyu Yang
+author organization:University
+author id:2899472560|
+author name:Qingxu Deng
+author organization:University
+author id:2899000822|
+]
+abstract:contextual|mostly|objects|accuracy|stateoftheart|issues|upsampled|addressed|succeeding|algorithm|based|models|similar|using|multiscale|compared|layer|adopting|object|rate|favorably|semantic|integrating|operates|methods|overhead|two|layer|local|layers|feature|performance|detection|may|efficient|loads|boxinbox|information|comparable|small|performs|several|achieves|available|features|results|significantly|detections|computational|need|experimental|introducing|ideas|less|proposed|prediction|tackle|present|topdown|since|higher|full|little|frame|deep|code|coco|show|integrated|hollywoodheads|effective|general|apply|increase|performance|achieved|existing
+venue name:Chinese Conference on Pattern Recognition
+venue id:2754767283
+venue type:C
+document type:Conference
+study fields:Overhead (computing)|Object detection|Computer science|Top-down and bottom-up design|Deconvolution|Semantic information|Frame rate|Computer engineering
+references:1686810756|2173179171|2193145675|2194775991|2565639579|2570343428|2604967609|2609144136|2612445135|2613718673|2617708032|2743620784|2745261679|2950800384|2962917547|2963037989|2963786238
+
+
+id:1584117230
+title:Exploring smart pilot for partial packet recovery in super dense wireless networks
+year:2015
+author information:[
+author name:Xiaoke Qi
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2254069910|
+author name:Lu Wang
+author organization:Department of College of Computer Science and Software Engineering, ShenZhen Univeristy, China
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Department of College of Computer Science and Software Engineering, ShenZhen Univeristy, China
+author id:2152760828|
+author name:Jianhua Tao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2793295761|
+]
+abstract:pilot|improves|entire|required|protocols|unavoidable|complex|receiver|thus|bits|hard|packet|accurately|utilizes|decoding|contains|obtained|partial|greatly|average|packet|achieve|portion|experiments|recovery|kinds|two|smart|known|reduces|behavior|reliable|compared|efficient|leveraged|smart|soft|ber|reduced|help|able|information|retransmission|prone|inserts|novel|wireless|incorporates|retransmitted|adaptive|throughput|communication|protocols|signal|corrupted|pilots|often|failure|especially|interference|termed|limited|retransmission|densedeployed|according|show|recovery|investigate|redundant|pilot|identify|confidence|yet|instead|retransmit|existing|due|wireless|avoid
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Wireless network|Wireless|Computer science|Retransmission|Network packet|Transmission delay|Computer network|Real-time computing|Throughput|Fast packet switching|Bit error rate
+references:1972306148|2010813610|2027809943|2040950578|2058188527|2097460929|2111433054|2124135399|2127919512|2148874286|2149376713|2157936671|2167943285|2170575039
+
+
+id:1967504065
+title:Feedback considered beneficial: Exploring frequency diversity in full-duplex rateless codes
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+]
+abstract:extensive|channel|multicarrier|packets|feedback|multicarrier|introduced|enable|promising|displayed|receiver|finegrained|propose|sender|timevarying|rate|subcarrier|become|achieve|code|ldpc|adaptation|duplex|rateless|current|diversity|motivated|fdr|verify|problem|domain|simulations|single|able|comparable|channels|essential|codes|data|achieves|rateless|decode|full|frequency|fixedrate|throughput|communication|results|conducted|system|technologies|take|especially|techniques|fixed|higher|leverage|code|critical|paradigm|show|effective|rate|exposes|design|achievable|every|degrade|aims|advantage|transmit|spinal|condition|wireless
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Online codes|Diversity scheme|Code rate|Low-density parity-check code|Computer science|Computer network|Real-time computing|Decoding methods|Throughput|Orthogonal frequency-division multiplexing|Duplex (telecommunications)
+references:1991133427|2000265596|2014741474|2045099270|2122361019|2128938148|2139252928|2147749157
+
+
+id:1970147888
+title:FC-MAC: Fine-grained cognitive MAC for wireless video streaming
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Xi’an University of Technology
+author id:2584397649|
+author name:Jiang Xiao
+author organization:Hong Kong Universityof Science and Tech
+author id:2242071732|
+author name:Xiaoke Qi
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2254069910|
+author name:Kaishun Wu
+author organization:Hong Kong University of Science and
+author id:2152760828|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+]
+abstract:splits|usage|anchored|channel|fcmac|type|different|poor|diverse|fully|utilized|efficiency|researchers|satisfied|fcmac|layer|finegrained|propose|dynamically|mac|experience|multiplexing|domain|networks|endure|dividing|numerous|finegrained|streaming|motivated|low|gain|verify|compared|qoe|bandwidth|one|combines|domain|simulations|single|extensive|massive|requirements|achieves|mainly|frequency|high|coarse|adjusting|protocols|different|results|selected|others|traffic|needs|cater|hybrid|traffics|instead|qoe|according|show|video|network|quality|cognitive|ensures|effectiveness|amount|cost|multiple|resources|increase|existing|performance|conduct|due|various|growth|wireless|time
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Wireless network|Network allocation vector|Diversity scheme|Computer science|Computer network|Communication channel|Real-time computing|Bandwidth (signal processing)|Wireless ad hoc network|Multiplexing|Wireless sensor network
+references:1994770732|2014758824|2027809943|2035111035|2036673818|2045487859|2070753784|2084790180|2092133071|2106749358|2112030268|2114696178|2138742533|2144912138|2156317783|2157257850|2159013099|2165677640|2171375393
+
+
+id:1986044926
+title:Harnessing Frequency Domain for Cooperative Sensing and Multi-channel Contention in CRAHNs
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Shenzhen University. He is also with the Department of Computer Science and Engineering
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Shenzhen University. He is also with Guangzhou HKUST Fok Ying Tung Research Institute
+author id:2152760828|
+author name:Jiang Xiao
+author organization:Hong Kong Universityof Science and Tech
+author id:2242071732|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+]
+abstract:extensive|networks|multichannel|underutilized|simulation|users|without|leveraging|spatial|advantages|hoc|promising|cooperation|reduce|based|made|overhead|distributed|contention|accurately|propose|mac|cooperative|fcm|cognitive|spectrum|explored|domain|networks|compromised|multichannel|average|access|ad|overhead|gain|lot|current|known|motivated|decisions|division|policy|licensed|caused|opportunistically|radio|domain|reduced|fast|frequency|traditional|emerges|novel|ofdm|modulation|diversity|used|radio|frequency|shows|dramatically|vacate|throughput|communication|results|guaranteed|ensure|resource|users|contributes|especially|proposed|improve|crahns|fixed|termed|unlicensed|interfering|show|cognitive|allows|sensing|identify|assignment|cooperative|effectively|also|control|performance|moves|time|significantly
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Time domain|Frequency domain|Antenna diversity|Communications system|Computer network|Wireless ad hoc network|Throughput|Mathematics|Orthogonal frequency-division multiplexing|Cognitive radio
+references:1977603756|1998360044|2010780779|2026498914|2030383547|2041361017|2065321019|2082206354|2090979256|2098369329|2099771848|2106673869|2109927551|2112475405|2113136037|2128938148|2130578220|2131997203|2144369278|2150397642|2153369679|2157313704|2171375393
+
+
+id:1995707779
+title:Attachment-Learning for Multi-Channel Allocation in Distributed OFDMA-Based Networks
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Xi’an University of Technology
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Sun Yat-sen University
+author id:2152760828|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+author name:Lionel M. Ni
+author organization:Hong Kong University of Science and Technology
+author id:2135854099|
+]
+abstract:multichannel|collisions|channel|experimental|approach|without|narrow|band|recent|order|based|identifier|efficiency|method|researchers|distributed|stations|finegrained|propose|utilizes|ever|traditional|cancellation|rely|broadband|networks|become|degrades|dividing|access|methods|achieve|concurrent|transmission|layer|cope|current|motivated|low|costly|attach|popular|performance|density|efficient|learn|jamming|aloha|degrading|help|calls|slotted|atlearning|wireless|proposing|separate|data|attachment|subchannels|transmissions|learning|high|throughput|results|like|comparing|signals|especially|provision|improve|know|demonstrate|termed|higher|technique|learning|network|effective|ofdma|tdmalike|allocation|cost|original|multiple|cross|mobile|transmit|technology|exactly|devices|conduct|wireless|strategy|significantly|comprehensive
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Wireless|Access method|Aloha|Data transmission|Computer network|Communication channel|Throughput|Channel allocation schemes|Mathematics|Network performance
+references:1630733292|2015729019|2044272911|2088275492|2095698227|2100183482|2100925062|2106353923|2106749358|2109927551|2112475405|2115467602|2125716579|2137817104|2142804239|2156508494
+
+
+id:2022464686
+title:FCM: Frequency domain Cooperative sensing and Multi-channel contention for CRAHNs
+year:2012
+author information:[
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Hong Kong University of Science and
+author id:2152760828|
+author name:Jiang Xiao
+author organization:Hong Kong Universityof Science and Tech
+author id:2242071732|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+]
+abstract:extensive|multichannel|simulation|users|without|leveraging|spatial|promising|cooperation|reduce|overhead|distributed|contention|propose|mac|cooperative|fcm|cognitive|spectrum|domain|networks|compromised|multichannel|average|access|overhead|gain|motivated|decisions|performance|licensed|caused|opportunistically|radio|domain|frequency|traditional|policy|novel|diversity|used|radio|frequency|shown|dramatically|throughput|results|resource|users|becomes|especially|exploited|improve|crahns|fixed|termed|unlicensed|show|allows|sensing|underutilized|assignment|cooperative|effectively|also|control|performance|moves|time|reducing|significantly
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Time domain|Frequency domain|Antenna diversity|Computer science|Computer network|Multi channel|Throughput|Radio spectrum|Cognitive radio
+references:2026498914|2082206354|2090979256|2099771848|2106673869|2112475405|2122361019|2128938148|2130578220|2144369278|2150397642|2171375393
+
+
+id:2026498914
+title:HJam: Attachment transmission in WLANs
+year:2012
+author information:[
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+author name:Haochao Li
+author organization:Hong Kong University of Sci.  Technol
+author id:2110888141|
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Youwen Yi
+author organization:Hong Kong University of Sci.  Technol
+author id:2148051117|
+author name:Yunhuai Liu
+author organization:Third Res. Institute of Minist. of Public Security, China
+author id:2311587066|
+author name:Dihu Chen
+author organization:Sun Yat-sen University
+author id:2567436337|
+author name:Xiaonan Luo
+author organization:Sun Yat–sen University
+author id:2703892596|
+author name:Qian Zhang
+author organization:KunMing University Of Sci.  Technol
+author id:2482558687|
+author name:Lionel M. Ni
+author organization:Hong Kong University of Sci.  Technol
+author id:2135854099|
+]
+abstract:called|together|channel|experimental|transmitted|packets|improved|number|protocols|model|wlans|fully|reduce|efficiency|thus|frames|method|utilization|packet|propose|traditional|messages|simultaneously|deal|overhead|explores|consequently|consume|transmission|networks|local|layer|gnu|eight|compared|resources|collisions|one|alternate|radio|great|competes|effective|attacheda|simulations|consisting|data|ofdm|modulation|ofdmbased|coordination|radio|features|transmission|brings|implemented|testbed|dramatically|implement|communication|nodes|results|significantly|traffic|area|needs|new|resource|multistation|improve|interference|hjam|idea|show|percent|physical|allows|coordination|limited|control|also|existing|conduct|wireless|avoid|family|comprehensive
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Wireless network|Wireless|Data transmission|Computer science|Network packet|Computer network|Models of communication|Physical layer|Orthogonal frequency-division multiplexing|Bit error rate|Distributed computing
+references:1532066134|1590475735|1693562991|1969441826|2000265596|2014741474|2060091088|2103331800|2112475405|2118921653|2122361019|2125562505|2126634698|2135861020|2137997002|2140577326|2142804239|2150669336|2152496949|2159047152|2168272171|2171375393
+
+
+id:2036673818
+title:FIMD: Fine-grained Device-free Motion Detection
+year:2012
+author information:[
+author name:Jiang Xiao
+author organization:Huazhong University of Sci.  Technol
+author id:2242071732|
+author name:Kaishun Wu
+author organization:Hong Kong University of Sci.  Technol
+author id:2152760828|
+author name:Youwen Yi
+author organization:Hong Kong University of Sci.  Technol
+author id:2148051117|
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Lionel M. Ni
+author organization:Hong Kong University of Sci.  Technol
+author id:2135854099|
+]
+abstract:measured|accuracy|extracted|without|identification|interference|easily|temporal|based|using|robustness|dbscan|received|schemes|monitoring|insight|suspectable|rss|system|provide|rely|indoor|place|algorithm|rate|detection|evaluate|environment|achieve|explores|overcome|two|measurement|layer|feature|motivated|actively|takes|wlanenabled|densitybased|enables|phy|maintains|motion|detection|set|change|filter|accuracy|entities|able|preceding|infrastructures|narrowband|novel|seeks|acceptable|commercial|strength|ofdm|data|diversity|frequency|features|high|continuous|implement|signal|scenarios|results|stability|ieee|area|static|including|experiment|channel|patterns|conducted|comparing|system|nics|fusion|interest|state|effect|rssbased|fimd|position|burst|present|indoor|carrying|installed|devicefree|leverage|multipath|show|exhibits|outliers|information|devicefree|limitation|alert|csi|physical|designed|enhance|normal|motion|verified|false|rich|monitor|wlan|although|passive|devices|dfp|better|performance|due|typical|wireless|uses|properties
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Diversity scheme|Motion detection|Computer science|Real-time computing|Robustness (computer science)|Sensor fusion|Physical layer|RSS|Orthogonal frequency-division multiplexing|Channel state information
+references:1673310716|2005059864|2027809943|2097427314|2101072217|2123541927|2125431326|2126300356|2150489619|2155908301|2157291767|2164692160|2166735779|2168649468
+
+
+id:2063835244
+title:Attached-RTS: Eliminating an Exposed Terminal Problem in Wireless Networks
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Sun Yat-sen University
+author id:2152760828|
+author name:M. Hamdi
+author organization:University of
+author id:2106882824|
+]
+abstract:reason|accurate|channel|experimental|without|number|costefficient|armac|transmitting|leveraging|promising|attachedrts|ad|sense|propose|terminals|mac|feasibility|traffic|sender|utilize|analyze|networks|evaluate|hoc|status|conservative|access|packet|concurrent|kinds|transmission|two|gnu|coding|low|verify|based|minimize|performance|collisions|radio|simulations|degrading|transmissions|extensive|sides|cannot|information|exploit|novel|data|achieves|attachment|transmissions|transmission|time|theoretically|testbed|implement|throughput|protocols|potential|results|always|obtain|like|cost|real|leveraging|dense|signals|improve|attachedrts|attached|overall|try|allow|rough|additional|show|deployed|media|percent|effective|provides|exposed|original|identify|multiple|transmit|control|also|way|nodes|carrier|nodes|performance|although|conduct|wireless|avoid|harmless|strategy|existing
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Wireless network|Media access control|Exposed node problem|Computer science|Network packet|Testbed|Computer network|Communication channel|Wireless ad hoc network|Throughput|Distributed computing
+references:1504262850|1517466511|1983763921|2015024770|2026498914|2060409514|2097249059|2103331800|2111698438|2122361019|2126085601|2140577326|2142449931|2142804239|2152496949|2153211299|2155416924|2162324807|2168821867|2171375393
+
+
+id:2071824593
+title:Wireless Rate Adaptation via Smart Pilot
+year:2014
+author information:[
+author name:Lu Wang
+author organization:University of Science and Technology of China
+author id:2584397649|
+author name:Xiaoke Qi
+author organization:University of Chinese Academy of Science
+author id:2254069910|
+author name:Jiang Xiao
+author organization:Hong Kong Universityof Science and Tech
+author id:2242071732|
+author name:Kaishun Wu
+author organization:Hong Kong University of Science and
+author id:2152760828|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+author name:Qian Zhang
+author organization:Hong Kong University of Science and Technology China
+author id:2482558687|
+]
+abstract:pilot|optimal|simulation|upper|quickly|channel|adaptation|calibrated|approach|adaptively|maximize|estimate|algorithm|rate|hints|investigating|propose|system|selection|driven|throughput|rate|stems|algorithms|fluctuated|overhead|experiments|comes|layer|smart|gnu|across|reduces|ability|based|estimating|phy|wisdoms|one|domain|soft|smart|help|component|calibrate|information|minimum|novel|essential|bed|data|residual|good|observe|frequency|radio|protocol|greedy|pilots|test|channel|insufficient|decoder|solely|predicts|difficulty|exploited|state|effect|leverage|show|link|reveals|remove|trace|rate|csi|track|information|standards|subcarriers|tracks|channel|obtains|harness|previous|wireless|time
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Wireless|Computer science|Selection algorithm|Computer network|Communication channel|Real-time computing|Physical layer|Throughput|PHY|Channel capacity|Channel state information
+references:2010780779|2026498914|2045487859|2080574804|2084790180|2104933959|2139252928|2147749157|2161822490|2168821867
+
+
+id:2087370647
+title:Attachment Learning for Multi-channel Allocation in Distributed OFDMA Networks
+year:2011
+author information:[
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Hong Kong University of Sci.  Technol
+author id:2152760828|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+author name:Lionel M. Ni
+author organization:Hong Kong University of Sci.  Technol
+author id:2135854099|
+]
+abstract:collisions|called|channel|experimental|without|gained|recent|based|identifier|multichannel|method|distributed|stations|finegrained|propose|utilizes|resulting|traditional|provide|rely|broadband|asks|networks|dividing|sub|access|methods|achieve|concurrent|layer|current|desired|motivated|popularity|division|attach|deployment|compared|performance|efficient|learn|jamming|learning|simulations|help|calls|frequency|randomly|channels|atlearning|wireless|separate|data|attachment|tremendous|transmissions|learning|throughput|results|dense|technologies|signals|especially|channels|improve|know|show|technique|learning|choose|design|ofdma|tdmalike|degrade|allocation|multiple|multiple|cross|mobile|transmit|costy|exactly|devices|conduct|wireless|strategy|significantly|comprehensive
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Mobile radio|Access method|Computer science|Orthogonal frequency-division multiple access|Computer network|Communication channel|Frequency-division multiple access|Time division multiple access|Channel allocation schemes|Orthogonal frequency-division multiplexing|Distributed computing
+references:1630733292|2000265596|2001359669|2013770792|2014741474|2044272911|2088275492|2090743253|2106353923|2106749358|2109927551|2112475405|2118921653|2118995842|2140577326|2154596591|2156508494
+
+
+id:2099771848
+title:FAST: Realizing what your neighbors are doing
+year:2012
+author information:[
+author name:Lu Wang
+author organization:Xi’an University of Technology
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Hong Kong University of Science and
+author id:2152760828|
+author name:Pengfei Chang
+author organization:Nankai University
+author id:2310686790|
+author name:Mounir Hamdi
+author organization:Hong Kong University of Sci.  Technol
+author id:2106882824|
+]
+abstract:extensive|reason|csmalike|accurate|simulation|improves|evaluation|costefficient|problem|coding|cui|transmitting|hidden|csma|successfully|thus|mac|system|provide|utilize|networks|currently|average|fact|layer|sense|receiving|low|phy|usage|cannot|fast|attachment|main|adhoc|protocol|time|throughput|problems|results|obtain|cost|channel|includes|real|solve|know|neighborhood|hidden|costeffective|show|information|paper|exposed|lies|cost|practical|identify|cross|terminal|exactly|obtains|nodes|well|presents
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Exposed node problem|Computer science|Computer network|Communication channel|Coding (social sciences)|Physical layer|Throughput|Wireless ad hoc network|Hidden node problem|Encoding (memory)
+references:1517466511|2014741474|2026498914|2097249059|2103331800|2122361019|2126085601|2128938148|2171375393
+
+
+id:2157257850
+title:Combating Hidden and Exposed Terminal Problems in Wireless Networks
+year:2012
+author information:[
+author name:Lu Wang
+author organization:Huazhong University of Sci.  Technol
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Hong Kong University of Sci.  Technol
+author id:2152760828|
+author name:M. Hamdi
+author organization:University of
+author id:2106882824|
+]
+abstract:reason|csmalike|transmits|accurate|access|experimental|without|costefficient|problem|poor|cui|transmitting|csma|propose|utilizes|mac|opportunities|feasibility|contains|analyze|networks|evaluate|valuable|wasting|average|fact|fundamental|networks|two|layer|sense|gnu|eight|receiving|known|low|phy|usage|radio|simulations|degrading|consisting|extensive|cannot|information|fast|data|attachment|research|adhoc|transmission|time|theoretically|testbed|implement|throughput|carrier|protocols|results|nodes|obtain|cost|channel|conducted|real|improve|solve|problems|hidden|additional|show|information|effective|exposed|lies|degrade|multiple|original|practical|identify|effectively|collision|cross|control|also|terminal|performance|nodes|conduct|due|independently|wireless|avoidance
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Wireless network|Exposed node problem|Wireless|Computer network|Physical layer|Throughput|Wireless ad hoc network|Hidden node problem|Carrier sense multiple access with collision avoidance|Mathematics
+references:1517466511|1541597266|1971982198|2000265596|2026498914|2030383547|2082206354|2097249059|2097631186|2103331800|2109927551|2126085601|2128938148|2137465094|2140124754|2142804239|2152496949|2153211299|2156508494|2171375393
+
+
+id:2324263285
+title:Exploring Smart Pilot for Wireless Rate Adaptation
+year:2016
+author information:[
+author name:Lu Wang
+author organization:College of Computer Science and Software Engineering, Shenzhen Univeirsty, Shenzhen, China
+author id:2584397649|
+author name:Xiaoke Qi
+author organization:Chinese Academy of sciences, Institute of Acoustics, Beijing, China
+author id:2254069910|
+author name:Jiang Xiao
+author organization:Hong Kong Universityof Science and Tech
+author id:2242071732|
+author name:Kaishun Wu
+author organization:College of Computer Science and Software Engineering, Shenzhen Univeirsty, Shenzhen, China
+author id:2152760828|
+author name:Mounir Hamdi
+author organization:Hamad Bin Khalifa University
+author id:2106882824|
+author name:Qian Zhang
+author organization:Hong Kong Universityof Science and Tech
+author id:2482558687|
+]
+abstract:reason|optimal|simulation|upper|quickly|channel|adaptation|accuracy|calibrated|approach|maximize|costefficient|reliable|experiencing|estimate|mimo|state|exploited|algorithm|successfully|rate|impact|bits|packet|propose|costefficiently|estimation|selection|softphy|driven|throughput|metrics|algorithms|fluctuated|systems|fact|experiments|layer|smart|capacity|gnu|inserted|varying|based|measurements|phy|wisdoms|digging|subcarriers|great|help|component|preknown|calibrate|information|measurements|novel|essential|data|rapid|remains|used|good|observe|frequency|radio|protocol|high|testbed|greedy|including|like|level|avoids|roots|decoder|fading|predicts|estimation|concern|improve|inaccurate|termed|leverage|deep|legacy|show|link|reveals|symbols|trace|rate|smartpilot|track|selective|confidence|standards|enough|tracks|previous|wireless|time
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Link adaptation|Fading|MIMO|Computer network|Communication channel|Real-time computing|Throughput|Channel capacity|Mathematics|Precoding|Channel state information
+references:1570163350|1986044926|2056254568|2071824593|2080152885|2097049511|2104933959|2106749358|2110981381|2141273556|2147247116|2147749157|2161822490|2168821867|2294963990
+
+
+id:2501822910
+title:From rateless to sampleless: Wi-Fi connectivity made energy efficient
+year:2016
+author information:[
+author name:Wei Wang
+author organization:Anhui University of Science and Technology
+author id:2635133293|
+author name:Yingjie Chen
+author organization:Hong Kong University of Science  Technology
+author id:2112479681|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Qian Zhang
+author organization:University of Technology
+author id:2482558687|
+]
+abstract:sampleless|shift|channel|stateoftheart|packets|without|evaluation|compatible|constellation|advances|leveraging|energy|using|devices|sampling|packet|propose|decoding|receivers|workloads|inefficient|requires|overcome|smart|layer|rateless|gain|diversity|era|disparity|inspired|redundancy|demonstrated|emerging|modifications|modifying|set|wifi|exploiting|bandwidthhungry|conditions|ratio|standard|codes|high|solution|regardless|new|traces|real|becomes|effect|undersampled|creates|support|legacy|scale|technique|platform|lowend|recent|recovers|rate|applications|physical|allows|harvest|signaltonoise|retransmissions|rates|downclocking|increase|postpc|outperforms|efficiency|performance|time|energyconstrained|significantly|accumulating
+venue name:IEEE International Conference Computer and Communications
+venue id:2898298985
+venue type:C
+document type:Conference
+study fields:Diversity gain|Efficient energy use|Computer science|Network packet|Computer network|Communication channel|Real-time computing|Physical layer|Redundancy (engineering)|Decoding methods|PHY
+references:1547110121|1972643835|1997325984|2013431023|2020240447|2044215260|2044993311|2045099270|2083957762|2104933959|2107625832|2124421477|2138961375|2144609843|2149721097|2166760478|2167330318|2167521087|2293181060|2296125569
+
+
+id:2506206150
+title:Embracing adjacent channel interference in next generation Wi-Fi networks
+year:2016
+author information:[
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Xiaoke Qi
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2254069910|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:tries|neglects|introduces|interrandom|channel|access|randomization|ever|strategically|randomize|wider|thus|carefully|probability|work|way|propose|mac|feasibility|insight|prior|utilize|partial|simultaneous|pattern|transmission|layer|gnu|gain|increases|coding|verify|redundancy|key|compared|wifi|proliferation|aci|interrandomenabled|widths|data|simulations|meet|achieves|interrandomaware|radio|mode|growing|either|protocol|incorporated|emerging|throughput|corrupted|tracedriven|media|bruteforce|interference|demonstrate|behind|facilitate|legacy|according|show|investigate|control|physical|effectiveness|recover|adjacent|standards|testbed|infrastructure|harness|wireless|avoid|services|overlapped
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Media access control|Computer science|Adjacent-channel interference|Computer network|Communication channel|Physical layer|Interference (wave propagation)|Decoding methods|PHY|Throughput
+references:1972306148|2085747276|2112475405|2114426947|2145001281|2152421030
+
+
+id:2580569518
+title:Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications
+year:2017
+author information:[
+author name:Wei Wang
+author organization:Wuhan University
+author id:2635133293|
+author name:Yingjie Chen
+author organization:Hong Kong University of Science  Technology
+author id:2112479681|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Qian Zhang
+author organization:University of Technology
+author id:2482558687|
+]
+abstract:sampleless|shift|channel|stateoftheart|packets|without|evaluation|compatible|constellation|advances|leveraging|energy|using|devices|sampling|packet|propose|decoding|receivers|workloads|inefficient|requires|overcome|smart|rateless|gain|diversity|era|disparity|inspired|redundancy|demonstrated|emerging|modifications|modifying|set|wifi|exploiting|bandwidthhungry|conditions|standard|codes|high|solution|ratio|regardless|new|traces|real|becomes|effect|undersampled|creates|support|legacy|scale|technique|platform|lowend|recent|recovers|rate|applications|physical|allows|harvest|signaltonoise|retransmissions|rates|downclocking|increase|postpc|outperforms|efficiency|performance|time|energyconstrained|significantly|accumulating
+venue name:IEEE ACM Transactions on Networking
+venue id:62238642
+venue type:J
+document type:Journal
+study fields:Diversity gain|Efficient energy use|Computer science|Network packet|Computer network|Communication channel|Real-time computing|Redundancy (engineering)|Physical layer|Decoding methods|Orthogonal frequency-division multiplexing
+references:1547110121|1972643835|2013431023|2020240447|2044993311|2045099270|2047932983|2083896716|2104933959|2107625832|2124421477|2138961375|2144609843|2166760478|2167330318|2167521087|2296125569|2319274405|2331296666
+
+
+id:2740398210
+title:FLoc: Device-free passive indoor localization in complex environments
+year:2017
+author information:[
+author name:Wenqiang Chen
+author organization:Shenzhen University
+author id:2739505106|
+author name:Maoning Guan
+author organization:Shenzhen University
+author id:2741264548|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:localization|meter|sized|obstacles|seismic|accuracy|experimental|three|signalbased|complex|easily|pi|floc|environmental|thus|positioning|impact|module|geophones|propose|rf|indoor|floc|broadcast|achieve|creditcard|experiments|transmission|footsteps|computer|composed|motivated|scenario|noise|verify|obstacles|detection|namely|extensive|accuracy|leverages|techniques|environments|challenging|observe|high|implement|different|signal|results|area|demonstrates|localiztion|acoustic|affected|square|footstep|oriented|devicefree|equipped|singleboard|remove|task|localization|collects|fight|effectiveness|sensing|outperform|recover|nature|clean|passive|via|existing|environment|conduct|due|raspberry|suitable
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Broadcasting|Geophone|Computer science|Signal-to-noise ratio|Real-time computing|Radio frequency|Localization system|Wireless ad hoc network|Vibration|Environmental noise
+references:2005059864|2014758824|2044846595|2067685656|2075668855|2128190945|2509382177
+
+
+id:2741424855
+title:Wi-fire: Device-free fire detection using WiFi networks
+year:2017
+author information:[
+author name:Shuxin Zhong
+author organization:Shenzhen University
+author id:2741989720|
+author name:Yongzhi Huang
+author organization:Shenzhen University
+author id:2742058125|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Yu-Xuan Qiu
+author organization:Shenzhen University
+author id:2739817188|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:increasingly|nowadays|accuracy|scenarios|attempt|without|number|conflagration|property|context|action|fire|events|phase|resultant|using|disasters|work|monitoring|propose|symptom|system|works|activity|ahead|experiments|firerelated|consequently|global|networks|amplitude|motivated|trainingbased|taken|verify|based|computers|device|detection|one|namely|extent|many|great|increasing|fire|requiring|threatens|wifi|prevalent|leverages|comprehensive|first|commercial|environments|use|available|several|detectors|used|alleviate|radio|frequency|average|transmission|major|solution|find|implement|different|signal|results|channel|conducted|system|signals|proposed|state|keep|detecting|problems|devicefree|cards|purpose|equipped|additional|proper|detect|best|information|interface|life|network|conflagration|effective|desktop|influences|csi|human|make|effectiveness|previous|affects|although|devices|existing|environment|infrastructure|wireless
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Wireless|Activity recognition|Computer science|Computer network|Real-time computing|Wireless sensor network|Fire detection|Detector|Channel state information|The Internet|Network interface
+references:2010882865|2033992038|2089695767|2095396347|2128190945|2157257850|2324263285|2338892592|2340862004|2344757691|2507908806
+
+
+id:2774912636
+title:Narrowband Internet of Things: Evolution
+year:2018
+author information:[
+author name:Jun Xu
+author organization:Shenzhen University
+author id:2772341755|
+author name:Junmei Yao
+author organization:Shenzhen University
+author id:2898941023|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Zhong Ming
+author organization:Shenzhen University
+author id:2655806706|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+author name:Lei Chen
+author organization:University of Science and Technology
+author id:2318776917|
+]
+abstract:explosive|reuse|application|leading|helping|scenarios|type|narrowband|broad|understanding|exhibit|promising|generation|still|goal|devices|timetomarket|overcome|working|coexist|toward|delay|cellular|requires|coverage|achieve|endows|hasten|deliver|global|accelerating|battery|long|lot|low|spanning|installation|evolution|power|minimizing|emerging|product|licensed|outstanding|one|holistic|cheap|lpwa|massive|advantages|partner|regarded|machine|extensively|market|comparing|humancentric|use|project|threshold|occasional|research|frequency|spur|life|communication|totally|different|newest|combination|internetofthings|area|new|need|solutions|term|landscape|technologies|long|lte|sustain|deep|legacy|challenges|surveys|iot|network|paper|design|prosperity|connection|designed|cost|wide|implementation|specification|also|technologies|ratified|terminal|enough|decreasing|super|existing|performance|third|growth|objectives|wireless|nbiot|demands
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Prosperity|Narrowband|Reuse|Computer science|Internet of Things|Computer network|NarrowBand IOT|Cellular network|Throughput|Telecommunications link
+references:1496858976|2014741474|2026498914|2027563534|2122361019|2128190945|2131489444|2322989609|2324263285|2338892592|2342418099|2435739840|2461492330|2508611559|2552804020|2562244919|2565270582|2566392544|2586903650|2589005523|2602716155|2602857236|2605378127|2610823049|2613040410|2624678903|2625669876|2663542053|2725799216|2731563204|2733277148|2735226780|2741981612|2747219950|2755207117|2762121670|2765310706|2962691290|2964260754
+
+
+id:2792005484
+title:Virtual Keyboard for Wearable Wristbands
+year:2017
+author information:[
+author name:Wenqiang Chen
+author organization:Shenzhen University
+author id:2739505106|
+author name:Yanming Lian
+author organization:Shenzhen University
+author id:2790368516|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Wen Hu
+author organization:New South Wales University
+author id:2171426023|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:small|hands|keystrokes|use|ikey|body|via|screen|poor|locationbased|model|text|demo|based|wearable|devices|typically|touch|develop|real|easy|users|lack|input|tiny|recognizes|carry|demonstrate|support|termed|iwatch|virtual|functional|back|training|availability|wristbands|instant|feature|enables|experience|keyboard|address|vibration|one|message|prototype|apple|interaction|time|novel
+venue name:International Conference on Embedded Networked Sensor Systems
+venue id:1138550902
+venue type:C
+document type:Conference
+study fields:Text message|Computer science|Wearable computer|Real-time computing|Human–computer interaction|Virtual keyboard|Wearable technology
+references:2048673468|2113242816|2169709590|2394945029|2525860450
+
+
+id:2810135546
+title:ViType: A Cost Efficient On-Body Typing System through Vibration
+year:2018
+author information:[
+author name:Wenqiang Chen
+author organization:Shenzhen University
+author id:2739505106|
+author name:Maoning Guan
+author organization:Shenzhen University
+author id:2741264548|
+author name:Yandao Huang
+author organization:Shenzhen University
+author id:2810643234|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Wen Hu
+author organization:New South Wales University
+author id:2171426023|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:prevailing|extensive|reach|interactive|accuracy|adaptation|stateoftheart|introduced|poor|vitype|temporal|wearable|using|surface|devices|sampling|lower|portable|subjects|extend|input|system|size|appropriating|turning|much|become|average|works|scheme|achieve|experiments|smart|firstly|calibration|set|robust|break|efficient|initial|textentry|one|instability|sample|single|information|leverages|novel|small|confounding|wristbands|recognition|body|vibration|high|enlarge|results|portable|including|energyconsuming|typically|practice|touch|runtime|conducted|less|system|proposed|typing|sensor|designs|demonstrate|termed|higher|neural|yet|update|training|input|error|around|network|factors|times|factor|human|fight|enhance|experience|onbody|process|cost|practical|recover|limited|multiple|rates|artificial|sensors|form|due|various|user|month
+venue name:Sensor, Mesh and Ad Hoc Communications and Networks
+venue id:1134706482
+venue type:C
+document type:Conference
+study fields:Small form factor|Intelligent sensor|Computer science|Sampling (signal processing)|Real-time computing|Sampling (statistics)|Artificial neural network|Wearable technology|Sample size determination|Cost efficiency|Distributed computing
+references:1790625550|1983623559|1998246765|2055344768|2131740967|2146711757|2169709590|2322989609|2324263285|2338892592|2394945029|2402069821|2525860450|2659063397|2730482441|2762121670|2785650693
+
+
+id:2831608248
+title:On Exploiting Concurrent Transmissions Through Discernible Interference Cancellation
+year:2018
+author information:[
+author name:Junmei Yao
+author organization:Shenzhen University
+author id:2493737450|
+author name:Wei Lou
+author organization:Department of Computing The Hong Kong Polytechnic University Kowloon Hong Kong
+author id:2125966030|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:stateoftheart|maximize|protocols|ongoing|experiment|discernible|icmr|validation|transmitter|give|based|successfully|receiver|frames|opportunity|analysis|feasibility|side|cancellation|analyze|observations|formulate|concurrent|focuses|confirmed|layer|indicate|mechanism|demonstrated|irma|side|one|exploiting|opportunities|simulations|degrading|novel|standard|reveal|data|theoretical|frames|transmissions|protocol|transmission|throughput|protocols|results|waste|new|comparing|collided|achieving|proposed|improve|interference|frame|higher|link|detect|around|network|represents|paper|dramatically|physical|reception|cross|control|improvement|performance|nodes|wireless|feasibility|avoid
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Transmitter|Wireless network|Computer science|Single antenna interference cancellation|Computer network|Physical layer|Frame (networking)|Cross layer protocol|Interference (wave propagation)|Throughput
+references:1517466511|1541597266|1548749974|1579948591|2015362773|2022488305|2023496976|2040970614|2048549297|2055284621|2063835244|2103331800|2109927551|2119990492|2128356550|2128938148|2145417574|2155416924|2157257850|2162173698|2355712010|2638058358|2762121670|2774912636|2963835875
+
+
+id:2884527355
+title:A cost-effective low-latency overlaid torus-based data center network architecture
+year:2018
+author information:[
+author name:Ting Wang
+author organization:Hong Kong University of Sci.  Technol
+author id:2301044723|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Mounir Hamdi
+author organization:Hamad Bin Khalifa University
+author id:2106882824|
+]
+abstract:named|smaller|switches|clot|number|path|largely|locality|flow|algorithm|based|topology|lower|way|analysis||pow|average|geographical|bisection|prove|achieve|networks|layer|increases|routing|malfunction|mechanism|close|architecture|compared|deployment|performance|detection|camcube|address|bandwidth|abstract|maximum|shortens|novel|mathematical|addresses|data|theoretical|network|adding|hierarchical|sufficient|switchless|communication|credit|tolerance|torus|coordinate|ideal|cost|forming|guaranteed|significant|proposed|proximity|beneficial|helps|present|higher|implements|facilitate|configuration|configuration|provided|show|proper|network|lowend|servers|coupled|extra|designed|built|recently|implementation|center|length|fault|automatic|efficiency|better|performance|conventional|infrastructure|well|specially|derivation|delivers|reduction
+venue name:Computer Communications
+venue id:115004586
+venue type:J
+document type:Journal
+study fields:Grid network|Computer science|Server|Network architecture|Computer network|Fault tolerance|Bisection bandwidth|Flow control (data)|Latency (engineering)|Throughput
+references:1485902897|1592861501|1965619070|1987117608|1988294273|1995597621|2036109230|2049459394|2062898175|2063440615|2091332674|2099283075|2099952176|2110240108|2114053923|2114497163|2126210439|2130531694|2143065961|2153515436|2155585398|2174784067
+
+
+id:2892629996
+title:iCast: Fine-Grained Wireless Video Streaming Over Internet of Intelligent Vehicles
+year:2019
+author information:[
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Hailiang Yang
+author organization:Shenzhen University
+author id:2894486347|
+author name:Xiaoke Qi
+author organization:China University of Political Science and Law
+author id:2895387738|
+author name:Jun Xu
+author organization:Shenzhen University
+author id:2772341755|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:channel|delivered|years|source|realtime|connection|inability|grow|devices|things|schemes|finegrained|substantial|propose|decoding|insight|environments|provide|among|networks|subcarrier|competitive|vehicular|pervasive|intelligently|coarsegrained|appropriate|steep|achieve|code|automatically|experiments|protection|rateless|diversity|streaming|conjunction|variations|poses|db|witnessed|reaps|break|namely|occurs|multimedia|inbuilt|channels|joint|data|intermittent|achieves|simple|timefrequency|experience|frequency|codecs|generated|time|ratio|connectivity|traffic|level|hurdle|unpredictable|harnessing|often|real|icast|volume|immediate|internet|higher|frame|benefits|challenges|approaching|show|vehicles|video|surroundings|iot|network|recent|sourcechannel|rate|multimediaoriented|lies|highly|delivery|signaltonoise|mobile|huge|peak|outperforms|existing|nodes|wireless|suitable
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Diversity scheme|Wireless|Computer science|Node (networking)|Computer network|Wireless ad hoc network|Wireless sensor network|Codec|Vehicular ad hoc network|The Internet
+references:1606035500|1611674276|1990436926|1994930326|2040970614|2045099270|2079321815|2104933959|2106202640|2106749358|2116295973|2127517865|2139252928|2147749157|2293000460|2293181060|2296125569|2324263285|2364314042|2415588122|2517072655|2620276187|2699159235|2739652405|2765310706|2766827306
+
+
+id:2913894142
+title:Comprehensive Study on MIMO-Related Interference Management in WLANs
+year:2019
+author information:[
+author name:Junmei Yao
+author organization:Shenzhen University
+author id:2493737450|
+author name:Jun Xu
+author organization:Shenzhen University
+author id:2772341755|
+author name:Sheng Luo
+author organization:Shenzhen University
+author id:2912182350|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Chao Yang
+author organization:Guangdong University of Technology
+author id:2633827295|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+author name:Wei Lou
+author organization:The Kong Polytechnic University
+author id:2125966030|
+]
+abstract:explosive|introduces|discussions|years|investigates|advances|persistent|wlans|recent|promising|devices|preliminaries|mac|domain|requirement|multipleinput|become|hot|smart|local|layer|capacity|current|mechanism|gives|performance|directions|single|meet|future|increasing|information|faces|adopted|first|data|findings|research|huge|throughput|potential|mechanisms|scenarios|ieee|area|interference|finally|important|collision|improving|improve|background|topic|interference|surveys|network|paper|provides|mimobased|physical|multipleoutput|mobile|standards|multiple|also|technology|evolution|mimorelated|management|due|challenge|growth|wireless|design
+venue name:IEEE Communications Surveys and Tutorials
+venue id:23688054
+venue type:J
+document type:Journal
+study fields:Collision domain|Computer science|Computer network|MIMO|Physical layer|Wi-Fi|Throughput|Mobile broadband|Orthogonal frequency-division multiplexing|Distributed computing|Network performance
+references:821227551|1505285716|1517466511|1558536318|1561759234|1569832840|1579948591|1689422833|1964963837|1973426731|1975393436|1979408141|1980134781|1989000381|1990676498|1994738996|1995562594|1996280936|2000016201|2004782593|2014318378|2014401738|2018891861|2023528256|2028077152|2029741572|2038440989|2043857019|2044982963|2045567371|2048549297|2060243821|2060695112|2077415125|2087342951|2088960600|2092544524|2100810761|2110722699|2111354882|2113692084|2119953759|2120510547|2122125652|2124137178|2128938148|2130369179|2135328009|2141114109|2144916689|2146102702|2150669336|2151949275|2152135092|2154545367|2157709134|2160030828|2165492624|2168973404|2171342189|2179504751|2181279676|2305090381|2306344802|2319937910|2327182705|2340600537|2428951329|2463693493|2466218480|2488265751|2498030751|2500726237|2504910425|2505998237|2524499899|2525590838|2525920782|2570717974|2591044355|2596235141|2604811893|2761485476|2761879201|2764053819|2764082543|2764210306|2782661389
+
+
+id:2916819880
+title:Oinput: A Bone-Conductive QWERTY Keyboard Recognition for Wearable Device
+year:2018
+author information:[
+author name:Yongzhi Huang
+author organization:Shenzhen University
+author id:2742058125|
+author name:Shaotian Cai
+author organization:Shenzhen University
+author id:2916369409|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:slightly|named|dimensionality|highprecision|accuracy|convenience|stateoftheart|oinput|bottleneck|text|hardware|order|reduce|based|wearable|devices|models|robustness|require|lowcost|propose|input|selection|even|qwerty|boneconduction|strong|brought|scheme|achieve|experiments|lives|measurement|increases|antinoise|feature|bones|power|mechanism|calibration|device|stability|set|emergence|break|great|help|lowprofile|theories|first|cyclic|small|voice|using|precision|recognition|volunteers|average|high|results|combine|sabotages|new|including|acoustic|conducted|becomes|unit|improve|daily|functionalities|preserving|leverage|critical|neural|show|simplicity|investigate|input|network|human|keyboard|characteristics|osteoacusis|consumption|inertial|layout|superior|due|stable|interaction|user
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Bottleneck|User experience design|Keyboard layout|Direct voice input|Computer science|Wearable computer|Real-time computing|Robustness (computer science)|Inertial measurement unit|Wearable technology
+references:1983623559|2055344768|2084402628|2111995343|2115042198|2169709590|2345396517|2394945029|2402790201|2525860450|2535391349|2763952103|2793527415|2810135546
+
+
+id:2917794587
+title:mm- Humidity: Fine-Grained Humidity Sensing with Millimeter Wave Signals
+year:2018
+author information:[
+author name:Qinglang Dai
+author organization:Shenzhen University
+author id:2917837421|
+author name:Yongzhi Huang
+author organization:Shenzhen University
+author id:2742058125|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:extensive|accurate|accuracy|extracting|band|scenarios|hygrometers|millimeter|via|dynamics|classifier|humidity|model|order|based|closely|environmental|large|method|bulb|impact|sensitive|finegrained|propose|wave|fail|traditional|environments|utilize|indoor|noisefree|place|interval|average|achieve|experiments|measurement|atmospheric|noise|verify|indispensable|vector|precise|relationship|compared|linear|vapor|efficient|wet|health|results|machine|wifi|exploit|certain|levels|observe|mmwave|features|faster|different|signal|mm|including|conducted|dry|especial|water|establish|system|important|offtheshelf|convenient|signals|proposed|deployment|techniques|daily|sensor|support|show|scale|technique|wave|remove|times|humidityassociated|projection|factor|human|effectiveness|sensing|subspace|bound|also|technology|existing|industrial|upon|well|wireless|oxygen|significantly
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Extremely high frequency|Computer science|Remote sensing|Humidity|Atmospheric model|Real-time computing|Detector|Water vapor|Radio propagation|Wet-bulb temperature|Hygrometer
+references:2115853370|2324263285|2340862004|2343842388|2575381922|2615358882|2741424855|2786537319|2793136019
+
+
+id:2964844492
+title:Taprint: Secure Text Input for Commodity Smart Wristbands
+year:2019
+author information:[
+author name:Wenqiang Chen
+author organization:Shenzhen University
+author id:2739505106|
+author name:Lin Chen
+author organization:ShenZhen University
+author id:2966058889|
+author name:Yandao Huang
+author organization:Shenzhen University
+author id:2810643234|
+author name:Xinyu Zhang
+author organization:University of California
+author id:2240635727|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Rukhsana Ruby
+author organization:Shenzhen University
+author id:2324725300|
+author name:Kaishun Wu
+author organization:Shenzhen University
+author id:2152760828|
+]
+abstract:extensive|functions|keystrokes|usage|refines|accuracy|ticketing|number|extremely|builds|payment|text|reliability|hardware|wearable|thus|devices|sampling|vibrometry|personal|finegrained|propose|input|taprint|reuses|even|unique|device|become|providing|access|authenticate|control|experiments|measurement|low|many|key|checking|hand|witnessed|finger|dominant|observation|namely|smart|biometrics|lowprofile|locations|hand|small|alarming|data|distinguishing|achieves|secure|vibration|features|pad|high|pin|fitness|limit|bear|computational|tapping|fill|extrapolate|users|lack|unit|extends|especially|demonstrate|leakage|virtual|back|error|security|wristband|rate|authentication|enhance|interfaces|characteristics|capabilities|practical|recently|recognition|mobile|disturbances|resources|transport|versatile|inertial|tapped|due|uniqueness|various|uses|user
+venue name:ACM/IEEE International Conference on Mobile Computing and Networking
+venue id:1123349196
+venue type:C
+document type:Conference
+study fields:Authentication|Mobile payment|Wearable computer|Computer science|Word error rate|Computer network|Human–computer interaction|Access control|Inertial measurement unit|Biometrics|Wearable technology
+references:87400274|1494784579|1978180095|1980481605|1985110735|2017658349|2022376209|2024677982|2025621754|2034364788|2036050276|2052525588|2055344768|2083358597|2097546075|2107661464|2131740967|2142943459|2148486884|2149929743|2150639461|2151373013|2161032904|2169709590|2335819971|2344613028|2345136132|2399191914|2399430481|2402069821|2503653331|2517331439|2538172027|2547701317|2575585029|2668140649|2762561030|2766717877|2771603045|2795198677|2795466100|2810135546
+
+
+id:2969877800
+title:CFlam: Cost-effective Flow Latency Monitoring System for Software Defined Networks
+year:2019
+author information:[
+author name:Zhiyang Su
+author organization:Hong Kong University of Science  Technology
+author id:2158005297|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Mounir Hamdi
+author organization:Hamad Bin Khalifa University
+author id:2106882824|
+]
+abstract:named|software|results|optimal|accurate|latencies|focus|accuracy|collected|approach|attempt|problem|sdn|defined|flow|algorithm|large|topology|active|monitoring|packet|feasibility|selection|flexible|set|systems|scheme|formulate|experiments|overhead|direct|fundamental|measurement|verify|based|enables|packets|performance|explore|efficient|revisit|plane|many|produce|flow|framework|minimum|small|probebased|cflam|generates|data|networking|mainly|observe|deploy|high|testbed|measurement|implement|generate|results|development|experiment|traces|duplicate|develop|real|latencies|task|measure|especially|infer|demonstrate|algebraic|costeffective|latency|scale|network|flows|publicavailable|center|rest|control|approaches|probe|conduct|subset|existing
+venue name:High Performance Switching and Routing
+venue id:1135265656
+venue type:C
+document type:Conference
+study fields:Latency (engineering)|Computer science|Flow (psychology)|Network packet|Testbed|Real-time computing|Network topology|Software|Software-defined networking|Data center
+references:82893651|1133796214|1543543926|1593892783|1858168446|1992056988|2062159693|2087725835|2118404561|2119704549|2136451165|2140426549|2146934567|2147118406|2168595508|2169087758|2169486379|2495052299|2531588332
+
+
+id:2972169329
+title:G-Fall: Device-free and Training-free Fall Detection with Geophones
+year:2019
+author information:[
+author name:Yandao Huang
+author organization:Shenzhen University
+author id:2810643234|
+author name:Wenqiang Chen
+author organization:Shenzhen University
+author id:2739505106|
+author name:Hongjie Chen
+author organization:Shenzhen University
+author id:2971601519|
+author name:Lu Wang
+author organization:Shenzhen University
+author id:2584397649|
+author name:Kaishun Wu
+author organization:Peng Cheng Laboratory, PCL Research Center of Networks and Communications, Shenzhen, China
+author id:2152760828|
+]
+abstract:extensive|trend|stateoftheart|users|advance|reliable|number|timedependent|leveraging|hidden|trainingfree|reduce|inevitable|based|geophones|reduced|recognize|propose|subjects|population|system|care|requires|template|achieve|experiments|guarantee|lot|fall|systems|emergent|event|detection|markov|namely|health|great|characterize|machine|able|model|assist|aging|reconfirmation|first|features|novel|small|samples|suffering|precision|achieves|recognition|recognizing|vibration|average|mode|high|brings|falls|elderly|rescue|serious|results|gfall|need|difficult|conducted|singleresided|demonstrate|devicefree|home|challenges|elderly|nearly|decompose|privacy|training|elder|assistance|precisely|rate|positioning|alarm|fall|floor|human|rescue|falling|learned|recognition|false|automatic|hmm|cumbersome|timely|energyofarrival
+venue name:Sensor, Mesh and Ad Hoc Communications and Networks
+venue id:1134706482
+venue type:C
+document type:Conference
+study fields:Population|False alarm|Geophone|Computer science|Computer network|Real-time computing|Constant false alarm rate|Hidden Markov model
+references:1560013842|1666724740|1983705368|2023756500|2028656089|2095396347|2102699948|2136132422|2153635508|2338892592|2343443030|2740398210|2756053574|2782709354|2810135546
+
+
+id:1534947624
+title:Ground moving target imaging by synthetic aperture radar based on an unified framework of keystone transformation
+year:2015
+author information:[
+author name:Lei Yang
+author organization:Nanyang Technol. University
+author id:2429154207|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:optimal|simulation|azimuth|pfa|moving|algorithm|based|method|imaged|isotropic|algorithm|obtained|simultaneously|experiments|range|distribution|targets|keystone|sargmtim|mechanism|focused|validate|polar|decoupling|accordance|kt|transformation|performed|resampling|framework|unified|responses|novel|achieves|twostep|timefrequency|dimensions|implemented|inherent|new|format|rangeazimuth|finished|imaging|proposed|tandem|ground|sar|combat|inherently|representation|point|paper|carried|multiple|target|performance|lvd|strategy|principle|presents
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Computer vision|Radar imaging|Coupling|Point target|Synthetic aperture radar|Computer science|Clutter|Decoupling (cosmology)|Azimuth|Artificial intelligence|Doppler effect
+references:2000935276|2025327910|2044149867|2075612852|2101211288|2110063971|2119644817|2124596920|2142636431
+
+
+id:1568261830
+title:Wideband DOA estimation by joint sparse representation under Bayesian learning framework
+year:2015
+author information:[
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Chunru Wan
+author organization:DSO, Singapore
+author id:2097158592|
+]
+abstract:resulted|application|joint|data|considered|tedious|entire|resolution|improved|number|problem|doa|different|spatial|tuning|method|compared|need|bayesian|reduced|received|real|estimation|angular|signals|directions|proposed|sparse|spectrum|datadriven|reformulates|experiments|aliasing|framework|strong|fact|increased|occupy|arrival|frequently|show|sparsity|learning|sonar|bands|targets|exploits|paper|validated|parameter|share|direction|process|practical|spectrum|domain|occurring|noted|advantages|performance|conventional|due|delaysum|wideband|comparing
+venue name:International Conference on Digital Signal Processing
+venue id:2623002688
+venue type:C
+document type:Conference
+study fields:Computer vision|Wideband|Bayesian inference|Pattern recognition|Direction of arrival|Computer science|Sparse approximation|Sonar|Aliasing|Artificial intelligence
+references:2051480642|2071284784|2103492569|2115979064|2131090450|2160783189|2163994287|2167773605|2169073093
+
+
+id:1976967648
+title:Sparse Representation-Based ISAR Imaging Using Markov Random Fields
+year:2015
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Chunru Wan
+author organization:DSO, Singapore
+author id:2097158592|
+]
+abstract:cluster|experimental|problem|terms|estimate|leveraging|easily|model|spatial|algorithm|method|posterior|mrf|expectationmaximization|substantial|removing|stopping|scatterers|reformulated|simultaneously|diagnosed|mrf|components|variational|achieve|weak|encourage|noise|reported|variables|markov|consistent|nonzero|aperture|radar|framework|novel|priors|improvements|imposed|approximate|used|zero|prior|results|commonly|bayesian|imaging|difficulty|synthetic|proposed|sparse|enforce|demonstrate|fields|preserving|correlated|support|parameters|hidden|convergence|representation|random|surmount|srbased|algorithms|inverse|bayes|continuity|calculating|target|criterion|due|isar|scene
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Computer vision|Radar imaging|Random field|Pattern recognition|Sparse approximation|Markov chain|Inverse synthetic aperture radar|Artificial intelligence|Hidden variable theory|Prior probability|Mathematics|Bayesian probability
+references:1981157266|1983115982|1985093013|1985470195|2013352441|2033419225|2047499058|2049502219|2065513175|2070115761|2071284784|2086962710|2097973875|2100526560|2104735734|2108445923|2114494870|2115979064|2123693211|2125680629|2127952006|2132042151|2135780853|2136005975|2136020472|2145096794|2148154358|2151693816|2151932824|2155473288|2161035945|2169135699|2170844819|2172172255|2292697821
+
+
+id:1978520139
+title:Harmonic signal recovery and order estimation based on cascaded sparse processing
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Nanyang Tech. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Tech. University
+author id:1982701069|
+]
+abstract:joint|theoretical|correct|lasso|desirable|used|frequency|estimate|suppression|block|signal|results|cascaded|order|group|based|give|given|method|steps|blocksparsity|sinusoidal|estimation|harmonics|signals|proposed|sparse|following|processing|conditions|support|applied|importance|show|fundamental|recovery|two|unknown|estimator|fourier|signals|noise|applications|derived|harmonic|performance|detection|characteristics|recover|multiple|many|great|performed|simulation|corresponding|basis|frequencies
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Spectral density estimation|Fundamental frequency|Fourier analysis|Detection theory|Control theory|Computer science|Lasso (statistics)|Harmonic|Electronic engineering|Harmonics|Estimator
+references:2096506203|2133824856|2148527554|2169135699
+
+
+id:2003556654
+title:Analysis of sidelobe effects and resolution of PTFT
+year:2011
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Xiaolei Lv
+author organization:Rensselaer Polytechnic Institute, NY 121803590 USA
+author id:2223913153|
+]
+abstract:theoretical|component|derivation|timefrequency|effect|resolution|presented|theoretically|signal|results|based|sidelobe|correctness|degraded|estimation|effects|signals|applies|improve|dealt|timevarying|support|problems|components|numerical|show|focuses|technique|multiplecomponents|transform|amplitude|paper|parameter|analyzes|cleaning|minimize|components|multiple|analyzed|also|performance|simulation|due|polynomial|ptft|validity|significantly
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Signal processing|Polynomial|Control theory|Correctness|Fourier transform|Chirp|Time–frequency analysis|Estimation theory|Amplitude|Mathematics
+references:2011599908|2016491856|2025735542|2031984450|2105016544|2107287896|2115985534|2152464308
+
+
+id:2013352441
+title:An Autofocus Technique for High-Resolution Inverse Synthetic Aperture Radar Imagery
+year:2014
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Lei Yang
+author organization:Nanyang Technol. University
+author id:2429154207|
+]
+abstract:desirable|required|properly|problem|context|model|utilized|order|algorithm|phase|based|multitask|method|preprocessing|profile|sparsity|methods|effects|prior|domain|scatterers|obtained|rangedoppler|superiority|achieve|formulate|range|sparsity|eliminate|global|technique|uncertainty|denoising|capability|low|procedures|reported|demonstrated|estimating|compared|particularly|highresolution|performed|produce|translationalmotioninduced|aperture|radar|accuracy|wellfocused|probabilistically|information|novel|ratio|undersampling|encode|manner|data|use|achieves|tedious|residual|parametertuning|high|coarse|incorporated|hierarchical|imperfection|signal|results|inherent|obtain|image|individual|avoids|experimental|bayesian|guaranteed|estimation|enhanced|synthetic|scattering|proposed|exploited|sparse|minimization|focused|relatively|correction|doppler|errors|convergence|technique|recovery|error|paper|due|make|considers|inverse|applying|spectrum|practical|motion|signaltonoise|recently|statistically|autofocus|procedure|coefficients|errors
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Noise reduction|Computer vision|Residual|Radar imaging|Autofocus|Motion compensation|Remote sensing|Undersampling|Inverse synthetic aperture radar|Artificial intelligence|Image resolution|Mathematics
+references:1648445109|1985093013|2019737373|2021497665|2047499058|2065513175|2071284784|2088525693|2108292344|2115979064|2127952006|2132042151|2136005975|2140122025|2143070649|2145856765|2146554500|2148154358|2155473288|2161035945|2296616510
+
+
+id:2021497665
+title:An Improved Auto-Calibration Algorithm Based on Sparse Bayesian Learning Framework
+year:2013
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Haijian Zhang
+author organization:Nanyang Technol. University
+author id:2627452482|
+]
+abstract:increasingly|autocalibration|reconstruction|maximization|accuracy|multiplicative|problem|leveraging|model|signal|algorithm|issue|bayesian|obtaining|important|proposed|sparse|letter|become|variational|perturbation|achieve|experiments|learning|sparsity|expectation|technique|numerical|applications|demonstrated|considers|robust|practical|probabilistic|estimated|compressive|formulated|performance|proposed|results|achieved|iteratively|improvements
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Wake-sleep algorithm|Artificial intelligence|Compressed sensing|Mathematical optimization|Pattern recognition|Expectation–maximization algorithm|Algorithm|Statistical model|Calibration|Signal reconstruction|Mathematics|Bayesian probability
+references:1648445109|1980874175|2017068817|2065513175|2071284784|2102662752|2127952006|2148154358|2152279006|2156377127
+
+
+id:2032799777
+title:Hierarchical Sparse Signal Recovery by Variational Bayesian Inference
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Chunru Wan
+author organization:Nanyang Technol. University
+author id:2097158592|
+]
+abstract:addresses|simulation|experimental|used|zero|hierarchical|exhibit|different|controlling|results|respectively|block|corrupted|individual|method|mean|bayesian|modeled|distributed|methods|blocksparsity|twolevel|signals|proposed|sparse|among|letter|coefficient|enforce|framework|hierarchical|internal|variational|numerical|hidden|inference|classes|show|sparsity|recovery|two|noise|reported|firstly|vector|variables|recover|within|blocks|recently|data|outperforms|component|variance|variable|gaussian|levels
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Pattern recognition|Noise measurement|Computer science|Sparse approximation|Bayesian programming|Gaussian|Bayesian hierarchical modeling|Artificial intelligence|Bayesian statistics|Bayesian probability
+references:1648445109|1981157266|2021497665|2033419225|2065513175|2074447151|2098110139|2122882747|2127271355|2135780853|2164129707|2169135699
+
+
+id:2034548665
+title:Blind Frequency Hopping Spectrum Estimation: A Bayesian Approach
+year:2014
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Haijian Zhang
+author organization:Nanyang Technol. University
+author id:2627452482|
+]
+abstract:scenarios|interference|problem|inevitably|exerting|dependent|energy|algorithm|sampling|robustness|avoided|induce|estimation|spectrum|domain|networks|receives|achieve|experiments|sparsity|piecewise|networks|ones|unknown|capability|scenario|low|statistically|reported|compared|affordable|performance|robust|particularly|highresolution|probabilistic|hopping|procedure|exploiting|subnyquist|leveraged|framework|smoothness|results|frequency|apart|novel|ratio|manner|retransmission|timefrequency|coexistent|space|employed|antijamming|frequency|happens|prior|dirichlet|different|signal|widely|develop|estimation|collision|signals|proposed|senor|allow|blind|parametric|show|energyconstraint|representation|integrated|numerical|paper|sampled|considers|process|signaltonoise|recently|multiple|formulated|alike|superior|performance|conventional|due|variance|wireless|clustering|strategy|user
+venue name:International Conference on Big Data and Cloud Computing
+venue id:2727682610
+venue type:C
+document type:Conference
+study fields:Data mining|Wireless network|Wireless|Computer science|Signal-to-noise ratio|Algorithm|Robustness (computer science)|Parametric statistics|Time–frequency analysis|Statistics|Cluster analysis|Frequency-hopping spread spectrum
+references:1648445109|2006961489|2021497665|2032799777|2050415164|2061129424|2101943383|2109235813|2112322703|2114727905|2119908042|2130444183|2131479143|2148154358|2148183866|2157963731|2171362597
+
+
+id:2040068832
+title:Harmonic tonal detectors based on the BOGA
+year:2015
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Chunru Wan
+author organization:DSO, Singapore
+author id:2097158592|
+author name:Shenghong Li
+author organization:Shanghai University
+author id:2099183954|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:architectures|numerous|type|number|significant|experimentally|phase|property|represented|block|order|algorithm|based|using|tonal|require|distributions|tonals|environments|tonals|dealt|processing|detection|theory|fundamental|sparsity|unknown|statistics|ways|motivated|low|snr|noise|firstly|highlightsdetection|harmonic|compared|detection|robust|detecting|one|analyzed|great|appear|detectors|elements|information|techniques|ratio|statistics|improvements|environments|detectors|frequency|suggests|frequencies|shown|generated|prior|theoretically|greedy|consider|signal|new|tonals|test|typically|blocksparsity|engineering|orthonormal|signals|proposed|elementsfrequency|sparse|success|rotating|comprehensively|importance|detect|content|related|applications|performances|machineries|recover|alternative|also|structure|performance|conventional
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Frequency domain|Signal processing|Detection theory|Control theory|Signal-to-noise ratio|Algorithm|Harmonic|Greedy algorithm|Electronic engineering|Orthonormal basis|Detector|Mathematics
+references:1970370090|1991532656|2000520738|2033419225|2058266723|2074447151|2082373110|2097093126|2097323375|2107820823|2110364822|2111730426|2114129195|2134025364|2135780853|2142773518|2148527554|2160172035|2167213931|2169135699|2172485033
+
+
+id:2047499058
+title:Enhanced ISAR Imaging by Exploiting the Continuity of the Target Scene
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Chunru Wan
+author organization:Defence Sci. Organ., Singapore, Singapore
+author id:2097158592|
+author name:Lei Yang
+author organization:Nanyang Technol. University
+author id:2429154207|
+]
+abstract:region|experimental|avoided|scenarios|required|scene|problem|transmitting|model|utilized|algorithm|images|tuning|method|sampling|posterior|substantial|samples|system|contrast|scatterers|optimizationbased|obtained|rangedoppler|algorithms|deal|independent|achieve|overcome|encourage|low|reported|measurements|compared|linear|within|following|inference|compressive|plane|exploiting|aperture|radar|scattering|scatterer|efficiently|novel|improvements|ratio|tedious|used|frequency|employed|prior|hierarchical|inferred|problems|signal|results|inherent|obtain|intractability|bayesian|imaging|enhanced|synthetic|underdetermined|simplified|proposed|sparse|converted|datadriven|demonstrate|correlated|parameters|framework|learning|paper|parameter|convex|inverse|probing|sensing|process|limited|signaltonoise|sampler|continuity|gibbs|statistically|approaches|structure|target|conventional|isar|strategy|presents
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Computer vision|Radar imaging|Bayesian inference|Underdetermined system|Synthetic aperture radar|Remote sensing|Inverse synthetic aperture radar|Artificial intelligence|Prior probability|Compressed sensing|Gibbs sampling|Mathematics
+references:1981157266|1983115982|2007103423|2021497665|2046658845|2049502219|2070115761|2071284784|2074447151|2086962710|2097973875|2099100030|2104735734|2114494870|2115979064|2122315118|2123693211|2125680629|2127271355|2127585991|2127952006|2132042151|2135780853|2136005975|2145096794|2146554500|2148154358|2151693816|2151932824|2155473288|2161035945|2169135699
+
+
+id:2050415164
+title:Robust Frequency-Hopping Spectrum Estimation Based on Sparse Bayesian Method
+year:2015
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Liren Zhang
+author organization:UAE University
+author id:2344136332|
+author name:Haijian Zhang
+author organization:Nanyang Technol. University
+author id:2627452482|
+]
+abstract:multichannel|intrinsically|accuracy|avoided|scenarios|temporalaware|approach|without|via|improved|problem|exerting|property|leveraging|refinement|dependent|utilized|addition|algorithm|tuning|sparsity|tfr|received|induce|estimation|latent|obtained|greatly|scheme|superiority|achieve|experiments|pattern|instantaneous|laborintensive|extended|ones|unknown|instant|low|inspired|reported|taskrelation|estimating|measurements|compared|performance|robust|particularly|highresolution|hopping|sparsityinspired|sharp|results|manifested|space|ratio|timefrequency|developed|frequency|prior|dirichlet|directly|another|obtain|bayesian|hierarchically|particular|estimation|signals|proposed|sparse|exploited|parameters|full|boundary|parametric|show|learning|representation|content|numerical|paper|parameter|since|pattern|considers|informationsharing|process|signaltonoise|recently|multiple|formulated|better|superior|performance|segmenting|clustering|time|overlapped
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Pattern recognition|Computer science|Signal-to-noise ratio|Robustness (computer science)|Parametric statistics|Artificial intelligence|Cluster analysis|Instantaneous phase|Frequency-hopping spread spectrum|Bayesian probability
+references:1648445109|1990718447|1997222146|2006961489|2013352441|2016506370|2021123826|2021497665|2032799777|2061129424|2069855711|2100868949|2101943383|2103519107|2105408969|2108489512|2114727905|2119908042|2130444183|2131479143|2139202155|2148154358|2148183866|2152279006|2157963731|2162442820|2488000962
+
+
+id:2062064641
+title:ISAR imaging by exploiting the continuity of target scene
+year:2014
+author information:[
+author name:Lu Wang
+author organization:Sch. of EEE, NTU, Singapore, Singapore
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Sch. of EEE, NTU, Singapore, Singapore
+author id:2097533898|
+author name:Guoan Bi
+author organization:Sch. of EEE, NTU, Singapore, Singapore
+author id:1982701069|
+author name:Liren Zhang
+author organization:UAE University
+author id:2344136332|
+]
+abstract:resulted|imposed|approximate|whole|used|aperture|alleviate|resolution|scene|high|prior|terms|inverse|results|computational|algorithm|based|method|experimental|bayesian|sampling|domains|imaging|substantial|removing|heavy|extends|proposed|scatterers|demonstrate|region|preserving|correlated|requires|framework|synthetic|achieve|range|sparsity|exploits|weak|denoising|effective|compressive|crossrange|paper|encourage|radar|noise|reported|algorithms|sensing|include|recover|limited|within|continuity|structures|gibbs|inference|statistically|structure|target|cs|isar|time|strategy|measurements|burden|improvements
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Noise reduction|Computer vision|Bayesian inference|Pattern recognition|Computer science|Inverse synthetic aperture radar|Artificial intelligence|Compressed sensing|Gibbs sampling|Computational complexity theory|Bayesian probability
+references:1981157266|1985093013|2049502219|2097973875|2104735734|2123693211|2125680629|2127952006|2136005975|2161035945
+
+
+id:2074447151
+title:Improved stability conditions of BOGA for noisy block-sparse signals
+year:2011
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Chunru Wan
+author organization:DSO, Singapore
+author id:2097158592|
+author name:Xiaolei Lv
+author organization:Nanyang Technol. University
+author id:2223913153|
+]
+abstract:environments|tseng|serve|eldar|problem|presented|blocksparse|greedy|block|different|complement|results|signal|stability|algorithm|successfully|using|demonstrates|dealing|blockcoherence|signals|provide|generalization|conditions|noiseless|proven|recovery|relaxed|orthogonal|paper|previously|signals|reported|definition|recover|literature|studied|also|noisy|associated|boga
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Stability conditions|Greedy algorithm|Mathematics
+references:2000520738|2080815943|2097323375|2098996169|2099100030|2099167393|2099641086|2127271355|2135780853|2136235822|2147276092|2149206122|2151693816|2159268085|2167839759|2169135699
+
+
+id:2275123856
+title:Structured sparsity-driven autofocus algorithm for high-resolution radar imagery
+year:2016
+author information:[
+author name:Lifan Zhao
+author organization:School of Electrical and Electronic Engineering, Block S1, 50 Nanyang Avenue, 639798, Singapore
+author id:2097533898|
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Guoan Bi
+author organization:School of Electrical and Electronic Engineering, Block S1, 50 Nanyang Avenue, 639798, Singapore
+author id:1982701069|
+author name:Shenghong Li
+author organization:Shanghai University
+author id:2099183954|
+author name:Lei Yang
+author organization:School of Electrical and Electronic Engineering, Block S1, 50 Nanyang Avenue, 639798, Singapore
+author id:2429154207|
+author name:Haijian Zhang
+author organization:Wuhan University
+author id:2627452482|
+]
+abstract:smaller|experimental|stagethe|overshrinkage|scene|adaptively|number|problem|phase|modelthe|exhibit|controlling|algorithm|phase|based|images|simulated|sparsity|propose|ships|selection|desirably|simultaneously|obtained|greatly|much|statistical|range|eliminate|sparsity|targets|cope|low|snr|structured|based|highlightsa|estimating|frameworkthe|compared|particularly|problem|highresolution|benefited|compressive|radar|noiseonly|iteratively|novel|imposed|manner|data|alleviate|prior|concentrated|hierarchical|accelerate|problems|signal|results|scenarios|obtain|image|development|conveniently|bayesian|autofocus|degree|conducted|often|preserve|real|imaging|obtaining|enhanced|estimation|proposed|scattering|sparse|focused|demonstrate|correction|region|parameters|convergence|investigate|recovery|error|recent|due|rate|highly|frameworkto|sensing|previous|autofocus|target|sparsitydriven|cells|coefficients|undersampling|errors
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Radar imaging|Mathematical optimization|High resolution radar|Phase error|Autofocus|Computer science|Algorithm|Rate of convergence|Compressed sensing|Bayesian probability
+references:1648445109|1966144252|1973503417|1974550829|1976967648|1977252496|1981157266|2007072320|2013352441|2021497665|2040776061|2047499058|2063870433|2065030431|2071284784|2085048807|2092062581|2121266666|2127585991|2127952006|2148154358|2161035945|2163973643|2169241381
+
+
+id:2547878593
+title:The Race to Improve Radar Imagery: An overview of recent progress in statistical sparsity-based techniques
+year:2016
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Lei Yang
+author organization:Nanyang Technol. University
+author id:2429154207|
+author name:Abdelhak M. Zoubir
+author organization:Signal Process. Group, Institute of Telecommunications., TU Darmstadt, Germany
+author id:1902942371|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:developments|advanced|leading|considered|resolution|exploitation|prior|imagery|recent|last|made|imaging|substantial|quality|field|techniques|survey|benefits|statistical|images|sparsitybased|sparsity|applications|sensing|imposing|suggest|lead|processed|radar|performance|various|progress|compressed|significantly|comprehensive|signal|improvements
+venue name:IEEE Signal Processing Magazine
+venue id:120977877
+venue type:J
+document type:Journal
+study fields:Data mining|Radar imaging|Computer science|Image quality|Image resolution|Compressed sensing|Sparse matrix|Statistical analysis
+references:1599757372|1604764056|1972009708|1973503417|1976967648|2006832476|2013352441|2019737373|2021497665|2032799777|2047499058|2050415164|2051641144|2062064641|2063826668|2063870433|2064342679|2065513175|2071284784|2082476922|2088525693|2093246028|2097973875|2098543829|2104735734|2116611182|2119644817|2123693211|2124637907|2132042151|2135194391|2140122025|2145250341|2146571341|2148154358|2152176246|2155473288|2161035945|2162100037|2275123856|2294283493|2295549646
+
+
+id:2591182094
+title:Passive Moving Target Classification Via Spectra Multiplication Method
+year:2017
+author information:[
+author name:Qiang Wang
+author organization:Northwestern Polytech. University
+author id:2342596104|
+author name:Xiangyang Zeng
+author organization:Northwestern Polytechnical University
+author id:2654805238|
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Haitao Wang
+author organization:Northwestern Polytechnical University
+author id:2431147625|
+author name:Huaizhen Cai
+author organization:University at Buffalo
+author id:2608826561|
+]
+abstract:measured|remarkably|data|improves|channel|replace|historical|accuracy|variation|relation|frequency|given|filters|features|shows|generalized|noises|discriminability|different|cepstral|moving|order|environmental|method|compared|acoustic|classification|discussed|susceptible|additive|smm|traditional|iir|melfrequency|proposed|spectrum|letter|effect|underwater|environment|settings|spectra|applied|timevariant|experiments|mfccs|filterbased|feature|signals|parameter|induced|since|multiplication|designed|change|accord|estimated|consistent|also|suppresses|passive|target|performance|traditional|coefficients|cutoff|improvements
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:Mel-frequency cepstrum|Reverberation|Pattern recognition|Infinite impulse response|Communication channel|Spectral line|Multiplication|Artificial intelligence|Cutoff frequency|Mathematics|Underwater
+references:1635870598|2002311796|2007645738|2137075158|2153635508|2177453126
+
+
+id:2741805149
+title:Computationally Efficient Wide-Band DOA Estimation Methods Based on Sparse Bayesian Framework
+year:2017
+author information:[
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Xiumei Li
+author organization:Hangzhou Normal University
+author id:2105976137|
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:considered|complexities|maximization|prohibitive|desirable|scenarios|problem|doa|estimate|moving|algorithm|multitask|reduced|require|jointly|avoided|slow|desirably|directionofarrival|timevarying|obtained|substantially|doas|complexity|algorithms|variational|inference|methods|achieve|two|mosbmtl|feature|denoted|demonstrated|sources|computationally|efficient|within|procedure|generally|reduced|single|efficiently|achieves|implemented|results|computational|obtain|static|experimental|bayesian|mosbmtl|sosbmtl|estimation|remarkable|signals|proposed|sparse|true|framework|offthegrid|complexity|searching|learning|expectation|numerical|observations|parameter|closedform|process|practical|appropriately|multiple|also|better|performance|wideband|independently|significantly
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Multi-task learning|Pattern recognition|Expectation–maximization algorithm|Computer science|Convex function|Artificial intelligence|Wide band|Sparse matrix|Bayesian probability|Computational complexity theory
+references:1633751774|1648445109|1993770718|1996639130|2013352441|2015227997|2016506370|2021497665|2027526507|2028823365|2051480642|2071284784|2099307824|2103492569|2103519107|2107710506|2124219047|2125617532|2127271355|2131090450|2145856765|2148154358|2149755721|2150723107|2151028357|2160783189|2287242767|2408139118|2547878593|2583000511
+
+
+id:2755615660
+title:Acoustic source localization in strong reverberant environment by parametric Bayesian dictionary learning
+year:2018
+author information:[
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Yanshan Liu
+author organization:Northwestern Polytechnical University
+author id:2755822968|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Qiang Wang
+author organization:Northwestern Polytech. University
+author id:2342596104|
+author name:Xiangyang Zeng
+author organization:Northwestern Polytechnical University
+author id:2654805238|
+author name:Kean Chen
+author organization:Northwestern Polytechnical University
+author id:2756421887|
+]
+abstract:localization|increasingly|modeling|considered|simulation|channel|maximization|accuracy|stateoftheart|approach|localizationsince|required|discretizing|problem|utilized|algorithm|promising|energy|based|tuning|simulated|robustness|methods|accurately|reverberations|reverberant|dictionary|contrast|domain|reformulated|obtained|environment|become|complexity|laborious|strong|providing|statistical|variational|numerical|achieve|automatically|sparsity|technique|unknown|capability|flexibility|low|measurements|compared|characterized|problem|procedure|model|characterize|framework|reflective|performances|able|information|approach|atom|joint|remarkably|environments|distinguishing|sound|achieves|source|reverberate|manner|space|frequency|high|shown|solution|ratio|problemin|signal|results|computational|obtain|sourcetomicrophone|image|bayesian|inner|estimation|sidelobes|effects|proposed|sparse|exploited|techniques|improve|sparse|updated|correlated|localizing|sources|multipath|parametric|part|learning|recovery|expectation|representation|atoms|parameterized|parameter|since|enhance|highly|constructed|appropriately|advantage|estimated|multiple|specific|channel|conventional|provided|informationour|formulates
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Frequency domain|K-SVD|Pattern recognition|Expectation–maximization algorithm|Computer science|Sparse approximation|Robustness (computer science)|Parametric statistics|Artificial intelligence|Acoustic source localization|Computational complexity theory
+references:1648445109|1989112876|2000062601|2046690171|2068493985|2071284784|2100818340|2101978418|2104045888|2111493103|2115979064|2120908038|2125348122|2125680629|2135780853|2138598313|2288510809
+
+
+id:2786702263
+title:An Improved Deep Clustering Model for Underwater Acoustical Targets
+year:2018
+author information:[
+author name:Qiang Wang
+author organization:Northwestern Polytech. University
+author id:2342596104|
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Xiangyang Zeng
+author organization:Northwestern Polytechnical University
+author id:2654805238|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+]
+abstract:introduces|data|main|experimental|used|dbm|features|compatible|problem|updating|complex|layers|method|dirichlet|model|different|results|based|databases|method|differs|robustness|constitute|real|monte|system|distributions|jointly|extract|system|proposed|unsupervised|parts|true|systematically|underwater|performance|one|assumed|algorithms|deep|optimized|show|distribution|two|tactfully|paper|deteriorates|mixture|mismatch|firstly|acoustical|handcraft|make|formulations|effectiveness|process|chain|markov|probabilistic|combines|consistent|carlo|succinct|designing|target|bypass|build|machine|clustering|gaussian|boltzmann|novel|features
+venue name:Neural Processing Letters
+venue id:140962798
+venue type:J
+document type:Journal
+study fields:Boltzmann machine|Dirichlet process|Pattern recognition|Markov chain Monte Carlo|Complex data type|Robustness (computer science)|Artificial intelligence|Cluster analysis|Mathematics|Mixture model|Underwater
+references:44815768|189596042|1850888726|1925417509|2033403400|2059515884|2071709160|2109820980|2120636621|2138857742|2153125595|2163605009|2177453126|2342491128|2342880667|2344340558|2497173630|2510191442|2557283755|2559975580|2581874211|2625746186
+
+
+id:2790212948
+title:Alternative to Extended Block Sparse Bayesian Learning and Its Relation to Pattern-Coupled Sparse Bayesian Learning
+year:2018
+author information:[
+author name:Lu Wang
+author organization:Northwestern Polytechnical University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Susanto Rahardja
+author organization:Northwestern Polytechnical University
+author id:2973859809|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:coherence|properly|problem|assumption|block|algorithm|method|made|entanglement|sampling|underlying|vulnerability|propose|dependencies|dictionary|among|algorithms|recovering|explicitly|sparsity|neighboring|extended|unknown|partition|low|yield|reported|reduces|relationship|explains|close|pcsbl|particularly|solution|noisy|simulations|results|choice|analytic|joint|achieves|ebsbl|patterncoupled|high|prior|consider|scenarios|avoids|bayesian|signals|proposed|sparse|demonstrate|suboptimal|unknowns|learning|best|ebsbl|revealed|clusterstructured|due|parameter|hyperparameters|effectiveness|encourages|neighborhood|recently|alternative|also|outperforms|better|performance|manipulating|adopts|coefficients|comprehensive
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Bayesian inference|Hyperparameter|Noise measurement|Algorithm|Coherence (physics)|Sampling (statistics)|Partition (number theory)|Cluster analysis|Mathematics|Sparse matrix
+references:422388727|1595820098|1648445109|1976967648|1981157266|1997222146|2028823365|2033419225|2047499058|2049502219|2071282831|2071284784|2074447151|2083042020|2101730403|2108445923|2114129195|2115979064|2125680629|2135780853|2147276092|2148154358|2151932824|2152279006|2510783288|2547878593
+
+
+id:2911341016
+title:Airborne FMCW SAR Sparse Imaging: Initial Results
+year:2018
+author information:[
+author name:Hui Bi
+author organization:Nanyang Technological University
+author id:2913247884|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Xiumei Li
+author organization:Hangzhou Normal University
+author id:2105976137|
+author name:Xianpeng Wang
+author organization:Hainan University
+author id:2650257899|
+]
+abstract:region|focus|via|imaging|downsampled|filtering|algorithm|based|method|compared|considering|raw|exact|processing|matched|guarantee|noise|verify|reduces|fmcw|ability|minimizes|processing|highresolution|makes|data|aperture|radar|data|using|replace|transmission|results|obtain|image|actual|experimental|weight|real|imaging|synthetic|sidelobes|sparse|improve|frequencymodulation|shortrange|sensor|sar|continuouswave|error|platform|integrated|airborne|hence|surveillance|effectiveness|cost|motion|suitably|introduce|implementation|also|technology|peak|performance|conventional|pulse|compensation|scene
+venue name:International Conference on Digital Signal Processing
+venue id:2623002688
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Data collection|Computer vision|Data processing|Noise suppression|Computer science|Synthetic aperture radar|Motion compensation|Filter (signal processing)|Azimuth|Artificial intelligence
+references:2047042135|2123693211|2126916419|2136005975|2147517352|2155111199|2159698030|2585841228
+
+
+id:2968867437
+title:Structured Bayesian learning for recovery of clustered sparse signal
+year:2020
+author information:[
+author name:Lu Wang
+author organization:Nanyang Technol. University
+author id:2708642771|
+author name:Lifan Zhao
+author organization:Nanyang Technol. University
+author id:2097533898|
+author name:Lei Yu
+author organization:Wuhan University
+author id:2619877575|
+author name:Jingjing Wang
+author organization:Shandong Normal University
+author id:2966930284|
+author name:Guoan Bi
+author organization:Nanyang Technol. University
+author id:1982701069|
+]
+abstract:indicator|cluster|data|modeling|use|switches|used|selectively|patterncoupled|adaptively|neighbors|problem|imposes|structure|sizes|prior|estimate|results|signal|inherent|fully|algorithm|flexibly|based|introducing|bayesian|real|estimation|signals|hybrid|environments|proposed|sparse|coefficient|demonstrate|algorithms|recovering|statistical|numerical|independent|inference|hidden|experiments|according|recovery|local|unknown|paper|structural|reported|considers|variables|outperform|constructed|abstract|probabilistic|effectively|recently|one|clustered|continuity|noisy|structure|simulations|locations|mismatch|coefficients|variational|information|avoid|comprehensive
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Data structure|Mathematical optimization|Bayesian inference|Algorithm|Signal recovery|Hidden variable theory|Probabilistic logic|Mathematics
+references:422388727|1515852127|1648445109|1976967648|1981157266|1997222146|2028823365|2033419225|2047499058|2049502219|2071282831|2071284784|2083042020|2108445923|2114129195|2125680629|2135780853|2147276092|2151932824|2152279006|2169135699|2292697821|2563113662|2790212948|2918857440|2920485214
+
+
+id:754002219
+title:Coherent Photon Mapping on the Intel MIC Architecture
+year:2015
+author information:[
+author name:Chun-Meng Kang
+author organization:SHANDONG UNIVERSITY
+author id:2126827621|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Pei Wang
+author organization:SHANDONG UNIVERSITY
+author id:2730538963|
+author name:Yan-Ning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Xiang-Xu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:cluster|architecture|coherent|reflected|processors|approach|number|cluster|integrated|simulate|algorithm|order|mapping|using|method|propose|contains|estimation|size|neighbouring|global|simd|two|search|knn|composed|indicate|many|gives|radiance|initial|kneighbouring|clustered|photon|single|accuracy|parallel|instruction|efficiently|first|searching|data|use|consuming|points|coprocessors|find|dramatically|results|photontree|core|needs|tracing|comparison|significant|estimation|searched|techniques|scenes|shading|searching|units|point|speed|parallel|similarity|scope|shadingpoints|illumination|performing|multiple|improvement|photon|existing|photons|step|time
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Photon|Search algorithm|Computer science|Xeon Phi|Parallel computing|SIMD|Global illumination|Coprocessor|Photon mapping|Radiance
+references:1972588407|1991686106|2001153911|2039589153|2040510994|2067313328|2071466740|2088770626|2104814486|2111435979|2122132690|2152365613|2153226019|2165964351
+
+
+id:1946145103
+title:Stylized strokes for coherent line drawings
+year:2015
+author information:[
+author name:Liming Lou
+author organization:SHANDONG UNIVERSITY
+author id:2231039980|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:correspondences|coherently|coherence|frames|interactive|needing|simple|construct|path|realtime|coarse|nonuniformly|continuous|coherence|line|meshes|temporal|brush|contour|models|making|constructing|method|difficult|rendering|propagation|especially|paths|styles|challenges|reparameterization|technique|range|central|stylized|temporal|feature|along|parameter|lines|sampled|wide|introduce|one|polygonal|edges|also|procedure|draw|contours|stroke|suitable|describe|runs|novel|applications
+venue name:Computational Visual Media
+venue id:2487656537
+venue type:J
+document type:Journal
+study fields:Computer vision|Polygon|Polygon mesh|Computer graphics (images)|Computer science|Brush|Stylized fact|Coherence (physics)|Artificial intelligence|Rendering (computer graphics)|Line drawings
+references:1970849087|1972497228|1981220214|1985510190|2028839201|2031239312|2041564430|2072438795|2100145699|2115061804|2139499136|2147370677|2149148381|2161141071|2163856568|2164527207|2235424849|2243570189
+
+
+id:1964629603
+title:Design and implementation of enabled grid-based digital museum
+year:2005
+author information:[
+author name:Hai Guo
+author organization:ShanDong University
+author id:2311352177|
+author name:Hui Xiang
+author organization:Shandong University
+author id:2125701555|
+author name:Xiang-xu Meng
+author organization:ShanDong University
+author id:2121669957|
+author name:Cheng-lei Yang
+author organization:ShanDong University
+author id:2158391879|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Jian Li
+author organization:ShanDong University
+author id:2657050385|
+]
+abstract:heterogeneous|presentation|given|museums|collections|time|details|state|fully|static|preventing|dealing|workflow|sharing|propose|cooperative|visitors|system|illustrated|museum|improve|present|become|primitive|isolated|grid|digital|capable|availability|preservation|current|systems|variety|share|protect|deteriorating|incorporating|digital|resources|amount|precious|necessary|could|effectively|implementation|resources|gridenabled|technologies|also|designing|expensive|generally|significance|framework|grid|efficiently|information|gridcomputing|vast|fashion
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:World Wide Web|Grid computing|Computer science|Exhibition|Resource allocation|Semantic grid|Workflow|Multimedia|Information presentation|Grid|Information sharing
+references:1572109856|1978004294|2018762316
+
+
+id:1971802291
+title:Portrait drawing from corresponding range and intensity images
+year:2013
+author information:[
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Li-ming Lou
+author organization:SHANDONG UNIVERSITY
+author id:2231039980|
+author name:Cheng-lei Yang
+author organization:ShanDong University
+author id:2158391879|
+author name:Yue-zhu Huang
+author organization:Department of Public Security of Fujian Province
+author id:2799037221|
+author name:Xiang-xu Meng
+author organization:ShanDong University
+author id:2121669957|
+]
+abstract:registered|areas|complementary|extracted|resolution|output|significant|realtime|visual|based|viewpoint|using|method|shape|rendering|optional|propose|deduced|system|creating|works|automatically|simultaneous|range|giving|result|low|occluding|may|combines|produce|photograph|fast|nonphotorealistic|cannot|information|geometry|choice|essential|use|cues|features|textured|time|alone|caricature|image|caricature|preserves|real|significant|distorted|pleasing|produced|chosen|exaggerated|styles|suggestive|geometric|final|face|shading|allow|sources|combining|provides|lines|human|facial|characteristics|also|enough|contours|photograph|corresponding|well|information
+venue name:Journal of Zhejiang University Science C
+venue id:199067057
+venue type:J
+document type:Journal
+study fields:Polygon mesh|Computer graphics (images)|Computer science|Exaggeration|Portrait|Rendering (computer graphics)|Line drawings|Shading
+references:1510601647|1570859112|1912568406|1967724149|1997812227|2001246858|2008057846|2021422668|2022182585|2032837934|2036490943|2041564430|2069634291|2081737438|2090267299|2115592720|2125065112|2145023731|2145315492|2145568719|2153381665|2161141071|2288799730|2492876218
+
+
+id:1985066758
+title:A system framework and key techniques for multi-user cooperative interaction in virtual museum based on Voronoi diagram
+year:2005
+author information:[
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiaoting Wang
+author organization:Shandong University
+author id:2106038302|
+author name:Yanning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:subdividing|data|coherence|rules|users|building|voronoi|scene|compute|collections|communication|based|using|visibility|method|characteristic|aimed|users|establish|cooperative|interaction|system|museum|proximity|improve|reality|virtual|polygon|detect|projected|paper|get|supporting|multiuser|collisions|discussed|also|describes|museum|manage|diagram|diagram|framework|cells|polygon|interaction
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:Polygon|Virtual machine|Virtual reality|Collision detection|Computer graphics (images)|Computer science|Computational geometry|Visibility polygon|Voronoi diagram|Multi-user
+references:1494368934|2075726319|2123531537
+
+
+id:1997605273
+title:Coherent Stylized Lines for Mesh Surfaces by Contour Triangles
+year:2013
+author information:[
+author name:Liming Lou
+author organization:SHANDONG UNIVERSITY
+author id:2231039980|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:sliding|coherent|countour|triangles|coarse|coherence|propagate|well|meshes|temporal|viewpoint|ensure|faithfully|method|frames|nonuniform|sampling|establish|effects|styles|parameters|deal|range|two|segments|stylized|paper|contour|zigzags|relationship|render|smooth|reconstructed|contain|motion|wide|perform|also|contours|contour|help|curves|corresponding|short|presents
+venue name:Computer-Aided Design and Computer Graphics
+venue id:1170942589
+venue type:C
+document type:Conference
+study fields:Computer vision|Polygon mesh|Computer graphics (images)|Computer science|Stylized fact|Coherence (physics)|Artificial intelligence|Solid modeling|Nonuniform sampling
+references:1970849087|2139499136|2149148381
+
+
+id:2036161717
+title:Evaluating line drawings of human face
+year:2013
+author information:[
+author name:Qiao Lu
+author organization:College of Computer Science and Technology Shandong University Jinan China
+author id:2484522151|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Li-ming Lou
+author organization:SHANDONG UNIVERSITY
+author id:2231039980|
+author name:Hai-dong Zheng
+author organization:College of Computer Science and Technology Shandong University Jinan China
+author id:2544694047|
+]
+abstract:findings|type|evaluation|shows|drawing|different|results|five|generate|based|models|using|efficiency|including|method|like|kind|illustrate|particular|apparent|estimation|domain|suggestive|parts|style|face|errors|senses|study|regions|images|line|optimized|localized|result|paper|drawings|intended|convey|ridges|estimated|result|lines|human|facial|depiction|normal|include|orientation|occluding|advantage|also|suggest|better|special|face|shaded|mouth|depicting|faces|presents
+venue name:Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+venue id:2754583030
+venue type:C
+document type:Conference
+study fields:Computer vision|Facial recognition system|Face hallucination|Domain knowledge|Expression (mathematics)|Edge detection|Computer science|Facial expression|Depiction|Artificial intelligence|Line drawings
+references:1967724149|1969874727|2032837934|2081737438|2116680597|2122076394|2161141071
+
+
+id:2040373504
+title:Natural Interaction Based Online Military Boxing Learning System
+year:2013
+author information:[
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Bing Sun
+author organization:Shandong University
+author id:2431005030|
+author name:Xu Yin
+author organization:ShanDong University
+author id:2152289746|
+author name:Xiaoting Wang
+author organization:Shandong University
+author id:2106038302|
+author name:Li Liu
+author organization:ShanDong University
+author id:2662399914|
+author name:Lin Lu
+author organization:SHANDONG UNIVERSITY
+author id:2601280549|
+]
+abstract:voice|interactive|users|used|body|observe|via|evaluation|shown|exercises|action|widespread|military|details|different|routines|natural|test|models|kind|gymnastic|beneficial|traditional|system|martial|scales|effect|boxing|sensor|device|authors|rotating|video|learning|extended|interactions|smartphones|operations|provides|human|views|zooming|military|motion|learn|introduce|health|realized|technologies|also|intuitive|better|chinese
+venue name:International Journal of Distance Education Technologies
+venue id:103640237
+venue type:J
+document type:Journal
+study fields:Educational technology|Output device|Natural interaction|Motion capture|Learning effect|Computer science|Zoom|Martial arts|Multimedia|The Internet
+references:1536952286|1551297225|1993325663|2042554746|2055572395|2077057201|2106459977|2112188855
+
+
+id:2061497545
+title:Region-based bas-relief generation from a single image
+year:2014
+author information:[
+author name:Qiong Zeng
+author organization:Shandong University
+author id:2170311747|
+author name:Ralph R. Martin
+author organization:Cardiff University
+author id:2158727428|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Jonathan A. Quinn
+author organization:Cardiff University
+author id:2342453210|
+author name:Yuhong Sun
+author organization:Qufu Normal University
+author id:2678066168|
+author name:Changhe Tu
+author organization:Shandong University
+author id:2154871272|
+]
+abstract:objects|experimental|construct|feature|extracted|drawing|feedback|property|algorithm|height|based|using|flowers|surface|arising|refine|inspired|reliefs|input|exact|relative|appropriate|works|aim|ordering|range|basrelief|computer|satisfied|artists|key|output|art|abstract|gradient|image|artists|model|single|depth|requiring|information|regionbased|first|use|used|animals|assumptions|generated|layers|create|boundaries|results|basrelief|new|including|created|vision|rarely|demonstrate|present|errors|part|values|show|generating|augmented|representation|prevent|surfaces|relief|lines|human|smooth|process|recover|original|determine|sculpture|way|tricky|intensity|form|build|due|well|base|basreliefs
+venue name:Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+venue id:137436721
+venue type:J
+document type:Journal
+study fields:Computer vision|Computer graphics (images)|Feature detection (computer vision)|Non-photorealistic rendering|Artificial intelligence|Mathematics
+references:1537625317|1626653188|1978411225|1992631884|2002782834|2011681858|2032837934|2052286413|2061052400|2075095917|2097523702|2111492514|2117524444|2118304946|2124908820|2135686281|2143054626|2146714796|2154735537|2155216327|2169305037
+
+
+id:2078047112
+title:Cooperative design and data management of virtual museum based on Voronoi diagram
+year:2005
+author information:[
+author name:Yan-Ning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiao-Ting Wang
+author organization:Shandong University
+author id:2106038302|
+author name:Cheng-Lei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Xiang-Xu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:select|called|saved|objects|hall|without|voronoi|building|scene|collections|work|characteristic|relics|cooperative|cultural|system|indoor|sweeping|regions|based|laid|art|product|multiuser|one|data|many|plane|polygon|others|used|axis|nearest|mainly|empty|points|horizontal|edge|discusses|create|subdivides|well|lay|created|collection|users|museum|proximity|region|support|virtual|perpendicular|platform|paper|along|design|every|exhibition|also|manage|cells|corresponding|interaction|wall|user
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:Data structure|Polygon|Virtual reality|Computer graphics (images)|Computer science|Computational geometry|Virtual art|Voronoi diagram|Data management|Horizontal plane
+references:1509293712|1982796762|2172116860
+
+
+id:2105323764
+title:Design of a Walkthrough System for Virtual Museum Based on Voronoi Diagram
+year:2006
+author information:[
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Meng Qi
+author organization:Shandong University
+author id:2304049463|
+author name:Rui Wang
+author organization:ShanDong University
+author id:2660030828|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Xiaoting Wang
+author organization:Shandong University
+author id:2106038302|
+]
+abstract:communion|interactive|used|voronoi|path|solution|halls|based|visibility|conveniently|rendering|shandong|real|basis|cooperative|technologies|collision|system|museum|university|walkthrough|museum|virtual|dm|digital|learning|integrated|paper|supporting|exhibition|also|describes|designing|diagram|archaeological|diagram|polygon|time
+venue name:International Symposium on Voronoi Diagrams in Science and Engineering
+venue id:2756070009
+venue type:C
+document type:Conference
+study fields:Educational technology|Polygon|Collision detection|Virtual reality|Computer graphics (images)|Real-time rendering|Computer science|Exhibition|Voronoi diagram|Software walkthrough
+references:1516505387|1969364498|1985066758|2041802378|2078047112|2086613383|2124609854
+
+
+id:2124609854
+title:New Intersection Algorithm of Convex Polygons Based on Voronoi Diagrams
+year:2006
+author information:[
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Pu Shi
+author organization:SHANDONG UNIVERSITY
+author id:2305234999|
+author name:Wei Zao
+author organization:SHANDONG UNIVERSITY
+author id:2363845151|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Jiaye Wang
+author organization:ShanDong University
+author id:2645034383|
+]
+abstract:advanced|considered|adjacency|available|simple|decide|used|space|voronoi|points|scene|robust|edge|presented|find|intersection|boundaries|implement|different|algorithm|always|new|tracing|using|method|diagrams|compared|query|traces|outer|easy|utilizes|indoor|next|virtual|recording|detect|two|point|p|q|general|trace|along|paper|convex|polygons|collision|simplest|one|edges|also|union|querying|special|fast|polygon|step
+venue name:International Symposium on Voronoi Diagrams in Science and Engineering
+venue id:2756070009
+venue type:C
+document type:Conference
+study fields:Polygon|Polygon mesh|Convex polygon|Algorithm|Regular polygon|Point in polygon|Intersection|Voronoi diagram|Star-shaped polygon|Mathematics
+references:2032895458|2105323764
+
+
+id:2147370677
+title:Silhouette Smoothing for Real-Time Rendering of Mesh Surfaces
+year:2008
+author information:[
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Changhe Tu
+author organization:Shandong University
+author id:2154871272|
+author name:Wenping Wang
+author organization:
+author id:2118099990|
+author name:Xiangxu Meng
+author organization:
+author id:2121669957|
+author name:Bin Chan
+author organization:
+author id:2122367869|
+author name:Dongming Yan
+author organization:
+author id:2137080269|
+]
+abstract:silhouettes|realtime|smoothing|moderate|based|viewpoint|using|faithfully|method|smoothed|rendering|silhouettes|scheme|curve|achieve|methods|piecewise|availability|experiments|triangle|local|smoothing|coarse|feature|causes|reconstructed|linear|efficient|change|continuously|computation|appearance|unified|movement|novel|generates|data|simple|gpu|fine|coarse|continuous|meshes|runtime|always|approximation|respect|undesirable|silhouette|present|assume|remeshing|framework|additional|show|assistance|speed|surfaces|mesh|smooth|ensures|amount|previous|polygonal|edges|also|outperforms|interpolation|reconstruction|objects
+venue name:IEEE Transactions on Visualization and Computer Graphics
+venue id:84775595
+venue type:J
+document type:Journal
+study fields:Computer vision|Polygon|Polygon mesh|Silhouette|Real-time rendering|Computer science|Interpolation|Smoothing|Artificial intelligence|Rendering (computer graphics)|Mesh generation
+references:1562545705|1886645372|1983403172|2005258703|2043242530|2052789583|2065321478|2068499242|2123997651|2130223095|2150851531|2164191390|2235424849|2611267947
+
+
+id:2253770030
+title:Pressure-based touch positioning techniques for 3D objects
+year:2016
+author information:[
+author name:Siyuan Qiu
+author organization:SHANDONG UNIVERSITY
+author id:2344547961|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Laikuan Wong
+author organization:MultiMedia University
+author id:2139089714|
+]
+abstract:small|held|use|objects|screen|space|would|dof|occasions|near|using|devices|need|touch|require|pressure|sensitive|operating|techniques|present|tablets|become|ubiquitous|given|phones|two|positioning|pressurebased|limits|hand|finger|previous|one|mobile|manipulating
+venue name:Interactive 3D Graphics and Games
+venue id:1165838108
+venue type:C
+document type:Conference
+study fields:Computer vision|Virtual reality|Sensitive touch|Computer graphics (images)|Computer science|Mobile device|Artificial intelligence
+references:2004359926|2029748317|2042290316
+
+
+id:2257341531
+title:Progressive photon mapping with sample elimination
+year:2016
+author information:[
+author name:Chunmeng Kang
+author organization:SHANDONG UNIVERSITY
+author id:2126827621|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Yanning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+]
+abstract:increasingly|accurate|optimal|use|characteristics|accelerate|results|mapping|pronounced|method|thousands|et|progressive|obtained|iterations|critical|achieve|distribution|ppm|uniform|feature|noise|result|elimination|al|sets|apply|problematic|sample|sample|produce|photon|obtains|blue|progressive
+venue name:Interactive 3D Graphics and Games
+venue id:1165838108
+venue type:C
+document type:Conference
+study fields:Photon|Mathematical optimization|Colors of noise|Computer graphics (images)|Visualization|Computer science|Algorithm|Photon mapping
+references:2027979483|2123732640
+
+
+id:2397240793
+title:Adaptive Photon Mapping Based on Gradient
+year:2016
+author information:[
+author name:Chun-Meng Kang
+author organization:SHANDONG UNIVERSITY
+author id:2126827621|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Yan-Ning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Xiang-Xu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Yuan-Jie Song
+author organization:SHANDONG UNIVERSITY
+author id:2277883058|
+]
+abstract:focus|collected|experimental|changing|approach|number|phase|simulate|order|phase|mapping|large|shape|arise|propose|quality|computation|collected|smoother|selection|shadows|algorithm|perfectly|affect|direct|two|neighboring|adaptive|noise|gradient|map|radiance|compared|poor|bandwidth|keeping|produce|photon|efficiently|runs|second|frequency|features|high|solution|bias|results|significantly|obtain|area|tradeoffs|indirect|estimation|effects|solve|final|applied|according|show|generating|appears|process|original|illumination|photon|special|photons|caustics
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Photon|Computer graphics (images)|Computer science|Caustic (optics)|Algorithm|Real-time computing|Bandwidth (signal processing)|Global illumination|Photon mapping|Radiance|Computation
+references:1564557124|1781099918|1980536927|2023322507|2027979483|2039431245|2054627943|2058810187|2104814486|2137442086|2138624212|2142327292|2167029588|2167031184|2762386846
+
+
+id:2610788424
+title:Supporting Easy Physical-to-Virtual Creation of Mobile VR Maze Games: A New Genre
+year:2017
+author information:[
+author name:Wei Gai
+author organization:ShanDong University
+author id:2225997299|
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Yulong Bian
+author organization:Shandong University
+author id:2502073047|
+author name:Chia Shen
+author organization:National Science Foundation, Arlington VA, USA
+author id:2735106514|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Juan Liu
+author organization:Shandong University
+author id:2626077663|
+author name:Mingda Dong
+author organization:Shandong University
+author id:2567252655|
+author name:Chengjie Niu
+author organization:Shandong University
+author id:2567054035|
+author name:Cheng Lin
+author organization:Shandong University
+author id:2659778740|
+]
+abstract:play|experiment|authoring|questions|interactive|express|used|developed|anywhere|tracking|research|space|without|games|easily|modified|promotes|creativity|novice|knowledge|new|development|players|illustrate|technology|system|proposed|endusers|usercontrolled|creating|reality|present|participation|virtual|game|findings|engaging|provides|design|genre|supports|physical|key|device|experience|process|participate|may|one|implementation|mobile|combines|fast|well|user|design
+venue name:Human Factors in Computing Systems
+venue id:1163450153
+venue type:C
+document type:Conference
+study fields:Virtual reality|Game mechanics|Computer science|Game art design|Video game development|Game design|Mobile device|Human–computer interaction|Immersion (virtual reality)|Game Developer|Multimedia
+references:1985298994|1986534891|1995383159|2014442018|2026730323|2034151662|2042058762|2071875434|2073427859|2074765809|2112534896|2119468631|2133882256|2136120519|2139303720|2142716213|2158085556|2234777211|2253770030|2513641466
+
+
+id:2737742094
+title:Vectorized point based global illumination on Intel MIC architecture
+year:2018
+author information:[
+author name:Xiang Xu
+author organization:Shandong University
+author id:2577275167|
+author name:Beibei Wang
+author organization:Nanjing University of Science and Technology
+author id:2273624490|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Yanning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Tamy Boubekeur
+author organization:University Paris-Saclay
+author id:275142044|
+]
+abstract:coherent|acts|three|without|scene|visual|traversal|integrated|algorithm|models|cache|method|simulation|receiver|rendering|packet|dynamically|propose|quality|widesimd|light|switching|unprojected|hardware|cut|singlereceiver|scheme|methods|experiments|global|two|adaptive|receiverspecific|consuming|zbuffer|supports|rasterization|many|popular|together|cuts|architecture|compared|synthesis|efficient|strategies|abstract|speedup|many|picture|pbgi|massive|stage|report|logic|several|solved|caching|intel|points|runtime|vectorization|productions|nonvectorized|different|results|core|image|visibility|tree|separately|conducted|particular|structured|regarding|dense|effects|pixels|fardistance|shading|pointbased|records|nearly|point|operations|parallel|mid|projection|execution|illumination|motion|perreceiver|introduce|degradation|transport|incoherent|formulated|special|well|achieved|step|time|showing
+venue name:Computers  Graphics
+venue id:94821547
+venue type:J
+document type:Journal
+study fields:Computer vision|Tree traversal|Cache|Computer science|Xeon Phi|Parallel computing|Vectorization (mathematics)|Global illumination|Artificial intelligence|Rendering (computer graphics)|Point cloud|Speedup
+references:1702794521|1972588407|1974568352|1983712004|1995976107|2001153911|2031009002|2035653341|2039303612|2041697116|2045016651|2050513283|2052387360|2058018255|2082211440|2087645257|2099466581|2152365613|2154900718|2294159033|2912424718
+
+
+id:2800533788
+title:The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices
+year:2018
+author information:[
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Laikuan Wong
+author organization:MultiMedia University
+author id:2139089714|
+author name:Yajie Xu
+author organization:Shandong University
+author id:2801971079|
+author name:Xiao Zhou
+author organization:SHANDONG UNIVERSITY
+author id:2800467842|
+author name:Siyuan Qiu
+author organization:SHANDONG UNIVERSITY
+author id:2344547961|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+]
+abstract:held|developers|three|degrees|usability|translations|guidelines|pressuresensitive|near|manipulation|devices|conclude|require|operating|force|become|affect|given|twofingered|technique|two|freedom|limits|hand|compared|finger|strategies|discussed|one|controlled|help|depth|tightly|represent|several|recognition|screen|presented|occasions|different|need|touch|conducted|pressure|manipulations|ubiquitous|translating|technique|positioning|design|studies|pressurebased|collects|value|normal|previous|mobile|groups|pressuresensing|performance|translating|uses|user
+venue name:Ubiquitous Computing
+venue id:1171345118
+venue type:C
+document type:Conference
+study fields:Computer science|Usability|3d positioning|Mobile device|Human–computer interaction|Normal force|Multimedia|User studies
+references:1966585462|1992177162|1996559184|2004359926|2029748317|2042290316|2077338870|2082415989|2084486945|2107186365|2109580619|2116741943|2155210028|2170885539|2252121065|2294226227
+
+
+id:2887041975
+title:Fast Global Illumination with Discrete Stochastic Microfacets Using a Filterable Model
+year:2018
+author information:[
+author name:Beibei Wang
+author organization:Nanjing University of Science and Technology
+author id:2273624490|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Nicolas Holzschuch
+author organization:Grenoble University
+author id:2093513829|
+]
+abstract:approach|contributions|usually|particles|discontinuous|order|still|expensive|using|surface|large|steps|rendering|metallic|glints|approximated|glint|light|integration|simultaneously|examples|reallife|sparkling|search|many|embedded|lightreflecting|include|magnitude|nature|integrate|fast|associated|efficiently|material|illumination|small|standard|snow|separate|use|reflecting|inside|correspond|space|whether|approximation|indirect|difficult|especially|materials|sparkles|searching|show|design|responsible|extra|make|allows|characteristics|cost|varnish|also|approaches|specific|direction|shiny|reducing|existing
+venue name:Computer Graphics Forum
+venue id:67831204
+venue type:J
+document type:Journal
+study fields:Computer vision|Graphics pipeline|Computer science|Artificial intelligence|Global illumination|Hierarchy|Order of magnitude|Snow
+references:1486787228|2049039008|2067540766|2104587129|2113634802|2132271754|2144205107|2268888059|2294343556|2411398711
+
+
+id:2946333111
+title:A task and data balanced distributed photon mapping method
+year:2019
+author information:[
+author name:Xiang Xu
+author organization:Shandong University
+author id:2577275167|
+author name:Beibei Wang
+author organization:Nanjing University of Science and Technology
+author id:2273624490|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+author name:Yanning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Chenglei Yang
+author organization:Shandong University
+author id:2158391879|
+author name:Xiangxu Meng
+author organization:SHANDONG UNIVERSITY
+author id:2121669957|
+]
+abstract:dataparallel|approach|without|visual|mapping|method|receiver|thus|hierarchy|distributed|rendering|resulting|quality|clients|cut|global|distribution|across|balances|management|caustic|efficient|abstract|photon|tightly|combined|data|construction|parallelized|associate|points|unbalanced|group|groups|tree|difficult|system|important|task|pixels|improve|taskparallel|present|higher|shading|memory|code|divided|computing|related|load|organize|receivers|morton|simulating|coupled|illumination|multiple|degradation|photon|better|balancing|performance|photons|due
+venue name:Computers  Graphics
+venue id:94821547
+venue type:J
+document type:Journal
+study fields:Computer vision|Photon|Computer science|Caustic (optics)|Load balancing (computing)|Memory management|Artificial intelligence|Global illumination|Pixel|Rendering (computer graphics)|Photon mapping|Computer engineering
+references:1943392407|2005173361|2006202775|2027979483|2037187097|2041697116|2094199382|2104814486|2129218424|2129883812|2134716368|2137706341|2141966484|2167031184|2282090643|2296516740|2736731300
+
+
+id:2979623283
+title:Two-layer microfacet model with diffraction
+year:2019
+author information:[
+author name:Yufei Chai
+author organization:Shandong University
+author id:2980189686|
+author name:Yanning Xu
+author organization:SHANDONG UNIVERSITY
+author id:2160521608|
+author name:Maopu Xu
+author organization:Shandong Experimental High School, Jinan 250100, China
+author id:2967601402|
+author name:Lu Wang
+author organization:Shandong University
+author id:2612107069|
+]
+abstract:measured|upper|microfacetbased|materials|three|easily|model|probabilities|manipulated|models|based|using|lower|propose|traditional|light|contrast|roughness|ond|distribution|scattered|layer|microfacet|abstract|combines|describes|model|plausibly|reflective|traditional|cannot|describe|randomly|plasticlike|analytic|bidirectional|approximate|diffuse|bsdf|multilayer|surface|function|method|ignored|approximation|diffraction|specular|collection|effects|scattering|diffraction|especially|proposed|coefficient|assume|oriented|expressions|surfaces|parameterized|ignore|convolution|considers|previous|reflectance|better|ctd|reflectance|yields|twolayer|properties
+venue name:Computers  Graphics
+venue id:94821547
+venue type:J
+document type:Journal
+study fields:Computer vision|Parameterized complexity|Computational physics|Precomputation|Convolution|Computer science|Specular reflection|Artificial intelligence|Surface finish|Diffraction|Bidirectional scattering distribution function|Computation
+references:1486787228|1518216403|1970516706|1979606301|2031307750|2040692352|2060813177|2080638042|2104587129|2120448006|2144188683|2149089336|2150810898|2151840883|2220595294|2295834392|2474844239|2480153796|2497538938|2594032576|2610372066|2616500594|2902979570|2903082921|2903416534
+

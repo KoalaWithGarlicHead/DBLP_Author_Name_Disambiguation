@@ -1,0 +1,2988 @@
+
+id:1960067621
+title:Efficient cooperative compressive spectrum sensing by identifying multi-candidate and exploiting deterministic matrix
+year:2015
+author information:[
+author name:Jia Li
+author organization:Harbin Institute of Technology
+author id:2423732230|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Wenjie Yan
+author organization:Hebei University of Technology
+author id:2497361801|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+]
+abstract:improves|channel|accuracy|without|required|number|introduced|identification|spatial|utilized|energy|algorithm|reduce|based|efficiency|probability|lower|propose|taverage|cognitive|provide|spectrum|exact|algorithms|utilizing|pursuit|deterministic|sparsity|respectively|networks|matrix|distribution|two|exploits|matching|diversity|orthogonal|low|firstly|validate|performance|detection|gradient|compressive|simulations|filter|degrading|descent|efficiently|multicandidate|shrinkage|reports|occupancy|several|threshold|mainly|radio|time|coherence|satisfactory|different|realize|identification|less|iterations|fusion|channels|improve|coefficient|proposals|higher|detect|numerical|common|alarm|construction|projection|occupied|sensing|cooperative|effectively|center|false|approaches|performance|gaussian|reducing|referred
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Matching pursuit|Antenna diversity|Gradient descent|Orthogonal matrix|Coefficient matrix|False alarm|Computer science|Matrix (mathematics)|Artificial intelligence|Machine learning|Cognitive radio
+references:1986540212|2006554558|2019798834|2027740031|2040367593|2046658845|2048037474|2060573947|2065321782|2065715415|2069041187|2081540728|2104061815|2106917671|2110005331|2116148865|2117592368|2123293489|2123629701|2127271355|2132702454|2134033146|2138463885|2144112805|2145417574|2149406951|2150126176|2151693816|2160979406|2164132792|2168078104|2168746287|2171423048|2171974671|2296616510
+
+
+id:1964143319
+title:MCMC-based indoor localization with a smart phone and sparse WiFi access points
+year:2012
+author information:[
+author name:Yan Liu
+author organization:Harbin Institute of Technology
+author id:2648673559|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2950947848|
+author name:Junbin Liu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2473317104|
+author name:Tim Wark
+author organization:CSIRO ICT Centre Brisbane, Australia
+author id:1857817433|
+]
+abstract:localization|accurate|stateoftheart|approach|nearby|number|suffer|experiment|fingerprinting|limitations|based|using|method|position|probability|sampling|received|monte|propose|provide|phone|indoor|obtained|environment|chain|access|methods|overcome|benchmarked|distribution|two|smart|sparsely|local|extended|fuse|measurements|markov|inference|pocketplaced|simulations|information|wifi|novel|mcmc|office|developed|points|high|aps|signal|typically|real|practicality|proposed|person|strengths|position|present|carrying|deployed|technique|training|applications|types|requirements|previous|limited|apply|carlo|approaches|inertial|sensors|performance|due|typical|well
+venue name:IEEE International Conference on Pervasive Computing and Communications
+venue id:2606000596
+venue type:C
+document type:Conference
+study fields:Monte Carlo method|Markov process|Markov chain Monte Carlo|Computer science|Real-time computing|Probability distribution|Dead reckoning|Inertial measurement unit|Fuse (electrical)|Indoor positioning system|Distributed computing|Embedded system
+references:1989404914|1995588456|2010121988|2070027626|2078493525|2100989187|2106985027|2109006958|2118975298|2141263318|2155861586|2167470927|2170102584
+
+
+id:1966112487
+title:Observer design for discrete-time descriptor systems: An LMI approach
+year:2012
+author information:[
+author name:Zhenhua Wang
+author organization:School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2653686710|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Harbin 150001, China
+author id:2175482809|
+author name:Xiaolei Zhang
+author organization:School of Astronautics, Harbin Institute of Technology, West Da-Zhi Street, 150001 Harbin, PR China
+author id:2268562823|
+author name:Qiang Wang
+author organization:School of Astronautics, Harbin Institute of Technology, West Da-Zhi Street, 150001 Harbin, PR China
+author id:2974017400|
+]
+abstract:existence|descriptor|nonlinear|approach|lipschitz|constraints|via|observer|investigated|problem|presented|sufficient|formulation|method|given|illustrate|estimation|proposed|examples|considered|conditions|systemic|inequalities|extension|convergence|matrix|systems|design|class|linear|necessary|abstract|performance|simulation|discretetime
+venue name:Systems  Control Letters
+venue id:56603566
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Mathematical optimization|Nonlinear system|Matrix (mathematics)|Control theory|Lipschitz continuity|Descriptor systems|Discrete time and continuous time|Observer (quantum physics)|Linear matrix inequality|Mathematics
+references:1975179215|1977760258|2064710808|2083659411|2100265772|2132032062|2140463469|2141488816|2168479567|2324667392
+
+
+id:1972405078
+title:An optimization-based ensemble EMD for classification of hyperspectral images
+year:2013
+author information:[
+author name:Yi Shen
+author organization:Harbin Institute of Technol., Harbin
+author id:2175482809|
+author name:Zhi He
+author organization:Sch. of Astronaut., Harbin Institute of Technol., Harbin, China
+author id:2639297227|
+author name:Xiaoshuai Li
+author organization:Sch. of Astronaut., Harbin Institute of Technol., Harbin, China
+author id:2228104557|
+author name:Qiang Wang
+author organization:Sch. of Astronautics, Harbin Institute of Technol., China
+author id:2200803893|
+author name:Miao Zhang
+author organization:Sch. of Astronaut., Harbin Institute of Technol., Harbin, China
+author id:2423168040|
+author name:Yan Wang
+author organization:Sch. of Astronaut., Harbin Institute of Technol., Harbin, China
+author id:2529756435|
+]
+abstract:svm|functions|empirical|constraints|extracted|optimization|eemd|promising|based|images|issue|mall|classified|dc|extraction|propose|inequality|rely|utilize|optimizationbased|eemd|aim|methods|hyperspectral|bands|washington|literature|found|feature|taken|vector|key|minimizes|confirm|massive|classification|machine|associated|approach|dataset|assumptions|essential|mode|features|function|extraction|simulations|subjected|intrinsic|plenty|techniques|support|benefits|classifier|ensemble|decomposition|paper|iteration|smooth|enhance|alternative|versatile|formulated|performance|step|methodology
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Data mining|Pattern recognition|Computer science|Support vector machine|Feature extraction|Maxima and minima|Hyperspectral imaging|Artificial intelligence|Contextual image classification|Classifier (linguistics)|Optimization problem|Hilbert–Huang transform
+references:1973944664|1980335005|1994722468|2013793344|2038798543|2063822364|2064886835|2072426906|2077113566|2081584380|2100740156|2104453356|2120390927|2126326837|2126796976|2129276500|2134339791|2140991832|2159070926
+
+
+id:1977187258
+title:A tractable mechanism for external calibration in non-overlapping camera network
+year:2011
+author information:[
+author name:Qiang Wang
+author organization:Sch. of Astronautics, Harbin Institute of Technol., China
+author id:2706785072|
+author name:Yan Liu
+author organization:Harbin Institute of Technol., Harbin
+author id:2678813140|
+]
+abstract:incur|impacting|calibrated|constraints|density|without|improved|cameras|poor|order|based|using|method|work|robustness|classified|route|provide|inspires|must|among|camera|mechanism|popular|calibration|compared|measurements|cumulative|address|may|approaches|analyzed|nonoverlapping|first|associated|ali|use|reasonable|curve|shown|generated|presented|problems|results|us|threestep|comparison|tractable|less|develop|synthetic|take|external|proposed|trajectories|position|parameters|errors|trajectories|according|generating|best|error|factors|function|paper|selecting|orientation|types|practical|effectively|alternative|factors|target|presents
+venue name:International ICST Conference on Communications and Networking in China
+venue id:2754780913
+venue type:C
+document type:Conference
+study fields:Computer vision|Radio networks|Camera network|Robustness (computer science)|Cumulative distribution function|Artificial intelligence|Trajectory control|Calibration|Mathematics|Statistical analysis
+references:1975674440|1996510942|2036735669|2049363745|2092598265|2107457079|2143137993|2157929926|2162265152|2163457003
+
+
+id:1979078563
+title:Discrete multivariate gray model based boundary extension for bi-dimensional empirical mode decomposition
+year:2013
+author information:[
+author name:Zhi He
+author organization:School of Astronautics, Harbin Institute of Technology (HIT), Harbin 150001, China
+author id:2639297227|
+author name:Qiang Wang
+author organization:School of Astronautics, Harbin Institute of Technology (HIT), Harbin 150001, China
+author id:2974285885|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Harbin 150001, China
+author id:2175482809|
+author name:Yan Wang
+author organization:School of Astronautics, Harbin Institute of Technology (HIT), Harbin 150001, China
+author id:2700733575|
+]
+abstract:mitigating|empirical|fruitful|approach|three|terms|qualitative|symmetrical|model|block|greater|utilized|promising|based|verifying|equivalence|images|propose|effects|attracted|processing|ie|relative|appropriate|extension|achieve|multivariate|respectively|extended|characteristic|adaptive|gray|motivated|integral|yield|indicate|threevariable|processing|synthesis|middle|set|within|texture|coordinates|generally|extensive|framework|regarded|series|improvements|border|data|used|mode|high|bemd|continuous|results|image|experimental|widely|comparing|discrete|effects|pixels|proposed|firstorder|boundary|acknowledged|technique|decomposition|necessarily|convolution|predict|virtue|derived|original|recently|followed|existing|performance|due|quantitative|attention|well|time|bidimensional
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Image processing|Equivalence (measure theory)|Artificial intelligence|Texture synthesis|Mathematical optimization|Convolution|Multivariate statistics|Algorithm|Pixel|Machine learning|Mathematics|Hilbert–Huang transform|Gray (unit)
+references:1966657178|1976836781|1999418380|2001832568|2020569194|2033485456|2043860979|2044487868|2069633290|2077786999|2078258947|2086816085|2093926947|2116013899|2119589101|2122470043|2123325761|2144637885|2170044118
+
+
+id:1981292894
+title:Flocking based sensor deployment in mobile sensor networks
+year:2012
+author information:[
+author name:Zhiliang Tu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, 150001, China
+author id:2107745600|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2919488714|
+author name:Hairong Qi
+author organization:Tennessee University
+author id:2131491696|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2918810768|
+]
+abstract:three|without|maximize|path|reliable|problem|state|moving|algorithm|based|using|distance|coincide|handle|extend|input|reached|networks|algorithms|tessellation|achieve|global|distribution|two|triangle|local|proved|flocking|based|surround|map|deployment|address|density|information|first|centered|approximate|inside|either|stationary|uniformly|function|satisfactory|results|predicted|area|velocities|scalable|proposes|homogeneous|driving|proposed|sensor|neighborhood|demonstrate|relocated|according|deployed|mobile|network|paper|along|interest|since|steady|coverage|toi|mobile|control|calculates|target|hole|sensors|simulation|stable|equilateral|provided
+venue name:Computer Communications
+venue id:115004586
+venue type:J
+document type:Journal
+study fields:Flocking (texture)|Equilateral triangle|Software deployment|Global Map|Computer science|Real-time computing|Tessellation|Probability density function|Mobile sensor networks|Scalability|Distributed computing
+references:1491093925|1493007304|1541256735|1973963158|1979283414|1994543766|2024639781|2027430378|2030250576|2089430545|2101337671|2103981365|2105850748|2108299551|2119693819|2121754496|2121858253|2127287364|2127469103|2127843168|2128928412|2133486451|2136928898|2138668955|2145854207|2153239294|2163882202|2164979331|2166038957|2167485994|2171371095
+
+
+id:1985633104
+title:Flocking based distributed self-deployment algorithms in mobile sensor networks
+year:2012
+author information:[
+author name:Zhiliang Tu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, 150001, China
+author id:2107745600|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2919488714|
+author name:Hairong Qi
+author organization:Tennessee University
+author id:2131491696|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2918810768|
+]
+abstract:centered|isotropic|uniformity|recognized|rules|inside|problem|stationary|four|uniformly|inferred|assumption|dynamic|sensors|based|models|simulations|devices|distributed|toi|assisted|proposed|improve|sensor|networks|demonstrate|region|firstorder|relative|algorithms|relocated|equipped|guarantee|mobile|lyapunov|extended|network|effective|secondorder|interest|stabilities|performances|holes|situation|anisotropic|deployment|direction|algorithms|coverage|address|could|mobile|situations|control|also|target|proposed|provided|novel
+venue name:Journal of Parallel and Distributed Computing
+venue id:157146593
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Flocking (texture)|Software deployment|Computer science|Relative direction|Algorithm|Region of interest|Mobile wireless sensor network|Wireless sensor network|Mobile sensor networks|Distributed computing
+references:1491093925|1493007304|1541256735|1973963158|1979283414|2024639781|2027430378|2030250576|2036268493|2101337671|2103981365|2105850748|2110267438|2121754496|2127287364|2127843168|2128928412|2133486451|2136928898|2138668955|2145854207|2153239294|2156306456|2166038957|2167485994|2169883866|2911824201
+
+
+id:1985962157
+title:Blind Source Separation based on Compressed Sensing
+year:2011
+author information:[
+author name:Zhenghua Wu
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2103969556|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2753944109|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2706785072|
+author name:Jie Liu
+author organization:Harbin Institute of Technology China
+author id:2633336640|
+author name:Bo Li
+author organization:Harbin Institute of Technology
+author id:2755947665|
+]
+abstract:equivalent|principle|named|separate|coherent|simulation|sensing|whole|good|operator|mixtures|asserts|number|prior|signal|algorithm|similar|new|projections|give|bss|issue|like|instructive|conclusions|modeled|conducted|propose|important|underdetermined|sparse|foomp|processing|demonstrate|framework|separation|numerical|sources|technique|representation|two|source|random|relationship|blind|applying|recover|linear|limited|multidimensional|studied|one|data|compressed|cs|performance|rip|information|required|design
+venue name:International ICST Conference on Communications and Networking in China
+venue id:2754780913
+venue type:C
+document type:Conference
+study fields:Computer simulation|Underdetermined system|Pattern recognition|Computer science|Sparse approximation|Linear map|Operator (computer programming)|Artificial intelligence|Numerical analysis|Blind signal separation|Compressed sensing
+references:1535021324|2017761965|2038237443|2096613063|2129638195|2145096794|2170844819|2296616510
+
+
+id:1989698422
+title:An Efficient and Effective Localization Method for Networked Disjoint Top-View Cameras
+year:2013
+author information:[
+author name:Yan Liu
+author organization:Coll. of Astronauts, Harbin Institute of Technol., Harbin, China
+author id:2648673559|
+author name:Qiang Wang
+author organization:Sch. of Astronautics, Harbin Institute of Technol., China
+author id:2950947848|
+author name:Junbin Liu
+author organization:Inf.  Commun. Technol. Center, Commonwealth Sci.  Ind. Res. Organ., Clayton South, VIC, Australia
+author id:2473317104|
+author name:Juan Chen
+author organization:Coll. of Astronauts, Harbin Institute of Technol., Harbin, China
+author id:2709710179|
+author name:Tim Wark
+author organization:Inf.  Commun. Technol. Centre, Commonwealth Sci.  Ind. Res. Organ., Perth, WA, Australia
+author id:1857817433|
+]
+abstract:localization|named|accurate|accuracy|stateoftheart|approach|tracking|without|evaluation|problem|would|cameras|strict|utilized|algorithm|based|relative|method|opportunistically|herein|quality|fail|provide|field|rely|among|indoor|experiments|current|motion|object|study|inference|one|classical|networks|cameras|lmap|known|disjoint|calibration|address|many|computation|simulations|context|assess|norms|metric|locations|maximum|open|joint|questions|assumptions|either|high|maximum|presented|results|backprojected|area|new|image|commonly|real|topview|posteriori|proposed|demonstrate|present|parameters|networked|mabr|locationconstrained|taskoriented|extrinsic|observations|surveillance|passed|applications|value|applying|motion|approaches|requirement|trajectory|superior|performance|locations|formulates
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Field of view|Computer vision|Disjoint sets|Inference|Video tracking|Artificial intelligence|Maximum a posteriori estimation|Calibration|Mathematics|Trajectory|Computation
+references:1977187258|1977272108|1993201133|1996510942|2036735669|2049363745|2057604075|2077322237|2084378870|2103475197|2106169758|2106619597|2120694363|2124535811|2133505209|2138526735|2147320908|2149431106|2157929926|2158884168|2162265152|2165507698|2167667767
+
+
+id:1993682002
+title:Phase-preserving speckle reduction based on soft thresholding in quaternion wavelet domain
+year:2012
+author information:[
+author name:Yipeng Liu
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2264856204|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2175482809|
+]
+abstract:presentation|contrast|several|resolution|find|method|model|shiftinvariant|soft|image|based|images|using|demonstrates|excellent|difficult|real|tool|discrete|synthetic|task|quaternion|proposed|domain|wavelet|processing|little|speckle|thresholding|images|aim|superiority|influenced|nearly|experiments|classical|phasebased|derive|denoising|transform|low|magnitude|phases|compared|rayleigh|algorithms|noises|characteristics|texture|speckle|ultrasound|qwt|superior|criterion|performance|conduct|coefficients|reduction|exploit|novel|properties
+venue name:Journal of Electronic Imaging
+venue id:158511090
+venue type:J
+document type:Journal
+study fields:Noise reduction|Computer vision|Pattern recognition|Speckle pattern|Computer science|Quaternion|Artificial intelligence|Discrete wavelet transform|Thresholding|Wavelet|Rayleigh distribution|Wavelet transform
+references:1571689636|1882871651|1988819287|1992199002|2100874022|2124335859|2125527601|2145412836|2146842127|2147056688|2151191108|2160637922
+
+
+id:1999418380
+title:Boundary extension for Hilbert-Huang transform inspired by gray prediction model
+year:2012
+author information:[
+author name:Zhi He
+author organization:School of Astronautics, Harbin Institute of Technology (HIT), Harbin 150001, China
+author id:2639297227|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Harbin 150001, China
+author id:2175482809|
+author name:Qiang Wang
+author organization:School of Astronautics, Harbin Institute of Technology (HIT), Harbin 150001, China
+author id:2974285885|
+]
+abstract:mitigating|improves|plague|inevitably|model|developed|based|method|analysis|comparisons|extension|mirror|methods|achieve|one|experiments|autoregressive|gray|world|reduces|demonstrated|precision|according|many|transformation|generally|series|aiming|hht|operation|open|accumulated|calculation|data|suffering|use|using|confront|residual|results|wellknown|including|real|produced|synthetic|effects|proposed|prediction|termed|problems|full|boundary|acknowledged|neural|idea|derivative|generating|decomposition|error|network|numerical|transform|end|make|cubic|six|original|beginning|multiple|hilberthuang|better|artificial|well|significantly|extending
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Spline (mathematics)|Residual|Autoregressive model|Extension method|Data analysis|Control theory|Algorithm|Artificial intelligence|Artificial neural network|Mathematics|Hilbert–Huang transform|Gray (unit)
+references:182476373|1964585049|1971431028|1980505714|2024177505|2042145419|2069633290|2086955951|2103576720|2105880556|2142589919|2152709686
+
+
+id:1999663947
+title:Optimized Ensemble EMD-Based Spectral Features for Hyperspectral Image Classification
+year:2014
+author information:[
+author name:Zhi He
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2639297227|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2974285885|
+author name:Yan Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2700733575|
+]
+abstract:functions|empirical|stateoftheart|extracted|optimization|gained|eemd|greater|algorithm|issue|method|robustness|methods|classified|inspired|extraction|analysis|classification|benchmark|samples|rely|summed|appropriate|methods|achieve|hyperspectral|automatically|sum|bands|two|experiments|local|gain|literature|found|feature|fisher|multipliers|vector|validate|compared|neighbor|generally|hsi|massive|classification|machine|extracting|choice|assumptions|essential|spectral|several|solved|challenging|mode|features|major|image|new|proposes|intrinsic|weights|plenty|important|hsis|techniques|discriminant|support|problems|higher|benefits|acknowledged|optimized|aspects|ensemble|decomposition|training|sifting|paper|direction|enhance|process|constructed|rates|alternative|yet|formulated|alternating|well|significantly|methodology|knearest
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Support vector machine|Feature extraction|Hyperspectral imaging|Robustness (computer science)|Artificial intelligence|Linear discriminant analysis|Contextual image classification|Optimization problem|Mathematics|Hilbert–Huang transform
+references:1969204685|1972405078|1973944664|1976359033|1980335005|1994722468|1997565609|2007357277|2012558304|2013793344|2030629635|2038798543|2043116665|2044439250|2063822364|2064886835|2072426906|2077113566|2081584380|2086762254|2097075663|2100740156|2103094532|2106513083|2109531142|2112589365|2118463106|2119897980|2120390927|2123031198|2126796976|2129276500|2131725398|2134339791|2136251662|2137900926|2140991832|2146344928|2152322845|2154874087|2157621128|2158146385|2159070926|2164278908|2166089572|2166163522|2166564037
+
+
+id:2022361862
+title:Kernel Sparse Multitask Learning for Hyperspectral Image Classification With Empirical Mode Decomposition and Morphological Wavelet-Based Features
+year:2014
+author information:[
+author name:Zhi He
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2639297227|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2974285885|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Mingjian Sun
+author organization:Harbin Institute of Technology
+author id:2168067025|
+]
+abstract:functions|accurate|empirical|stateoftheart|extracted|whereas|spatial|generation|multitask|researchers|remain|classification|extraction|utilizes|benchmark|provide|analyze|formed|simultaneously|components|methods|hyperspectral|sum|experiments|two|gain|found|feature|taken|compared|morphological|sets|efficient|gradient|many|accelerated|accuracy|onelevel|proximal|lowfrequency|exploit|ratio|spectral|mtl|data|samples|solved|mode|features|classifiers|different|emd|results|combination|mwt|image|classifiers|conducted|intrinsic|proposed|sparse|techniques|wavelet|higher|challenges|applied|optimized|kernelbased|decomposition|learning|training|integrated|transform|paper|resolutions|sparsitybased|various|attempted|spectralspatial|significantly
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Computer vision|Multi-task learning|Pattern recognition|Image processing|Hyperspectral imaging|Feature extraction|Artificial intelligence|Mathematics|Wavelet|Hilbert–Huang transform|Wavelet transform
+references:1974981350|1979078563|1992961908|1997565609|1999418380|2001298023|2005106632|2013793344|2021576853|2043116665|2043665634|2044439250|2045095960|2051065934|2061572659|2064604707|2081584380|2087347434|2097915756|2102674365|2112589365|2113513024|2126796976|2127271355|2128550928|2129638195|2129686634|2130630043|2131725398|2131864940|2135562430|2135758523|2144151128|2144348684|2145096794|2145649962|2154881938|2156909104|2158917775|2159070926|2160979406|2162698522|2164330327|2170407643|2171566342
+
+
+id:2033139219
+title:Phases measure of image sharpness based on quaternion wavelet
+year:2013
+author information:[
+author name:Yipeng Liu
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2264856204|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Qiang Wang
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, No. 92 West Dazhi Street, Nangang District, 150001 Harbin, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, No. 92 West Dazhi Street, Nangang District, 150001 Harbin, China
+author id:2175482809|
+]
+abstract:employ|construct|three|sharpness|exhibit|eigenvalue|respectively|based|images|histograms|natural|methods|distributions|quaternion|provide|interpretation|metrics|achieve|experiments|blur|distribution|two|transform|result|feature|noise|indicate|relationship|phases|robust|abstract|one|consistent|metric|exploit|novel|use|metric|simple|find|function|different|results|image|new|degree|conducted|important|proposed|wavelet|present|decompose|detect|decomposition|effective|transform|metrics|transformed|magnitude|characteristics|better|existing|performance|form|variance|coefficients|frequencies
+venue name:Pattern Recognition Letters
+venue id:151820558
+venue type:J
+document type:Journal
+study fields:Histogram|Computer vision|Image gradient|Pattern recognition|Quaternion|Gaussian blur|Artificial intelligence|Stationary wavelet transform|Wavelet packet decomposition|Mathematics|Wavelet|Wavelet transform
+references:1533408562|1571689636|1972497951|1993682002|2006331864|2039608780|2040321535|2049120232|2057769475|2117806618|2145412836|2147056688|2159749540
+
+
+id:2044557921
+title:Region level based multi-focus image fusion using quaternion wavelet and normalized cut
+year:2014
+author information:[
+author name:Yipeng Liu
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2264856204|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Qiang Wang
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Room 602, Main Building, No. 92 Xidazhi Street, Nangang District, Harbin 150001, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Room 602, Main Building, No. 92 Xidazhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+author name:Xiaoqiu Dong
+author organization:Harbin Medical University
+author id:2624866800|
+]
+abstract:results|regionlevel|region|focus|years|visual|spatial|recent|algorithm|phase|based|images|using|method|thus|methods|index|refine|accurately|propose|quality|feasibility|quaternion|obtained|detectionwe|compare|cut|methods|experiments|direct|roughlythe|local|result|verify|segmentation|demonstrated|popular|phases|detection|initial|texture|representing|image|information|exploit|novel|use|several|source|frequency|cutwe|reference|initially|segment|copying|weighted|acquired|image|ideal|level|segmentation|weight|tool|fusion|difficulty|proposed|improve|wavelet|region|helps|region|boundary|accurately|framework|locate|normalized|according|detect|capable|remove|transform|similarity|along|structural|similarity|result|every|pixel|multifocus|defocus|ways|superior|conduct|due|variance
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Computer vision|Image fusion|Pattern recognition|Segmentation|Quaternion|Fusion|Artificial intelligence|Pixel|Spatial frequency|Mathematics|Wavelet transform|Wavelet
+references:1763453483|1993682002|2005682787|2020442368|2025133197|2026651590|2033139219|2042297216|2048661006|2054815365|2056346283|2057769475|2080512457|2114207195|2121947440|2133135191|2133665775|2133821846|2147056688|2148125137
+
+
+id:2048087281
+title:GA-BFO based signal reconstruction for compressive sensing
+year:2013
+author information:[
+author name:Dan Li
+author organization:Harbin Institute of Technology
+author id:2635618131|
+author name:Muyu Li
+author organization:University of Sci.  Tech. of China
+author id:2223345494|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Yan Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2529756435|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+]
+abstract:possibilities|optimal|theoretical|foraging|serve|three|mainly|norm|problem|solution|optimization|find|implemented|directly|signal|algorithm|based|method|proposes|difficult|includes|exhaustively|core|traditional|omp|sparse|minimization|solve|algorithm|theory|cs|requires|nphard|achieve|sparsity|global|optimization|result|proved|numerical|paper|bacteria|listing|genetic|sensing|original|combines|compressive|intelligent|simulations|superior|uncorrelated|performance|reconstruction|achieved|constraint|evolutionary|operation
+venue name:International Conference on Information and Automation
+venue id:2623485896
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Computer science|Meta-optimization|Sparse approximation|Minification|Numerical analysis|Genetic algorithm|Compressed sensing|Signal reconstruction|Computational complexity theory
+references:2098996169|2118762402|2129638195|2145096794|2167294733|2295549646
+
+
+id:2064237292
+title:Measurement matrix construction algorithm for sparse signal recovery
+year:2013
+author information:[
+author name:Wenjie Yan
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2147047380|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:ZhengHua Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2103969556|
+]
+abstract:smaller|coherence|iteratively|introduced|shrinking|introduced|optimizing|state|algorithm|using|method|conclude|singular|traditional|dictionary|even|among|adopting|algorithms|compare|achieve|columns|experiments|matrix|measurement|matching|proved|orthogonal|based|close|performance|established|art|within|decreased|compressive|many|cs|framework|small|almost|several|simple|decomposition|used|random|prior|greedy|signal|test|researchers|widely|xu|proposed|sparse|improve|value|fixed|present|purpose|optimized|technique|recovery|conclusion|random|construction|matrices|algorithms|sensing|decreasing|base|outperforms|better|performance|reconstruction|well|gaussian|bound|base|welch
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Matching pursuit|Singular value decomposition|Eight-point algorithm|K-SVD|Matrix (mathematics)|Computer science|Sparse approximation|Algorithm|Cuthill–McKee algorithm|Sparse matrix
+references:1972091546|1977252496|1982334922|2027740031|2095210832|2129131372|2129638195|2132702454|2134033146|2160979406
+
+
+id:2133771658
+title:A New Measurement of Systematic Similarity
+year:2008
+author information:[
+author name:Yi Guan
+author organization:Harbin Institute of Technol., Harbin
+author id:2223322364|
+author name:Xiaolong Wang
+author organization:Harbin Institute of Technol., Harbin
+author id:2108819515|
+author name:Qiang Wang
+author organization:baidu
+author id:2465825739|
+]
+abstract:incorporates|modeling|conforms|tentatively|theoretical|objects|focus|issues|research|either|realistic|controversy|model|text|potential|new|models|still|mapping|presented|inspired|relevance|undertaken|cognitive|science|contrast|world|theory|experiments|show|mental|video|retrieval|two|measurement|current|world|similarity|relationship|universal|every|may|nature|although|systematic|many|structure|model|framework|material|exists|ranking|validity|applications
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Semantic similarity|Ranking|Information retrieval|Computer science|Similarity heuristic|Image retrieval|Artificial intelligence|Mental world|Cognition|Machine learning|The Internet
+references:97277479|219090214|1493471663|1535889719|1607983314|1647729745|1891372937|1972645849|1973754941|1978394996|1981485102|1984454122|1987936485|2006187024|2026161499|2036705516|2081580037|2083995149|2087739686|2107412086|2117805756|2117831564|2118668678|2123457740|2131315076|2134126205|2145454741|2146310234|2160245062|2296349981
+
+
+id:2139035962
+title:Single-image super-resolution using directional total variation regularization and alternating direction method of multiplier solver
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Room 602, Main building 92 West Dazhi Street, Nangang District, Harbin 150001, China
+author id:2200803893|
+author name:Zhenghua Wu
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2103969556|
+author name:Mingjian Sun
+author organization:Harbin Institute of Technology
+author id:2168067025|
+author name:Ting Liu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2639206870|
+author name:Bo Li
+author organization:Harbin Institute of Technology
+author id:2546677915|
+author name:Naizhang Feng
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Room 602, Main building 92 West Dazhi Street, Nangang District, Harbin 150001, China
+author id:2130710971|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Room 602, Main building 92 West Dazhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+]
+abstract:modeling|regularization|several|used|lowresolution|challenging|issues|variation|regularizers|optimization|presented|computer|method|limitations|neglect|algorithm|singleimage|always|image|images|using|multiplierbased|method|underlying|propose|resulting|important|proposed|selection|solve|effect|demonstrate|leverage|superresolution|overcome|total|directional|parameter|structured|direction|sr|processing|effectiveness|explore|problem|highresolution|caused|effectively|texture|discussed|one|structures|edges|qualitatively|also|approaches|data|leaf|improvement|produce|highlevel|variation|simulations|alternating|conventional|information|quantitatively
+venue name:Journal of Electronic Imaging
+venue id:158511090
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Computer science|Image processing|Multiplier (economics)|Total variation denoising|Regularization (mathematics)|Artificial intelligence|Optimization algorithm|Solver|Superresolution|Optimization problem
+references:1992408872|2026517977|2029684123|2067625321|2086934262|2107384509|2117406282|2117865218|2121058967|2123613719|2130638881|2133665775|2143384667|2149669120|2165939075|2169899245|2534320940
+
+
+id:2143316383
+title:Hyperspectral Feature Selection Based on Mutual Information and Nonlinear Correlation Coefficient
+year:2009
+author information:[
+author name:Miao Zhang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2423168040|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2628387617|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2640982699|
+author name:Bo Zhang
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2659407507|
+]
+abstract:aviris|past|data|conditional|replace|whole|nonlinear|features|mi|potential|results|fully|order|simulations|using|including|method|classification|propose|correlation|exploited|mutual|coefficient|components|reveals|show|ones|numerical|feature|paper|onedimensional|make|highly|carried|amount|components|may|decomposed|multidimensional|problematic|also|improvement|great|computation|accuracy|obvious|easier|information|dataset
+venue name:Intelligent Information Hiding and Multimedia Signal Processing
+venue id:1134765956
+venue type:C
+document type:Conference
+study fields:Information theory|Nonlinear system|Pattern recognition|Feature selection|Computer science|Feature extraction|Hyperspectral imaging|Artificial intelligence|Mutual information|Nonlinear correlation|Computation
+references:1992813404|2042255844|2044321097|2050988628|2130949063|2136251662
+
+
+id:2143944479
+title:SVM-Based Spam Filter with Active and Online Learning
+year:2006
+author information:[
+author name:Qiang Wang
+author organization:Harbin Institute of Technology
+author id:2465825739|
+author name:Yi Guan
+author organization:
+author id:2223322364|
+author name:Xiaolong Wang
+author organization:
+author id:2108819515|
+]
+abstract:support|criteria|number|realistic|problem|terms|evolves|model|filtering|vector|results|goodness|promising|money|using|large|active|classification|benchmark|take|examples|legitimate|evaluate|fact|classifier|training|learning|reported|emails|paper|labeling|unsolicited|effectiveness|address|set|initial|also|expensive|separating|ones|online|time|spam|machines|account|base
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Online learning|Bag-of-words model|Data mining|Online machine learning|Computer science|Support vector machine|Filter (signal processing)|Artificial intelligence|Classifier (linguistics)|Machine learning
+references:1504008138|1845402413|2103105543|2108807072|2120011452|2132641846|2141290019|2171622762|2426031434
+
+
+id:2144439732
+title:Fast quantitative correlation analysis and information deviation analysis for evaluating the performances of image fusion techniques
+year:2004
+author information:[
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Ye Zhang
+author organization:
+author id:2711034095|
+author name:Jian Qiu Zhang
+author organization:
+author id:2164555845|
+]
+abstract:simulation|image|evaluation|evaluated|based|images|method|schemes|analysis||version|two|former|operate|correlation|analyze|analysisbased|evaluating|compare|scheme|hyperspectral|spectrometer|two|quantitatively|multiresolution|compared|processing|sets|one|qca|fast|information|techniques|essential|becoming|compact|using|source|faster|transformbased|method|different|directly|results|image|correctness|imaging|fusion|proposed|techniques|wavelet|analysis|part|show|speed|hottest|performances|effectiveness|deviation|schemes|intuitive|performance|quantitative|fused|pyramid|typical|latter
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Computer vision|Imaging spectrometer|Image fusion|Image processing|Fusion|Multiresolution analysis|Hyperspectral imaging|Artificial intelligence|Digital image processing|Mathematics|Wavelet transform
+references:2044394856|2091947264|2111422864|2161211851
+
+
+id:2158173952
+title:Shrinkage-Based Alternating Projection Algorithm for Efficient Measurement Matrix Construction in Compressive Sensing
+year:2014
+author information:[
+author name:Wenjie Yan
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2147047380|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+]
+abstract:smaller|coherence|iteratively|experimental|stateoftheart|introduced|introduced|optimization|algorithm|using|conclude|even|among|adopting|algorithms|superiority|achieve|columns|experiments|pursuit|matrix|networks|measurement|regularized|matching|orthogonal|temperature|close|compared|performance|efficient|within|decreased|compressive|gathering|lead|cs|extensive|framework|shrinkage|data|simple|greedy|signal|results|test|conducted|comparing|real|xu|proposed|sparse|conducted|fixed|sensor|purpose|optimized|show|technique|recovery|random|construction|welch|mmca|projection|algorithms|sensing|also|outperforms|better|existing|alternating|performance|reconstruction|wireless|bound
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Matching pursuit|Randomized algorithm|Mathematical optimization|Dykstras projection algorithm|Matrix (mathematics)|Algorithm|Greedy algorithm|Electronic engineering|Mathematics|Sparse matrix|Compressed sensing|Signal reconstruction
+references:1972091546|1977252496|1982334922|2027740031|2064237292|2095210832|2095978736|2127271355|2129131372|2129638195|2132702454|2134033146|2138548210|2160979406|2296616510
+
+
+id:2161211851
+title:A quantitative method for evaluating the performances of hyperspectral image fusion
+year:2003
+author information:[
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Ye Zhang
+author organization:
+author id:2711034095|
+author name:Jian Qiu Zhang
+author organization:
+author id:2164555845|
+]
+abstract:transferred|data|called|hyperspectral|using|developed|evaluation|output|testified|method|different|directly|recent|results|image|based|images|method|work|conclusions|methods|agree|analysis|classification|simulations|fusion|measure|correlation|proposed|little|fusion|applied|methods|hyperspectral|show|technique|numerical|typical|provides|applications|performances|key|compared|processing|performing|analyzed|image|also|many|concerning|quantitative|information
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Computer vision|Data processing|Image fusion|Pattern recognition|Fusion|Hyperspectral imaging|Artificial intelligence|Image resolution|Entropy (information theory)|Correlation analysis|Mathematics
+references:2044394856|2111422864|2152254169
+
+
+id:2166163522
+title:Multivariate Gray Model-Based BEMD for Hyperspectral Image Classification
+year:2013
+author information:[
+author name:Zhi He
+author organization:Department of Control Science and Engineering, School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2639297227|
+author name:Qiang Wang
+author organization:Department of Control Science and Engineering, School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2974285885|
+author name:Yi Shen
+author organization:Control science and engineering, School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Yan Wang
+author organization:Department of Control Science and Engineering, School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2700733575|
+]
+abstract:extensive|functions|optimal|bemd|empirical|selfadaptive|trapezoidal|effect|extracted
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Simpsons rule|Pattern recognition|Convolution|Trapezoidal rule|Support vector machine|Image processing|Hyperspectral imaging|Pixel|Artificial intelligence|Mathematics|Hilbert–Huang transform
+references:1966559808|1976836781|1984824617|1986219087|1999360130|1999418380|2018056463|2038798543|2043860979|2064261512|2077113566|2077786999|2077896037|2086816085|2093926947|2119656522|2121094767|2122470043|2123325761|2126326837|2126796976|2142528733|2144637885|2144682620|2154506590
+
+
+id:2172998449
+title:Energy-balanced compressive data gathering in Wireless Sensor Networks
+year:2016
+author information:[
+author name:Cuicui Lv
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2578370305|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Wenjie Yan
+author organization:Hebei University of Technology
+author id:2497361801|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+]
+abstract:networks|restricted|number|property|balance|terms|usually|zeroone|order|algorithm|energy|based|reconstructing|samples|node|binary|evaluate|consumption|complexity|algorithms|experiments|recovery|matrix|measurement|satisfies|property|change|column|nonzero|compressive|pursuit|great|gathering|cs|basis|distributed|approach|variation|wsns|measurements|wireless|agent|data|use|fewer|paper|sensing|used|high|uniformly|balance|dynamic|sampling|signal|selected|computational|discover|adapt|higher|chosen|entries|signals|proposed|sparse|fixed|sensor|sparse|sensor|higher|magreedy|probability|show|proper|representation|network|effective|random|numerical|basis|compressive|due|provides|design|matrices|class|isometry|coefficient|recover|original|mobile|better|superior|performance|visited|gaussian|energyconstrained
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Sensor node|Data mining|Logical matrix|Matrix (mathematics)|Computer science|Sparse approximation|Algorithm|Cuthill–McKee algorithm|Compressed sensing|Restricted isometry property|Sparse matrix|Distributed computing
+references:1514040736|1620362451|1654257729|1979887353|1988569331|1997819656|2067156473|2104846640|2111184007|2123241700|2126130938|2132268129|2135053460|2138181505|2140466267|2142960677|2158973156|2169382889|2170239483|2171362597|2295549646|2296616510
+
+
+id:2184824032
+title:Kronecker compressive sensing-based mechanism with fully independent sampling dimensions for hyperspectral imaging
+year:2015
+author information:[
+author name:Rongqiang Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2340665621|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, No. 92, Xidazhi Street, Harbin 150000, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, No. 92, Xidazhi Street, Harbin 150000, China
+author id:2175482809|
+]
+abstract:select|sparsifying|hs|approach|three|model|fully|cooperation|reduce|based|images|successfully|method|compress|sampling|lower|propose|traditional|analysis|requirement|greatly|complexity|images|independent|methods|hyperspectral|sparsity|distribution|bases|low|verify|reduces|mechanism|reconstructed|change|compressive|model|able|measurements|dimensions|ratio|practicability|data|multilinearrank|kronecker|points|shows|sensing|method|different|generate|combine|computational|new|simulations|image|including|develop|imaging|proposed|improve|memory|optimized|according|matrices|dimension|sensing|control|also|devices|corresponding|reconstruction|achieved|independently|suitable
+venue name:Journal of Electronic Imaging
+venue id:158511090
+venue type:J
+document type:Journal
+study fields:Kronecker delta|Kronecker product|Pattern recognition|Computer science|Matrix (mathematics)|Hyperspectral imaging|Artificial intelligence|Sampling (statistics)|Compressed sensing|Computational complexity theory|Fold (higher-order function)
+references:2001380973|2013912476|2027740031|2062692432|2080815943|2127271355|2151693816|2154172459
+
+
+id:2280622051
+title:Total variation-regularized weighted nuclear norm minimization for hyperspectral image mixed denoising
+year:2016
+author information:[
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2734819736|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2200803893|
+author name:Zhenghua Wu
+author organization:China Electronics Technology Group Corporation, No. 38 Research Institute, Hefei 230088, China
+author id:2103969556|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2175482809|
+]
+abstract:stateoftheart|ignoring|issues|approach|variation|optimization|meaning|spatial|eigenvalue|case|based|method|simulated|methods|resulting|distortions|included|methods|hyperspectral|experiments|minimized|two|regularized|local|denoising|desired|noise|multipliers|many|nnmbased|address|problem|regularize|hsi|exploit|spectral|tv|data|regularization|several|used|norm|stands|high|unsuitable|lowrank|different|weighted|results|hsi|obtain|image|comparison|preserve|real|weights|proposed|minimization|solve|produces|demonstrate|eigenvalues|mixed|total|nuclear|physical|differently|direction|characteristics|twnnm|clean|structure|special|alternating|superior|proposed|due|restricted|wnnm
+venue name:Journal of Electronic Imaging
+venue id:158511090
+venue type:J
+document type:Journal
+study fields:Noise reduction|Nuclear norm minimization|Pattern recognition|Computer science|Local structure|Hyperspectral imaging|Regularization (mathematics)|Total variation denoising|Artificial intelligence|Optimization problem|Eigenvalues and eigenvectors
+references:1811276300|1974438823|1991003630|1994040806|1997677658|1998419211|2016378714|2029730355|2039596145|2048695508|2056370875|2097073572|2103972604|2105488510|2113824004|2113945798|2119787772|2120806927|2122714239|2126762950|2133665775|2150463037|2152366679|2155124307|2161018415|2161073299
+
+
+id:2425564603
+title:Fast holo-kronecker compressive sensing for hyperspectral image
+year:2015
+author information:[
+author name:Rongqiang Zhao
+author organization:Dept. of Control Sci.  Eng., Harbin Institute of Technol., China
+author id:2340665621|
+author name:Qiang Wang
+author organization:Dept. of Control Sci.  Eng., Harbin Institute of Technol., China
+author id:2716949012|
+author name:Yi Shen
+author organization:Dept. of control Sci.  Eng., Harbin Institute of Technol
+author id:2638047966|
+]
+abstract:spectral|data|accurate|reconstruction|multilinearrank|sparsifying|used|kronecker|employed|complex|model|spatial|generate|algorithm|combine|hsi|image|including|method|sampling|reconstruct|basis|propose|resulting|enhanced|much|needed|hyperspectral|sparsity|measurement|speed|compressive|matrices|low|redundancies|dimension|measurements|successful|sensing|product|one|highlyefficient|compressive|instead|computation|efficiency|hsi|framework|fast|difficulties|corresponding|reconstruction|independently|information|iterative|faces|dimensions
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Computer science|Real-time computing|Reconstruction algorithm|Artificial intelligence|Compressed sensing|Computation|Kronecker delta|Computer vision|Kronecker product|Pattern recognition|Iterative method|Hyperspectral imaging|Sampling (statistics)
+references:1971891445|1977252496|1996830635|2001380973|2013912476|2027740031|2043407810|2047071281|2062692432|2099641086|2127271355|2135290483|2151693816|2154172459|2296616510
+
+
+id:2436895464
+title:3D gray-gradient-gradient tensor field feature for hyperspectral image classification
+year:2015
+author information:[
+author name:Zhaojun Wu
+author organization:Dept. of Control Sci.  Eng., Harbin Institute of Technol., China
+author id:2734819736|
+author name:Qiang Wang
+author organization:Dept. of Control Sci.  Eng., Harbin Institute of Technol., China
+author id:2200803893|
+author name:Yi Shen
+author organization:Dept. of control Sci.  Eng., Harbin Institute of Technol
+author id:2638047966|
+]
+abstract:data|gggtf|used|extracted|classifications|features|generated|calculate|results|order|image|test|method|experimental|widely|classified|extraction|two|important|extend|volume|thirdorder|traditional|extract|proposed|demonstrate|simultaneously|hyperspectral|statistical|hyperspectral|classifier|cooccurrence|svm|datasets|extended|gray|feature|glgcm|linear|texture|kernel|gradient|tensor|outperforms|supervised|performance|classification|polynomial|information|forms|properties
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Hyperspectral image classification|Computer vision|Pattern recognition|Computer science|Image texture|Matrix (mathematics)|Tensor field|Hyperspectral imaging|Feature extraction|Polynomial kernel|Structure tensor|Artificial intelligence
+references:1977608287|1995292093|2003671357|2024367395|2036397044|2043665634|2044465660|2056749682|2105184687|2131725398|2132669662|2150434735|2156909104|2159070926
+
+
+id:2480706550
+title:Structure tensor total variation-regularized weighted nuclear norm minimization for hyperspectral image mixed denoising
+year:2017
+author information:[
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2575295566|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2421746120|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2175482809|
+]
+abstract:tvregularized|stateoftheart|highlightsproposed|three|issues|shrinking|fluctuations|optimization|validate|rank|weights|model|spatial|admm|based|models|large|simulated|minimization|methods|removing|effects|included|utilize|simultaneously|methods|affect|experiments|global|bands|two|local|cope|weighted|desired|low|noise|noise|deadline|structure|may|problem|within|strategies|kernel|gradient|lead|model|several|obvious|information|exploit|variation|novel|adopted|spectral|data|hyperspectral|used|pixels|incorporated|create|different|bandbyband|hsi|obtain|image|illustrate|comparing|capture|real|proposed|nuclear|solve|neighborhood|higher|eigenvalues|mixed|symmetric|denoising|oil|negatively|bandsuse|convolution|derived|stwnnm|rotationally|effectiveness|separated|also|tensor|structure|performance|proposed|due|painting|total|norm|informationtwo
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Noise reduction|Spatial analysis|Mathematical optimization|Hyperspectral imaging|Pixel|Structure tensor|Kernel (image processing)|Optimization problem|Mathematics
+references:1480546554|1587448943|1808881044|1895161527|1944540851|1991003630|1994040806|2016378714|2025194869|2039596145|2048695508|2053358078|2056370875|2070262806|2082600204|2097073572|2110940063|2120806927|2140702875|2145023731|2147469781|2150463037|2160484748|2164278908|2166864699|2280622051|2409172398
+
+
+id:2541897277
+title:A distributed self-deployment method for coverage optimization in mobile sensor network
+year:2011
+author information:[
+author name:Zhiliang Tu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, 150001, China
+author id:2107745600|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+]
+abstract:data|use|three|second|reliable|problem|uniformly|function|satisfactory|results|algorithm|based|last|proposes|distributed|weight|monitoring|homogeneous|proposed|deployment|adjust|sensor|networks|demonstrate|redeployed|approximates|algorithms|relocated|configuration|achieve|according|internode|quality|around|triangle|local|measurement|network|paper|flocking|hence|deployment|enhance|tessellations|distances|address|mobile|situations|realization|target|sensors|relocate|simulation|equilateral|consists|novel|first
+venue name:International ICST Conference on Communications and Networking in China
+venue id:2754780913
+venue type:C
+document type:Conference
+study fields:Mobile radio|Key distribution in wireless sensor networks|Flocking (texture)|Software deployment|Computer science|Visual sensor network|Brooks–Iyengar algorithm|Mobile wireless sensor network|Wireless sensor network|Distributed computing
+references:1493007304|1541256735|1979283414|2009908058|2024639781|2103981365|2105850748|2110267438|2121754496|2128928412|2133486451|2138668955|2145854207|2171371095
+
+
+id:2546435058
+title:Intelligent nonconvex compressive sensing using prior information for image reconstruction by sparse representation
+year:2017
+author information:[
+author name:Qiang Wang
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2421746120|
+author name:Dan Li
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2635618131|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+]
+abstract:extensive|essentiallythe|accurate|intrinsically|accuracy|experimental|representation|stateoftheart|image|nearby|problem|optimization|terms|property|visual|downsampled|combinatorial|guide|utilized|promising|algorithm|reduce|based|block|similar|images|using|natural|method|accurately|propose|dictionary|complexity|algorithms|fact|experiments|quality|sparsity|global|matching|lot|speed|incs|overcompleted|verify|share|means|enough|strategies|structures|many|compressive|incs|information|exploit|measurements|novel|performs|joint|use|sometimes|fewer|used|selfsimilarity|developed|shown|prior|enrich|accelerate|greedy|first|results|five|computational|combine|obtain|image|ssim|level|essentially|conducted|reconstruct|contributes|improving|extract|proposed|sparse|exploited|minimization|improve|solve|demonstrate|basic|ridgelet|problems|nonconvex|solving|complexity|searching|representation|nonlocal|applications|informationwe|enhance|superiorly|sensing|original|introduce|blocks|also|intelligent|outperforms|performance|spatially|structureswe|due|guidance|superiorities|reconstruction|information|reducing|significantly
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Search engine|Pattern recognition|Computer science|Sparse approximation|Greedy algorithm|Exploit|Minification|Artificial intelligence|Compressed sensing|Machine learning|Computational complexity theory
+references:1978749115|1981208576|1981497434|1985102606|1998537065|2017369124|2021918318|2048087281|2049709948|2056370875|2056755612|2056758595|2069201803|2082712662|2087301741|2117865218|2121058967|2127271355|2131024476|2133665775|2135338342|2137277750|2140499889|2153663612|2164647001|2167439752|2220715221|2296616510|2297137102|2400170034
+
+
+id:2548533142
+title:Compressive sensing based sparse event detection in wireless sensor networks
+year:2011
+author information:[
+author name:Wenjie Yan
+author organization:Sch. of Astronautics, Harbin Institute of Technol., China
+author id:2147047380|
+author name:Qiang Wang
+author organization:Sch. of Astronautics, Harbin Institute of Technol., China
+author id:2706785072|
+author name:Yi Shen
+author organization:Harbin Institute of Technol., Harbin
+author id:2753944109|
+]
+abstract:resolution|without|number|subspace|spatial|events|order|energy|algorithm|reduce|based|using|lose|robustness|distributed|saving|prolong|algorithm|theory|environment|purely|c|save|sparsity|specified|local|sleep|partition|signals|based|event|detection|set|sets|orthogonal|theory|compressive|pursuit|computation|simulations|confirm|extensive|able|efficiently|strategy|theoretical|lifetime|noised|mainly|resolution|matching|wake|shows|uniformly|greedy|intensive|introducing|reconstruct|gather|proposed|sparse|capitalizing|parts|sensor|largescale|regularized|game|nearly|investigate|sleeping|random|sensing|rest|apply|energy|way|better|nodes|sensors|performance|reconstruction|wireless|time|energyconstrained|strategy
+venue name:International ICST Conference on Communications and Networking in China
+venue id:2754780913
+venue type:C
+document type:Conference
+study fields:Matching pursuit|Pattern recognition|Computer science|Algorithm|Robustness (computer science)|Sensor fusion|Greedy algorithm|Artificial intelligence|Wireless sensor network|Compressed sensing|Signal reconstruction|Computation
+references:2012485722|2097323375|2099100030|2107760717|2123241700|2127271355|2145096794|2158643468|2160979406|2296616510
+
+
+id:2560707166
+title:Multidimensional dictionary learning algorithm for compressive sensing-based hyperspectral imaging
+year:2016
+author information:[
+author name:Rongqiang Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2340665621|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, No. 92, Xidazhi Street, Harbin 150000, China
+author id:2200803893|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, No. 92, Xidazhi Street, Harbin 150000, China
+author id:2175482809|
+author name:Jia Li
+author organization:China Electronics Technology Group Corporation 54th Research Institute, No. 589, Zhongshanxi Road, Shijiazhuang 050002, China
+author id:2802549579|
+]
+abstract:pruning|accurate|reconstruction|sparsifying|experimental|hs|type|training|imaging|difficulties|algorithm|using|method|thus|lower|squares|propose|samples|traditional|dictionary|among|dimension|algorithms|role|hyperspectral|least|guarantee|demonstrated|product|compressive|lstype|great|performed|computation|stage|spectral|data|use|used|kronecker|updating|dictionaries|results|add|image|ensure|commonly|avoids|significant|develop|proposed|relativity|beneficial|dictionaries|trained|analytical|convergence|complexity|learning|representation|similarity|dimension|sensing|amount|plays|practical|limited|csbased|tensor|better|reconstruction|multidimensional
+venue name:Journal of Electronic Imaging
+venue id:158511090
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Kronecker product|K-SVD|Pattern recognition|Computer science|Sparse approximation|Algorithm|Hyperspectral imaging|Associative array|Artificial intelligence|Compressed sensing|Computation
+references:1538237237|1593447321|1929817545|1979074964|1988828143|1992400371|2001380973|2022706159|2023075239|2023630749|2045328647|2063509716|2066792693|2075394305|2097273723|2119237435|2127271355|2134844037|2140499889|2142940228|2151693816|2154172459|2160979406|2167188281|2184824032|2345446334|2396905431|2509021534|2512266304
+
+
+id:2611838005
+title:Diffusion wavelet basis algorithm for sparse representation of sensory data in WSNs
+year:2017
+author information:[
+author name:Cuicui Lv
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2578370305|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Wenjie Yan
+author organization:Hebei University of Technology
+author id:2497361801|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+]
+abstract:introduces|sparsifying|trees|extracted|problem|experiment|spatial|algorithm|correlation|cases|binary|account|evaluate|relative|diffusion|synthetic|experiments|bpdn|sparsity|matrix|bp|measurement|bases|temperature|noise|takes|diffusion|based|validate|abstract|forward|bases|data|compressive|gathering|puts|filter|sparsity|decreases|basis|wireless|data|used|mainly|operator|observe|generated|communication|radius|different|results|conducted|includes|real|less|basis|measure|proposed|sparse|solve|levels|wavelet|sensor|noiseless|show|decomposition|recovery|networks|representation|numerical|paper|construction|considers|types|precondition|better|performance|error|approximately|sensory
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Sparse approximation|Algorithm|Synthetic data|Cascade algorithm|Wavelet packet decomposition|Mathematics|Sparse matrix|Compressed sensing|Approximation error|Wavelet
+references:1569759401|1979887353|1986931325|1988569331|1997819656|2070473990|2081065314|2087515962|2101499617|2104185459|2123241700|2127787058|2138181505|2143236825|2145779795|2151131483|2159537134|2169382889|2170239483|2295549646|2476851745|2489279350
+
+
+id:2624915162
+title:Low rank constraint and spatial spectral total variation for hyperspectral image mixed denoising
+year:2018
+author information:[
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2421746120|
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2575295566|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+author name:Tiancheng Wang
+author organization:Shanghai Institute of Satellite Engineering, Shanghai 200240, PR China
+author id:2626303083|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2175482809|
+]
+abstract:extensive|reason|variation|problem|property|optimization|inevitably|terms|rank|visual|modelthe|model|distortion|band|spatial|admm|based|models|environmental|suppressing|method|propose|jointly|removing|instrumental|adopt|utilize|alternating|multipliers|superiority|methods|hyperspectral|experiments|quality|global|direction|local|cope|denoising|low|noise|noise|subsequent|angle|jagged|may|problem|caused|suppress|model|several|effectivelythe|constraint|hsithe|novel|spectral|hsibased|tv|regularization|norm|smoothness|weighted|hsi|image|corrupted|analyzedthe|modeled|iterative|iterations|undesirable|proposed|solve|demonstrate|distortion|distance|cause|mixed|remove|denoising|effective|total|due|ignore|applications|nuclear|designed|derived|smooth|enhance|carried|restore|effectively|affects|separated|clean|special|various|mean|total|gaussian|strategy|properties
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Noise reduction|Mathematical optimization|Matrix norm|Hyperspectral imaging|Regularization (mathematics)|Total variation denoising|Distortion|Optimization problem|Gaussian noise|Mathematics
+references:1808881044|1895161527|1944540851|1974438823|1985453570|1991003630|1994040806|1996779648|2026149562|2033849598|2039596145|2048695508|2053358078|2053514113|2058300393|2070262806|2075604108|2082590963|2082600204|2097897435|2107799335|2131628350|2142077116|2150434735|2150463037|2160484748|2161018415|2161073299|2163886442|2164278908|2280622051|2289756263|2322364181|2409172398|2414009677|2480706550
+
+
+id:2734910784
+title:Neuroevolution of augmenting topologies based musculor-skeletal arm neurocontroller
+year:2017
+author information:[
+author name:Ruoshi Wen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2734457230|
+author name:Zixi Guo
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2735937479|
+author name:Tong Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2736247974|
+author name:Xiang Ma
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2735685326|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2200803893|
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2575295566|
+]
+abstract:nine|separate|nowadays|mechanic|focus|developed|changing|three|neat|muscles|time|modified|model|links|connection|positionangle|generate|energy|algorithm|train|nonlinear|using|natural|equations|topology|humanlike|weights|propose|unique|attracted|driven|humanlike|algorithm|simultaneously|musculorskeletal|problems|deal|trained|neural|movements|training|networks|two|low|neurocontrollers|muscle|neurocontroller|redundancy|arm|smooth|genetic|cost|sets|forward|control|many|rapidly|structure|neuroevolution|evolve|well|geometry|augmenting|interests|novel
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Low energy|Control engineering|Neuroevolution of augmenting topologies|Forward kinematics|Redundancy (engineering)|Artificial intelligence|Neuroevolution|Artificial neural network|Mathematics|Genetic algorithm
+references:1593148604|2111935653|2117085697|2140190473|2161021404
+
+
+id:2734985667
+title:Motion recognition based on concept learning
+year:2017
+author information:[
+author name:Xiang Ma
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2735685326|
+author name:Tong Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2736247974|
+author name:Ruoshi Wen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2734457230|
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2575295566|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2200803893|
+]
+abstract:frameworks|conductive|nowadays|knowledge|human|using|large|method|researchers|work|understand|require|demand|propose|intelligence|even|experiments|robotics|fundamental|decomposes|taken|ability|learn|one|highlever|generally|help|framework|machine|series|action|motions|efficiently|cannot|data|rapid|recognition|features|amounts|prior|oneshot|interactivity|method|concept|new|development|lowlever|like|often|extract|proposed|topic|try|knowledge|next|concept|show|training|learning|paper|task|human|make|seriously|motion|learned|recognition|better|existing|artificial|machines|humans
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Training set|Interactivity|Motion recognition|Computer science|Concept learning|Human motion|Artificial intelligence|Trajectory|Robotics|Machine learning|Learning to learn
+references:2006719702|2014884175|2028931980|2044595627|2052277674|2071711637|2075338093|2106996050|2119713076|2125854396|2128107557|2145221867|2145344769|2154607350|2156503960|2210365848|2291892784
+
+
+id:2735548535
+title:Compressive hyperspectral imaging with spatial energy distribution information
+year:2017
+author information:[
+author name:Rongqiang Zhao
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2340665621|
+author name:Tong Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2736247974|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Jing Jin
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2617401169|
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2575295566|
+]
+abstract:performs|correct|data|chi|sedi|considered|main|hs|approach|without|negligible|method|usually|spatial|energy|based|simulations|images|including|issue|method|created|sampling|reconstruct|develop|real|imaging|propose|exist|abnormal|proposed|spikes|explored|demonstrate|distortion|images|fact|hyperspectral|additional|eliminate|distribution|precisely|compressive|paper|attracting|extensible|measurements|process|reconstructed|great|recently|better|field|sedi|corresponding|reconstruction|information|time|interests|strategy|aiming|novel
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Computer vision|Sampling process|Pattern recognition|Sampling time|Hyperspectral imaging|Electronic engineering|Artificial intelligence|Sampling (statistics)|Engineering|Distortion|Energy distribution
+references:1538237237|1593447321|1977252496|1992400371|1996830635|2001380973|2022706159|2023075239|2027740031|2066792693|2097273723|2127271355|2160979406|2345446334|2509021534
+
+
+id:2735692904
+title:Coupled denoising and unmixing with low rank constraint and hypergraph regularization for hyperspectral image
+year:2017
+author information:[
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2575295566|
+author name:Xuan Liu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Harbin 150001, PR China
+author id:2736096498|
+author name:Tiancheng Wang
+author organization:Shanghai Institute of Satellite Engineering, Shanghai 200240, PR China
+author id:2626303083|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2421746120|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2175482809|
+author name:Jing Jin
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2617401169|
+]
+abstract:unmixing|approach|three|issues|constraints|consistency|different|model|based|schemes|traditional|included|provide|scheme|endmember|hyperspectral|experiments|retain|matrix|two|unmixing|denoising|exploitation|uniform|promote|desired|noise|noise|deadline|performance|salt|noisy|cdeun|confirm|pivotal|adopted|data|separate|regularization|norm|observation|hypergraph|act|incorporated|weighted|hsi|obtain|image|corrupted|matrix|real|synthetic|effects|proposed|minimization|sparse|improve|final|coupled|problems|framework|abundance|representation|denoising|mixture|nuclear|performances|smooth|clean|superior|removal|treating|integrates
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Noise reduction|Endmember|Pattern recognition|Noise measurement|Sparse approximation|Hyperspectral imaging|Minification|Regularization (mathematics)|Gaussian|Artificial intelligence|Mathematics
+references:1964570608|1974438823|1994040806|2027878671|2071898616|2108119513|2125298866|2160484748|2280622051|2293524743|2318512420|2480706550
+
+
+id:2735964238
+title:Weighted singular value thresholding for sparse photoacoustic microscopy
+year:2017
+author information:[
+author name:Minghua Wang
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2736111756|
+author name:Xuan Liu
+author organization:Department of Information Engineering, Harbin Institute of Technology, Harbin, China
+author id:2736096498|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Mingjian Sun
+author organization:Harbin Institute of Technology
+author id:2168067025|
+author name:Rongqiang Zhao
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2340665621|
+author name:Zhaojun Wu
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2575295566|
+]
+abstract:data|accurate|used|resolution|resolution|high|thresholding|lowrank|modified|approximationgodec|weighted|potential|algorithm|image|approximation|images|sampling|iterative|real|weighting|system|singular|system|proposed|sparse|leads|value|singular|solving|scheme|analysis|applied|experiments|recovery|matrix|svt|uniform|random|proved|low|verify|acquisition|value|fuzzy|completion|recover|problem|efficient|details|exactly|structure|simulations|photoacoustic|fast|classic|performance|microscopy|application|pam|first
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Approximation algorithm|Mathematical optimization|Algorithm design|Singular value|K-SVD|Matrix completion|Sparse approximation|Algorithm|Electronic engineering|Cuthill–McKee algorithm|Sparse matrix|Mathematics
+references:2103972604|2281853668
+
+
+id:2736099450
+title:A feedback-based construction of multilayer measurement matrix for compressive sensing
+year:2017
+author information:[
+author name:Tianyou Zheng
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2734353905|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Yue Shen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2443781305|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin, China
+author id:2175482809|
+author name:Xiaotian Lin
+author organization:Department of Control Science and Engineering; Harbin Institute of Technology; Harbin China
+author id:2734823491|
+]
+abstract:small|acceptable|smaller|measuring|coherence|numerous|selectable|several|feedback|performs|multilayer|introduced|dimensions|experiment|property|different|signal|algorithm|hardware|reduce|large|method|test|resource|conclude|resource|condition|traditional|size|proposed|sparse|algorithm|compare|prove|applied|conditionally|determines|storage|matrix|measurement|satisfies|provides|feedbackbased|construction|precision|isometry|consumes|established|sensing|within|introduce|implementation|consumption|compressive|better|framework|performance|calculation|restricted|rip|reconstruction|gaussian|fbmm
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Algorithm design|Computer science|Matrix (mathematics)|Coherence (physics)|Electronic engineering|Gaussian|Restricted isometry property|Sparse matrix|Signal reconstruction|Compressed sensing
+references:1672446266|1979887353|1982334922|2021857686|2044762091|2066875791|2127271355|2145096794|2154304330|2160979406|2404083560
+
+
+id:2807195212
+title:A sparsity feedback-based data gathering algorithm for Wireless Sensor Networks
+year:2018
+author information:[
+author name:Cuicui Lv
+author organization:YanTai University
+author id:2887909204|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Wenjie Yan
+author organization:Hebei University of Technology
+author id:2497361801|
+author name:Jia Li
+author organization:The 54th Research Institute of China Electronics Technology Group Corporation, Shijiazhuang, China
+author id:2423732230|
+]
+abstract:networks|called|accuracy|required|adaptively|feedback|maximize|number|terms|estimate|events|zeroone|algorithm|order|energy|adjusts|accurately|monte||abnormal|binary|algorithms|minimum|experiments|least|sparsity|matrix|measurement|adaptive|matrices|min|mechanism|greedy|according|measurements|path|performance|means|abstract|k|compressive|mobile|gathering|measurements|minimum|first|wireless|data|sensing|used|tree|spanning|guarantees|offers|proposed|sparse|detecting|sensor|sensor|agentbased|show|recovery|compressive|paper|shortest|mstmagsp|cdgbased|value|determine|carlo|whilst|better|superior|reconstruction|uses|presents
+venue name:Computer Networks
+venue id:63392143
+venue type:J
+document type:Journal
+study fields:Monte Carlo method|Shortest path problem|Logical matrix|Matrix (mathematics)|Computer science|Mobile agent|Algorithm|Wireless sensor network|Compressed sensing|Minimum spanning tree
+references:1620362451|1971402995|1979887353|1988569331|1997754457|1997819656|2006554558|2011452458|2030076159|2047064261|2064237292|2064417875|2078402032|2081065314|2093701766|2104846640|2123241700|2126130938|2132268129|2134033146|2135053460|2138181505|2139677050|2142960677|2143236825|2158173952|2158973156|2160822433|2169382889|2170239483|2171362597|2172998449|2294344135|2315395910|2315490454|2472212337|2474610106|2517343931|2530112018|2555581586
+
+
+id:2914802849
+title:Edge guided compressive sensing for image reconstruction based on two-stage l0 minimization
+year:2019
+author information:[
+author name:Dan Li
+author organization:Nanjing University of Aeronautics And Astronautics
+author id:2921204116|
+author name:Zhaojun Wu
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin 150001, Heilongjiang, People’s Republic of China
+author id:2575295566|
+author name:Qiang Wang
+author organization:Control Science and Engineering, Harbin Institute of Technology, Harbin 150001, Heilongjiang, People’s Republic of China
+author id:2421746120|
+]
+abstract:accurate|optimal|conductive|accuracy|stateoftheart|optimization|downsampled|combinatorial|smoothing|utilized|algorithm|reduce|based|likely|natural|method|sampling|accurately|prior|provide|complexity|algorithms|fact|scheme|utilizing|sparsity|global|acquire|lot|performance|strategies|abstract|gradient|structures|compressive|small|l|advantages|measurements|novel|first|joint|use|sometimes|guided|employed|second|edge|solution|prior|time|find|greedy|results|computational|image|experimental|proposes|essentially|preserve|important|egcs|extract|especially|proposed|minimization|sparse|improve|beneficial|solve|wavelet|relatively|demonstrate|problems|solving|searching|contribute|transform|paper|rate|design|designed|enhancing|sensing|multiple|remarkably|also|enough|twostage|intelligent|better|superior|edgepreserving|performance|due|guidance|reconstruction|achieved|well|aiming|downsampled|taking
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Computer vision|Sampling (signal processing)|Greedy algorithm|Smoothing|Minification|Artificial intelligence|Mathematics|Compressed sensing|Computational complexity theory|Wavelet transform
+references:1973886509|1977252496|1981208576|1983115982|2019645756|2021918318|2033884996|2048087281|2049502219|2061052400|2074544078|2108826958|2127271355|2133665775|2143560894|2145096794|2149166590|2160978899|2160979406|2220715221|2296616510|2400170034|2949119770|2952008707
+
+
+id:2918318956
+title:Learning Separable Dictionaries for Sparse Tensor Representation: An Online Approach
+year:2019
+author information:[
+author name:Rongqiang Zhao
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2919713821|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2919713209|
+]
+abstract:accuracy|via|newly|model|algorithm|based|using|analysis|simulations|samples|extend|input|must|fact|methods|achieve|direct|overcome|offline|verify|set|tuckerdecompositionbased|learning|compressive|sample|model|single|framework|machine|obvious|theoretical|added|dl|used|updating|dictionaries|dynamic|results|potential|signal|train|new|vectorbased|static|need|develop|warm|proposed|sparse|demonstrate|fields|dictionaries|tucker|dictionary|convergence|retraining|learning|training|representation|dimension|tdl|algorithms|processes|aims|limited|advantage|start|perform|also|tensor|way|lowcomplexity|existing|decomposition|proposed|online|well|strategy|multidimensional|applications
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Offline learning|Convergence (routing)|Multidimensional signal processing|Tensor|Separable space|Electronic engineering|Linear programming|Tucker decomposition|Artificial intelligence|Machine learning|Mathematics|Compressed sensing
+references:1574714376|1606263802|1979074964|1985909556|2023630749|2063509716|2081250382|2107214962|2112447569|2119412403|2121058967|2121927366|2152514935|2153663612|2156593994|2163398148|2180372284|2283717164|2317133390|2342873618|2469230926|2512266304|2517051422|2582164634|2586224208|2751612057|2755280163|2767177805|2963228888
+
+
+id:2918839771
+title:Compressive sensing-based sequential data gathering in WSNs
+year:2019
+author information:[
+author name:Cuicui Lv
+author organization:YanTai University
+author id:2887909204|
+author name:Qiang Wang
+author organization:Dept. of Control Science and Engineering, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Wenjie Yan
+author organization:Hebei University of Technology
+author id:2497361801|
+author name:Jia Li
+author organization:The 54th Research Institute of China Electronics Technology Group Corporation, Shijiazhuang, China
+author id:2423732230|
+]
+abstract:wireless|networks|smaller|introduces|data|sparsifying|number|sensingbased|estimate|sparse|generate|energy|compared|sink|sparsity|gather|real|better|less|monitoring|basis|utilizes|bounded|node|proposed|sparse|binary|parts|sensor|demonstrate|sensor|framework|sequential|experiments|recovery|covariance|sparsity|recovery|matrix|measurement|numerical|compressive|total|paper|temperature|make|measurements|algorithms|performance|types|constructed|abstract|forward|transmit|consumption|data|compressive|gathering|puts|framework|nodes|performance|approximately|sensory|adopts|first
+venue name:Computer Networks
+venue id:63392143
+venue type:J
+document type:Journal
+study fields:Data collection|Logical matrix|Matrix (mathematics)|Computer science|Algorithm|Data recovery|Covariance matrix|Wireless sensor network|Energy consumption|Compressed sensing|Distributed computing
+references:1968789835|1988569331|1997819656|2011452458|2021583769|2030076159|2047064261|2081065314|2093701766|2099100030|2104185459|2105842599|2123241700|2126130938|2138181505|2142960677|2143236825|2145779795|2158173952|2170239483|2172998449|2294344135|2296616510|2299120070|2315395910|2472212337|2489279350|2513979995|2519906635|2530112018|2592468756
+
+
+id:2972733542
+title:A Novel Underactuated Soft Humanoid Hand For Hand Sign Language
+year:2019
+author information:[
+author name:Mohamed E. M. Salem
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Harbin, 150001, China
+author id:2900790811|
+author name:Ruoshi Wen
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology Harbin, China
+author id:2734457230|
+author name:Ma Hong Xu
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Harbin, 150001, China
+author id:2972928506|
+author name:Liu Yan
+author organization:Harbin University of science and Technology
+author id:2972756290|
+author name:Ma Xiang
+author organization:Department of Control Science and Engineering, Harbin Institute of Technology, Harbin, 150001, China
+author id:2901950185|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Department of Control Science and Engineering, Harbin, China
+author id:2421746120|
+]
+abstract:big|hands|software|graphical|resemble|experimental|matlab|direct|actuators|complex|drawing|model|soft|using|closely|dealing|shape|fabrication|printer|field|actions|mobility|humanoid|robotics|range|matching|pneumatic|computer|variety|low|tpu|verify|ability|mechanism|movements|together|hand|one|possible|soft|printing|filament|kinematic|characterization|novel|board|supported|nine|humanoid|sign|language|freedoms|robotic|high|presented|tests|new|abilities|cost|simulink|degree|respect|bending|external|especially|mega|configurations|present|arduino|ease|technique|interface|working|assembled|human|process|advantage|control|allowing|environment|performance|application|due|attention|consists|achieved|user
+venue name:Instrumentation and Measurement Technology Conference
+venue id:2623692773
+venue type:C
+document type:Conference
+study fields:Kinematics|Control engineering|Arduino|Graphical user interface|Software|Artificial intelligence|3D printing|Engineering|Underactuation|Robotics|Actuator
+references:2054427316|2567441421
+
+
+id:2986132491
+title:Segmentation for MRA Image: An Improved Level-Set Approach
+year:2007
+author information:[
+author name:Jiasheng Hao
+author organization:Harbin Institute of Technol., Harbin
+author id:2576389908|
+author name:Yi Shen
+author organization:Harbin Institute of Technol., Harbin
+author id:2175482809|
+author name:Qiang Wang
+author organization:Harbin Institute of Technol., Harbin
+author id:2200803893|
+]
+abstract:watershed|data|accurate|cerebrovascular|unsupervised|challenging|offer|suffer|problem|vessel|magnetic|results|combine|computational|algorithm|based|still|method|excellent|segmentation|topology|experimental|received|significant|resonance|levelset|heavy|driving|proposed|volumetric|set|iterations|present|complexity|deal|statistical|methods|changes|show|global|burden|lot|flexibility|known|segmentation|task|human|gives|patterns|structures|great|intensity|smoothness|advantages|fast|framework|conventional|classification|application|due|complicated|geometry
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Segmentation|Level set|Electronic engineering|Image segmentation|Watershed|Artificial intelligence|Volumetric data|Statistical classification|Smoothness|Mathematics
+references:1520062847|1581735836|1974340168|2025818287|2104095591|2108245606|2117661433|2124260943|2128839247
+
+
+id:2220715221
+title:Intelligent greedy pursuit model for sparse reconstruction based on l0 minimization
+year:2016
+author information:[
+author name:Dan Li
+author organization:Harbin Institute of Technology, Control Science and Engineering, No. 92 West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2635618131|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology, Control Science and Engineering, No. 92 West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2421746120|
+author name:Yi Shen
+author organization:Harbin Institute of Technology, Control Science and Engineering, No. 92 West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+]
+abstract:essentiallythe|optimal|stateoftheart|without|problem|optimization|priorwe|estimate|combinatorial|model|guide|algorithm|based|likely|shortcoming|accurately|propose|whose|easy|traditional|prior|estimation|knowing|rate|intelligently|object|nphard|pursuit|experiments|overcome|sparsity|global|measurement|unknown|matching|speed|proved|socalled|measurements|solutionthe|strategies|solution|suboptimal|novel|small|performs|principle|fewer|simple|high|function|greedy|quite|signal|computational|obtain|image|level|difficult|essentially|reconstruct|collection|develop|estimation|highlightswe|take|proposed|minimization|sparse|solve|relatively|support|problems|solving|searching|twocycle|common|designed|algorithms|aims|advantage|although|intelligent|outperforms|igp|performance|corresponding|reconstruction|achieved|coefficients|well
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Mathematical optimization|Computer science|Greedy algorithm|Minification|Optimization algorithm|Greedy randomized adaptive search procedure|Compressed sensing|Signal reconstruction|Computational complexity theory
+references:1591867251|1973886509|1978567114|1981208576|1983115982|1985102606|1986931325|1996287810|2005228957|2019645756|2021918318|2046658845|2048087281|2080815943|2082712662|2098996169|2108826958|2117954767|2122688057|2127271355|2129131372|2133665775|2140856955|2145096794|2154929945|2160978899|2160979406|2296616510|2544827558
+
+
+id:2297137102
+title:Predicted multi-variable intelligent matching pursuit algorithm for image sequences reconstruction based on l0 minimization
+year:2016
+author information:[
+author name:Dan Li
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2635618131|
+author name:Qiang Wang
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2421746120|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+]
+abstract:pmimp|accuracy|experimental|stateoftheart|without|problem|optimization|visual|combinatorial|minimization|guide|utilized|multivariable|algorithm|images|reconstructing|method|propose|exhaustively|quality|traditional|prior|knowing|domain|utilize|conditions|requires|study|nphard|compare|scheme|pursuit|pattern|sparsity|global|sequences|matching|current|known|reconstructionwe|ability|listing|mechanism|essentiallywe|famous|strategies|multivariable|levelwe|l|sample|information|measurements|novel|possibilities|performs|use|fewer|several|achieves|used|high|updating|prior|function|greedy|quite|problems|pmimp|signal|results|predicted|image|ssim|level|need|illustrate|difficult|develop|collection|slowly|take|proposed|minimization|improve|solve|wavelet|demonstrate|support|solving|idea|searching|changes|best|design|hard|enhance|algorithms|original|previous|satisfy|advantage|estimated|adjacent|intelligent|superior|performance|guidance|reconstruction|achieved|well|significantly
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Matching pursuit|Iterative reconstruction|Computer vision|Pattern recognition|Combinatorial optimization problem|Computer science|Greedy algorithm|Minification|Artificial intelligence|Optimization algorithm|Wavelet|Matching pursuit algorithms
+references:1608074891|1970695998|1974198688|1981208576|1983051471|1985102606|1986931325|2004025832|2021583769|2021918318|2031103608|2033884996|2042974711|2046658845|2046670074|2047422346|2048087281|2074544078|2077061986|2082712662|2086775845|2090311118|2100404464|2108826958|2121830132|2125680629|2127271355|2133665775|2134816084|2137320655|2138500679|2148154358|2160978899|2160979406|2167294733|2169904627|2296616510|2762625016
+
+
+id:2400170034
+title:Multi-variable intelligent matching pursuit algorithm using prior knowledge for image reconstruction by l0 minimization
+year:2016
+author information:[
+author name:Dan Li
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2635618131|
+author name:Qiang Wang
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2421746120|
+author name:Yi Shen
+author organization:Control Science and Engineering, Harbin Institute of Technology, No.92, West Da-Zhi Street, Nangang District, Harbin 150001, China
+author id:2175482809|
+]
+abstract:optimal|reconstruction|accuracy|stateoftheart|image|saliency|without|introduced|problem|optimization|visual|combinatorial|mimp|utilized|guide|algorithm|multivariable|knowledge|reduce|likely|based|images|using|method|compared|propose|exhaustively|traditional|prior|knowing|priormultivariable|obtained|requires|complexity|algorithms|nphard|numerical|scheme|achieve|pursuit|experiments|quality|global|sparsity|measurement|matching|unknown|speed|lot|numberedge|fall|listing|mechanism|performance|strategies|solution|compressive|sample|computation|information|novel|small|possibilities|significantlya|joint|reasonable|several|high|edge|faster|updating|solution|prior|function|implemented|greedy|accelerate|signal|computational|image|new|ssim|level|introducing|difficult|contributes|highlightswe|proposed|minimization|improve|solve|relatively|knowledge|demonstrate|suboptimal|problems|solving|applied|searching|complexity|speed|hard|designed|algorithms|sensing|original|aims|advantage|also|although|intelligent|structure|outperforms|better|performance|reconstruction|achieved|essentially|significantly|taking
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Mathematical optimization|Salience (neuroscience)|Computer science|Greedy algorithm|Joint reconstruction|Minification|Artificial intelligence|Machine learning|Compressed sensing|Computational complexity theory|Matching pursuit algorithms
+references:1500149156|1591867251|1971641950|1977252496|1981208576|1983115982|1984533699|1985102606|1986931325|1987090397|2007103423|2019645756|2021918318|2029931449|2033289745|2045095960|2046658845|2048087281|2049338538|2049502219|2074544078|2077410574|2080815943|2098996169|2108826958|2109270363|2122688057|2124662472|2125680629|2127271355|2128550928|2133665775|2145096794|2149166590|2156292736|2160978899|2160979406|2169904627|2296616510|2297530106
+
+
+id:1530046300
+title:Instantaneous Relaying: Feasibility Conditions for Interference Neutralization
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2424351073|
+author name:Yue Dong
+author organization:Beijing University of Posts  Telecommun
+author id:2708606249|
+author name:Junxu Zhao
+author organization:Beijing University of Posts  Telecommun
+author id:2223787874|
+author name:Na Li
+author organization:Beijing University of Posts  Telecommun
+author id:2307843167|
+author name:Jiang Qian
+author organization:Beijing University of Posts  Telecommun
+author id:2644973654|
+author name:Baoling Liu
+author organization:Beijing University of Posts  Telecommun
+author id:2638982325|
+]
+abstract:antenna|channel|approach|degrees|number|generalized|proof|promising|give|neutralization|efficiently|feasibility|node|conditions|study|relaying|instantaneous|transmission|derive|freedom|scenario|transceivers|lights|amplifyandforward|al|linear|necessary|maximum|minimum|first|coordinated|twouser|use|remains|unknown|sufficient|antennas|throws|multiinputmultioutput|et|condition|interference|present|support|configuration|show|pure|general|achievable|derived|studied|relay|resources|increase|lee|neutralize|assuming|interferencefree|relay|dof|rise
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Relay channel|Topology|Transceiver|Telecommunications|Computer science|Single antenna interference cancellation|MIMO|Co-channel interference|Communication channel|Real-time computing|Interference (wave propagation)|Relay
+references:273299822|1979408141|2031990115|2048659026|2053738266|2090481840|2168095411|2217718762
+
+
+id:1947407460
+title:Joint user clustering and resource allocation for device-to-device communication underlaying MU-MIMO cellular networks
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Conglin Lai
+author organization:Beijing University of Posts and Telecommunications
+author id:2937281628|
+author name:Yue Dong
+author organization:Beijing University of Posts and Telecommunications
+author id:2708606249|
+author name:Yuquan Shu
+author organization:Beijing University of Posts and Telecommunications
+author id:2107734531|
+author name:Xiaodong Xu
+author organization:Beijing University of Posts and Telecommunication
+author id:2495581602|
+]
+abstract:optimal|criteria|simulation|complexities|type|three|gains|without|ia|investigated|addition|algorithm|based|efficiency|using|schemes|propose|jointly|cellular|algorithms|scheme|incluster|achieve|tradeoff|search|orthogonal|systems|acquiring|low|key|compared|address|mitigate|distanceconstrained|multiplex|future|clustering|maximum|novel|sharing|outputs|spectral|inputs|binaryinteger|twostep|losses|good|space|underlaying|investigated|exhaustive|multiuser|locationbased|communication|results|obtain|resource|interference|proposed|improve|interference|alignment|suboptimal|problems|little|searching|show|programming|devicetodevice|related|applying|allocation|outperform|multiple|better|performance|branchandbound|clustering|reducing|user
+venue name:Eurasip Journal on Wireless Communications and Networking
+venue id:82675988
+venue type:J
+document type:Journal
+study fields:Multi-user MIMO|Brute-force search|Computer science|Computer network|Real-time computing|Resource allocation|Spectral efficiency|Cellular network|Throughput|Shared resource|Cluster analysis|Distributed computing
+references:1808280866|1972136948|1974147084|1975186862|1979408141|1990557017|1994004937|2010645529|2011039300|2024934110|2028356561|2034668638|2046659694|2060017899|2060180383|2066106876|2096820671|2104137227|2109327215|2109618769|2110064631|2130171753|2136393527|2138617844|2140502378|2150671191|2162650538|2168095411
+
+
+id:1965287267
+title:Performance Assessment of Adaptive AF Relay with Active Antenna System and Angle Estimation Strategy
+year:2013
+author information:[
+author name:Haiyun Chen
+author organization:Beijing University of Posts  Telecommun
+author id:2526421319|
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2424351073|
+author name:Ji Xu
+author organization:Beijing University of Posts  Telecommun
+author id:2640094231|
+author name:Jianhua Zhang
+author organization:Beijing University of Posts  Telecommun
+author id:2706284211|
+author name:Xiaoxuan Zhu
+author organization:China Sci.  Technol. Exchange Center, China
+author id:2142493432|
+]
+abstract:antenna|temporary|joint|paper|emergency|cover|horizontal|communication|obtain|af|robustness|active|propose|estimation|system|aas|improve|helps|useful|scheme|show|gain|adaptive|angle|stably|enhance|studied|introduce|effectively|relay|also|performance|results|relay|information|combined|strategy
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Computer science|Active antenna|Electronic engineering|Robustness (computer science)|Relay
+references:2026401110|2064959416|2154794161
+
+
+id:2012672305
+title:Outage Probability of Full-Duplex AF Relaying With Processing Delay and Residual Self-Interference
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2424351073|
+author name:Yue Dong
+author organization:Beijing University of Posts  Telecommun
+author id:2708606249|
+author name:Xiaodong Xu
+author organization:Beijing University
+author id:2495581602|
+author name:Xiaofeng Tao
+author organization:Beijing University
+author id:2154350692|
+]
+abstract:joint|theoretical|channel|residual|investigates|results|case|new|still|probability|often|less|simulations|delay|provide|proposed|decodeandforward|letter|effect|processing|larger|regions|lowtointermediaterate|direct|protocol|numerical|validated|fdr|link|indicate|amplifyandforward|outage|closedform|outperform|expression|captures|selective|relay|delay|fullduplex|selfinterference|applies|performance|affdr|adopts
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Residual|Wireless|Computer science|Computer network|Communication channel|Interference (wave propagation)|Outage probability|Relay|Duplex (telecommunications)|Processing delay
+references:1618533984|1994125924|2017717477|2045050439|2103051786|2108206358|2124262937|2128938148|2130883091|2144543107|2160030828|2168705505|2171001244
+
+
+id:2036445965
+title:Interference Neutralization and Alignment in Cognitive Relay Assisted 3-User Interference Channels
+year:2014
+author information:[
+author name:Yuquan Shu
+author organization:Beijing University of Posts and Telecom
+author id:2107734531|
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2424351073|
+author name:Dong Shao
+author organization:Beijing University of Posts  Telecommun
+author id:2469171120|
+author name:Jianhua Zhang
+author organization:Beijing University of Posts  Telecommun
+author id:2706284211|
+]
+abstract:big|results|use|simulation|align|constraints|degrees|number|transmitting|mimo|reduce|needs|obtain|using|antennas|carefully|neutralization|kuser|node|vectors|signals|system|dof|cognitive|channels|vectors|relayaided|interference|demonstrate|alignment|higher|antennas|scheme|sources|needed|achieve|proper|interferences|proved|known|paper|freedom|designed|compared|satisfy|relay|also|destinations|improvement|retransmit|neutralize|proposed|able|well
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Computer science|MIMO|Communication channel|Electronic engineering|Interference (wave propagation)|Electrical engineering|Relay|Interference alignment
+references:1556148838|1979408141|2041473910|2053738266|2089117163|2090481840|2103356978|2104398755|2108850836|2114755738|2124183034|2132107720|2136608712|2147021066|2161741925
+
+
+id:2087711280
+title:Joint Source-Relay Precoder and Decoder Designs for Amplify-and-Forward MIMO Relay System with Imperfect Channel State Information
+year:2012
+author information:[
+author name:Jianhua Zhang
+author organization:Beijing University of Posts  Telecommun
+author id:2706284211|
+author name:Wei Bao
+author organization:Beijing University of Posts  Telecommun
+author id:2425846924|
+author name:Ping Zhang
+author organization:Beijing University of Post  Telecommun
+author id:2890547342|
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2424351073|
+]
+abstract:addresses|joint|data|results|channel|source|discussion|constraints|maximize|imperfect|transmission|multipleinputmultipleoutput|state|results|flow|based|lower|impact|received|decoder|improving|proposed|correlation|designs|obtained|average|numerical|brought|show|networks|derive|numerical|paper|snr|power|make|derived|amplifyandforward|applying|expression|signaltonoise|relay|bound|precoder|schemes|also|improvement|great|single|sourcerelay|relay|coefficients|information|ratio
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Relay channel|Imperfect channel state information|Computer science|Upper and lower bounds|MIMO|Electronic engineering|Decoding methods|Relay|Precoding|Data flow diagram
+references:1493406030|1985449492|2008682670|2106801259|2109714708|2111799653|2113026489|2124541995|2125338648|2131203480|2131763573|2152121970|2157485058|2215700844|2539939386
+
+
+id:2137627114
+title:A fast-convergence algorithm for distributed transmit beamforming
+year:2013
+author information:[
+author name:Yu Yifei
+author organization:Beijing University of Posts  Telecommun
+author id:2226711930|
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2668742969|
+author name:Ji Xu
+author organization:Beijing University of Posts  Telecommun
+author id:2712719207|
+]
+abstract:modeling|observed|feedback|saves|algorithm|limitations|phase|based|using|robustness|distributed|sense|propose|grouping||pointed|algorithm|level|larger|k|turn|result|noise|steadystate|iteratively|small|values|awgn|theoretical|numbers|degradation|source|larger|used|high|find|groupwise|group|new|given|receiver|proposed|channels|adjust|relatively|costs|phase|convergence|divided|values|fluctuation|generating|random|numerical|rate|pairwise|featuring|patterns|transmit|groups|also|intergroup|existing|nodes|performance|offsets|mean|synchronization|achieved|time|beamforming
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Beamforming|Computer science|Phase synchronization|Algorithm|Phase noise|Robustness (computer science)|Rate of convergence|Pairwise Algorithm|Additive white Gaussian noise
+references:1967698183|2100331213|2109970789|2118623524|2119161934|2163173254
+
+
+id:2519424278
+title:Performance analysis for cross-tier cooperation in heterogeneous cellular networks: A stochastic geometry approach
+year:2016
+author information:[
+author name:Junxu Zhao
+author organization:Beijing University of Posts and Telecommunications
+author id:2223787874|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Yue Dong
+author organization:Beijing University of Posts and Telecommunications
+author id:2708606249|
+author name:Wei Wei
+author organization:Beijing University of Posts and Telecommunications
+author id:2713401005|
+]
+abstract:extent|thought|accuracy|desirable|cooperation|problem|hcns|cooperation|thus|probability|received|analysis|cooperative|traditional|ergodic|flexible|cellular|served|average|bss|scheme|range|networks|cell|cede|tools|derive|increases|stochastic|verify|everincreasing|indicate|reduces|power|compared|scheme|meet|maximum|novel|coordinated|data|downlink|using|paper|heterogeneous|reference|crosstier|communication|results|signal|traffic|multipoint|given|expressions|users|proposed|improve|deployed|numerical|paper|tier|rate|station|considers|allows|outage|original|better|performance|simulation|well|wireless|base
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Stochastic geometry|Base station|Wireless|Computer science|Stochastic process|Cellular network|Stochastic geometry models of wireless networks|Mobile telephony|Telecommunications link|Distributed computing
+references:2013491227|2034420299|2058477717|2101121986|2149170915|2150166076|2155174176
+
+
+id:2597947158
+title:Secure Degrees of Freedom of the Asymmetric Gaussian MIMO Interference Channel
+year:2017
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2679997196|
+author name:Yi Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2651748922|
+author name:Haojin Wang
+author organization:Beijing University of Posts and Telecommunications
+author id:2626560713|
+]
+abstract:channel|degrees|different|objective|problem|confidential|respectively|based|models|outer|schemes|theoretic|cooperative|node|unintended|intact|system|receivers|provide|exact|messages|asymmetric|assumed|multipleinput|study|works|prove|one|fundamental|secret|freedom|consequence|jamming|sdof|combining|fast|cannot|information|twouser|several|jamming|secure|developed|zero|leaves|regime|results|signal|transmitters|antennas|aligns|real|fading|sent|receiver|null|keep|fixed|interference|present|full|eavesdropped|private|pair|configuration|part|symmetric|intends|subdivide|receivers|intended|achievable|regimes|matrices|ensures|multipleoutput|bound|also|message|pair|way|existing|corresponding|rank|achieved|gaussian|derivation
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Rank (linear algebra)|Converse|Computer science|Fading|Communication channel|MIMO|Electronic engineering|Gaussian|Jamming
+references:1892274185|1965903274|1973417762|2000911299|2043769961|2079525500|2083160756|2091550021|2109394932|2112081641|2118269164|2128153585|2129457795|2136646486|2142102521|2144007657|2162370583|2172233962|2173828351|2288226817|2332045809|2545644295|2766905202
+
+
+id:2789660531
+title:Feature selection based on network maximal correlation
+year:2017
+author information:[
+author name:Xiaokang Yang
+author organization:Beijing University of Posts and Telecommunications
+author id:2789282522|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2679997196|
+author name:Yi Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2732550763|
+]
+abstract:maximal|quickly|accuracy|experimental|feature|variables|improved|terms|communication|network|calculate|based|efficiency|method|variable|elimination|impacts|selection|correlation|algorithm|much|subsets|correlation|statistical|methods|emerged|feature|dependence|poses|set|sets|many|great|model|accuracy|machine|calculation|data|dimensional|high|faster|shown|serious|results|obtain|new|including|measure|proposed|improve|critical|financial|show|learning|speed|effective|related|dimension|effectiveness|effectively|maximal|technology|label|increase|hirschfeldgebeleinrenyi|efficiency|better|existing|proposed|challenge|nmcrfe|recursive
+venue name:Wireless Personal Multimedia Communications
+venue id:1161697372
+venue type:C
+document type:Conference
+study fields:High dimensional data sets|Wireless|Feature selection|Pattern recognition|Computer science|Feature extraction|Real-time computing|Correlation|Feature set|Artificial intelligence|Recursion
+references:1530718924|2004891386|2156571267|2556383977
+
+
+id:2807870637
+title:Degrees of freedom of the cache-aided multi-hop line network
+year:2018
+author information:[
+author name:Ying Liu
+author organization:Xian University of Posts  Telecommunication
+author id:2808066968|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Wenqi Zhang
+author organization:Beijing University of Posts and Telecommunications
+author id:2227028480|
+author name:Xiaoxuan Zhu
+author organization:China Science and Technology Exchange Center
+author id:2808299487|
+]
+abstract:channel|allocation|transmitted|degrees|relayed|number|ic|assigning|eliminated|cache|method|topology|outer|index|received|remaining|contents|messages|partial|study|deal|multihop|transmission|local|increases|freedom|cached|informationtheoretically|k|connected|leftmost|characterization|cached|partially|data|network|cacheaided|space|transmission|outbound|wishes|equidifferent|signal|already|users|signals|proposed|interference|assume|send|since|equipped|line|interferences|network|achievable|transformed|derived|previous|bound|also|special|challenge|dof|user
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Data transmission|Cache|Computer science|Computer network|Communication channel|Network topology|Space allocation|Interference (wave propagation)|Hop (networking)|Spread spectrum
+references:1979408141|2012454404|2074502574|2106248279|2106549261|2113332385|2120510547|2136608712|2168448439|2306344802|2963345310|2963360080|2964133022
+
+
+id:2914364457
+title:An Efficient Algorithm Based on Interference Cancellation Against Reactive Jammer
+year:2018
+author information:[
+author name:Wenqi Zhang
+author organization:Beijing University of Posts and Telecommunications
+author id:2227028480|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Ying Liu
+author organization:Xian University of Posts  Telecommunication
+author id:2808066968|
+author name:Xiaoxuan Zhu
+author organization:Beijing University of Posts and Telecommunications
+author id:2808299487|
+]
+abstract:maintain|simulation|channel|multiantenna|transmitted|jamming|jam|estimate|algorithm|order|using|frames|received|propose|cancellation|multiplexing|algorithm|reactive|prove|scheme|turn|communications|orthogonal|defense|scenario|attack|attack|means|multiuser|jamming|one|operational|jammer|powerefficient|throttled|ofdm|frequencydivision|listen|research|matrixes|serious|multiuser|inserting|results|mechanisms|pilots|communications|iterative|onto|estimation|reactive|signals|focused|interference|nearly|best|remove|projected|considerable|receivers|sustaining|subspace|effectively|detects|existing|performance|activities|wireless|threat
+venue name:Asia-Pacific Conference on Communications
+venue id:2624612140
+venue type:C
+document type:Conference
+study fields:Wireless|Computer science|Single antenna interference cancellation|Signal-to-noise ratio|Communication channel|Algorithm|Real-time computing|Interference (wave propagation)|Multiplexing|Jamming|Orthogonal frequency-division multiplexing
+references:1992904179|2097025901|2124280970|2130134073|2136032111|2144916689|2146102702|2313096159|2404356415|2964133022
+
+
+id:2915040110
+title:Information-Theoretic Privacy-Accuracy-Secrecy Tradeoff under the Wire-Tap Channel
+year:2018
+author information:[
+author name:Dongli Dong
+author organization:Beijing University of Posts and Telecommunications
+author id:2914535634|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Ying Liu
+author organization:Xian University of Posts  Telecommunication
+author id:2808066968|
+author name:Xiaoxuan Zhu
+author organization:China Science and Technology Exchange Center
+author id:2808299487|
+]
+abstract:constraints|joint|data|optimal|declare|upper|channel|used|character|wiretap|threat|optimization|prior|estimate|well|inferring|acquired|case|based|mapping|considering|probability|impact|lower|distorted|input|provide|effect|bounds|true|demonstrate|leakage|distortion|little|statistical|private|inference|privacy|investigate|distribution|error|tradeoff|derive|general|observations|convex|based|distortions|minimize|practical|problem|estimated|distribution|privacypreserving|framework|corresponding|optimization|privacyaccuracysecrecy|account
+venue name:Asia-Pacific Conference on Communications
+venue id:2624612140
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Joint probability distribution|Computer science|Upper and lower bounds|Real-time computing|Probability distribution|Statistical inference|Information privacy|Prior probability|Convex optimization|Optimization problem
+references:1622686296|1714669175|1992904179|2021238795|2043769961|2071342505|2188761011|2597663268|2608598632|2911978475|2963446403|2963535017|2964133022
+
+
+id:2955968870
+title:Secure Degrees of Freedom of Rank-Deficient MIMO Interference Channel
+year:2019
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2424351073|
+author name:Dongli Dong
+author organization:Beijing University of Posts and Telecommunications
+author id:2955321915|
+author name:Tianjiao Zhang
+author organization:Nanjing University of Posts and Telecommunications
+author id:2954212187|
+]
+abstract:configurations|channel|degrees|investigates|number|problem|rank|spatial|transmitter|case|confidential
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Rank (linear algebra)|Converse|Transmitter|Discrete mathematics|Matrix (mathematics)|Computer science|MIMO|Computer network|Communication channel|Interference (wave propagation)|Special case
+references:1892274185|2029182233|2043769961|2069354344|2079525500|2115843455|2118269164|2120187887|2128153585|2136621718|2144007657|2148672861|2288226817|2562259532|2597947158|2803921113
+
+
+id:1597052260
+title:Optimized base station sleeping and renewable energy procurement using PSO
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2650353335|
+author name:Hai-lin Liu
+author organization:Guangdong University of Technol
+author id:2655480759|
+]
+abstract:optimal|maximize|problem|optimization|carbon|communication|combinatorial|drawn|energy|algorithm|based|efficiency|method|propose|jointly|renewable|adopt|domain|networks|subcarrier|algorithm|numerical|scheme|assignment|lagrange|formulate|bivelocity|bs|dual|operators|particle|power|minimize|strategy|joint|subject|integer|radio|optimize|communication|results|programming|wellknown|ee|need|resource|illustrate|difficult|procurement|decrease|general|important|discrete|proposed|improve|procurement|solve|tackle|mixed|sleeping|network|station|emissions|profit|effectiveness|allocation|green|original|nature|effectively|assignment|attentions|also|swarm|due|consists|wireless|strategy|base|emissions
+venue name:Congress on Evolutionary Computation
+venue id:1200052134
+venue type:C
+document type:Conference
+study fields:Particle swarm optimization|Subcarrier|Base station|Mathematical optimization|Computer science|Efficient energy use|Integer programming|Resource allocation|Procurement|Optimization problem
+references:1966451111|1966751624|1992913497|1993263424|2011734610|2014326592|2022383416|2024379753|2025361174|2026426764|2030588171|2031993835|2059033491|2061382837|2063846408|2084258039|2085561938|2105547551|2109650933|2114591851|2130805321|2130891087|2133007332|2142363699|2144513250|2163553782|2164109625|2165517987
+
+
+id:1990475199
+title:Dynamic Resource Allocation of TD-LTE System Based on Improved Quantum Evolutionary Algorithm
+year:2013
+author information:[
+author name:Hong-Chao Yan
+author organization:Guangdong University of Tech
+author id:2229340090|
+author name:Hai-Lin Liu
+author organization:Guangdong University of Tech
+author id:2655480759|
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2424845760|
+]
+abstract:cts|duplex|good|put|operator|division|improved|shows|experiment|model|gate|algorithm|new|based|considering|efficiently|qea|mutation|system|proposed|solve|interference|crossed|greatly|enhances|convergence|affect|quantum|global|slot|long|effective|search|capability|paper|term|performance|may|problem|forward|controllednot|evolution|increase|simulation|due|time|evolutionary
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Mathematical optimization|Computer science|Evolutionary computation|Resource allocation|Interference (wave propagation)|Quantum evolutionary algorithm|Time-division multiplexing|Mutation operator
+references:1551188690|1595966218|1962752774|1971887613|2062200087|2106749358|2108359457|2165819815
+
+
+id:2062200087
+title:Resource Allocation for OFDM System Based on Evolutionary Algorithm
+year:2012
+author information:[
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2424845760|
+author name:Hai-Lin Liu
+author organization:Guangdong University of Tech
+author id:2655480759|
+author name:Jiong-Cheng Li
+author organization:Key Wireless Network Optimization Center, Guangzhou Guangdong Planning  Designing Institute of Telecommun. Co., Ltd., Guangzhou, China
+author id:2700527231|
+]
+abstract:ofdm|criteria|improves|accuracy|twostep|improved|evaluation|solution|balance|time|method|computational|algorithm|reduce|method|resource|proposes|simulated|effective|system|take|proposed|numerical|complexity|experiments|show|annealing|distribution|good|capacity|paper|fairness|power|socalled|allocation|combines|better|conventional|subcarrier|meanwhile|evolutionary|account
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Resource management|Simulated annealing|Mathematical optimization|Evolutionary algorithm|Computer science|Evolutionary computation|Resource allocation|Orthogonal frequency-division multiplexing|Computational complexity theory|Encoding (memory)
+references:2000138915|2018957484|2078435159|2095626188|2108359457|2110077599|2130034407|2130048658|2130805321|2131950468|2137194757|2141249877|2152309319|2171121903
+
+
+id:2279963355
+title:An Evolutionary Algorithm for TD-LTE Resource Allocation Based on Adaptive Fairness Threshold
+year:2014
+author information:[
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2675735748|
+author name:Hai-Lin Liu
+author organization:Guangdong University of Tech
+author id:2655480759|
+author name:Zhen-Hua Li
+author organization:Guangdong University of Technology
+author id:2430273604|
+author name:Yiu-Ming Cheung
+author organization:Hongkong Baptist University
+author id:2161219483|
+author name:Jun Zhang
+author organization:SUN YAT-SEN UNIVERSITY
+author id:2096219712|
+]
+abstract:ofdm|threshold|multicells|model|algorithm|based|resource|empirical|introducing|term|propose|decrease|important|system|proposed|improve|solve|long|throughput|interference|evolutiontdlte|multiplexingofdm|show|time|tdlte|slot|adaptive|rate|fairness|studies|division|considers|fairness|allocation|orthogonal|effectively|cross|transmit|decreasing|frequency|threshold|time|evolutionary
+venue name:Simulated Evolution and Learning
+venue id:1119897178
+venue type:C
+document type:Conference
+study fields:Max-min fairness|Mathematical optimization|Frequency divider|Evolutionary algorithm|Computer science|Resource allocation|Interference (wave propagation)|Fairness measure|Throughput|Orthogonal frequency-division multiplexing
+references:2000138915|2078435159|2095626188|2108359457|2130048658|2130805321|2131950468|2137194757|2141249877|2152309319|2165819815
+
+
+id:2280038626
+title:4G Heterogeneous Networks Base Station Planning Using Evolutionary Multi-objective Algorithm
+year:2015
+author information:[
+author name:Xueyi Liang
+author organization:Guangdong University of Tech
+author id:2639857309|
+author name:Hailin Liu
+author organization:Guangdong University of Tech
+author id:2655480759|
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2424845760|
+]
+abstract:small|functions|trend|considered|simulation|paper|issues|constraints|objective|faster|problem|shows|optimization|evolutionary|builds|model|feasible|signal|algorithm|order|models|new|development|solutions|difficult|stations|additive|important|planning|traditional|system|proposed|provide|improve|nondominated|solve|unavailable|interference|constraint|decomposition|networks|speed|local|capacity|speed|bs|search|computing|paper|since|ability|takes|make|multiobjective|tackle|adds|genetic|cost|existing|heterogeneous|future|wireless|strategy|base
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Wireless network|Base station|Mathematical optimization|Computer science|Algorithm|Capacity planning|Interference (wave propagation)|Heterogeneous network|Local search (optimization)|Optimization problem|Genetic algorithm
+references:1971365195|1994009993|2009472632|2030511954|2041622733|2045750029|2058142975|2058536250|2091983271|2118343376|2143381319
+
+
+id:2538802750
+title:Optimized Base Station Sleeping and Renewable Energy Procurement Scheme Using PSO
+year:2017
+author information:[
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2639434589|
+author name:Hai-Lin Liu
+author organization:Guangdong University of Tech
+author id:2707220910|
+]
+abstract:joint|optimal|integer|maximize|problem|optimize|optimization|carbon|emission|communication|drawn|results|programming|energy|algorithm|based|efficiency|method|resource|illustrate|procurement|propose|decrease|important|discrete|proposed|improve|renewable|procurement|adopt|solve|domain|networks|subcarrier|algorithm|authors|numerical|scheme|lagrange|mixed|bivelocity|networks|sleeping|network|bs|dual|energy|operators|station|particle|power|profit|minimize|effectiveness|allocation|green|problem|effectively|assignment|attentions|requirement|swarm|due|wireless|strategy|base|strategy
+venue name:International Journal of Swarm Intelligence Research
+venue id:146254016
+venue type:J
+document type:Journal
+study fields:Particle swarm optimization|Wireless network|Base station|Mathematical optimization|Efficient energy use|Integer programming|Resource allocation|Procurement|Optimization problem|Mathematics
+references:1966451111|1966751624|1992913497|2014326592|2022383416|2024379753|2025361174|2030588171|2031993835|2059033491|2061382837|2063846408|2084258039|2085561938|2105547551|2109650933|2130891087|2133007332|2142363699|2144513250|2163553782|2164109625|2165517987
+
+
+id:2565728994
+title:A resource allocation evolutionary algorithm for OFDM system
+year:2016
+author information:[
+author name:Qiang Wang
+author organization:Guangdong University of Tech
+author id:2424845760|
+author name:Hai-Lin Liu
+author organization:Guangdong University of Tech
+author id:2655480759|
+author name:Jiong-cheng Li
+author organization:The Key Wireless Network Optimization Center, Guangzhou Guangdong Planning and Designing Institute of Telecommunications Co., Ltd., No. 161, Yinglong Road, Guangzhou, 510630, China
+author id:2700527231|
+author name:Yun Li
+author organization:Guangdong University of Technology
+author id:2566405351|
+]
+abstract:convergence|improves|division|poor|capacity|algorithm|generation|method|meanwhile|lower|simulated|system|allocate|multiplexing|among|rate|algorithm|greatly|complexity|deal|independent|achieve|capacity|result|orthogonal|power|performance|may|efficient|combines|subcarrier|efficiently|ofdm|perfect|achieves|twostep|main|frequency|transmission|shown|time|communication|results|described|resource|proposes|resource|significant|maintaining|system|users|core|improving|proposed|demonstrate|convergence|importance|mixed|annealing|paper|rate|definition|fairness|allocation|mobile|also|technology|improvement|increase|carrier|simulation|evolutionary
+venue name:Computational Science and Engineering
+venue id:1177288818
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Simulated annealing|Max-min fairness|Mathematical optimization|Evolutionary algorithm|Computer science|Real-time computing|Resource allocation|Rate of convergence|Orthogonal frequency-division multiplexing|Mobile telephony|Distributed computing
+references:2000138915|2035427678|2038615277|2062200087|2078435159|2090762767|2095626188|2108359457|2110077599|2129729589|2130034407|2130048658|2130805321|2131950468|2137194757|2150289785|2151523666|2152309319|2162065127|2167479968|2171121903|2408544462
+
+
+id:2788706053
+title:Linear Processing Design of Amplify-and-Forward Relays for Maximizing the System Throughput
+year:2018
+author information:[
+author name:Qiang Wang
+author organization:Yulin Normal University
+author id:2788887581|
+author name:Tiejun Chen
+author organization:Yulin Normal University
+author id:2789110146|
+author name:Tingting Lan
+author organization:Yulin Normal University
+author id:2788119114|
+]
+abstract:optimal|channel|allocation|problem|optimization|algorithm|respectively|based|method|af|optimality|received|propose|jointly|selection|domain|processing|subcarrier|study|prove|scheme|lagrange|achieve|relays|matrix|seen|bs|dual|snr|power|amplifyandforward|performance|linear|one|subcarriers|scheme|regarded|scenario|polynomial|regard|joint|perfect|optimize|time|find|results|obtain|given|illustrate|matrix|iterative|users|proposed|fixed|involving|partitioned|design|sorting|employing|permutation|allocation|assignment|relay|multiple|special|simulation
+venue name:Journal of Electrical and Computer Engineering
+venue id:174662166
+venue type:J
+document type:Journal
+study fields:Subcarrier|Computer science|Iterative method|Algorithm|Permutation matrix|Electronic engineering|Throughput|Time complexity|Optimization problem|Block matrix|Relay
+references:1966451111|1969683442|1970459732|1979397098|2006411304|2007687922|2022655865|2024345919|2026470388|2041277226|2044286123|2052839059|2067488894|2080624386|2081574256|2091726049|2132852202|2153639779|2154119053|2165517987|2171327552|2486852881|2587391021
+
+
+id:2891531084
+title:Multi-Slot Spectrum Auction in Heterogeneous Networks Based on Deep Feedforward Network
+year:2018
+author information:[
+author name:Feng Zhao
+author organization:Yulin Normal University
+author id:2896155538|
+author name:Yuyi Zhang
+author organization:Guilin University of Electronic Technology
+author id:2890542999|
+author name:Qiang Wang
+author organization:Yulin Normal University
+author id:2896176237|
+]
+abstract:small|data|channel|network|used|approach|users|heterogeneous|problem|suffered|presented|communication|different|results|promising|algorithm|based|made|multislot|analysis|respect|proposed|spectrum|among|adopt|allocating|integration|interference|waveform|study|deep|unlicensed|auction|applied|learning|cell|networks|airinterface|auction|network|feedforward|verify|make|key|effectiveness|address|decision|could|patterns|multiple|perform|capability|factors|simulation|extensively|efficiently|well|wireless|interests|user|economic
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Wireless network|Wireless|Computer science|Communication channel|Computer network|Interference (wave propagation)|Artificial intelligence|Deep learning|Heterogeneous network|Spectrum auction|Distributed computing|Feed forward
+references:1505710622|1822474543|1966676490|1969332978|1975428667|2008095228|2034106634|2042642342|2045457657|2046241731|2050654979|2071707134|2086522119|2134565781|2136703675|2138484437|2152438488|2153233077|2344786740|2345075033
+
+
+id:2897547158
+title:A Base Station DTX Scheme for OFDMA Cellular Networks Powered by the Smart Grid
+year:2018
+author information:[
+author name:Qiang Wang
+author organization:Yulin Normal University
+author id:2896176237|
+author name:Feng Zhao
+author organization:Yulin Normal University
+author id:2896155538|
+author name:Tiejun Chen
+author organization:Yulin Normal University
+author id:2896092949|
+]
+abstract:discontinuous|without|maximize|problem|optimization|deactivation|energy|algorithm|based|efficiency|using|expensive|environmental|distributed|propose|jointly|renewable|cellular|networks|wind|components|scheme|formulate|overhead|solar|networks|smart|tradeoff|dual|operators|power|enables|minimize|necessary|problem|efficient|many|exploiting|performed|grid|constraint|operation|comparing|joint|ghg|integer|good|transmission|optimize|emission|sufficient|variant|consider|different|results|programming|computational|retailers|obtain|resource|illustrate|greenhouse|decrease|proposed|improve|procurement|coupled|suboptimal|signaling|dtx|affecting|mixed|network|station|gas|profit|enhance|normal|cost|lagrangian|mobile|energy|consumption|technology|structure|conventional|simulation|short|wireless|significantly|base
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Renewable energy|Smart grid|Computer science|Efficient energy use|Distributed algorithm|Resource allocation|Cellular network|Energy consumption|Wind power|Distributed computing
+references:1589465141|2011734610|2014326592|2022383416|2061382837|2105547551|2142363699|2163553782|2168971592|2322476824|2325147653|2416627726|2538802750|2595704399|2614170794|2766866610|2791981360|2962686971
+
+
+id:232568776
+title:Arithmetic coding using hierarchical dependency context model for H.264/AVC video coding
+year:2016
+author information:[
+author name:Min Gao
+author organization:Harbin Institute of Technology, Harbin  China
+author id:2793309411|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology
+author id:2421746120|
+author name:Debin Zhao
+author organization:Harbin Institute of Technology Peoples Republic of China
+author id:2138469899|
+author name:Wen Gao
+author organization:Department of Computer Science and Technology, Harbin Institute of Technology, Harbin, Peoples Republic of China
+author id:2121069363|
+]
+abstract:modeling|tendency|cabac|arithmetic|used|consist|number|high|scanned|hierarchical|context|model|block|different|results|hdcm|hdcmbac|new|similar|using|dependency|level|experimental|capture|significant|correlations|decoding|proposed|dct|qps|among|binary|parts|position|demonstrate|basic|cosine|since|statistical|code|flag|achieve|hdcm|video|coding|varying|nonzero|low|coefficients|firstly|magnitude|carried|associates|proposed|performance|elements|meanwhile|coefficients|syntax|exists|information|exploit
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Computer science|Context-adaptive variable-length coding|Theoretical computer science|Context model|Artificial intelligence|Shannon–Fano coding|Variable-length code|Context-adaptive binary arithmetic coding|Coding tree unit|Pattern recognition|Algorithm|Decoding methods|Arithmetic coding
+references:1587703409|1985028362|2017043173|2039993956|2042947687|2045024766|2070916684|2072210981|2082967074|2088133079|2096445898|2101166700|2102373829|2122035863|2126443138|2127295759|2129768577|2132573196|2137923603|2146395539|2151308902|2153638435|2167359416
+
+
+id:1971190811
+title:Hierarchical dependency context model based arithmetic coding for DCT video compression
+year:2014
+author information:[
+author name:Min Gao
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2793309411|
+author name:Debin Zhao
+author organization:Harbin Institute of Technology
+author id:2138469899|
+author name:Qiang Wang
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Wen Gao
+author organization:Harbin Institute Technology
+author id:2121069363|
+]
+abstract:elements|modeling|tendency|cabac|arithmetic|used|number|high|scanned|hierarchical|context|block|model|different|results|hdcm|hdcmbac|new|similar|using|level|dependency|experimental|capture|significant|decoding|dct|proposed|among|binary|parts|position|demonstrate|basic|since|statistical|code|scheme|achieve|hdcm|video|coding|paper|varying|nonzero|low|coefficients|magnitude|qps|map|carried|performance|meanwhile|elements|coefficients|exists|information|exploit|presents
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Tunstall coding|Coding tree unit|Context-adaptive variable-length coding|Computer science|Arithmetic|Shannon–Fano coding|Data compression|Arithmetic coding|Variable-length code|Context-adaptive binary arithmetic coding
+references:1985028362|2042947687|2045024766|2072210981|2106219841|2127295759|2129768577|2146395539|2167359416
+
+
+id:1996948817
+title:Novel intra prediction via position-dependent filtering
+year:2011
+author information:[
+author name:Li Zhang
+author organization:Peking University
+author id:2510344353|
+author name:Xin Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2583769708|
+author name:Siwei Ma
+author organization:Peking University
+author id:2134212559|
+author name:Qiang Wang
+author organization:Academy of Broadcasting Science, the State Administration of Radio, Film and Television, Beijing, China
+author id:2421746120|
+author name:Wen Gao
+author organization:Peking University
+author id:2121069363|
+]
+abstract:named|positiondependent|different|contribution|block|filtering|algorithm|reduce|block|using|vceg|schemes|samples|obtained|average|complexity|discarded|least|gain|coding|latest|compared|set|linear|sets|within|one|coordinates|accuracy|novel|minor|offline|used|reference|codecs|implemented|method|different|results|predicted|others|computational|new|intra|experimental|applicable|tool|software|predefined|square|proposed|simplified|improve|prediction|position|demonstrate|training|video|pdf|paper|along|prediction|direction|original|practical|existing|retained|proposed|coefficients|kta|achieved|itut|subset|presents
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Least squares|Singular value decomposition|Coding gain|Linear filter|Pattern recognition|Computer science|Filter (signal processing)|Coding (social sciences)|Artificial intelligence|Codec|Computational complexity theory
+references:1988397298|2000094687|2109175430|2127323179|2146800746|2159433685|2165101139|2232702494
+
+
+id:2029453848
+title:A joint encoder-decoder error control framework for stereoscopic video coding
+year:2010
+author information:[
+author name:Xinguang Xiang
+author organization:Harbin institute of technology, Harbin, China
+author id:2305305121|
+author name:Debin Zhao
+author organization:Harbin Institute of Technology
+author id:2138469899|
+author name:Qiang Wang
+author organization:Harbin Institute of Technology
+author id:2421746120|
+author name:Siwei Ma
+author organization:Peking University
+author id:2134212559|
+author name:Wen Gao
+author organization:Peking University
+author id:2121069363|
+]
+abstract:select|considered|experimental|adaptively|problem|stereoscopic|block|model|temporal|algorithm|errorresilient|based|still|ratedistortion|concealment|robustness|ssvc|propose|encoder|correlations|jointly|side|solved|utilize|networks|role|scheme|achieve|endtoend|networks|two|tools|encoderdecoder|coding|disparity|resilience|intracoding|performance|side|robust|interview|suppress|stereoscopic|framework|ssvc|correlations|joint|source|propagations|transmission|presented|results|inter|errorprone|includes|decoder|important|proposed|distortion|optimized|show|video|error|network|applications|derived|considers|plays|refreshment|motion|control|better|superior|performance|various|challenge|compensation|overlapped
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Error concealment|Computer vision|Encoder decoder|Source code|Computer science|Robustness (computer science)|Error detection and correction|Encoder|Artificial intelligence|Stereoscopic Video Coding|Distortion
+references:1525764397|1531927749|1992740427|2037733470|2085951127|2122164414|2128168375|2129782342|2131093411|2145751904|2150307082|2156498695|2158643667|2166919462
+
+
+id:2045024766
+title:Context-based entropy coding in AVS video coding standard
+year:2009
+author information:[
+author name:Li Zhang
+author organization:Key Lab of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, China
+author id:2937537298|
+author name:Qiang Wang
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Ning Zhang
+author organization:McMaster University
+author id:2683005727|
+author name:Debin Zhao
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2138469899|
+author name:Xiaolin Wu
+author organization:McMaster University
+author id:2103746269|
+author name:Wen Gao
+author organization:Peking University
+author id:2121069363|
+]
+abstract:slightly|modeling|arithmetic|experimental|tables|compatible|coding|context|block|magnitudes|respectively|lower|profile|schemes|runlength|baseline|utilizes|even|domain|requirement|complexity|statistical|scheme|achieve|one|highorder|two|coding|adaptive|entropy|jiaqiang|low|nonzero|redundancy|enables|compared|jizhun|markov|contextbased|length|elements|exploit|comparable|standard|codes|contextadaptive|contextbased|main|used|simplifies|pairs|zero|features|adaptive|results|presented|weighting|enhanced|coded|dct|improve|coefficient|binary|demonstrate|avs|higher|arithmetic|variable|code|applied|technique|contexts|video|storage|previously|implementations|designed|exponentialgolomb|cbac|process|profile|multiple|contextbased|efficiency|performance|coefficients|uses
+venue name:Signal Processing-image Communication
+venue id:38090728
+venue type:J
+document type:Journal
+study fields:Tunstall coding|Entropy encoding|Coding tree unit|Computer science|Context-adaptive variable-length coding|Theoretical computer science|Shannon–Fano coding|Arithmetic coding|Variable-length code|Context-adaptive binary arithmetic coding
+references:1974042972|2003513405|2039993956|2077112618|2082967074|2098395302|2115262966|2127295759|2129768577|2137923603|2151308902
+
+
+id:2070916684
+title:A parallel context model for level information in CABAC
+year:2011
+author information:[
+author name:Min Gao
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2793309411|
+author name:Xiaopeng Fan
+author organization:Harbin Institute of Technology
+author id:2114645504|
+author name:Qiang Wang
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2421746120|
+author name:Debin Zhao
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2138469899|
+author name:Wen Gao
+author organization:Peking University
+author id:2121069363|
+]
+abstract:parallelization|modeling|use|cabac|parallelized|achieves|arithmetic|number|scanned|context|accelerate|model|block|throughput|potential|order|similar|efficiency|level|achieved|significant|modules|decoding|cabac|proposed|improve|binary|coefficient|level|position|present|compression|independent|contextadaptive|coding|timeconsuming|total|current|transform|paper|feature|previously|parallel|since|decoded|key|highly|process|nature|one|way|decoder|serial|quantized|coefficients|information|information
+venue name:Visual Communications and Image Processing
+venue id:1175927799
+venue type:C
+document type:Conference
+study fields:Context-adaptive variable-length coding|Computer science|Binary code|Theoretical computer science|Coding (social sciences)|Context model|Decoding methods|Binary number|Context-adaptive binary arithmetic coding|Encoding (memory)
+references:1587703409|2129768577
+
+
+id:2098991874
+title:Context-based Arithmetic Coding Reexamined for DCT Video Compression
+year:2007
+author information:[
+author name:Li Zhang
+author organization:Institute of Comput., Technol., Chinese Acad. of Sci., Beijing
+author id:2937537298|
+author name:Xiaolin Wu
+author organization:McMaster University
+author id:2103746269|
+author name:Ning Zhang
+author organization:McMaster University
+author id:2683005727|
+author name:Wen Gao
+author organization:Department of Computer Science, Harbin Institute of Technology, Harbin 150001, China. wgao@jdl.ac.cn
+author id:2121069363|
+author name:Qiang Wang
+author organization:Department of Computer Science, Harbin Institute of Technology, Harbin 150001, China. qwang@jdl.ac.cn
+author id:2421746120|
+author name:Debin Zhao
+author organization:Chinese Academy of Sciences
+author id:2138469899|
+]
+abstract:slightly|modeling|modeling|states|achieves|cabac|arithmetic|used|compatible|context|block|magnitudes|new|similar|efficiency|made|lower|baseline|weighting|coded|dct|conditioning|improve|domain|binary|coefficient|compression|avs|complexity|average|scheme|highorder|technique|video|two|coding|inclusion|adaptive|paper|feature|previously|redundancy|dimension|designed|key|enables|process|markov|profile|length|improvement|contextbased|efficiency|compression|variable|coefficients|exploit|presents|ratio
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Tunstall coding|Coding tree unit|Context-adaptive variable-length coding|Computer science|Arithmetic|Shannon–Fano coding|Data compression|Arithmetic coding|Context-adaptive binary arithmetic coding|Variable-length code
+references:2003513405|2129768577
+
+
+id:2104442861
+title:Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC
+year:2005
+author information:[
+author name:Qiang Wang
+author organization:Dept. of Computer Science and Technology, Harbin Institute of Technology, China
+author id:2421746120|
+author name:D. Zhao
+author organization:Harbin Institute of Technology
+author id:2138469899|
+author name:Wen Gao
+author organization:Harbin Institute Technology
+author id:2121069363|
+author name:Siwei Ma
+author organization:Joint RD Laboratory
+author id:2134212559|
+]
+abstract:calculation|fulfill|quickly|simple|mode|high|brings|deciding|major|optimization|model|results|computational|add|efficiency|involves|rate|experimental|presented|reduced|drop|tool|estimation|codec|codingbits|distortion|higher|little|complexity|complexity|part|show|coding|current|transform|operations|magnitude|precise|estimating|decision|efficient|rdobased|coordinates|nonzero|computation|reduced|efficiency|due|quantized|uses|information|significantly|adopted|account
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Macroblock|Algorithmic efficiency|Coding tree unit|Context-adaptive variable-length coding|Computer science|Electronic engineering|Codec|Rate–distortion optimization|Computational complexity theory|Context-adaptive binary arithmetic coding
+references:2105574607
+
+
+id:2116936728
+title:A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding
+year:2007
+author information:[
+author name:Xiaoming Li
+author organization:Harbin Institute of Technol., Harbin
+author id:2675570116|
+author name:Debin Zhao
+author organization:Harbin Institute of Technol., Harbin
+author id:2138469899|
+author name:Xiangyang Ji
+author organization:Chinese Academy of science, Beijing
+author id:2433142391|
+author name:Qiang Wang
+author organization:Department of Computer Science, Harbin Institute of Technology, Harbin 150001, China. qwang@jdl.ac.cn
+author id:2421746120|
+author name:Wen Gao
+author organization:Department of Computer Science, Harbin Institute of Technology, Harbin 150001, China. wgao@jdl.ac.cn
+author id:2121069363|
+]
+abstract:firstly|multiview|dcp|frames|improves|type|decided|reference|mode|loss|view|optimization|results|negligible|algorithm|reduce|removed|based|efficiency|ratedistortion|experimental|inter|especially|proposed|used|prediction|greatly|frame|finally|complexity|regions|utilizing|complexity|according|disparitycompensated|video|speed|coding|search|paper|verify|relationship|direction|decision|increase|unuseful|efficiency|fast|mcp|strategy|motioncompensated|presents
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Reference frame|Block-matching algorithm|Quarter-pixel motion|Computer science|Motion compensation|Multiview Video Coding|Artificial intelligence|Computer vision|Algorithmic efficiency|Coding tree unit|Pattern recognition|Algorithm|Inter frame
+references:2096681624|2113581782|2125471121|2158113616|2171075446
+
+
+id:2145751904
+title:A Novel Error Concealment Method for Stereoscopic Video Coding
+year:2007
+author information:[
+author name:Xinguang Xiang
+author organization:Harbin Institute of Technol., Harbin
+author id:2305305121|
+author name:Debin Zhao
+author organization:Harbin Institute of Technol., Harbin
+author id:2138469899|
+author name:Qiang Wang
+author organization:Harbin Institute of Technol., Harbin
+author id:2421746120|
+author name:Xiangyang Ji
+author organization:Institute of Computing Technology, Chinese Academy of Sciences, Beijing10080, P.R. China. xyji@jdl.ac.cn
+author id:2433142391|
+author name:Wen Gao
+author organization:Peking University
+author id:2121069363|
+]
+abstract:used|challenging|adaptively|objective|problem|lost|block|results|temporal|based|coding|method|concealment|received|weights|propose|whose|twoview|vectors|viewpoints|proposed|correlation|determined|vectors|criterion|methods|show|technique|video|error|neighboring|coding|disparity|performances|side|address|recover|subjective|motion|interview|match|combining|correlation|superior|stereoscopic|simulation|conventional|macroblocks|erroneously|novel|overlapped
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Error concealment|Computer vision|Block-matching algorithm|Coding tree unit|Pattern recognition|Computer science|Motion compensation|Multiview Video Coding|Correlation|Artificial intelligence|Stereoscopic Video Coding|Correlation theory
+references:1525764397|2085951127|2124193383|2129782342
+
+
+id:2150911018
+title:Context-based 2D-VLC for video coding
+year:2004
+author information:[
+author name:Qiang Wang
+author organization:Harbin Institute of Technology
+author id:2421746120|
+author name:Debin Zhao
+author organization:Harbin Institute of Technology Peoples Republic of China
+author id:2138469899|
+author name:Siwei Ma
+author organization:Joint RD Laboratory
+author id:2134212559|
+author name:Yan Lu
+author organization:
+author id:2130370841|
+author name:Qingming Huang
+author organization:
+author id:2116717946|
+author name:Wen Ga
+author organization:
+author id:2714591938|
+]
+abstract:smaller|coder|usage|experimental|used|observed|frequency|zero|tables|terms|context|method|usually|different|results|element|combination|another|based|method|probability|characteristic|runlength|better|distributions|becomes|successive|longer|combinations|dct|especially|proposed|contextadaptively|keep|requirement|onetableforoneblock|memory|show|gain|coding|subband|entropy|nonzero|increases|positions|low|design|magnitude|based|designed|key|db|compared|efficient|multiple|match|gets|well|coefficients|exponentialgolomb|exploit
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Magnitude (mathematics)|Computer science|Discrete cosine transform|Coding (social sciences)|Probability distribution|Artificial intelligence|Algorithmic efficiency|Pattern recognition|Context based|Block code|Algorithm|Image coding|Speech recognition
+references:1974042972|2129768577|2172057245
+
+
+id:2164175946
+title:Macroblock-Level Adaptive Scan Scheme for Discrete Cosine Transform Coefficients
+year:2007
+author information:[
+author name:Li Zhang
+author organization:Institute of Comput., Technol., Chinese Acad. of Sci., Beijing
+author id:2937537298|
+author name:Wen Gao
+author organization:Institute of Comput. Technol., Beijing, China
+author id:2121069363|
+author name:Qiang Wang
+author organization:Department of Computer Science, Harbin Institute of Technology, Harbin 150001, China. qwang@jdl.ac.cn
+author id:2421746120|
+author name:Debin Zhao
+author organization:Harbin Institute of Technology, Harbin, China. dbzhao@jdl.ac.cn
+author id:2138469899|
+]
+abstract:mlass|organization|adaptively|improved|introduced|usually|algorithm|efficiency|lower|macroblocklevel|version|zigzag|traditional|discrete|arrays|much|complexity|statistical|scheme|scan|pattern|distribution|two|local|gain|coding|adaptive|diversity|noise|set|decision|efficient|one|possible|fast|organizing|complete|reduction|ratio|almost|residual|used|macroblock|employed|arrange|results|signal|selected|always|new|given|experimental|widely|patterns|presented|dct|leads|keep|cosine|coefficient|prediction|fixed|memory|complexity|according|show|best|transform|extra|transformed|hence|characteristics|outperform|studied|patterns|peak|requirement|increase|chooses|residuals|efficiency|due|quantized|much|coefficients|time|errors
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Peak signal-to-noise ratio|Computer science|Control theory|Discrete cosine transform|Artificial intelligence|Zigzag|Macroblock|Computer vision|Algorithmic efficiency|Coding tree unit|Algorithm|Transform coding|Reduction (complexity)
+references:2005245503|2116467527|2127295759
+
+
+id:765697922
+title:Index bounds for character sums of polynomials over finite fields
+year:2016
+author information:[
+author name:Daqing Wan
+author organization:University of California
+author id:2129750725|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:small|indices|improves|numbers|cyclotomic|equations|character|high|generated|give|polynomials|large|finite|solutions|degree|index|weights|provide|weil|bounds|sums|fields|general|dual|artinschreier|bound|also|indices|mappings|codes|well|minimum|cyclic
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Wilson polynomials|Discrete mathematics|Combinatorics|Classical orthogonal polynomials|Orthogonal polynomials|Macdonald polynomials|Gegenbauer polynomials|Discrete orthogonal polynomials|Hahn polynomials|Difference polynomials|Mathematics
+references:1540833980|1603865303|1768913487|1979954918|2027040874|2032009701|2096776883|2171635774
+
+
+id:1977467103
+title:Linearized Wenger graphs
+year:2015
+author information:[
+author name:Xiwang Cao
+author organization:Nanjing university of Aeronautics
+author id:2643976880|
+author name:Mei Lu
+author organization:Tsinghua University
+author id:2295599343|
+author name:Daqing Wan
+author organization:University of California
+author id:2129750725|
+author name:Li-Ping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2667664505|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:called|infinite|graphs|diameter|motivated|linearized|girth|studies|graphs|recent|class|new|similar|introduce|bipartite|wenger|extensive|determined
+venue name:Discrete Mathematics
+venue id:18902827
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Odd graph|Combinatorics|Indifference graph|Modular decomposition|Chordal graph|Cograph|Pathwidth|1-planar graph|Mathematics|Dense graph
+references:1531592115|1991809067|2005781890|2012280556|2019885050|2047339582|2103801420|2104834666|2152980057
+
+
+id:1985780997
+title:Linear complexity profile and correlation measure of interleaved sequences
+year:2015
+author information:[
+author name:Jing Jane He
+author organization:Carleton University
+author id:2152209271|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+author name:Arne Winterhof
+author organization:Johann Radon Institute for Computational and Applied Mathematics
+author id:220733472|
+]
+abstract:second|relation|introduced|sequence|lags|terms|estimate|mary|case|respectively|prime|obtain|otherwise|profile|lower|introducing|restrictions|interleaved|bounded|sequence|measure|correlation|bounds|complexity|study|role|brandstatter|show|integer|immediately|sequences|two|chen|get|power|takes|close|estimating|linear|bound|profile|length|positive|st|able|let|winterhof|implies|first|base
+venue name:Cryptography and Communications
+venue id:129219326
+venue type:J
+document type:Journal
+study fields:Integer|Prime (order theory)|Discrete mathematics|Combinatorics|Upper and lower bounds|Correlation|Linear complexity|Mathematics|Bounded function
+references:2003906679|2111582940|2135733034|2143019587
+
+
+id:2009596421
+title:General conditional recurrences
+year:2014
+author information:[
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Murat Sahin
+author organization:Ankara University
+author id:2579102110|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+author name:William Webb
+author organization:Washington State University
+author id:2493356602|
+]
+abstract:conditional|functions|formulas|integer|shown|binetlike|dependent|obtain
+venue name:Applied Mathematics and Computation
+venue id:50372074
+venue type:J
+document type:Journal
+study fields:Integer|Generating function|Discrete mathematics|Combinatorics|Modulo|Partition (number theory)|Mathematics
+references:2022408881|2313185138|2403237451|2490264841
+
+
+id:2013752589
+title:Ambiguity and Deficiency of Permutations Over Finite Fields With Linearized Difference Map
+year:2013
+author information:[
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Amin Sakzad
+author organization:Monash University
+author id:45395454|
+author name:Brett Stevens
+author organization:Carleton University
+author id:2016301946|
+author name:David Thomson
+author organization:Carleton University
+author id:2155326563|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:functions|upper|ambiguities|bijection|ambiguity|introduced|terms|find|linearized|results|group|wellknown|obtain|give|using|polynomials|finite|nonlinearity|lower|deficiencies|differentially|invariant|explicit|terms|functions|ranks|concepts|provide|bounds|exact|difference|obtained|present|note|achieve|kuniform|values|fundamental|permutations|derive|trace|known|matrices|relationship|key|abelian|map|deficiency|cases|recently|bound|also|deficiency|dembowskiostrom|formula
+venue name:IEEE Transactions on Information Theory
+venue id:4502562
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Combinatorics|Bijection|Orthogonal polynomials|Polynomial|Upper and lower bounds|Permutation|Invariant (mathematics)|Ambiguity|Difference polynomials|Mathematics
+references:1563907129|1566384674|1587687098|1964723977|2014166022|2031446999|2032527737|2053266393|2072113533|2119936466|2131769628|2144323841|2154329330
+
+
+id:2014166022
+title:Ambiguity and deficiency of permutations from finite fields
+year:2011
+author information:[
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Amin Sakzad
+author organization:Amirkabir University of technology
+author id:45395454|
+author name:Brett Stevens
+author organization:Carleton University
+author id:2016301946|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:perfect|almost|nonlinear|bijection|ambiguity|introduced|linearized|generate|results|others|group|wellknown|given|polynomials|finite|work||functions|concepts|explicitly|numerical|f|values|investigate|permutations|derive|every|abelian|satisfy|recently|also|specific|n|q|deficiency|provided|dembowskiostrom|well
+venue name:Information Theory Workshop
+venue id:2622421702
+venue type:C
+document type:Conference
+study fields:Abelian group|Discrete mathematics|Combinatorics|Bijection|Koornwinder polynomials|Permutation|Macdonald polynomials|Discrete orthogonal polynomials|Jacobi polynomials|Difference polynomials|Mathematics
+references:1563907129|2031446999|2032527737|2131769628|2144323841|2165602610
+
+
+id:2032009701
+title:On permutation polynomials of prescribed shape
+year:2009
+author information:[
+author name:Amir Akbary
+author organization:University of Lethbridge
+author id:1987771623|
+author name:Dragos Ghioca
+author organization:University of Lethbridge
+author id:1254740035|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:allows|prove|polynomials|degrees|monomials|count|existence|shape|prescribed|q|certain|results|sums|us|permutation
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Permutation graph|Discrete mathematics|Wilson polynomials|Combinatorics|Algebra|Classical orthogonal polynomials|Orthogonal polynomials|Macdonald polynomials|Cyclic permutation|Discrete orthogonal polynomials|Mathematics|Difference polynomials
+references:1786245667|2006958431|2058946938|2082337615|2131769628
+
+
+id:2047352316
+title:Composed products and factors of cyclotomic polynomials over finite fields
+year:2013
+author information:[
+author name:Aleksandr Tuxanidy
+author organization:Carleton University
+author id:179223367|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:cyclotomic|areas|math|relation|number|pairwise
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Combinatorics|Finite field|Prime number|Cyclotomic polynomial|Multiplicative order|Factorization|Coprime integers|Primitive root modulo n|Mathematics|Eulers totient function
+references:589333786|1601019992|1982843093|1982904229|1990423864|2019485975|2041855298|2051677705|2055101016|2056445329|2064737438|2091899615|2147118979
+
+
+id:2052167619
+title:On coefficients of polynomials over finite fields
+year:2011
+author information:[
+author name:Amela Muratović-Ribić
+author organization:University of Sarajevo
+author id:103430787|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:relation|equations|number|moreover|algorithm|give|mapping|equations|depends|lower||exist|recurrence|system|field|provide|among|must|finally|study|f|achieve|two|established|polynomial|linear|abstract|nonzero|q|polynomial|elements|operations|certain|elements|small|moved|using|compute|given|polynomials|finite|improve|induces|show|paper|induced|coefficients|permutation|satisfy|bound|consecutive|special|form|coefficients
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Alternating polynomial|Combinatorics|Power sum symmetric polynomial|Minimal polynomial (field theory)|Algebra|Monic polynomial|Reciprocal polynomial|Matrix polynomial|Irreducible polynomial|Symmetric polynomial|Mathematics
+references:1562183207|1974969130|1975172609|1982904229|1993911500|1997433240|2000470138|2004104581|2019485975|2043992837|2050777560|2055101016|2056570455|2058946938|2075267144|2091899615|2163288567
+
+
+id:2061818608
+title:Dickson polynomials over finite fields
+year:2012
+author information:[
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+author name:Joseph L. Yucas
+author organization:University of Southern Illinois
+author id:296596521|
+]
+abstract:study|f|kind|notion|paper|behavior|dickson|permutation|th|polynomials|abstract|introduce|kind|finite|k|factorization|polynomials|p|third|fields|basic|family|properties
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Wilson polynomials|Discrete mathematics|Combinatorics|Classical orthogonal polynomials|Algebra|Orthogonal polynomials|Macdonald polynomials|Gegenbauer polynomials|Discrete orthogonal polynomials|Hahn polynomials|Mathematics|Difference polynomials
+references:2031446999
+
+
+id:2070033202
+title:A probabilistic approach to value sets of polynomials over finite fields
+year:2015
+author information:[
+author name:Zhicheng Gao
+author organization:Carleton University
+author id:2143607191|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:cyclotomic|variation|number|rth|order|obtain|mapping|finite|probability|goes|index||size|field|exact|considered|study|f|show|distribution|random|prescribed|paper|missing|value|normal|set|sets|also|union|q|polynomial|cosets|infinity|tends
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Normal distribution|Combinatorics|Finite field|Value set|Algebra|Polynomial|Infinity|Probability distribution|Probabilistic logic|Coset|Mathematics
+references:1603865303|1979954918|2032009701|2096776883|2226303357
+
+
+id:2081314644
+title:Divisibility of polynomials over finite fields and combinatorial applications
+year:2012
+author information:[
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Olga Sosnovski
+author organization:Carleton University
+author id:2415513653|
+author name:Brett Stevens
+author organization:Carleton University
+author id:2016301946|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:construct|approach|give|consider|method|considering|maximumlength|whose||polynomials|applies|field|even|must|arrays|pentanomials|formed|much|primitive|dewar|extended|characteristic|result|orthogonal|binomials|dual|broader|subintervals|al|set|linear|f
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Characteristic polynomial|Discrete mathematics|Finite field|Combinatorics|Primitive polynomial|Polynomial|Divisibility rule|Linear code|Mathematics|Trinomial|Dual code
+references:1511142191|1544773214|1789674208|1975948716|1994395083|2024021998|2033633322|2049009474|2085108631|2114321644|2117704651|2131858589
+
+
+id:2102282062
+title:A Karatsuba-Based Algorithm for Polynomial Multiplication in Chebyshev Form
+year:2010
+author information:[
+author name:Juliano B Lima
+author organization:University of Pernambuco
+author id:2142745384|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:arithmetic|used|approach|write|algorithm|computational|wellknown|new|using|method|polynomials|steps|multiplying|proposed|final|form|obtained|present|compare|applied|complexity|two|chebyshev|result|operations|extra|coefficients|constructed|approaches|also|quadratic
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Chebyshev polynomials|Chebyshev nodes|Chebyshev pseudospectral method|Algorithm|Chebyshev equation|Equioscillation theorem|Chebyshev filter|Mathematics|Karatsuba algorithm|Chebyshev iteration
+references:1562183207|1967380110|2078301269|2105990542|2129745589|2154192803
+
+
+id:2119936466
+title:On constructing permutations of finite fields
+year:2011
+author information:[
+author name:Amir Akbary
+author organization:University of Lethbridge
+author id:1987771623|
+author name:Dragos Ghioca
+author organization:University of British Columbia
+author id:1254740035|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:treatment|classes|several|recipe|approach|motivated|q|permutation|new|set|constructing|polynomials|large|notably|old|done|propose|unified|yields|constructions|authors
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Permutation graph|Discrete mathematics|Combinatorics|Algebra|Orthogonal polynomials|Classical orthogonal polynomials|Discrete orthogonal polynomials|Cyclic permutation|Random permutation|Bit-reversal permutation|Partial permutation|Mathematics
+references:1603865303|1970691708|2022705034|2082337615|2142748475|2166286315
+
+
+id:2131858589
+title:Division of trinomials by pentanomials and orthogonal arrays
+year:2007
+author information:[
+author name:Michael Dewar
+author organization:University of Illinois
+author id:2673406441|
+author name:Lucia Moura
+author organization:University of Ottawa
+author id:2628874319|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Brett Stevens
+author organization:Carleton University
+author id:2016301946|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:considered|sequence|property|proof|case|based|consider|maximumlength|binary|skew|primitive|distribution|result|proved|orthogonal|get|vector|close|together|minimizes|subintervals|set|f|n|conditions|polynomial|pentanomial|certain|corresponds|n|strength|f|main|munemasa|shiftregister|zero|denote|generated|consider|subsequences|given|divisible|finite|degree|weight|list|exceptions|hamming|sequence|fields|trinomials|provided|trinomial|generating|array|give|effectively|length|satisfying|let
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Null vector|Orthogonal array|Discrete mathematics|Combinatorics|Finite field|Primitive polynomial|Polynomial|Hamming weight|Mathematics|Binary number|Trinomial
+references:1970042430|1975948716|1994395083|2033633322
+
+
+id:2144323841
+title:Two New Measures for Permutations: Ambiguity and Deficiency
+year:2011
+author information:[
+author name:D. Panario
+author organization:Carleton University
+author id:188628065|
+author name:A. Sakzad
+author organization:Amirkabir University of Technol
+author id:45395454|
+author name:B. Stevens
+author organization:Carleton University
+author id:2016301946|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:functions|optimal|multiplicative|used|employed|given|ambiguity|measures|function|weighted|permutations|group|mapping|finite|lower|conclude|additive|group|concepts|field|bounds|note|aes|study|show|mobius|size|permutations|two|safer|construction|abelian|modifying|permutation|inverse|introduce|twisted|groups|optimum|cryptosystem|closer|deficiency|polynomial|apn
+venue name:IEEE Transactions on Information Theory
+venue id:4502562
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Abelian group|Combinatorics|Finite field|Multiplicative group|Permutation|Inverse function|Ambiguity|Additive group|Permutation polynomial|Mathematics
+references:1556212265|1566384674|1597936869|1982338917|2021094554|2123039547|2131769628|2154329330|2165602610|2610262450
+
+
+id:2147118979
+title:On explicit factors of cyclotomic polynomials over finite fields
+year:2012
+author information:[
+author name:Liping Wang
+author organization:Tsinghua University
+author id:2667664505|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:small|several|fewer|cyclotomic|construct|easily|rth|obtain|polynomials|irreducible|finite|degree|odd|explicit|terms|field|obtained|fields|study|classes|show|orders
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Wilson polynomials|Combinatorics|Orthogonal polynomials|Classical orthogonal polynomials|Cyclotomic polynomial|Macdonald polynomials|Discrete orthogonal polynomials|Hahn polynomials|Mathematics|Difference polynomials
+references:1601019992|1982904229|2019485975|2041855298|2055101016|2091899615
+
+
+id:2527744876
+title:Compositional inverses and complete mappings over finite fields
+year:2017
+author information:[
+author name:Aleksandr Tuxanidy
+author organization:Carleton University
+author id:179223367|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:permuting|several|wang|construct|shown|linearized|samardjiska|multitrace|recent|obtain|mappings|laiglechapuy|give|new|given|mapping|polynomials|finite|inverses|polynomials|tuxanidy|subspaces|functions|extends|compositional|constructions|obtained|fields|involving|study|classes|recursively|binomials|trace|computing|paper|related|gligoroski|bijections|class|permutation|recently|map|inverse|kernel|also|lin|mappings|application|determining|complete|certain|wu
+venue name:Discrete Applied Mathematics
+venue id:171741597
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Discrete mathematics|Inverse|Combinatorics|Finite field|Polynomial|Permutation|Bijection, injection and surjection|Linear subspace|Mathematics|Recursion
+references:1498892963|1589951659|1906465869|1965411348|1970691708|1986188895|1986425287|1993911500|1996360405|1998816295|1999918393|2000470138|2011098338|2021590184|2022705034|2028116741|2032009701|2035843463|2043654862|2048961727|2061750487|2067790332|2082337615|2082823537|2096776883|2113618167|2119936466|2142748475|2166286315|2963397145|2963971814
+
+
+id:2624155812
+title:The exact autocorrelation distribution and 2-adic complexity of a class of binary sequences with almost optimal autocorrelation
+year:2018
+author information:[
+author name:Yuhua Sun
+author organization:China University of Petroleum
+author id:2675338108|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+author name:Tongjiang Yan
+author organization:China University of Petro
+author id:2694109267|
+]
+abstract:shift|used|good|feedback|reliable|high|registers|threelevel|results|algorithm|obtain|period|approximation|large|resist|sequences|sequence|binary|analyze|cases|exact|carry|complexity|infinitely|statistical|show|least|sequences|distribution|n|low|stream|indicates|attack|class|rational|pseudorandom|linear|maximal|enough|ciphers|many|designing|autocorrelation
+venue name:Cryptography and Communications
+venue id:129219326
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Discrete mathematics|Combinatorics|Autocorrelation technique|Autocorrelation matrix|Pseudorandom binary sequence|Complementary sequences|Stream cipher|Mathematics|Autocorrelation|Binary number
+references:1581538722|1796785622|1976126184|1977299570|1984945961|1992354706|1993614456|1998627321|2031207368|2036676363|2043290798|2058674058|2068122009|2070021685|2072303319|2072930281|2087838526|2122490655|2127498516|2133829060|2135248327|2135539585|2139274836|2140369345|2156732823|2162442687|2163925910|2164379767|2962964631
+
+
+id:2757847923
+title:Characteristic digit-sum sequences
+year:2018
+author information:[
+author name:Aleksandr Tuxanidy
+author organization:Carleton University
+author id:179223367|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:complexity|values|primitive|period|show|sum|type|sequences|nonlinear|good|characteristic|filtering|wellknown|new|using|linear|polynomials|large|introduce|finite|also|autocorrelation|field|msequences|provide|examples|elements|binary|coefficients
+venue name:Cryptography and Communications
+venue id:129219326
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Finite field|Combinatorics|Polynomial|Nonlinear filtering|Digit sum|Complementary sequences|Linear complexity|Mathematics|Autocorrelation|Binary number
+references:15859887|1194339333|1538837969|1971882628|2024483577|2051386202|2056570455|2067062123|2134693538|2150276672|2162442687|2518706279
+
+
+id:2769406786
+title:Nonlinear vectorial primitive recursive sequences
+year:2018
+author information:[
+author name:Sartaj Ul Hasan
+author organization:Defence Research and Development Organisation
+author id:2319183841|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:shift|nonlinear|pseudorandom|filtered|generated|registers|first|consider|results|vectorial|jump|obtain|based|give|period|multiplerecursive|usual|lower|schemes|sequences|establish|vectors|bounds|vectors|complexity|primitive|complexity|generator|generating|matrix|sequences|recursive|producing|nonlinearly|analogous|compared|include|linear|componentwise|also|transformation|better|concerning|certain|discuss
+venue name:Cryptography and Communications
+venue id:129219326
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Shift register|Generator matrix|Nonlinear system|Primitive recursive function|Linear complexity|μ operator|Jump|Mathematics|Pseudorandom number generator
+references:20068738|43061790|1535558765|1538837969|1981455414|2021409753|2026004935|2035562740|2085661788|2087866552|2107271959|2464951797|2580764755|2899660175
+
+
+id:2799736692
+title:Improved bounds on 2-frameproof codes with length 4
+year:2019
+author information:[
+author name:Minquan Cheng
+author organization:Guangxi Normal University
+author id:2949144897|
+author name:Jing Jiang
+author organization:Guangxi Normal University
+author id:2007802817|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:upper|improves|focus|alphabet|materials|type|math|number|far|discret|fingerprinting|lower|explicit|size|bounds|obtained|qary|theory|methods|j|current|known|protect|trans|positive|classic|interests|codes|strength|main|integer|copyrighted|obtain|new|widely|frameproof|fixed|inf|chee|best|blackburn|previously|construction|previous|studied|bound|length|zhang|approaches|due|well|fpcs|infinity|codewords
+venue name:Designs, Codes and Cryptography
+venue id:81616010
+venue type:J
+document type:Journal
+study fields:Integer|Discrete mathematics|Combinatorics|Upper and lower bounds|Infinity|Mathematics|Alphabet
+references:41435888|1970997983|1998969622|2001092675|2001991924|2002087984|2029762703|2034819091|2067182672|2090770845|2124938909|2131762402|2134195444|2165902826|2293452572|2911455720|2963896203
+
+
+id:2890359787
+title:On the Derivative Imbalance and Ambiguity of Functions
+year:2019
+author information:[
+author name:Shihui Fu
+author organization:Key Laboratory of Mathematics Mechanization,Academy of Mathematics and Systems Science,Chinese Academy of Sciences
+author id:2767194197|
+author name:Xiutao Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2991426006|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+author name:Claude Carlet
+author organization:University
+author id:230094222|
+]
+abstract:functions|called|carlet|upper|without|introduced|specifically|respectively|devoted|parameters|relating|nonlinearity
+venue name:IEEE Transactions on Information Theory
+venue id:4502562
+venue type:J
+document type:Journal
+study fields:Boolean function|Affine transformation|Discrete mathematics|Abelian group|Combinatorics|Nonlinear system|Multiplicative function|Upper and lower bounds|Computer science|Permutation|Fourier transform
+references:59896302|1565237252|1587687098|1597936869|1606884796|1629301835|1935580934|1964723977|2013752589|2021094554|2023638163|2068272963|2092396566|2144323841|2154329330|2154374104|2165602610|2754959355|2761574822
+
+
+id:2902893142
+title:New constructions of involutions over finite fields
+year:2019
+author information:[
+author name:Tailin Niu
+author organization:National University of Defense Technology
+author id:2962701530|
+author name:Kangquan Li
+author organization:National university of Defense Technology
+author id:2744393034|
+author name:Longjiang Qu
+author organization:Nat. University of Defense Technol
+author id:2343780784|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:equivalent|wang|inverses|whose|version|
+venue name:Cryptography and Communications
+venue id:129219326
+venue type:J
+document type:Journal
+study fields:Integer|Discrete mathematics|Combinatorics|Finite field|Multiplicative function|Binary fields|Permutation|Fixed point|Construction method|Mathematics
+references:1492328052|1556212265|1587687098|1599175145|1603865303|1786245667|1965411348|1971990650|1981357736|1999918393|2048961727|2067790332|2087896741|2119936466|2149390321|2301421650|2392885651|2402083131|2412284786|2429154356|2516983385|2526479025|2527744876|2565912892|2566780797|2592162774|2728070583|2791996780|2793451806|2800690885|2802966178|2962895977|2962898640|2963508189|2963971814|2964247407
+
+
+id:2914313791
+title:Fixed points of rational functions satisfying the Carlitz property
+year:2019
+author information:[
+author name:Kaitlyn Chubb
+author organization:Carleton University
+author id:2911494701|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:smaller|functions|generates|cycles|three|research|put|points|generated|function|property|nonconstant|results|permutations|algorithm|motivating|given|cryptography|particular|analysis|forth|obtaining|chosen|explicit|functions|field|concepts|points|provide|sboxes|carlitz|fixed|present
+venue name:Applicable Algebra in Engineering, Communication and Computing
+venue id:44535979
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Combinatorics|Cryptography|Permutation|Fixed point|Rational function|Mathematics
+references:1658166121|1976636244|2055489884|2072113533|2301421650|2392885651|2402083131|2612621433|2963397145
+
+
+id:2963692803
+title:On a conjecture of polynomials with prescribed range
+year:2012
+author information:[
+author name:Amela Muratović-Ribić
+author organization:University of Sarajevo
+author id:103430787|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:multiplicity|integer|greater|finite|conjecture|degree||et|field|highest|f|show|range|gacs|prescribed|min|every|b|al|abstract|false|satisfying|k|n|p|q|multiset|polynomial|exists|implies
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Integer|Combinatorics|Finite field|Polynomial|Multiset|Multiplicity (mathematics)|Conjecture|Mathematics
+references:2046475589|2046947513
+
+
+id:2963971814
+title:On the inverses of some classes of permutations of finite fields
+year:2014
+author information:[
+author name:Aleksandr Tuxanidy
+author organization:Carleton University
+author id:179223367|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:compute|terms|linearized|inducing|write|bijection|addition|obtain|respectively|polynomials|thus|finite|inverses|bijecting|whose|obtaining|explicit|subspaces|compositional|generalizing|obtained|fields|induces|study|explicitly|classes|show|two|question|general|prescribed|map|permutation|polynomial|inverse|cases|recently|one|also|polynomial|able
+venue name:Finite Fields and Their Applications
+venue id:925225069
+venue type:J
+document type:Journal
+study fields:Inverse|Combinatorics|Finite field|Bijection|Polynomial|Generalization|Permutation|Linear subspace|Mathematics
+references:1965411348|1970691708|1993911500|1996360405|1999918393|2000470138|2021590184|2032009701|2048961727|2061750487|2067790332|2082337615|2082823537|2096776883|2119936466|2142748475|2166286315|2592162774|2963397145
+
+
+id:1535558765
+title:An asymptotic formula for the number of irreducible transformation shift registers
+year:2015
+author information:[
+author name:Stephen D. Cohen
+author organization:University of Glasgow
+author id:2101845077|
+author name:Sartaj Ul Hasan
+author organization:Defence Research and Development Organisation
+author id:2319183841|
+author name:Daniel Panario
+author organization:Carleton University
+author id:188628065|
+author name:Qiang Wang
+author organization:Carleton University
+author id:2140577206|
+]
+abstract:carlitz|shift|two|derive|number|problem|registers|consider|proof|recent|order|give|using|irreducible|abstract|transformation|special|theorem|registers|asymptotic|generalization|cases|exact|formula|short|enumerating
+venue name:Linear Algebra and its Applications
+venue id:159544283
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Characteristic polynomial|Shift register|Asymptotic formula|Primitive polynomial|Mathematical analysis|Galois group|Irreducible element|Irreducible polynomial|Mathematics
+references:43061790|1572189866|2015041317|2021409753|2026004935|2029378260|2035562740|2085661788|2087866552|2899660175
+

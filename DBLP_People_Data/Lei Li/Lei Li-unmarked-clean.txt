@@ -1,0 +1,2904 @@
+
+id:1969377333
+title:MSSF: a multi-document summarization framework based on submodularity
+year:2011
+author information:[
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:documents|incorporate|motivates|solution|function|property|different|representative|generate|us|tasks|tasks|sentence|new|using|principled|propose|extract|selection|submodularity|textualunit|techniques|utilize|summarization|hidden|summary|sentences|given|document|multidocument|similarity|multidocument|aims|set|distill|submodular|approaches|versatile|existing|framework|information
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Multi-document summarization|Automatic summarization|Data mining|Information retrieval|Computer science|Submodular set function|Sentence
+references:1517928915|1962684803|2050813594|2052143806|2080379754|2089391273|2109857522|2182572585
+
+
+id:1986668507
+title:Recommending Users and Communities in Social Media
+year:2015
+author information:[
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2916784727|
+author name:Wei Peng
+author organization:Xerox Corp., Webster, NY
+author id:2110579051|
+author name:Saurabh Kataria
+author organization:Xerox Corp., Webster, NY
+author id:2122910368|
+author name:Tong Sun
+author organization:Xerox Corp., Webster
+author id:2305232783|
+author name:Tao Li
+author organization:Nanjing University
+author id:2472069284|
+]
+abstract:extensive|increasingly|discussions|interactive|recommendation|experimental|collected|evaluation|relationships|problem|likeminded|diverse|model|people|communities|case|similar|topiccohesive|usergenerated|profile|methods|community|propose|utilizes|provide|exact|become|recommending|providing|influential|given|focuses|share|connect|enables|compared|social|enabling|keywords|set|within|topics|people|help|framework|media|unified|information|prevalent|interests|dataset|communities|topical|keywords|reasonable|available|individuals|challenging|platforms|topics|find|us|communityoriented|given|discover|last|capture|often|sharing|friends|users|relevant|proposed|daily|topic|demonstrate|present|interact|twitter|capable|probabilistictopicmodelbased|media|generative|useroriented|studies|rich|effectiveness|social|also|target|websites|service|engage|activities|interaction|well|user
+venue name:ACM Transactions on Knowledge Discovery From Data
+venue id:41523882
+venue type:J
+document type:Journal
+study fields:Data mining|Internet privacy|World Wide Web|Social media|Computer science|Topic model|Generative grammar
+references:1814023381|1880262756|1942910215|1979104937|1982167371|1985093013|1996174542|2025901387|2042123098|2059047669|2061820396|2062773165|2069078812|2073563922|2076219102|2090876554|2106545428|2119571791|2122463926|2127048411|2127345773|2130978632|2135029798|2137268161|2137958601|2142283240|2144009057|2146058975|2146728697|2148847267|2150461699|2158307368|2161353674|2169463887|2170344111
+
+
+id:1987938583
+title:PENETRATE: Personalized news recommendation using ensemble hierarchical clustering
+year:2013
+author information:[
+author name:Li Zheng
+author organization:Xiamen University
+author id:2112178922|
+author name:Lei Li
+author organization:Xiamen University
+author id:2432045905|
+author name:Wenxing Hong
+author organization:Xiamen University
+author id:2661711779|
+author name:Tao Li
+author organization:Xiamen University
+author id:2472069284|
+]
+abstract:extensive|personalized|results|optimal|empirical|recommendation|collected|construct|users|approach|realtime|would|easily|promising|similar|based|using|hierarchies|preference|hierarchy|propose|provide|consideration|simultaneously|items|become|finally|recommending|access|experiments|personalized|many|behavior|clustering|popular|set|fascinating|fast|framework|recommending|readers|recommendation|information|websites|approach|novel|several|research|topics|designated|helpful|different|selected|group|given|attractive|individual|might|newlypublished|groups|collection|list|users|take|group|proposed|belongs|internet|demonstrate|one|world|sources|ensemble|around|provides|result|direction|news|hierarchical|multiple|merged|reading|groups|efficacy|various|news|separates|online|initially|interested|articles|user
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Hierarchical clustering|Data mining|World Wide Web|Information retrieval|Computer science|Hierarchy|The Internet|Personalization
+references:1497613135|1587170344|1612003148|1680189815|1788412637|1880262756|1968397045|1988506514|1997136459|2028563407|2030968866|2042281163|2049455633|2054553473|2063397738|2080379754|2081798681|2097951507|2110443819|2110703683|2112420033|2116578632|2121236959|2123427850|2132708887|2141403143|2153111836|2155106456|2158515176
+
+
+id:2013047133
+title:Ontology-enriched multi-document summarization in disaster management using submodular function
+year:2013
+author information:[
+author name:Keshou Wu
+author organization:Xiamen University Xiamen
+author id:2963853332|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|trend|wikipedia|evaluation|department|problem|generalized|concise|text|press|ontologyenriched|domainspecific|using|large|method|propose|feasibility|provide|submodularity|concepts|wilma|among|domain|analyze|competitive|experiments|multidocument|document|extended|management|hurricane|may|explore|approaches|releases|help|framework|experts|reports|documents|challenging|investigated|shows|myriad|ontology|empirical|conducted|informative|collection|summarizing|employing|relevant|proposed|demonstrate|facilitate|summarization|hidden|county|disaster|general|public|telesum|news|effectiveness|miamidade|ontological|management|recorded|efficacy|form|disaster|emergency
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Data science|Ontology (information science)|Ontology|Automatic summarization|Multi-document summarization|Emergency management|Submodular set function|Mathematics|Text document
+references:42510783|101415590|139529041|1498671329|1521842739|1647729745|1680189815|1962684803|1969377333|1975579663|2010320682|2050813594|2066651513|2072319455|2080379754|2083305840|2089391273|2090721155|2103339462|2109297205|2109857522|2116031377|2118364625|2141403143|2143603726|2145697164|2148374900|2159113915|2165268584|2167232041|2952883787
+
+
+id:2013955429
+title:Modeling and broadening temporal user interest in personalized news recommendation
+year:2014
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Li Zheng
+author organization:Florida International University
+author id:2112178922|
+author name:Fan Yang
+author organization:Xiamen University
+author id:2673655852|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|reason|somewhat|seamlessly|select|differentiated|empirical|recommendation|experimental|construct|accessed|users|evaluation|realworld|modelextensive|problem|would|model|based|similar|using|preference|hierarchy|finegrained|propose|usersselecting|profiling|provide|obtained|items|affinity|recommending|study|experiments|given|personalized|diversity|mechanism|popular|imperative|preferences|possible|evolve|list|traditional|websites|interests|novel|data|prefer|historical|remains|shortterm|updating|method|selected|needs|useritem|static|newlypublished|might|profiles|often|collection|list|contentwise|graph|users|respect|chosen|important|stable|candidates|recommenders|techniques|activate|demonstrate|usersin|recommendation|user|solving|systemsintegrating|frequent|integrated|random|items|interest|recommender|selecting|successful|news|effectiveness|introduce|profile|reading|groups|evolution|increase|recommended|contentbased|websites|due|stable|various|absorbing|initially|step|time|user|articles|walk|tends|longterm
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Recommender system|Graph|World Wide Web|User profile|Computer science|Profiling (computer programming)|Hierarchy|Personalization
+references:55652079|114919307|1546477643|1547244403|1788412637|1880262756|1968397045|1974712809|1988882536|1997136459|2014358499|2028912620|2039535197|2039651324|2042281163|2049455633|2053801634|2057991616|2063584715|2076538105|2079335968|2080320419|2081798681|2084527756|2086054005|2096066838|2097951507|2100181204|2102870745|2109992782|2110443819|2110703683|2112420033|2117487426|2119706777|2123427850|2134716712|2146456494|2153111836|2154309443|2155106456|2159155347|2164646033|2170344111
+
+
+id:2029604041
+title:Personalized Recommendation via Parameter-Free Contextual Bandits
+year:2015
+author information:[
+author name:Liang Tang
+author organization:Florida Internation University
+author id:2128176332|
+author name:Yexi Jiang
+author organization:Florida International University
+author id:2402026574|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Chunqiu Zeng
+author organization:Florida International University
+author id:2155150411|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:contextual|extensive|called|hyperparameters|empirical|recommendation|experimental|advertising|accessed|users|approach|years|realworld|problem|gained|collections|terms|despite|model|recent|algorithm|knowledge|models|item|probability|propose|samples|traditional|dilemma|rate|ineffective|formed|items|algorithms|formulate|experiments|least|distribution|two|personalized|derive|exploitation|systems|web|popularity|socalled|undergo|address|robust|makes|services|coldstart|resampling|extensive|reasons|increasing|information|randomly|dilemma|manner|data|remains|challenging|repositories|realtime|employs|sufficient|personalized|results|needs|new|exploration|principled|difficult|users|proposed|specifically|solve|try|demonstrate|useful|recommendation|challenges|paradigm|clickthrough|frequent|show|learning|content|tune|parameterfree|virtue|recommender|derived|every|news|effectiveness|limited|bandit|estimated|also|attention|online|information|user
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data mining|Bootstrapping|Computer science|Popularity|Online advertising|Artificial intelligence|Dilemma|Probability matching|Personalization|Recommender system|Information needs|Information retrieval|Machine learning
+references:1516061453|1529840045|1562189966|1613456526|1618543586|2012731843|2023599408|2030501831|2077902449|2091780923|2092092836|2093562354|2099586447|2100922150|2108738385|2112420033|2119850747|2126394879|2133282568|2138909795|2158515176|2158807713|2162979096|2167489871|2167879950|2168405694|2171960770
+
+
+id:2030481925
+title:Ensemble contextual bandits for personalized recommendation
+year:2014
+author information:[
+author name:Liang Tang
+author organization:Florida Internation University
+author id:2128176332|
+author name:Yexi Jiang
+author organization:Florida International University
+author id:2402026574|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:employ|contextual|extensive|metabandit|empirical|recommendation|approach|realworld|problem|terms|algorithm|based|agreement|underlying|provide|among|attracted|relative|appropriate|algorithms|explicitly|achieve|experiments|two|personalized|ctr|web|many|socalled|robust|problem|explore|sets|strategies|predictive|services|coldstart|model|extensive|forcing|places|unified|dilemma|economic|acceptable|data|deploy|features|aggregating|different|vendors|results|predicted|acquired|hyper|obtain|difficult|feedbacks|often|proposed|bandits|prediction|tackle|demonstrate|recommendation|rather|paradigm|clickthrough|importance|policies|ensemble|learning|rate|rooted|effectiveness|highdimensional|characteristics|profit|bandit|due|various|service|pulling|attention|online|user|providers|objects|base
+venue name:Conference on Recommender Systems
+venue id:1134284382
+venue type:C
+document type:Conference
+study fields:Data mining|Data set|Computer science|Online advertising|Exploit|Service provider|Artificial intelligence|Dilemma|Machine learning|Profit (economics)
+references:116854235|1516061453|1682004401|1751428553|1972484488|2032536435|2055119952|2077902449|2099586447|2108630796|2108738385|2112420033|2121863487|2124231679|2132922788|2138909795|2158515176|2159904393|2167489871|2186365833|2951520722|2964260845
+
+
+id:2040779545
+title:PatentLine: analyzing technology evolution on multi-view patent graphs
+year:2014
+author information:[
+author name:Longhui Zhang
+author organization:Florida International University Miami
+author id:2956622547|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Qi Zhang
+author organization:Fudan University
+author id:2484821979|
+]
+abstract:named|quickly|granted|analyzing|concise|temporal|case|order|understand|volumes|gap|classification|propose|advancement|driven|study|patentrelated|availability|citations|variety|trend|enables|art|necessary|society|fast|framework|unified|grab|documents|reasonable|evolution|analyses|generated|prior|huge|different|generate|us|given|including|demonstrates|tree|often|collection|basis|technologies|relevant|proposed|detecting|topic|framework|identifying|patent|code|summary|related|provides|patents|summary|types|yet|evolution|technology|efficacy|better|patents|growth|comprehensive|integrates
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data science|Data mining|Graph|Dominating set|Technological evolution|Information retrieval|Computer science|Steiner tree problem|Technology gap|Patent visualisation
+references:1561887350|1968497507|1970043789|1975442866|1975594954|1988892514|2003159902|2022082910|2054788843|2097241552|2160473350|2163347895
+
+
+id:2044367376
+title:iMiner: Mining Inventory Data for Intelligent Management
+year:2014
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Chao Shen
+author organization:Florida International University Miami
+author id:2171136085|
+author name:Long Wang
+author organization:Florida International University Miami FL USA
+author id:2435336103|
+author name:Li Zheng
+author organization:Florida International University
+author id:2112178922|
+author name:Yexi Jiang
+author organization:Florida International University
+author id:2402026574|
+author name:Liang Tang
+author organization:Florida Internation University
+author id:2128176332|
+author name:Hongtai Li
+author organization:Florida International University
+author id:2154980435|
+author name:Longhui Zhang
+author organization:Florida International University Miami
+author id:2956622547|
+author name:Chunqiu Zeng
+author organization:Florida International University
+author id:2155150411|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Jun Tang
+author organization:ChangHong Hongxin Software Co., Ltd, Mianyang, Sichuan, China
+author id:2657925133|
+author name:Dong Liu
+author organization:ChangHong Hongxin Software Co., Ltd, Mianyang, Sichuan, China
+author id:2709166452|
+]
+abstract:called|iminer|analyzing|companies|advances|tasks|distributed|system|abnormal|utilize|orders|inventory|current|latest|forecasting|one|data|increasing|efficiently|relations|transaction|tv|data|goods|goods|incorporate|tremendous|sales|major|generated|huge|stocked|business|tracing|often|enormous|mining|everyday|regarding|volume|technologies|task|refers|detecting|nontrivial|selling|present|correlated|ease|largest|deployed|inventory|platform|aging|computing|due|since|retailing|amount|process|effectively|perform|electric|china|resources|intelligent|manage|management|changhong
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Anomaly detection|Perpetual inventory|Inventory theory|Demand forecasting|Information retrieval|Computer science|Engineering management|Inventory control|Stock-taking|Transaction data|Tracing
+references:1746819321|2145295623|2153635508|2163465797
+
+
+id:2047239485
+title:PatentDom: Analyzing Patent Relationships on Multi-View Patent Graphs
+year:2014
+author information:[
+author name:Longhui Zhang
+author organization:Florida International University Miami
+author id:2956622547|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Dingding Wang
+author organization:Florida Atlantic University
+author id:2097650207|
+]
+abstract:named|quickly|granted|analyzing|relationships|number|identified|concise|enable|connection|documents|temporal|case|order|large|understand|volumes|analysis|propose|advancement|driven|patentrelated|linkage|availability|two|outlining|grasp|citations|variety|trend|key|necessary|society|extensive|fast|framework|unified|documents|reasonable|prior|huge|different|us|given|tracing|including|empirical|often|particular|mining|collection|basis|technologies|important|proposed|techniques|demonstrate|framework|patent|technical|analytical|summary|technique|related|provides|patents|studies|types|identify|yet|technologies|technology|evolution|efficacy|better|growth|comprehensive|integrates
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data science|Data mining|Graph|Dominating set|Technological evolution|GRASP|Information retrieval|Steiner tree problem|Computer science|Patent analysis|Patent visualisation|Tracing
+references:1488425980|1561887350|1868866275|1968497507|1970043789|1975442866|1975594954|1987722084|1988892514|1997219719|1997328961|2003159902|2011269336|2018605697|2022082910|2040779545|2054788843|2056184657|2072319455|2072459098|2090823820|2092465960|2097241552|2116137244|2146964183
+
+
+id:2072319455
+title:Ontology-enriched multi-document summarization in disaster management
+year:2010
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Dingding Wang
+author organization:Florida International University
+author id:2097650207|
+author name:Chao Shen
+author organization:Florida International University Miami
+author id:2171136085|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:named|ontologyenriched|results|documents|approach|extracted|relationships|department|generated|hierarchical|sentences|links|represented|press|results|knowledge|given|evaluation|using|maps|thus|query|finally|tree|capture|collection|propose|onto|node|relevance|input|node|oms|wilma|background|improve|final|extracts|demonstrate|oms|summarization|semantic|utilizing|sentences|document|county|rooted|hurricane|summary|miamidade|multidocument|management|specific|lead|efficacy|releases|better|subtree|domainrelated|emergency|showing|novel|first
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Multi-document summarization|Automatic summarization|Ontology|Data mining|Information retrieval|Computer science|Semantic relevance|Emergency management|Tree (data structure)|Document summarization
+references:2136004837|2143603726|2562699584
+
+
+id:2073061769
+title:A multimedia information fusion framework for web image categorization
+year:2014
+author information:[
+author name:Wenting Lu
+author organization:Beijing University of Posts and Telecommunications
+author id:2292384313|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Honggang Zhang
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2139493915|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:multiview|seamlessly|together|focus|without|analyzing|number|topicrelated|problem|retrieval|regionbased|model|popularization|usually|text|images|efficiency|large|models|testing|classification|web|utilize|adopting|assigned|appropriate|shared|access|images|methods|achieve|given|automatically|experiments|consequently|datasets|two|posted|world|web|reported|set|combining|textual|integrate|computation|multimedia|fast|weighting|framework|able|organized|efficiently|clustering|information|novel|proposing|categorizing|semantic|rapid|available|used|challenging|either|notice|different|concept|image|development|empirical|often|enormous|less|real|everyday|technologies|fusion|proposed|improve|topic|relatively|internet|demonstrate|framework|according|scale|description|capable|choose|integrated|along|previously|applications|categorize|digital|types|characteristics|categorization|limited|effectively|perform|also|approaches|generic|efficacy|special|better|existing|descriptions|performance|corresponding|online|previous|handling|time|simply|categorization
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Weighting|Computer science|Image retrieval|Digital image|Artificial intelligence|Contextual image classification|Cluster analysis|Computer vision|Categorization|Information retrieval|Feature (computer vision)|Internet access|Machine learning
+references:1502916507|1560724230|1956559956|1993091968|1994207675|2006143799|2018139053|2020842694|2025653905|2056952330|2058960217|2077125160|2081580037|2086478842|2088353053|2100823613|2104019579|2106624428|2117109360|2123296693|2127015580|2135924403|2145295623|2146387413|2151194828|2153635508|2159942673|2163502583|2172000360|2186736182
+
+
+id:2073563922
+title:FRec: a novel framework of recommending users and communities in social media
+year:2013
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Wei Peng
+author organization:Xerox Corp., Webster, NY
+author id:2110579051|
+author name:Saurabh Kataria
+author organization:Xerox Corp., Webster, NY
+author id:2122910368|
+author name:Tong Sun
+author organization:Xerox Corp., Webster
+author id:2305232783|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|data|interactive|recommendation|evaluation|model|communities|us|communityoriented|given|discover|based|topiccohesive|capture|methods|propose|users|relevant|proposed|exact|topic|obtained|present|recommending|influential|given|focuses|twitter|capable|generative|useroriented|demonstrated|enables|compared|effectiveness|set|social|user|topics|probabilistic|framework|media|well|interests|communities
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:World Wide Web|Social media|Computer science|Probabilistic logic|Generative grammar|Topic model
+references:1880262756|1942910215|1982167371|1996174542|2024791434|2025901387|2069078812|2106545428|2127048411|2140124448|2146058975|2148847267|2158307368|2169463887
+
+
+id:2087526960
+title:MEET: a generalized framework for reciprocal recommender systems
+year:2012
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|empirical|focus|recommendation|entire|different|evaluation|realworld|generalized|terms|model|whereas|analysis|propose|correlations|quality|traditional|involved||systems|utility|global|two|local|systems|compared|maintains|preferences|meet|sets|manages|framework|data|network|individuals|recommendations|differentiate|reciprocal|obtain||useritem|demonstrates|insights|users|graph|mutual|utilities|proposed|parties|overall|deep|aspects|reciprocal|recommenders|provides|dating|recommender|algorithms|effectiveness|captures|satisfying|bipartite|also|special|existing|refer|well|online|properties
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Recommender system|Reciprocal|Data mining|Data set|Information retrieval|Computer science|Bipartite graph|Artificial intelligence|Machine learning
+references:146601322|1967174192|1992380306|2031484081|2034464625|2049113432|2068115726|2096346879|2101409192|2105472772|2111278749|2119571791|2122537498|2133576408|2142830328|2143667634|2145665029|2146728697|2154455818|2160218441|2434205482|2809882627
+
+
+id:2091607560
+title:An Empirical Study of Ontology-Based Multi-Document Summarization in Disaster Management
+year:2014
+author information:[
+author name:Lei Li
+author organization:Florida Int. University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida Int. University
+author id:2472069284|
+]
+abstract:extensive|empirical|used|meaningful|terms|different|press|ontology|tasks|using|baselines|collection|feasibility|relevant|provide|wilma|domain|ontologybased|demonstrate|domain|problems|semantic|summarization|study|solving|methods|experiments|multidocument|quality|representation|disaster|management|provides|hurricane|summary|outperform|explore|approaches|textual|conceptual|releases|framework|information
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Data science|Ontology|Conceptual model|Computer science|Artificial intelligence|Empirical research|Ontology (information science)|Multi-document summarization|Automatic summarization|Information retrieval|Process ontology|Upper ontology|Machine learning
+references:42510783|101415590|139529041|1967082914|1971684103|1975579663|2050813594|2072319455|2073705286|2077229105|2083778364|2089391273|2090721155|2103339462|2106866704|2109857522|2127661733|2136659154|2145697164|2148374900|2148880617|2162081764|2167232041
+
+
+id:2100181204
+title:LOGO: a long-short user interest integration in personalized news recommendation
+year:2011
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Li Zheng
+author organization:Florida International University
+author id:2112178922|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|seamlessly|prefer|differentiated|empirical|recommendation|experimental|shortterm|realworld|method|selected|based|using|newlypublished|might|hierarchy|collection|list|propose|users|chosen|provide|obtained|demonstrate|items|recommending|study|given|experiments|integrated|items|recommender|popular|news|preferences|profile|reading|groups|evolution|efficacy|various|initially|websites|interests|user|articles|novel|longterm
+venue name:Conference on Recommender Systems
+venue id:1134284382
+venue type:C
+document type:Conference
+study fields:Recommender system|World Wide Web|User profile|News aggregator|Computer science|Logo|Hierarchy
+references:1880262756|1988882536|2039535197|2057991616|2110443819|2117487426|2123427850|2153111836
+
+
+id:2109297205
+title:Multi-document summarization via submodularity
+year:2012
+author information:[
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:functions|comparative|improved|four|property|tasks|tasks|sentence|based|using|issue|propose|benchmark|selection|submodularity|utilize|algorithm|sentences|given|document|multidocument|experiments|known|variations|term|al|set|sets|prog|submodular|math|framework|efficiently|information|compressed|retrieval|becoming|data|community|documents|incorporate|motivates|solution|greedy|different|generate|us|new|including|principled|modeled|conducted|et|important|extract|proposed|textualunit|techniques|demonstrate|framework|summarization|hidden|summary|optimized|show|information|general|similarity|derived|coverage|effectiveness|multidocument|aims|distill|approaches|versatile|efficacy|existing
+venue name:Applied Intelligence
+venue id:74726891
+venue type:J
+document type:Journal
+study fields:Automatic summarization|Multi-document summarization|Data set|Information retrieval|Pattern recognition|Computer science|Submodular set function|Greedy algorithm|Artificial intelligence|Sentence
+references:42510783|101415590|139529041|1544455437|1680189815|1962684803|1964532546|1969377333|1975579663|2011193572|2050813594|2052143806|2065643326|2080379754|2089391273|2090721155|2103339462|2109857522|2139153206|2141403143|2148374900|2182572585|2293771131|2952883787
+
+
+id:2110443819
+title:SCENE: a scalable two-stage personalized news recommendation system
+year:2011
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Dingding Wang
+author organization:Florida International University
+author id:2097650207|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Daniel Knox
+author organization:DailyMe, Inc., Hollywood, FL, USA
+author id:2690306594|
+author name:Balaji Padmanabhan
+author organization:DailyMe, Inc., Hollywood, FL, USA
+author id:2117146407|
+]
+abstract:extensive|named|empirical|recommendation|approach|relationships|realtime|balance|property|exclusive|promising|based|efficiency|lives|propose|latent|selection|among|obtained|items|become|access|experiments|personalized|diversity|systems|popularity|services|fast|framework|recommending|traditional|information|websites|approach|inefficient|scalable|good|research|different|new|individual|adapt|principled|collection|intrinsic|users|twolevel|shelf|internet|demonstrate|world|recommendation|sources|novelty|around|content|strive|interest|provides|result|virtue|value|render|direction|news|considers|characteristics|previous|performing|multiple|approaches|twostage|efficacy|recommended|special|various|short|information|articles|user|properties
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Recommender system|World Wide Web|User profile|News aggregator|Information retrieval|Computer science|Popularity|News analytics|Immediacy|Personalization|The Internet
+references:4508078|1497613135|1502916507|1788412637|1880262756|1968397045|1993091968|1997136459|2042281163|2049455633|2063397738|2080379754|2081798681|2097951507|2107743791|2109992782|2110703683|2112420033|2123427850|2141403143|2153111836|2155106456|2158515176
+
+
+id:2116272276
+title:Product recommendation with temporal dynamics
+year:2012
+author information:[
+author name:Wenxing Hong
+author organization:Xiamen University
+author id:2661711779|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:vary|empirical|recommendation|accessed|analyzing|evaluation|easily|model|filtering|knowledge|similar|item|using|identifies|method|collaborative|provide|exact|obtained|items|stage|recommending|algorithms|babies|long|personalized|products|customers|behavior|situation|within|user|many|produce|computation|stage|traditional|cannot|first|stages|resolve|data|tailored|ecommerce|cycles|compute|method|different|significantly|demonstrates|involves|need|might|conducted|handcrafted|collection|list|employing|users|purchased|proposed|lists|background|relatively|recommendation|shop|purchasing|paradigms|life|cycle|recommender|class|incorporating|effectively|purchase|formalizes|efficacy|target|special|stages|growth|diaperscom|user|longterm
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Recommender system|Data collection|Data mining|Content filtering|World Wide Web|Collaborative filtering|Computer science|Purchasing|Computation
+references:1585610988|1647729745|1764359635|1788412637|1976650435|1994389483|1997136459|2014714192|2017894137|2042978294|2056564184|2057763140|2057991616|2063049279|2077242081|2096066838|2100961114|2110703683|2116206254|2117805756|2126026531|2126700264|2136914924|2137245235|2137728971|2143667634|2146456494|2158515176|2159094788|2170936447|2171960770
+
+
+id:2119541122
+title:News recommendation via hypergraph learning: encapsulation of user behavior and news content
+year:2013
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extensive|named|recommender|objects|recommendation|collected|building|problem|gained|model|recent|algorithm|finegrained|correlations|propose|years|among|algorithm|valuable|implicit|highorder|formulate|experiments|personalization|systems|socalled|demonstrated|preferred|set|problem|topics|could|coldstart|framework|entities|increasing|correlations|ranking|websites|relations|novel|data|use|hypergraph|personalized|different|hypergraphs|like|mining|users|proposed|capable|effective|transductive|recommender|news|effectiveness|types|effectively|reading|various|within|attention|handling|articles
+venue name:Web Search and Data Mining
+venue id:1120384002
+venue type:C
+document type:Conference
+study fields:Recommender system|Transduction (machine learning)|Data mining|World Wide Web|Information retrieval|Ranking|Computer science|Constraint graph|Hypergraph|Named entity|Encapsulation (computer programming)|Personalization
+references:4508078|1788412637|1988393308|1988506514|1989889610|2005676288|2005683516|2042281163|2048004534|2049455633|2054553473|2055559630|2081798681|2094651715|2097951507|2100181204|2102937240|2109220922|2109992782|2110443819|2110703683|2112008792|2112420033|2120901716|2123427850|2135505871|2140005801|2153111836|2155106456|2158515176|2167913971|2170057991
+
+
+id:2147021778
+title:iHR: an online recruiting system for Xiamen Talent Service Center
+year:2013
+author information:[
+author name:Wenxing Hong
+author organization:Xiamen University
+author id:2661711779|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Wenfu Pan
+author organization:Xiamen Talent Service Center, Xiamen, China
+author id:2328488051|
+]
+abstract:named|results|functions|recommendation|evaluation|problem|gained|advances|recruiting|audience|utilizes|perspective|ihr|system|maximally|winwin|compare|achieve|search|systems|based|key|situation|latest|product|jobs|desires|seekers|help|marketing|xiamen|online|data|community|internet|reasonable|center|several|enterprises|recommendations|deploy|wake|myriad|create|immense|implement|empirical|mining|finding|system|technologies|candidates|proposed|demonstrate|job|critical|searching|deployed|investigate|point|observations|useroriented|studies|successful|webbased|effectiveness|satisfy|service|talent|efficacy|application|various|service|attention|online|user
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Seekers|Job analysis|Data mining|Computer science|User studies|The Internet
+references:146601322|1528811433|1532325895|1962684803|1967174192|1969377333|1975917757|1981082033|1981868151|1992380306|2006762481|2031484081|2049113432|2062140748|2080379754|2087526960|2096346879|2099196804|2101409192|2105472772|2105621451|2110443819|2128424290|2141403143|2142830328|2145665029|2162111811|2171206426|2809882627
+
+
+id:2149215796
+title:Web Multimedia Object Clustering via Information Fusion
+year:2011
+author information:[
+author name:Wenting Lu
+author organization:Beijing University of Posts  Telecommun
+author id:2292384313|
+author name:Lei Li
+author organization:Florida Int. University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida Int. University
+author id:2472069284|
+author name:Honggang Zhang
+author organization:Beijing University of Posts  Telecommun
+author id:2139493915|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+]
+abstract:increasingly|separate|objects|comparative|several|available|focus|experimental|collected|challenging|approach|either|problem|method|text|events|group|image|images|using|researches|manually|individual|empirical|conducted|activities|propose|important|provide|proposed|daily|adopting|tackle|demonstrate|object|role|utilizing|given|experiments|weighted|web|clusters|together|multimedia|plays|set|combining|efficacy|multimedia|corresponding|clustering|previous|investigation|information|information|humans|dataset|simply|novel
+venue name:International Conference on Document Analysis and Recognition
+venue id:1150099070
+venue type:C
+document type:Conference
+study fields:Multimedia object|Data mining|Text mining|Information retrieval|Image fusion|Computer science|Feature extraction|Cluster analysis|Information fusion|Semantics|The Internet
+references:1518454518|1548779692|1571120029|2043545458|2046025323|2089391273|2100823613|2134958224|2135029798|2151194828|2152818382|2162491758|2163502583|2165874743|2173213060|2186736182|2741831665
+
+
+id:2154309443
+title:Personalized news recommendation via implicit social experts
+year:2014
+author information:[
+author name:Chen Lin
+author organization:Xiamen University
+author id:2650213460|
+author name:Runquan Xie
+author organization:Xiamen University
+author id:2161777084|
+author name:Xinjun Guan
+author organization:Xiamen University
+author id:2681981119|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:recommendation|extracted|via|realtime|filtering|promising|based|models|method|work|collaborative|propose|recommendation|feasibility|provide|among|obtained|evaluate|become|implicit|integrating|diffusion|compare|access|influential|utilizing|readers|matrix|networks|personalization|variety|systems|reported|socalled|popular|social|problem|strategies|probabilistic|services|factorization|coldstart|fast|framework|readers|information|experts|techniques|novel|research|influencers|personalized|different|potential|results|treated|baselines|experimental|personalization|feedbacks|collection|employing|proposed|internet|demonstrate|world|little|facilitate|virtual|recommendation|investigate|around|auxiliary|provides|recommender|direction|news|effectiveness|social|multiple|reading|resources|efficacy|factors|contentbased|websites|various|online|opinions|handling|articles
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Recommender system|Probabilistic matrix factorization|World Wide Web|Collaborative filtering|Social network|Information retrieval|Computer science|Premise|Personalization|Influencer marketing|The Internet
+references:1544449255|1552560720|1580924750|1600928385|1643888449|1788412637|1974110273|1980127182|1988506514|1994389483|2006203643|2017227993|2018571751|2018597607|2025605741|2042281163|2047109571|2049455633|2054141820|2081798681|2083390547|2084527756|2090641502|2093219534|2096235681|2101409192|2109992782|2110443819|2110703683|2112420033|2116578632|2123427850|2129938110|2135505871|2137245235|2151451758|2153111836|2155106456|2158515176|2164716162|2167598575|2171838961|2171960770|2962860893
+
+
+id:2159220564
+title:Applying data mining techniques to address critical process optimization needs in advanced manufacturing
+year:2014
+author information:[
+author name:Li Zheng
+author organization:Florida International University
+author id:2112178922|
+author name:Chunqiu Zeng
+author organization:Florida International University
+author id:2155150411|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Yexi Jiang
+author organization:Florida International University
+author id:2402026574|
+author name:Wei Xue
+author organization:Florida International University
+author id:2232451325|
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Chao Shen
+author organization:Florida International University Miami
+author id:2171136085|
+author name:Wubai Zhou
+author organization:Florida International University
+author id:2227176090|
+author name:Hongtai Li
+author organization:Florida International University
+author id:2154980435|
+author name:Liang Tang
+author organization:Florida Internation University
+author id:2128176332|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Bing Duan
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2230928869|
+author name:Ming Lei
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2308153979|
+author name:Pengnian Wang
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2223530132|
+]
+abstract:named|advanced|beyond|optimization|manufacturing|advances|enable|complex|manufacturing|per|controlling|tasks|large|parameters|underlying|analysis|utilizes|dependencies|traditional|system|million|processing|device|complexity|providing|advanced|customized|increased|achieve|automatically|comes|year|products|flat|yield|assembly|reported|power|boosted|imperative|latest|resources|configuring|explore|strategies|rmb|display|solution|data|panel|massive|pdpminer|advantages|infrastructures|exploit|complete|analytic|levels|display|reveal|generates|data|craft|process|heterogeneous|research|deploy|analytics|revenue|brings|optimize|scheduling|create|implement|different|involves|insights|solutions|perspectives|coc|often|mining|volume|technologies|efforts|proposed|datadriven|improve|monthly|overall|fields|plasma|analytical|production|applied|line|scale|deployed|capable|platform|integrated|computing|infrastructures|flows|rate|since|supporting|pdp|potentials|big|process|manufacturers|data|improvement|better|balancing|industrial|changhong|taking
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Data analysis|Scheduling (computing)|Computer science|Complex data type|Symmetric multiprocessor system|Scheduling (production processes)|Exploit|Big data|Advanced manufacturing
+references:100104462|1480376833|1500895378|1966703382|1973714356|1989908401|2001502947|2011466099|2032909675|2038894244|2043561763|2052158905|2058704078|2088211792|2094902951|2131987814|2133990480|2154642793|2163465797
+
+
+id:2163465797
+title:FIU-Miner: a fas
+year:2013
+author information:[
+author name:Chunqiu Zeng
+author organization:Florida International University
+author id:2155150411|
+author name:Yexi Jiang
+author organization:Florida International University
+author id:2402026574|
+author name:Li Zheng
+author organization:Florida International University
+author id:2112178922|
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Hongtai Li
+author organization:Florida International University
+author id:2154980435|
+author name:Chao Shen
+author organization:Florida Internation University
+author id:2171136085|
+author name:Wubai Zhou
+author organization:Florida International University
+author id:2227176090|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Bing Duan
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2230928869|
+author name:Ming Lei
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2308153979|
+author name:Pengnian Wang
+author organization:ChangHong COC Display Devices Co.,Ltd, Mianyang, China
+author id:2223530132|
+]
+abstract:conducting|without|realworld|complex|tasks|case|distributed|utilization|analysis|system|environments|drives|domain|integration|requires|userfriendly|study|code|onerous|tools|fiuminer|balances|era|writing|efficient|advent|integrate|single|data|use|developing|heterogeneous|implement|different|demonstrates|resource|conveniently|domains|often|mining|environmentsfew|users|system|efforts|task|proposed|techniques|helps|analysts|facilitate|ease|analysis|import|line|effective|design|programs|allows|effectiveness|big|execution|performing|data|also|configure|specific|rapidly|efficacy|application|paid|significantly
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Distributed Computing Environment|Computer science|Complex data type|User Friendly|Big data|Workflow|Database
+references:2001502947|2094902951|2133990480|2154053567
+
+
+id:2171838961
+title:PRemiSE: personalized news recommendation via implicit social experts
+year:2012
+author information:[
+author name:Chen Lin
+author organization:Xiamen University
+author id:2650213460|
+author name:Runquan Xie
+author organization:Xiamen University
+author id:2161777084|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Zhenhua Huang
+author organization:Tongji University
+author id:2636116011|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:extracted|via|filtering|based|models|work|collaborative|propose|recommendation|feasibility|provide|among|implicit|integrating|diffusion|influential|utilizing|readers|matrix|networks|personalization|variety|systems|reported|socalled|social|problem|strategies|probabilistic|services|factorization|coldstart|framework|readers|information|experts|techniques|novel|research|influencers|personalized|different|potential|results|treated|empirical|personalization|feedbacks|employing|proposed|demonstrate|little|facilitate|virtual|recommendation|investigate|auxiliary|recommender|news|effectiveness|social|reading|resources|efficacy|factors|contentbased|online|opinions|handling
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Recommender system|Probabilistic matrix factorization|Data mining|World Wide Web|Collaborative filtering|Social network|Information retrieval|Computer science|Matrix decomposition|Premise|Influencer marketing|Personalization
+references:1580924750|1600928385|1788412637|1994389483|2006203643|2018571751|2042281163|2047109571|2049455633|2054141820|2081798681|2083390547|2084527756|2090641502|2093219534|2096235681|2109992782|2110443819|2110703683|2116578632|2129938110|2137245235|2151451758|2155106456|2167598575|2962860893
+
+
+id:2186736182
+title:Exploring Interaction Between Images and Texts for Web Image Categorization
+year:2011
+author information:[
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Wenting Lu
+author organization:Beijing University of Posts and Telecommunications
+author id:2292384313|
+author name:Jingxuan Li
+author organization:Florida International University
+author id:2164615415|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+author name:Honggang Zhang
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2964206334|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:together|comparative|focus|experimental|collected|topicrelated|problem|retrieval|regionbased|popularization|usually|text|events|images|methods|classification|propose|provide|utilize|adopting|assigned|appropriate|shared|access|works|utilizing|given|experiments|two|posted|web|set|topics|combining|fast|weighting|classification|organized|clustering|information|dataset|novel|semantic|rapid|available|challenging|either|concept|image|development|manually|empirical|often|enormous|everyday|technologies|proposed|tackle|internet|demonstrate|along|related|categorize|digital|types|categorization|perform|approaches|efficacy|descriptions|corresponding|online|previous|investigation|simply
+venue name:The Florida AI Research Society
+venue id:1194143745
+venue type:C
+document type:Conference
+study fields:Computer science|Image retrieval|Digital image|Natural language processing|Artificial intelligence|Cluster analysis|Contextual image classification|Automatic image annotation|Information retrieval|Feature (computer vision)|Image analysis|Machine learning|Visual Word
+references:1560724230|2020842694|2025653905|2056952330|2077125160|2081580037|2086478842|2088353053|2100823613|2104019579|2106624428|2117109360|2123296693|2135924403|2145295623|2151194828|2153635508|2163502583|2172000360
+
+
+id:2198886427
+title:Patent Mining: A Survey
+year:2015
+author information:[
+author name:Longhui Zhang
+author organization:Florida International University Miami
+author id:2956622547|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida University
+author id:2472069284|
+]
+abstract:big|called|trend|different|analyzing|despite|advances|far|documents|communities|recent|protecting|still|thus|provide|explored|requires|delving|web|welldefined|question|intellectual|systematic|picture|figures|help|highlights|readers|assist|emerges|interests|first|documents|questions|research|patent|obtain|new|including|format|enormous|mining|important|efforts|present|companies|analysts|patent|technical|analysis|investigate|general|along|related|human|summary|overview|multiple|resources|rich|lengthy|direction|existing|corresponding|efforts|organizations|well|interested|aiming|summaries
+venue name:Sigkdd Explorations
+venue id:92116948
+venue type:J
+document type:Journal
+study fields:Data science|Data mining|Patent valuation|Computer science|Patent application|Visualization|Patent retrieval|Patent classification|Patent visualisation|Patent mining
+references:6995681|17407163|20722260|39220055|50005617|73861561|94683886|102905937|105748137|109481714|131336165|150276130|167520517|188487579|290370860|1252431179|1485221229|1486200420|1489380107|1506285740|1509974181|1515943512|1532325895|1537088494|1560267311|1563132617|1581913223|1589741057|1594848197|1597703625|1601470055|1608194207|1612426175|1641039719|1641749581|1721432103|1771665122|1876730183|1939407039|1964367195|1964758795|1965453569|1966536018|1967880951|1969572643|1970217287|1972585778|1972819093|1978036582|1979104937|1979459060|1980202081|1982254877|1985169909|1985749074|1987722084|1990800901|1991455977|1993068194|1997328961|1999955847|2006702572|2010532308|2014566476|2018605697|2018764947|2019827052|2023612196|2023925994|2024811782|2025114505|2025605741|2027829212|2028471152|2029119963|2029237138|2030766291|2031612684|2033383147|2033512226|2039613841|2040779545|2042343053|2042646962|2043904092|2044685642|2047491155|2049277913|2050190339|2051453550|2051639611|2054141820|2054553473|2055945388|2056609785|2056646133|2057932305|2059004071|2059904971|2060497910|2061168083|2061507748|2062418945|2063120234|2064853889|2066636486|2067173300|2069477739|2072459098|2078011640|2079471878|2079908882|2080549944|2082276182|2083171575|2083467774|2083728293|2083808574|2084319893|2085040216|2085330768|2085761620|2087184452|2089733024|2090823820|2092465960|2093098531|2093219534|2093492509|2096932043|2098682382|2099404336|2100181111|2100235918|2101409192|2102641797|2102800374|2104072443|2105937670|2105948663|2105953200|2106642101|2109974859|2110325612|2112533714|2116206254|2117704606|2118349699|2120797124|2123572748|2123675809|2123985763|2124066753|2124095343|2124807415|2125972593|2129490689|2131717044|2135065658|2135598826|2135790056|2136593687|2137245235|2144352349|2144487656|2144780381|2145631291|2146654604|2146774885|2150577491|2151586179|2152208379|2152442638|2153380237|2153982189|2156275898|2156491077|2156692937|2157303582|2159094788|2159924615|2163013692|2163277407|2167782251|2167927436|2168964811|2169583766|2170726034|2171960770|2172122354|2187117946|2293111166|2293300450|2295485705|2396816660|2399398576|2916187765|2917786532|2980767911
+
+
+id:2295743311
+title:NewsCubeSum: A Personalized Multidimensional News Update Summarization System
+year:2015
+author information:[
+author name:Dingding Wang
+author organization:Florida Atlantic University
+author id:2097650207|
+author name:Lei Li
+author organization:Florida Int. University
+author id:2432045905|
+author name:Tao Li
+author organization:Florida Int. University
+author id:2472069284|
+]
+abstract:popular|quickly|illustrative|experimental|publishers|huge|generate|results|case|sentence|delivering|develop|users|important|system|selection|techniques|progresses|comparisons|know|events|summarization|study|utilizing|provided|show|updates|uptotheminute|personalized|every|news|brief|effectiveness|amount|multiple|olap|produce|help|supervised|performance|online|summarize|information|interested|articles|novel|newscubesum|summaries|dimensions
+venue name:International Conference on Machine Learning and Applications
+venue id:1138691947
+venue type:C
+document type:Conference
+study fields:Automatic summarization|Multi-document summarization|Information retrieval|Computer science|Online analytical processing|Sentence|Multiple time dimensions
+references:4508078|8870360|402673672|1488425980|1500895378|1880262756|1882070667|1983575673|2022827250|2024633545|2081174553|2090449567|2101015482|2110703683|2123427850|2148374900|2154053567|2251823567
+
+
+id:2767647695
+title:PatSearch: an integrated framework for patentability retrieval
+year:2018
+author information:[
+author name:Longhui Zhang
+author organization:Nanjing University of Posts And Telecommunications
+author id:2956622547|
+author name:Zheng Liu
+author organization:Nanjing University of Posts  Telecommunications
+author id:2717712658|
+author name:Lei Li
+author organization:Florida International University
+author id:2432045905|
+author name:Chao Shen
+author organization:Florida Internation University
+author id:2171136085|
+author name:Tao Li
+author organization:Nanjing University
+author id:2472069284|
+]
+abstract:extensive|application|results|comparative|quickly|decide|realworld|query|terms|retrieval|case|similar|based|thus|analysis|propose|terms|provide|extracts|compare|given|automatically|focuses|search|top|distinguishable|may|initial|combining|possible|queries|published|framework|requiring|assist|information|approach|first|small|depending|documents|reasonable|transforms|retrieved|challenging|generated|whether|patent|legal|relevance|representative|generate|results|significantly|decision|given|making|query|often|enormous|list|respect|relevant|important|efforts|proposed|proximity|purposes|retrieve|topic|demonstrate|analysts|patent|technical|rather|searching|primarily|content|integrated|effective|related|patents|ranked|studies|patentability|human|summary|effectiveness|processes|determine|rich|yet|reviewing|lengthy|expands|enough|specific|differ|application|quantitative|invention|subset
+venue name:Knowledge and Information Systems
+venue id:81770430
+venue type:J
+document type:Journal
+study fields:Web search query|Data mining|Query expansion|Information retrieval|Ranking|Patent application|Computer science|Patent retrieval|Patentability|Knowledge base
+references:168066517|1488425980|1532325895|1649076462|1880262756|1967684050|1969572643|1975442866|1979459060|2009950938|2016332468|2021579266|2022827250|2031612684|2042980227|2061341076|2062418945|2087184452|2092465960|2102641797|2113365997|2139928100|2157054705|2159745320|2169583766|2198886427|2435251607|2912118519|2917786532|2950133940
+
+
+id:1254164341
+title:Cross-domain sentiment classification-feature divergenc
+year:2015
+author information:[
+author name:Yuhong Zhang
+author organization:Hefei University of Technol
+author id:2320430060|
+author name:Xuegang Hu
+author organization:Hefei University of Technol
+author id:2167288354|
+author name:Peipei Li
+author organization:HeFei University of Technol
+author id:2291939811|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Xindong Wu
+author organization:Vermont University
+author id:2123651450|
+]
+abstract:tested|focus|stateoftheart|resetting|classifier|addition|algorithm|domainspecific|viewpoint|similar|method|preprocessing|classification|propose|former|domain|following|reset|simultaneously|crossdomain|former|independent|methods|another|two|worth|feature|transfers|multiplication|case|bridge|one|domain|sentiment|call|classification|novel|use|simple|express|used|source|challenging|features|domainapproach|consider|different|results|polarity|empirical|matrix|domains|often|informative|significant|divergence|efforts|involved|proposed|little|sentiment|note|polarities|identifying|hidden|trained|changes|show|sentiments|transferring|predict|since|solve|hence|fails|aims|cases|notsolve|cross|also|target|outperforms|existing|due|efforts|latter|step|existing
+venue name:Pattern Recognition Letters
+venue id:151820558
+venue type:J
+document type:Journal
+study fields:Divergence|Pattern recognition|Matrix (mathematics)|Preprocessor|Multiplication|Artificial intelligence|Classifier (linguistics)|Mathematics
+references:665341|22861983|32692049|54295067|1714192071|1990579857|2055103902|2061863301|2078488070|2095579012|2098803046|2108420397|2108646579|2112237002|2113609017|2116881978|2120708938|2122537498|2122838776|2151752537|2153353890|2154970197|2158108973|2163302275|2165698076|2397710600
+
+
+id:1505130406
+title:Trust-Oriented Composite Service Selection and Discovery
+year:2009
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+author name:Ee-Peng Lim
+author organization:Management University
+author id:2704581632|
+]
+abstract:forming|invoke|evaluation|realistic|composite|complex|consider|different|algorithm|viewpoint|issue|large|level|illustrate|propose|selection|proposed|serviceoriented|looking|greatly|trust|complexity|clients|critical|experiments|interact|computing|invocations|consuming|provider|offered|trustoriented|client|compared|particularly|set|may|efficient|services|approaches|increase|existing|discovery|service|providers|discovery|services|providers|novel
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Service design|World Wide Web|Service level objective|Computer science|Service system|Service provider|Differentiated service|Service level requirement|Service discovery|Service delivery framework
+references:184049366|1498980302|1503653277|1964244243|1965810726|1985702577|1986147097|1993607151|1996336855|2035923914|2042863768|2110407609|2127158403|2130234299|2133254703|2135033587|2144651846|2157501505|2159423485|2160704889|2169420803|2169528473|2170090269
+
+
+id:1571068217
+title:A Context-Aware Trust-Oriented Influencers Finding in Online Social Networks
+year:2015
+author information:[
+author name:Feng Zhu
+author organization:Soochow University
+author id:2971986528|
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+author name:Yan Wang
+author organization:University of Queensland
+author id:2529756435|
+author name:An Liu
+author organization:Soochow University
+author id:2296103407|
+author name:Zhixu Li
+author organization:Soochow University
+author id:2158257452|
+author name:Pengpeng Zhao
+author organization:Soochow University
+author id:2138196587|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+]
+abstract:networks|influencers|accurate|results|called|osns|experimental|stateoftheart|acts|evaluation|relationships|terms|fully|method|impact|ctinfluence|propose|dblp|finding|account|greatly|methods|experiments|deliver|epinions|two|variety|taken|social|means|preferences|decisionmaking|cannot|online|used|contexts|influence|ecommerce|consider|results|like|illustrate|significant|real|system|onto|cap|crm|trust|affecting|network|contextaware|effectiveness|social|employment|outperforms|efficiency|existing|trustoriented|conduct
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data science|Data mining|Social relationship|Social network|Social web|Computer science|Knowledge management|Social influence|Social computing|Social heuristics|Social trust|Influencer marketing
+references:874708728|1489026763|1536465844|1560267311|1608721343|1794858913|1980042617|1984069252|1984630650|2022704179|2032584215|2037726817|2052488856|2052849329|2061820396|2084445547|2102153716|2108580809|2108858998|2136860272|2141403143|2159176819|2164227199|2166279853|2169876669|2407493865|2962773920
+
+
+id:1584847605
+title:Fuzzy Regression Based Trust Prediction in Service-Oriented Applications
+year:2009
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+author name:Vijay Varadharajan
+author organization:Macquarie University
+author id:563070656|
+]
+abstract:approach|evaluation|introduced|reflect|based|issue|quality|provide|orders|circumstances|level|valuable|depict|computed|current|advertised|actively|ecommerce|indicate|vector|may|decision|single|payments|information|novel|transaction|seller|community|simple|placing|research|features|trustworthiness|eservice|prior|mechanisms|given|making|level|history|history|misleading|customers|present|forthcoming|trust|critical|buyers|values|qos|provider|ratings|predict|applications|value|fuzzy|reputationbased|studied|interesting|also|existing|management|service|regression|well|applications
+venue name:Autonomic and Trusted Computing
+venue id:1143732025
+venue type:C
+document type:Conference
+study fields:Service quality|Computer science|Computer security|Computer network|Quality of service|Knowledge management|Service provider|Computational trust|Database transaction|Fuzzy number|Payment|Reputation
+references:150506677|1503653277|1505284899|1986147097|1994181344|2110696595|2121535370|2130234299|2148067789|2148246941|2156523427|2161397649|2165005942
+
+
+id:1657043559
+title:Trust-Oriented Composite Service Selection with QoS Constraints
+year:2010
+author information:[
+author name:Lei Li
+author organization:Department of Computing
+author id:2688675929|
+author name:Yang Wang
+author organization:Department of Computing
+author id:2987398464|
+author name:Ee Peng Lim
+author organization:Singapore Management University
+author id:2704581632|
+]
+abstract:experimental|vices|evaluation|realistic|composite|complex|consider|results|viewpoint|large|level|illustrate|propose|selection|proposed|posite|serviceoriented|looking|invoked|greatly|trust|complexity|algorithms|clients|critical|interact|enjoy|computing|invocations|consuming|composed|qos|provider|trustoriented|client|factor|compared|vice|com|particularly|set|may|services|approaches|increase|better|efficiency|existing|service|providers|selection|ser|services|providers|novel
+venue name:Journal of Universal Computer Science
+venue id:58563349
+venue type:J
+document type:Journal
+study fields:Service design|Mobile QoS|Service level objective|Computer science|Service system|Knowledge management|Differentiated service|Service provider|Service level requirement|Service delivery framework
+references:146490657|183087145|184049366|1231937477|1498980302|1503653277|1505130406|1536465844|1928978844|1964244243|1965810726|1986147097|1993607151|1996336855|2035923914|2042863768|2075401488|2098072594|2110407609|2116334804|2127158403|2130234299|2133254703|2135033587|2144651846|2148837283|2157501505|2159423485|2160704889|2169420803|2169528473|2170090269
+
+
+id:1971691362
+title:Extremal optimization-based semi-supervised algorithm with conflict pairwise constraints for community detection
+year:2014
+author information:[
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Mei Du
+author organization:Hefei University of Technology
+author id:2227507054|
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+author name:Xuegang Hu
+author organization:Hefei University of Technol
+author id:2693762544|
+author name:Gongqing Wu
+author organization:Hefei University of Technol
+author id:2892487146|
+]
+abstract:extent|conflicted|accuracy|experimental|dissimilarity|constraints|structure|problem|pairwise|connection|algorithm|reduce|conflicted|inevitable|structureenhanced|semisupervised|thus|compared|topology|index|focusing|community|analysis|propose|precisely|system|analyze|optimizationbased|settle|executed|functionality|networkrelated|networks|detection|key|detection|may|abstract|constrained|inaccurate|information|constraints|research|trustworthiness|pcseoss|prior|besides|missing|dramatically|noises|results|connections|obtain|actual|significant|real|synthetic|especially|solve|largescale|conflict|show|detect|mistaken|network|process|determine|introduce|false|structure|extremal|existing|nodes|form|although|time
+venue name:Advances in Social Networks Analysis and Mining
+venue id:1194409624
+venue type:C
+document type:Conference
+study fields:Data mining|Extremal optimization|Trustworthiness|Computer science|Self-organization|Artificial intelligence|Index of dissimilarity|Pairwise comparison|Community structure|Algorithm design|Algorithm|Abstract process|Machine learning
+references:67425217|136278976|1752423028|1977615001|2019105320|2024495622|2033590892|2038518475|2115657355|2130776740|2148606196|2155050791|2160542197|2169528473
+
+
+id:1977615001
+title:The study of trust vector based trust rating aggregation in service-oriented environments
+year:2012
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+]
+abstract:big|optimal|trend|period|approach|three|evaluation|ratings|usually|case|large|evaluation|overhead|distributed|aggregated|analysis|propose|resulting|circumstances|interval|level|obtained|algorithms|depict|computed|two|local|long|current|management|indicate|vector|mechanism|close|set|may|within|one|consistent|services|single|able|complete|certain|dataset|features|return|represent|small|transferred|mti|data|rating|features|preserved|line|greedy|empirically|generate|given|imply|history|illustrate|significant|preserve|incurs|intervals|proposed|largescale|useful|since|option|trust|covering|week|line|values|changes|scale|analytically|general|provider|ratings|studies|client|value|algorithms|previous|studied|multiple|also|existing|third|corresponding|service|regression|well|time|properties
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data mining|Computer science|Service provider|Artificial intelligence|Service oriented|If and only if|Small set|Machine learning|Linear regression
+references:1503653277|1505130406|1584847605|1928978844|1964244243|1986147097|1994181344|2010241793|2051393809|2063986647|2072305035|2095922308|2105040129|2110407609|2111289772|2121535370|2130234299|2131020277|2133254703|2138677535|2139738037|2156523427|2156937700|2160168437|2161397649|2165005942|2169420803|2169528473|2169967557
+
+
+id:2056732180
+title:Social context-aware trust inference for trust enhancement in social network based recommendations on service providers
+year:2015
+author information:[
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+]
+abstract:contextual|results|delivered|recommendations|expertise|users|approach|without|conventional|via|number|context|model|filtering|recent|dependent|large|considering|preference|personal|propose|traditional|system|adopt|intermediate|networks|evaluating|requires|algorithms|providing|systems|targeting|independent|inference|methods|automatically|direct|deliver|sparsity|computing|networks|two|experiments|derive|result|subnetwork|variety|systems|customers|takes|participants|particularly|efficient|probabilistic|started|services|consisting|information|trustworthy|relations|first|data|reasonable|cycles|used|enhancement|source|recommendations|participant|solution|consider|generate|new|including|applicable|real|enhanced|important|relevant|take|mutual|proposed|infer|contextaware|customers|final|serviceoriented|demonstrate|present|collect|problems|trust|leverage|recommendation|updates|interactions|network|effective|studies|end|recommender|characteristics|social|also|target|existing|superior|service|interaction|online|information|recommends|providers|account
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Social environment|Recommender system|Data mining|Social network|Leverage (finance)|Computer science|Inference|Knowledge management|Service provider|Computational trust|Probabilistic logic
+references:4276348|45952787|138359462|172759583|1489026763|1505130406|1536465844|1570131048|1601015633|1994028427|2009205701|2017992786|2021515354|2022322548|2036852015|2042281163|2043506035|2085937320|2098655743|2104973501|2112262428|2115022330|2115695473|2116334804|2119825970|2123529875|2127480961|2128622971|2131689821|2134131755|2142144955|2162614285|2167032986|2199569152|2220281796|2407493865|2964265333
+
+
+id:2088024166
+title:An Efficient Multiple Trust Paths Finding Algorithm for Trustworthy Service Provider Selection in Real-Time Online Social Network Environments
+year:2014
+author information:[
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+author name:An Liu
+author organization:Soochow University
+author id:2296103407|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+]
+abstract:contextual|networks|provider|osns|constraints|evaluation|realworld|path|problem|realtime|optimization|model|usually|algorithm|promising|based|method|monte|propose|quality|environments|selection|evaluate|monte|deal|experiments|endtoend|k|unknown|search|trustoriented|yield|paths|social|effciently|particularly|decision|efficient|one|many|efficiently|trustworthy|online|dataset|first|consumers|used|challenging|trustworthiness|constrained|find|dmcba|results|new|making|approximation|illustrate|conducted|significant|finding|important|proposed|provision|paths|present|trust|concept|network|effective|along|previously|quality|qot|optimal|consumer|enhance|requirements|multiple|identify|social|effectively|multiple|carlo|osn|osns|trust|structure|factors|better|service|providers|npcomplete|dmcba
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data mining|Approximation algorithm|Service provision|Social network|Trustworthiness|Computer science|Algorithm|Service provider|Service selection|Social trust
+references:138359462|164437117|1505130406|1536465844|1966627333|1969312197|1985109665|2004946066|2022322548|2036852015|2037726817|2048489822|2048531216|2052524682|2056732180|2096994246|2115022330|2116334804|2123529875|2128622971|2131689821|2154103336|2167032986|2169528473|2407493865
+
+
+id:2155086564
+title:A Subjective Probability Based Deductive Approach to Global Trust Evaluation in Composite Services
+year:2011
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+]
+abstract:forming|results|delivered|invoke|experimental|approach|evaluations|composite|complex|property|action|usually|evaluated|based|large|dependency|probability|evaluation|pool|service|propose|invocation|evaluate|theory|clients|another|direct|range|global|computing|invocations|believes|taken|yield|belief|compared|soc|caused|one|services|satisfaction|certain|adopted|first|represent|conditional|reasonable|trustworthiness|situation|results|given|basis|proposed|keep|serviceoriented|demonstrate|party|trust|critical|probability|structures|provider|ratings|client|value|selecting|processes|subjective|deductive|perform|approaches|follow|selective|subjective|existing|service|providers|interpret|services|providers
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data mining|Service level objective|Conditional probability|Computer science|Service provider|Service level requirement|Decision theory|Service-oriented architecture|Reliability theory|Bayesian probability
+references:184049366|1505130406|1570131048|1928978844|2063986647|2110407609|2127158403|2130234299|2133254703|2135033587|2141880113|2160704889
+
+
+id:2156412889
+title:The prediction of trust rating based on the quality of services using fuzzy linear regression
+year:2011
+author information:[
+author name:M. Hadi Mashinchi
+author organization:University
+author id:389808865|
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Mehmet A. Orgun
+author organization:Macquarie University
+author id:1994973432|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+]
+abstract:increasingly|introduces|modeling|data|use|rating|delivered|collected|approach|trustworthiness|serviceoriented|would|qualitative|sake|predicted|verification|new|based|issue|keen|extract|environments|proposed|analysis|prediction|know|obtained|forthcoming|become|trust|providing|applied|authority|according|qos|paper|provider|quality|advertised|simplicity|client|set|sets|advent|regression|service|transaction|although|data|linear|better|form|management|service|quantitative|information|fuzzy|important|providers|transaction|represent|ordinal
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Data modeling|Regression analysis|Computer science|Quality of service|Artificial intelligence|Database transaction|Service delivery framework|Operations research|Service provider|Web service|Machine learning|Service-oriented architecture|Database
+references:1503653277|1505130406|1584847605|1657043559|1757974614|1928978844|1964244243|1984646932|1986147097|1994181344|1996340840|2009099350|2016525755|2017594778|2020610055|2058273670|2061318564|2070421873|2071971378|2095578821|2099378455|2105120208|2118778595|2129572137|2130234299|2133254703|2133391547|2137616448|2139891695|2146013510|2156523427|2169420803
+
+
+id:2160704889
+title:Trust Evaluation in Composite Services Selection and Discovery
+year:2009
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+]
+abstract:forming|servicedoriented|invoke|evaluation|composite|complex|different|algorithm|issue|large|level|propose|invocation|selection|atomic|looking|trust|complexity|critical|computing|invocations|provider|offered|client|takes|particularly|set|may|services|increase|discovery|service|providers|services|relations|significantly|providers|novel|essential
+venue name:IEEE International Conference on Services Computing
+venue id:2755068430
+venue type:C
+document type:Conference
+study fields:Service design|Services computing|World Wide Web|Service level objective|Computer science|Service system|Service provider|Differentiated service|Service discovery|Service delivery framework|Process management
+references:1503653277|1964244243|1965810726|1986147097|2035923914|2130234299|2133254703|2169420803
+
+
+id:2161397649
+title:A Trust Vector Approach to Service-Oriented Applications
+year:2008
+author information:[
+author name:Lei Li
+author organization:Macquarie University
+author id:2688675929|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+]
+abstract:community|focus|simple|approach|three|placing|research|evaluation|introduced|reflect|eservice|prior|leave|mechanisms|making|issue|method|level|history|misleading|environments|provide|customers|orders|present|valuable|sellers|trust|depict|critical|buyers|values|result|indications|actively|studies|ecommerce|vector|value|may|studied|also|approaches|exactly|trust|single|consisting|management|payments|service|providers|able|information|novel|applications|represent
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Internet privacy|Trust anchor|Computer science|Quality of service|Service provider|Computational trust|Web service|Payment|E-commerce|Web of trust
+references:150506677|1503653277|1505284899|1986147097|1994181344|2110696595|2121535370|2130234299|2148067789|2148246941|2156523427|2165005942
+
+
+id:2284443498
+title:Two Phase Based Spammer Detection in Weibo
+year:2015
+author information:[
+author name:Xinhu Zheng
+author organization:University of Minnesota
+author id:2704348519|
+author name:Jiamiao Wang
+author organization:Hefei University of Technology
+author id:2706058294|
+author name:Fei Jie
+author organization:Hefei University of Technology
+author id:2538047076|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+]
+abstract:approach|introduced|inevitably|phase|usually|phase|based|still|propose|weibo|system|analyze|spammers|messages|legitimate|networks|become|works|affect|reduplicate|kinds|networks|two|weibo|feature|detection|firstly|detection|topics|one|many|appearance|timeline|approach|spam|operation|certain|adopted|first|second|post|claim|results|already|experimental|feeling|mining|sharing|users|important|take|proposed|leads|largest|spammer|lda|show|mess|platform|content|network|recent|spammer|social|introduce|reading|approaches|spread|better|existing|although|online|growth|information|user
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Data mining|World Wide Web|Social network|Computer science|Timeline|Feature extraction|Spamming
+references:1880262756|1964605894|1976607364|1977615001|1986678144|1992685726|1993081839|2034873377|2038002297|2053906954|2056732180|2068138600|2074835059|2105745072|2119821739|2133990480|2137958601|2138323616|2153635508|2163659824|2168332560|2407789839
+
+
+id:2285673782
+title:Ranking-Based Multi-source Rating Aggregation with Social Contexts
+year:2015
+author information:[
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Qin Liang
+author organization:Hefei University of Technology
+author id:2476787905|
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+]
+abstract:leading|recommendation|collected|users|approach|concern|context|estimate|knowledge|reduce|based|multisource|propose|rankingbased|distributions|quality|raters|even|much|systems|deal|experiments|distribution|matter|aggregation|systems|compared|sources|though|disagreement|entities|exists|approach|certain|phenomena|novel|rating|nina|source|used|stringent|influence|prior|credibility|different|empirically|illustrate|kind|rating|enhanced|rankings|proposed|problems|trust|deep|critical|sources|rating|aggregation|recommenders|lenient|ratings|rejected|effectiveness|social|rankingbased|effectively|studied|multiple|control|better|existing|significantly|properties
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Social environment|Recommender system|Data mining|Ranking|Credibility|Computer science|Information technology|Artificial intelligence|Multi-source|Machine learning
+references:45952787|172759583|1489026763|1977615001|1982393615|2004727981|2026918490|2042281163|2056732180|2071111773|2085937320|2113719592|2115022330|2127480961|2134716712|2142144955|2166001595|2170965652
+
+
+id:2286536827
+title:Core Network Based Multi-label Classification in Large-Scale Social Network Environments
+year:2015
+author information:[
+author name:Zan Zhang
+author organization:Hefei University of Technol
+author id:2428996483|
+author name:Hao Wang
+author organization:Hefei University of Technology
+author id:2593624907|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Guanfeng Liu
+author organization:HeFei University of Technology
+author id:2162147167|
+]
+abstract:accuracy|experimental|executing|realworld|network|recent|shortest|algorithm|efficiency|want|way|classification|propose|years|labels|traditional|correlation|hcnscrn|difference|networks|much|heuristic|algorithms|inference|methods|achieve|given|hcnscrn|networks|targets|two|composed|get|hcnwvrn|collective|key|linked|set|efficient|procedure|great|predictions|accuracy|classification|discovery|hcnwvrn|first|novel|improvements|becoming|data|environments|several|network|research|influence|shown|limit|classifiers|unlabeled|results|core|area|new|discover|test|classifiers|mining|seriously|significant|less|maintaining|core|task|proposed|infer|paths|demonstrate|largescale|full|higher|leverage|targets|sources|concept|link|capable|network|multilabel|predict|inapplicable|make|consumes|outperform|social|relational|specific|existing|typical|relational|handling|time
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Data mining|Heuristic|Algorithm design|Social network|Computer science|Inference|Statistical relational learning|Core network|Multi-label classification|Artificial intelligence|Statistical classification|Machine learning
+references:1542787556|1568313715|1593841847|1977615001|1994028427|2034305382|2051090063|2094067871|2105543219|2110049824|2114315281|2115022330|2135543149|2137253512|2163776610|2548739058
+
+
+id:2287248044
+title:Trust Agent-Based Behavior Induction in Social Networks
+year:2016
+author information:[
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Jianping He
+author organization:HeFei University of Technology
+author id:2420886403|
+author name:Meng Wang
+author organization:Hefei University of Technol
+author id:2300598665|
+author name:Xindong Wu
+author organization:Hefei University of Technology
+author id:2123651450|
+]
+abstract:introduces|simple|induct|participant|influence|features|behaviorinduction|dynamics|negative|generated|stability|group|coordinate|behaviors|article|designs|societal|trust|quickly|essence|automatically|according|networks|negative|public|influences|behavior|behavior|mechanism|social|control|approaches|specific|agents|existing|form|restricted|efficiently|opinions|avoid|inefficient|features
+venue name:IEEE Intelligent Systems
+venue id:114241109
+venue type:J
+document type:Journal
+study fields:Social network|Intelligent decision support system|Computer science|Group behavior|Knowledge management|Behavioural sciences|Web service|Behavior management
+references:306989095|1993897382|2048195127|2054421005|2056732180|2115022330|2144054482|2154851992|2182891243
+
+
+id:2376794036
+title:Community Influence Analysis Based on Social Network Structures
+year:2015
+author information:[
+author name:Yi Li
+author organization:Hefei University of Technology
+author id:2569260856|
+author name:Xindong Wu
+author organization:Vermont University
+author id:2634095466|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2661345911|
+]
+abstract:measuring|called|data|maximization|influence|commrank|problem|major|network|estimate|model|dramatically|communities|results|algorithm|estimates|models|efficiency|individual|dealing|experimental|handle|analysis|community|external|provide|improve|analysis|networks|rarely|demonstrate|oriented|little|ubiquitous|internal|methods|modeling|gain|precisely|structural|since|based|social|cost|problem|social|could|structures|multiple|calculating|combines|also|proposed|interaction|online|datasets|information|existing|communities
+venue name:IEEE International Conference on Smart City/SocialCom/SustainCom
+venue id:2755369491
+venue type:C
+document type:Conference
+study fields:Dynamic network analysis|Organizational network analysis|Approximation algorithm|Algorithm design|Social network|Computer science|Social network analysis|Social influence|Artificial intelligence|Maximization|Machine learning
+references:155548076|1989400610|2018594084|2029778779|2050680319|2056609785|2061820396|2076219102|2103487830|2108858998|2127800791|2141403143|2158478952|2166470254|2963122331
+
+
+id:2399746236
+title:A Multiple Trust Paths Selection Tool in Contextual Online Social Networks
+year:2015
+author information:[
+author name:Linlin Ma
+author organization:Soochow University
+author id:2492991513|
+author name:Guanfeng Liu
+author organization:Soochow University
+author id:2162147167|
+author name:Guohao Sun
+author organization:Soochow University
+author id:2249790946|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Zhixu Li
+author organization:Soochow University
+author id:2158257452|
+author name:An Liu
+author organization:Soochow University
+author id:2296103407|
+author name:Lei Zhao
+author organization:Soochow University
+author id:2618536966|
+]
+abstract:becoming|select|reasonable|stateoftheart|evaluation|relationships|trustworthiness|network|results|based|new|crowdsourcing|method|like|impact|degree|develop|establish|tool|users|important|selection|proposed|paths|evaluate|requires|trust|making|role|platforms|two|unknown|products|intimacy|variety|yield|paths|customers|factor|workers|participants|social|considers|multiple|decision|identify|social|retailer|effectively|could|introduce|one|osn|trust|factors|help|selection|efficiently|trustworthy|online
+venue name:Asia-Pacific Web Conference
+venue id:1140082307
+venue type:C
+document type:Conference
+study fields:Social network|Trustworthiness|Computer science|Crowdsourcing|Knowledge management|Social trust|Impact factor
+references:164437117|1498980302|1536465844|2088024166
+
+
+id:2474797713
+title:Web News Extraction via Tag Path Feature Fusion Using DS Theory
+year:2016
+author information:[
+author name:Gong-Qing Wu
+author organization:Hefei University of Technol
+author id:2101674329|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Li Li
+author organization:IFLYTEK CO., LTD
+author id:2690794426|
+author name:Xindong Wu
+author organization:Vermont University
+author id:2123651450|
+]
+abstract:layouts|ceds|path|cleaneval|relevancy|case|respectively|method|excellent|extraction|style|greatly|methods|datasets|fuse|feature|web|inspired|indicate|popular|may|one|change|structures|ceds|extensive|massive|series|websites|randomly|cetr|evidence|news|heterogeneous|challenging|ds|features|pages|time|tag|potential|results|selected|wellknown|experimental|paths|extract|another|page|higher|issue|show|content|design|studies|performances|news|parse|differ|structure|layout|existing|ceprtpr|time
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Content extraction|Feature fusion|Information retrieval|Web news|Computer science|Parsing|Fuse (electrical)|Web content
+references:116870935|1566513354|1706374111|1927338256|1963735073|1978817381|2003107832|2007278884|2019264297|2019577381|2031517079|2040075907|2048137247|2049781914|2063147917|2076910790|2114541504|2117209866|2117694587|2129595335|2147220393|2148317291|2533495960
+
+
+id:2754697883
+title:Learning From Short Text Streams With Topic Drifts
+year:2018
+author information:[
+author name:Peipei Li
+author organization:HeFei University of Technol
+author id:2291939811|
+author name:Lu He
+author organization:Hefei University of Technology
+author id:2583952330|
+author name:Haiyan Wang
+author organization:WUHAN University of Technology
+author id:2755348643|
+author name:Xuegang Hu
+author organization:Hefei University of Technol
+author id:2167288354|
+author name:Yuhong Zhang
+author organization:Hefei University of Technol
+author id:2320430060|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Xindong Wu
+author organization:University of Louisiana
+author id:2123651450|
+]
+abstract:semantics|stateoftheart|approach|introduced|terms|model|text|reduce|based|using|efficiency|method|streams|received|classification|traditional|web|etc|obtained|semantic|extension|methods|sparsity|weak|search|feature|stream|snippets|noise|popular|compared|enables|detection|emergence|approaches|incremental|impact|help|extensive|media|texts|open|disambiguated|data|community|senses|blogs|several|corpus|contexts|challenging|research|high|unlike|short|wellknown|new|significant|maintaining|proposed|topic|demonstrate|present|largescale|little|hidden|concept|detect|ensemble|network|task|studies|hence|track|make|normal|characteristics|social|built|drifting|effectively|drifts|efficiency|micro|drifts|short|challenge|attention|handling|clusterbased
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Data stream|Encyclopedia|Artificial intelligence|The Internet|Social media|Search engine|Information retrieval|Pattern recognition|Semantic network|Semantics|Mathematics|Machine learning|Electronic publishing
+references:4593459|27263903|204956852|646176396|786366871|1548259046|1565746575|1585854823|1981838369|1992019053|1994359007|1997164082|2016159616|2038021268|2048195127|2066302459|2068737686|2073256825|2076538837|2081580037|2097089247|2097178527|2132167546|2135335717|2138605095|2142623206|2143991132|2151703435|2164385956|2169821025|2195164399|2249777566|2251103205|2277583061|2394801892|2516537890|2586593666
+
+
+id:2765833715
+title:Early detection of dynamic harmful cascades in large-scale networks
+year:2017
+author information:[
+author name:Chuan Zhou
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2224226654|
+author name:Wei-Xue Lu
+author organization:JD.com, Beijing 100176, China
+author id:2300441629|
+author name:Jingzun Zhang
+author organization:Beijing Union University
+author id:2765711338|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2885034771|
+author name:Yue Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2508518679|
+author name:Li Guo
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2122010476|
+]
+abstract:placed|upper|experimental|put|objective|influence|cascades|realworld|problem|localreductionubg|estimate|model|state|usually|calculate|severely|susceptibleinfected|algorithm|based|method|large|spreading|robustness|destroy|efficiently|propose|selection|analyze|networks|algorithm|placement|greatly|complexity|diffusion|prove|methods|montecarlo|focuses|guarantee|networks|two|sparsely|increases|current|motivated|causes|based|detection|cascades|efficient|approaches|abstract|forward|change|quickly|destructive|sensors|meet|meanwhile|selection|describe|first|scalable|theoretical|harmful|observe|reserved|function|greedy|dynamic|different|results|us|selected|cascade|often|dense|synthetic|practicality|minimization|sparse|improve|detecting|sensor|demonstrate|dtm|largescale|allow|trajectories|complexity|impossible|detect|scale|initiators|investigate|prevent|effective|common|paper|design|define|since|early|types|social|bound|quickestpathubg|accelerations|exactly|nphardness|nodes|sensors|performance|corresponding|time|formally
+venue name:Journal of Computational Science
+venue id:192071280
+venue type:J
+document type:Journal
+study fields:Early detection|Mathematical optimization|Computer science|Upper and lower bounds|Greedy algorithm|Robustness (computer science)|Minification|Cascade|Artificial intelligence|Time complexity|Scalability|Distributed computing
+references:84665114|1680189815|1856548066|1988717476|2018165284|2038405834|2066636486|2073110021|2073926352|2078686663|2107559689|2115056380|2124001423|2124486211|2125955243|2141403143|2147712069|2150053592|2421165030|2556611543|2951838108
+
+
+id:2769414762
+title:An efficient and fast algorithm for community detection based on node role analysis
+year:2019
+author information:[
+author name:Xuegang Hu
+author organization:Hefei University of Technol
+author id:2167288354|
+author name:Wei He
+author organization:HeFei University of Technology
+author id:2638434290|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Yaojin Lin
+author organization:Minnan Normal University
+author id:2810158025|
+author name:Huizong Li
+author organization:Anhui University  Of Science and Technology
+author id:2682438247|
+author name:Jianhan Pan
+author organization:Jiangsu Normal University
+author id:2775229808|
+]
+abstract:community|leading|label|stateoftheart|rolebased|ignores|shows|poor|rolpa|evaluated|different|stability|algorithm|breaking|communityoriented|organizational|commonly|impact|real|community|propose|insight|node|propagation|proposed|used|difference|networks|note|functional|role|behaviors|nearly|complexity|roles|occurrence|networks|result|heuristics|provides|algorithms|detection|linear|one|structures|label|structure|monster|outperforms|ways|artificial|nodes|regard|time|comprehensive|adopted
+venue name:International Journal of Machine Learning and Cybernetics
+venue id:2764999920
+venue type:J
+document type:Journal
+study fields:Community structure|Organizational structure|Label propagation|Computer science|Algorithm|Heuristics|Complex network|Time complexity
+references:367843706|1544007753|1982901162|2022704179|2043913748|2070314635|2074192627|2127048411|2145124007|2146591355
+
+
+id:2770577502
+title:Collective semantic behavior extraction in social networks
+year:2017
+author information:[
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Chuan Zhou
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2224226654|
+author name:Jianping He
+author organization:HeFei University of Technology
+author id:2420886403|
+author name:Jiamiao Wang
+author organization:Hefei University of Technology
+author id:2769562180|
+author name:Xin Li
+author organization:School of Computer Science, Beijing Institute of Technology
+author id:2766102485|
+author name:Xindong Wu
+author organization:University of Louisiana
+author id:2123651450|
+]
+abstract:forming|interacting|experimental|extracted|approach|properly|dynamics|similar|still|large|deepwalk|community|accurately|extraction|determined|analyze|networks|conveniently|semantic|study|works|automatically|executed|networks|collective|behavior|popular|key|necessary|abstract|hobbies|information|open|communities|dramatically|results|individual|behaviors|significant|real|sharing|extract|convenient|proposed|functionalities|accurately|behaviors|show|twitter|media|booming|question|network|process|social|recently|form|information
+venue name:Journal of Computational Science
+venue id:192071280
+venue type:J
+document type:Journal
+study fields:Semantic similarity|Semantic integration|Collective behavior|World Wide Web|Social network|Information retrieval|Computer science|Theoretical computer science|Semantic information|Semantic grid|Social Semantic Web|Semantic computing
+references:131755067|245305909|1794858913|1880262756|1969486090|2024495622|2033590892|2038518475|2056732180|2063904635|2105467132|2125697523|2126351352|2130776740|2151703435|2154851992|2155050791|2156367805|2168332560|2216367577|2287248044|2395828609|2462104472|2583394995|2949169239
+
+
+id:2795991327
+title:A Proof-of-Trust Consensus Protocol for Enhancing Accountability in Crowdsourcing Services
+year:2019
+author information:[
+author name:Jun Zou
+author organization:Macquarie University
+author id:2305644551|
+author name:Bin Ye
+author organization:Macquarie University
+author id:2435771035|
+author name:Lie Qu
+author organization:Macquarie University
+author id:2032609396|
+author name:Yan Wang
+author organization:University
+author id:2529756435|
+author name:Mehmet A. Orgun
+author organization:Macquarie University
+author id:1994973432|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+]
+abstract:leader|called|validators|fault|approach|selects|pot|enable|evidence|leveraging|raft|based|using|crowdsourcing|issue|underlying|transactions|traceable|pitfalls|traditional|provide|dealt|requires|building|secret|low|hopes|accountability|dispute|emergence|services|consensus|associated|unfaithful|cannot|requirements|transaction|novel|addressing|addresses|source|upon|bft|high|protocol|brings|major|solution|find|throughput|incorporating|mechanisms|intensive|new|tracing|demonstrates|resource|avoids|behaviors|proposes|applicable|byzantine|particular|sharing|general|blockchain|trust|idea|values|proper|contracts|scalability|effective|general|paper|paxosbased|viable|algorithms|industry|election|tolerance|technology|truth|management|service|fulfilling|online|challenge|well|suitable
+venue name:IEEE Transactions on Services Computing
+venue id:204223317
+venue type:J
+document type:Journal
+study fields:Leader election|Secret sharing|Computer science|Computer security|Crowdsourcing|Byzantine fault tolerance|Accountability|Database transaction|Paxos|Distributed computing|Scalability
+references:851575271|1101870967|1538116128|1568245680|1604414309|1966383354|1982902090|2035362408|2058322902|2075854425|2120510885|2120927750|2126087831|2129085274|2156580773|2295940006|2335755599|2414647798|2483525606|2553066882|2567666263|2587444899|2952629830|2963499972|2964262836
+
+
+id:2949522840
+title:Local Graph Edge Partitioning with a Two-Stage Heuristic Method
+year:2019
+author information:[
+author name:Shengwei Ji
+author organization:Hefei University of Technol
+author id:2906863346|
+author name:Chenyang Bu
+author organization:Hefei University of Technol
+author id:2907761823|
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2907016416|
+author name:Xindong Wu
+author organization:Mininglamp Technology, China
+author id:2123651450|
+]
+abstract:stateoftheart|incrementally|realworld|introduced|terms|algorithm|based|large|lower|distributed|methods|classified|received|community|propose|input|graph|size|requires|algorithms|deal|vertices|methods|sum|global|balanced|two|local|characteristic|result|metis|offline|streaming|current|graphs|based|minimize|detection|may|strategies|computation|information|first|stages|partitioning|second|edge|consider|different|results|partitions|given|including|experimental|often|graph|solely|important|proposed|creates|demonstrate|largescale|memory|critical|concept|part|divided|according|changes|respective|platforms|graphs|structural|divides|process|edges|multiple|twostage|instead|increase|storing|expensive|outperforms|performance|stages|partitioning|time|category|rival|existing
+venue name:International Conference on Distributed Computing Systems
+venue id:1200222865
+venue type:C
+document type:Conference
+study fields:Heuristic|Vertex (geometry)|Computer science|Graph Edge|Theoretical computer science|Statistical classification|Graph partition|Partition (number theory)|Big data|Computation|Distributed computing
+references:78077100|1448681276|1896160955|1971630691|2006023152|2040263621|2070232376|2072901340|2134046693|2150117348|2161455936|2166469213|2170616854|2244188037|2289797660|2295989749|2469279958|2745138925|2757577862|2794141977|2906910619|2907313822
+
+
+id:2969993909
+title:Multi-fuzzy-objective graph pattern matching in big graph environments with reliabilit
+year:2019
+author information:[
+author name:Lei Li
+author organization:Hefei University of Technol
+author id:2688675929|
+author name:Fang Zhang
+author organization:Hefei University of Technology
+author id:2969511190|
+author name:Zan Zhang
+author organization:Hefei University of Technol
+author id:2969847918|
+author name:Peipei Li
+author organization:HeFei University of Technol
+author id:2969739950|
+author name:Chenyang Bu
+author organization:Hefei University of Technol
+author id:2969309624|
+]
+abstract:big|select|experimental|required|analyzing|relationships|reliabilitybased|problem|complex|usually|tasks|order|algorithm|subgraphs|method|methods|attributes|node|fail|contains|correlation|web|attracted|rmfogpm|matched|fuzziness|reliability|pattern|matching|research|era|grown|close|key|genetic|may|sets|efficient|advent|considering|massive|meet|subgraph|attributes|nsgaii|multiconstrained|data|use|using|heterogeneous|good|find|graph|stateofart|results|biometric|including|multisource|query|patterns|comparing|real|graph|becomes|especially|proposed|basic|higher|trust|locate|show|scale|accomplish|design|visually|relationship|multifuzzyobjective|possibility|multiobjective|effectiveness|big|social|introduce|multiple|perform|depicted|specific|better|proposed|due|attention
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data mining|Social relationship|Graph pattern matching|Data set|Social network|Computer science|Fuzzy logic|Software design pattern|Big data|Genetic algorithm
+references:1536465844|1546399386|1584847605|1794858913|1967893237|2013973777|2036852015|2048653843|2055898276|2056524360|2060359281|2067005006|2098817244|2116661285|2118212234|2123966888|2126105956|2142491343|2167429959|2477769986|2514056879|2531799639|2740660508|2756011111|2770577502|2778008099|2794033021|2804879008|2890770251|2909015218|2922308772
+
+
+id:79474054
+title:Beyond Poisson: Modeling Inter-Arrival Time of Requests in a Datacenter
+year:2014
+author information:[
+author name:Da-Cheng Juan
+author organization:Carnegie Mellon University
+author id:2164990785|
+author name:Lei Li
+author organization:University of California
+author id:2608982952|
+author name:Huan-Kai Peng
+author organization:Carnegie Mellon University
+author id:2634373559|
+author name:Diana Marculescu
+author organization:Carnegie Mellon University
+author id:2094557653|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+]
+abstract:explain|half|modeling|collected|approach|hibm|estimate|mimic|near|simulate|discover|hibm|patterns|real|surprising|propose|respect|contains|effects|submitted|provide|job|largescale|parameters|hierarchical|multilevel|components|statistical|frequently|investigate|requests|periodicities|distribution|two|generative|computer|trace|terabyte|execution|spans|industrialscale|jobs|one|multiple|bundling|also|data|systematic|interarrival|bundling|industrial|able|model|time|novel|properties
+venue name:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+venue id:1178327129
+venue type:C
+document type:Conference
+study fields:Data mining|Terabyte|Computer science|Cumulative distribution function|Poisson distribution|Discrete Fourier transform
+references:1521478692|1638352560|1663605690|1854866626|2066906122|2103448012|2128796442|2129542763|2146603609|2613694343
+
+
+id:1873896917
+title:F-Trail: Finding Patterns in Taxi Trajectories
+year:2013
+author information:[
+author name:Yasuko Matsubara
+author organization:NTT Communication Science Labs
+author id:2106416586|
+author name:Lei Li
+author organization:University of California
+author id:2608982952|
+author name:Evangelos E. Papalexakis
+author organization:Cargegie Mellon University
+author id:1418764031|
+author name:David Lo
+author organization:University
+author id:2132927693|
+author name:Yasushi Sakurai
+author organization:NTT Communication Science Labs
+author id:1989929707|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+]
+abstract:called|leading|ftrail|tracking|approach|number|path|dynamics|would|animals|recent|large|issue|taxi|analysis|propose|input|spot|analyze|following|works|methods|given|experiments|pattern|trails|hurricanes|predicting|indexing|data|many|produce|several|discovery|outliers|summarize|economic|novel|meaningful|major|find|huge|migrating|us|like|patterns|informative|collection|develop|real|surprising|linearly|respect|suited|especially|scales|trajectories|demonstrate|unexpected|trajectories|considerable|interest|behavior|allows|effectiveness|anomalies|social|interesting|performing|patterns|approaches|well|clustering|applications
+venue name:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+venue id:1178327129
+venue type:C
+document type:Conference
+study fields:Data mining|Fractal dimension|Computer science|Search engine indexing|Outlier|Artificial intelligence|Cluster analysis|Probability density function|Machine learning
+references:1488681765|1562536132|1572177749|1977949265|1981398125|2011304357|2012580531|2035503723|2040466507|2044023374|2046466133|2047216628|2065663378|2067047477|2086345215|2117618130|2126929529|2141250202|2147880780|2153207204|2154923088|2162193833|2171873915|2172041433
+
+
+id:1963733129
+title:Efficient Parallel Learning of Hidden Markov Chain Models on SMPs
+year:2010
+author information:[
+author name:Lei Li
+author organization:Computer Science Department of Carnegie Mellon University
+author id:2520604596|
+author name:Bin Fu
+author organization:Carnegie Mellon University
+author id:2520792240|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+]
+abstract:multicore|architectures|cashmm|embased|accuracy|experimental|processors|caslds|number|contribution|models|using|goal|method|models|opportunity|handle|propose|dependencies|traditional|parallelize|opens|algorithm|algorithms|office|achieve|two|systems|quadcore|chip|chain|linear|cutandstitch|dynamical|markov|speedups|single|increasing|comparable|novel|commercial|data|almost|use|main|supercomputers|implement|computing|results|new|openmp|mining|desktop|largescale|present|hidden|configuration|show|learning|training|quadcore|speed|general|desktop|common|parallel|parameter|make|algorithms|cpus|modelspecific|structure|due|serial|version|well|multiprocessor
+venue name:IEICE Transactions on Information and Systems
+venue id:2486202937
+venue type:J
+document type:Journal
+study fields:Linear dynamical system|Computer science|Artificial intelligence|Hidden variable theory|Multi-core processor|Speedup|Pattern recognition|Supercomputer|Parallel algorithm|Expectation–maximization algorithm|Parallel computing|Algorithm|Hidden Markov model
+references:2006761437|2008475755|2021180943|2099262739|2104644701|2109722477|2111794988|2117990954|2122465391|2125126592|2136674263|2145771765|2151831732|2155113671
+
+
+id:2006761437
+title:DynaMMo: mining and summarization of coevolving sequences with missing values
+year:2009
+author information:[
+author name:Lei Li
+author organization:Carnegie-Mellon University
+author id:2608982952|
+author name:James McCann
+author organization:Carnegie-Mellon University
+author id:2295545582|
+author name:Nancy S. Pollard
+author organization:Carnegie-Mellon University
+author id:228583806|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+]
+abstract:values|compact|several|variables|loss|features|high|finds|function|algorithm|discover|making|successfully|including|drinking|method|capture|real|propose|sequences|synthetic|extract|latent|proposed|provide|even|compression|little|complexity|hidden|idea|given|experiments|show|datasets|sequences|duration|spanning|missing|variables|linear|motion|learn|multiple|water|performed|chlorine|powerful|able|reconstruction|dynammo|time|levels
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Motion capture|Data mining|Megabyte|Computer science|Latent variable|Artificial intelligence|Hidden variable theory|Missing data|Automatic summarization|Pattern recognition|Segmentation|Bayesian network|Machine learning
+references:1489548117|1976722103|1982905909|1989037929|2042961981|2046466133|2060970792|2066350599|2077720176|2095822580|2098190380|2110121428|2111794988|2112511496|2121070199|2124288185|2128221272|2142285619|2163150150|2165395308
+
+
+id:2069442545
+title:Why people hate your app: making sense of user feedback in a mobile app store
+year:2013
+author information:[
+author name:Bin Fu
+author organization:Carnegie-Mellon University
+author id:2228115008|
+author name:Jialiu Lin
+author organization:Carnegie-Mellon University
+author id:2113828048|
+author name:Lei Li
+author organization:University of California
+author id:2608982952|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+author name:Jason Hong
+author organization:Carnegie-Mellon University
+author id:2141131632|
+author name:Norman Sadeh
+author organization:Carnegie-Mellon
+author id:100648250|
+]
+abstract:developers|entire|beyond|three|review|zoomable|reviews|app|google|using|histograms|detail|herein|sense|propose|system|provide|million|analyze|millions|valuable|automatically|tools|reported|apps|preferences|play|evolve|consisting|help|component|results|able|apps|summarize|analytic|dataset|open|levels|discuss|dislike|simple|operator|view|reviews|major|presented|different|discover|given|endusers|individual|insights|like|users|android|market|markets|store|techniques|tens|identifying|user|reasons|crucial|deployed|inconsistencies|ratings|make|types|comments|identify|mobile|concerns|well|user|summaries
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|World Wide Web|Mobile app|Android (operating system)|Computer science|Sentiment analysis|Topic model
+references:1512596747|1775665607|1783061888|1880262756|1947594277|1964613733|2044117262|2047756776|2063904635|2072644219|2098173428|2103063352|2112213600|2136710010|2159514277|2160660844|2161738110|2167266300
+
+
+id:2086148106
+title:Cut-and-stitch: efficient parallel learning of linear dynamical systems on smps
+year:2008
+author information:[
+author name:Lei Li
+author organization:Carnegie-Mellon University
+author id:2608982952|
+author name:Wenjie Fu
+author organization:Carnegie-Mellon University
+author id:2425136722|
+author name:Fan Guo
+author organization:Carnegie-Mellon University
+author id:2278294079|
+author name:Todd C. Mowry
+author organization:Carnegie-Mellon University
+author id:40863599|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+]
+abstract:multicore|architectures|embased|accuracy|experimental|processors|tracking|number|cores|generalized|visual|hidden|per|algorithm|models|similar|using|goal|method|handle|analysis|propose|dependencies|ever|etc|parallelize|algorithm|models|supercomputer|algorithms|achieve|modern|known|multicore|kalman|chip|chain|variables|cutandstitch|linear|markov|speedups|structures|series|increasing|prevalent|comparable|novel|commercial|becoming|data|almost|use|approximate|used|filters|implement|computing|results|openmp|widely|capture|mining|systems|desktop|present|hidden|show|learning|dynamical|quadcore|speed|parallel|parameter|ldss|make|algorithms|motion|also|linear|structure|switching|serial|version|well|multiprocessor|time
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Linear dynamical system|Supercomputer|Computer science|Parallel algorithm|Kalman filter|Artificial intelligence|Hidden variable theory|Hidden Markov model|Multi-core processor|Machine learning|Speedup
+references:2008475755|2099262739|2104644701|2109722477|2111794988|2117990954|2125126592|2136674263|2145771765|2155113671|2173213060
+
+
+id:2113897427
+title:Fast algorithms for time series mining
+year:2010
+author information:[
+author name:Lei Li
+author organization:Carnegie Mellon University
+author id:2608982952|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+]
+abstract:values|serve|meaningful|corner|fully|algorithm|including|natural|segmentation|patterns|efficiently|series|mining|propose|solve|occlusions|utilize|present|problems|algorithms|generating|learning|parallel|missing|lds|stitching|power|human|mine|practical|motion|apply|could|effectively|also|many|stone|motions|fast|loweffort|motions|time|coevolving|applications
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Data mining|Motion capture|Linear dynamical system|Time series|Image stitching|Computer science|Parallel algorithm|Segmentation|Algorithm|Missing data|Multi-core processor|Database
+references:1489548117|1572257961|1572352401|1982042357|2002068647|2006761437|2008475755|2027247754|2053062040|2063392856|2068647234|2086148106|2091921805|2092240938|2093336106|2095822580|2096472608|2097995023|2099262739|2100718094|2104644701|2106163100|2109722477|2111794988|2112237124|2117990954|2118955868|2125126592|2128061541|2129330015|2134780295|2136674263|2141403143|2145771765|2155113671|2158382689|2166597993|2166693285|2249800031
+
+
+id:2122978825
+title:C-DEM: a multi-modal query system for Drosophila Embryo databases
+year:2008
+author information:[
+author name:Fan Guo
+author organization:Carnegie Mellon University
+author id:2278294079|
+author name:Lei Li
+author organization:Carnegie Mellon University
+author id:2608982952|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+author name:Eric P. Xing
+author organization:Carnegie Mellon University
+author id:351197510|
+]
+abstract:projects|desirable|whole|stateoftheart|type|three|number|mining|easily|spatial|tripartite|databases|similar|images|researchers|gene|extraction|click|system|flexible|biological|accessible|commodity|role|images|methods|pattern|envisions|modalities|feature|supports|annotation|keywords|expression|one||contribute|produce|queries|embryonic|component|fast|genes|report|information|addition|online|thumbnails|exponential|communicate|data|keywords|available|several|research|platforms|second|earlier|repositories|find|visualize|keyword|results|image|given|cdem|query|real|publicly|restarts|graph|important|desktop|proximity|bioinformatics|playing|embryo|distinct|demo|recent|principal|typical|random|database|related|advances|experienced|allows|amount|drosophila|also|technology|specific|response|well|online|growth|suitable|uses|time|user|walk|assign
+venue name:Very Large Data Bases
+venue id:1133523790
+venue type:C
+document type:Conference
+study fields:Thumbnail|Data mining|Biological data|Annotation|Information retrieval|Computer science|Image retrieval|Feature extraction|Modal|Database|Principal component analysis|Wavelet
+references:201608263|1539585011|1975830550|1997219719|2018465136|2034732817|2063049279|2101852873|2133034723|2133299088|2916858871
+
+
+id:2141250202
+title:Rise and fall patterns of information diffusion: model and implications
+year:2012
+author information:[
+author name:Yasuko Matsubara
+author organization:Kyoto University
+author id:2106416586|
+author name:Yasushi Sakurai
+author organization:NTT Communication Science Laboratories
+author id:1989929707|
+author name:B. Aditya Prakash
+author organization:Carnegie-Mellon University
+author id:2124002246|
+author name:Lei Li
+author organization:University of California
+author id:2608982952|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+]
+abstract:quickly|empirical|collected|facilitated|observed|spotting|concise|engines|model|diverse|recent|tasks|fore|models|unification|accurately|propose|matches|quality|system|flexible|interpretation|following|requires|pattern|search|adoption|fall|popularity|explains|behavior|enables|sets|analyzed|domain|describes|propagation|theoretical|blogs|using|simple|influence|analytics|faster|earlier|shown|new|patterns|count|rumors|real|engineering|propagation|riseandfall|piece|spikes|reverse|parameters|rising|analytical|twitter|media|public|interest|spikem|universal|news|falling|handful|yet|follow|generalizes|diminish|succinctly|spread|explosion|datasets|interested|rise
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Public domain|Empirical evidence|Computer science|Unification|Popularity|Universal law|New media|Artificial intelligence|Analytics|Spotting|Machine learning
+references:21640363|171462922|1489548117|1606050636|1972833205|1994473607|1997638639|2006761437|2026302857|2042961981|2047311061|2047358712|2049120089|2058437258|2061820396|2097937682|2103014446|2103126699|2106163100|2111772797|2112056172|2113889316|2126929529|2127492100|2128005952|2128061541|2130067743|2140540364|2144780381|2147768899|2151118940|2160587156|2162193833|2163595839|2171810970|2181643798|2896916590
+
+
+id:2149169025
+title:Metric forensics: a multi-level approach for mining volatile graphs
+year:2010
+author information:[
+author name:Keith Henderson
+author organization:Lawrence Livermore National Laboratory
+author id:2196117844|
+author name:Tina Eliassi-Rad
+author organization:Lawrence Livermore National Laboratory
+author id:218538652|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+author name:Leman Akoglu
+author organization:Carnegie-Mellon University
+author id:2288278917|
+author name:Lei Li
+author organization:Carnegie-Mellon University
+author id:2608982952|
+author name:Koji Maruhashi
+author organization:FUJITSU Laboratories LTD., Kawasaki, Japan
+author id:2021481023|
+author name:B. Aditya Prakash
+author organization:Carnegie-Mellon University
+author id:2124002246|
+author name:Hanghang Tong
+author organization:Carnegie-Mellon University
+author id:2224718883|
+]
+abstract:increasingly|cybersecurity|collected|resolution|three|mining|analyzing|realworld|realtime|four|days|drawn|temporal|stars|metricforensics|made|ip|analysis|propose|finer|mit|legitimate|metrics|appropriate|sophisticated|discovered|computed|vertices|enterprise|capacity|example|advances|streaming|capability|spanning|viewed|graphs|event|coarser|broken|computationally|combines|possible|data|framework|first|discovery|phenomena|techniques|novel|scalable|data|research|reality|communication|results|traffic|nearrealtime|test|traces|collection|significant|prolonged|graph|successive|especially|proximity|techniques|scales|allocating|sensor|demonstrate|collect|internet|multilevel|largest|drill|analysis|storage|scalability|network|lightweight|desired|malicious|highlight|graphs|trace|interest|highly|resolutions|cases|interesting|resources|volatile|anomalies|expensive|userselected|required|existing
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Proximity sensor|Computer science|Theoretical computer science|Artificial intelligence|Data collection|Graph|Vertex (geometry)|Drill down|Power graph analysis|Reality mining|Machine learning|Scalability
+references:26537291|75283946|1488681765|1492581097|1538524459|1568436970|1616338336|1964274671|1975414584|1976969221|1993482412|2009439582|2026302857|2032280284|2037360998|2046466133|2054864455|2071488943|2101852873|2102931907|2118791829|2122646361|2141806397|2144182447|2146603609|2148606196|2155358700|2164210932|2170337404|2175110005|2420733993|2432978112
+
+
+id:2160587156
+title:ThermoCast: a cyber-physical forecasting model for datacenters
+year:2011
+author information:[
+author name:Lei Li
+author organization:Carnegie-Mellon University
+author id:2608982952|
+author name:Chieh-Jan Mike Liang
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2158819549|
+author name:Jie Liu
+author organization:Microsoft
+author id:2626293155|
+author name:Suman Nath
+author organization:Microsoft
+author id:2120595703|
+author name:Andreas Terzis
+author organization:Johns Hopkins University
+author id:2298659980|
+author name:Christos Faloutsos
+author organization:Carnegie-Mellon University
+author id:2198983026|
+]
+abstract:approach|dynamics|contributions|temperatures|realtime|thermal|centers|model|fluid|events|algorithm|surrounding|reduce|based|successfully|laws|overheating|streams|forecast|propose|system|physically|provide|cooling|driven|whereby|complexity|ahead|automatically|experiments|giving|modern|operators|temperature|ability|enables|compared|computationally|learn|forecasting|workload|systematic|integrate|machine|able|measurements|cyberphysical|novel|scalable|fullfledged|data|using|main|challenging|time|continuous|scheduling|capturing|consider|unlike|potential|cyberphysical|us|including|minutes|airflow|real|servers|maintaining|system|solely|important|efficient|scales|prediction|sensor|parameters|forecasts|configuration|production|influenced|complexity|show|proactive|react|capable|learning|interactions|total|servers|observations|simulationbased|predict|physical|consumes|center|previous|center|alarms|perform|energy|enough|better|cyber|management|due|online|uses|time|thermocast
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Time series|Computer science|Physical system|Server|Real-time computing|Cyber-physical system|Artificial intelligence|Physical law|Workload|Data center|Machine learning|Scalability
+references:148964820|190397983|1590860274|1933251158|1976722103|2006761437|2013870998|2046466133|2055043902|2068647234|2106119405|2106334612|2108812856|2124279406|2128061541|2130784917|2150654762|2165633547|2170002197
+
+
+id:2181643798
+title:Time Series Clustering: Complex is Simpler!
+year:2011
+author information:[
+author name:Lei Li
+author organization:Carnegie Mellon University
+author id:2608982952|
+author name:B. A. Prakash
+author organization:Carnegie Mellon University
+author id:2632890287|
+]
+abstract:approach|dynamics|competitors|problem|model|temporal|case|algorithm|large|method|handle|propose|inefficient|realvalued|study|achieve|given|manual|matrix|systems|labeling|include|kalman|linear|dynamical|learn|one|produce|transition|series|motions|clustering|databases|novel|features|joint|developing|clearly|interpret|transmission|wellknown|em|capture|significant|real|sequences|task|produces|present|parameters|critical|simpler|general|times|human|motion|identify|classifying|advantage|filters|improvement|editing|special|better|easier|clustering|time|category|complexvalued|interpretable
+venue name:International Conference on Machine Learning
+venue id:1180662882
+venue type:C
+document type:Conference
+study fields:Fuzzy clustering|Linear dynamical system|Canopy clustering algorithm|CURE data clustering algorithm|Data stream clustering|Correlation clustering|Pattern recognition|Computer science|Artificial intelligence|Constrained clustering|Cluster analysis|Machine learning
+references:1973366456|2017913224|2039260438|2054079656|2067145564|2074018661|2076078388|2091921805|2099242680|2112502897|2124279406|2126186068|2129330015|2133184712|2625521622
+
+
+id:2609338674
+title:Nonlinear Dynamics of Information Diffusion in Social Networks
+year:2017
+author information:[
+author name:Yasuko Matsubara
+author organization:Kumamoto University
+author id:2106416586|
+author name:Yasushi Sakurai
+author organization:Kumamoto University
+author id:1989929707|
+author name:B. Aditya Prakash
+author organization:Virginia TEch
+author id:2124002246|
+author name:Lei Li
+author organization:Toutiao Lab
+author id:2608982952|
+author name:Christos Faloutsos
+author organization:Carnegie Melon University
+author id:2198983026|
+]
+abstract:extensive|quickly|empirical|facilitated|observed|number|spotting|realtime|concise|engines|model|diverse|recent|advantages|tasks|algorithm|models|identifies|parameters|large|streams|models|pike|unification|monitoring|accurately|propose|matches|system|provide|flexible|interpretation|following|networks|conditions|requires|dieout|diffusion|experiments|pattern|datasets|search|adoption|fall|si|popularity|explains|behavior|event|sets|efficient|namely|makes|diffusion|data|possible|reverse|describes|topology|information|analytic|discuss|theoretical|blogs|simple|threshold|tream|faster|earlier|new|including|patterns|rumors|takeoff|real|engineering|collection|graph|propagation|piece|spikes|demonstrate|sir|parameters|rising|analytical|twitter|media|effective|interest|observations|universal|news|falling|applying|handful|social|introduce|perform|multiple|yet|arbitrary|also|follow|generalizes|diminish|versus|succinctly|spread|explosion|generality|online|interested|rise
+venue name:ACM Transactions on The Web
+venue id:131231701
+venue type:J
+document type:Journal
+study fields:Data mining|Social network|Empirical evidence|Computer science|Unification|Popularity|Reverse engineering|New media|Topological graph theory|Generality
+references:21640363|122652761|171462922|1489548117|1597504361|1606050636|1814023381|1849253145|1873896917|1966027336|1968010112|1972833205|1976722103|1981398125|1982381099|1985164990|1992537918|1994389483|1994473607|1995264501|1997638639|1998901634|2006761437|2012451152|2018295310|2023027635|2026302857|2032897813|2033228235|2033854332|2035350889|2035503723|2037360998|2040107208|2042961981|2047311061|2047358712|2049120089|2049344225|2054685200|2058437258|2061554605|2061820396|2076219102|2077760583|2079224581|2085799322|2095006675|2095207093|2095822580|2096734559|2097098223|2097937682|2099302229|2103014446|2103126699|2106163100|2107633943|2108858998|2111772797|2112056172|2112681514|2113889316|2121392694|2124192284|2124279406|2126929529|2127492100|2128005952|2128061541|2130067743|2136065080|2140540364|2141250202|2141403143|2141806397|2144780381|2147634746|2147768899|2151118940|2153982189|2155461593|2158382689|2160587156|2162193833|2163595839|2171031021|2171810970|2186088793|2243564794|2340354238|2341645695|2373739222|2896916590
+
+
+id:1656679561
+title:Evaluating quality of Web2.0 UGC based on user authority and topic distribution
+year:2013
+author information:[
+author name:Boyuan Wang
+author organization:Beijing University Of Posts  Telecommun
+author id:2715665291|
+author name:Lei Li
+author organization:Beijing University Of Posts  Telecommun
+author id:2649244612|
+author name:Xin Lin
+author organization:Beijing University Of Posts  Telecommun
+author id:2676821945|
+]
+abstract:collected|users|put|via|evaluation|contribution|authortopic|network|based|using|method|quality|adopt|analysis|analyze|registration|evaluate|link|relative|neural|authors|reasonably|distribution|experiments|composed|behavior|composing|may|user|could|forward|probabilistic|tianya|distribution|textual|model|ugc|combined|relations|dataset|generalized|compute|features|shown|dynamic|credibility|consider|actual|including|static|degree|published|real|synthetic|proposed|content|authority|multiauthor|topic|overall|basic|user|authority|content|interactions|integrated|rate|every|generated|social|regression|also|wellguaranteed|ugc|various|online|user
+venue name:Wireless Personal Multimedia Communications
+venue id:1161697372
+venue type:C
+document type:Conference
+study fields:User-generated content|Data mining|Credibility|Link analysis|Computer science|Social network analysis|Computer network|Probabilistic logic|Artificial neural network|The Internet
+references:1851821411|1880262756|2049776645|2057415299|2076219102|2089199911|2102956348|2138621811|2149723649|2949169239
+
+
+id:1673990121
+title:User communities and contents co-ranking for user-generated content quality evaluation in social networks
+year:2016
+author information:[
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2720447662|
+author name:Xin Lin
+author organization:Beijing University of Posts and Telecommunications
+author id:2422378925|
+author name:Yue Zhai
+author organization:Beijing University of Posts and Telecommunications
+author id:2560561795|
+author name:Caixia Yuan
+author organization:Beijing University of Posts and Telecommunications
+author id:2692358046|
+author name:Yanquan Zhou
+author organization:Beijing University of Posts and Telecommunications
+author id:2547311808|
+author name:Jiayin Qi
+author organization:University of Posts and Telecommunications
+author id:2638253630|
+]
+abstract:together|mutually|john|evaluates|three|evaluation|realworld|wiley|friend|daily|assumption|algorithm|similar|coranking|based|using|margin|large|evaluation|usergenerated|community|propose|quality|graphtheoretic|contents|contents|following|set|millions|networks|simultaneously|competitive|formed|circle|evaluate|algorithms|uccc|two|experiments|popularity|relationship|user|produce|exploiting|reinforcing|single|help|massive|interests|connecting|communities|data|ugcs|good|copyright|either|summary|shown|different|intuition|new|finding|posed|users|present|useful|challenges|idea|network|related|ties|ltd|ranked|cases|social|outperforms|ugc|better|superior|third|user
+venue name:International Journal of Communication Systems
+venue id:175310385
+venue type:J
+document type:Journal
+study fields:User-generated content|World Wide Web|Social network|Ranking|Computer science|Social network analysis|Popularity|Intuition|Multimedia
+references:115528473|1532325895|1539585011|1585458125|1690396231|1703416798|1820119601|1880262756|1978394996|1986931979|2026875114|2034796958|2043825411|2048508267|2069153192|2069870183|2076219102|2084416418|2089199911|2098697179|2124168655|2134311992|2138621811|2150193144|2188130994|2978422749
+
+
+id:1964906539
+title:UGC quality evaluation based on user communities and contents
+year:2014
+author information:[
+author name:Xin Lin
+author organization:Beijing University of Posts and Telecommunications
+author id:2422378925|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2720447662|
+author name:Yue Zhai
+author organization:Beijing University of Posts and Telecommunications
+author id:2560561795|
+author name:Jiayin Qi
+author organization:University of Posts and Telecommunications
+author id:2638253630|
+]
+abstract:currently|microblog|collected|three|put|evaluation|relationships|reflect|based|using|method|analysis|community|propose|quality|hence|contents|evaluate|become|methods|quality|experiments|weibo|era|valid|usergenerated|key|user|could|forward|words|structures|performed|integrate|fraction|single|component|results|communities|small|data|paper|good|unit|features|greatly|high|shown|consider|newest|add|new|kind|real|entirety|users|important|extract|proposed|varies|internet|analysis|idea|link|content|stepped|move|contents|china|occupies|factors|ugc|better|information|user|simply
+venue name:Vitae-revista De La Facultad De Quimica Farmaceutica
+venue id:111148215
+venue type:J
+document type:Journal
+study fields:World Wide Web|Link analysis|Social network analysis|Chemistry|Topic model|Multimedia|The Internet
+references:1880262756|2076219102|2089199911|2098697179|2138621811|2978422749
+
+
+id:1982220978
+title:Evaluating user influence based on Web2.0 UGC
+year:2014
+author information:[
+author name:Yue Zhai
+author organization:Beijing University of Posts and Telecommunications
+author id:2560561795|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2720447662|
+author name:Xin Lin
+author organization:Beijing University of Posts and Telecommunications
+author id:2422378925|
+author name:Jiayin Qi
+author organization:University of Posts and Telecommunications
+author id:2638253630|
+]
+abstract:network|research|influence|improved|relationships|greatly|bbr|complex|huge|dynamic|consider|different|synthetically|algorithm|add|new|development|including|static|need|began|behaviorbased|satisfied|analysis|activities|propose|users|important|categories|circumstance|improve|algorithm|scholars|evaluate|classify|study|components|networking|influential|show|emerged|choosing|experiments|expediently|based|make|social|effectiveness|performance|receive|social|pagerank|marketing|appearance|activities|quantitative|various|publish|information|user
+venue name:Vitae-revista De La Facultad De Quimica Farmaceutica
+venue id:111148215
+venue type:J
+document type:Journal
+study fields:Publication|PageRank|Social relationship|World Wide Web|Social network|Ranking|Computer science|Pagerank algorithm|Social marketing|Marketing effectiveness
+references:1814023381|1851821411|2089199911|2121761994|2138621811
+
+
+id:1992979594
+title:Multi-Document summarization based on improved features and clustering
+year:2010
+author information:[
+author name:Ying Xiong
+author organization:Beijing University of Posts and Telecommunications
+author id:2444259620|
+author name:Hongyan Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2439535871|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2532907589|
+]
+abstract:performs|documents|use|achieves|main|extracting|improved|understanding|modified|tfidf|topic|results|new|method|experimental|proposes|traditional|selection|improve|adopt|demonstrate|one|summarization|purpose|technique|two|ways|paper|feature|result|emerging|keywords|multidocument|calculating|many|exactly|better|formula
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Automatic summarization|Data mining|Multi-document summarization|Information retrieval|Feature selection|tf–idf|Keyword extraction|Pattern clustering|Computer science|Document handling|Cluster analysis
+references:179757531|1662133657|2010320682|2048207804|2128672521|2136004837|2167232041
+
+
+id:2042995576
+title:UGC collection strategy oriented user influence classification and feature analysis
+year:2014
+author information:[
+author name:Yue Zhai
+author organization:Beijing University of Posts and Telecommunications
+author id:2709658634|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2706981675|
+]
+abstract:named|becoming|interactive|rules|main|three|influence|features|optimize|calculate|preliminary|difficulties|algorithm|order|new|based|development|usual|sampling|develop|collection|analysis|propose|users|uic|traditional|solve|value|must|support|classify|networking|scale|kinds|expediently|content|search|engine|zombie|acquisition|relationship|based|met|make|social|receive|think|types|star|user|also|many|ugc|better|processed|publish|information|ugc|user|adopted|strategy
+venue name:Advances in Social Networks Analysis and Mining
+venue id:1194409624
+venue type:C
+document type:Conference
+study fields:Publication|Data mining|Content analysis|Algorithm design|Social network|Computer science|Zombie|Statistical classification|User interface design|Pattern recognition (psychology)
+references:1814023381|1851821411|2076219102|2089199911|2137085985|2138621811
+
+
+id:2049651489
+title:Predicting Stay Time of Mobile Users With Contextual Information
+year:2013
+author information:[
+author name:Sen Liu
+author organization:Beijing University Of Posts  Telecommun
+author id:2590959522|
+author name:Huanhuan Cao
+author organization:Nokia, Beijing , China
+author id:2675493466|
+author name:Lei Li
+author organization:Beijing University Of Posts  Telecommun
+author id:2721521677|
+author name:MengChu Zhou
+author organization:New Jersey Institute of Technol., USA
+author id:2168907694|
+]
+abstract:contextual|modeling|users|stp|improved|terms|status|models|efficiency|devices|propose|relevance|provide|device|evaluate|study|experiments|two|personalized|long|extended|current|predicting|stay|implementations|sets|strategies|implementing|services|many|mobile|stay|extensive|accuracy|machine|associated|information|data|several|experience|continue|whether|dramatically|directly|prediction|real|respect|take|proposed|prediction|location|according|time|learning|investigate|point|predict|stp|effectiveness|manufacturers|advantage|mobile|also|ssp|performance|conduct|service|typical|location|time|user|providers
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Mobile computing|Data mining|User experience design|Contextual information|Time point|Computer science|Mobile service|Implementation|Control engineering|Context model|Mobile device|Human–computer interaction
+references:139136903|1523785268|1560147776|1584701184|1626398438|1668548511|1977662009|1990059871|1995529998|2007079722|2056385804|2067961157|2077451659|2083878885|2093400038|2096667387|2104381478|2108426667|2119821739|2120949969|2125055259|2134969601|2139788616|2145215397|2153635508|2950478890
+
+
+id:2536145286
+title:Multi-document summarization based on hierarchical topic model
+year:2011
+author information:[
+author name:Hongyan Liu
+author organization:Center for Intelligence Science and Technology/Beijing University of Posts and Telecommunications
+author id:2439535871|
+author name:Lei Li
+author organization:Center for Intelligence Science and Technology/Beijing University of Posts and Telecommunications
+author id:2532907589|
+]
+abstract:data|use|corpus|experimental|introduced|hierarchical|model|dirichlet|representative|sentence|based|making|method|large|test|hierarchy|methods|refine|discrete|latent|traditional|latent|topic|compression|evaluate|rouge|summarization|semantic|summaries|analysis|sentences|achieve|multidocument|confirmed|generative|hlda|allocation|organize|mine|amount|evaluations|sets|probabilistic|topics|also|technology|better|performance|concise|tac|compression|deeper|time|extractive
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Automatic summarization|Multi-document summarization|Latent Dirichlet allocation|Information retrieval|Computer science|Natural language processing|Probabilistic latent semantic analysis|Artificial intelligence|Statistical model|Topic model|Hierarchy|Data compression
+references:1880262756|2105542801|2132827946|2150286230|2151343603|2182244728
+
+
+id:2539872166
+title:Multi-document summarization systems comparison
+year:2012
+author information:[
+author name:Lei Li
+author organization:Beijing University Of Posts  Telecommun
+author id:2532907589|
+author name:Wei Heng
+author organization:Beijing University of Posts  Telecommun
+author id:2125417377|
+author name:Pingan Liu
+author organization:Beijing University of Posts  Telecommun
+author id:2798394488|
+]
+abstract:data|used|got|mainly|shown|find|hierarchical|stopwords|dirichlet|model|evaluated|results|nonstopwords|developed|algorithm|sentence|obtain|using|method|testing|system|important|latent|system|topic|rouge|summarization|one|multidocument|two|hlda|paper|allocation|systems|setting|compared|subtopics|data|improvement|better|tac|clustering|adopted|normally
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Data mining|Automatic summarization|Multi-document summarization|Canopy clustering algorithm|Latent Dirichlet allocation|CURE data clustering algorithm|Correlation clustering|Computer science|Topic model|Cluster analysis
+references:1880262756|1992979594|2105542801|2107743791|2132827946|2141032952|2147152072|2150286230|2151343603|2911615217|2915771437
+
+
+id:2543550582
+title:Chinese sentence compression based on statistics probability and dependency analysis
+year:2011
+author information:[
+author name:Qing Zhao
+author organization:Beijing University of Posts and Telecommunications
+author id:2649011715|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2532907589|
+]
+abstract:outputs|prepare|feasible|use|bring|corpus|rules|program|preprocess|shown|sentences|finish|probabilities|results|knowledge|sentence|using|method|experimental|input|parser|compression|word|nonremoval|collapsed|training|probabilities|postagging|paper|task|learn|makes|following|analyzed|technologies|gets|various|removal|chinese|shallow|describe|dependencies|first|base
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Rule-based machine translation|Computer science|Knowledge-based systems|Speech recognition|Text segmentation|Sentence compression|Natural language processing|Artificial intelligence|Knowledge base|Parsing|Sentence
+references:1564013439|1581790469|1964326564|2115322217|2118681326|2118936156|2128774237|2133182690|2163076329
+
+
+id:2546217668
+title:Text feature selection based on improved adaptive GA
+year:2011
+author information:[
+author name:Shuangquan Su
+author organization:Beijing University of Posts and Telecommunications
+author id:2230430945|
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2532907589|
+author name:Qing Zhao
+author organization:Beijing University of Posts and Telecommunications
+author id:2649011715|
+]
+abstract:fulfill|improves|paper|accuracy|improved|optimization|poor|fitness|complex|function|text|algorithm|compared|probability|mutation|traditional|illustrated|selection|proposed|improve|effect|experiments|crossover|improved|crucial|adaptation|speed|network|adaptive|feature|genetic|text|considering|filtering|traditional|formula|information|validity
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Crossover|Feature selection|Pattern recognition|Computer science|Filter (signal processing)|Fitness proportionate selection|Fitness function|Complex network|Artificial intelligence|Optimization problem|Genetic algorithm
+references:2102831150
+
+
+id:2555240929
+title:HLDA based text clustering
+year:2012
+author information:[
+author name:Pingan Liu
+author organization:Beijing University of Posts  Telecommun
+author id:2798394488|
+author name:Lei Li
+author organization:Beijing University Of Posts  Telecommun
+author id:2532907589|
+author name:Wei Heng
+author organization:Beijing University of Posts  Telecommun
+author id:2125417377|
+author name:Boyuan Wang
+author organization:Beijing University Of Posts  Telecommun
+author id:2311869040|
+]
+abstract:cluster|tries|model|text|recent|promising|similar|using|large|method|lower|hierarchy|posterior|shortcoming|mind|years|latent|latent|generalization|abstractive|become|hierarchical|semantic|deal|study|achieve|given|distribution|experiments|hlda|automatically|mine|set|topics|could|restaurant|inference|many|organized|clustering|cannot|chinese|data|generates|documents|nested|growing|shown|prior|dirichlet|details|level|adapt|bayesian|learns|sharing|discrete|topic|higher|limitation|specific|applied|lda|changes|allocation|paper|organize|applications|human|nonparametrics|amount|process|apply|path|application|various|deeper|applications
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Latent Dirichlet allocation|Chinese restaurant process|Inference|Computer science|Document clustering|Artificial intelligence|Topic model|Prior probability|Machine learning|Bayesian probability|Semantic data model
+references:1880262756|2011430131|2063397738|2118527002|2146341620|2150286230|2911615217
+
+
+id:2778392922
+title:Mining Association Rules Based on Deep Pruning Strategies
+year:2018
+author information:[
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2779662709|
+author name:Qi Li
+author organization:University of Posts and Telecommunications
+author id:2633237564|
+author name:Yabin Wu
+author organization:Beijing University of Posts and Telecommunications
+author id:2781458236|
+author name:Yihang Ou
+author organization:Beijing University of Posts and Telecommunications
+author id:2781236586|
+author name:Daoxin Chen
+author organization:CAPINFO Company Limited
+author id:2779655339|
+]
+abstract:extensive|pruning|select|called|tested|bring|collected|experimental|three|flourish|improved|extremely|boolean|algorithm|reduce|based|method|devices|compress|containing|understand|traditional|size|much|appropriate|methods|association|facing|matrix|smart|rapidly|association|cannot|demonstrated|sets|strategies|apriori|opportunities|massive|sets|effectively|data|numbers|rules|huge|problems|different|representative|generate|results|us|utmost|new|solutions|significant|mining|mining|users|important|proposed|topic|itemsets|joining|deep|frequent|generating|network|itemsets|make|value|algorithms|characteristics|mobile|perform|data|also|better|today|various|ones|mardps
+venue name:Wireless Personal Communications
+venue id:49967189
+venue type:J
+document type:Journal
+study fields:Data mining|Data set|Logical matrix|Computer science|Apriori algorithm|A priori and a posteriori|Real-time computing|Mobile device|Association rule learning|Cellular network|Pruning
+references:110175884|1537336823|1550386395|2037965136|2148706548|2166559705|2575664305
+
+
+id:2785597854
+title:Research on machine learning algorithms and feature extraction for time series
+year:2017
+author information:[
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2779662709|
+author name:Yabin Wu
+author organization:Beijing University of Posts and Telecommunications
+author id:2781458236|
+author name:Yihang Ou
+author organization:Beijing University of Posts and Telecommunications
+author id:2781236586|
+author name:Qi Li
+author organization:University of Posts and Telecommunications
+author id:2659968244|
+author name:Yanquan Zhou
+author organization:Beijing University of Posts and Telecommunications
+author id:2787468029|
+author name:Daoxin Chen
+author organization:CAPINFO Company Limited
+author id:2779655339|
+]
+abstract:svm|data|use|experimental|extracting|shortterm|research|influence|frequency|features|lstmsvm|implemented|sparse|model|different|results|advantageous|constitute|series|real|classification|fusion|extract|beneficial|utilize|prediction|support|algorithms|memory|records|show|learning|svm|long|paper|prediction|predict|vector|behavior|object|aims|lstm|outstanding|explore|multifeature|consumption|also|multialgorithm|abundant|advantages|various|machine|series|time|features
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Computer science|Support vector machine|Research Object|Algorithm|Feature extraction|Artificial intelligence|Machine learning
+references:2012079387|2533328922|2609874355
+
+
+id:2793020219
+title:Sociability-based Influence Diffusion Probability Model to evaluate influence of BBS post
+year:2018
+author information:[
+author name:Lei Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2793922002|
+author name:Xin Lin
+author organization:Beijing University of Posts and Telecommunications
+author id:2791464292|
+author name:MengChu Zhou
+author organization:New Jersey Institute of Technology, Newark, 07102, USA
+author id:2789745173|
+author name:LiLi Fu
+author organization:Business College of Beijing Union University
+author id:2789943914|
+]
+abstract:replychains|called|leading|quickly|circles|whole|collected|influence|evaluation|significant|relationships|bbs|suffer|board|explode|revealed|model|events|give|large|usergenerated|spreading|inspired|analysis|propose|version|sociability|thereby|web|versions|among|influence|evaluating|evaluate|participation|treatment|diffusion|influential|utilizing|achieve|overcome|drawbacks|hot|experiments|speed|place|grown|diffusion|relationship|popular|may|bbs|abstract|society|probability|right|inaccurate|help|sociabilitybased|fast|bulletin|discussions|model|responses|idpm|complete|data|use|sometimes|influence|identical|assessment|idm|post|prior|helpful|different|results|new|often|real|sidpm|users|becomes|expand|measure|ignorance|virtual|locate|show|system|post|expanded|producing|behavioral|studies|every|social|specific|spread|outperforms|better|existing|service|yields|comment|user|enjoyed|important|providers
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Probability model|Ignorance|Bulletin board system|Behavioral modeling|Human–computer interaction|User modeling|Artificial intelligence|Web service|Mathematics|Machine learning
+references:57200368|1937101755|1982508570|1982957931|2014288545|2018056172|2018984973|2047387469|2051673624|2055430614|2055597027|2056398894|2073207655|2104359975|2119523409|2122456937|2156055260|2156923091|2160513711|2278138779|2517030840|2561609067|2575664305|2575904838
+
+
+id:2016945037
+title:A methodology for semantic integration of metadata in bioinformatics data sources
+year:2005
+author information:[
+author name:Lei Li
+author organization:Georgia State University
+author id:2660604439|
+author name:Roop G. Singh
+author organization:Georgia State University
+author id:2722730613|
+author name:Guangzhi Zheng
+author organization:Georgia State University
+author id:2305798055|
+author name:Art Vandenberg
+author organization:Georgia State University
+author id:2157373810|
+author name:Vijay Vaishnavi
+author organization:Georgia State University
+author id:239281247|
+author name:Sham Navathe
+author organization:(Georgia Institute of Technology, Atlanta, Georgia)
+author id:2222200581|
+]
+abstract:increasingly|metadata|practice|reuse|approach|problem|likely|based|promoting|disparately|pace|distributed|methods|standards|semantic|complexity|deal|prominent|generated|metadata|reconciling|datasets|instantiate|across|current|key|metadata|sources|mitigate|keeping|one|visualizing|heterogeneity|reconciliation|component|future|integration|traditional|information|mediationbased|faces|identified|addressing|becoming|data|use|semantic|constantly|research|presented|created|patterns|domains|often|sharing|discussed|success|bioinformatics|facilitate|globally|additional|speed|effective|general|paper|proposition|envisioned|limited|implementation|approaches|existing|various|succeed|uses|methodology|presents
+venue name:ACM Southeast Regional Conference
+venue id:2626789869
+venue type:C
+document type:Conference
+study fields:Data mining|Semantic integration|Metadata|Semantic technology|Semantic Web Stack|Information retrieval|Data mapping|Computer science|Semantic grid|Bioinformatics|Semantic heterogeneity|Semantic computing
+references:72687159|1518445766|1971773085|1976253656|1980583438|1986020334|1990393485|1992419399|2010595080|2060216524|2081347942|2089634871|2103538877|2138067201|2153925558|2154774499|2156168980|2164609731
+
+
+id:2037308345
+title:The Influence of Checklists and Roles on Software Practitioner Risk Perception and Decision-Making
+year:2006
+author information:[
+author name:M. Keil
+author organization:Georgia State University
+author id:2293235762|
+author name:Lei Li
+author organization:Georgia State University
+author id:2660604439|
+author name:L. Mathiassen
+author organization:Georgia State University
+author id:66992462|
+author name:Guangzhi Zheng
+author organization:Georgia State University
+author id:2305798055|
+]
+abstract:practice|software|checklist|use|project|without|research|influence|perception|points|vs|number|either|identified|appeared|experiment|would|presented|based|using|shape|practitioner|conducted|seeded|risks|discussed|practitioners|practitioners|outside|playing|assigned|helps|aid|checklists|role|affect|show|seem|paper|salient|evidence|behavior|manager|identify|subjects|checklist|also|decisionmaking|risks|perceptions|results|scenario|able|risk|unseeded|implications
+venue name:Hawaii International Conference on System Sciences
+venue id:1164519180
+venue type:C
+document type:Conference
+study fields:Checklist|Enterprise risk management|Project risk management|Risk analysis (business)|Computer science|Risk management plan|Knowledge management|Risk perception|Risk management|IT risk management
+references:80414419|1545622404|1985299236|1991650436|1998672825|2029141425|2030055926|2063654055|2081748916|2096360482|2102044943|2106291083|2109286978|2159516377
+
+
+id:2062680628
+title:Success factors and challenges for IT capstone projects
+year:2014
+author information:[
+author name:Jack Zheng
+author organization:Southern Polytechnic State University
+author id:2232479925|
+author name:Chi Zhang
+author organization:Southern Polytechnic State University
+author id:2398564526|
+author name:Lei Li
+author organization:Southern Polytechnic State University
+author id:2099111329|
+]
+abstract:projects|data|use|findings|project|collected|experience|investigates|feedback|identified|understanding|examining|plan|give|discover|new|method|work|past|capstone|real|analysis|years|enhanced|provide|success|survey|valuable|become|template|study|challenges|student|importance|part|students|learning|two|long|challenges|world|paper|design|indepth|experience|identify|curriculum|approaches|feedback|factors|context|better|semester|essential
+venue name:Conference on Information Technology Education
+venue id:1177843814
+venue type:C
+document type:Conference
+study fields:Success factors|Engineering management|Capstone|Knowledge management|Curriculum|Engineering|Survey methodology|Project success|Student learning
+references:2135745271
+
+
+id:2063581617
+title:Practicing and Evaluating Soft Skills in IT Capstone Projects
+year:2015
+author information:[
+author name:Guangzhi Zheng
+author organization:Kennesaw State University
+author id:2305798055|
+author name:Chi Zhang
+author organization:Kennesaw State University
+author id:2398564526|
+author name:Lei Li
+author organization:Kennesaw State University
+author id:2099111329|
+]
+abstract:career|subject|findings|used|constantly|skills|realworld|stressed|specifically|evaluated|embed|soft|took|development|redesigned|difficult|capstone|often|experiences|termlong|focused|systematically|present|evaluate|assessment|facilitate|hiring|importance|professionals|development|students|training|information|project|skill|course|factor|key|requirements|course|technology|team|curriculum|improvement|competences|challenge|complete|practiced
+venue name:Conference on Information Technology Education
+venue id:1177843814
+venue type:C
+document type:Conference
+study fields:Soft skills|Competence (human resources)|Skills management|Information technology|Capstone|Knowledge management|Capstone course|Curriculum|Pedagogy|Engineering|Career development
+references:50286823|2132597346
+
+
+id:2077783907
+title:Bringing business intelligence to healthcare informatics curriculum: a preliminary investigation
+year:2014
+author information:[
+author name:Guangzhi Zheeng
+author organization:Southern Polytechnic State University
+author id:2225302316|
+author name:Chi Zhang
+author organization:Southern Polytechnic State University
+author id:2398564526|
+author name:Lei Li
+author organization:Southern Polytechnic State University
+author id:2099111329|
+]
+abstract:data|several|used|analytics|curriculum|largely|incorporated|exemplar|preliminary|guide|business|reduce|development|presented|risks|analysis|intelligence|technologies|provide|improve|processing|curricula|analytical|industry|healthcare|general|capability|current|paper|emerging|business|strategies|missed|implementation|health|technology|informatics|improvement|manage|help|component|hit|framework|service|information|conducts|program
+venue name:Technical Symposium on Computer Science Education
+venue id:1124504716
+venue type:C
+document type:Conference
+study fields:Health care|Health Administration Informatics|Curriculum development|Computer science|Health information technology|Knowledge management|Curriculum|Emerging technologies|Health informatics|Business intelligence
+references:19595943|2047257058|2898681128
+
+
+id:2164380250
+title:The influence of checklists and roles on software practitioner risk perception and decision-making
+year:2008
+author information:[
+author name:Mark Keil
+author organization:Georgia State University
+author id:2293235762|
+author name:Lei Li
+author organization:Columbus State University
+author id:2660604439|
+author name:Lars Mathiassen
+author organization:Georgia State University
+author id:66992462|
+author name:Guangzhi Zheng
+author organization:Georgia State University
+author id:2305798055|
+]
+abstract:practice|software|use|project|without|research|influence|perception|points|vs|number|either|identified|experiment|would|presented|helped|whereas|based|using|practitioner|conducted|seeded|risks|discussed|practitioners|outside|playing|assigned|aid|checklists|role|affect|shaped|show|seem|paper|salient|evidence|behavior|manager|identify|subjects|checklist|also|decisionmaking|risks|perceptions|results|able|risk|unseeded|implications
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Checklist|Systems engineering|Computer science|Knowledge management|Risk perception|Software|Project manager|Role playing|Perception|Applied psychology|Salient
+references:80414419|1545622404|1552413492|1976909194|1985299236|1991650436|1998672825|2026115807|2029141425|2030055926|2032309843|2032792724|2055988227|2063654055|2081748916|2086651574|2096360482|2097456306|2102044943|2105885253|2106291083|2109286978|2113909614|2121411027|2137476189|2155426269|2156838625|2159516377|2163702733
+
+
+id:2509654948
+title:Career Trajectory Analysis of Information Technology Alumni: A LinkedIn Perspective
+year:2016
+author information:[
+author name:Lei Li
+author organization:Kennesaw State University
+author id:2099111329|
+author name:Guangzhi Zheng
+author organization:Kennesaw State University
+author id:2305798055|
+author name:Svetlana Peltsverger
+author organization:Kennesaw State University
+author id:2232487790|
+author name:Chi Zhang
+author organization:Kennesaw State University
+author id:2398564526|
+]
+abstract:career|education|educations|collected|program|degrees|professional|path|gradually|outcomes|moving|bsit|engineers|linkedin|graduated|programs|managers|managerial|two|alumni|progressed|get|architecture|compared|wealth|business|analyzed|curriculum|connected|master|field|msit|showed|program|institutions|data|findings|available|networking|developed|growing|technology|different|adapt|profiles|positions|towards|paths|publicly|extract|present|job|higher|largest|analysts|critical|analysis|graduates|science|show|information|general|database|transform|load|provides|everchanging|understanding|graduates|types|technology|bachelor|trajectory|existing|engage
+venue name:Conference on Information Technology Education
+venue id:1177843814
+venue type:C
+document type:Conference
+study fields:Data architecture|Information technology|It education|Curriculum|Pedagogy|Engineering|Bachelor|Trajectory analysis|Higher education
+references:1979411553|1981628148|2006801410|2048587746|2140036815|2289652082|2339087249
+
+
+id:2514481698
+title:Transforming IT Education with No-Cost Learning Materials
+year:2016
+author information:[
+author name:Rebecca Rutherfoord
+author organization:Kennesaw State University
+author id:2537589498|
+author name:Svetlana Peltsverger
+author organization:Kennesaw State University
+author id:2232487790|
+author name:Lei Li
+author organization:Kennesaw State University
+author id:2099111329|
+author name:Guangzhi Zheng
+author organization:Kennesaw State University
+author id:2305798055|
+author name:James Rutherfoord
+author organization:Kennesaw State University
+author id:2802175498|
+]
+abstract:college|practice|placed|tested|period|approach|currency|problem|four|relevancy|using|large|made|collaborative|instructionally|delay|evaluate|accessible|education|students|instructional|notable|current|ways|departmentwide|nocost|costly|free|particularly|may|librarian|team|many|integrate|information|courses|discuss|resulted|textbooks|use|pioneering|developed|faculty|growing|curriculum|assessment|areas|technology|results|selected|another|courses|educational|publicly|rigorous|materials|background|present|financial|classes|surveys|cause|learning|information|textbooks|burden|computing|transform|database|related|paper|oneyear|adds|lieu|high|effectiveness|costs|cost|looked|resources|tuition|technology|students|material|withdraw
+venue name:Conference on Information Technology Education
+venue id:1177843814
+venue type:C
+document type:Conference
+study fields:Computer science|Information technology|It education|Knowledge management|Curriculum|Pedagogy|Instructional design|Currency
+references:2028341244|2154103186|2208071838
+
+
+id:2581347873
+title:An Evaluation Framework for Selecting Collaboration Systems for Student Teamwork
+year:2017
+author information:[
+author name:Yide Shen
+author organization:Rowan University
+author id:2126948266|
+author name:Lei Li
+author organization:Kennesaw State University
+author id:2641061994|
+author name:Guangzhi Zheng
+author organization:Kennesaw State University
+author id:2709530173|
+author name:Rong Guo
+author organization:University of West Georgia
+author id:2495774210|
+]
+abstract:play|college|increasingly|select|survey|use|empirical|instructors|evaluation|features|tables|identified|weighted|collaborative|capstone|aimed|discussed|technologies|important|market|termlong|system|task|directions|survey|systematically|present|authors|appropriate|study|needs|role|student|range|students|choose|choosing|project|universities|systems|ranked|based|demonstrated|met|class|webbased|scoring|implications|proliferation|wide|built|also|team|students|help|assess|form|teamwork|collaboration|collaboration|future|overwhelming|first|undergraduate
+venue name:International Journal of Information and Communication Technology Education
+venue id:98745102
+venue type:J
+document type:Journal
+study fields:Teamwork|Active learning|Computer science|Information technology|Capstone|Knowledge management|Curriculum|Computer-mediated communication|Cooperative learning|Empirical research
+references:1578743203|1587451402|1997471471|2003618167|2073867235|2076806383|2167215550
+
+
+id:2898495628
+title:Can We Be More Innovative with Program Revision?: Using a Data-Driven 360 Degree Program Review Model
+year:2018
+author information:[
+author name:Svetlana Peltsverger
+author organization:Kennesaw State University
+author id:2232487790|
+author name:Lei Li
+author organization:Kennesaw State University
+author id:2099111329|
+author name:Rebecca Rutherfoord
+author organization:Kennesaw State University
+author id:2537589498|
+]
+abstract:data|program|examines|used|approach|improved|assessment|paper|qualitative|review|aspect|every|process|built|implementing|degree|changes|model|revision|existing|framework|datadriven|quantitative|driven|uses|collect|evaluate|presents
+venue name:Conference on Information Technology Education
+venue id:1177843814
+venue type:C
+document type:Conference
+study fields:Data-driven|Software engineering|Data analysis|Knowledge management|Engineering
+references:2757870916
+
+
+id:1515225189
+title:Constraint-Based Case-Based Planning Using Weighted MAX-SAT
+year:2009
+author information:[
+author name:Hankui Zhuo
+author organization:Sun Yat-Sen University
+author id:2140442116|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:convert|constraints|extracted|three|building|problem|finds|plan|case|knowledge|portions|algorithm|similar|using|efficiency|adapted|propose|planning|provide|plans|cases|maximally|planning|adaptation|current|problem|may|exploiting|framework|casebased|plan|approach|certain|novel|first|encode|competition|solver|use|solution|helpful|consider|different|weighted|solver|new|constraintbased|including|test|maxsat|solutions|adapt|domains|often|reusable|take|extract|solve|parts|demonstrate|solving|sat|satisfiability|international|effectiveness|cases|approaches|existing|previous|base
+venue name:International Conference on Case-Based Reasoning
+venue id:1168666102
+venue type:C
+document type:Conference
+study fields:Maximum satisfiability problem|Case based planning|ENCODE|Mathematical optimization|Computer science|Boolean satisfiability problem|Sat problem|Case base|Solver
+references:4983232|113144092|1539358886|1544727325|1581661059|1667362966|1667614912|1823557792|1907214776|2025460523|2100539989|2101174032|2107218456|2125742273|2147025286|2171798962
+
+
+id:1525948649
+title:Semantic Caching Services for Data Grids
+year:2004
+author information:[
+author name:Hai Wan
+author organization:Sun Yat-sen University
+author id:2665229534|
+author name:Xiao-Wei Hao
+author organization:SUN YAT-SEN University
+author id:2104706202|
+author name:Tao Zhang
+author organization:SUN YAT-SEN University
+author id:2703666783|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:data|simulation|semantic|network|caching|reliable|transmission|sizes|optimization|attractive|large|considering|query|prolonged|formal|core|requested|acting|semantic|deliver|grids|study|paper|low|provides|share|examined|data|control|services|scheme|performance|coherency|presents
+venue name:Grid and Cooperative Computing
+venue id:1163190608
+venue type:C
+document type:Conference
+study fields:Data transmission time|Database query|Data transmission|Computer science|Computer network|Transmission time|Distributed computing
+references:1559704687|2091257550|2098586055|2137391621
+
+
+id:1599280730
+title:Learning Action Models with Quantified Conditional Effects for Software Requirement Specification
+year:2008
+author information:[
+author name:Hankui Zhuo
+author organization:Sun Yat-Sen University
+author id:2140442116|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Rui Bian
+author organization:Software Research Institute of Sun Yat-Sen University
+author id:2666017758|
+]
+abstract:software|extracted|changeability|problem|experiment|action|engineering|plan|models|give|using|efficiency|work|definition|samples|field|domain|saved|two|result|planning|feature|processes|means|business|learn|one|people|beings|describe|extracting|complete|first|represent|conditional|solved|second|incomplete|things|method|consider|need|difficult|tool|important|domains|efforts|task|extract|software|since|show|learning|task|divide|end|human|specification|requirement|intelligent|modify|quantified|application|step
+venue name:International Conference on Intelligent Computing
+venue id:1134271186
+venue type:C
+document type:Conference
+study fields:Functional requirement|Domain engineering|Software engineering|Computer science|Artificial intelligence|Software metric|Software construction|Software requirements specification|Functional specification|Machine learning|Software sizing|Software requirements
+references:189056971|198823727|1552549180|1581661059|1775239747|2119709400|2133999127
+
+
+id:1741372064
+title:Transferring Knowledge from Another Domain for Learning Action Models
+year:2008
+author information:[
+author name:Hankui Zhuo
+author organization:Sun Yat-Sen University
+author id:2140442116|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Derek Hao Hu
+author organization:Hong Kong Universityof Science and Tech
+author id:2144952901|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:encode|tedious|language|learning|known|enable|network|lamp|action|plan|transfer|case|algorithm|knowledge|models|new|using|already|ai|traces|difficult|whose|quality|important|formal|task|transfer|pddl|domain|intermediate|models|present|useful|partial|since|action|another|show|learning|states|transferring|timeconsuming|noise|pddl|logic|human|hand|contain|learn|apply|markov|learned|plan|generally|call|better|existing|information|quantifiers
+venue name:Pacific Rim International Conference on Artificial Intelligence
+venue id:1174248916
+venue type:C
+document type:Conference
+study fields:Formal language|Markov logic network|Computer science|Action language|Knowledge transfer|Transfer of learning|Action learning|Artificial intelligence|Planning Domain Definition Language|Automated planning and scheduling|Machine learning
+references:189056971|1977970897|2024113144|2119709400|2133999127|2134845968
+
+
+id:1846056457
+title:Transfer Learning Action Models by Measuring the Similarity of Different Domains
+year:2009
+author information:[
+author name:Hankui Zhuo
+author organization:Sun Yat-Sen University
+author id:2140442116|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:encode|data|metric|tedious|language|used|building|known|experiment|action|plan|algorithm|models|given|new|using|method|already|ai|traces|effective|domains|often|whose|formal|important|planning|task|measure|transfer|proposed|present|useful|requires|larger|shared|according|show|learning|advance|consuming|planning|transferring|human|hand|transferred|learn|limited|bigger|makes|metric|information|time|difficult
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:ENCODE|Formal language|Action language|Computer science|Transfer of learning|Artificial intelligence|Propositional variable|Automated planning and scheduling|Planning Domain Definition Language|Machine learning
+references:16599163|1741372064|1977970897|2024113144|2119709400|2133999127|2134845968
+
+
+id:1861313007
+title:Case Retrieval Using Nonlinear Feature-Space Transformation
+year:2004
+author information:[
+author name:Rong Pan
+author organization:University
+author id:2194641296|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Lei Li
+author organization:Zhngshan University
+author id:2709854535|
+]
+abstract:featurespace|similaritybased|mostly|functions|theoretical|empirical|construct|nonlinear|approach|space|evaluation|features|far|retrieval|find|solutions|results|case|weightedsum|new|using|method|large|handle|analysis|heart|computation|important|traditional|observations|correlation|solve|support|margin|show|foundation|reasoning|retrieval|gain|result|effective|transform|feature|similarity|designed|situation|linear|explore|kernel|perform|nature|wrong|base|performance|casebased|maximum|good|first|base
+venue name:Lecture Notes in Computer Science
+venue id:106296714
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Similitude|Feature vector|Nonlinear system|Computer science|Algorithm|Correlation|Case-based reasoning|Correlation analysis|Computation
+references:36794914|63136145|1593289877|1989333493|2108146080|2126385963|2140095548|2147169507
+
+
+id:1881682230
+title:A Ring Signature Scheme Based on the Nyberg-Rueppel Signature Scheme
+year:2003
+author information:[
+author name:Chong-zhi Gao
+author organization:Sun Yat-sen University
+author id:2490552557|
+author name:Zheng-an Yao
+author organization:Sun Yat-Sen University
+author id:2649599623|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2697591349|
+]
+abstract:functions|ring|without|contribution|formalized|prime|rsa|goal|large|work|oneway|specify|version|extend|size|versions|trapdoor|domain|much|computed|scheme|signature|achieve|two|member|product|set|initial|efficient|one|possible|modulus|scheme|n|computation|reduced|actually|ring|first|authors|main|domains|compute|find|different|generate|revealing|keys|produced|proposed|present|since|private|signature|keys|concept|distinct|public|common|allows|also|procedure|signers|setup|uses|user|eg
+venue name:Applied Cryptography and Network Security
+venue id:1160211978
+venue type:C
+document type:Conference
+study fields:Prime (order theory)|Computer science|Computer security|Merkle signature scheme|Algorithm|Ring signature|Theoretical computer science|Digital signature|Anonymity|Public-key cryptography|Blind signature|Computation
+references:1638799436|1763199136|1963578159|2080302839|2129483619|2911424200
+
+
+id:1926876444
+title:Ensemble of Unsupervised and Supervised Models with Different Label Spaces
+year:2013
+author information:[
+author name:Yueyun Jin
+author organization:Sun Yat-sen University
+author id:2488062369|
+author name:Weilin Zeng
+author organization:Sun Yat-sen University
+author id:2483915354|
+author name:Hankz Hankui Zhuo
+author organization:Sun Yat-sen University
+author id:2125301632|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:data|voting|approach|identical|maximize|view|amounts|model|different|exhibited|models|new|large|models|testing|difficult|require|often|real|labels|stroke|spaces|instances|unsupervised|ensemble|spaces|demonstrate|collect|partial|much|anomaly|aim|ensemble|effective|world|get|predicting|allows|effectiveness|detection|multiple|approaches|label|many|model|target|manage|ensemble|consensus|supervised|build|associated|easier|sets|voter|novel
+venue name:Advanced Data Mining and Applications
+venue id:1184106476
+venue type:C
+document type:Conference
+study fields:Anomaly detection|Data mining|Data set|Pattern recognition|Voting|Computer science|Artificial intelligence|Machine learning
+references:1483001186|1981399499|2062179223|2070534370|2100805904|2103781895|2110952388|2111557120|2122646361|2912934387|2962837022
+
+
+id:1971445519
+title:Cost-Sensitive-Data Preprocessing for Mining Customer Relationship Management Databases
+year:2007
+author information:[
+author name:Junfeng Pan
+author organization:Hong Kong University of Science and Technology
+author id:2689890933|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Yiming Yang
+author organization:Sun Yat-sen University
+author id:2113928586|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+author name:F.T. Li
+author organization:Guangzhou E-DM Tech Corporation
+author id:2280404883|
+author name:G.W. Li
+author organization:Guangzhou E-DM Tech Corporation
+author id:2168433187|
+]
+abstract:stagedframework|imbalance|data|software|called|kdd|developed|pushes|high|edmoney|incorporated|cup|knowledge|using|large|preprocessing|might|mining|real|benchmark|outperformed|winner|competition|sensitivity|demonstrate|support|applied|tests|switch|telecommunications|competitor|predict|company|customers|ability|retention|cost|set|attrition|identify|mobile|also|acm|help|framework|service|discovery|showed|chinese|providers|customer
+venue name:IEEE Intelligent Systems
+venue id:114241109
+venue type:J
+document type:Journal
+study fields:Customer intelligence|Customer relationship management|Customer retention|Data mining|Customer attrition|Computer science|Data pre-processing|Software system|Service provider|Knowledge extraction
+references:142793689|1977245551|2058732827|2127850387|2150884987|2163541574
+
+
+id:2003258652
+title:An Adaptive-Granularity Locking Algorithm and Its Application in Collaborative Authoring System
+year:2007
+author information:[
+author name:Zhifang Li
+author organization:Sun Yat-sen University
+author id:2225247238|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2673849020|
+author name:Hao Cui
+author organization:Sun Yat-sen University
+author id:2709780917|
+author name:Hai Wan
+author organization:Sun Yat-sen University
+author id:2721007461|
+]
+abstract:several|high|concurrency|dynamically|lock|algorithm|edit|excellent|collaborative|cost|lower|propose|users|important|authoring|traditional|cas|granularity|simultaneously|algorithms|achieve|document|determines|experiments|show|system|operations|paper|adaptivegranularity|locking|allows|performance|carried|means|necessary|locking|control|concurrency|finegranularity|strategy|adopted
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:Double-checked locking|Isolation (database systems)|Concurrency control|Computer science|Concurrency|Multiversion concurrency control|Algorithm|Concurrent computing|Non-lock concurrency control|Giant lock|Distributed computing
+references:1926031586|1984543852|2111514461|2145220267
+
+
+id:2105811900
+title:State-based Process Description Model in Chinese E-government Affair System
+year:2007
+author information:[
+author name:Yunxiang Zheng
+author organization:Sun Yat-sen University
+author id:2136151300|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+author name:Hai Wan
+author organization:Sun Yat-sen University
+author id:2628809410|
+]
+abstract:resent|administration|using|rapid|several|bring|process|research|facilitates|complex|model|affair|state|results|greater|though|offers|new|development|still|finite|capture|infancy|propose|governmental|extends|egovernment|transparency|exact|helps|status|kinds|eventually|long|flexibility|based|delivery|thoughts|ahead|process|business|efficient|globalization|representing|standardize|services|message|way|special|government|machine|service|chinese|operations|constraint|describe|logic|economic|check|represent
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Artifact-centric business process model|Business process management|Business process|Computer science|Process modeling|Business process modeling|Business process discovery|Business rule|Business Process Model and Notation|Process management
+references:1535673446|2069494792|2092559126|2159765281
+
+
+id:2130251175
+title:Learning complex action models with quantifiers and logical implications
+year:2010
+author information:[
+author name:Hankz Hankui Zhuo
+author organization:Sun Yat-sen University
+author id:2125301632|
+author name:Qiang Yang
+author organization:University of Science and Technology
+author id:2109031554|
+author name:Derek Hao Hu
+author organization:Hong Kong Universityof Science and Tech
+author id:2144952901|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:called|software|saved|helping|reflected|approach|building|observed|formulas|realworld|four|complex|network|action|state|plan|algorithm|models|based|likely|using|models|definition|engineers|scratch|underlying|planning|even|domain|analyze|intermediate|models|planning|conditions|evaluate|requires|subsets|traces|algorithms|deal|automatically|acquire|timeconsuming|world|study|logic|experts|implications|set|languages|learn|markov|many|plan|great|logical|help|complicated|cannot|describe|quantifiers|experts|novel|partially|generates|formulas|simple|existential|actions|create|mechanisms|selected|described|automated|need|traces|difficult|domains|real|tweaked|engineering|expressions|knowledgeengineering|effects|preconditions|final|demonstrate|domain|present|action|show|learning|effort|precisely|effective|candidate|language|arrive|transformed|passed|applications|universal|human|selecting|algorithms|requirements|cases|previous|learned|apply|also|requirement|indeed|application|well|information|lamp|formally|user|subset
+venue name:Artificial Intelligence
+venue id:196139623
+venue type:J
+document type:Journal
+study fields:Markov logic network|Expression (mathematics)|Action language|Computer science|Action model learning|Knowledge engineering|Application domain|Artificial intelligence|Planning Domain Definition Language|Machine learning|Software requirements
+references:16599163|16848738|27953711|40918380|57528462|60794598|73544108|93173320|103679982|189056971|198823727|1494688554|1504110645|1512541792|1530488533|1535439311|1552549180|1561445823|1565243720|1581661059|1598515570|1599188306|1599280730|1601600618|1741372064|1846056457|1890589545|1974016322|1975330620|1977970897|1987902506|2024113144|2051434435|2092104391|2103538877|2114672926|2119709400|2121075864|2122048287|2125456529|2133999127|2144429462|2149390907|2151647377|2157117634|2158917616|2162147694|2165789488|2168010594|2169992051|2171472464|2949238434
+
+
+id:2176491403
+title:Acquiring Planning Knowledge via Crowdsourcing
+year:2015
+author information:[
+author name:Jie Gao
+author organization:Jilin University
+author id:2695859618|
+author name:Hankz Hankui Zhuo
+author organization:Sun Yat-sen University
+author id:2125301632|
+author name:Subbarao Kambhampati
+author organization:State University
+author id:1354405940|
+author name:Lei Li
+author organization:Sun Yat-sen University
+author id:2709854535|
+]
+abstract:intelligence|crowd|inputs|states|available|challenging|building|problem|estimate|state|possibly|human|models|actual|tasks|thus|might|difficult|often|real|propose|substantial|planning|feed|beforehand|provide|discrepancy|domain|solve|assume|collect|requires|needed|annotators|provided|values|input|turn|crowd|two|states|planning|world|paper|planner|synthesis|amount|variables|address|set|problem|initial|within|phases|plan|many|noisy|help|build|information|complete|first
+venue name:National Conference on Artificial Intelligence
+venue id:1184914352
+venue type:C
+document type:Conference
+study fields:Human intelligence|Computer science|Crowdsourcing|Planner|Artificial intelligence|Machine learning|Domain model
+references:934246857|1690838869|1965167605|2134305421|2166145477
+

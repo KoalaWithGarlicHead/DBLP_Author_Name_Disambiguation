@@ -1,0 +1,2752 @@
+
+id:278559520
+title:Cross-Layer Multi-Cloud Real-Time Application QoS Monitoring and Benchmarking As-a-Service Framework
+year:2019
+author information:[
+author name:Khalid Alhamazani
+author organization:University of New South Wales
+author id:203685317|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+author name:Prem Prakash Jayaraman
+author organization:Royal Melbourne Instituteo of Technology, Melbourne, Australia
+author id:2024397489|
+author name:Karan Mitra
+author organization:Luleå University of Technology Skellefteå Sweden
+author id:2237435652|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Fethi Rabhi
+author organization:University of New South Wales
+author id:125612257|
+author name:Dimitrios Georgakopoulos
+author organization:Royal Melbourne Instituteo of Technology, Melbourne, VIC, Australia
+author id:2102539684|
+author name:Lizhe Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2137263951|
+]
+abstract:multicore|software|benchmarking|led|multicloud|diverse|microsoft|hardware|databases|using|investment|distributed|runtime|monitoring|environments|among|processing|amazon|multicloud|application|monitors|components|access|upfront|azure|across|capability|low|web|experimentation|develops|monitoring|validate|affordable|proliferation|business|efficient|benchmarking|prototype|extensive|requiring|market|efficiently|data|networking|hosted|platforms|cloud|features|major|layers|benchmarks|mechanisms|ensure|including|individual|ondemand|asaservice|leverage|critical|clambs|latency|validates|show|platforms|highlight|computing|servers|paper|qos|provider|provides|quality|characteristics|multiclouds|implementation|multiple|service|spread|application|various|providers|cloud|time|applications
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Computer science|Server|Networking hardware|Quality of service|Real-time computing|Cloud testing|Benchmarking|Operating system|Application server|Cloud computing|Distributed computing|Web server
+references:1542892068|1651603302|1834532152|1972727133|2008946547|2012090654|2036260704|2053820782|2070164835|2087399947|2097004662|2098190203|2104730685|2120751691|2121651311|2121884932|2135917032|2138440835|2140387397|2141975087|2143065961|2146635036|2149318736|2154107289|2157453876|2157809753|2168429622
+
+
+id:1822131664
+title:HKE-BC: hierarchical key exchange for secure scheduling and auditing of big data in cloud computing
+year:2016
+author information:[
+author name:Chang Liu
+author organization:University of Technology
+author id:2618900431|
+author name:Nick Beaugeard
+author organization:HubOne Pty Ltd, Sydney, Australia
+author id:209847103|
+author name:Chi Yang
+author organization:University of Technology
+author id:2569503714|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Jinjun Chen
+author organization:Faculty of Engineering and Information Technology University of Technology
+author id:2170756005|
+]
+abstract:big|authenticated|highefficiency|john|auditing|experimental|without|concern|offer|sacrificing|securityaware|wiley|diverse|twophase|recent|tasks|based|efficiency|distributed|come|schemes|analysis|propose|system|environments|become|server|providing|layerbylayer|scheme|achieve|direct|investments|consuming|communications|flexibility|security|adoption|low|based|key|auditing|efficient|one|namely|words|services|data|involve|computation|advantages|symmetrickey|information|novel|essential|predecessors|data|theoretical|environments|available|developed|encryptions|cloud|copyright|payasyougo|high|brings|major|hierarchical|scheduling|dramatically|newgeneration|directly|computing|results|intensive|infrastructure|level|usercloud|iterative|becomes|longer|especially|proposed|background|exchange|internet|demonstrate|largescale|authenticated|pricepeople|deployed|storage|virtualisation|computing|minimal|security|ltd|applications|dataintensive|big|costeffectiveness|industry|cost|aims|resources|control|schemes|technology|extraordinary|existing|superior|cloud|well|time|strategy|referred
+venue name:Concurrency and Computation: Practice and Experience
+venue id:11065456
+venue type:J
+document type:Journal
+study fields:Key distribution|Internet Key Exchange|Data security|Key exchange|Computer science|Authenticated Key Exchange|Security association|Cloud computing security|Distributed computing|Cloud computing
+references:1537652141|1574314127|1755636270|1772901473|1868922675|1964942601|1980901365|1989135185|1996948011|1998784354|2007909731|2027703952|2036260704|2042182508|2055665937|2078656587|2080213453|2081416313|2102881299|2108343462|2119028650|2123069643|2128612770|2135054431|2140919237
+
+
+id:1963751176
+title:An Authenticated Key Exchange Scheme for Efficient Security-Aware Scheduling of Scientific Applications in Cloud Computing
+year:2011
+author information:[
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+author name:Chi Yang
+author organization:University of Western Australia
+author id:2569503714|
+]
+abstract:authenticated|simulation|without|sacrificing|securityaware|qualityofservice|theoretical|happen|based|efficiency|method|issue|large|background|facilitating|propose|exchange|amongst|key|server|scheme|computing|security|encryption|low|encrypt|key|compared|controller|ike|may|suffers|efficient|one|scheme|logical|computation|ccbke|capabilities|symmetrickey|vast|novel|addressing|data|run|intercepted|cloud|analyses|scheduling|dramatically|generate|results|level|maintaining|crypto|instances|scientists|improve|parties|exchange|internet|demonstrate|instead|purchasing|session|keys|scientific|storage|asymmetrickey|highdensity|malicious|computing|security|operations|load|flows|applications|designed|randomnessreuse|greatest|dataintensive|amount|characteristics|aims|apply|performing|consumption|concerns|exactly|existing|environment|stolen|performance|due|various|cloud|typical|time|strategy|reducing|flows|significantly|applications
+venue name:IEEE International Conference on Dependable, Autonomic and Secure Computing
+venue id:2755108967
+venue type:C
+document type:Conference
+study fields:Internet Key Exchange|Data security|Key exchange|Computer science|Cryptography|Authenticated Key Exchange|Computer network|Encryption|Communications security|Distributed computing|Cloud computing
+references:1532295511|1574314127|1868922675|1964942601|1977367431|1980901365|2031533839|2032749214|2041480327|2102415185|2103128343|2104560855|2109026747|2123069643|2140919237|2144387805|2154671641|2156186849|2159176867|2162913521|2253199766
+
+
+id:1970225139
+title:A spatiotemporal compression based approach for efficient big data processing on Cloud
+year:2014
+author information:[
+author name:Chi Yang
+author organization:University of Technology Sydney
+author id:2569503714|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Changmin Zhong
+author organization:Joowing Australia Pty Ltd., 26 Entally Drive, Wheelers Hill, VIC 3150, Australia
+author id:2278185966|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Jian Pei
+author organization:Simon Fraser University
+author id:2126330539|
+author name:Kotagiri Ramamohanarao
+author organization:Melbourne University
+author id:123309386|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:big|introduces|data|inefficiency|developed|gains|features|experiment|terms|complex|raise|scheduling|spatial|results|temporal|based|significant|propose|graph|iterations|size|conducted|driven|processing|tackle|demonstrate|compression|shared|cloud|memory|inference|challenges|achieve|technique|fidelity|loss|processing|similarity|partition|known|parallel|optimisation|costly|set|effectively|multiple|workload|also|clusters|exploiting|single|exploring|performance|spatiotemporal|series|well|compressed|time|novel
+venue name:Journal of Computer and System Sciences
+venue id:141020589
+venue type:J
+document type:Journal
+study fields:Spatial analysis|Data mining|Data processing|Data-driven|Scheduling (computing)|Computer science|Theoretical computer science|Graph Edge|Temporal database|Big data|Cloud computing
+references:280853923|1656486128|1977367431|1980981922|2004001585|2010929544|2014238766|2019724001|2044936152|2081416313|2086688839|2099751474|2110173188|2121142115|2123820440|2126088460|2150502657|2153977620|2154797012|2155909634|2163372296|2173213060
+
+
+id:1980981922
+title:An efficient quasi-identifier index based approach for privacy preservation over incremental data sets on cloud
+year:2013
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Surya Nepal
+author organization:Centre for Information  Communication Technologies, Commonwealth Scientific and Industrial Research Organisation, Cnr Vimiera and Pembroke Rodas Marsfield, NSW 2122, Australia
+author id:2157563740|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:elaborate|privacysensitive|anonymized|approach|without|via|improved|suffer|problem|enable|poor|context|join|algorithm|violated|based|similar|still|inefficiency|efficiency|indexed|distributed|index|scratch|propose|node|generalization|specialization|largevolume|hash|access|frequently|achieve|anonymizing|utility|capacity|across|power|many|place|address|sets|efficient|approaches|health|operational|occurs|services|incremental|computation|massive|efficiently|sets|anonymous|economic|represent|data|used|cloud|challenging|deploy|centralized|cloud|high|time|function|huge|nodes|results|new|evaluation|ensure|like|already|accordingly|users|volume|reanonymizing|proposed|improve|demonstrate|largescale|convenience|potentially|benefits|localitysensitive|according|privacy|update|occur|storage|quasiidentifier|investigate|updates|scalability|preservation|computing|incrementally|provides|designed|fulfil|requirements|process|built|multiple|groups|approaches|structure|efficiency|existing|infrastructure|cloud|investment|significantly|applications|existing
+venue name:Journal of Computer and System Sciences
+venue id:141020589
+venue type:J
+document type:Journal
+study fields:Quasi identifier|Data set|Computer science|Inefficiency|Hash function|Health services|Database|Cloud computing|Computation|Scalability
+references:1656486128|1964444089|1977367431|1979005794|1987633617|2004001585|2010929544|2019672983|2031533839|2041404167|2044936152|2059900053|2068014765|2073543321|2107927452|2118944554|2119067110|2119244393|2121142115|2125212367|2132678785|2134167315|2134894205|2135581534|2142406320|2145065594|2150502657|2154107289|2154729038|2154797012|2155909634|2156030242|2161030490|2162006472|2164649498|2165589425|2165715261|2173213060
+
+
+id:1982216698
+title:Querying Streaming XML Big Data with Multiple Filters on Cloud
+year:2013
+author information:[
+author name:Chi Yang
+author organization:University of Technol
+author id:2569503714|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Surya Nepal
+author organization:Centre for Inf.  Commun. Technol., Commonwealth Sci.  Ind. Res. Organ., Marsfield, NSW, Australia
+author id:2157563740|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:big|mostly|application|introduces|empirical|multifilters|enter|filtering|events|fully|reduce|based|lower|theoretic|propose|size|adopting|processing|current|items|deal|study|methods|increases|streaming|known|era|systems|share|together|processing|exponentially|decision|strategies|break|querying|computation|concurrency|filter|single|massive|powerful|collaboration|deploying|exploit|techniques|data|space|shown|buffered|buffer|significantly|new|ideal|demonstrates|often|real|proposed|problems|limitation|cloud|show|proper|storage|platform|scalability|paper|make|effectively|consumption|capability|outperforms|explosion|xml|cloud|well|time|strategy|bound
+venue name:Computational Science and Engineering
+venue id:1177288818
+venue type:C
+document type:Conference
+study fields:Streaming XML|Collaborative filtering|XML|Computer science|Filter (signal processing)|Big data|Group method of data handling|Distributed computing|Cloud computing|Scalability
+references:1575155873|1656486128|1749554492|1977367431|2004001585|2083308531|2096693597|2110173188|2121142115|2131702250|2145932802|2150502657|2154797012|2170583772
+
+
+id:1996948011
+title:CCBKE - Session key negotiation for fast and secure scheduling of scientific applications in cloud computing
+year:2013
+author information:[
+author name:Chang Liu
+author organization:University of Technology
+author id:2618900431|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chi Yang
+author organization:University of Western Australia
+author id:2925118738|
+author name:Jinjun Chen
+author organization:Faculty of Engineering and Information Technology University of Technology
+author id:2170756005|
+]
+abstract:authenticated|experimental|without|sacrificing|securityaware|qualityofservice|theoretical|happen|based|efficiency|method|issue|large|background|cryptological|facilitating|propose|exchange|amongst|key|server|systems|scheme|computing|security|encryption|low|encrypt|key|compared|controller|ike|may|suffers|efficient|one|scheme|computation|ccbke|capabilities|symmetrickey|vast|novel|addressing|data|run|secure|intercepted|cloud|analyses|scheduling|dramatically|generate|results|always|level|less|maintaining|hybrid|instances|especially|scientists|improve|parties|exchange|internet|demonstrate|instead|purchasing|session|keys|scientific|storage|asymmetrickey|highdensity|malicious|computing|security|operations|load|flows|applications|designed|randomnessreuse|greatest|dataintensive|amount|characteristics|aims|apply|performing|consumption|concerns|exactly|existing|environment|stolen|due|various|cloud|typical|time|strategy|reducing|flows|significantly|applications
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Data security|Key exchange|Scheduling (computing)|Computer science|Authenticated Key Exchange|Encryption|Cloud computing security|Session key|Distributed computing|Cloud computing
+references:1532295511|1537652141|1574314127|1772901473|1868922675|1964942601|1977367431|1980901365|1987808887|1991640619|1998784354|2003167710|2007909731|2019672983|2031533839|2032749214|2036126441|2041480327|2055665937|2100618668|2102415185|2103128343|2109026747|2123069643|2124994175|2140919237|2144387805|2154671641|2154797012|2156186849|2159176867|2162913521|2171593127
+
+
+id:1998654583
+title:A MapReduce Based Approach of Scalable Multidimensional Anonymization for Big Data Privacy Preservation on Cloud
+year:2013
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chi Yang
+author organization:University of Technol
+author id:2569503714|
+author name:Surya Nepal
+author organization:CSIRO, ICT Centre
+author id:2157563740|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2155983813|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:big|issues|approach|improved|suffer|experiment|advances|leveraging|fully|recursion|algorithm|costeffectiveness|using|costeffectively|adapted|propose|reduce|environments|thereby|among|granularity|orders|dedicatedly|map|strong|scheme|achieve|protection|industry|capacity|power|magnitude|approaches|one|jobs|combining|academia|controlled|massive|requiring|corresponding|severe|information|scalable|data|concerned|available|individuals|cloud|medianfinding|mapreduce|cloud|analytics|anonymization|incapability|mining|histogram|widelyadopted|median|proposed|medians|demonstrate|idea|privacy|technique|storage|scalability|preservation|effective|computing|expanded|considerable|provisioned|attracting|provides|scope|highly|costeffectiveness|cost|evaluations|resources|data|schemes|approaches|increase|way|existing|due|well|attention|handling|multidimensional|significantly|customer
+venue name:International Conference on Cloud and Green Computing
+venue id:2754925037
+venue type:C
+document type:Conference
+study fields:Computer science|Data anonymization|Provisioning|Data Protection Act 1998|Information privacy|Analytics|Big data|Database|Scalability|Cloud computing
+references:192814132|1217794466|1637435380|1713648379|1967831627|1971774955|1979005794|1989135185|1996641400|2014238766|2019376841|2024668293|2033166113|2044936152|2077179394|2081416313|2089959302|2097745829|2105746252|2107927452|2118944554|2119244393|2121740667|2132678785|2134167315|2135581534|2142406320|2157355837|2159024459|2160036998|2161030490|2164649498|2164812149|2170247462|2171593127
+
+
+id:2001318368
+title:A User Demand Uncertainty Based Approach for Cloud Resource Management
+year:2013
+author information:[
+author name:Adrian Johannes
+author organization:Fac. of Eng.  Inf. Technol., UTS, Sydney, NSW, Australia
+author id:2940504623|
+author name:Nazanin Borhan
+author organization:Fac. of Eng.  Inf. Technol., UTS, Sydney, NSW, Australia
+author id:2661446172|
+author name:Chang Liu
+author organization:Fac. of Eng.  Inf. Technol., UTS, Sydney, NSW, Australia
+author id:2618900431|
+author name:Rajiv Ranjan
+author organization:Comput. Inf., CSIRO, Canberra, SA, Australia
+author id:2005115202|
+author name:Jinjun Chen
+author organization:Fac. of Eng.  Inf. Technol., UTS, Sydney, NSW, Australia
+author id:2170756005|
+]
+abstract:provider|use|cloud|attempt|supply|variation|relation|cloud|negotiation|create|warranty|model|uncertainties|events|ensure|issue|resource|service|demand|propose|quality|demand|software|fluctuation|stated|deal|user|fluctuation|investigate|uncertainty|optimization|prevent|result|computing|provisioning|event|considers|resources|service|resources|environment|fuzzy
+venue name:Computational Science and Engineering
+venue id:1177288818
+venue type:C
+document type:Conference
+study fields:Resource management|Computer science|Operations research|Knowledge management|Provisioning|Software as a service|Utility computing|Supply and demand|Data as a service|Cloud testing|Cloud computing|Distributed computing
+references:1481723547|1524234483|1978779204|1984421479|1994080277|2032359668|2058929311|2088657354|2106698002|2116942135|2137527671|2144939995|2149466888|2912565176
+
+
+id:2005991660
+title:Proximity-Aware Local-Recoding Anonymization with MapReduce for Scalable Big Data Privacy Preservation in Cloud
+year:2015
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Wanchun Dou
+author organization:State Key Laboratory for Novel Software Technology
+author id:2918226872|
+author name:Jian Pei
+author organization:Simon Fraser University
+author id:2126330539|
+author name:Surya Nepal
+author organization:CSIRO, Australia
+author id:2157563740|
+author name:Chi Yang
+author organization:University of Technology
+author id:2569503714|
+author name:Chang Liu
+author organization:University of Technology
+author id:2618900431|
+author name:Jinjun Chen
+author organization:University of Technology
+author id:2170756005|
+]
+abstract:extensive|big|dataparallel|privacysensitive|improves|scalability|recoding|attempt|approach|via|problem|poor|model|twophase|released|promising|algorithm|breaches|sensitive|encountering|generalization|processing|shared|semantic|algorithms|experiments|local|healthcare|gain|reallife|capability|fall|variety|electronic|smallscale|anonymize|contain|address|sets|problem|approaches|health|localrecoding|k|model|computation|consisting|insufficiency|information|scalable|data|tailored|thirdparties|defending|cloud|mapreduce|anonymization|high|brings|solution|business|given|sectors|like|often|timeefficiency|widelyadopted|proposed|proximity|demonstrate|preserving|present|support|proximityaware|potentially|records|values|privacy|technique|investigate|scalability|preservation|computing|provides|design|practical|identify|satisfy|performing|multiple|data|approaches|allowing|concerns|existing|due|infrastructure|various|ancestors|cloud|short|clustering|agglomerative|significantly|applications
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Data modeling|Data mining|Computer science|Data anonymization|Information privacy|Cluster analysis|Big data|Privacy software|Scalability|Cloud computing
+references:1656486128|1967831627|1974753421|1977541023|1979005794|1988287322|1989135185|1993077546|2009331946|2014238766|2026705124|2038873345|2040263621|2044936152|2059900053|2069845605|2080213453|2081416313|2099519519|2118944554|2121740667|2126269809|2134167315|2135581534|2142291269|2142406320|2150593711|2157355837|2159024459|2163882872|2164649498|2164812149|2166658587|2294409705
+
+
+id:2014238766
+title:A Privacy Leakage Upper Bound Constraint-Based Approach for Cost-Effective Privacy Preserving of Intermediate Data Sets in Cloud
+year:2013
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Surya Nepal
+author organization:CSIRO, ICT Centre
+author id:2157563740|
+author name:Suraj Pandey
+author organization:IBM Research, Melbourne
+author id:2152060888|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:saved|privacysensitive|upper|approach|without|analyzing|problem|enable|adversaries|still|large|reduced|propose|intermediate|processing|encrypted|frequently|save|capacity|consuming|satisfied|holders|power|costly|address|sets|may|efficient|privacypreserving|computation|massive|stored|sets|information|operation|adopted|novel|data|encrypting|challenging|deploy|cloud|results|challenge|evaluation|constraintbased|need|widely|often|users|becomes|volume|demonstrate|preserving|leakage|costeffective|privacy|storage|computing|encrypting|provides|recomputing|dataintensive|requirements|cost|recover|identify|performing|bound|multiple|argue|approaches|existing|encrypted|infrastructure|cloud|investment|neither|ones|along|time|significantly|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Data mining|Data set|Leakage (electronics)|Computer science|Upper and lower bounds|Encryption|Information privacy|Distributed computing|Computation|Cloud computing
+references:192814132|1656486128|1865676108|1883937078|1977367431|1987633617|2019672983|2031533839|2032749214|2054701320|2076004957|2082132605|2102239128|2105746252|2109176946|2115466528|2118944554|2119067110|2119141511|2134167315|2134894205|2135171231|2142406320|2147470852|2154259588|2165589425|2171593127
+
+
+id:2018524855
+title:MuR-DPA: Top-Down Levelled Multi-Replica Merkle Hash Tree Based Secure Public Auditing for Dynamic Big Data Storage on Cloud
+year:2015
+author information:[
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Rajiv Ranjan
+author organization:CSIRO Digital Productivity Flagship (Australia)
+author id:2005115202|
+author name:Chi Yang
+author organization:University of Technology Sydney
+author id:2925118738|
+author name:Xuyun Zhang
+author organization:Machine Learning Group, NICTA, Australia
+author id:2984224892|
+author name:Lizhe Wang
+author organization:Institute of Remote Sensing and Digital Earth
+author id:2137263951|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:increasingly|authenticated|merkle|dataset|auditing|without|mrmht|fit|integrity|mht|rank|based|verify|compared|analysis|demand|requested|outsourced|processing|assigned|much|scheme|datasets|adoption|variety|address|emergence|one|n|call|indices|elastic|novel|becoming|run|verifications|incorporated|dynamic|results|dishonest|users|subtree|enhanced|longer|support|full|allow|show|update|updates|common|provides|client|replicas|blocks|multiple|concerns|storing|existing|nodes|service|handling|incur|big|named|whole|experimental|murdpa|required|block|proof|order|efficiency|natural|overhead|streams|schemes|provide|contrast|hash|become|requires|server|reliability|direct|valid|without|verify|resources|suffers|efficient|computation|organized|cannot|data|replica|theoretical|murdpa|cloud|updating|time|mrmht|replicas|problems|communication|nodes|verification|new|resource|level|tree|public|less|important|proposed|complexities|improve|techniques|retrieve|present|topdown|configuration|complexity|values|scale|storage|computing|security|along|public|included|authentication|allows|original|resources|also|structure|application|due|build|providers|cloud|strategy
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Data structure|Data security|Computer science|Block (data storage)|Computer network|Merkle tree|Cloud computing security|Dynamic data|Big data|Cloud computing
+references:44164607|89553247|1600255172|1802540854|1977367431|1996948011|2000461888|2008137090|2014238766|2014239329|2014698831|2019672983|2027703952|2029434520|2040193872|2069667482|2078656587|2079493184|2083257807|2102881299|2104382170|2109026747|2123069643|2125858711|2132027883|2144140331|2154729038|2159176867|2320538221
+
+
+id:2033166113
+title:Combining Top-Down and Bottom-Up: Scalable Sub-tree Anonymization over Big Data Using MapReduce on Cloud
+year:2013
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Surya Nepal
+author organization:CSIRO, ICT Centre
+author id:2157563740|
+author name:Chi Yang
+author organization:University of Technol
+author id:2569503714|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2155983813|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:big|fulfill|privacysensitive|improves|generalization|issues|subtree|approach|suffer|poor|utilized|based|efficiency|parallelization|propose|thereby|topdown|processing|requires|subtree|algorithms|components|scheme|tradeoff|utility|two|gain|specialization|capability|ways|fall|bug|power|together|anonymize|sets|efficient|approaches|one|lacking|combines|data|exploiting|computation|preservation|powerful|certain|adopted|kanonymity|anonymization|data|concerned|individually|cloud|good|mapreduce|cloud|anonymization|high|experiment|widely|bottomup|often|achieving|hybrid|demonstrate|largescale|provided|privacy|scalability|public|parameter|design|value|tds|evaluations|approaches|existing|performance|short|handling|services|significantly
+venue name:Trust, Security And Privacy In Computing And Communications
+venue id:2626753082
+venue type:C
+document type:Conference
+study fields:Data mining|Algorithm design|Computer science|Data anonymization|Tree (data structure)|Information privacy|Big data|Group method of data handling|Cloud computing|Scalability
+references:1503506375|1656486128|1967831627|1971774955|1979005794|1989135185|2019376841|2034616054|2038873345|2107927452|2118944554|2121740667|2132678785|2134167315|2134894205|2135581534|2142406320|2144326136|2151930506|2157355837|2159024459|2160036998|2161030490|2164649498|2164812149|2170247462
+
+
+id:2042182508
+title:A Time Efficient Approach for Detecting Errors in Big Sensor Data on Cloud
+year:2015
+author information:[
+author name:Chi Yang
+author organization:University of Technology Sydney
+author id:2569503714|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Surya Nepal
+author organization:Centre for Information  Communication Technologies, Commonwealth Scientific  Industrial Research Organization, Marsfield, NSW 2122, Australia
+author id:2157563740|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:big|stack|software|whole|approach|years|introduced|experiment|spatial|recent|temporal|tasks|fully|promising|reduce|based|using|large|topology|distributed|classified|traditional|provide|flexible|hence|processing|set|industry|storage|tools|exploits|feature|wsn|low|systems|power|based|demonstrated|detection|set|sets|efficient|clustered|analyzed|services|computation|massive|fast|accuracy|sets|prevalent|exploit|novel|scalable|addressing|acceptable|data|manner|developed|research|cloud|defined|high|generated|dramatically|potential|cost|difficult|conducted|develop|onhand|volume|proposed|techniques|detecting|sensorcloud|sensor|support|location|errors|full|locating|scientific|scale|error|platform|network|database|computing|operations|provides|applications|big|process|types|scalefree|limited|blocks|velocity|instead|wsn|management|accelerated|cloud|challenge|location|time|significantly|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Data mining|Data processing|Computer science|Network topology|Real-time computing|Error detection and correction|Distributed database|Big data|Wireless sensor network|Cloud computing|Scalability|Distributed computing
+references:165281197|280853923|1559557989|1656486128|1970225139|1975593772|1977367431|1978531585|1980981922|2002643280|2014238766|2019724001|2024404542|2035488079|2044936152|2050123402|2078656587|2079211769|2081416313|2082945266|2103002476|2110173188|2121142115|2124624981|2149150290|2150015649|2150502657|2150576257|2155909634|2163154541|2164040995
+
+
+id:2078220336
+title:Key Research Issues for Privacy Protection and Preservation in Cloud Computing
+year:2012
+author information:[
+author name:Gaofeng Zhang
+author organization:Swinburne University of Technol. Hawthorn
+author id:2130855162|
+author name:Yun Yang
+author organization:Swinburne University of Technol. Hawthorn
+author id:2154388108|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:focus|areas|issues|utilise|promises|investigated|promising|still|researchers|work|classification|saving|environments|provide|style|stage|much|methods|protection|kinds|investments|withstand|current|openness|perspective|customers|key|necessary|attackers|services|systematic|right|many|picture|help|preservation|open|capital|environments|challenging|research|deploy|cloud|payasyougo|features|presented|huge|consider|different|potential|infrastructure|risks|basis|users|keep|levels|overall|classify|issue|roles|privacy|virtualisation|investigate|point|preservation|computing|paper|track|make|early|start|unnecessary|approaches|possible|existing|environment|various|service|cloud|investigation|reducing
+venue name:International Conference on Cloud and Green Computing
+venue id:2754925037
+venue type:C
+document type:Conference
+study fields:Virtualization|Internet privacy|Privacy by Design|Computer science|Computer security|Openness to experience|Cloud computing security|Information technology management|Information privacy|Privacy software|Cloud computing
+references:169466422|1549027070|1655958391|1713648379|1963751176|1969949656|1971156651|1977367431|2004154155|2007208840|2010523825|2011158884|2017839015|2022220984|2033011282|2053343312|2071637194|2082132605|2086863233|2091095338|2099688605|2105037262|2105746252|2111251300|2115256097|2119028650|2122465391|2123069643|2124391019|2124572775|2130099852|2131443541|2135359801|2142406320|2152117417|2153575752|2164327070|2164414844|2165464232|2168426216|2168735232
+
+
+id:2078656587
+title:Authorized Public Auditing of Dynamic Big Data Storage on Cloud with Efficient Verifiable Fine-Grained Updates
+year:2014
+author information:[
+author name:Chang Liu
+author organization:Faculty of Eng. and IT, Uni. of Tech., Sydney, Australia
+author id:2618900431|
+author name:Jinjun Chen
+author organization:Faculty of Eng. and IT, Uni. of Tech., Sydney, Australia
+author id:2170756005|
+author name:Laurence T. Yang
+author organization:School of Comput. Sci. and Tech., Huazhong Uni. of Sci. and Tech., China
+author id:2960555670|
+author name:Xuyun Zhang
+author organization:Faculty of Eng. and IT, Uni. of Tech., Sydney, Australia
+author id:2984224892|
+author name:Chi Yang
+author organization:Faculty of Eng. and IT, Uni. of Tech., Sydney, Australia
+author id:2569503714|
+author name:Rajiv Ranjan
+author organization:CSIRO Computational Informatics
+author id:2005115202|
+author name:Kotagiri Rao
+author organization:Dept. of Comput. and Information Systems, The Uni. of Melbourne, Australia
+author id:2976643342|
+]
+abstract:maintain|auditing|without|offer|integrity|suffer|recent|fully|based|using|verifying|analysis|quality|coarsegrained|scheme|turn|investments|socalled|based|necessary|business|one|makes|auditor|services|possible|call|updates|elastic|recomputation|scalable|fixedsized|overheads|enhancement|research|huge|dynamic|results|actual|users|enhanced|longer|demonstrate|support|party|higher|drawbacks|update|updates|common|provider|missing|auditor|every|types|blocks|concerns|although|service|significantly|existing|applications|big|called|experimental|entire|number|authorized|proof|theoretical|reduce|large|work|overhead|lower|schemes|finegrained|propose|physically|provide|anyone|opens|overheads|signature|direct|bls|file|era|causes|authenticator|puts|trusted|certain|small|capital|data|possession|existence|several|cloud|cloud|payasyougo|updating|major|dramatically|communication|verification|infrastructure|new|already|done|formal|fixedsize|requests|basic|potentially|frequent|cause|storage|media|transactions|computing|security|allows|process|social|verified|control|also|third|various|cloud|challenge|file
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Trusted third party|Data security|Computer science|Computer security|Computer network|Service provider|Dynamic data|Data integrity|Big data|Cloud storage|Distributed computing|Cloud computing
+references:89553247|1600255172|1802540854|1977367431|1996948011|2014238766|2014239329|2014698831|2019672983|2027703952|2040193872|2069667482|2079493184|2081416313|2102881299|2123069643|2125858711|2132027883|2133282616|2154729038|2159176867
+
+
+id:2080213453
+title:A hybrid approach for scalable sub-tree anonymization over big data using MapReduce on cloud
+year:2014
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Surya Nepal
+author organization:Centre for Information  Communication Technologies, Commonwealth Scientific and Industrial Research Organisation, Cnr Vimiera and Pembroke Rodas Marsfield, NSW 2122, Australia
+author id:2157563740|
+author name:Chi Yang
+author organization:University of Technology Sydney
+author id:2569503714|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2918226872|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:big|fulfill|privacysensitive|improves|scalability|generalization|issues|subtree|approach|evaluation|poor|valuing|efficiency|parallelization|propose|thereby|processing|requires|subtree|algorithms|components|scheme|two|gain|specialization|ways|fall|bug|together|anonymize|sets|suffers|efficient|approaches|one|lacking|combines|data|computation|preservation|certain|adopted|kanonymity|anonymization|data|concerned|cloud|mapreduce|cloud|anonymization|either|high|demonstrates|experiment|widely|often|hybrid|individually|largescale|privacy|scalability|provisioned|public|design|tds|resources|approaches|existing|parameter|performance|short|handling|services|significantly
+venue name:Journal of Computer and System Sciences
+venue id:141020589
+venue type:J
+document type:Journal
+study fields:Data mining|Data set|Computer science|Data anonymization|Provisioning|Information privacy|Big data|Computation|Cloud computing|Scalability
+references:1503506375|1656486128|1971774955|1979005794|1989135185|2012835681|2019376841|2038873345|2077179394|2081416313|2087092764|2107927452|2118944554|2119738171|2121740667|2132678785|2134167315|2134894205|2135581534|2142406320|2144326136|2151930506|2157355837|2159024459|2160036998|2161030490|2164649498|2164812149|2170247462|2171332293|2950858762
+
+
+id:2081302971
+title:A cloud-based framework for Home-diagnosis service over big medical data
+year:2015
+author information:[
+author name:Wenmin Lin
+author organization:Nanjing University
+author id:2899769890|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2918226872|
+author name:Zuojian Zhou
+author organization:Nanjing University
+author id:2654557969|
+author name:Chang Liu
+author organization:University of Technology
+author id:2618900431|
+]
+abstract:cluster|named|references|proposal|scalability|record|judge|similar|efficiency|servicea|hadoop|distributed|index|analysis|diseasesymptom|propose|system|developing|computed|probably|achieve|concurrent|global|example|offline|challenges|search|cloudbased|get|urgent|situation|gives|infected|address|servicethe|could|implementing|makes|services|possible|prototype|selfcaring|records|help|building|framework|massive|lucenebased|adopted|scalable|medical|becoming|data|historical|presented|implement|including|selfcaring|protection|kind|diagnosis|users|important|especially|daily|demonstrate|rises|support|records|challenges|illnesssimilar|provided|privacy|storage|speed|scalability|aging|running|design|designed|highly|big|figure|disease|implementation|homediagnosis|lattice|service|well
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Computer science|Computer data storage|Medical record|Big data|Database|Speedup|Cloud computing|Scalability
+references:1970173979|1974648336|1989135185|1992191167|1994531552|1995522051|1999702719|2010204931|2025105111|2037598904|2043144130|2055663575|2061997675|2080213453|2081416313|2116148009|2117466692|2118875948|2121269968|2123845384|2124644390|2126029446|2126685743|2127495420|2138080682|2140811298|2152437528|2162016415|2163515128|2163576504|2169393967
+
+
+id:2081416313
+title:A Scalable Two-Phase Top-Down Specialization Approach for Data Anonymization Using MapReduce on Cloud
+year:2014
+author information:[
+author name:Xuyun Zhang
+author organization:Huazhong University of Sci.  Technol
+author id:2984224892|
+author name:Laurence T. Yang
+author organization:Huazhong University of Sci  Tech
+author id:2960555670|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:concerns|software|privacysensitive|scalability|approach|via|evaluation|improved|number|twophase|using|efficiency|large|way|require|analysis|propose|innovative|bringing|thereby|generalization|specialization|achieve|tools|increases|electronic|share|phases|anonymize|sets|accordance|within|approaches|jobs|health|tremendously|services|many|computation|framework|insufficiency|certain|techniques|kanonymity|scalable|data|used|tolerable|cloud|mapreduce|cloud|anonymization|time|results|group|making|commonly|like|experimental|widely|users|demonstrate|preserving|largescale|topdown|private|records|privacy|scale|scalability|elapsed|preservation|accomplish|design|highly|big|requirements|process|tds|deliberately|satisfy|data|approaches|anonymizing|existing|due|challenge|concretely|category|significantly|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Algorithm design|Computer science|Data anonymization|Distributed algorithm|Distributed database|Information privacy|Big data|Database|Scalability|Cloud computing|Distributed computing
+references:192814132|1656486128|1967831627|1976860187|1979005794|1987633617|1989135185|2014238766|2019672983|2038873345|2096480010|2097745829|2100257623|2105746252|2107927452|2108409407|2118944554|2121740667|2134894205|2135581534|2139205321|2142406320|2144326136|2156243434|2159024459|2161030490|2164812149|2173213060
+
+
+id:2082132605
+title:An Upper-Bound Control Approach for Cost-Effective Privacy Protection of Intermediate Dataset Storage in Cloud
+year:2011
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2155983813|
+]
+abstract:parent|upper|approach|analyzing|evaluation|model|order|still|issue|large|satisfied|layer|analysis|propose|traditional|analyze|intermediate|valuable|recomputing|protection|datasets|long|layer|encryption|encrypt|measure|poses|compared|disclosure|may|necessary|efficient|decomposed|heuristic|leveraged|decreases|stored|information|dataset|addressing|data|encrypting|cloud|high|amounts|migrated|results|intensive|guaranteed|hidden|new|need|tree|costly|parties|overall|designs|demonstrate|private|costeffective|accommodated|privacy|mixed|malicious|protected|deduce|amount|requirements|cost|original|identify|bound|implementation|argue|storing|way|encrypted|neither|datasets|risk|along|avoid|significantly|applications
+venue name:IEEE International Conference on Dependable, Autonomic and Secure Computing
+venue id:2755108967
+venue type:C
+document type:Conference
+study fields:Information theory|Data mining|Heuristic|Upper and lower bounds|Computer science|Decision tree model|Encryption|Information privacy|Private information retrieval|Database|Cloud computing
+references:192814132|1503015977|1918373107|2022079499|2039272976|2080844952|2102239128|2103128343|2107927452|2114414562|2114835420|2119067110|2119141511|2127172683|2134167315|2142406320|2154107289|2154259588|2161030490|2164649498|2911978475
+
+
+id:2099797605
+title:An Iterative Hierarchical Key Exchange Scheme for Secure Scheduling of Big Data Applications in Cloud Computing
+year:2013
+author information:[
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chengfei Liu
+author organization:University of Technology
+author id:2144108974|
+author name:Yun Yang
+author organization:Swinburne University of Technol
+author id:2154388108|
+author name:Rajiv Ranjan
+author organization:ICT Centre, Inf. Eng. Lab., CSIRO, Sydney, Australia
+author id:2005115202|
+author name:Dimitrios Georgakopoulos
+author organization:ICT Centre, Inf. Eng. Lab., CSIRO, Sydney, NSW, Australia
+author id:2252115663|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:big|encryption|experimental|without|concern|offer|sacrificing|twophase|based|efficiency|background|distributed|investment|come|schemes|cbhke|analysis|propose|exchange|system|key|environment|hierarchical|providing|layerbylayer|scheme|achieve|direct|flexibility|timeconsuming|security|adoption|low|ake|based|key|ike|efficient|namely|services|data|computation|advantages|ccbke|symmetrickey|novel|essential|predecessors|data|theoretical|environments|available|secure|cloud|zero|payasyougo|high|brings|major|hierarchical|scheduling|dramatically|newgeneration|directly|computing|results|infrastructure|new|virtualization|level|iterative|becomes|longer|proposed|exchange|internet|demonstrate|authenticated|pricepeople|deployed|computing|security|paper|design|applications|dataintensive|costeffectiveness|cost|aims|previous|resources|control|schemes|technology|extraordinary|existing|superior|cloud|well|strategy
+venue name:Trust, Security And Privacy In Computing And Communications
+venue id:2626753082
+venue type:C
+document type:Conference
+study fields:Internet Key Exchange|Key distribution|Key exchange|Computer security|Computer science|Authenticated Key Exchange|Computer network|Cloud computing security|Utility computing|Cloud testing|Cloud computing|Distributed computing
+references:1537652141|1574314127|1755636270|1772901473|1868922675|1964942601|1980901365|1989135185|1996948011|1998784354|2007909731|2032749214|2036260704|2055665937|2099787804|2103128343|2108343462|2119028650|2128612770|2140919237|2147072284|2253199766
+
+
+id:2111621062
+title:A CSMA-based approach for detecting composite data aggregate events with collaborative sensors in WSN
+year:2011
+author information:[
+author name:Chi Yang
+author organization:University of Western Australia
+author id:2569503714|
+author name:Kaijun Ren
+author organization:University of Defense Technology
+author id:2640374731|
+author name:Zhimin Yang
+author organization:Shandong University
+author id:2161768681|
+author name:Peng Gong
+author organization:Anhui Wenda Information and Technology College, Hefei, 231201, China
+author id:2617759390|
+author name:Chang Liu
+author organization:Swinburne University of Technology
+author id:2617811562|
+]
+abstract:application|empirical|changing|without|composite|suppression|spatial|events|temporal|failure|order|algorithm|reduce|efficiency|ad|overhead|volumes|monitoring|node|processing|compression|hoc|algorithms|study|collaboratively|unsuccessful|technique|networks|local|world|member|costly|event|relationship|compared|detection|side|may|caused|discussed|makes|queries|lead|answer|information|certain|data|community|use|run|used|research|gains|high|transmission|time|rewriting|new|widely|query|real|lossless|significant|maintaining|rein|incurs|proposed|techniques|sensor|demonstrate|potentially|dangerous|show|technique|storage|aggregate|computing|station|carried|aggregate|previous|unnecessary|monitor|wsn|nodes|performance|wireless|time|base
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:Event monitoring|Spatial analysis|Base station|Computer science|Data sharing|Sensor fusion|Real-time computing|Wireless ad hoc network|Wireless sensor network|Distributed computing|Lossless compression
+references:1551118287|1568630508|1987854975|2041696089|2086688839|2105036947|2105885988|2109957006|2118958806|2122304282|2126711172|2128749719|2129619380|2138108989|2149519261|2151082831|2154721480|2176466527
+
+
+id:2124589379
+title:A collaborative trust model of firewall-through based on Cloud Computing
+year:2010
+author information:[
+author name:Zhimin Yang
+author organization:Shandong University
+author id:2161768681|
+author name:Lixiang Qiao
+author organization:Shandong University at Weihai
+author id:2134225799|
+author name:Chang Liu
+author organization:The University of Western Australia
+author id:2618900431|
+author name:Chi Yang
+author organization:University of Western Australia
+author id:2925118738|
+author name:Guangming Wan
+author organization:Shandong University at Weihai
+author id:2112370704|
+]
+abstract:data|simulation|historical|approach|three|domains|compatible|shows|dynamically|estimate|context|dynamic|model|different|models|based|successfully|collaborative|domains|develop|traditional|environment|present|environment|trust|access|studied|reliability|policies|computing|measurement|local|outperformances|result|malicious|security|influences|verify|definition|policies|value|considers|effectiveness|carried|robust|break|blocks|control|technology|existing|proposed|firewall|cloud|risk|firewallthrough|signal|transaction|entity|coordinated
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:Firewall (construction)|Computer security|Computer science|Context model|Computational trust|Security policy|Application software|The Internet|Distributed computing|Scalability|Cloud computing
+references:2156683901
+
+
+id:2133003537
+title:Search pattern leakage in searchable encryption: Attacks and new construction
+year:2014
+author information:[
+author name:Chang Liu
+author organization:Beijing Engineering Research Center of Massive Language Information Processing and Cloud Computing Application, School of Computer Science and Technology, Beijing Institute of Technology, Beijing 100081, China
+author id:2949784807|
+author name:Liehuang Zhu
+author organization:School of Computer Science, Beijing Institute of Technology, Beijing
+author id:2137519435|
+author name:Mingzhong Wang
+author organization:School of Computer Science Beijing Institute of Technology Beijing 100081 China
+author id:2119032568|
+author name:Yu-An Tan
+author organization:Beijing Engineering Research Center of Massive Language Information Processing and Cloud Computing Application, School of Computer Science, Beijing Institute of Technology, Beijing, China
+author id:2956911781|
+]
+abstract:called|scenarios|remote|realworld|number|hiding|knowledge|resultant|based|using|still|issue|method|schemes|uncover|underlying|feasibility|inefficient|become|statistical|scheme|methods|experiments|classical|pattern|two|result|leak|capability|search|known|encryption|attack|searchable|maintains|address|efficient|data|adversary|searching|information|groupingbased|dataset|first|data|keywords|construction|secure|cloud|outsource|keyword|new|develop|searchable|users|important|untrusted|proposed|demonstrate|present|party|since|leakage|concrete|applied|show|security|transform|auxiliary|construction|pattern|allows|effectiveness|queries|weaker|guarantees|existing|encrypted|third|oblivious|achieved|user
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Multiple encryption|Client-side encryption|Computer security|Computer science|Encryption|40-bit encryption|Probabilistic encryption|On-the-fly encryption|Filesystem-level encryption|56-bit encryption
+references:1511886987|1539859404|1988374166|2014022156|2032127253|2038988507|2076147741|2076623138|2087173276|2117740674|2120976781|2123845384|2131043660|2132257180|2145426052|2147929033|2152516507|2161214567|2404098708
+
+
+id:2163372296
+title:Privacy-Preserving Layer over MapReduce on Cloud
+year:2012
+author information:[
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Chang Liu
+author organization:University of Technol
+author id:2618900431|
+author name:Surya Nepal
+author organization:CSIRO, ICT Centre
+author id:2157563740|
+author name:Wanchun Dou
+author organization:Nanjing University
+author id:2155983813|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:employ|frameworks|privacysensitive|scenarios|companies|tasks|handle|costeffectively|propose|fail|system|aggravated|among|access|utility|scattered|layer|costeffective|encryption|subsequent|power|protect|based|sets|dynamical|privacypreserving|prototype|recovered|framework|powerful|information|economical|adopted|features|hugevolume|data|paper|cloud|developed|mapreduce|cloud|well|computational|given|like|widely|preserve|mining|sharing|users|techniques|ease|everincreasing|privacy|preservation|computing|common|salient|provides|dataprocessing|ensures|big|process|requirements|infrastructural|considerably|resources|data|control|approaches|concerns|abundant|processed|mapreduce|due|corresponding|various|cloud|organizations|existing
+venue name:International Conference on Cloud and Green Computing
+venue id:2754925037
+venue type:C
+document type:Conference
+study fields:Data analysis|Data-intensive computing|Computer science|Encryption|Information privacy|Big data|Database|Privacy software|Scalability|Cloud computing
+references:192814132|1217794466|1713648379|1976860187|1989135185|2010929544|2014238766|2031533839|2032749214|2038873345|2059900053|2097745829|2105746252|2106289562|2107927452|2115016714|2118944554|2119244393|2119738171|2127172683|2134167315|2135171231|2135581534|2139205321|2142406320|2157355837|2159024459|2161030490|2161229593|2164649498|2165589425|2171593127
+
+
+id:2166992478
+title:Fuzzy keyword search on encrypted cloud storage data with small index
+year:2011
+author information:[
+author name:Chang Liu
+author organization:Beijing Lab of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing 100081, China
+author id:2949784807|
+author name:Liehuang Zhu
+author organization:School of Computer Science, Beijing Institute of Technology, P. R. China
+author id:2137519435|
+author name:Longyijia Li
+author organization:Beijing Lab of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing 100081, China
+author id:2156295325|
+author name:Yuran Tan
+author organization:Beijing Lab of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing 100081, China
+author id:2226384650|
+]
+abstract:number|experiment|far|reduce|large|edit|index|schemes|system|provide|thereby|size|exact|overheads|greatly|much|become|set|scheme|range|search|encryption|encrypt|supports|reduces|keywords|makes|l|people|stored|traditional|ratio|data|keywords|cloud|feasible|keyword|communication|results|making|ensure|format|published|less|searchable|users|outsourcing|relatively|present|support|errors|allow|distance|searching|show|best|storage|search|paper|task|exact|fuzzy|amount|spelling|length|demanding|approaches|improvement|usability|encrypted|corresponding|suitable|fuzzy|reducing
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Edit distance|Keyword density|Data mining|Wildcard|Information retrieval|Computer science|Fuzzy logic|Fuzzy set|Encryption|Cloud storage|Cloud computing
+references:1496797353|1502927489|1562932228|1590405063|1605699871|2105914527|2108343866|2147929033|2161214567
+
+
+id:2189613552
+title:Efficient Searchable Symmetric Encryption for Storing Multiple Source Data on Cloud
+year:2015
+author information:[
+author name:Chang Liu
+author organization:Beijing Eng. Res. Center of Massive Language Inf. Process.  Cloud Comput. Applic., Beijing Institute of Technol., Beijing, China
+author id:2930804345|
+author name:Liehuang Zhu
+author organization:Beijing Eng. Res. Center of Massive Language Inf. Process.  Cloud Comput. Applic., Beijing Institute of Technol., Beijing, China
+author id:2137519435|
+author name:Jinjun Chen
+author organization:University of Technol
+author id:2170756005|
+]
+abstract:provider|centers|advanced|owners|experimental|facilitated|encryption|entire|without|offer|number|merge|proof|advantages|efficiency|index|distributed|sensitive|schemes|propose|outsourced|distributes|force|greatly|much|access|primitive|enterprise|pattern|global|distribution|local|search|notion|encrypt|searchable|cryptographic|enables|maintains|sources|userside|efficient|subsequent|many|scheme|adversary|centralization|report|information|symmetric|novel|addressing|searchable|data|several|implicitly|source|cloud|afterwards|keyword|results|making|learns|searchable|longer|rigorous|especially|outsourcing|individually|files|demonstrate|largescale|assume|mdssse|privacy|storage|scalability|computing|security|indexes|provider|hence|allows|cost|original|sse|built|disclosing|risks|encrypted|due|multidatasource|build|cloud|user|eg|existing
+venue name:Trust, Security And Privacy In Computing And Communications
+venue id:2626753082
+venue type:C
+document type:Conference
+study fields:Symmetric-key algorithm|Client-side encryption|Source data|Computer security|Computer science|Computer network|Cryptographic primitive|Encryption|On-the-fly encryption|Database|Scalability|Cloud computing
+references:1502708590|1539859404|1542059364|1988374166|2001154722|2011212169|2014465787|2016575873|2086763678|2103966159|2131043660|2131123432|2146828512|2147929033|2152516507|2184702105|2341111334
+
+
+id:2526481299
+title:Efficient searchable symmetric encryption for storing multiple source dynamic social data on cloud
+year:2017
+author information:[
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2901539297|
+author name:Liehuang Zhu
+author organization:School of Computer Science, Beijing Institute of Technology, Beijing
+author id:2137519435|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:provider|dsse|advanced|owners|experimental|facilitated|encryption|entire|without|offer|tablet|number|merge|proof|advantages|efficiency|separately|devices|index|distributed|sensitive|schemes|propose|etc|outsourced|force|pervasive|greatly|much|access|primitive|pattern|global|distribution|local|search|notion|encrypt|searchable|cryptographic|enables|maintains|sources|userside|efficient|subsequent|many|scheme|adversary|centralization|report|information|symmetric|novel|addressing|searchable|data|implicitly|networking|source|afterwards|dynamic|keyword|results|making|reasonable|learns|often|mdsdsse|searchable|longer|rigorous|especially|outsourcing|individually|files|demonstrate|largescale|assume|dynamic|records|privacy|storage|scalability|computing|security|indexes|provider|hence|allows|cost|original|built|social|disclosing|multiple|mobile|risks|encrypted|due|multidatasource|build|cloud|user|chatting|existing
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Symmetric-key algorithm|Computer science|Computer network|Encryption|Cryptographic primitive|Adversary|Data file|Database|Cost efficiency|Scalability|Cloud computing
+references:1502708590|1539859404|1542059364|1662751975|1988374166|2008247739|2011212169|2014465787|2016575873|2019672983|2033165262|2035282278|2052544413|2063575624|2086763678|2103966159|2108590723|2131043660|2131123432|2131307433|2132257180|2133003537|2146828512|2147929033|2152516507|2184702105|2189613552|2271163303|2341111334|2404098708|2414102663|2472177816|2898477690
+
+
+id:2556413364
+title:Open Issues in Scheduling Microservices in the Cloud
+year:2016
+author information:[
+author name:Maria Fazio
+author organization:uNIVERSITY OF MESSINA
+author id:2120420179|
+author name:Antonio Celesti
+author organization:uNIVERSITY OF MESSINA
+author id:1545067761|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+author name:Chang Liu
+author organization:Newcastle University
+author id:2920871942|
+author name:Lydia Chen
+author organization:(IBM Research)
+author id:2171217820|
+author name:Massimo Villari
+author organization:uNIVERSITY OF MESSINA
+author id:1999297885|
+]
+abstract:architectures|software|developers|together|available|main|cloud|microservices|cloud|discusses|model|reliability|computing|controlling|work|distributed|article|technologies|adopting|authors|components|independent|challenges|applied|scalability|increases|architecture|allows|set|datacenter|microservicesbased|advantages|application|build|deploying|discuss
+venue name:IEEE Cloud Computing
+venue id:2499224501
+venue type:J
+document type:Journal
+study fields:Architecture|Cloud systems|Computer science|Scheduling (computing)|Internet of Things|Software|Microservices|Operating system|Scalability|Cloud computing|Distributed computing
+references:1924994176|1979361375|1984712701|2063623408|2075174112|2103981209|2117690659|2129753516|2135089498|2143773524|2289646227|2401687993|2461531175|2478910470|2550529331|2556088991
+
+
+id:2963726751
+title:Privacy-Knowledge Modeling for the Internet of Things: A Look Back
+year:2016
+author information:[
+author name:Charith Perera
+author organization:Open University
+author id:2135791204|
+author name:Chang Liu
+author organization:CSIRO
+author id:2963926051|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+author name:Lizhe Wang
+author organization:China University of Geoscience
+author id:2137263951|
+author name:Albert Y. Zomaya
+author organization:Sydney university
+author id:698114488|
+]
+abstract:data|privacy|iot|cloud|computing|threats|ability|potential|us|knowledgediscovery|give|address|things|understand|significant|posed|activities|better|trade|even|future|preferences|must|internet|applications
+venue name:IEEE Computer
+venue id:178916657
+venue type:J
+document type:Journal
+study fields:World Wide Web|Computer security|Computer science|Internet of Things|Knowledge modeling|Cloud computing
+references:1982672864|1987996813|1990995885|2008017476|2023075424|2024176214|2032233621|2045431290|2053037259|2068849277|2108692244|2110180806|2120552021|2133018917|2152107884|2170722426|2395077506
+
+
+id:1990509304
+title:External integrity verification for outsourced big data in cloud and IoT
+year:2015
+author information:[
+author name:Chang Liu
+author organization:University of Technology Sydney
+author id:2618900431|
+author name:Chi Yang
+author organization:University of Technology Sydney
+author id:2569503714|
+author name:Xuyun Zhang
+author organization:University of Technol
+author id:2984224892|
+author name:Jinjun Chen
+author organization:University of Technology Sydney
+author id:2170756005|
+]
+abstract:big|increasingly|achievements|bring|security|integrity|problem|recent|efficiency|things|methodologies|schemes|owners|forth|analysis|years|developments|provide|attracted|analyze|outsourced|securitywe|providing|compare|privacy|two|motivations|current|among|proliferation|problem|approaches|topics|one|data|possible|picture|computation|context|future|increasing|qualities|summarize|measurements|adopted|becoming|data|concerned|problemefficient|almost|authenticatorbased|several|main|cloud|tremendous|research|cloud|analytics|view|major|generated|representative|results|verification|needs|illustrate|widely|summarizing|becomes|important|external|especially|techniques|internet|part|aspects|iot|computing|security|related|interest|factor|big|introduce|multiple|data|also|concerns
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Big data processing|Data security|Computer security|Computer science|Internet of Things|Cloud computing security|Data integrity|Analytics|Big data|Cloud computing
+references:44164607|89553247|1594668186|1600255172|1802540854|1970225139|1979519462|1980981922|1991640619|1994788755|1996948011|2000461888|2008137090|2014238766|2014239329|2014698831|2019672983|2021035032|2023757840|2027703952|2040193872|2042182508|2047781619|2069667482|2078656587|2079493184|2080213453|2081416313|2083257807|2093537476|2099797605|2102881299|2104382170|2104560855|2105746252|2123069643|2124994175|2132027883|2133282616|2144140331|2159176867|2950097208|2952067930
+
+
+id:2334400369
+title:Interacting multiple model-based human motion prediction for motion planning of companion robots
+year:2015
+author information:[
+author name:Donghan Lee
+author organization:University of California
+author id:2411330056|
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:mpc|data|numerous|desirable|autonomous|developed|challenging|approach|robot|immukf|problem|solution|safety|interacting|estimate|model|robots|predicted|simulations|horizon|finite|proposes|facilitating|estimation|planning|modelunscented|accompany|prediction|sensor|position|companion|speed|states|paper|predict|behavior|applications|takes|based|demonstrated|human|planner|effectiveness|motion|kalman|multiple|motion|problem|socially|predictive|control|comfort|formulated|superior|framework|performance|filter|requirements|humancompanion|humans|account
+venue name:International Symposium on Safety, Security, and Rescue Robotics
+venue id:2736142216
+venue type:C
+document type:Conference
+study fields:Motion planning|Computer science|Simulation|Model predictive control|Planner|Kalman filter|Human motion|Robot|Finite horizon|Hidden Markov model
+references:1521365818|1963649406|2038115217|2051410615|2059993653|2088604406|2110795172|2113856781|2138728841|2149716029|2150832435|2276431864
+
+
+id:2486655702
+title:Distributed target localization using a group of UGVs under dynamically changing interaction topologies
+year:2016
+author information:[
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Shengbo Eben Li
+author organization:Tsinghua University
+author id:2153516613|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:localization|latestinandfullout|called|ugv|changing|consistency|different|dissemination|estimate|filtering|algorithm|method|lifo|probability|distributed|posterior|dynamically|simulations|distributions|contains|likelihood|size|among|environment|switching|undirected|frequently|disseminate|neighboring|measurement|proved|reduces|demonstrated|latest|measurements|lifobased|density|within|union|sends|connected|filter|information|statistics|consensusbased|available|network|dbf|centralized|transmission|time|function|buffer|static|individual|finite|bayesian|comparing|unmanned|linearly|topologies|condition|true|ground|exchange|position|ugvs|vehicles|scale|network|burden|protocol|paper|relies|observations|derived|effectiveness|position|multiple|transmit|approaches|filters|pair|target|topologies|converges|interaction|significantly|presents
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Computer science|Control theory|Information exchange|Control engineering|FIFO and LIFO accounting|Network topology|Kalman filter|Dissemination|Ground vehicles|Probability density function|Finite time
+references:1820162952|2004735830|2015408690|2031372653|2044079487|2047842258|2099175737|2101847234|2105906326|2112441941|2113267809|2125052758|2142549694|2160643434|2162524281|2165744313
+
+
+id:2517805037
+title:Dynamical tracking of surrounding objects for road vehicles using linearly-arrayed ultrasonic sensors
+year:2016
+author information:[
+author name:Jiaying Yu
+author organization:Tsinghua University
+author id:2512601555|
+author name:Shengbo Eben Li
+author organization:Tsinghua University
+author id:2153516613|
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Bo Cheng
+author organization:Tsinghua University
+author id:2674628992|
+]
+abstract:localization|smaller|advanced|objects|extended|tracking|approach|ultrasonic|road|model|specifically|surrounding|using|method|traditional|driver|obtained|object|systems|triangle|fuse|found|participants|measurements|compared|kalman|detection|step|sensors|filter|entering|certain|arrayed|environments|developed|selectively|centralized|traffic|new|orientations|linearly|proposed|especially|sensor|leaving|crucial|assistance|area|paper|validated|designed|accurate|incorporating|effectiveness|distances|chance|multiple|factors|ranging|superior|sensors|performance|conduct|filter|stable|consists|presents
+venue name:IEEE Intelligent Vehicles Symposium
+venue id:2756192179
+venue type:C
+document type:Conference
+study fields:Ultrasonic sensor|Computer vision|Extended Kalman filter|Advanced driver assistance systems|Tracking system|Video tracking|Ranging|Artificial intelligence|Engineering|Fuse (electrical)|Tracking error
+references:1967589529|1988404737|1991752086|2013097588|2018296638|2066486090|2080133185|2103654976|2120062182
+
+
+id:2558776914
+title:Parallel Interacting Multiple Model-Based Human Motion Prediction for Motion Planning of Companion Robots
+year:2017
+author information:[
+author name:Donghan Lee
+author organization:University of California
+author id:2411330056|
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Yi-Wen Liao
+author organization:University of California
+author id:2239273583|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:mpc|interacting|simulation|desirable|autonomous|developed|nonlinear|approach|robot|shown|safety|estimate|model|robots|results|predicted|utilized|based|using|successfully|horizon|finite|propose|facilitating|planning|accompany|prediction|overall|systematically|simultaneously|position|account|pimmukf|companion|technique|two|states|planning|paper|parallel|predict|behavior|takes|demonstrated|human|planner|effectiveness|kalman|requirements|motion|socially|multiple|predictive|control|also|velocity|comfort|filter|superior|framework|performance|consists|modelunscented|approach|humans|novel
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Motion planning|Computer science|Control theory|Model predictive control|Control engineering|Human motion|Kalman filter|Robot|Finite horizon|Nonlinear model|Trajectory
+references:1513629660|1521365818|1963649406|1992225177|2008185123|2015030512|2038115217|2051410615|2055254373|2059993653|2073787051|2110795172|2112510830|2113856781|2123487311|2140542425|2141664020|2149716029|2150832435|2276431864|2334400369|2411321320|2416022643|2470964598
+
+
+id:2605022719
+title:Feature analysis and selection for training an end-to-end autonomous vehicle controller using deep learning approach
+year:2017
+author information:[
+author name:Shun Yang
+author organization:Jilin University
+author id:2759217625|
+author name:Wenshuo Wang
+author organization:University of California
+author id:2895851438|
+author name:Chang Liu
+author organization:Jilin University
+author id:2439677823|
+author name:Weiwen Deng
+author organization:University of California
+author id:2906900215|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:functions|frameworks|tested|experimental|scenarios|nonlinear|three|different|contribution|experiment|roadrelated|usually|racing|reduce|generalizability|roadside|using|large|skyrelated|deep|effects|selection|analyze|evaluate|requires|frameworks|cnn|endtoend|networks|two|open|vehicle|lot|feature|ability|policies|categories|takes|gives|convolutional|controller|set|sets|one|data|computation|single|framework|powerful|removed|complicated|first|data|approximate|used|autonomous|learningbased|second|features|time|controllers|results|selected|train|image|test|cost|widely|labeled|driving|car|improve|guideline|collect|simulator|useful|classify|trained|neural|importance|show|vehicles|training|investigate|indispensable|influences|design|controller|included|process|limited|approaches|performance|due|uses|roadsiderelated
+venue name:IEEE Intelligent Vehicles Symposium
+venue id:2756192179
+venue type:C
+document type:Conference
+study fields:Control theory|Feature selection|Feature (computer vision)|Convolutional neural network|Artificial intelligence|Test data|Engineering|Deep learning|Artificial neural network|Machine learning|Pattern recognition (psychology)
+references:1686810756|1903127635|1934410531|2119112357|2133233905|2155893237|2342840547|2413904250|2414919120|2531915888|2559767995|2569298377
+
+
+id:2609213041
+title:Measurement Dissemination-Based Distributed Bayesian Filter Using the Latest-In-and-Full-Out Exchange Protocol for Networked Unmanned Vehicles
+year:2017
+author information:[
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Shengbo Eben Li
+author organization:University of California
+author id:2153516613|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:localization|ugv|consistency|different|via|newly|neighbors|locally|dissemination|estimate|moving|respectively|method|lifo|probability|exchanges|distributed|posterior|received|utilizes|two|distributions|likelihood|indoor|environment|algorithms|undirected|guarantee|disseminate|measurement|local|proved|nonintermittent|reduces|demonstrated|latestinandfullout|measurements|latest|lifobased|set|density|within|strategies|filter|stored|statistics|available|dbf|protocol|transmission|time|function|robots|static|individual|finite|bayesian|sequentially|history|unmanned|linearly|condition|true|ground|exchange|sensor|fixed|position|ugvs|vehicles|scale|size|sonar|network|burden|paper|disseminationbased|derived|fused|effectiveness|types|position|fuses|transmit|estimated|multiple|mobile|experimentally|pair|target|existing|converges|sensors|significantly|presents
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Control theory|Network topology|FIFO and LIFO accounting|Sonar|Dissemination|Engineering|Fuse (electrical)|Bayesian filtering|Probability density function|Mobile robot
+references:101015759|1820162952|1975013860|1986600281|1991202354|2015408690|2031372653|2044079487|2047842258|2050386482|2062074596|2096300742|2099175737|2105906326|2109369909|2111314210|2113267809|2125052758|2127821072|2133754447|2145854207|2160643434|2165363188|2165744313
+
+
+id:2734607619
+title:Distributed Bayesian filters for multi-vehicle network by using Latest-In-and-Full-Out exchange protocol of measurements
+year:2017
+author information:[
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Shengbo Eben Li
+author organization:Tsinghua University
+author id:2153516613|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:latestinandfullout|ugv|simulation|approach|consistency|different|newly|locally|dissemination|estimate|filtering|moving|respectively|method|lifo|probability|exchanges|distributed|posterior|received|localization|utilizes|two|distributions|likelihood|size|algorithms|undirected|guarantee|neighboring|measurement|local|proved|nonintermittent|reduces|demonstrated|measurements|latest|lifobased|set|density|within|filter|consisting|stored|statistics|data|consensusbased|available|dbf|network|centralized|disseminationbased|protocol|transmission|time|presented|function|buffer|communication|static|individual|finite|bayesian|sequentially|comparing|history|unmanned|linearly|condition|true|ground|exchange|sensor|fixed|position|full|ugvs|vehicles|scale|network|burden|paper|fused|effectiveness|types|position|fuses|transmit|estimated|approaches|pair|target|existing|converges|significantly|presents
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Control theory|Computer science|Vehicle networks|FIFO and LIFO accounting|Network topology|Real-time computing|Ground vehicles|Fuse (electrical)|Probability density function|Bayesian probability|Finite time
+references:101015759|1820162952|2004735830|2015408690|2031372653|2044079487|2047842258|2050386482|2101847234|2105906326|2113267809|2125052758|2127821072|2141263318|2162524281|2486655702
+
+
+id:2734677449
+title:Learning a deep neural net policy for end-to-end control of autonomous vehicles
+year:2017
+author information:[
+author name:Viktor Rausch
+author organization:University of California
+author id:2438295867|
+author name:Andreas Hansen
+author organization:University of California
+author id:2268666919|
+author name:Eugen Solowjow
+author organization:Hamburg University of Technology
+author id:2224052529|
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Edwin Kreuzer
+author organization:Hamburg University of Technology
+author id:2514851142|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:reason|handengineered|data|recognition|used|autonomous|nonlinear|frontfacing|path|text|net|directly|commands|based|maps|regress|require|deep|explicit|functions|present|object|algorithms|compare|neural|trained|frequently|endtoend|vehicles|deployed|networks|network|planning|computer|ability|camera|behavior|pixel|human|lane|highly|processing|convolutional|controller|detection|steering|sensors|driver|framework|performance|speech
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Motion planning|Object detection|Computer vision|Control theory|Control theory|Convolutional neural network|Computer science|End-to-end principle|Time delay neural network|Artificial intelligence|Deep learning|Artificial neural network
+references:104184427|1955857676|2095705004|2163605009|2964043796
+
+
+id:2736079647
+title:Model predictive control-based target search and tracking using autonomous mobile robot with limited sensing domain
+year:2017
+author information:[
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+]
+abstract:mpc|considered|tracking|approach|robot|path|optimization|model|moving|reduce|using|method|models|handle|propose|simulations|planning|approximated|timeinvariant|domain|utilize|explicitly|range|autonomously|measurement|target|search|computes|detection|angle|civilian|demonstrated|kalman|linear|problem|predictive|computation|filter|measurements|first|angle|use|intermittent|twostep|autonomous|used|reference|function|modified|military|robots|important|proposed|ground|sensor|solving|equipped|differentiable|burden|numerical|due|applications|track|considers|effectiveness|sensing|original|motion|limited|mobile|control|bellshaped|target|target
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Motion planning|Computer science|Control theory|Model predictive control|Control engineering|Kalman filter|Robot|Optimization problem|Trajectory|Mobile robot|Computation
+references:615006660|1987736941|2000359213|2004735830|2016130656|2031445638|2044079487|2073008742|2091015187|2103817546|2120171547|2125858574|2140229973|2143088799|2145729159|2149629310|2164522996|2168516607|2516604945|2517805037
+
+
+id:2895528158
+title:Scene Understanding in Deep Learning-Based End-to-End Controllers for Autonomous Vehicles
+year:2019
+author information:[
+author name:Shun Yang
+author organization:Jilin University
+author id:2759217625|
+author name:Wenshuo Wang
+author organization:University of California
+author id:2895851438|
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Weiwen Deng
+author organization:Jilin University
+author id:2906900215|
+]
+abstract:closedloop|frameworks|scenarios|complementary|approach|extracted|via|scene|identified|complex|visual|leveraging|pixelwise|rank|understanding|judge|knowledge|based|using|method|thus|nonlinearity|understand|deep|community|propose|input|perception|offering|complexity|cnn|providing|regions|preprocessed|controllers|affect|automatically|endtoend|two|vehicle|current|feature|map|limits|architecture|convolutional|controller|occluding|sets|framework|results|progress|certain|adopted|first|data|inputs|used|autonomous|mapbased|second|features|importance|generated|test|controllers|tests|starts|different|scenarios|predicted|new|maps|level|widely|labeled|driving|extract|proposed|techniques|scenes|parts|neural|trained|purpose|importance|crucial|contribute|show|learning|error|network|understands|recovers|interpretability|ranked|controller|contributive|determine|verified|control|intuitive|deconvolution|environment|performance|sensory|significantly
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Interpretability|Control theory|Convolutional neural network|Computer science|Visualization|Network architecture|Feature extraction|Artificial intelligence|Test data|Deep learning|Machine learning
+references:1598605393|1825675169|1849277567|1903127635|2119112357|2133233905|2141200610|2155893237|2193145675|2194775991|2288995089|2342840547|2411480514|2413904250|2524771588|2531915888|2546915671|2557283755|2559767995|2569298377|2596784518|2611430843|2613718673|2739215394|2963016445
+
+
+id:2963569498
+title:Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
+year:2016
+author information:[
+author name:Chang Liu
+author organization:University Of California
+author id:2439677823|
+author name:Jessica B. Hamrick
+author organization:University of California Berkeley
+author id:1969289907|
+author name:Jaime F. Fisac
+author organization:University of California
+author id:2056608546|
+author name:Anca D. Dragan
+author organization:University of California
+author id:2059490236|
+author name:J. Karl Hedrick
+author organization:University of California
+author id:661892873|
+author name:S. Shankar Sastry
+author organization:University
+author id:2149692785|
+author name:Thomas L. Griffiths
+author organization:University
+author id:2122351653|
+]
+abstract:improves|adaptation|evaluates|desirable|participants|required|objective|robot|realworld|replans|ongoing|experiment|safety|collaborators|order|goal|overhead|work|sensitive|adapted|planning|cognitive|actions|study|explicitly|preferring|scheme|inference|achieve|differences|robotics|unwilling|fundamental|indicates|robots|enduser|one|combines|many|partner|collaboration|levels|agent|communicate|use|anticipative|good|robotic|unable|time|dynamic|combination|need|adapt|bayesian|real|take|task|perceived|improve|adoption|next|paper|robot|behavioral|design|predict|applications|human|highly|allocation|practical|team|motion|humanrobot|intent|performance|interaction|uses|humans|significantly
+venue name:Adaptive Agents and Multi-Agents Systems
+venue id:1168671587
+venue type:C
+document type:Conference
+study fields:Teamwork|Bayesian inference|Inference|Computer science|Human–computer interaction|Artificial intelligence|Cognition|Robot|Human–robot interaction|Machine learning|Robotics
+references:266133316|1155971952|1838394841|1999633780|2002014347|2009803313|2011375074|2023594372|2043711811|2074512580|2091015187|2098499401|2104969271|2105925198|2120171547|2155502425|2170403483
+
+
+id:2028267167
+title:Predicting Search Task Difficulty at Different Search Stages
+year:2014
+author information:[
+author name:Chang Liu
+author organization:Peking University
+author id:2949093004|
+author name:Jingjing Liu
+author organization:University of South Carolina
+author id:2255820091|
+author name:Nicholas J. Belkin
+author organization:Rutgers University
+author id:682752941|
+]
+abstract:query|accurate|whole|three|number|measures|identified|finds|realtime|retrieval|issued|per|investigated|tasks|sessions|easy|system|interval|valuable|predictors|study|searchers|firstround|current|search|systems|viewed|indicate|compared|middle|necessary|right|possible|help|proceeded|information|first|searcher|documents|findings|process|dwell|used|second|points|tailoring|features|whether|different|calculated|results|difficulty|searcher|individual|behaviors|query|difficult|finished|real|differed|important|difficulty|task|perceived|prediction|relatively|support|beginning|show|point|search|behavioral|task|predict|end|make|personalizing|also|performance|round|stages|time|user
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Dwell time|Data mining|Search engine|Information retrieval|Computer science|End point|Artificial intelligence|Search analytics|Machine learning|Personalization
+references:116361307|208548429|1602958214|1861856015|1971206868|1981261334|2000574324|2006202170|2007750197|2008251177|2022187513|2028690179|2059873455|2064515432|2069091827|2070204737|2079168273|2094612320|2099391294|2104255729|2123937625|2124318441|2130900715|2137366811|2143445498|2145781566|2150494128|2155355283|2161598049|2164734124
+
+
+id:2038231053
+title:Helping identify when users find useful documents: examination of query reformulation intervals
+year:2010
+author information:[
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Jacek Gwizdka
+author organization:Rutgers University
+author id:1982371591|
+author name:Jingjing Liu
+author organization:Rutgers university
+author id:2492001620|
+]
+abstract:indicator|findings|users|used|qris|found|pages|examining|documents|results|defined||new|behaviors|kind|containing|query|unit|contains|longer|reformulation|focused|interval|useful|study|session|document|least|qri|pages|two|content|duration|result|search|total|found|saving|behavioral|viewed|demonstrated|behavior|webbased|compared|characterized|variables|explore|one|queries|spent|suggest|querying|queries|consecutive|associated|time|significantly|user
+venue name:Information Interaction in Context
+venue id:1193622546
+venue type:C
+document type:Conference
+study fields:World Wide Web|Information retrieval|Computer science
+references:208548429|1488214280|2006551346|2007804691|2022187513|2052658973|2057323446|2061503185|2096946253|2099391294|2122841972|2123937625|2124318441|2134131174|2143445498|2149978445|2152314154|2163987313|2164734124|2284349988
+
+
+id:2040016440
+title:What does time constraint mean to information searchers
+year:2014
+author information:[
+author name:Chang Liu
+author organization:Peking University
+author id:2764584512|
+author name:Fan Yang
+author organization:Peking University
+author id:2699835745|
+author name:Yu Zhao
+author organization:Peking University
+author id:2663468323|
+author name:Qin Jiang
+author organization:Peking University Beijing China
+author id:2495544650|
+author name:Lu Zhang
+author organization:Peking University
+author id:2663969782|
+]
+abstract:thought|considered|participants|constraints|without|evaluation|experiment|would|preliminary|tasks|knowledge|ntc|affect|confident|two|search|found|asked|relationship|participants|performance|explore|positive|tc|conditions|showed|constraint|complete|constraints|upon|influence|perception|assessment|results|acquired|new|given|need|less|worse|users|remarkable|task|conducted|influenced|needed|affective|searching|states|search|anticipation|experience|confidence|also|suggested|performance|time|user|significantly
+venue name:Information Interaction in Context
+venue id:1193622546
+venue type:C
+document type:Conference
+study fields:Mood|Information retrieval|Computer science|Anticipation|Cognitive psychology|Artificial intelligence|Affect (psychology)|Perception|Time constraint|Knowledge acquisition
+references:42001192|1981261334|1983132692|2052658973|2078170084|2109176873|2145781566|2149011662|2155355283
+
+
+id:2040352946
+title:Identifying queries in the wil
+year:2010
+author information:[
+author name:Jingjing Liu
+author organization:Rutgers university
+author id:2492001620|
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Jun Zhang
+author organization:Rutgers university
+author id:2589379414|
+author name:Ralf Bierig
+author organization:Rutgers University
+author id:2172236629|
+author name:Michael J. Cole
+author organization:Rutgers University
+author id:2545432222|
+]
+abstract:small|data|adequate|tested|queryrelated|precision|collected|developed|lab|entire|three|number|view|problem|realistic|identification|experiment|retrieval|unrestricted|logs|tasks|searches|based|method|typically|serverside|behaviors|analysis|important|rely|web|relatively|requires|methods|show|best|identifying|research|search|minimal|web|perhaps|search|taken|studies|behavior|identify|searches|although|querying|seeking|queries|unconstrained|single|results|able|information|user|comprehensive|clientside
+venue name:Information Interaction in Context
+venue id:1193622546
+venue type:C
+document type:Conference
+study fields:Data mining|Web search query|Metasearch engine|World Wide Web|Search engine|Information retrieval|Data analysis|Computer science|Information seeking|Web query classification|Search analytics|User studies
+references:208548429|1502525625|1981261334|1982889956|1983573987|2009142739|2039499406|2057024235|2066766178|2099513082|2116584749|2126348911|2163987313
+
+
+id:2048968070
+title:Knowledge effects on document selection in search results pages
+year:2011
+author information:[
+author name:Michael J. Cole
+author organization:the State University of New Jersey
+author id:2545432222|
+author name:Xiangmin Zhang
+author organization:Wayne State University
+author id:2108315972|
+author name:Chang Liu
+author organization:the State University of New Jersey
+author id:2589387947|
+author name:Nicholas J. Belkin
+author organization:The State University of New Jersey
+author id:682752941|
+author name:Jacek Gwizdka
+author organization:The State University of New Jersey
+author id:1982371591|
+]
+abstract:conducting|reliable|terms|rank|understanding|represented|usually|events|tasks|knowledge|similar|based|mesh|personal|indicators|terms|selection|highest|low|serp|domain|intermediate|implicit|study|document|distribution|personalization|search|low|key|participants|may|indexing|distributions|results|ranking|evidence|documents|genomics|recognition|available|click|participant|analyzed|rating|pages|links|relevance|results|potential|selected|varied|reasonably|often|failed|effects|task|knowledge|trec|useful|user|link|show|contribute|best|genomics|selecting|successful|high|match|groups|factors|rated|user|track
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data mining|Click-through rate|Personal knowledge base|World Wide Web|Information retrieval|Domain knowledge|Ranking|Computer science|Search engine indexing|Knowledge extraction|TREC Genomics|Personalization
+references:17416549|1748815599|1974360117|2048437343|2107592605|2140619391|2401584468
+
+
+id:2057024235
+title:Search behaviors in different task types
+year:2010
+author information:[
+author name:Jingjing Liu
+author organization:Rutgers university
+author id:2492001620|
+author name:Michael J. Cole
+author organization:Rutgers University
+author id:2545432222|
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Ralf Bierig
+author organization:Rutgers University
+author id:2172236629|
+author name:Jacek Gwizdka
+author organization:Rutgers University
+author id:1982371591|
+author name:Nicholas J. Belkin
+author organization:Rutgers University
+author id:682752941|
+author name:Jun Zhang
+author organization:Rutgers university
+author id:2589379414|
+author name:Xiangmin Zhang
+author organization:Rutgers university
+author id:2108315972|
+]
+abstract:personalization|decide|retrieval|four|types|tasks|goal|indicators|journalism|eye|etc|level|usefulness|implicit|participated|differences|document|students|search|taken|indicate|regular|completion|decision|suggest|controlled|tailors|meet|results|associated|information|undergraduate|reports|task|evidence|several|used|lab|judgments|influence|shown|whether|different|needs|including|individual|behaviors|varied|particular|often|towards|users|type|task|useful|sources|behaviors|searching|twentytwo|paper|types|characteristics|investigation|time|user|account|taking
+venue name:ACM/IEEE Joint Conference on Digital Libraries
+venue id:1169258207
+venue type:C
+document type:Conference
+study fields:Fixation (psychology)|Information needs|Information retrieval|Journalism|Task analysis|Computer science|Eye tracking|Task completion|Multimedia|Personalization
+references:208548429|1548128919|1933176878|1997313105|1999937266|2000432130|2006551346|2007804691|2052361732|2052658973|2095929692|2102693936|2118678035|2137684321|2143445498|2145781566|2150494128|2151592910|2164734124
+
+
+id:2058540530
+title:Task and user effects on reading patterns in information search
+year:2011
+author information:[
+author name:Michael J. Cole
+author organization:the State University of New Jersey
+author id:2545432222|
+author name:Jacek Gwizdka
+author organization:The State University of New Jersey
+author id:1982371591|
+author name:Chang Liu
+author organization:the State University of New Jersey
+author id:2589387947|
+author name:Ralf Bierig
+author organization:The State University of New Jersey
+author id:2172236629|
+author name:Nicholas J. Belkin
+author organization:The State University of New Jersey
+author id:682752941|
+author name:Xiangmin Zhang
+author organization:The State University of New Jersey
+author id:2108315972|
+]
+abstract:increasingly|vary|interactive|construct|type|building|relation|relationships|contributions|complex|specifically|model|text|tasks|tasks|models|classified|classification|journalism|eye|cognitive|web|driven|processing|level|actions|implicit|systems|independent|scanning|one|two|personalization|search|current|systems|acquisition|behavior|address|may|one|analyzed|scheme|n|report|information|movement|represent|dimensions|indicator|data|several|transitions|characteristics|participant|research|different|needs|new|individual|behaviors|patterns|conducted|users|respect|task|gaze|specifically|effect|page|useful|according|show|investigate|design|studies|genomics|types|amount|constructed|patterns|groups|reading|processed|facets|investigation|user|demands|methodology
+venue name:Interacting with Computers
+venue id:23117883
+venue type:J
+document type:Journal
+study fields:Information system|Information needs|Web page|Computer science|Classification scheme|Eye tracking|Human–computer interaction|Eye movement|Cognition|Multimedia|Personalization
+references:205302905|208548429|1502525625|1531821269|1845136618|1968997318|1978867833|1981261334|1986904728|1999937266|2000432130|2004591793|2007804691|2020067207|2020150327|2022187513|2026721612|2037430351|2038231053|2048437343|2049871121|2052361732|2052658973|2059873455|2085656890|2102008085|2102693936|2113788004|2118678035|2126348911|2136120756|2136147120|2140619391|2141902457|2143445498|2150494128|2151592910|2152725628|2154843911|2155355283|2160111441|2164734124|2167442898|2319971123|2401584468|2917056928
+
+
+id:2064515432
+title:Personalization of search results using interaction behaviors in search sessions
+year:2012
+author information:[
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Nicholas J. Belkin
+author organization:Rutgers University
+author id:682752941|
+author name:Michael J. Cole
+author organization:Rutgers University
+author id:2545432222|
+]
+abstract:personalization|modeling|results|tested|collected|led|completing|analyzing|feedback|improved|experiment|retrieval|tasks|models|sessions|using|baseline|propose|relevance|system|provide|informationseeking|consistently|usefulness|methods|document|another|technique|personalized|search|web|systems|behavior|performance|wealth|preferences|goals|set|implications|queries|designing|controlled|information|standard|data|documents|findings|used|lab|uncontrolled|generated|different|results|potential|generate|predicted|offers|significant|personalize|take|improving|task|prediction|useful|user|session|searching|show|interactions|predict|experience|constrains|improvement|radically|modify|performance|application|interaction|information|user|account
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data mining|Search engine|Relevance feedback|Human–computer information retrieval|Personalized search|Semantic search|Information retrieval|Computer science|Search analytics|Concept search|Personalization
+references:208548429|1589868016|1981261334|2022187513|2038231053|2061503185|2099391294|2107592605|2113640060|2123937625|2143017621|2143445498|2150494128|2164734124|2319971123|2953320089
+
+
+id:2068756421
+title:Linking search tasks with low-level eye movement patterns
+year:2010
+author information:[
+author name:Michael J. Cole
+author organization:the State University of New Jersey
+author id:2545432222|
+author name:Jacek Gwizdka
+author organization:The State University of New Jersey
+author id:1982371591|
+author name:Ralf Bierig
+author organization:The State University of New Jersey
+author id:2172236629|
+author name:Nicholas J. Belkin
+author organization:The State University of New Jersey
+author id:682752941|
+author name:Jingjing Liu
+author organization:The State University of New Jersey
+author id:2492001620|
+author name:Chang Liu
+author organization:the State University of New Jersey
+author id:2589387947|
+author name:Xiangmin Zhang
+author organization:The State University of New Jersey
+author id:2108315972|
+]
+abstract:increasingly|adaptation|experimental|type|approach|generalized|experiment|complex|types|model|tasks|tasks|knowledge|based|using|work|benefit|eye|attributes|system|logging|behaviour|valuable|implicit|systems|study|multistream|inference|scanning|one|differences|research|plausible|personalization|across|search|current|computer|world|textoriented|relationship|movements|participants|detection|backgrounds|report|attributes|information|behaviour|population|movement|indicator|take|promise|transitions|research|suggests|realistic|motivation|directly|different||new|individual|patterns|personalization|conducted|real|onthetask|system|lack|task|infer|specifically|allow|limitation|away|show|distinct|movements|general|related|task|modelling|webbased|types|patterns|reading|argue|although|message|user|methodology|presents
+venue name:European Conference on Cognitive Ergonomics
+venue id:1194689000
+venue type:C
+document type:Conference
+study fields:Information system|Population|Task analysis|Computer science|User information|Control engineering|Originality|Human–computer interaction|Eye movement|Artificial intelligence|Personalization|Computer vision|Inference
+references:17416549|205302905|1531821269|1968997318|1999937266|2000432130|2020150327|2022187513|2052361732|2052658973|2085656890|2102008085|2102693936|2118678035|2136120756|2136147120|2143445498|2151592910|2164734124|2319971123
+
+
+id:2094612320
+title:Exploring and predicting search task difficulty
+year:2012
+author information:[
+author name:Jingjing Liu
+author organization:University of South Carolina
+author id:2255820091|
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Michael Cole
+author organization:Rutgers University
+author id:2545432222|
+author name:Nicholas J. Belkin
+author organization:Rutgers University
+author id:682752941|
+author name:Xiangmin Zhang
+author organization:Wayne State University
+author id:2108315972|
+]
+abstract:accuracy|collected|three|users|number|realtime|experiment|four|model|tasks|tasks|using|efficiency|fairly|completed|easy|models|obtained|differences|firstround|search|found|systems|done|predicting|measurements|variables|domain|controlled|help|results|report|comparable|accumulated|levels|identified|data|precision|findings|evaluated|used|lab|developed|good|participant|wholesession|results|obtain|level|behaviors|adapt|difficult|significant|users|differed|difficulty|task|prediction|user|beginning|show|point|search|behavioral|predict|genomics|end|incorporating|behavioral|looked|limited|also|distinguished|factors|performance|investigation|time|user
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data mining|Time point|Computer science|User modeling
+references:1602958214|1971206868|1981261334|2004591793|2006202170|2007750197|2008251177|2057024235|2069091827|2079168273|2104255729|2114453188|2123937625|2124318441|2130900715|2137366811|2145781566|2160111441|2161598049|2164734124
+
+
+id:2158493588
+title:Inferring user knowledge level from eye movement patterns
+year:2013
+author information:[
+author name:Michael J. Cole
+author organization:Rutgers University
+author id:2545432222|
+author name:Jacek Gwizdka
+author organization:Rutgers University
+author id:1982371591|
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Nicholas J. Belkin
+author organization:Rutgers University
+author id:682752941|
+author name:Xiangmin Zhang
+author organization:Wayne State University
+author id:2108315972|
+]
+abstract:interactive|construct|without|realtime|terms|model|documents|tasks|knowledge|models|based|using|considering|correlations|eye|cognitive|strongly|domain|study|search|acquisition|measurements|suggest|possible|queries|predictions|associated|information|movement|instance|use|selfratings|genomicsrelated|features|exploratory|presented|inferred|calculated|results|level|behaviors|patterns|task|knowledge|influenced|show|technique|effort|representation|content|paper|task|cognitive|make|process|constructed|patterns|session|reading|due|build|regression|interaction|user
+venue name:Information Processing and Management
+venue id:174847851
+venue type:J
+document type:Journal
+study fields:Data mining|Cognitive effort|Domain knowledge|Computer science|Regression analysis|Information acquisition|User knowledge|Eye movement|Interactive search|Personalization
+references:17416549|208548429|1516593374|1979630148|1986904728|1991338245|2000432130|2004089651|2004591793|2020150327|2022187513|2036152688|2048437343|2048968070|2049871121|2050744589|2052361732|2057024235|2058540530|2068756421|2072128103|2102693936|2106004777|2118678035|2123273303|2126348911|2136120756|2138292450|2151592910|2155669011|2401584468|2785046580|2911964244|2917056928
+
+
+id:2409594957
+title:Preliminary Exploration of the Effect of Time Constraint on Search Interactions on Webpages
+year:2016
+author information:[
+author name:Chang Liu
+author organization:Peking University
+author id:2630016181|
+author name:Tao Xu
+author organization:State University of New York
+author id:2504829339|
+]
+abstract:experiment|select|keystrokes|fewer|conducting|mouse|pages|accelerate|per|different|results|tasks|tasks|given|take|effects|explored|effect|page|ie|study|searching|kinds|constraint|two|speed|content|interactions|result|tend|search|library|systems|design|demonstrated|pressure|digital|types|implications|decision|reading|also|showed|clicks|constraint|time|visit|user|account
+venue name:ACM/IEEE Joint Conference on Digital Libraries
+venue id:1169258207
+venue type:C
+document type:Conference
+study fields:World Wide Web|Web page|Information retrieval|Computer science|Digital library|Time constraint
+references:208548429|1480050955|1979623751|2040016440|2078170084|2149011662
+
+
+id:2571530581
+title:Are self-assessment of search ability and performance reliable?
+year:2016
+author information:[
+author name:Chang Liu
+author organization:Peking University
+author id:2951729704|
+author name:Lu Zhang
+author organization:Peking University
+author id:2669944874|
+author name:Xiaoxuan Song
+author organization:Peking University Beijing China
+author id:2565599160|
+]
+abstract:searching|correct|answers|accuracy|participants|lab|objective|mode|abilities|evaluation|exploratory|results|tasks|understand|significant|competition|selfrated|predictedasunsureness|underestimated|prediction|difference|assessments|evaluate|thirty|study|assessed|besides|searchers|students|sometimes|search|found|asked|related|rate|low|examination|predict|examined|ability|recruited|performance|subjective|chance|implications|incorrect|overestimate|rates|wrong|tended|performance|showed|online
+venue name:Association for Information Science and Technology
+venue id:2537396833
+venue type:C
+document type:Conference
+study fields:Data mining|Self-assessment|Information retrieval|Computer science|Online search
+references:1621525304|1714008587|2030057354|2098407172|2105804178|2155669011|2163478907
+
+
+id:2790971307
+title:Personalizing Information Retrieval Using Search Behaviors and Time Constraints
+year:2018
+author information:[
+author name:Chang Liu
+author organization:Peking University
+author id:2789688266|
+author name:Jingjing Liu
+author organization:University of South Carolina
+author id:2791784030|
+author name:Zengwang Yan
+author organization:Peking University
+author id:2793664067|
+]
+abstract:findings|dwell|lab|constraints|judgments|without|influence|relationships|experiment|time|four|tasks|researching|conducted|fill|finding|studies|effects|knowing|provide|helps|conditions|usefulness|study|document|searching|show|effort|two|personalization|search|total|search|gap|predict|examined|indicate|relationship|participants|types|aims|implications|may|spent|purposes|positive|controlled|help|results|interaction|information|time|first
+venue name:Conference on Human Information Interaction and Retrieval
+venue id:2626279626
+venue type:C
+document type:Conference
+study fields:Dwell time|Information retrieval|Computer science|Personalization
+references:1979105790|1979623751|2006551346|2022187513|2040016440|2052663321|2064515432|2143445498|2149011662|2164734124|2169669347|2319586349|2322247049|2337426477|2565781821
+
+
+id:2891136108
+title:User Interactions with Search Systems
+year:2018
+author information:[
+author name:Ying-Hsang Liu
+author organization:Charles Sturt University
+author id:2193760961|
+author name:Chang Liu
+author organization:Peking University
+author id:2891313040|
+author name:Ralf Bierig
+author organization:Maynooth University
+author id:2782592641|
+]
+abstract:interactive|conference|evaluation|retrieval|understanding|specifically|recent|tasks|emphasises|human|researchers|sigir|ir|analysis|iir|system|studies|attracted|theory|systems|theory|methods|given|students|evidenced|search|course|emerging|acm|picture|taught|series|machine|information|behaviour|interests|complete|retrieval|data|research|search|area|interaction|establishment|modelling|systems|important|addressed|proposed|focused|rarely|user|aspects|development|media|information|provides|design|useroriented|studies|systemoriented|international|overview|social|thread|approaches|perspectives|interactions|user
+venue name:International Conference on the Theory of Information Retrieval
+venue id:2756630716
+venue type:C
+document type:Conference
+study fields:International relations theory|Social media|Computer science|Thread (computing)|Human–computer interaction|System development|User studies|Interactive search
+references:1967359578|1973693034|1987690005|1995311669|2003125260|2005940034|2035569891|2058540530|2092179550|2336873465|2464171116|2467256322|2476153691|2605140671|2611325507|2760073203|2765583007|2912118519
+
+
+id:2946350632
+title:The effects of perceived chronic pressure and time constraint on information search behaviors and experience
+year:2019
+author information:[
+author name:Chang Liu
+author organization:Rutgers university
+author id:2589387947|
+author name:Ying-Hsang Liu
+author organization:Charles Sturt University
+author id:2193760961|
+author name:Tom Gedeon
+author organization:Australian Nat. University
+author id:2052936527|
+author name:Yu Zhao
+author organization:Johns-Hopkins university
+author id:2954998913|
+author name:Yiming Wei
+author organization:Carnegie Mellon University
+author id:2945156317|
+author name:Fan Yang
+author organization:Johns-Hopkins university
+author id:2953700019|
+]
+abstract:contextual|frameworks|interactive|react|participants|users|setting|scrolling|experiment|would|per|knowledge|lower|characteristic|iir|analyze|actions|study|systems|searchers|examine|scanning|affect|lowerpressure|retrieval|two|speed|search|indicate|perceived|pressure|participants|higherpressure|implications|explore|necessary|within|abstract|change|filled|people|framework|showed|constraint|information|complete|numbers|experience|assessment|accelerate|different|chronic|results|given|searcher|including|individual|level|behaviors|conducted|personinsituation|pressure|significant|contributes|searched|effects|efforts|condition|measure|especially|laboratory|effect|individually|higher|questionnaire|searching|values|constraint|time|tend|design|value|characteristics|minute|reading|scale|recorded|stress|factors|suggested|time|user
+venue name:Information Processing and Management
+venue id:174847851
+venue type:J
+document type:Journal
+study fields:Information retrieval|Computer science|Scrolling|Time constraint|Perceived Stress Scale
+references:42001192|208548429|1979623751|1981261334|1982609180|2005940034|2008157795|2021777207|2035569891|2037477407|2040016440|2051435801|2071108193|2078170084|2080115115|2094612320|2109176873|2118395326|2120966432|2149011662|2155355283|2165474780|2171801645|2226233289|2333039352|2467256322|2476153691|2508601175|2565781821|2592360900|2605140671|2739860611|2740318848
+
+
+id:1520270249
+title:ObliVM: A Programming Framework for Secure Computation
+year:2015
+author information:[
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Xiao Shaun Wang
+author organization:University of Maryland-College Park
+author id:2232581694|
+author name:Kartik Nayak
+author organization:University of Maryland-College Park
+author id:2126903227|
+author name:Yan Huang
+author organization:Indiana University
+author id:2651080460|
+author name:Elaine Shi
+author organization:University of Maryland-College Park
+author id:2152052458|
+]
+abstract:oblivm|data|language|secure|expressive|obli|retaining|implement|solutions|programming|offers|new|development|comparison|develop|handcrafted|community|abstractions|graph|computation|reusable|domain|offering|competitive|programs|demonstrate|userfriendly|show|range|effort|representations|scalability|streaming|opensourcing|design|reduces|distribute|cryptographic|designed|algorithms|sizes|process|wide|efficient|bigger|libraries|rich|also|specific|framework|performance|compilation|genomic|various|oblivious|showcase|suitable|significantly|applications
+venue name:IEEE Symposium on Security and Privacy
+venue id:1163618098
+venue type:C
+document type:Conference
+study fields:Domain-specific language|Data structure|Oblivious ram|Secure multi-party computation|Streaming algorithm|Computer science|Theoretical computer science|Compiler|Secure two-party computation|Software framework
+references:54526233|148817282|173953576|203353244|1480225633|1480376833|1485800369|1486317382|1493343761|1526433049|1545698365|1567397627|1608459536|1704895987|1826277484|1971991172|1982146060|1988374166|1997775274|1997859100|2001084165|2005756274|2019891719|2024197950|2029655013|2031533839|2040168265|2041416609|2051576234|2059671515|2067392744|2081256122|2100818808|2111446139|2119948977|2120202298|2121423622|2130668197|2134340933|2158106499|2165262642|2167094273|2170616854|2172462048|2181401201|2247376876|2252820889|2255046487|2395813027|2407214464|2950073973
+
+
+id:2011870183
+title:SAC: semantic adaptive caching for spatial mobile applications
+year:2013
+author information:[
+author name:Chang Liu
+author organization:University of Maryland
+author id:2894425684|
+author name:Brendan C. Fruin
+author organization:University of Maryland
+author id:1486400937|
+author name:Hanan Samet
+author organization:University of Maryland
+author id:89934235|
+]
+abstract:accessibility|program|changing|users|number|usability|would|newsstand|model|attempts|browsing|likely|using|method|large|devices|tackled|adapted|side|submitted|system|rely|among|future|become|requires|accessible|server|log|prototyping|executed|offline|current|world|top|demonstrated|probabilistic|makes|possible|mobile|entirely|prototype|predictions|future|discretization|proposing|others|constantly|windows|shows|major|time|locationbased|pan|evaluation|gesturing|finite|query|less|modification|users|proposed|improve|prediction|cachebased|trained|idea|technique|around|network|effective|central|connections|client|predict|applications|advantage|mobile|also|zoom|heavily|decreasing|windows|recorded|easily|submits|existing|response|challenge|window|subset|applications
+venue name:Advances in Geographic Information Systems
+venue id:1140348717
+venue type:C
+document type:Conference
+study fields:Server-side|Query optimization|Client-side|Data mining|Cache|Computer science|Zoom|Web query classification|Mobile device|Probabilistic logic
+references:1520283191|1566110908|1581057789|1967321783|1973301025|1994286274|2016565203|2024678590|2033277733|2040857694|2060176381|2085010747|2086658401|2098746548|2101999582|2102842495|2116940133|2123171175|2127151074|2130284263|2132809168|2134874858|2162587626|2169618946
+
+
+id:2013315533
+title:Lightweight integration of IR and DB for scalable hybrid search with integrated ranking support
+year:2011
+author information:[
+author name:Haofen Wang
+author organization:Shanghai Jiaotong university
+author id:2124602852|
+author name:Thanh Tran
+author organization:Universität karlsruhe
+author id:2190125403|
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+author name:Linyun Fu
+author organization:Shanghai Jiao Tong University
+author id:2172232564|
+]
+abstract:triples|seamlessly|results|advanced|terms|retrieval|complex|documents|large|way|constitute|index|schemes|contains|provide|web|flexible|processing|account|semantic|algorithms|needs|scheme|methods|document|retrieval|experiments|search|challenges|rdf|structured|formalisms|many|means|address|structures|store|queries|textual|fast|increasing|associated|tightly|information|ranking|faces|exploit|leverages|return|novel|supported|scalable|data|documents|mature|several|dbpedia|annotations|used|good|features|solution|repositories|answering|indexes|keyword|inverted|typically|need|solutions|query|shall|conducted|repository|relevant|technologies|offtheshelf|take|hybrid|proposed|efficient|retrieve|present|support|allow|concrete|needed|show|scale|wikipedia|integrated|principal|database|search|integrated|effectiveness|triples|amount|quantity|manage|efficiency|environment|performance|form|management|well|integrates
+venue name:Journal of Web Semantics
+venue id:20211220
+venue type:J
+document type:Journal
+study fields:Inverted index|Data structure|Data mining|Information retrieval|Ranking|Computer science|Ranking (information retrieval)|Document retrieval|Data model|RDF|Semantic data model
+references:29172951|102708294|1484305399|1495014783|1518851315|1526116433|1565133950|1570051269|1786193469|1812636409|1875099574|1937427849|1978799369|1981159181|1987617217|2007267178|2034912561|2052151225|2066636486|2089840379|2092190183|2100408869|2106244408|2108347737|2113417702|2120911959|2140613126|2141788816|2168447177|2169624745|2170766963
+
+
+id:2022154455
+title:Reasoning with Large Scale Ontologies in Fuzzy pD* Using MapReduce
+year:2012
+author information:[
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+author name:Guilin Qi
+author organization:Southeast University
+author id:2178685138|
+author name:Haofen Wang
+author organization:Shanghai Jiaotong university
+author id:2124602852|
+author name:Yong Yu
+author organization:Shanghai Jiaotong university
+author id:2119244895|
+]
+abstract:semantics|considered|reasoning|experimental|semantics|stateoftheart|evaluation|identified|tasks|successfully|large|issue|work|considering|arise|handle|earlier|system|unique|key|optimizations|semantic|extension|inference|proved|challenges|efficient|owl|forward|prototype|owl|framework|purpose|comparable|first|scalable|data|mapreduce|solution|implemented|results|applicable|proposed|solve|applied|challenges|show|scale|best|investigate|reasoning|scalability|running|engine|fuzzy|dataintensive|move|also|existing|step|information|time
+venue name:IEEE Computational Intelligence Magazine
+venue id:104797584
+venue type:J
+document type:Journal
+study fields:Ontology (information science)|Neuro-fuzzy|Knowledge representation and reasoning|Computer science|Fuzzy logic|Model-based reasoning|Theoretical computer science|Artificial intelligence|Inference engine|Reasoning system|Semantics
+references:90363545|1535758363|1548616358|1562873493|1581901575|1974500713|1977515256|1983077505|1989009626|2008255964|2023414375|2096176691|2099052309|2133031335|2136758332|2162366707|2163580425|2173213060
+
+
+id:2041416609
+title:Automating Efficient RAM-Model Secure Computation
+year:2014
+author information:[
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Yan Huang
+author organization:University of Maryland
+author id:2651080460|
+author name:Elaine Shi
+author organization:University of Maryland
+author id:2152052458|
+author name:Jonathan Katz
+author organization:University of Maryland
+author id:2237101560|
+author name:Michael Hicks
+author organization:University of Maryland
+author id:2130756752|
+]
+abstract:addresses|called|almost|considered|achieves|secure|type|approach|stateofart|inherent|limitations|scvm|computation|leveraging|orderofmagnitude|system|suited|intermediate|compiletime|representation|rammodel|define|compared|previous|speedups|semihonest|model|computation|automated|corresponding|describe|circuitmodel|work|first
+venue name:IEEE Symposium on Security and Privacy
+venue id:1163618098
+venue type:C
+document type:Conference
+study fields:Secure multi-party computation|Computer science|Random-access machine|Intermediate language|Secure two-party computation|Distributed computing
+references:148817282|173953576|195811623|1480225633|1525975689|1545698365|1704895987|1987030611|1988374166|1997775274|1997859100|2001084165|2004154155|2011849452|2037357643|2059671515|2061619267|2067392744|2090601235|2101811680|2119948977|2122049982|2124919972|2134340933|2158106499|2247376876|2530218835
+
+
+id:2067392744
+title:Memory Trace Oblivious Program Execution
+year:2013
+author information:[
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Michael Hicks
+author organization:University of Maryland
+author id:2130756752|
+author name:Elaine Shi
+author organization:University of Maryland
+author id:2152052458|
+]
+abstract:optimal|program|type|gains|put|without|offer|property|accesses|obfuscated|hardware|similar|still|verifying|efficiency|large|method|banks|work|sensitive|memorytrace|system|provide|style|programs|traces|providing|access|oblivious|achieve|overhead|direct|giving|example|delegate|leaks|notion|security|encryption|satisfies|variables|efficient|one|oram|adversary|computation|information|describe|first|naive|attacks|bus|small|bus|data|use|transforms|several|achieves|risking|prevents|language|secure|placing|cloud|solution|obliviousness|programming|infrastructure|partitions|snooping|including|comparison|significant|users|formal|incurs|buses|infer|techniques|demonstrate|coldboot|support|leakage|oram|leverage|structurally|memory|rather|platform|computing|security|trace|provides|define|physical|compiler|allows|probing|cost|perform|attacker|control|also|guarantees|service|various|cloud|oblivious|previous|formally|existing|ram
+venue name:IEEE Computer Security Foundations Symposium
+venue id:2615919549
+venue type:C
+document type:Conference
+study fields:Oblivious ram|Physical address|Computer science|Delegate|Cryptography|Encryption|Compiler|Memory bus|Distributed computing|Cloud computing
+references:148817282|1504669610|1545698365|1581575728|1684309424|1704895987|1898399499|1988374166|1997775274|2000461888|2005756274|2005866432|2008332764|2011039300|2036601091|2037357643|2037851672|2065306547|2104647943|2106573617|2108255910|2111545894|2115175416|2116807588|2117550587|2122049982|2122167991|2128159601|2128255161|2131284883|2145846275|2148791173|2152285609|2157010176|2157859774|2162764933|2175377689|2240862428|2964133768|2978916538
+
+
+id:2110862183
+title:Automating Distributed Partial Aggregation
+year:2014
+author information:[
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Jiaxing Zhang
+author organization:Microsoft
+author id:2141329623|
+author name:Hucheng Zhou
+author organization:Microsoft
+author id:2118058200|
+author name:Sean McDirmid
+author organization:Microsoft Research
+author id:2619827610|
+author name:Zhenyu Guo
+author organization:Microsoft Research
+author id:2097628309|
+author name:Thomas Moscibroda
+author organization:Microsoft Research
+author id:139673579|
+]
+abstract:nondeterministic|dataparallel|program|problem|optimization|enable|programmers|algorithm|reduce|method|distributed|reduced|classified|opportunities|feasibility|input|insight|programs|smt|partial|evaluate|systems|code|automatically|functionality|foundation|categories|key|synthesis|enabling|necessary|efficient|missed|many|great|prototype|reducers|prone|partially|novel|standard|separate|fed|solver|scope|contexts|observe|mapreduce|partial|optimize|aggregating|spite|function|sufficient|results|us|combine|commonly|proposes|applicable|often|encoding|system|formal|functions|condition|leads|solve|final|demonstrate|however|behind|synthesizes|applied|records|importance|function|aggregation|error|transform|computing|paper|inversion|satisfiability|eligible|provides|design|hard|algorithms|monolithic|opposed|original|practical|although|tediously|derives|successively|currently|build|verifies
+venue name:Symposium on Cloud Computing
+venue id:1128043032
+venue type:C
+document type:Conference
+study fields:Nondeterministic algorithm|Computer science|Inversion (meteorology)|Automaton|Boolean satisfiability problem|Theoretical computer science|Encoding (memory)|Satisfiability modulo theories|Distributed computing
+references:1480909796|1491178396|1493893823|1494930385|1531082802|1547205936|1552077729|1573833643|1585877844|1756536912|1983587324|2006834804|2010929544|2076103176|2096695484|2101432564|2103201239|2110311336|2114067856|2114103324|2119400430|2131146089|2133612077|2137351629|2140813888|2142031898|2144344516|2160329451|2168206938|2173213060|2295244175
+
+
+id:2111446139
+title:Oblivious Data Structures
+year:2014
+author information:[
+author name:Xiao Shaun Wang
+author organization:University of Maryland-College Park
+author id:2232581694|
+author name:Kartik Nayak
+author organization:University of Maryland-College Park
+author id:2126903227|
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:T-H. Hubert Chan
+author organization:Universityof Hong Kong
+author id:2987612564|
+author name:Elaine Shi
+author organization:University of Maryland
+author id:2152052458|
+author name:Emil Stefanov
+author organization:University of California Berkeley
+author id:1986063267|
+author name:Yan Huang
+author organization:Indiana University
+author id:2651080460|
+]
+abstract:data|oblivious|used|building|allocator|broad|exhibit|weighted|asymptotically|making|including|commonly|planar|practice|patterns|degree|whose|propose|techniques|programs|algorithms|access|memory|shortestpath|distance|scheme|show|technique|localitybased|range|doubling|best|technique|two|predictability|pointerbased|graphs|known|low|design|graphs|outperform|efficient|apply|blocks|structures|oram|queries|powerful|oblivious|counterparts|maxflow|novel
+venue name:Computer and Communications Security
+venue id:1198471430
+venue type:C
+document type:Conference
+study fields:Pointer (computer programming)|Data structure|Graph|Predictability|Locality|Computer science|Cryptography|Algorithm|Theoretical computer science|Data access|Planar graph
+references:148817282|190228621|195811623|1545698365|1565007622|1581575728|1654197113|1684309424|1983067644|1988374166|1989856433|1995227741|2000461888|2005756274|2008518944|2014465787|2019356824|2024197950|2033349877|2036601091|2037357643|2041416609|2045717693|2061619267|2065306547|2067392744|2090601235|2093852772|2096379058|2108255910|2116807588|2117550587|2119948977|2121433887|2127248062|2134340933|2143020967|2149906774|2152285609|2155720185|2165262642|2167094273|2171690178|2181401201|2240862428|2401589979|2404098708|2950990663|2964133768
+
+
+id:2120911959
+title:CE2: towards a large scale hybrid search engine with integrated ranking support
+year:2008
+author information:[
+author name:Haofen Wang
+author organization:Shanghai Jiaotong university
+author id:2124602852|
+author name:Thanh Tran
+author organization:University Karlsruhe
+author id:2190125403|
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+]
+abstract:triples|seamlessly|advanced|terms|retrieval|complex|documents|large|schemes|contains|provide|web|dbpedia|processing|semantic|algorithms|needs|document|retrieval|experiments|search|rdf|structured|formalisms|many|address|queries|associated|tightly|information|ranking|leverages|novel|supported|scalable|data|indices|documents|mature|annotations|process|used|good|solution|keyword|inverted|typically|query|hybrid|conducted|technologies|hybrid|retrieve|tackle|present|allow|challenges|show|wikipedia|integrated|principal|database|effectiveness|triples|amount|also|efficiency|performance|form|mean|scale|integrates
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Web search query|Data mining|Query expansion|Information retrieval|Hybrid search engine|Computer science|Ranking (information retrieval)|Document retrieval|Concept search|RDF|Semantic data model
+references:1518851315|1565133950
+
+
+id:2136758332
+title:Fuzzy Reasoning over RDF Data Using OWL Vocabulary
+year:2011
+author information:[
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+author name:Guilin Qi
+author organization:Southeast University
+author id:2178685138|
+author name:Haofen Wang
+author organization:Shanghai Jiaotong university
+author id:2124602852|
+author name:Yong Yu
+author organization:Shanghai Jiaotong university
+author id:2119244895|
+]
+abstract:reason|data|bound|existence|rules|semantics|completeness|consistency|time|graph|best|closure|results|computational|obtain|entailment|using|degree|bdbs|propose|graph|closures|triple|relation|present|partial|full|bdb|checking|prove|computed|triple|complexity|show|interpretation|p|rdf|notions|define|generalize|derived|fuzzy|triples|set|owl|within|soundness|arbitrary|also|generalizes|increase|target|polynomial|exists|ground|vocabulary|first|extending
+venue name:Web Intelligence
+venue id:1200067787
+venue type:C
+document type:Conference
+study fields:Data mining|Fuzzy classification|Fuzzy set operations|Computer science|Fuzzy logic|Theoretical computer science|Fuzzy subalgebra|Type-2 fuzzy sets and systems|Fuzzy associative matrix|Fuzzy number|RDF Schema
+references:46656240|1562873493|1581901575|1983077505|2109792768|2139813577|2162366707|2163580425|2167289276|2171279236|2295437155
+
+
+id:2147758029
+title:GhostRider: A Hardware-Software System for Memory Trace Oblivious Computation
+year:2015
+author information:[
+author name:Chang Liu
+author organization:University of Maryland
+author id:2635941781|
+author name:Austin Harris
+author organization:University of Texas at Austin
+author id:2224185618|
+author name:Martin Maas
+author organization:University of California Berkeley
+author id:2251181534|
+author name:Michael Hicks
+author organization:University of Maryland
+author id:2130756752|
+author name:Mohit Tiwari
+author organization:University of Texas
+author id:2098720564|
+author name:Elaine Shi
+author organization:University of Maryland
+author id:2152052458|
+]
+abstract:employ|called|simulation|program|approach|observes|fix|property|formalized|even|hardware|nothing|sensitive|baseline|analysis|memorytrace|traffic|allocate|programs|access|caches|oblivious|achieve|one|codesigned|proved|reduces|executes|architecture|learn|oram|adversary|prototype|computation|single|disable|fpgabased|strategy|bus|mto|data|inputs|sometimes|mto|cloud|results|ghostrider|employing|timeswe|allocating|preserving|code|memory|show|privacy|enjoys|times|paper|obliviousness|scratchpad|rate|supporting|compiler|ensures|satisfy|multiple|also|way|outperforms|outputs|encrypted|uses|significantly|compromise|presents|ram
+venue name:Architectural Support for Programming Languages and Operating Systems
+venue id:1174091362
+venue type:C
+document type:Conference
+study fields:Oblivious ram|Architecture|Computer science|Parallel computing|Field-programmable gate array|Real-time computing|Encryption|Compiler|Program analysis|Computation|Cloud computing
+references:148817282|200081508|1519156167|1545698365|1548777816|1581575728|1647729283|1684309424|1704895987|1898399499|1973336874|1988374166|1995895256|1997775274|2005476481|2005756274|2011039300|2024197950|2036601091|2037357643|2037851672|2053832511|2065306547|2067392744|2069107692|2104647943|2108255910|2122049982|2128255161|2131284883|2134623309|2143020967|2149256534|2152285609|2160587172|2160773001|2165464232|2166247408|2175377689|2240862428|2277781126|2911450990|2950411901
+
+
+id:2192378543
+title:Efficient RDF stream reasoning with graphics processingunits (GPUs)
+year:2014
+author information:[
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2924487461|
+author name:Jacopo Urbani
+author organization:Vrije Universiteit, Amsterdam, The Netherlands
+author id:2014575037|
+author name:Guilin Qi
+author organization:Southeast University
+author id:2178685138|
+]
+abstract:algorithms|study|reasoning|show|graphics|units|approach|number|problem|amounts|stream|rdf|temporal|performance|large|problem|perform|reduced|gpus|propose|improve|processing|uses|describe
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Graphics|Programming language|Computer science|Stream reasoning|Semantic Web|Reasoning system|RDF
+references:1856065900|1899971230|2134193499|2139813577|2165633563
+
+
+id:2255046487
+title:Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness
+year:2015
+author information:[
+author name:Dana Dachman-Soled
+author organization:University of Maryland
+author id:72226276|
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Charalampos Papamanthou
+author organization:University of Maryland
+author id:283699036|
+author name:Elaine Shi
+author organization:Cornell
+author id:2152052458|
+author name:Uzi Vishkin
+author organization:University of Maryland
+author id:37726087|
+]
+abstract:incur|big|developments|quickly|accessed|observes|bank|network|obliviously|broad|model|accesses|moderate|models|goldreich|adversary|nothing|lower|reduced|distributed|sensitive|freeeither|processor|propose|constructions|multiparty|programs|access|primitive|oblivious|another|comes|logarithmic|known|cryptographic|latest|architecture|address|obfuscate|within|oram|data|adversary|model|computation|trusted|describe|standard|reveal|cpu|journal|prevents|used|secure|banks|solution|consider|communication|new|comparison|offset|practice|need|patterns|untrusted|present|party|memory|approaching|communicates|storage|network|fundamentally|malicious|general|obliviousness|parallel|securely|design|hence|allows|bank|simulating|cost|bankand|bound|multiple|ostrovsky|improvement|room|performance|due|communicating|observing|ram|applications
+venue name:International Cryptology Conference
+venue id:1153524033
+venue type:C
+document type:Conference
+study fields:Memory bank|Oblivious ram|Central processing unit|Computer science|Virtual address space|Distributed data store|Theoretical computer science|Cryptographic primitive|Processor design|Model of computation
+references:148817282|195811623|238561561|1545698365|1548777816|1554293633|1654197113|1684309424|1704895987|1988374166|1988768686|2000461888|2005476481|2005756274|2006727395|2014465787|2019356824|2036601091|2037357643|2041416609|2044599026|2051576234|2052506801|2054688000|2061619267|2091623389|2093852772|2096379058|2108255910|2120202298|2143020967|2152993997|2154838739|2155720185|2166247408|2181866527|2184905740|2188690081|2912601938|2950411901|2964133768
+
+
+id:2340605418
+title:Characterizing Long-tail SEO Spam on Cloud Web Hosting Services
+year:2016
+author information:[
+author name:Xiaojing Liao
+author organization:Georgia Institute of technology
+author id:2232242876|
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2924487461|
+author name:Damon McCoy
+author organization:New York University
+author id:2119260523|
+author name:Elaine Shi
+author organization:Cornell
+author id:2152052458|
+author name:Shuang Hao
+author organization:University Of California
+author id:2514357051|
+author name:Raheem Beyah
+author organization:Georgia Institute of technology
+author id:2303677599|
+]
+abstract:leading|highspeed|bring|competition|offer|campaigns|optimization|understanding|successfully|lower|doorway|toward|provide|seo|appearing|abuse|hosting|one|reported|search|poisoning|top|web|cloudbased|popularity|incidents|ability|include|emergence|services|characterize|discoveries|spam|first|spotlight|attacks|evidence|findings|eliminating|platforms|cloud|growing|revenue|brings|pages|monetize|implemented|keyword|results|traffic|new|insights|practice|poisoned|important|take|largescale|countermeasures|identifying|platforms|platform|effective|highlight|security|engine|provides|directories|behavior|carried|effectiveness|longtail|abusive|increase|manage|step|services
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Revenue|Internet hosting service|World Wide Web|Doorway page|Computer science|Computer security|Search engine optimization|Popularity|Cloud computing security|Cloud computing
+references:169466422|1608412409|1650881334|1843351773|1845137714|1930512120|1981004461|1984936212|2001759130|2044911211|2053377618|2066055909|2074507113|2082180526|2091692346|2119028650|2121252355|2139148100|2159710624|2209064213|2265910047|2405780168
+
+
+id:2404572461
+title:HadoopSPARQL: A Hadoop-Based Engine for Multiple SPARQL Query Answering
+year:2012
+author information:[
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+author name:Jun Qu
+author organization:Shanghai JiaoTong University
+author id:2504827971|
+author name:Guilin Qi
+author organization:Southeast University
+author id:2178685138|
+author name:Haofen Wang
+author organization:Shanghai Jiaotong university
+author id:2124602852|
+author name:Yong Yu
+author organization:Shanghai Jiaotong university
+author id:2119244895|
+]
+abstract:amount|using|description|data|semantic|resource|appeared|web|increasing|represented|framework
+venue name:Extended Semantic Web Conference
+venue id:2755653720
+venue type:C
+document type:Conference
+study fields:RDF query language|Information retrieval|Computer science|Semantic Web|SPARQL|Named graph|RDF
+references:2000656232|2026102093|2173213060|2293919922
+
+
+id:2520607150
+title:Reasoning with Large Scale OWL 2 EL Ontologies Based on MapReduce
+year:2016
+author information:[
+author name:Zhangquan Zhou
+author organization:Southeast University
+author id:2624742656|
+author name:Guilin Qi
+author organization:Southeast University
+author id:2178685138|
+author name:Chang Liu
+author organization:Carnegie Mellon University
+author id:2637714313|
+author name:Raghava Mutharaju
+author organization:Wright State University
+author id:23776778|
+author name:Pascal Hitzler
+author organization:wright state university
+author id:2343280660|
+]
+abstract:cluster|developers|extracting|experimental|thus|model|algorithm|using|large|issue|transportation|work|distributed|handle|classification|system|domain|evaluate|integrating|automatically|machines|acquiring|processing|address|linear|owl|ontologies|prototype|multimedia|terminological|report|logic|discuss
+venue name:Asia-Pacific Web Conference
+venue id:1140082307
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Data mining|Data processing|Computer science|Description logic|Biomedicine|Database|Web Ontology Language|Scalability
+references:62327733|865824876|1483357098|1580256897|2150871235
+
+
+id:2749008552
+title:Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection
+year:2017
+author information:[
+author name:Xiaojun Xu
+author organization:Shanghai Jiao Tong university
+author id:2747775172|
+author name:Chang Liu
+author organization:University Of California
+author id:2635941781|
+author name:Qian Feng
+author organization:Samsung Research America Mountain View CA USA
+author id:2222358784|
+author name:Heng Yin
+author organization:University of California
+author id:2214002380|
+author name:Le Song
+author organization:Georgia Institute of technology
+author id:2113868374|
+author name:Dawn Song
+author organization:University of California
+author id:2131252044|
+]
+abstract:functions|called|genius|stateoftheart|approach|required|evaluation|problem|inevitably|gemini|flow|case|graphmatching|generation|reduce|similar|based|images|large|plagiarism|vulnerability|propose|slow|hours|etc|rely|binary|orders|two|computer|world|embedding|firmware|detection|malware|address|many|prototype|extensive|accuracy|efficiently|novel|embeddings|margins|measuring|approximate|sometimes|research|platforms|compute|vulnerable|shows|prior|whether|implement|different|problems|new|including|minutes|adapt|real|done|graph|respect|functions|detecting|demonstrate|gemini|deep|crossplatform|code|week|neural|distance|numeric|training|learning|speed|security|similarity|task|studies|magnitude|hard|showcases|successful|aims|identify|networkbased|control|approaches|outperforms|application|time|significantly|coming|existing
+venue name:Computer and Communications Security
+venue id:1198471430
+venue type:C
+document type:Conference
+study fields:Data mining|Plagiarism detection|Computer science|Computer security|Theoretical computer science|Artificial intelligence|Deep learning|Artificial neural network|Embedding|Control flow graph|Graph embedding|Binary code|Malware|Machine learning
+references:200653874|348384746|614438062|1412775481|1445387515|1522301498|1546956568|1690253345|1875842236|1888005072|1942295288|1984978725|2012604743|2048693719|2051990174|2091939272|2107725114|2112725702|2116341502|2119812052|2124158580|2127589108|2142498761|2145056020|2151531457|2154851992|2156718197|2159156271|2170607286|2171590421|2315403234|2402144811|2406734572|2532962075|2557283755|2574017551|2576376563|2577142429|2612872092|2911738047|2950191616|2962756421
+
+
+id:2799244840
+title:Fooling Vision and Language Models Despite Localization and Attention Mechanism
+year:2018
+author information:[
+author name:Xiaojun Xu
+author organization:Shanghai Jiao Tong university
+author id:2747775172|
+author name:Xinyun Chen
+author organization:UC Berkeley
+author id:2636476533|
+author name:Chang Liu
+author organization:UC Berkeley
+author id:2635941781|
+author name:Anna Rohrbach
+author organization:UC Berkeley
+author id:2056640118|
+author name:Trevor Darrell
+author organization:UC Berkeley
+author id:2174985400|
+author name:Dawn Song
+author organization:Uc
+author id:2131252044|
+]
+abstract:adversarial|inform|language|incorporate|building|evaluation|high|vulnerable|shows|attacks|answering|whether|complex|vulnerable|adversarial|understanding|visual|model|captioning|generate|new|modular|natural|models|work|towards|dense|defenses|vision|examples|light|success|compositional|architectures|sheds|study|internal|box|investigate|two|bounding|effective|known|systems|rate|observations|question|structures|component|future|succeed|open|attacks
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Closed captioning|Question answering|Pattern recognition|Computer science|Natural language understanding|Natural language|Human–computer interaction|Artificial intelligence|Knowledge extraction|Language model|Minimum bounding box|Adversarial system
+references:1527575280|1895577753|1905882502|1931639407|1932198206|1933349210|1947481528|2097117768|2133459682|2180612164|2194775991|2274565976|2302086703|2396147015|2408141691|2517229335|2543927648|2552002300|2560730294|2564898401|2570685808|2575842049|2590523583|2593871270|2593892853|2594867206|2597425697|2604505099|2605631833|2609920186|2612637113|2613718673|2616841723|2618043096|2620038827|2625220439|2640329709|2732016772|2734506812|2736899637|2737766105|2764216487|2941205169|2949103145|2949906242|2952246170|2962749469|2963143606|2963191264|2963224792|2963383024|2963389226|2963564844|2963579811|2963630207|2963644680|2963758027|2963834268|2963857521|2963954913|2963969878|2964082701|2964091467|2964118342|2964138017
+
+
+id:2885342792
+title:Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness
+year:2019
+author information:[
+author name:Dana Dachman-Soled
+author organization:University of Maryland
+author id:72226276|
+author name:Chang Liu
+author organization:University of California
+author id:2635941781|
+author name:Charalampos Papamanthou
+author organization:University of Maryland
+author id:283699036|
+author name:Elaine Shi
+author organization:Cornell
+author id:2152052458|
+author name:Uzi Vishkin
+author organization:University of Maryland
+author id:37726087|
+]
+abstract:incur|big|developments|quickly|accessed|observes|bank|obliviously|broad|model|accesses|moderate|models|goldreich|adversary|nothing|lower|reduced|distributed|sensitive|processor|propose|multiparty|constructions|programs|access|primitive|oblivious|another|comes|logarithmic|known|cryptographic|latest|architecture|address|obfuscate|within|oram|data|acm|small|adversary|model|computation|trusted|describe|standard|reveal|cpu|prevents|used|secure|banks|solution|consider|communication|new|comparison|offset|practice|need|patterns|untrusted|present|party|memory|approaching|communicates|storage|network|fundamentally|malicious|general|obliviousness|parallel|securely|design|hence|allows|bank|simulating|cost|bound|multiple|ostrovsky|improvement|room|performance|due|oblivious|communicating|observing|ram|applications
+venue name:Journal of Cryptology
+venue id:190936789
+venue type:J
+document type:Journal
+study fields:Oblivious ram|Memory bank|Central processing unit|Secure multi-party computation|Distributed data store|Computer network|Cryptographic primitive|Theoretical computer science|Processor design|Model of computation|Mathematics
+references:148817282|188489805|195811623|238561561|1548777816|1554293633|1606096293|1654197113|1684309424|1988374166|1988768686|1994423049|2000461888|2005476481|2005756274|2010432227|2014465787|2019356824|2037357643|2041416609|2044599026|2051576234|2052506801|2054711061|2061619267|2063844956|2091623389|2093852772|2096379058|2120202298|2143020967|2152993997|2155720185|2166247408|2181866527|2184905740|2188690081|2408047244|2515029334|2912601938|2949808067|2950411901|2950990663
+
+
+id:2891621711
+title:DeepMem: Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis
+year:2018
+author information:[
+author name:Wei Song
+author organization:UC - Riverside
+author id:2971836264|
+author name:Heng Yin
+author organization:UC - Riverside
+author id:2214002380|
+author name:Chang Liu
+author organization:UC Berkeley
+author id:2635941781|
+author name:Dawn Song
+author organization:Uc
+author id:2131252044|
+]
+abstract:listtraversal|objects|collected|representation|entire|approach|model|embed|signaturebased|manipulation|knowledge|using|method|topology|way|pool|raw|recognize|propose|rely|domain|intermediate|snapshot|object|dumps|automatically|dumps|representations|experiments|search|attack|recall|operating|based|architecture|detection|robust|kernel|could|one|structures|crossvalidates|abstract|deepmem|forensics|fast|graphbased|information|novel|scalable|data|evidence|dkom|precision|several|achieves|used|vulnerable|high|implement|criminal|tag|different|kernel|generate|needs|semantically|like|kind|system|graph|important|task|parts|collect|identifying|deep|memory|neural|behaviors|show|learning|primarily|content|network|malicious|rate|process|aims|identify|hiding|reconstructs|approaches|heavily|structure|nodes|strategy|objects|existing
+venue name:Computer and Communications Security
+venue id:1198471430
+venue type:C
+document type:Conference
+study fields:Data structure|Data mining|Object detection|Direct kernel object manipulation|Memory forensics|Computer science|Computer security|Precision and recall|Artificial intelligence|Deep learning|Snapshot (computer storage)|Graph (abstract data type)
+references:5790907|1522301498|1560986436|1674910155|1966973702|1991563835|2026808932|2040527645|2048134700|2049722158|2076063813|2095705004|2102492119|2106270115|2116341502|2120286042|2126220112|2135162105|2138580357|2140908857|2151200195|2160097208|2252264945|2393319904|2399247437|2405765885|2489881394|2504609973|2557283755|2579276500|2749008552|2950191616|2953384591
+
+
+id:2945991855
+title:CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
+year:2019
+author information:[
+author name:Huichu Zhang
+author organization:Shanghai Jiao Tong University
+author id:2944799471|
+author name:Siyuan Feng
+author organization:Shanghai Jiao Tong University
+author id:2946051255|
+author name:Chang Liu
+author organization:Shanghai University
+author id:2635941781|
+author name:Yaoyao Ding
+author organization:Shanghai Jiao Tong university
+author id:2946241269|
+author name:Yichen Zhu
+author organization:Shanghai Jiao Tong university
+author id:2945488552|
+author name:Zihan Zhou
+author organization:Shanghai Jiao Tong University
+author id:2946172857|
+author name:Weinan Zhang
+author organization:Shanghai Jiaotong University
+author id:2527611484|
+author name:Yong Yu
+author organization:Shanghai Jiaotong university
+author id:2119244895|
+author name:Haiming Jin
+author organization:Shanghai Jiao Tong University
+author id:2325429219|
+author name:Zhenhui Li
+author organization:Pennsylvania State University
+author id:2098136913|
+]
+abstract:simulation|interactive|pedestrians|number|realworld|problem|terms|road|definitions|flow|based|large|thousands|samples|flexible|unique|cityflow|study|besides|methods|traffic|modern|scenario|poses|emerging|key|twenty|efficient|could|structures|learning|data|domain|agents|transportation|machine|hinders|scalable|possibilities|data|used|serve|good|motivates|faster|create|dynamic|signal|generate|scenarios|us|traffic|new|including|sumo|commonly|citywide|test|adapting|important|synthetic|success|daily|support|userfriendly|challenges|optimized|vehicles|monitoring|learning|capable|interface|life|network|fundamentally|times|relies|provides|studies|reinforcement|supporting|factor|render|algorithms|coordinating|simulator|affects|control|opensource|also|intelligent|environment|application|base
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Data structure|Traffic flow|Traffic signal|Computer science|Traffic simulator|Traffic simulation|Artificial intelligence|Intelligent transportation system|Machine learning|Reinforcement learning|Scalability|Distributed computing
+references:1999286039|2580175322|2771480814|2808810245|2809148419|2903709398
+
+
+id:2950073973
+title:Oblivious Network RAM.
+year:2015
+author information:[
+author name:Dana Dachman-Soled
+author organization:University of Maryland-College Park
+author id:72226276|
+author name:Chang Liu
+author organization:University of Maryland-College Park
+author id:2635941781|
+author name:Charalampos Papamanthou
+author organization:University of Maryland-College Park
+author id:283699036|
+author name:Elaine Shi
+author organization:University of Maryland-College Park
+author id:2152052458|
+author name:Uzi Vishkin
+author organization:University of Maryland-College Park
+author id:37726087|
+]
+abstract:incur|big|developments|quickly|accessed|observes|bank|network|obliviously|broad|model|accesses|moderate|models|goldreich|adversary|nothing|lower|reduced|distributed|sensitive|processor|propose|constructions|multiparty|programs|access|primitive|oblivious|another|comes|logarithmic|known|cryptographic|latest|architecture|address|obfuscate|within|oram|data|small|adversary|model|computation|trusted|describe|standard|reveal|several|cpu|prevents|secure|employed|banks|solution|consider|communication|wellknown|new|comparison|offset|practice|need|patterns|untrusted|present|party|memory|approaching|communicates|storage|network|fundamentally|malicious|general|obliviousness|parallel|securely|design|hence|allows|bank|simulating|cost|bound|multiple|ostrovsky|improvement|room|performance|due|communicating|observing|ram|applications
+venue name:IACR Cryptology ePrint Archive
+venue id:2764847869
+venue type:J
+document type:Repository
+study fields:Memory bank|Oblivious ram|Central processing unit|Computer science|Distributed data store|Computer network|Cryptographic primitive|Processor design|Model of computation|Obfuscation
+references:148817282|195811623|238561561|1545698365|1554293633|1606096293|1654197113|1684309424|1704895987|1988374166|1988768686|2005476481|2005756274|2006727395|2014465787|2019356824|2036601091|2037357643|2041416609|2044599026|2051576234|2052506801|2054711061|2061619267|2067392744|2091623389|2093852772|2096379058|2106797866|2108255910|2111446139|2114579918|2120202298|2143020967|2147758029|2152993997|2155720185|2166247408|2181866527|2184905740|2188690081|2189316090|2396447206|2912601938|2949808067|2950411901|2964133768
+
+
+id:2962763344
+title:Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
+year:2018
+author information:[
+author name:Matthew Jagielski
+author organization:University
+author id:2794445661|
+author name:Alina Oprea
+author organization:University
+author id:2107406691|
+author name:Battista Biggio
+author organization:University of Cagliari
+author id:1259251873|
+author name:Chang Liu
+author organization:University Of California
+author id:2635941781|
+author name:Cristina Nita-Rotaru
+author organization:University
+author id:316622382|
+author name:Bo Li
+author organization:University of California
+author id:2646002477|
+]
+abstract:upper|three|optimization|specifically|manipulate|knowledge|models|method|models|resilient|propose|provide|evaluate|requires|strong|study|statistical|range|datasets|poisoning|defense|attack|linear|predictive|health|attackers|systematic|model|automated|framework|fast|machine|extensively|first|attacks|data|process|used|domains|influence|realistic|generated|attacks|results|guarantees|new|widely|principled|estate|real|becomes|defenses|formal|effect|demonstrate|loan|deployed|convergence|countermeasures|learning|training|incentives|theoreticallygrounded|design|designed|algorithms|highly|effectiveness|deliberately|limited|introduce|bound|perform|also|regression
+venue name:IEEE Symposium on Security and Privacy
+venue id:1163618098
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Countermeasure|Data modeling|Real estate|Regression|Computer security|Computer science|Robust regression|Adversarial machine learning|Robustness (computer science)|Artificial intelligence|Machine learning
+references:9657784|54422097|290150691|1473189865|1552056088|1589713274|1664169458|1673923490|1882350379|1945616565|1968411139|1968998685|1973400823|2007562169|2033368661|2038296020|2051267297|2085261163|2095577883|2103154003|2112507308|2134063365|2144906988|2151298633|2159294971|2162552722|2167421362|2180612164|2293768274|2293844262|2296452361|2535690855|2557044351|2748789698|2767023880|2773446523|2774423163|2963857521|2963903822|2964043980|2964082701
+
+
+id:2995317100
+title:A Language for Probabilistically Oblivious Computation
+year:2020
+author information:[
+author name:David Darais
+author organization:University of Vermont
+author id:2893562273|
+author name:Ian Sweet
+author organization:University of Maryland
+author id:2768138992|
+author name:Chang Liu
+author organization:Citadel
+author id:2635941781|
+author name:Michael Hicks
+author organization:University of Maryland
+author id:2130756752|
+]
+abstract:advanced|reasoning|type|treebased|via|observed|state|work|probability|typecheck|whose|system|correlation|prior|consideration|programs|rams|discovered|access|regions|prove|differences|direct|deterministic|leaked|distribution|notion|free|art|probabilistic|implementing|one|probability|computation|observable|information|unsoundness|typeenforced|novel|use|language|source|independence|expressive|employs|obliviousness|cryptography|implement|new|ensure|visible|motivated|indirect|timing|core|involved|focused|substructural|region|support|events|memory|show|paper|obliviousness|programs|algorithms|patterns|enough|enforces|due|oblivious|presents
+venue name:Symposium on Principles of Programming Languages
+venue id:1160032607
+venue type:C
+document type:Conference
+study fields:Programming language|Observable|Cryptography|Computer science|Probabilistic analysis of algorithms|Theoretical computer science|Probabilistic logic|Core language|Substructural type system|Computation
+references:98374482|1520270249|1545698365|1572388405|1581575728|1589239973|1613874182|1969938710|1977764760|1988374166|1992868830|1997775274|2005476481|2005756274|2024197950|2027193703|2029693536|2030213839|2036601091|2041416609|2050509196|2051576234|2067392744|2071592032|2079753464|2091015169|2099137371|2105443119|2107691219|2110839939|2116469687|2116807588|2117550587|2125777958|2132808802|2141248338|2143020967|2147758029|2149209089|2151360539|2151716725|2152285609|2161290831|2166247408|2168686464|2170528665|2171690178|2220918360|2404098708|2465272687|2502685258|2529631934|2530218835|2565203757|2580401938|2899277098|2907394876|2952848955|2962780947|2996282883
+
+
+id:1972367194
+title:A design tradeoff study with monolithic 3D integration
+year:2012
+author information:[
+author name:Chang Liu
+author organization:Georgia Institute of Techonology, Atlanta, Georgia, 30332
+author id:2223919528|
+author name:Sung Kyu Lim
+author organization:(Georgia Institute of Technology, Atlanta, Georgia)
+author id:2160929926|
+]
+abstract:smaller|issues|several|different|variation|analyzed|mitr|vias|integrity|parasitics|ics|options|signal|including|tradeoffs|compared|timing|technology|intertier|transistorlevel|take|size|tsvbased|integration|styles|style|designs|demonstrate|gatelevel|challenges|gdsiilevel|global|paper|tsvs|design|studies|power|compared|monolithic|constructed|advantage|also|technology|possible|improvement|layout|existing|mig|advantages|footprint|footprint|various|explored
+venue name:International Symposium on Quality Electronic Design
+venue id:1164253245
+venue type:C
+document type:Conference
+study fields:Logic gate|Computer science|Signal integrity|Design styles|Electronic engineering|Footprint|Finite impulse response|Parasitic extraction|Electrical engineering
+references:2027712195|2048927144|2082029044|2086481541|2161129061
+
+
+id:2027384865
+title:Design and Analysis of 3D-MAPS (3D Massively Parallel Processor with Stacked Memory)
+year:2015
+author information:[
+author name:Dae Hyun Kim
+author organization:Georgia Institute of Technology, Atlanta
+author id:2163958651|
+author name:Krit Athikulwongse
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:151957914|
+author name:Michael B. Healy
+author organization:Georgia Institute of technology
+author id:2168860452|
+author name:Mohammad M. Hossain
+author organization:Georgia Institute of technology
+author id:2098801597|
+author name:Moongon Jung
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2130311285|
+author name:Ilya Khorosh
+author organization:School of Electrical  Computer Engineering, Georgia Institute of Technology, Atlanta
+author id:693963608|
+author name:Gokul Kumar
+author organization:School of Electrical  Computer Engineering, Georgia Institute of Technology, Atlanta
+author id:2104136052|
+author name:Young-Joon Lee
+author organization:School of Electrical  Computer Engineering, Georgia Institute of Technology, Atlanta
+author id:2169301460|
+author name:Dean L. Lewis
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2295833130|
+author name:Tzu-Wei Lin
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2423362049|
+author name:Chang Liu
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2223919528|
+author name:Shreepad Panth
+author organization:School of Electrical  Computer Engineering, Georgia Institute of Technology, Atlanta
+author id:2078180463|
+author name:Mohit Pathak
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2099169228|
+author name:Minzhen Ren
+author organization:School of Electrical  Computer Engineering, Georgia Institute of Technology, Atlanta
+author id:2104859063|
+author name:Guanhao Shen
+author organization:School of Computer Science, Georgia Institute of Technology, Atlanta
+author id:2133607776|
+author name:Taigon Song
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2118757071|
+author name:Dong Hyuk Woo
+author organization:Georgia Institute of technology
+author id:2228863599|
+author name:Xin Zhao
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2519651239|
+author name:Joungho Kim
+author organization:Korea Advanced Institute Of Science and Technology
+author id:2136251018|
+author name:Ho Choi
+author organization:Amkor Technology Korea
+author id:2309955746|
+author name:Gabriel H. Loh
+author organization:Georgia Institute of technology
+author id:2722433249|
+author name:Hsien-Hsin S. Lee
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2147887293|
+author name:Sung Kyu Lim
+author organization:Atlanta, Georgia
+author id:2160929926|
+]
+abstract:measured|data|simulation|usage|frequency|vias|cores|tiers|mheight|block|results|negligible|dedicated|based|using|containing|processor|facetoface|core|transfer|delay|provide|pads|mhz|nm|stacked|memory|communicates|measurement|benchmarks|eight|blocks|throughsilicon|paper|tier|parallel|w|operating|power|chip|process|built|bandwidth|technology|twotier|mhz|peak|bond|sram|describes|massively|approximately|consists|maximum|stacking
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Memory bank|Registered memory|Semiconductor memory|Memory bandwidth|Computer science|Parallel computing|Computing with Memory|Real-time computing|Conventional memory|Non-uniform memory access|Memory controller
+references:1994079201|2071208935|2086481541|2107304970|2119428232|2122636510|2124989655|2125146620|2125213532
+
+
+id:2027712195
+title:Design and analysis of 3D-MAPS: A many-core 3D processor with stacked memory
+year:2010
+author information:[
+author name:Michael B. Healy
+author organization:Georgia Institute of technology
+author id:2168860452|
+author name:Krit Athikulwongse
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:151957914|
+author name:Rohan Goel
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2225057197|
+author name:Mohammad M. Hossain
+author organization:Georgia Institute of technology
+author id:2098801597|
+author name:Dae Hyun Kim
+author organization:Georgia Institute of Technology, Atlanta
+author id:2163958651|
+author name:Young-Joon Lee
+author organization:Electrical and Computer Engineering, Georgia Institute of Technology
+author id:2169301460|
+author name:Dean L. Lewis
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2295833130|
+author name:Tzu-Wei Lin
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2423362049|
+author name:Chang Liu
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2223919528|
+author name:Moongon Jung
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2130311285|
+author name:Brian Ouellette
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2226069954|
+author name:Mohit Pathak
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2099169228|
+author name:Hemant Sane
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2224452857|
+author name:Guanhao Shen
+author organization:College of Computing; Georgia Institute of Technology; USA
+author id:2133607776|
+author name:Dong Hyuk Woo
+author organization:Georgia Institute of technology
+author id:2228863599|
+author name:Xin Zhao
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,USA
+author id:2519651239|
+author name:Gabriel H. Loh
+author organization:College of Computing; Georgia Institute of Technology; USA
+author id:2722433249|
+author name:Hsien-Hsin S. Lee
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2147887293|
+author name:Sung Kyu Lim
+author organization:Electrical and Computer Engineering, Georgia Institute of Technology
+author id:2160929926|
+]
+abstract:memoryonprocessor|memory|specifics|used|tools|running|design|implement|flow|using|fabrication|custom|also|handle|technology|analysis|sent|addons|industrial|describe|mhz|stacking
+venue name:Custom Integrated Circuits Conference
+venue id:1189675953
+venue type:C
+document type:Conference
+study fields:Computer architecture|Memory bandwidth|Computer science|Design flow|Electronic engineering|Bandwidth (signal processing)|Fabrication|Stacking
+references:2025980530|2099714261|2107304970|2157427983
+
+
+id:2059612698
+title:Full-chip multiple TSV-to-TSV coupling extraction and optimization in 3D ICs
+year:2013
+author information:[
+author name:Taigon Song
+author organization:Georgia Institute of technology
+author id:2118757071|
+author name:Chang Liu
+author organization:Broadcom Corp, Irvine, CA, USA
+author id:2223919528|
+author name:Yarui Peng
+author organization:School of ECE, Georgia Institute of Technology, Atlanta, US
+author id:2168139948|
+author name:Sung Kyu Lim
+author organization:Georgia Institute of Technology, GA
+author id:2160929926|
+]
+abstract:accurate|fullchip|source|used|coupling|integrity|shows|extraction|ics|model|unlike|signal|element|new|issue|method|level|significant|propose|becomes|tsvtotsv|tsv|cases|overall|nonnegligible|tsvs|become|study|aggressors|affect|nonneighboring|cause|investigate|parasitic|two|neighboring|effective|paper|common|studies|based|belief|highly|problem|multiple|also|inaccurate|impact|efficiently|handling|scale|reducing|existing|closest
+venue name:Design Automation Conference
+venue id:1187904452
+venue type:C
+document type:Conference
+study fields:Parasitic element|Coupling|Computer science|Effective method|Signal integrity|Electronic engineering|Chip|Three-dimensional integrated circuit
+references:1997980909|2133279383|2141647455|2161129061
+
+
+id:2061587924
+title:3D-MAPS: 3D Massively parallel processor with stacked memory
+year:2012
+author information:[
+author name:Dae Hyun Kim
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2163958651|
+author name:Krit Athikulwongse
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:151957914|
+author name:Michael Healy
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2168860452|
+author name:Mohammad Hossain
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2098801597|
+author name:Moongon Jung
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2130311285|
+author name:Ilya Khorosh
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:693963608|
+author name:Gokul Kumar
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2104136052|
+author name:Young-Joon Lee
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2169301460|
+author name:Dean Lewis
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2295833130|
+author name:Tzu-Wei Lin
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2423362049|
+author name:Chang Liu
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2223919528|
+author name:Shreepad Panth
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2078180463|
+author name:Mohit Pathak
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2099169228|
+author name:Minzhen Ren
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2104859063|
+author name:Guanhao Shen
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2133607776|
+author name:Taigon Song
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2118757071|
+author name:Dong Hyuk Woo
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2228863599|
+author name:Xin Zhao
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2519651239|
+author name:Joungho Kim
+author organization:KAIST, Daejeon, Korea
+author id:2136251018|
+author name:Ho Choi
+author organization:Amkor Technology Korea
+author id:2309955746|
+author name:Gabriel Loh
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2722433249|
+author name:Hsien-Hsin Lee
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2974027547|
+author name:Sung Kyu Lim
+author organization:Georgia Instituteof Tech, Atlanta, GA
+author id:2160929926|
+]
+abstract:none|stacking|cores|stacked|recent|fully|generalpurpose|based|using|scratch|processor|tezzaron|facetoface|resulting|benefit|contains|integration|device|density|massively|works|processor|access|multicore|power|demonstrated|architecture|chip|several|footprint|sram|logic|runs|die|throughsiliconvia|parallel|developed|fabrication|connections|involves|technology|done|amkor|core|tsv|packaging|benefits|memory|running|singlecycle|consumes|twotier|fig|technology|sram|functioning|bonding|consists|globalfoundries
+venue name:International Solid-State Circuits Conference
+venue id:1183230087
+venue type:C
+document type:Conference
+study fields:Memory bandwidth|Very long instruction word|Computer science|Massively parallel|Electronic engineering|Static random-access memory|Chip|Three-dimensional integrated circuit|Transistor|Multi-core processor|Embedded system
+references:1994079201|2027712195|2071208935|2086481541|2100516830|2107304970|2119428232|2122636510|2125146620|2125213532|2131413854
+
+
+id:2068545846
+title:Design method and test structure to characterize and repair TSV defect induced signal degradation in 3D system
+year:2010
+author information:[
+author name:Minki Cho
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology,Atlanta,USA
+author id:2071659997|
+author name:Chang Liu
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2223919528|
+author name:Dae Hyun Kim
+author organization:Georgia Institute of Technology, Atlanta
+author id:2163958651|
+author name:Sung Kyu Lim
+author organization:Atlanta, Georgia
+author id:2160929926|
+author name:Saibal Mukhopadhyay
+author organization:Georgia Institute of technology
+author id:2124047594|
+]
+abstract:fullchip|degradation|ics|signal|moderate|fidelity|demonstrates|test|proposed|reconfigures|improve|tsvs|present|selfrepair|circuit|detect|recovery|alone|paper|ic|variations|design|resistive|shorts|stand|physical|effectiveness|structure|simulations|tsv|due|well|methodology|presents
+venue name:International Conference on Computer Aided Design
+venue id:1128132410
+venue type:C
+document type:Conference
+study fields:Computer science|Resistive touchscreen|Signal recovery|Electronic engineering|Degradation (geology)|Integrated circuit design|Three-dimensional integrated circuit|Physical design|Signal fidelity|Test structure
+references:2001870828|2132155220|2143502515|2157427983|2161129061|2163273848
+
+
+id:2133279383
+title:Full-chip TSV-to-TSV coupling analysis and optimization in 3D IC
+year:2011
+author information:[
+author name:Chang Liu
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2223919528|
+author name:Taigon Song
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2118757071|
+author name:Jonghyun Cho
+author organization:School of Electrical Engineering, Korea Advanced Institute of Science and Technology, Korea
+author id:2147093040|
+author name:Joohee Kim
+author organization:School of Electrical Engineering, Korea Advanced Institute of Science and Technology, Korea
+author id:2283538632|
+author name:Joungho Kim
+author organization:School of Electrical Engineering, Korea Advanced Institute of Science and Technology, Korea
+author id:2136251018|
+author name:Sung Kyu Lim
+author organization:Electrical and Computer Engineering, Georgia Institute of Technology
+author id:2160929926|
+]
+abstract:tsvcausedcoupling|smaller|fullchip|alleviate|coupling|timing|ics|buffer|results|flow|based|timing|count|significant|analysis|two|tsvtotsv|improving|proposed|analysis|tsv|tsvs|count|much|problems|show|cause|effective|paper|si|noise|pared|studies|com|namely|approaches|despite|model|shielding|gate|reducing|insertion
+venue name:Design Automation Conference
+venue id:1187904452
+venue type:C
+document type:Conference
+study fields:Coupling noise|Gate count|Coupling|Electromagnetic shielding|Computer science|Electronic engineering|Chip|Three-dimensional integrated circuit|Electrical engineering|Silicon
+references:1997980909|2082029044|2142868932|2142896025|2161129061|2171990275
+
+
+id:2141067179
+title:Signal integrity analysis and optimization for 3D ICs
+year:2011
+author information:[
+author name:Chang Liu
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2223919528|
+author name:Taigon Song
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2118757071|
+author name:Sung Kyu Lim
+author organization:Electrical and Computer Engineering, Georgia Institute of Technology
+author id:2160929926|
+]
+abstract:big|introduces|therefore|forcedirected|alleviate|issues|approach|coupling|path|integrity|sizes|tsvcaused|ics|ics|couplingnoise|refinement|different|signal|results|tsvkoz|using|considering|experimental|impact|reduced|alleviating|analysis|maintaining|tsvtotsv|delay|proposed|tsv|placement|problems|sizing|larger|placementrefinement|critical|achieve|show|area|two|effective|total|paper|si|studies|chip|problem|performing|approaches|koz|reduction|reduction|methodology
+venue name:International Symposium on Quality Electronic Design
+venue id:1164253245
+venue type:C
+document type:Conference
+study fields:Coupling|Computer science|Signal integrity|Electronic engineering|Chip|Through-silicon via|Sizing|Three-dimensional integrated circuit|Electrical engineering|Silicon|Signal integrity analysis
+references:2082029044|2100776929|2120129706|2142868932|2161129061|2171990275
+
+
+id:2152735669
+title:Variation-aware clock network design methodology for ultra-low voltage (ULV) circuits
+year:2011
+author information:[
+author name:Xin Zhao
+author organization:School of ECE, Georgia Institute of Technology, 777 Atlantic Dr. NW, Atlanta, GA 30332, U.S.A
+author id:2519651239|
+author name:Jeremy R. Tolbert
+author organization:School of ECE, Georgia Institute of Technology, 777 Atlantic Dr. NW, Atlanta, GA 30332, U.S.A
+author id:2144764188|
+author name:Chang Liu
+author organization:School of ECE, Georgia Institute of Technology, 777 Atlantic Dr. NW, Atlanta, GA 30332, U.S.A
+author id:2223919528|
+author name:Saibal Mukhopadhyay
+author organization:School of ECE, Georgia Institute of Technology, 777 Atlantic Dr. NW, Atlanta, GA 30332, U.S.A
+author id:2124047594|
+author name:Sung Kyu Lim
+author organization:School of ECE, Georgia Institute of Technology, 777 Atlantic Dr. NW, Atlanta, GA 30332, U.S.A
+author id:2160929926|
+]
+abstract:play|controls|achieves|frequency|maximize|high|results|ulv|circuits|energy|method|experimental|lower|methods|clock|sensitive|propose|circuits|important|achieving|even|power|ultralow|skew|higher|lowenergy|f|roles|show|networks|network|variations|paper|low|design|operating|highly|compared|minimize|process|robust|max|voltage|variationaware|existing|maximum|comparable|methodology|slew|presents
+venue name:International Symposium on Low Power Electronics and Design
+venue id:1120728542
+venue type:C
+document type:Conference
+study fields:Clock signal|Clock gating|Clock network|Computer science|Real-time computing|Electronic engineering|Clock skew|Low voltage|Skew|CPU multiplier|Low-power electronics
+references:2056539138|2111372718|2121147609|2140367260|2170331607
+
+
+id:2339835718
+title:Full-Chip Signal Integrity Analysis and Optimization of 3-D ICs
+year:2016
+author information:[
+author name:Taigon Song
+author organization:School of Electrical and Computer Engineering Georgia Institute of Technology
+author id:2118757071|
+author name:Chang Liu
+author organization:Broadcom Corp, Irvine, CA, USA
+author id:2223919528|
+author name:Yarui Peng
+author organization:School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, (GA), USA
+author id:2168139948|
+author name:Sung Kyu Lim
+author organization:Atlanta, Georgia
+author id:2160929926|
+]
+abstract:fullchip|source|used|coupling|integrity|shows|parasitics|extraction|model|problems|unlike|signal|new|issue|method|impact|significant|extraction|analysis|nonneighboring|propose|becomes|tsvtotsv|nonnegligible|tsv|overall|tsvs|level|become|aggressors|affect|cause|phenomenon|investigate|two|neighboring|effective|common|paper|noise|studies|based|throughsiliconvia|belief|multiple|perform|also|delay|inaccurate|existing|efficiently|handling|scale|reducing|closest
+venue name:IEEE Transactions on Very Large Scale Integration Systems
+venue id:37538908
+venue type:J
+document type:Journal
+study fields:Inductance|Capacitance|Coupling|Effective method|Computer science|Signal integrity|Substrate coupling|Electronic engineering|Chip|Parasitic extraction
+references:1997980909|2017619982|2034359272|2059612698|2082029044|2100516830|2133279383|2141647455|2161129061
+

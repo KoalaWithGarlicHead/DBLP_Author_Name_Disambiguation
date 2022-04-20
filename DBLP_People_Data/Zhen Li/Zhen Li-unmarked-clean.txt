@@ -1,0 +1,2938 @@
+
+id:1888120179
+title:The backscattering characteristics of wetland vegetation and water-level changes detection using multi-mode SAR: A case study
+year:2016
+author information:[
+author name:Meimei Zhang
+author organization:Key Laboratory of Digital Earth, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; Beijing China
+author id:2200305785|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Jianmin Zhou
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2711857206|
+author name:Panpan Tang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2164229351|
+]
+abstract:multimode|accuracy|opticalbased|retrieval|imagery|understanding|spatial|temporal|waterlevel|gauge|using|environmental|reed|marshes|index|distributed|stations|analysis|envisat|extraction|backscattering|insight|induce|provide|difference|stage|fields|study|scheme|seasonal|reliability|distribution|long|lband|sparsely|alos|palsar|validation|low|variations|river|polarization|mechanism|validate|verticallypolarized|set|particularly|necessary|may|density|initial|abstract|insar|liaohe|hydrological|herbaceous|characterize|aperture|radar|interferometric|conditions|series|incidence|cband|data|states|used|horizontal|shown|different|polarizations|acquired|combination|demonstrates|conducted|capture|tool|synthetic|scattering|coefficient|useful|coastal|full|identifying|angles|sar|normalized|additional|changes|vegetation|integrated|wetlands|effective|structural|altimetry|enhance|characteristics|considerably|patterns|estimated|also|rice|instead|factors|intensity|better|detailed|suitable|time
+venue name:International Journal of Applied Earth Observation and Geoinformation
+venue id:171169652
+venue type:J
+document type:Journal
+study fields:Radar|Altimeter|Vegetation|Interferometric synthetic aperture radar|Hydrology|Synthetic aperture radar|Backscatter|Remote sensing|Wetland|Normalized Difference Vegetation Index|Geography
+references:1998666501|1999240492|2024353704|2049719492|2119622709|2123283900|2130204909|2141414687|2147556351
+
+
+id:1991754707
+title:SAR and optical images registration using shape context
+year:2010
+author information:[
+author name:Lei Huang
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2671900547|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Rui Zhang
+author organization:George Mason University
+author id:2311616003|
+]
+abstract:cband|overlaying|image|remote|developed|extracted|scene|improved|features|view|edge|introduced|context|written|different|results|developed|digit|image|new|images|dilated|using|successfully|shape|arising|robustness|system|multisensor|registration|matched|demonstrate|object|preprocessed|applied|sar|kinds|two|matching|found|airborne|taken|noise|adjustments|hand|sensing|process|robust|featurebased|suppress|sensors|context|accuracy|consists|certain|novel|optical|register
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Computer science|Edge detection|Synthetic aperture radar|Remote sensing|Robustness (computer science)|Artificial intelligence|Overlay|Shape context|Computer vision|Pattern recognition|Feature extraction|Image registration|Cognitive neuroscience of visual object recognition
+references:2043035450|2057175746|2100727593|2127396267|2147555557|2160754664
+
+
+id:2012387959
+title:Coherence based analysis of distributed scatterers in the Qinghai-Tibet Plateau
+year:2013
+author information:[
+author name:Panpan Tang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2906707284|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Jianmin Zhou
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2711857206|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Juan Xu
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2678500012|
+]
+abstract:envisatasar|coherence|use|several|accuracy|ice|aperture|mainly|ds|shows|would|road|hinder|decorrelation|usually|railway|temporal|images|surface|method|occur|distributed|sensitive|permafrost|underground|improve|analyze|warming|scatterers|dimension|ground|full|tundra|synthetic|study|analytical|qinghaitibet|seasonal|sar|changes|technique|global|two|area|result|temperature|radar|physical|characteristics|interferometric|could|introduce|change|great|lead|spread|application|due|typical|first|features
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Global warming|Plateau|Radar imaging|Decorrelation|Interferometric synthetic aperture radar|Computer science|Synthetic aperture radar|Remote sensing|Coherence (physics)|Permafrost
+references:2112183468|2123632763|2152012906
+
+
+id:2018993153
+title:2D uesprit superresolution SAR imaging algorithm
+year:2010
+author information:[
+author name:Ping Zhang
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2687966757|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Quan Chen
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2302573429|
+]
+abstract:measured|data|region|simulation|available|solved|main|good|resolution|esprit|resolution|conventional|frequency|problem|fft|sufficient|function|method|obtain|phase|image|based|development|using|large|method|proposes|history|imaging|esprit|driving|provide|forces|superresolution|domain|solve|obtained|support|sar|methods|one|experiments|formation|long|transform|see|fourier|paper|aspect|transformed|harmonic|unitary|bandwidth|sinusoid|bandpass|domain|exploiting|better|radar|backscattered
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Computer vision|Radar imaging|Synthetic aperture radar|Computer science|Remote sensing|Azimuth|Fourier transform|Image formation|Fast Fourier transform|Bandwidth (signal processing)|Artificial intelligence|Image resolution
+references:2019473268|2096710051|2112101337|2114716173
+
+
+id:2030446102
+title:Improved subspace method for fully polarimetric SAR image classification
+year:2013
+author information:[
+author name:Juan Xu
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2678500012|
+author name:Zhen Li
+author organization:Institute of the Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Bangsen Tian
+author organization:Institute of the Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Quan Chen
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2302573429|
+]
+abstract:results|recognition|northern|improved|feasible|results|fully|polarimetric|selected|combination|image|method|experimental|proposes|shandong|yielded|classification|province|synthetic|proposed|yellow|leaning|evaluate|sar|learning|wishart|paper|similarity|averaged|river|validate|subspace|ism|multiple|also|performed|better|aperture|radar|supervised|accuracy|classification|delta|comparison
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Synthetic aperture radar|Computer science|Remote sensing|Polarimetric sar|Artificial intelligence|Contextual image classification|Wishart distribution|Computer vision|Radar imaging|Polarimetry|Subspace topology|Pattern recognition|Polarimetric synthetic aperture radar
+references:2065325501|2092071303|2129038850
+
+
+id:2052083068
+title:Wheat identifying in North China with RADARSAT-2 SAR data
+year:2014
+author information:[
+author name:Juan Xu
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2678500012|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+]
+abstract:hh|freemandurden|optimal|accuracy|evaluates|cover|identification|quadpolarimetric|potential|results|fully|polarimetric|selected|combination|image|method|compared|experimental|singlepolarization|synthetic|provide|evaluate|identifying|sar|show|h|decomposition|best|paper|observations|parameter|land|wheat|indicate|polarization|discriminate|hhhv|linear|data|hebei|aperture|radar|accuracy|conventional|classification|information
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Polarimetry|Interferometric synthetic aperture radar|Computer science|Synthetic aperture radar|Early-warning radar|Remote sensing|Linear polarization|Land cover
+references:2078985447|2097272115|2097419478|2126087248|2133989913|2160982437|2165937985|2171369471
+
+
+id:2068609867
+title:Mountain glacier motion change detection by satellite L-band SAR data
+year:2012
+author information:[
+author name:Jianmin Zhou
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2711857206|
+author name:Zhen Li
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2624439332|
+author name:Panpan Tang
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, Chinese Academy of Sciences, No.9 Dengzhuang South Road Haidian District, Beijing 100094, China
+author id:2906707284|
+]
+abstract:indicator|orientations|used|precipitation|features|melt|identified|sizes|balance|different|results|similar|surface|accumulation|muztag|changes|agree|analysis|important|effects|effect|therefore|alteration|gave|eleven|glaciers|sar|methods|mass|changes|direct|according|affecting|global|two|local|indicating|alos|along|parameter|yield|temperature|masses|factor|glacier|monitoring|estimating|motion|change|climate|decreasing|data|accelerated|ata|change|detailed|equilibrium|combined|movement
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Global warming|Glacier|Interferometric synthetic aperture radar|Climate change|Change detection|Computer science|Synthetic aperture radar|Remote sensing|Glaciology|Precipitation
+references:2123896593
+
+
+id:2073775993
+title:Land surface temperature estimates in the Tibetan Plateau from passive microwave observations
+year:2014
+author information:[
+author name:Jiangyuan Zeng
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2112471791|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2253060996|
+author name:Quan Chen
+author organization:Institute of Remote sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2302573429|
+author name:Haiyun Bi
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2308433581|
+author name:Pengfei Zou
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100094, China
+author id:2106814559|
+]
+abstract:named|overestimates|scanning|accuracy|developed|three|descending|cover|wellknow|retrieval|model|different|lprm|results|new|based|using|underestimates|surface|pass|presented|lst|estimation|improve|ghz|ground|conditions|strong|advanced|regions|tibetan|microwave|show|topsoil|vegetation|vertical|climatic|networks|amsre|plateau|validated|observations|parameter|temperature|land|relationship|microwave|measurements|compared|established|plateau|linear|pass|also|ascending|passive|better|brightness|located|achieved|polarized|significantly|radiometer
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Plateau|Land surface temperature|Microwave|Brightness temperature|Computer science|Remote sensing|Topsoil|Radiometer|Vegetation cover
+references:2086470215|2097801222|2100401723
+
+
+id:2073878880
+title:Surface parameters estimation using Radarsat-2 polarimetric data over wheat covered area
+year:2010
+author information:[
+author name:Quan Chen
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2302573429|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Aimin Cai
+author organization:Graduate University of Chinese Academy of Sciences
+author id:2103377448|
+author name:Bangsen Tian
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2107565733|
+]
+abstract:paper|areas|tracking|influence|growing|features|shows|agricultural|terms|imagery|fluctuate|dynamic|spatial|temporal|polarimetric|new|mapping|method|large|compared|moisture|spaceborne|backscattering|benefit|field|underground|ground|conditions|crop|twopolarization|sar|harvests|changes|satellite|vegetation|soil|two|result|challenged|throughout|polarization|power|measurements|compared|characteristics|robust|nature|efficient|one|sector|conditions|conventional|powerful|stage|lai|yields|season|information
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Soil science|Growing season|Vegetation|Satellite|Polarimetry|Crop yield|Crop|Computer science|Remote sensing|Backscatter|Water content
+references:2009522544|2078985447|2092055157|2146177950|2153124553
+
+
+id:2075522083
+title:Comparison of different methods in glacier snow line detection using the polarimetric SAR image
+year:2012
+author information:[
+author name:Lei Huang
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2671900547|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+]
+abstract:accuracy|ice|three|analyzed|areas|balance|late|roughly|calculate|defined|image|approximation|surface|excellent|accumulation|ablation|often|indicators|monitoring|easy|studies|transient|snow|interpreted|glaciers|boundary|altitude|regional|sar|line|methods|divided|mass|climatic|summer|caps|mountain|interest|variations|ablation|end|glacier|glacial|characteristics|wet|separated|climate|exactly|equal|special|change|detected|equilibrium
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Accumulation zone|Glacial period|Snow field|Glacier|Climate change|Computer science|Remote sensing|Glacier mass balance|Snow line|Snow
+references:2120878477
+
+
+id:2080822682
+title:Glacier Thickness Change Mapping Using InSAR Methodology
+year:2014
+author information:[
+author name:Jianmin Zhou
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2711857206|
+author name:Zhen Li
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Xiaobo He
+author organization:State Key Lab. of Cryospheric Sci., Cold  Arid Regions Environ.  Eng. Res. Institute, Lanzhou, China
+author id:2628410205|
+author name:Bangsen Tian
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Lei Huang
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2750336794|
+author name:Quan Chen
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2302573429|
+author name:Qiang Xing
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2920112636|
+]
+abstract:beam|thickness|highprecision|tibet|three|approach|pairs|years|mountain|sight|estimate|displacement|spatial|results|obtain|seasons|method|glacier|estimation|feasibility|synthetic|field|letter|analyze|survey|demonstrate|obtained|components|study|covering|line|show|two|exploits|considerable|along|validated|track|glacier|change|insar|china|data|interferometric|aperture|radar|variability|performance|conventional|change|deriving|multiaperture|ones|interferograms|measurements|dongkemadi|novel|first|presents
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Radar|Plateau|Glacier|Interferometric synthetic aperture radar|Synthetic aperture radar|Remote sensing|Glaciology|Spatial variability|Line-of-sight|Geology
+references:2129761372|2144594222|2145318194|2152840401|2162887771
+
+
+id:2086594363
+title:Assessment of the newest ECV soil moisture product over the Tibetan plateau using ground-based observations
+year:2015
+author information:[
+author name:Jiangyuan Zeng
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2112471791|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2253060996|
+author name:Quan Chen
+author organization:Institute of Remote sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2302573429|
+author name:Haiyun Bi
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2308433581|
+]
+abstract:products|three|variation|number|dynamics|retrieval|refinement|evaluated|exhibit|released|validation|space|merging|active|sensitive|insitu|remotely|relative|advanced|tibetan|soil|networks|two|products|indicating|plateau|measurements|established|product|set|sets|climate|data|positive|satellitebased|sensed|ecv|combined|first|essential|performs|data|used|scatterometer|adding|well|newest|results|validation|capture|moisture|less|preserve|european|important|multidecadal|effect|ground|higher|show|vegetation|insitu|observations|algorithms|agency|merged|overestimate|also|passive|outperforms|recently|better|application|variable|well
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Plateau|Soil science|Satellite|Data set|Computer science|Remote sensing|Scatterometer|Water content|Merge (version control)|Retrieval algorithm|Vegetation cover
+references:2086470215|2167731682
+
+
+id:2104651992
+title:Permafrost environment monitoring on the Qinghai-Tibet Plateau using time series ASAR images
+year:2015
+author information:[
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Panpan Tang
+author organization:University of the Chinese Academy of Sciences
+author id:2164229351|
+author name:Jianmin Zhou
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2711857206|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Quan Chen
+author organization:Key Laboratory of Digital Earth, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; Beijing China
+author id:2302573429|
+author name:Sitao Fu
+author organization:Key Laboratory of Digital Earth, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; Beijing China
+author id:2166092419|
+]
+abstract:beiluhe|advanced|focus|extracted|frost|deformation|phase|exhibited|using|closely|method|surface|active|backscattering|permafrost|conditions|images|increased|seasonal|freezethaw|cycle|long|layer|characteristic|settlement|meteorological|table|heave|meadow|db|plateau|attributed|change|many|aperture|radar|series|information|rose|first|use|quantified|main|mainly|thaw|results|thawing|researchers|affected|synthetic|sparse|qinghaitibet|sar|show|vegetation|precipitation|related|influences|derived|monitor|also|intensity|environment|freezing|coefficients|time|integrates
+venue name:International Journal of Digital Earth
+venue id:199162493
+venue type:J
+document type:Journal
+study fields:Plateau|Geomorphology|Vegetation|Active layer|Synthetic aperture radar|Remote sensing|Backscatter|Frost heaving|Geography|Permafrost|Precipitation
+references:2047029664|2092055157|2123632763|2152410078|2152657318|2169087452
+
+
+id:2120878477
+title:Glacier Snow Line Detection on a Polarimetric SAR Image
+year:2012
+author information:[
+author name:Zhen Li
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Lei Huang
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2750336794|
+author name:Quan Chen
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2302573429|
+author name:Bang-sen Tian
+author organization:Center for Earth Obs.  Digital Earth, Beijing, China
+author id:2107565733|
+]
+abstract:accurate|considered|tsl|areas|glaciology|three|extracted|mountain|relate|longobserved|estimate|defined|polarimetric|using|closely|distinguish|method|ablation|backscatter|classified|classification|ice|transient|glaciers|synthetic|study|phenomenon|two|neighboring|vector|facies|map|enables|detection|efficient|wet|analyzed|aperture|radar|ice|used|observation|shows|method|group|new|image|glaciers|tsl|correlates|important|temperate|proposed|snow|largescale|support|boundary|altitude|sar|applied|regional|line|concept|classes|altitude|facies|glacier|orientation|interesting|contrasting|typical|dongkemadi
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Geomorphology|Snow field|Radar imaging|Glacier|Synthetic aperture radar|Backscatter|Remote sensing|Glaciology|Snow line|Snow|Mathematics
+references:2099129687|2104269704|2108133558|2113458744|2129038850|2130922247|2132012856|2135624170|2150045166|2156909104|2172222671
+
+
+id:2121467971
+title:SAR superresolution imaging algorithm based on Spatially Variant Apodization
+year:2012
+author information:[
+author name:Ping Zhang
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2687966757|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Jianmin Zhou
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2711857206|
+]
+abstract:equalize|used|nonlinear|resolution|without|function|formulation|modified|signal|case|obtain|new|based|sidelobe|image|method|suppressing|spatially|lose|weight|weighting|variant|enhanced|synthetic|sidelobes|extrapolation|applies|spectrum|effect|demonstrate|examples|sva|sar|technique|technique|adaptive|paper|nyquist|develops|bandwidth|enhancing|processing|noninteger|inverse|bandwidth|analyzed|image|suppress|extrapolated|mainlobe|aperture|radar|detailed|well|reduction|reduction|apodization
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Radar imaging|Spectral density estimation|Weight function|Synthetic aperture radar|Computer science|Remote sensing|Bandwidth (signal processing)|Apodization|Nyquist–Shannon sampling theorem|Image resolution
+references:2112101337|2129986766|2152393409|2153424217
+
+
+id:2129268664
+title:The Glacier Identification using SAR Interfermetric and Polarimetric Information in Qinghai-Tibetan Plateau
+year:2008
+author information:[
+author name:Zhen Li
+author organization:Center for Earth Obs.  Digital Earth, Chinese Acad. of Sci., Beijing
+author id:2624439332|
+author name:Jianmin Zhou
+author organization:Institute of Remote, Sensing Applic. Chinese Acad. of Sci., Beijing
+author id:2711857206|
+author name:Bangsen Tian
+author organization:Institute of Remote, Sensing Applic. Chinese Acad. of Sci., Beijing
+author id:2107565733|
+author name:Chou Xie
+author organization:Institute of Remote, Sensing Applic. Chinese Acad. of Sci., Beijing
+author id:2141366279|
+]
+abstract:coherence|areas|identification|property|spatial|polarimetric|models|surface|method|pass|backscattering|important|covered|analyze|demonstrate|useful|object|full|sar|technique|variability|integrated|result|climatological|plateau|paper|repeat|coefficients|glacier|digital|elevation|qinghaitibetan|polarimetry|particularly|identify|highresolution|interferometry|also|produce|hydrological|intensity|interferometric|classification|palsar|coefficients|asar
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Glacier|Polarimetry|Interferometric synthetic aperture radar|Computer science|Synthetic aperture radar|Backscatter|Remote sensing|Interferometry|Digital elevation model|Spatial variability
+references:2078985447
+
+
+id:2133979966
+title:Comparison of ASTER GDEM and SRTM DEM in deriving the thickness change of Small Dongkemadi Glacier on Qinghai-Tibetan Plateau
+year:2011
+author information:[
+author name:Qiang Xing
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, CAS, Beijing, 100012, China
+author id:2920112636|
+author name:Zhen Li
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, CAS, Beijing, 100012, China
+author id:2624439332|
+author name:Jianmin Zhou
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, CAS, Beijing, 100012, China
+author id:2711857206|
+author name:Ping Zhang
+author organization:Key Laboratory of Digital Earth, Center for Earth Observation and Digital Earth, CAS, Beijing, 100094, China
+author id:2687966757|
+]
+abstract:usage|collected|mountain|right|experiment|topography|far|imagery|sdg|based|work|analysis|topographic|field|aster|evaluate|srtm|global|kinds|distribution|result|known|radar|map|validate|glacial|gdem|change|consistent|field|dataset|data|thickness|used|gps|shows|serious|potential|results|glaciers|new|image|including|comparison|widely|multidecadal|survey|overall|away|released|changes|cause|paper|satellite|elevation|landsat|attentions|also|dem|although|various|detected|dongkemadi
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aster (genus)|Glacier|Satellite|Computer science|Topographic map|Remote sensing|Digital elevation model|Shuttle Radar Topography Mission|Advanced Spaceborne Thermal Emission and Reflection Radiometer|Elevation
+references:2129761372
+
+
+id:2135873754
+title:Quantifying inter-comparison of the microwave emission model of layered snowpacks (MEMLS) and the multilayer dense media radiative transfer theory (DMRT) in modeling snow microwave radiance
+year:2010
+author information:[
+author name:Bangsen Tian
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2107565733|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Yanan Zhu
+author organization:Center for Earth Observation and Digital Earth, Chinese Academy of Sciences, Post Box 9718, Beijing, 100101, China
+author id:2713742411|
+author name:Quan chen
+author organization:Center for Earth Observation and Digital Earth, Chinese Academy of Sciences, Post Box 9718, Beijing, 100101, China
+author id:2302573429|
+author name:Yongqian Wang
+author organization:Institute of Remote Sensing Applications, Chinese Academy of Sciences, Post Box 9718, Beijing, 100101, China
+author id:2117134605|
+]
+abstract:stratification|sufficiently|accuracy|used|approach|multilayer|tedesco|understanding|model|geophysical|results|stability|order|waves|models|memls|using|test|models|made|widely|dmrt|extend|effects|electromagnetic|versions|following|comparisons|processing|retrieve|sensitivity|parameters|compare|meaningful|electromagnetic|fundamental|matter|two|snowpit|paper|hoar|include|inputs|definitively|determine|observation|icelayer|data|better|depth|corresponding|due|interaction
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Depth hoar|Computer science|Electromagnetic model|Remote sensing|Scattering|Radiative transfer|Electromagnetic radiation|Radiance|Snow
+references:2111951939|2115154867|2136366922|2153384447|2154675655|2155986922|2158687251
+
+
+id:2143953900
+title:A new SAR superresolution imaging algorithm based on adaptive sidelobe reduction
+year:2011
+author information:[
+author name:Ping Zhang
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2687966757|
+author name:Zhen Li
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2624439332|
+author name:Jianmin Zhou
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2711857206|
+author name:Quan Chen
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2302573429|
+author name:Bangsen Tian
+author organization:Center for Earth Observation  Digital Earth, Chinese Academy of Sciences, China
+author id:2107565733|
+]
+abstract:operate|results|experiments|show|simple|resolution|asr|paper|fourier|provides|algorithm|enhance|reduce|based|efficient|obtains|better|extrapolation|simulation|proposed|well|processing|algorithm|validity|comparing
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Computer vision|Radar imaging|Algorithm design|Computer science|Synthetic aperture radar|Remote sensing|Fourier transform|Inverse synthetic aperture radar|Extrapolation|Artificial intelligence|Image resolution
+references:2098477162|2108869125|2135891730|2152393409
+
+
+id:2147590176
+title:Non-Parameter Correlation Analysis in Polarimetric Signature and its Application to Change Detection in Polarimetric SAR
+year:2008
+author information:[
+author name:Bangsen Tian
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2107565733|
+author name:Zhen Li
+author organization:Center for Earth Obs.  Digital Earth, Chinese Acad. of Sci., Beijing
+author id:2624439332|
+author name:Yongqian Wang
+author organization:Grad. University of Chinese
+author id:2781119856|
+]
+abstract:depend|data|diversity|paper|developed|aperture|gonradsen|shown|alospalsar|complex|different|fully|polarimetric|based|new|give|statistic|method|test|probability|supposition|effective|applicable|done|et|radiometric|measure|especially|proposed|correlation|asymptotic|speckle|multilook|synthetic|statistical|analysis|signature|experiments|wishart|distribution|representation|two|diversity|capability|paper|without|nonparameter|radar|scope|polarization|equality|limits|algorithms|al|detection|texture|change|data|associated|statistics
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Computer vision|Polarimetry|Change detection|Test statistic|Speckle pattern|Synthetic aperture radar|Computer science|Remote sensing|Artificial intelligence|Covariance matrix|Wishart distribution|Statistical hypothesis testing
+references:1984295062|2121348175|2133989913
+
+
+id:2155681225
+title:A physically-based algorithm for surface soil moisture retrieval in the Tibet Plateau using passive microwave remote sensing
+year:2013
+author information:[
+author name:Jiangyuan Zeng
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2112471791|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Quan Chen
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2302573429|
+author name:Haiyun Bi
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2308433581|
+author name:Ping Zhang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2687966757|
+]
+abstract:scanning|products|tested|whole|remote|nonlinear|retrieval|assumption|model|algorithm|based|using|surface|radiative|index|stations|field|difference|requires|advanced|tibetan|microwave|soil|eliminate|plateau|dualpolarized|temperature|polarization|compared|measurements|plateau|situ|independent|sets|nasa|one|combines|consistent|single|depth|optical|data|process|official|retrieved|frequency|roughness|physicallybased|results|obtain|needs|presented|iterative|moisture|effects|transfer|ghz|ground|show|vegetation|parameter|observations|microwave|sensing|advantage|procedure|passive|brightness|uses|radiometer
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Soil science|Microwave|Optical depth|Brightness temperature|Computer science|Remote sensing|Atmospheric temperature|Algorithm|Atmospheric radiative transfer codes|Water content|Radiative transfer|Radiometer
+references:2100401723|2111282617|2167962096
+
+
+id:2592559468
+title:Scattering Property Analysis of Supraglacial Debris Using Target Decomposition on Polarimetric SAR Imagery
+year:2017
+author information:[
+author name:Lei Huang
+author organization:Chinese Academy of Sciences, Institute of Remote Sensing and Digital Earth, BeiJing, China
+author id:2669529070|
+author name:Bang-sen Tian
+author organization:Chinese Academy of Sciences, Institute of Remote Sensing and Digital Earth, BeiJing, China
+author id:2107565733|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Jian-min Zhou
+author organization:Chinese Academy of Sciences, Institute of Remote Sensing and Digital Earth, BeiJing, China
+author id:2711857206|
+]
+abstract:slightly|aperture|keqikaer|newly|mountain|terms|property|employed|debris|xbragg|polarimetric|promising|phase|images|method|surface|models|double|ablation|distributed|methods|agree|classification|analysis|observing|land|analyze|difference|completely|glaciers|larger|southern|synthetic|components|study|images|advanced|portion|satellite|melting|cbands|quantitatively|lband|increases|radar|verify|mechanism|l|dominant|polarimetric|combines|accounts|phasedarray|component|main|remains|used|developed|results|selected|widely|zones|volume|entropyalpha|scattering|considerably|sar|unclear|show|decomposition|supraglacial|area|random|total|influences|glacier|designed|tianshan|weaker|target|approximately|well|specially|attempted|presents
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Satellite|Glacier|Debris|Synthetic aperture radar|Remote sensing|Scattering|Polarimetric sar|Surface roughness|Mathematics|Decomposition
+references:1974024703|1990907218|2002266228|2036387734|2057152129|2067615318|2078985447|2084083071|2090664287|2094757617|2097272115|2098643317|2103689276|2105294988|2116520955|2117257554|2126895410|2133989913|2141424348|2164000572|2164296623|2170481611|2506541034
+
+
+id:2622632592
+title:Extraction of Glacial Lake Outlines in Tibet Plateau Using Landsat 8 Imagery and Google Earth Engine
+year:2017
+author information:[
+author name:Fang Chen
+author organization:Key Laboratory of Digital Earth, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; Beijing China
+author id:2699190949|
+author name:Meimei Zhang
+author organization:Key Laboratory of Digital Earth, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; Beijing China
+author id:2200305785|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2253060996|
+]
+abstract:floods|spurious|tested|facilitated|tibet|entire|resolution|improved|reliable|mountain|thus|complex|imagery|annual|evaluated|spatial|recent|backgrounds|google|based|mapping|images|natural|large|understand|active|opportunity|radiometric|field|size|among|warming|processing|consideration|decades|current|glaciated|lakes|study|regions|increased|methods|automatically|global|distribution|across|hazards|pressing|takes|glof|map|projects|glacial|characterized|plateau|particularly|strategies|caused|analyzed|contour|produce|heterogeneity|conditions|characteristics|series|tp|complete|yet|medical|several|heterogeneous|cloud|high|geographic|serious|elevation|potential|results|engine|detections|area|image|last|extents|need|glacial|applicable|water|efforts|demonstrate|region|largescale|lake|full|potentially|regional|applied|classes|changes|aspects|scale|earth|nonlocal|computing|provides|lakes|highly|coverage|limited|effectively|landsat|dramatic|approximately|various|scale|outburst|time
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Radiometric dating|Global warming|Plateau|Glacial lake|Glacial period|Remote sensing|Elevation|Geology|Natural hazard|Spatial distribution
+references:66352275|1853286284|1951160674|1989950083|2080455819|2094757617|2098676252|2104028907|2116040950|2130706954
+
+
+id:2767457176
+title:Soil Moisture Retrieval From SMAP: A Validation and Error Analysis Study Using Ground-Based Observations Over the Little Washita Watershed
+year:2018
+author information:[
+author name:Quan Chen
+author organization:Airborne Remote Sensing Center, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2302573429|
+author name:Jiangyuan Zeng
+author organization:and Beijing Normal University
+author id:2112471791|
+author name:Chenyang Cui
+author organization:Hohai University
+author id:2767494542|
+author name:Zhen Li
+author organization:Airborne Remote Sensing Center, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2253060996|
+author name:Kun-Shan Chen
+author organization:and Beijing Normal University
+author id:2165036821|
+author name:Xiaojing Bai
+author organization:Nanjing University of Science and Technology
+author id:2767702007|
+author name:Jia Xu
+author organization:Hohai University
+author id:2767971276|
+]
+abstract:products|leading|accuracy|resolution|ongoing|retrieval|acquisitions|released|temporal|using
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Moisture measurement|Soil science|Satellite|Remote sensing|Backscatter|Watershed|Water content|Microwave radiometry|Mathematics|Radiometer
+references:1502432503|2015294247|2026604749|2039348932|2105440553|2120116528|2123778657|2147820447|2151586007|2163642873|2167962096|2338693065|2399809112|2506587499|2547557398|2554546978|2562865472|2581185998|2588540686
+
+
+id:2768823922
+title:Quantification of Temporal Decorrelation in X
+year:2017
+author information:[
+author name:Panpan Tang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2164229351|
+author name:Wei Zhou
+author organization:Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth; Chinese Academy of Sciences; Beijing China
+author id:2627561254|
+author name:Bangsen Tian
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2107565733|
+author name:Fulong Chen
+author organization:Key Laboratory of Digital Earth Science, Institute of Remote Sensing  Digital Earth, Chinese Academy of Sciences, China
+author id:2122728365|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Guoyu Li
+author organization:State Key Laboratory of Frozen Soil Engineering, Chinese Academy of Sciences, Lanzhou, China
+author id:2769644334|
+]
+abstract:coherence|optimal|collected|areas|three|rootmeansquare|deformation|model|band|temporal|similar|successfully|quantification|considering|monitoring|permafrost|letter|seasonal|choosing|lband|inversion|prerequirements|xband|key|validate|terrasar|observation|could|insar|predictions|aperture|radar|interferometric|showed|cband|coherences|several|main|degradation|good|multitemporal|features|serious|decorrelation|results|including|synthetic|techniques|coherence|prediction|parts|ground|region|errors|world|facilitate|revealed|parameter|improved|applications|matrices|hazards|inteferometric|processes|applicability|characteristics|estimated|also|evolution|factors|ranging|proposed|restricted|typical|time|frequencies|fitting|longterm|applications
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Plateau|Decorrelation|Interferometric synthetic aperture radar|L band|Synthetic aperture radar|Remote sensing|Coherence (physics)|Interferometry|Ranging|Mathematics
+references:1990069287|2034238081|2041077637|2059665282|2104651992|2123632763|2139597788|2141414687|2143716001|2152657318
+
+
+id:2773456689
+title:Experiment and analysis of retrieving land surface parameters using polarization radar images in Genhe area of China
+year:2017
+author information:[
+author name:Quan Chen
+author organization:Institute of Remote sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2302573429|
+author name:Haoran Tao
+author organization:Xian University of Science and Technology
+author id:2775467123|
+author name:Wei Zhang
+author organization:National Disaster Reduction Center of China, MCA, Beijing, 100124, China
+author id:2548099330|
+author name:Zhen Li
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2624439332|
+author name:Ping Zhang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2687966757|
+]
+abstract:tested|inputted|focus|multi|improved|approved|poor|model|polarimetric|algorithm|height|using|images|surface|parameters|disturbance|study|soil|eliminate|two|amplify|study|inversed|analyzing|though|could|caused|model|chinese|certain|inputs|retrieved|good|result|shows|roughness|results|moisture|water|take|scattering|scientists|retrieve|relatively|parameters|errors|idea|values|vegetation|content|conclusion|inversion|parameter|supporting|satellite|inverse|alternative|geosar|factors|suppress|step|applications
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Satellite|Radar imaging|Vegetation|Polarimetry|Inversion (meteorology)|Computer science|Remote sensing|Scattering|Water content|Surface roughness
+references:2097272115|2101690226|2126835024
+
+
+id:2800297188
+title:A Preliminary Evaluation of the GaoFen-3 SAR Radiation Characteristics in Land Surface and Compared With Radarsat-2 and Sentinel-1A
+year:2018
+author information:[
+author name:Quan Chen
+author organization:Airborne Remote Sensing Center, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2302573429|
+author name:Zhen Li
+author organization:Airborne Remote Sensing Center, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2253060996|
+author name:Ping Zhang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2687966757|
+author name:Haoran Tao
+author organization:Xian University of Science and Technology
+author id:2775467123|
+author name:Jiangyuan Zeng
+author organization:State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2112471791|
+]
+abstract:equivalent|singlelook|empirical|extracted|three|resolution|relation|evaluation|number|problem|corner|complex|property|days|sidelobe|images|misconduct|meets|surface|lower|distributed|backscatter|quality|radiometric|system|field|impulse|rr|strong|statistical|soil|two|triangle|proves|indicating|capability|low|angle|indicate|categories|based|db|compared|copolarization|assess|absolute|cannot|closed|incidence|first|ratio|decibels|cband|reveal|several|justified|good|mainly|db|looks|presented|bare|potential|five|calculated|results|area|image|level|moisture|estimation|scattering|background|coefficient|campaign|parameters|calibration|assessed|solving|sar|normalized|show|integrated|parameter|design|land|letter|characteristics|specification|peak|target|superior|five|radiation|quantitative|response|quasisynchronous|applications
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Radiometric calibration|Impulse response|Synthetic aperture radar|Remote sensing|Backscatter|Image quality|Radiometry|Estimation theory|Calibration|Mathematics
+references:1990249847|2126835024|2228578885|2548395744|2725808522|2733955274
+
+
+id:2890368121
+title:Parameter Optimization of a Discrete Scattering Model by Integration of Global Sensitivity Analysis Using SMAP Active and Passive Observations
+year:2019
+author information:[
+author name:Xiaojing Bai
+author organization:Nanjing University of Information Science  Technology
+author id:2767702007|
+author name:Jiangyuan Zeng
+author organization:and Beijing Normal University
+author id:2112471791|
+author name:Kun-Shan Chen
+author organization:and Beijing Normal University
+author id:2165036821|
+author name:Zhen Li
+author organization:Airborne Remote Sensing Center, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China
+author id:2253060996|
+author name:Yijian Zeng
+author organization:University of Twente
+author id:2427198476|
+author name:Jun Wen
+author organization:Chengdu University of Information Technology
+author id:2101249247|
+author name:Xin Wang
+author organization:Key Laboratory of Land-surface Process and Climate Change in Cold and Arid Regions, Northwest Institute of Eco-environment and Resources, Chinese Academy of Sciences, Lanzhou, China
+author id:2617377403|
+author name:Xiaohua Dong
+author organization:China Three Gorges University
+author id:2722473534|
+author name:Zhongbo Su
+author organization:University of Twente
+author id:2167414688|
+]
+abstract:tvg|numerous|insensitive|accuracy|northeastern|passiveonly|remote|observed|objective|emission|differently|imaging|retrieval|evaluated|defined|respectively|models|using|separately|parameters|radiative|expected|active|synergistic|analysis|accurately|smap|input|correlation|simultaneously|metrics|concurrent|soil|global|k|extended|tvgp|temperature|free|set|data|model|grasslands|calibrate|information|combined|coincident|activeonly|reproduce|results|area|needs|test|moisture|moisture|worse|discrete|used|coefficient|soil|demonstrate|region|parameters|tvga|necessity|tvgap|applied|show|fourier|gsa|effectiveness|sensing|characteristics|vergata|radiometer|brightness|optimization|well|maqu|emissivity|slightly|synergy|select|passive|collected|complementary|calibrated|signatures|model|spatial|simulate|validation|surface|index|sensitive|backscattering|simulations|feasibility|provide|tor|sensitivity|computed|tibetan|methods|modelbased
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Radar|Brightness temperature|Backscatter|Remote sensing|Atmospheric radiative transfer codes|Emissivity|Passive radar|Calibration|Mathematics|Radiometer
+references:1873607511|1965844277|1995711095|1997496487|1998942750|2015294247|2027725811|2035745410|2039348932|2041000272|2050890901|2052721185|2062075925|2065451693|2089520569|2092670880|2094692226|2119164276|2128934981|2130515708|2140500735|2146675811|2156730328|2167962096|2295766255|2296077754|2338693065|2399809112|2418239487|2438514171|2506587499|2528645783|2554546978|2562865472|2608389239|2621049410|2621673493|2736290716|2767457176|2780496495
+
+
+id:2900872040
+title:Assessment of Snow Cover Product Using Google Earth Engine Cloud Computing Platform
+year:2018
+author information:[
+author name:Zhen Li
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences 9 Dengzhuang South Road, Beijing, 100094, China
+author id:2624439332|
+author name:Chang Liu
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 9 Dengzhuang South Road, Beijing, 100094, China
+author id:2900884772|
+author name:Ping Zhang
+author organization:Institute of Remote Sensing  Digital Earth, Beijing, China
+author id:2687966757|
+author name:Bangseng Tian
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences 9 Dengzhuang South Road, Beijing, 100094, China
+author id:2772320012|
+]
+abstract:data|using|accuracy|used|cover|cloud|high|cover|imagery|understanding|season|sites|evaluated|results|engine|obtain|google|dedicated|test|gee|impact|finally|monitoring|accurately|important|seasons|snow|true|overall|average|taking|global|error|platform|products|earth|computing|paper|rate|javascript|missing|satellite|accurate|observation|landsat|analyzed|climate|data|modis|efficiency|assess|showed|tm
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Satellite|Satellite imagery|Computer science|Remote sensing|Snow cover|Earth observation|Snow|JavaScript|Cloud computing
+references:2774864104
+
+
+id:290717989
+title:Channel Allocation in Sociability-Assisted Cognitive Radio Networks Using Semi-definite Programming
+year:2014
+author information:[
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Lili Pan
+author organization:Beijing Jiaotong University
+author id:2633555141|
+author name:Wei Zhou
+author organization:Beijing Jiaotong University
+author id:2619992419|
+]
+abstract:optimal|simulation|channel|sociabilityassisted|sacas|recent|definitions|received|consideration|schemes|propose|years|secondary|attributes|traditional|sacas|cognitive|environment|hurt|primary|works|superiority|personalized|capability|taken|protect|relationship|takes|may|willingness|cr|first|use|solution|nodes|results|intensive|obtain|semidefinite|channel|adapt|users|important|condition|tackle|part|show|network|allocation|illbehaved|studies|ignore|make|algorithms|allocation|social|introduce|performance|previous
+venue name:Wireless Algorithms, Systems, and Applications
+venue id:1140917629
+venue type:C
+document type:Conference
+study fields:Social relationship|Computer science|Communication channel|Computer network|Channel allocation schemes|Semidefinite programming|Distributed computing|Network performance|Cognitive radio
+references:1588424217|1983033503|1986202561|1987615181|1996831548|2020364592|2032433825|2039157284|2043259673|2043359766|2058965222|2066145265|2072990861|2076680677|2101909822|2103357518|2109567727|2129791350|2134539237|2134674486|2134834634|2136102209|2139766131|2144369278|2156215009|2167748975|2243663090
+
+
+id:1937870803
+title:Cooperative jamming for secure communications in MIMO Cooperative Cognitive Radio Networks
+year:2015
+author information:[
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Xiuzhen Cheng
+author organization:George Washington University
+author id:2133707332|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Wei Zhou
+author organization:Beijing Jiaotong University
+author id:2619992419|
+author name:Dechang Chen
+author organization:Uniformed Services University
+author id:2145030914|
+]
+abstract:employ|networks|intrinsically|eavesdropping|without|maximize|accessing|jam|concurrently|model|issue|work|propose|cooperative|secondary|receivers|spectrum|beamformer|legitimate|primary|achieve|two|layer|capacity|sus|mimoccrns|vector|power|beamformers|phy|jamming|one|cooperatively|radio|scheme|opportunities|transmissions|information|certain|first|helpers|remarkably|wiretapping|secure|employed|vulnerable|optimize|communication|scenarios|results|traffic|antennas|users|enhanced|signals|proposed|exploited|improve|demonstrate|send|eavesdropper|equipped|interfering|best|investigate|attackers|security|secrecy|design|cognitive|multipleinput|physical|allocation|cooperative|recently|relay|multiple|multipleoutput|efficiency|simulation|well
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Eavesdropping|3G MIMO|Computer science|Cooperative diversity|MIMO|Computer network|Physical layer|Spectral efficiency|Jamming|Cognitive radio
+references:1987615181|2027074016|2041729056|2043769961|2044698554|2055297106|2072990861|2091307460|2112906606|2124071994|2141168001|2154069827|2164402548|2274250074
+
+
+id:2185986064
+title:A next-hop selection scheme providing long path lifetime in VANETs
+year:2015
+author information:[
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Yikai Li
+author organization:Beijing Jiaotong University
+author id:2225126566|
+author name:Wei Zhou
+author organization:Beijing Jiaotong University
+author id:2619992419|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+]
+abstract:named|optimal|simulation|establishing|required|path|balance|ad|lpls|schemes|analysis|node|node|selection|stopping|compromised|hoc|theory|algorithms|scheme|multihop|range|networks|tradeoff|routing|ways|share|aodv|path|address|may|designing|regarded|information|essential|lifetime|source|reference|communication|different|results|new|comparison|dependability|often|nexthop|applied|destination|show|vehicles|choose|states|motion|relay|multiple|mopr|vehicular|efficiency|better|lifetime|nodes|performance|due|challenge|uses|suitable|vehicles|presents
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Link-state routing protocol|Equal-cost multi-path routing|Dynamic Source Routing|Path vector protocol|Static routing|Computer science|Computer network|Destination-Sequenced Distance Vector routing|Optimized Link State Routing Protocol|Geographic routing|Distributed computing
+references:1976420359|2099574482|2107846430|2114847643|2121172963|2143783579|2155666225|2162598825
+
+
+id:2216659132
+title:HERS: High-efficient routing protocol based on social metrics in mobile social network
+year:2015
+author information:[
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Jinghao Qi
+author organization:Beijing Jiaotong University
+author id:2231008500|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+]
+abstract:select|stateoftheart|cambridge|three|without|number|reality|temporal|based|topology|require|decentralized|node|provide|messages|metrics|average|endtoend|exchanging|local|derive|communications|low|reduces|mechanism|key|social|efficient|routing|delay|simulations|increasing|information|egocentric|freely|dataset|becoming|data|strength|use|rapid|routes|protocol|highefficiency|find|contact|graph|satisfactory|results|delivering|including|proposes|real|weights|decrease|demonstrate|next|paradigm|simbet|changes|forwarding|network|trace|paper|metrics|organize|similarity|possibility|delivery|move|cost|social|relay|mobile|outperforms|nodes|performance|logistic|conduct|infrastructure|regression|challenge|wireless|information|uses|arbitrarily|significantly
+venue name:International Conference on Information and Communication Technology Convergence
+venue id:2755526868
+venue type:C
+document type:Conference
+study fields:Hazy Sighted Link State Routing Protocol|Mobile social network|Triangular routing|Computer science|Computer network|Wireless Routing Protocol|Optimized Link State Routing Protocol|Routing table|Zone Routing Protocol|Routing protocol|Distributed computing
+references:1503398984|1576623039|1923680614|1975409019|1997405607|2012909434|2023818109|2039157284|2039368130|2070830417|2082674813|2120822931|2144892557|2157691616|2161750835|2166735950
+
+
+id:2278704600
+title:DRL: A New Mobility Model in Mobile Social Networks
+year:2015
+author information:[
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yating Zhang
+author organization:Beijing Jiaotong University
+author id:2231315737|
+author name:Zhen Li
+author organization:Beijing Jiaotong University
+author id:2241337821|
+author name:Qinghe Gao
+author organization:Beijing Jiaotong University
+author id:2284626341|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Wei Zhou
+author organization:Beijing Jiaotong University
+author id:2619992419|
+]
+abstract:called|decide|whole|three|fit|evaluations|relationships|estimate|model|people|defined|goal|community|demand|node|node|evaluating|complexity|mobility|indicated|variability|characteristic|proves|firstly|initialized|situation|validate|within|abstract|data|people|simulations|attributes|certain|drl|communities|community|reasonable|paper|protocol|brings|protocols|well|results|new|actual|real|attractions|difficulty|relevant|proposed|pragmatic|next|distance|according|related|due|design|attraction|practical|social|mobile|nodes|various|interaction|well|community|location
+venue name:Wireless Algorithms, Systems, and Applications
+venue id:1140917629
+venue type:C
+document type:Conference
+study fields:Social relationship|Protocol evaluation|Social network|Computer science|Mobility model|Computer network|Attraction|Distributed computing
+references:1923680614|1974140471|1982904338|2034589743|2040653020|2092003045|2120822931|2133540137|2142522527|2143548801|2148135143|2151253317
+
+
+id:2296178337
+title:Efficient Change Verification of Member Cardinality in Cluster-Based VCPS
+year:2015
+author information:[
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Hui Li
+author organization:Xian Jiaotong University
+author id:2291714349|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+]
+abstract:cluster|occupation|simulation|paper|influence|cloud|high|method|controlling|results|verification|obtain|new|based|efficiency|method|topology|however|analysis|maintaining|propose|systems|important|relevant|traditional|even|improve|tackle|demonstrate|private|technique|slot|long|computing|parameter|member|vcps|cyberphysical|applications|satisfy|change|vehicular|also|requirement|great|cardinality|efficiency|accuracy|performance|updating|time|clusterbased|significantly|mathematical
+venue name:The Internet of Things
+venue id:1168863100
+venue type:C
+document type:Conference
+study fields:Computer science|Scheduling (computing)|Computer security|Cardinality|Computer network|Cyber-physical system|Processor scheduling|Cloud computing|Distributed computing
+references:1976239060|1981342445|2002624364|2051998841|2066442504|2080403625|2096257518|2133779692|2163825044|2164605549|2170725593
+
+
+id:2296556513
+title:Worst-Case Jamming for Secure Communications in Multi-antenna Cooperative Cognitive Radio Networks with Energy Harvesting
+year:2015
+author information:[
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+]
+abstract:networks|optimal|considered|channel|transmitted|constraints|harvested|without|multiantenna|accessing|problem|imperfect|optimization|jam|concurrently|obtained|state|case|energy|based|using|goal|propose|cooperative|secondary|receivers|traffic|spectrum|legitimate|primary|scheme|achieve|formulate|covariance|noise|protect|worstcase|minimize|su|robust|may|jamming|deteriorated|cooperatively|radio|scheme|information|certain|novel|ratio|remarkably|subject|source|transmissions|employed|eavesdropped|helper|consider|generate|signal|results|programming|traffic|semidefinite|solutions|users|plus|signals|minimization|improve|interference|demonstrate|sinr|eavesdropper|pus|interfering|provided|secrecy|qos|ecsi|cognitive|matrices|harvest|practical|cooperative|relay|transmit|twostage|artificial|proposed|simulation|uses
+venue name:The Internet of Things
+venue id:1168863100
+venue type:C
+document type:Conference
+study fields:Computer science|Signal-to-noise ratio|Computer network|Signal-to-interference-plus-noise ratio|Spectral efficiency|Artificial noise|Jamming|Relay|Channel state information|Cognitive radio
+references:1978255842|1984540590|1986090422|1987615181|2007529001|2020560107|2025488327|2027074016|2040317577|2044698554|2058965222|2072990861|2104562009|2111451941|2112906606|2124071994|2126423090|2154069827|2274250074
+
+
+id:2426358798
+title:Energy-efficient data dissemination strategy for roadside infrastructure in VCPS
+year:2016
+author information:[
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Hui Li
+author organization:Xian Jiaotong University
+author id:2291714349|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+]
+abstract:modeling|optimal|singlevehicle|required|improved|would|dissemination|model|calculate|energy|reduce|roadside|based|dissemination|using|efficiency|tuning|service|analysis|propose|quality|traditional|system|interval|rate|vehicular|consumption|average|increased|result|mechanism|relationship|key|markov|decreased|procedure|satisfaction|discovery|solarpowered|maximum|infrastructures|cyberphysical|passingby|strategy|data|available|transmission|time|function|adjusting|beaconing|results|combine|obtain|new|commonly|degree|leads|tackle|parameters|higher|show|careful|deployed|detect|vehicles|cause|expectation|rate|sigmoid|allows|introduce|consumption|also|procedure|due|interval|infrastructure|periodical|observing|strategy
+venue name:Eurasip Journal on Wireless Communications and Networking
+venue id:82675988
+venue type:J
+document type:Journal
+study fields:Data transmission|Markov model|Efficient energy use|Computer science|Computer network|Quality of service|Real-time computing|Dissemination|Data rate|Energy consumption|Sigmoid function
+references:1501529425|1600851835|1954092669|1966479357|2007499756|2022649085|2028193256|2036325288|2042328602|2048883805|2080373251|2084409547|2089910489|2102847084|2107878218|2121639747|2123990969|2126972811|2133012395|2134884173|2139526243|2142809161|2188736008|2291760049
+
+
+id:2554640935
+title:DRL: A Multi-factor Mobility Model in Mobile Social Networks
+year:2017
+author information:[
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yating Zhang
+author organization:Beijing Jiaotong University
+author id:2231315737|
+author name:Zhen Li
+author organization:Beijing Jiaotong University
+author id:2241337821|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+]
+abstract:called|simulation|decide|three|objective|evaluation|fit|relationships|reflect|thus|model|models|method|simulations|propose|former|msns|selection|restriction|place|must|algorithm|complexity|mobility|compare|hard|indicated|affect|variability|networks|criteria|two|result|verify|social|performance|learning|restriction|machine|relationship|information|choice|movement|first|drl|attributes|several|used|correctly|protocol|ranking|shows|denote|reasonability|personalized|protocols|well|results|new|involves|bayesian|real|weights|synthetic|take|proposed|pragmatic|overall|parameters|next|comprehensively|distance|concept|learning|input|assesses|paper|related|varying|load|design|make|human|value|derived|attraction|destination|social|mobile|multiple|factors|interaction|well|formula|location|time|properties|community|location
+venue name:Wireless Personal Communications
+venue id:49967189
+venue type:J
+document type:Journal
+study fields:Social relationship|Social network|Protocol evaluation|Ranking|Computer science|Mobility model|Real-time computing|Artificial intelligence|Attraction|Machine learning|Bayesian probability
+references:1497763074|1544514358|1974140471|1974344035|1982904338|2010634640|2039368130|2053167769|2092003045|2120822931|2143548801|2147001732|2151253317|2157457404|2168792791|2321481452|2950975304
+
+
+id:2579482067
+title:Achieving secure communications in multi-antenna cooperative cognitive radio networks using cooperative jamming
+year:2016
+author information:[
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Jin Qian
+author organization:Beijing Jiaotong University
+author id:2438087490|
+]
+abstract:impeded|helpers|use|eavesdropping|radio|employed|capacity|mergeandsplit|mccrns|cooperation|algorithm|based|using|game|cooperative|mccrns|maximise|vectors|cognitive|proposed|spectrum|improve|send|eavesdropper|scheme|methods|multiantenna|formation|networks|optimise|layer|prevent|sus|effective|communications|secrecy|signals|design|attack|coalition|power|physical|based|beamformers|allocation|may|recently|jamming|efficiency|proposed|secure|strategy
+venue name:International Journal of Sensor Networks
+venue id:31905469
+venue type:J
+document type:Journal
+study fields:Eavesdropping|Computer security|Computer science|Secrecy|Network security|Computer network|Physical layer|Spectral efficiency|Jamming|Communications security|Cognitive radio
+references:1606822152|1870509456|1987960671|2006963501|2012603227|2020443972|2024304958|2027074016|2041729056|2043769961|2055297106|2062757535|2063699457|2072990861|2091307460|2098369329|2124071994|2141168001|2142640215|2154069827|2164402548|2165581875|2171006634|2274250074|2344449516|2350167977
+
+
+id:2608944105
+title:ZF-SIC Based Individual Secrecy in SIMO Multiple Access Wiretap Channel
+year:2017
+author information:[
+author name:Kaiwei Jiang
+author organization:Beijing Jiaotong University
+author id:2222445942|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Fan Zhang
+author organization:Xi’an Jiaotong University
+author id:2707630494|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+]
+abstract:optimal|put|problem|terms|prompts|transmitter|order|shortest|method|receiver|expected|impact|propose|decoding|cancellation|determined|legitimate|evaluate|aid|relative|study|access|besides|scheme|singleinput|capacity|result|proved|wiretap|snr|power|forward|est|positive|deriving|assist|maximum|constraint|first|ratio|joint|longest|quasistatic|snr|high|solution|scheduling|throughput|regime|us|individual|sic|basis|fading|expressions|zeroforcing|successive|achieving|interference|power|eavesdropper|distance|analysis|rather|investigate|effective|numerical|total|secrecy|rayleigh|closedform|outage|distances|multipleoutput|allocation|disclosed|signaltonoise|limited|interesting|multiple|also|channel|performance
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Transmitter|Telecommunications|Rayleigh fading|Computer science|Secrecy|Single antenna interference cancellation|Signal-to-noise ratio|Computer network|Algorithm|Capacity planning|Throughput|Decoding methods
+references:1510979140|1965903274|1992996890|1993039929|2043769961|2080693943|2081977099|2102654676|2128153585|2129457795|2144007657|2291902925|2295197230|2438522066|2462057299|2463333521|2500026973|2517801977|2520068277|2529048811|2761095440
+
+
+id:2761095440
+title:Analysis of secrecy performance in fading multiple access wiretap channel with SIC receiver
+year:2017
+author information:[
+author name:Kaiwei Jiang
+author organization:Beijing Jiaotong University
+author id:2222445942|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Fan Zhang
+author organization:Xi’an Jiaotong University
+author id:2707630494|
+]
+abstract:simulation|channel|meansquare|whole|three|focus|via|spatial|transmitter|order|macwt|receiver|work|probability|impacts|theoretic|mmsesic|decoding|jointly|perspective|system|cancellation|determined|throughput|legitimate|evaluate|relative|access|achieve|overcome|two|capacity|diversity|wiretap|snr|one|positive|great|single|increasing|information|minimum|quasistatic|mainly|transmissions|snr|high|adjusting|results|new|concentrates|basis|sic|fading|zeroforcing|successive|interference|eavesdropper|analytical|distance|paradigm|rather|show|investigate|error|getting|effective|along|secrecy|gap|rayleigh|enhancing|outage|multiple|outperforms|existing|performance
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Transmitter|Antenna diversity|Telecommunications|Rayleigh fading|Fading|Computer science|Secrecy|Single antenna interference cancellation|Computer network|Electronic engineering|Throughput|Decoding methods
+references:1510979140|1647913743|1965903274|1992996890|1993039929|2043769961|2072563372|2080693943|2081977099|2091307460|2102654676|2128153585|2129457795|2133406100|2141797073|2144007657|2295197230|2330857137|2344239871|2463333521|2510265956|2526910689|2762398138
+
+
+id:2761702454
+title:Individual secrecy of fading homogeneous multiple access wiretap channel with successive interference cancellation
+year:2017
+author information:[
+author name:Kaiwei Jiang
+author organization:Beijing Jiaotong University
+author id:2222445942|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Fan Zhang
+author organization:Xi’an Jiaotong University
+author id:2707630494|
+]
+abstract:optimal|channel|fair|three|whereas|usually|state|order|based|receiver|probability|impact|schemes|propose|resulting|decoding|cancellation|served|legitimate|rate|evaluate|roundrobin|access|scheme|two|diversity|comparison|wiretap|close|multiuser|one|est|disclose|deriving|regard|impractical|information|first|main|quasistatic|employs|scheduling|throughput|results|kuser|individual|last|significant|sic|fading|expressions|respect|homogeneous|successive|absolutely|interference|suboptimal|show|investigate|effective|secrecy|decoding|metrics|achievable|rayleigh|highly|closedform|outage|outperform|multiple|arbitrary|requirement|performance|due
+venue name:Eurasip Journal on Wireless Communications and Networking
+venue id:82675988
+venue type:J
+document type:Journal
+study fields:Diversity gain|Telecommunications|Rayleigh fading|Fading|Computer science|Secrecy|Single antenna interference cancellation|Computer network|Communication channel|Algorithm|Decoding methods|Channel state information
+references:1493957411|1560960516|1647913743|1937870803|1965903274|1967219667|1987168353|1989064223|1992996890|2006847454|2007405841|2007928102|2012797823|2022854997|2022914690|2043769961|2078675500|2080693943|2081977099|2100745083|2102654676|2115613211|2128153585|2129457795|2143181852|2144007657|2249729912|2257835695|2272872563|2289493964|2291902925|2295197230|2304493364|2313449680|2330857137|2347188821|2412882826|2495240793|2500682841|2517928502|2585830011|2589541486|2608944105|2610245957|2610758516|2761095440
+
+
+id:2790266558
+title:Preventing Eavesdropper by Artificial Noise in MIMO-OFDM Systems
+year:2018
+author information:[
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Zhen Li
+author organization:Beijing Jiaotong University
+author id:2241337821|
+author name:Liwen Jiang
+author organization:Beijing Jiaotong University
+author id:2745855025|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+]
+abstract:focus|none|type|optimization|transmitter|confidential|method|distinguish|dealing|researchers|double|propose|environments|environment|consumption|scheme|methods|kinds|networks|gain|capacity|overhearing|protect|power|phy|within|many|maximum|first|use|used|mimoofdm|different|day|signal|new|including|antennas|check|proposed|solve|present|helpers|since|full|eavesdropper|best|eavesdropper|network|prevent|security|secrecy|csi|ga|mentioned|make|types|allocation|limited|equation|proposed
+venue name:Wireless Personal Communications
+venue id:49967189
+venue type:J
+document type:Journal
+study fields:MIMO-OFDM|Transmitter|Double check|Computer science|Secrecy|Computer network|Artificial noise|PHY|Power consumption
+references:2002745696|2007529001|2036755731|2043769961|2045094232|2119012490|2124071994|2130324471|2141168001|2142830786|2144007657|2218552649
+
+
+id:2795687886
+title:SIC-Based Secrecy Performance in Uplink NOMA Multi-Eavesdropper Wiretap Channels
+year:2018
+author information:[
+author name:Kaiwei Jiang
+author organization:Beijing Jiaotong University
+author id:2222445942|
+author name:Tao Jing
+author organization:Beijing Jiaotong University
+author id:2099773140|
+author name:Yan Huo
+author organization:Beijing Jiaotong University
+author id:2063001726|
+author name:Fan Zhang
+author organization:Xi’an Jiaotong University
+author id:2707630494|
+author name:Zhen Li
+author organization:Xian Jiaotong University
+author id:2241337821|
+]
+abstract:optimal|results|meansquare|zfsic|scenarios|affine|three|via|number|collusion|problem|uplink|analytical|spatial|transmitter|order|conjectured|mmsesic|propose|decoding|jointly|cancellation|analyze|legitimate|evaluate|aid|study|access|scheme|achieve|methods|overcome|two|capacity|result|diversity|deteriorates|gain|snr|power|demonstrated|est|positive|single|increasing|maximum|minimum|first|ratio|subject|paper|eavesdroppers|high|transmission|solution|scheduling|throughput|results|regime|combination|new|behaviors|revealing|nonorthogonal|basis|sic|regarding|zeroforcing|successive|achieving|asymptotic|noncolluding|interference|power|eavesdropper|paradigm|probability|investigate|error|effective|numerical|total|colludingeavesdropper|along|secrecy|highsnr|gap|enhancing|outage|allocation|signaltonoise|limited|studied|interesting|multiple|transmit|approaches|outperforms|performance|locationdependent|reducing
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Transmitter|Antenna diversity|Mathematical optimization|Transmitter power output|Computer science|Signal-to-noise ratio|Secrecy|Single antenna interference cancellation|Computer network|Throughput|Telecommunications link
+references:1647913743|1922937245|1965903274|1992996890|2013906384|2022854997|2061505899|2078675500|2081977099|2102654676|2103063389|2107384724|2110019315|2129457795|2141797073|2152403829|2184963298|2463333521|2500026973|2503252638|2506399502|2511212971|2551126468|2566155463|2582744858|2590050480|2608944105|2620915951|2626697851|2743190787|2749161783|2761095440|2761665166|2782779428|2783190670|2963336322
+
+
+id:328023229
+title:Multi-resolution flow simulations by smoothed particle hydrodynamics via domain decomposition
+year:2015
+author information:[
+author name:Xin Bian
+author organization:Brown University
+author id:2235881919|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:couette|sufficiently|subdomains|resolution|via|fluxes|concurrently|refinement|fluid|state|smoothing|temporal|based||former|advancement|size|transient|domain|much|cut|prominent|independent|perturbation|least|two|long|matching|particle|behavior|variables|c|density|step|wannier|simulations|single|r|spatialtemporal|dd|couple|resolution|either|lubrication|results|treated|asynchronously|significant|interface|overlap|region|fields|allow|next|rotating|perpendicular|away|analytical|proper|decomposition|resolutions|wave|gap|steady|simulating|lagrangian|length|go|hydrodynamics|quasiincompressible|interpolation|within|achieved|well|short|cylinder|time|select|compressibility|placed|simulation|considered|beyond|subdomain|whereas|spatial|flow|wall|method|smoothed|simulated|lower|traveling|rendering|agree|propose|determined|subdomains|force|microscopic|methods|local|ddsph|may|decomposed|cylinder|performed|overlapping|first|sonictimescale|radii|consistency|sph|coupling|high|faster|find|employs|twoorders|solutions|different|particlebased|individual|avoids|bottom|demonstration|methodsthe|effects|hybrid|proposed|scales|present|coupled|subdomain|according|technique|scale|physics|interactions|validated|parallel|magnitude|mesoscopic|ratios|derefinement|rest|viscous|scale|strategy|flows|methodology
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Compressibility|Smoothed-particle hydrodynamics|Mathematical optimization|Coupling|Cylinder|Smoothing|Temporal resolution|Couette flow|Domain decomposition methods|Physics
+references:1646498580|1990918780|2041332672|2066367356|2114983066
+
+
+id:2072210926
+title:Symmetry boundary condition in dissipative particle dynamics
+year:2015
+author information:[
+author name:Souvik Pal
+author organization:University of California
+author id:2460459664|
+author name:Chuanjin Lan
+author organization:University of California
+author id:2126319555|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:E. Daniel Hirleman
+author organization:University of California
+author id:2109956210|
+author name:Yanbao Ma
+author organization:University of California
+author id:2615451283|
+]
+abstract:langevin|modeling|half|approach|dynamics|four|particles|reduce|using|method|reduced|schemes|accurately|propose|saving|system|dpd|coarsegrained|brownian|hydrodynamics|treatment|systems|scheme|methods|dissipative|multibody|ghost|particle|validate|density|one|possible|simulations|computation|requiring|subsystem|combined|quarter|treat|using|reproduce|time|boundaries|method|different|results|mdpd|reflection|meniscus|specular|lack|remarkable|condition|configurations|demonstrate|full|boundary|applied|dissipative|symmetric|numerical|dynamics|dpd|shapes|mesoscopic|carried|simulating|implementation|yet|also|due|time|significantly
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Statistical physics|Boundary value problem|Faddeev–Popov ghost|Langevin dynamics|Dissipative particle dynamics|Mathematical analysis|Mesoscopic physics|Brownian motion|Classical mechanics|Particle|Computation|Physics
+references:2082944691|2130473731
+
+
+id:2135499842
+title:Energy-conserving dissipative particle dynamics with temperature-dependent properties
+year:2014
+author information:[
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Yu-Hang Tang
+author organization:Brown University
+author id:2105073913|
+author name:Huan Lei
+author organization:Pacific Northwest National Laboratory, Richland, WA 99352, USA
+author id:2126166003|
+author name:Bruce Caswell
+author organization:Brown University
+author id:2118379755|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:functions|readily|experimental|number|dynamics|temperatures|terms|formulation|thermal|model|fluid|flow|case|verifying|method|examples|poiseuille|diffusivity|dpd|force|systems|k|confirmed|extended|temperature|systems|conduction|particle|demonstrated|validate|consistent|model|viscosity|liquid|conditions|results|validity|isothermal|standard|correct|data|temperaturedependence|available|expressing|used|developed|influence|dynamic|edpd|temperatures|simulations|including|law|prandtl|capture|weighting|water|energyconserving|proposed|liquids|considered|present|temperaturedependent|heat|boundary|analytical|nonisothermal|show|dissipative|random|recovers|fourier|reproducing|predict|mesoscopic|steady|carried|friction|ranging|proposed|various|formula|determining|significantly|properties
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Prandtl number|Thermodynamics|Dissipative particle dynamics|Dissipation|Viscosity|Thermal conduction|Thermal diffusivity|Mathematics|Hagen–Poiseuille equation|Thermal conductivity
+references:2082944691|2166669281
+
+
+id:2471887004
+title:Systematic parameter inference in stochastic mesoscopic modeling
+year:2017
+author information:[
+author name:Huan Lei
+author organization:Pacific Northwest National Laboratory, Richland, WA 99352, USA
+author id:2126166003|
+author name:Xiu Yang
+author organization:Pacific Northwest National Laboratory, Richland, WA 99352, USA
+author id:2119973840|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:employ|optimal|simulation|accuracy|degeneracies|desirable|experimental|approach|number|dynamics|melt|generalized|terms|formulation|fluid|model|inferring|energy|knowledge|based|models|using|chaos|method|sampling|way|propose|samples|field|restriction|force|microscopic|coarsegrained|evaluate|much|collocation|access|range|systems|physics|stochastic|particle|newtonian|redundancies|relationship|conserving|enables|dominant|within|efficient|probabilistic|forward|possible|compressive|simulations|straight||polynomial|efficiently|cannot|comparable|space|macroscopic|standard|dimensional|eliminating|alleviate|points|compute|high|shows|imposes|optimize|prior|gpc|results|us|computational|given|constructing|individual|level|modeled|intrinsic|respect|expansion|proposed|especially|infer|fully|parameters|polymer|parametric|values|investigate|dissipative|surfaces|provides|parameter|mesoscopic|derived|sensing|cost|recover|determine|constructed|identify|confidence|weaker|alternative|target|response|various|coefficients|scale|properties
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Statistical physics|Force field (physics)|Mathematical optimization|Dissipative particle dynamics|Mesoscopic physics|Polynomial chaos|Parametric statistics|Parameter space|Macroscopic scale|Mathematics|Compressed sensing
+references:80351511|1557892661|1964960445|1972020904|1974963628|1976709621|1982421072|1983156129|2009239673|2017880874|2018159038|2022711436|2043625413|2046658845|2056558085|2069739265|2070335948|2071544114|2074686342|2096969866|2097323375|2100992121|2103452908|2129131372|2135499842|2143591652|2146476360|2171971725
+
+
+id:2556130085
+title:GPU-accelerated red blood cells simulations with transport dissipative particle dynamics
+year:2017
+author information:[
+author name:Ansel L. Blumers
+author organization:Brown University
+author id:2515168325|
+author name:Yu-Hang Tang
+author organization:Brown University
+author id:2105073913|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Xuejin Li
+author organization:Brown University
+author id:2099777417|
+author name:George E. Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:adaptation|scalability|accuracy|particle|property|represented|suspension|based|using|unusual|investigating||chemical|reaction|unique|triangular|simultaneously|multiscale|coarsegrained|nonblocking|gnu|speed|communications|capability|particles|files|compared|nature|gpgpus|scaling|one|workloads|blood|simulations|single|cuda|tdpd|characterize|phenomena|incorporates|strong|gpu|observe|red|compute|correctly|version|counterpart|scheduling|computational|area|program|bending|volume|general|solvent|chemicaldriven|nvidia|summary|mesoscopic|quickturnaround|evolution|time|significantly|simulation|mpi|programming|velocityverlet|program|repository|approach|improved|compatible|cores|efficiency|quantification|method|github|bonded|approximated|system|provide|algorithm|multistream|dissipative|gpuaccelerated|cell|weak|across|ability|solution|enables|within|abstract|speedup|lead|disorders|constraints|membrane|cpu|presented|implemented|nodes|potential|package|capture|public|particlebased|improve|functionalities|present|transport|code|internode|link|licensing|mpi|integrated|meso|numerical|effective|validated|dynamics|parallel|influences|highthroughput|mesoscopic|mesh|processes|recover|also|transport|user|due|additional|crossmembrane|essentially
+venue name:Computer Physics Communications
+venue id:142305363
+venue type:J
+document type:Journal
+study fields:Central processing unit|Dissipative particle dynamics|CUDA|Computer science|Mesoscopic physics|Parallel computing|Scaling|Scalability|Speedup|Triangle mesh
+references:1922087524|1973202568|2012220598|2078391824|2081313457|2132262459|2135499842|2160544821
+
+
+id:2563847434
+title:A dissipative particle dynamics method for arbitrarily complex geometries
+year:2018
+author information:[
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Xin Bian
+author organization:Technical University of Munich
+author id:2235881919|
+author name:Yu-Hang Tang
+author organization:Brown University
+author id:2105073913|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:plane|couette|objects|without|dynamics|complex|fluid|examining|quantitative|particles|moving|negligible|defined|element|addition|computeraided|using|equations|distance|eliminates|domain|conditions|device|neighboring|desired|temperature|particle|prevented|compared|detection|density|makes|wannier|possible|onthefly|deformable|simulations|bvf|geometry|vicinity|information|cutoff|correct|generates|domains|summation|surface|stationary|stenotic|weighted|need|solutions|employing|volume|geometric|relatively|demonstrate|useful|involving|configuration|analytical|shaped|description|noslip|dissipative|load|surfactant|effectiveness|lagrangian|evaluations|regime|multiple|rich|predictorcorrector|yields|detected|achieved|modeling|cylindrical|graphical|experimental|construct|approach|fluctuations|far|simulate|flow|images|method|loading|cylinders|system|poiseuille|dpd|algorithm|explicitly|regions|dissipative|formulate|local|satisfies|geometries|verify|demonstrated|particularly|within|image|penetration|performed|fraction|onthefly|indicator|spectral|small|mesoscale|simple|arbitraryshape|threedimensional|solution|inferred|method|directly|new|introducing|flowing|condition|proposed|microfluidic|arbitrarily|problems|boundary|interactions|wall|around|effective|liquidsolid|value|fluids|limited|penetration|velocity|corresponding|variable|coefficients|uses|wall
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Boundary value problem|Mathematical optimization|Dissipative particle dynamics|Mathematical analysis|Dissipative system|Complex geometry|Complex fluid|Couette flow|Mathematics|Particle|Hagen–Poiseuille equation
+references:1922087524|1973202568|2021879147|2082944691|2092674327|2135499842|2164643578|2166669281|2542546953|2556130085
+
+
+id:2754286478
+title:Active learning of constitutive relation from mesoscopic dynamics for macroscopic modeling of non-Newtonian flows
+year:2018
+author information:[
+author name:Lifei Zhao
+author organization:Northwestern Polytechnical University
+author id:2754130389|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Bruce Caswell
+author organization:Brown University
+author id:2118379755|
+author name:Jie Ouyang
+author organization:Northwestern Polytechnical University
+author id:2990464458|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:employ|macrorheology|microstructure|modeling|chains|simulation|approach|without|required|relation|adaptively|equations|number|dynamics|complex|model|simulate|flow|based|models|method|equations|compared|past|computed|active|circular|underlying|whose||traditional|field|transient|dpd|returns|bulk|multiscale|explicitly|messagepassing|numerical|increased|scheme|achieve|experiments|turn|extended|local|r|dynamics|actively|particle|demonstrated|close|minimize|means|continuum|rheology|e|abstract|reynolds|one|beadspring|onthefly|performed|simulations|viscosity|polymeric|closure|gprinformed|couple|inputs|necessary|unknown|coupling|chains|prespecified|results|five|closure|selected|computational|constructing|level|finite|modeled|volume|polymer|additional|show|learning|dissipative|effective|provides|microscale|nonnewtonian|mesoscopic|fluids|carried|applying|process|constructed|learned|although|instead|increase|expensive|efficiency|obtains|constitutive|regression|gaussian|cylinder|strategy|significantly
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Statistical physics|Dissipative particle dynamics|Mesoscopic physics|Rheology|Multiscale modeling|Complex fluid|Finite volume method|Mathematics|Constitutive equation|Non-Newtonian fluid
+references:1646498580|2031930901|2059714315|2471887004
+
+
+id:2928700123
+title:Supervised parallel-in-time algorithm for long-time Lagrangian simulations of stochastic dynamics: Application to hydrodynamics
+year:2019
+author information:[
+author name:Ansel L. Blumers
+author organization:Brown University
+author id:2515168325|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:projections|plane|predictor|parallelefficient|readily|accuracy|dynamics|bottomup|oscillation|navierstokes|timedependent|based|models|internally|simulation|inspired|twodimensional|unsupervised|atomic|unique|multiscale|compare|subsequently|dynamics|particle|behavior|demonstrating|apart|compared|spasd|sets|fastest|fluctuating|one|simulations|fast|supervise|maximum|macroscopic|resolve|correct|approximate|observe|details|results|computational|solver|studying|iterations|enhanced|demonstrate|applied|smallest|proper|decomposition|dissipative|microscale|molecular|characteristics|lagrangian|although|predictorcorrector|meanfield|supervised|detailed|step|time|langevin|simulation|type|number|cores|model|spatial|simulate|flow|algorithm|similar|period|expensive|efficiency|method|large|rendering|macromodel|propose|simulations|system|provide|converge|even|poiseuille|analyze|dpd|algorithm|microscopic|requires|systems|methods|serves|lowfidelity|tools|conjunction|feature|yield|stochastic|performance|continuum|exponentially|abstract|anticipates|solution|consistent|lowdimensional|inconsistent|framework|powerful|irrespective|first|small|nanoscale|theoretical|use|used|identical|limit|find|accelerate|longtime|including|parallelintime|simulator|cavity|corrects|superior|prediction|true|present|convergence|coarsegraining|general|computing|parallel|predictor|highdimensional|simulator|recover|limited|deviation|also|approaches|converges|performance|conventional|hydrodynamic
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Dissipative particle dynamics|Langevin dynamics|Microscale chemistry|Algorithm|Decomposition method (constraint satisfaction)|Solver|Mathematics|Speedup|Hagen–Poiseuille equation
+references:1646498580|1966394094|2020855741|2022260415|2029778460|2060526862|2098256494|2128824543|2135499842|2137867316|2140489561|2556130085|2563847434|2573635522
+
+
+id:2971250823
+title:A GPU-accelerated package for simulation of flow in nanoporous source rocks with many-body dissipative particle dynamics
+year:2020
+author information:[
+author name:Yidong Xia
+author organization:Idaho National Laboratory, Idaho Falls, ID, USA
+author id:2145831668|
+author name:Ansel Blumers
+author organization:Energy and Environment Science  Technology Directorate, Idaho National Laboratory, Idaho Falls, ID, USA
+author id:2515168325|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Lixiang Luo
+author organization:Center of Excellence at ORNL, IBM, Oak Ridge, TN, USA
+author id:2924322329|
+author name:Yu-Hang Tang
+author organization:Computational Research Division; Lawrence Berkeley National Laboratory; Berkeley CA USA
+author id:2105073913|
+author name:Joshua Kane
+author organization:Materials and Fuels Complex, Idaho National Laboratory, Idaho Falls, ID, USA
+author id:2107068727|
+author name:Jan Goral
+author organization:University of Utah
+author id:2285995489|
+author name:Hai Huang
+author organization:Energy and Environment Science  Technology Directorate, Idaho National Laboratory, Idaho Falls, ID, USA
+author id:2297912703|
+author name:Milind Deo
+author organization:University of Utah
+author id:2251669930|
+author name:Matthew Andrew
+author organization:Marketing Technology, Carl Zeiss X-ray Microscopy, Pleasanton, CA, USA
+author id:2119881947|
+]
+abstract:stack|accuracy|captured|summit|dynamics|sizes|national|complex|nvlink|nanometerresolution|fluid|particles|fully|pores|using|solid|unusual|investigating|must|boost|titan|coarsegrained|subcontinuum|ridge|strong|pore|pcie|networks|gnu|speed|capability|particle|microscale|based|compared|nature|gpgpus|scaling|address|workloads|nanometers|model|simulations|cuda|phenomena|multiphase|source|compute|summitdev|counterpart|microporous|program|openmp|modeled|offloads|hydrocarbon|remarkable|geometries|oak|general|architecture|nvidia|micrometers|nearly|hosttodevice|noslip|packing|dissipative|summary|mesoscopic|quickturnaround|evolution|ranging|usermeso|delivers|time|significantly|simulation|mpi|license|programming|delivered|velocityverlet|improved|compatible|cores|fluidsolid|four|model|flow|surface|distributed|benchmark|physically|system|million|algorithm|requires|fluidfluid|images|gpus|indefinitely|gpuaccelerated|supercomputer|smart|weak|geometries|solution|enables|abstract|molecules|perfect|mesoscale|cpu|prevents|penetrating|heterogeneous|suggests|realistic|implemented|intensive|shale|package|fluid|gpus|public|condition|particlebased|speedup|files|present|chemically|boundary|nano|code|part|shales|licensing|interactions|integrated|micropore|numerical|validated|rocks|manybody|parallel|highthroughput|construction|mesoscopic|singlegpu|arbitrary|also|performance|due|interaction|rival|wall|walls
+venue name:Computer Physics Communications
+venue id:142305363
+venue type:J
+document type:Journal
+study fields:Boundary value problem|Dissipative particle dynamics|Mathematical analysis|CUDA|Mesoscopic physics|Computational science|Multiphase flow|Titan (supercomputer)|Particle|Mathematics|Speedup
+references:1973202568|1976346389|1990255291|1994439127|2018433391|2026263283|2048621586|2135499842|2147357230|2168363974|2556130085|2563847434|2964159310
+
+
+id:1646498580
+title:Multiscale Universal Interface
+year:2015
+author information:[
+author name:Yu-Hang Tang
+author organization:Brown University
+author id:2105073913|
+author name:Shuhei Kudo
+author organization:Kobe University
+author id:2939738600|
+author name:Xin Bian
+author organization:Brown University
+author id:2235881919|
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:George Em Karniadakis
+author organization:Collaboratory on Mathematics for Mesoscopic Modeling of Materials, Pacific Northwest National Laboratory, Richland, WA 99354, USA
+author id:117170032|
+]
+abstract:couette|modeling|mpi|dropped|awareness|three|required|particle|conjugate|enable|easily|concurrently|fluid|spatial|flow|models|using|universal|solid|method|surface|dependency|simulated|smoothed|handle|flexibility|method|facilitating|simulations|sampler|domain|dpd|simultaneously|multiscale|headeronly|ie|solvers|study|dissipative|grafting|customizable|deterministic|range|tools|two|interpretation|flexibility|library|metaprogramming|phenomena|stochastic|mpmd|modifications|hydrodynamics|simulations|framework|powerful|difficulties|irrespective|information|combined|posing|interface|first|codes|data|sph|serve|heterogeneous|multiscale|template|employed|second|coupling|protocol|surface|major|intersolver|create|solvers|consider|communication|different|particlebased|finite|practice|runtime|often|significant|energyconserving|external|hybrid|transfer|improve|effect|typing|exchange|demonstrate|coupled|present|support|heat|code|solving|concept|element|capable|effort|concurrently|numerical|minimal|paper|validated|dynamics|asynchronous|hence|resolutions|wide|also|hydrodynamics|heavily|solverindependent|existing|codes|performance|form|third|adopts|handling|integrates|properties
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Asynchronous communication|Smoothed-particle hydrodynamics|Dissipative particle dynamics|Multiphysics|Template metaprogramming|Computer science|Multiscale modeling|Finite element method|Computational science|Software framework
+references:1537765608|1667695535|1858694651|1973202568|1983915714|2012867279|2017085690|2031930901|2045366089|2061817665|2099864312|2104838136|2112585552|2114235390|2129074234|2129874211|2135499842|2143777453|2152828629|2156156326|2171960302
+
+
+id:1922087524
+title:Mesoscale modeling of phase transition dynamics of thermoresponsive polymers.
+year:2015
+author information:[
+author name:Zhen Li
+author organization:Brown University
+author id:2671674842|
+author name:Yu-Hang Tang
+author organization:Brown University
+author id:2105073913|
+author name:Xuejin Li
+author organization:Brown University
+author id:2099777417|
+author name:George Em Karniadakis
+author organization:Brown University
+author id:117170032|
+]
+abstract:shift|process|variation|observed|correctly|precipitation|dynamics|model|dynamic|details|different|mechanisms|energy|phase|simulations|endothermic|dominating|capture|underlying|provide|transient|present|polymer|nonisothermal|two|conserves|thermoresponsive|dynamics|induced|since|mesoscopic|behavior|mechanism|also|concentration|peak|thermally|transition|confirm|polymers|able|associated|investigation|explored
+venue name:Chemical Communications
+venue id:152760256
+venue type:J
+document type:Journal
+study fields:Chemical physics|Nanotechnology|Endothermic process|Polymer|Thermoresponsive polymers in chromatography|Phase transition|Inorganic chemistry|Mesoscopic physics|Mesoscale meteorology|Chemistry|Solvent
+references:1973202568|2135499842
+
+
+id:1543784367
+title:Bifurcation study of three-phase inverter system with interacting loads
+year:2015
+author information:[
+author name:Yining Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2405781343|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Siu-Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Xi Chen
+author organization:State Grid Information  Telecommunication Co., LTD, Beijing, China
+author id:2715003562|
+author name:Zhen Chen
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2138965974|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:commercial|dg|pv|collected|arrays|dynamics|loads|inevitably|inverters|oscillation|boundaries|connection|directly|presence|export|stability|generation|ac|commonly|numerically|impact|distributed|vsi|oscillatory|deteriorate|vsi|respect|plenty|voltagesource|mutual|system|phenomenon|conditions|full|circuit|sources|equipped|units|threephase|utility|point|capability|common|resistive|power|behavior|conversion|practical|may|emergence|studied|gridconnected|loads|single|hopftype|regulation|corresponding|various|interaction|lowfrequency|dc
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Oscillation|Three phase inverter|Control theory|Computer science|Resistive touchscreen|Electronic engineering|Distributed generation|Numerical stability|Three phase voltage source inverter|Bifurcation
+references:1965047253|2017605635
+
+
+id:1605486869
+title:Impedance modeling of DFIG-wind turbine system
+year:2015
+author information:[
+author name:Xiaozhong Liao
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2627446315|
+author name:Hang Sun
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2550609521|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Siu-Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Li Tian
+author organization:China Huadian Engineering Co., Ltd. Beijing, China
+author id:2486832525|
+author name:Miaoyuan Wang
+author organization:China Huadian Engineering Co., Ltd. Beijing, China
+author id:2682262202|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:rotor|modeling|impedance|source|developed|loads|inevitably|create|dynamic|model|speeds|potential|verification|dqframe|turbine|smallsignal|using|method|testing|electrical|analysis|system|respect|discrete|mutual|system|leads|instability|equivalently|presenting|dfig|implicit|facilitate|impedancebased|speed|random|varying|paper|dfigwind|studies|power|closedform|characteristics|practical|turbines|custom|existent|voltage|interaction|changeable|approach|adopted
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Control theory|Voltage source|Computer science|Instability|Power grid|Control engineering|Electronic engineering|Electrical impedance|Rotor (electric)|Turbine|Doubly fed electric machine|Wind power
+references:1998591157|2030709198|2141507550
+
+
+id:1920006802
+title:Hybrid control and steering logic for the CMG-based spacecraft attitude control system
+year:2015
+author information:[
+author name:Xing Xin
+author organization:School of Automation, Beijing Institute of Technology, Beijing 100081, China
+author id:2225978573|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Zhen Chen
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2138965974|
+]
+abstract:developed|space|improved|spacecraft|identification|loop|property|lock|specifically|cmg|utilized|fully|based|maneuvering|method|robustness|conducted|avoidance|remaining|angular|conservation|system|hybrid|proposed|improve|restrained|exchange|agile|attitude|gyros|numerical|applied|guarantee|uncertainty|integrated|moment|responsiveness|adaptive|capability|systems|verify|singularity|gimbal|algorithms|effectiveness|normal|practical|cmgs|steering|control|occurs|momentum|controllability|simulations|considering|performance|handled|closed|online|logic|strategy|first|law
+venue name:International Conference on Control Applications
+venue id:2623196460
+venue type:C
+document type:Conference
+study fields:Controllability|Computer science|Control theory|Singularity|Control engineering|Robustness (computer science)|Attitude control|Control logic|Adaptive control|Control moment gyroscope|Spacecraft
+references:2037200103|2123010170|2158538724
+
+
+id:1936137442
+title:Modeling of unbalanced three-phase driving-point impedance with application to control of grid-connected power converters
+year:2016
+author information:[
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Siu Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Chi K. Tse
+author organization:Hong Kong Polytech. University
+author id:2463691564|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:application|modeling|interacting|john|approach|wiley|symmetrical|complex|filtering|case|generation|still|using|capacitance|method|positivesequence|dq|distributed|opposite|analysis|dynamically|propose|system|irb|algorithms|systems|components|study|independent|another|sequences|threephase|balanced|two|bases|ripples|currents|microgrid|theory|one|loads|transformation|connected|component|removed|impedance|used|copyright|counterpart|create|missing|widespread|unbalanced|combination|always|widely|decoupled|real|negativesequence|basis|compensator|voltages|impedances|proposed|belongs|transformations|coupled|facilitate|analysis|coupling|decompose|technique|inherently|reciprocal|point|effective|common|load|ltd|transformed|derived|effectiveness|frame|zerosequence|verified|control|doublefrequency|voltage
+venue name:International Journal of Circuit Theory and Applications
+venue id:92132303
+venue type:J
+document type:Journal
+study fields:Inductance|Capacitance|Control theory|Filter (signal processing)|Electrical impedance|Converters|Three-phase|Symmetrical components|Mathematics|Microgrid
+references:1511067542|1901437293|1910412042|1963539491|1998591157|2023378091|2024437637|2030709198|2073703226|2075083341|2087280280|2096657165|2098339811|2132755931|2143489520|2143527974|2146481218|2155638758|2157124445
+
+
+id:1998591157
+title:Anti-windup dual-loop control of DFIG under unbalanced voltage conditions
+year:2012
+author information:[
+author name:Zhen Li
+author organization:Hong Kong Polytech. University
+author id:2197208133|
+author name:Siu-Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Chi K. Tse
+author organization:Hong Kong Polytech. University
+author id:2463691564|
+]
+abstract:synchronous|dualloop|decouple|developed|builtin|loop|presented|modified|unbalanced|illustrated|results|generation|new|based|using|method|proposes|windup|decoupled|mw|extraction|sequences|system|sequence|condition|system|proposed|indifferent|minimization|discrete|demonstrate|conditions|dfig|wind|components|additional|link|fluctuation|generator|torque|system|negative|induction|dual|library|paper|fourier|systems|responsible|sub|behavior|harmonic|validate|controller|control|positive|pulsation|scheme|doublyfed|voltage|super|single|series|conditions|conventional|simulation|antiwindup|grid|avoid|operation|dc
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Dual loop|Control theory|Torque|Control theory|Computer science|Voltage|Harmonic|Electronic engineering|Harmonic analysis|Control system|Induction generator
+references:2062645572|2137265309
+
+
+id:2011041868
+title:Bowstring-based dual-threshold computation method for adaptive Canny edge detector
+year:2013
+author information:[
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Yin Yu
+author organization:School of Automation
+author id:2477075457|
+author name:Bing Liu
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2713501521|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+]
+abstract:tendency|adaptivesearching|unimodal|characteristics|points|evaluation|edge|thresholding|measures|presented|implemented|method|evaluated|algorithm|based|using|gmh|comparison|demonstrates|method|receiver|canny|accurately|histogram|proposed|detector|skillful|dualthreshold|curve|reliability|two|hysteresis|adaptive|targeting|tangent|paper|transitional|magnitude|acquisition|operating|introduction|characteristics|robust|gradient|computation|performance|bowstring|detailed|novel
+venue name:Image and Vision Computing New Zealand
+venue id:1130524533
+venue type:C
+document type:Conference
+study fields:Computer vision|Canny edge detector|Deriche edge detector|Image gradient|Pattern recognition|Computer science|Edge detection|Image segmentation|Artificial intelligence|Balanced histogram thresholding|Thresholding|Computation
+references:2042865588|2056011345|2058247977|2072332511|2079657870|2084722065|2124910748|2137371749|2145023731|2146706954|2153394113|2164672857|2167566599
+
+
+id:2070288589
+title:Period-doubling bifurcation and its boundary study of DFIGWind turbine connected with local interacting unbalanced loads in micro-grid
+year:2014
+author information:[
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Siu Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Yuehui Huang
+author organization:China Electr. Power Res. Institute, Beijing, China
+author id:2437305059|
+author name:Xi Chen
+author organization:State Grid Inf.  Telecom Co. Ltd., Beijing, China
+author id:2715003562|
+]
+abstract:illustrating|undergoing|observed|vulnerable|bifurcation|unequallydistributed|complex|boundaries|dynamic|unbalanced|potential|stability|investigated|generation|turbine|attractive|parameters|hazardous|distributed|microgrids|loading|harmonics|system|renewable|instability|conditions|dfig|wind|problems|fullcircuit|directconnection|reliability|perioddoubling|reveals|units|sequences|point|negative|common|paper|systems|due|low|windings|studies|phenomena|behavior|matlab|loads|resources|control|voltage|single|various|arises|stator|certain
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Period-doubling bifurcation|Computer science|Control theory|Instability|Electronic engineering|Harmonics|Distributed generation|Low voltage|Turbine|Stator|Bifurcation
+references:1965047253|1998591157|2030709198|2137265309
+
+
+id:2227911263
+title:Controller saturation nonlinearity in doubly fed induction generator-based wind turbines under unbalanced grid conditions
+year:2016
+author information:[
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Siu Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Chi K. Tse
+author organization:Hong Kong Polytech. University
+author id:2463691564|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:john|nonlinear|variation|newly|linearmodulated|identified|simpowersystems|loads|builtin|terms|wiley|oscillation|model|usually|flow|investigated|energy|generation|parameters|nonlinearity|fed|hazardous|distributed|utilizes|resistance|system|wind|dfig|assumes|components|overmodulation|explores|protection|balanced|smart|naturally|induction|library|study|systems|reported|power|emerging|harmonic|dfigbased|one|grid|maximum|summarizes|lowfrequency|partially|dc|rotor|generations|converter|used|developed|second|frequency|analyzed|saturation|copyright|major|controllers|unbalanced|capture|turbine|settings|behaviors|widely|system|chosen|backtoback|matlab|line|link|generator|speed|converters|paper|load|ltd|design|limiter|drifting|rich|voltage|rated|conventional|due|detailed|variable
+venue name:International Journal of Circuit Theory and Applications
+venue id:92132303
+venue type:J
+document type:Journal
+study fields:Control theory|Smart grid|Control theory|Voltage|Harmonic|Electronic engineering|Converters|Turbine|Grid|Mathematics|Wind power
+references:1499436349|1511067542|1544346598|1597420979|1943342793|1946113158|2076078926|2086299380|2102701922|2137265309|2161118814
+
+
+id:2411895082
+title:Stochastic Stability Condition for the Extended Kalman Filter With Intermittent Observations
+year:2017
+author information:[
+author name:Xiangdong Liu
+author organization:School of Automation, Key Laboratory of Intelligent Control and Decision of Complex Systems; Beijing Institute of Technology; Beijing China
+author id:2781393283|
+author name:Luyu Li
+author organization:School of Automation, Key Laboratory of Intelligent Control and Decision of Complex Systems; Beijing Institute of Technology; Beijing China
+author id:2413782015|
+author name:Zhen Li
+author organization:School of Automation, Key Laboratory of Intelligent Control and Decision of Complex Systems; Beijing Institute of Technology; Beijing China
+author id:2197208133|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Herbert H. C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+]
+abstract:addresses|exceeds|intermittent|existence|threshold|transmitted|analyzing|output|problem|estimator|sufficient|method|stability|order|given|modeled|bounded|estimation|feasibility|proposed|prediction|value|tackle|pecm|demonstrate|conditions|arrival|crucial|covariance|error|matrix|bernoulli|extended|measurement|example|proved|offline|numerical|rate|stochastic|brief|kalman|means|derived|also|filter|performance|mean
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Alpha beta filter|Extended Kalman filter|Fast Kalman filter|Control theory|Bernoulli process|Covariance intersection|Kalman filter|Ensemble Kalman filter|Invariant extended Kalman filter|Mathematics
+references:1995074519|2000340713|2051992184|2078657051|2092969115|2101051269|2106015652|2123487311|2140355755|2152898444|2164522996|2165777968|2296714663
+
+
+id:2490789592
+title:Border Collision of Three-Phase Voltage-Source Inverter System with Interacting Loads
+year:2016
+author information:[
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Bin Liu
+author organization:Beijing Institute of Technology, Beijing
+author id:2712171434|
+author name:Yining Li
+author organization:State Grid East Inner Mongolia Economic Research Institute, Hohhot 010020, P. R. China
+author id:2405781343|
+author name:Siu Chung Wong
+author organization:Hong Kong Polytech. University
+author id:2103760073|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Yuehui Huang
+author organization:China Electric Power Research Institute, Beijing 100192, P. R. China
+author id:2437305059|
+]
+abstract:interacting|loads|inverters|converters|connection|dependent|energy|generation|ac|issue|distributed|deteriorate|vsi|quality|among|circuital|explores|threephase|capability|found|rectifying|power|mechanism|charge|emergence|within|one|loads|gridconnected|assumed|designoriented|grid|manifests|operation|dc|commercial|inverting|converting|view|dramatically|export|stability|border|raising|new|commonly|take|collision|condition|harmonics|voltagesource|mutual|effect|support|equipped|cause|utility|point|common|paper|induced|resistive|terminated|conversion|normal|voltage|alternating|regulation|investigation
+venue name:International Journal of Bifurcation and Chaos
+venue id:81011612
+venue type:J
+document type:Journal
+study fields:Control theory|Resistive touchscreen|Energy transformation|Converters|Collision|Harmonics|Voltage regulation|Distributed generation|Mathematics|Bifurcation
+references:1936137442|2017605635
+
+
+id:2493532813
+title:Near Optimal Control Based on the Tensor-Product Technique
+year:2017
+author information:[
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2218504231|
+author name:Xing Xin
+author organization:School of Automation and Key Laboratory for Intelligent Control and Decision on Complex Systems, Beijing Institute of Technology, Beijing, China
+author id:2225978573|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Zhen Chen
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2138965974|
+]
+abstract:optimal|inequalitybased|simplification|body|linearparametervarying|tracking|mainly|investigates|problem|optimization|dynamic|model|specifically|near|stability|order|law|depends|conducted|guaranteed|system|proposed|final|form|attitude|virtual|numerical|achieve|provided|nonlinearity|matrix|targets|tensorproduct|adaptive|offline|secondorder|verify|rigid|controller|derived|designed|algorithms|brief|characterized|effectiveness|means|controller|linear|apply|control|simulations|response|typical|transformation|online|combined
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Control theory|Optimal control|Linear-quadratic-Gaussian control|Control theory|Attitude control|Automatic control|Adaptive control|Variable structure control|Linear matrix inequality|Mathematics
+references:1972079066|2000217518|2008782864|2030735230|2099852332|2139722906|2166370829|2285464184|2296714663|2327986864
+
+
+id:2508459081
+title:Modelling and characterization of dynamic behavior of coupled memristor circuits
+year:2016
+author information:[
+author name:Jason K. Eshraghian
+author organization:University of Western Australia
+author id:2478330564|
+author name:Herbert H.C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Dongsheng Yu
+author organization:China university of mining  technology
+author id:2127256266|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+]
+abstract:theoretical|simulation|type|different|variation|analyses|coupling|terms|dynamic|represented|different|closure|circuits|current|order|polarity|given|based|agreement|behaving|circuits|affirm|theorem|consideration|coupled|theory|mathematically|higher|memristors|ascertain|explores|complexity|fundamental|two|memductance|dual|paper|memristor|modelled|flux|behavior|device|characterized|cases|voltage|connected|constitutive|series
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Memristor circuits|Memristor|Coupling|Computer science|Voltage|Inductor|Electronic engineering|Flux|Memistor
+references:1979543683|1987952106|2021383442|2081226336|2118015966|2163054919|2168734154
+
+
+id:2568236664
+title:A novel constant gain Kalman filter design for nonlinear systems
+year:2017
+author information:[
+author name:Xiangdong Liu
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2781393283|
+author name:Yin Yu
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2477075457|
+author name:Zhen Li
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2197208133|
+author name:Herbert H.C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+]
+abstract:considered|whole|nonlinear|without|usually|filtering|doi|resultant|using|polytopic|finalized|traditional|system|even|domain|obtained|singledomain|inequalities|conservative|guarantee|global|matrix|local|gain|uniform|systems|presentedthe|segmentation|firstly|share|highlightsa|key|linearization|gainsthe|kalman|product|linear|one|filter|framework|cannot|example|choice|tp|operation|reduction|corresponds|novel|techniques|constant|achieves|good|unsuitable|prior|segment|stability|computational|always|cgkf|given|ensure|includes|guaranteed|squeezed|estimation|points|interestthe|conservatism|power|applied|globally|subdomain|technique|capable|error|point|integrated|general|paper|common|interest|design|transformed|designed|effectiveness|limited|multiple|verified|tensor|specific|domainthe|formulated|performance|detailed|manipulating|clustering|conservativeness|applications|presents
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Tensor product|Mathematical optimization|Nonlinear system|Control theory|Matrix (mathematics)|Feedback linearization|Filter (signal processing)|Kalman filter|Cluster analysis|Linearization|Mathematics
+references:1642796894|1988421993|1992039099|1998510156|1999726465|2012504174|2013912476|2033906866|2057909588|2061233009|2061886151|2078060826|2099852332|2107929215|2166370829|2170661221|2199469138|2200680720|2296714663|2299724360|2342560477|2395517654
+
+
+id:2572969747
+title:An Efficient Algorithm for Optimally Reshaping the TP Model Transformation
+year:2017
+author information:[
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Yin Yu
+author organization:School of Automation
+author id:2477075457|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Herbert H. C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+]
+abstract:optimal|process|main|issues|via|introduced|ongoing|tightening|realized|model|recent|algorithm|models|efficiency|depends|models|proposes|index|analysis|simulations|toward|system|following|integration|conditions|inequalities|works|enhances|methods|technique|reshaping|matrix|recursive|random|numerical|search|design|quantize|demonstrated|emerging|brief|effectiveness|product|linear|efficient|one|solution|lmi|heavily|tensor|transformation|encountered|performance|powerful|intensively|series|tightness|tp|strategy|novel
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Tensor product|Random search|Model transformation|Mathematical optimization|Structured systems analysis and design method|Numerical models|Matrix (mathematics)|Algorithm|Mathematics|Recursion
+references:2007473161|2013912476|2078133820|2099852332|2100317422|2101231501|2115897070|2128617559|2166370829|2296714663|2298802167|2395517654|2408268044
+
+
+id:2597943810
+title:Stochastic stability of modified extended Kalman filter over fading channels with transmission failure and signal fluctuation
+year:2017
+author information:[
+author name:Xiangdong Liu
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2781393283|
+author name:Luyu Li
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2413782015|
+author name:Zhen Li
+author organization:Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2197208133|
+author name:Herbert H.C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+]
+abstract:upper|meansquare|nonlinear|channelsthe|suffer|facilitates|pecmsthe|estimate|model|boundedness|respectively|based|errorthis|using|work|methods|analysis|feasibility|examples|networks|consideration|rate|conditions|greatly|numerical|focuses|covariance|extended|offline|estimator|taken|verify|expectations|established|kalman|filter|designoriented|existence|transmission|shows|presented|sufficient|modified|signal|results|given|fading|bounded|sequence|condition|proposed|failure|fixedpoint|prediction|demonstrate|mekfs|analytical|arrival|provided|crucial|fluctuation|theorem|error|bernoulli|paper|mekf|design|observations|exposed|matrices|derived|rayleigh|process|bound|also|wireless
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Extended Kalman filter|Rayleigh fading|Control theory|Upper and lower bounds|Fading|Bernoulli process|Fading distribution|Mathematics|Estimator|Channel state information
+references:176082795|1986717861|1992039099|2003482013|2006663524|2027020592|2042908428|2051992184|2052334067|2055731050|2063659559|2078566052|2078657051|2084185458|2101051269|2102646308|2113118558|2122470508|2124933191|2127161747|2130475068|2140355755|2145429062|2152898444|2154828437|2159883393|2164522996|2165777968|2296244006|2296714663|2296847049|2319292949|2342560477|2395517654|2962991637
+
+
+id:2616591171
+title:Recognition and Vulnerability Analysis of Key Nodes in Power Grid Based on Complex Network Centrality
+year:2018
+author information:[
+author name:Bin Liu
+author organization:Beijing Institute of Technology, Beijing
+author id:2712171434|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xi Chen
+author organization:Global Energy Interconnection Research Institute North America, Santa Clara, CA, USA
+author id:2715003562|
+author name:Yuehui Huang
+author organization:China Electr. Power Res. Institute, Beijing, China
+author id:2437305059|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:grids|introduced|identified|inevitably|complex|model|flow|respectively|resultant|using|ac|verifying|topology|methods|electrical|index|vulnerability|analysis|perspective|pointed|node|system|analyze|damage|eventually|catastrophic|verify|power|ability|based|behavior|key|established|failures|explore|lead|assess|first|severe|describe|operation|recognition|high|centrality|weighted|results|ieee|correctness|test|difficult|decrease|becomes|transfer|failure|helps|netability|analysis|show|network|studies|cascading|grids|brief|effectiveness|normal|cases|identify|nature|effectively|nodes|performance|conventional|simulation
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Centrality|Electric power system|AC power|Network topology|Electric power transmission|Cascading failure|Complex network|Power-system protection|Mathematics|Distributed computing
+references:1607148962|2067717370|2091945401|2172272164|2296714663|2518104650
+
+
+id:2739010045
+title:Event-Trigger Particle Filter for Smart Grids With Limited Communication Bandwidth Infrastructure
+year:2018
+author information:[
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+author name:Luyu Li
+author organization:School of Automation, Key Laboratory of Intelligent Control and Decision of Complex Systems; Beijing Institute of Technology; Beijing China
+author id:2413782015|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xi Chen
+author organization:GEIRI North America
+author id:2715003562|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Herbert Ho-Ching Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Guoqing He
+author organization:china electric power research institute
+author id:2737099854|
+]
+abstract:innovational|transmitted|grids|selects|reliable|realtime|bottleneck|specifically|state|filtering|fully|order|algorithm|generation|using|considering|nonlinearity|containing|etpf|distributed|feasibility|saving|system|estimation|networks|appropriate|eventtrigger|statistical|role|achieve|smart|measurement|adoption|particle|demonstrated|develops|established|bandwidth|observation|filter|designoriented|accuracy|filtering|icn|units|information|standard|dg|data|use|networking|phasor|employed|prior|widespread|communication|ieee|infrastructure|development|making|guaranteed|technology|establish|estimation|important|beneficial|boosts|full|arrival|purpose|link|network|burden|informationcentric|paper|rate|observations|design|designed|accurate|enhance|amount|plays|relieve|performance|strategy
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Bottleneck|Algorithm design|Smart grid|Particle filter|Phasor|Filter (signal processing)|Real-time computing|Electronic engineering|Bandwidth (signal processing)|Distributed generation|Engineering
+references:1973636889|1984563492|1991460095|2011753154|2015569921|2023329448|2043069489|2063092822|2078198692|2080973322|2090495398|2117789617|2119866123|2122642161|2125794835|2148569971|2164522996|2165519686|2202088484|2259547337|2296714663|2332655816|2342997462|2411895082
+
+
+id:2760002537
+title:Adaptive droop control with self-adjusted virtual impedance for three-phase inverter under unbalanced conditions
+year:2017
+author information:[
+author name:Zelun Lu
+author organization:School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing I0008I, China
+author id:2759558890|
+author name:Wenxuan Li
+author organization:School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing I0008I, China
+author id:2760780452|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xi Chen
+author organization:Global Energy Interconnection Research Institute North America 5451 Great America Parkway Suite 125, Santa Clara CA 95054
+author id:2715003562|
+author name:Herbert H. C. Lu
+author organization:University of Western Australia
+author id:2222677517|
+author name:Ning Dong
+author organization:School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing I0008I, China
+author id:2758642072|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2218504231|
+]
+abstract:accurate|impedance|used|autonomous|fulldq|reliable|identification|unbalanced|problems|potential|results|stability|fully|acquired|simulations|method|widely|proposes|active|modeled|sharing|becomes|important|reactive|proposed|even|improve|power|conditions|support|however|virtual|threephase|cause|guarantee|technique|interface|matrix|selfadjusted|droop|adaptive|capability|paper|design|microgrid|verify|power|based|effectiveness|pseudoinverse|may|decoupling|arbitrary|inverter|control|also|voltage|compensation|ineffective|droop|achieved|information
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Impedance parameters|Voltage compensation|Computer science|Control theory|Impedance matching|Electronic engineering|AC power|Impedance bridging|Input impedance|Microgrid|Voltage droop
+references:1936137442
+
+
+id:2772766304
+title:A full-dq based adaptive virtual impedance compensation in virtual power frame for droop-controlled parallel inverters under unbalanced conditions
+year:2017
+author information:[
+author name:Yuan Cao
+author organization:School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing 100081, China
+author id:2773606191|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Zelun Lu
+author organization:School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing Institute of Technology, Beijing I0008I, China
+author id:2759558890|
+author name:Zhen Chen
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2138965974|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2218504231|
+]
+abstract:practice|simulation|impedance|lowvoltage|unbalances|fulldq|improved|coupling|problem|identified|unbalanced|results|utilized|generation|based|using|ensure|commonly|method|proposes|active|highvoltage|significant|extend|reactive|proposed|power|virtual|components|provided|overcome|guarantee|technique|advance|pure|threephase|known|paper|microgrid|microgrid|verify|lineimpedance|power|fails|effectiveness|frame|identify|decoupling|arbitrary|inverter|control|existent|connected|compensated|droop|application|conventional|conditions|due|distributed|irrespective|information
+venue name:Conference of the Industrial Electronics Society
+venue id:2623571572
+venue type:C
+document type:Conference
+study fields:Inverter|Control theory|Decoupling (cosmology)|Automatic frequency control|Electrical impedance|AC power|Distributed generation|Engineering|Microgrid|Voltage droop
+references:2014366918|2155638758|2162535598
+
+
+id:2789184469
+title:Event-Trigger Heterogeneous Nonlinear Filter for Wide-Area Measurement Systems in Power Grid
+year:2019
+author information:[
+author name:Sen Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2754457613|
+author name:Luyu Li
+author organization:Beijing Institute of Radio Measurement, Beijing, China
+author id:2413782015|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xi Chen
+author organization:GEIRI North America
+author id:2715003562|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Herbert Ho-Ching Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Guoqing He
+author organization:china electric power research institute
+author id:2737099854|
+author name:Qinglin Wang
+author organization:School of Automation, Beijing Institute of Technology, China
+author id:2765356782|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:accurate|improves|nonlinear|realtime|raises|state|truly|filtering|generation|based|using|sampling|distributed|monte|heavy|feasibility|node|cooperating|toward|system|among|served|eventtrigger|measurement|smart|local|slave|current|systems|low|verify|particle|power|widearea|boosted|pmus|established|slave|computation|filter|grid|transformation|standard|data|phasor|heterogeneous|frequency|ethnf|high|pmus|communication|problems|results|ieee|computational|development|proposes|confronted|estimation|unit|solve|full|challenges|generator|best|generation|carlobased|size|booming|burden|paper|wams|designed|center|amount|advantage|unscented|center|perform|requirement|although|structure|sensors|performance|simulation|infrastructure|pmu|strategy|taking
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Monte Carlo method|System of measurement|Particle filter|Phasor measurement unit|Sampling (signal processing)|Filter (signal processing)|Electronic engineering|Distributed generation|Engineering|Nonlinear filter
+references:1984563492|2015569921|2080973322|2104130465|2123487311|2125794835|2148569971|2161736283|2206041003|2259547337|2296714663|2318930623|2332655816|2344988412|2411895082|2554200450|2591996318|2739010045|2763375416
+
+
+id:2800794781
+title:Dynamic State Estimation for DFIG Wind Turbine with Stochastic Wind Speed in Power System
+year:2018
+author information:[
+author name:Wuyang Su
+author organization:Beijing Institute of Technology, School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing 100081,China
+author id:2799571766|
+author name:Bin Liu
+author organization:Beijing Institute of Technology, School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing 100081,China
+author id:2712171434|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xuefei Mao
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2803042792|
+author name:Meng Huang
+author organization:Wuhan University
+author id:2166842572|
+author name:Guoqing He
+author organization:china electric power research institute
+author id:2737099854|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2218504231|
+]
+abstract:accurate|results|leading|excluded|equations|reliable|state|filtering|utilized|similar|using|method|feasibility|system|rely|wind|dfig|statistical|occurrence|measurement|speed|induction|systems|faults|stochastic|verify|power|essential|develops|kalman|dfigwt|inaccurate|filter|connected|information|connecting|operation|standard|data|states|available|historical|process|phasor|centralized|dse|dynamic|generate|ieee|turbine|modeled|particular|becomes|estimation|proposed|dses|involving|applied|trajectories|generator|units|unavailability|speed|states|differential|paper|electric|although|doublyfed|due|various|variable|properties
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Wind speed|Control theory|Computer science|Phasor|Electric power system|Stochastic process|Kalman filter|Turbine|Induction generator|Wind power
+references:1984563492|2206041003|2739010045
+
+
+id:2810457141
+title:A Nested Tensor Product Model Transformation
+year:2019
+author information:[
+author name:Yin Yu
+author organization:School of Automation
+author id:2477075457|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xiangdong Liu
+author organization:School of Automation
+author id:2781393283|
+author name:Kaoru Hirota
+author organization:School of Automation
+author id:2119217964|
+author name:Xi Chen
+author organization:GEIRI North America
+author id:2715003562|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Herbert H. C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+]
+abstract:modeling|ntpmt|tpmt|iteratively|conducting|newly|number|structure|meaning|bottleneck|model|defined|algorithm|based|resultant|rectification|expected|methods|inequality|contains|system|obtained|conservative|vertices|proven|matrix|two|extended|augment|systems|emerging|fourparameter|product|linear|transformation|simulations|framework|tpmts|tightness|prone|hull|reduction|dimensions|performs|vertex|dimensional|fewer|main|developed|nested|hierarchical|results|significantly|less|real|decrease|proposed|demonstrate|suboptimal|higher|multilevel|tensors|capable|numerical|inclusion|convex|physical|dimension|render|fuzzy|original|multiple|verified|control|also|tensor|possible|performance|application|conservativeness|design|merges
+venue name:IEEE Transactions on Fuzzy Systems
+venue id:134177497
+venue type:J
+document type:Journal
+study fields:Tensor product|Tensor product model transformation|Tensor|Control theory|Matrix decomposition|Fuzzy logic|Convex hull|Algorithm|Systems modeling|Linear matrix inequality|Mathematics
+references:1970300242|1974392705|2007887484|2024165284|2054446390|2068621415|2078133820|2080042467|2099852332|2132072116|2140370281|2155160436|2158054592|2166370829|2168448725|2169585916|2322670803|2612801191|2739010045|2765823258|2789184469|2790681580
+
+
+id:2904316547
+title:Stochastic Event-Triggered Cubature Kalman Filter for Power System Dynamic State Estimation
+year:2019
+author information:[
+author name:Sen Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2754457613|
+author name:You Hu
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2903881637|
+author name:Lini Zheng
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2903627350|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+author name:Xi Chen
+author organization:GEIRI North America
+author id:2715003562|
+author name:Tyrone Fernando
+author organization:University of Western Australia
+author id:2168268519|
+author name:Herbert H. C. Iu
+author organization:University of Western Australia
+author id:2023962783|
+author name:Qinglin Wang
+author organization:School of Automation, Beijing Institute of Technology, China
+author id:2765356782|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2781393283|
+]
+abstract:standard|accurate|accuracy|phasor|alleviate|developed|nonlinear|without|dse|method|dynamic|huge|state|communication|filtering|ieee|utilized|order|computational|reduce|based|lower|estimation|important|cubature|feasibility|concern|system|proposed|complexity|systems|role|occupy|applied|brief|measurement|eventtriggered|rate|provides|stochastic|verify|particle|power|based|ensuring|accurate|ckf|kalman|plays|bandwidth|unscented|effectively|although|specific|filter|schedule|ukf|filtering|performance|various|pf
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Units of measurement|Control theory|Particle filter|Phasor|Electric power system|Filter (signal processing)|Kalman filter|Schedule|Mathematics|Computational complexity theory
+references:186260074|1607148962|2014558518|2016789951|2034232297|2165519686|2411895082|2616591171|2789184469
+
+
+id:2943015689
+title:Event-Trigger Strategy Design and Its Comparative Study for Dynamic State Estimation in Power Systems
+year:2019
+author information:[
+author name:Lini Zheng
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2903627350|
+author name:Zhen Chen
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2138965974|
+author name:Wuyang Su
+author organization:Beijing Institute of Technology, School of Automation and Key Laboratory for Intelligent Control  Decision on Complex Systems, Beijing 100081,China
+author id:2799571766|
+author name:Sen Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2754457613|
+author name:Xi Chen
+author organization:GEIRI North America, CA 95134, USA
+author id:2715003562|
+author name:Xiangdong Liu
+author organization:Beijing Institute of Technology, School of Automation
+author id:2218504231|
+author name:Zhen Li
+author organization:School of Automation
+author id:2197208133|
+]
+abstract:explosive|facilitated|dynamics|realtime|inevitably|transmitting|state|evaluated|reliability|order|containing|monitoring|cubature|feasibility|system|provide|rate|etckf|server|deal|eventtrigger|kinds|measurement|systems|get|verify|power|among|measurements|kalman|gathers|suffers|strategies|filter|designoriented|grid|congestion|standard|data|phasor|view|solution|dse|dynamic|communication|ieee|area|test|strategies|capture|estimation|designs|critical|part|latency|link|units|size|burden|effective|paper|wams|every|plays|wide|increase|generators|performance|application|due|innovation|various|pmu
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Units of measurement|System of measurement|Trigger strategy|Computer science|Server|Phasor|Electric power system|Electronic engineering|Kalman filter|Real-time computing|Application server
+references:1987105960|2011753154|2016789951|2125794835|2137243960|2161736283|2165519686|2206041003|2259547337|2332690930|2739010045|2789184469
+
+
+id:2065081356
+title:Backward channel aware Wyner-Ziv video coding: A study of complexit
+year:2008
+author information:[
+author name:Limin Liu
+author organization:Purdue University
+author id:2534653626|
+author name:Zhen Li
+author organization:Image Technology Research, Dolby Laboratories, Burbank, CA
+author id:2681803858|
+author name:Edward J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:encode|accurate|sufficiently|use|channel|source|stateoftheart|intra|backward|model|keeps|coding|efficiency|method|frames|lower|schemes|decoder|encoding|sent|two|estimation|sequence|selection|proposed|rely|leads|complexityratedistortion|present|much|frame|wynerziv|complexity|study|scheme|methods|frequent|back|video|two|derive|tradeoff|exploits|aware|coding|paper|vector|many|key|compared|types|side|motion|predictive|also|schemes|performed|encoder|decoder|information|uses|information|statistics
+venue name:Signal Processing-image Communication
+venue id:38090728
+venue type:J
+document type:Journal
+study fields:Reference frame|Computer vision|Coding tree unit|Computer science|Motion compensation|Multiview Video Coding|Artificial intelligence|Intra-frame|Motion estimation|Context-adaptive binary arithmetic coding|Variable-length code
+references:1529330280|1566960425|1667165204|1996019379|2019126104|2083426559|2084194319|2091427166|2099213070|2099336463|2105768002|2110440242|2112767276|2115393847|2118167105|2120792293|2123807397|2126962505|2127241838|2127909135|2135764410|2136753421|2141494900|2143580991|2150412388|2150886171|2158129006|2164211741|2164513189
+
+
+id:2066568759
+title:Universal motion prediction
+year:2004
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:Edward J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:optimal|perfect|almost|use|upper|used|investigates|lossy|imperfect|terms|results|case|coding|new|still|sure|optimality|hybrid|interpretation|techniques|prediction|bounds|present|predictors|reconstructions|sense|predictability|video|current|paper|prediction|scenario|since|predictor|demonstrated|based|universal|linear|motion|markov|threads|way|threads|framework|performance|regarded|scenario|unified|reconstruction|holds|first|discuss|applications
+venue name:Visual Communications and Image Processing
+venue id:1175927799
+venue type:C
+document type:Conference
+study fields:Predictability|Quarter-pixel motion|Imperfect|Computer science|Markov chain|Thread (computing)|Theoretical computer science|Coding (social sciences)|Motion prediction|Lossy coding
+references:2070729232|2098768521|2102426343|2110440242|2123807397|2123901719|2125637970|2126860712|2131952271|2165439254
+
+
+id:2084194319
+title:Backward Channel Aware Wyner-Ziv Video Coding
+year:2006
+author information:[
+author name:Limin Liu
+author organization:Purdue University
+author id:2534653626|
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:Edward Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:erasure|accurate|sufficiently|use|subject|channel|source|intra|shifts|backward|results|computational|efficiency|using|method|frames|work|experimental|resilient|handle|decoder|schemes|encoding|encoder|propose|extend|estimation|estimation|rely|improve|delays|basic|send|much|errors|wynerziv|complexity|idea|show|back|technique|video|error|derive|exploits|aware|coding|adaptive|minimal|paper|low|many|bandwidth|situation|side|detection|previous|motion|perform|also|decoder|channel|information|uses|information|significantly|statistics
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer science|Motion compensation|Theoretical computer science|Artificial intelligence|Motion estimation|Backward channel|Adaptive coding|Computer vision|Coding tree unit|Algorithm|Distributed source coding|Encoder|Soft-decision decoder
+references:1529330280|1566960425|1971084233|2099213070|2141494900|2147000487|2150412388
+
+
+id:2108885984
+title:MAP-based post processing of video sequences using 3-D Huber-Markov random field model
+year:2002
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:introduces|extracted|artifact|problem|far|visual|block|model|spatial|restoration|temporal|coding|work|methods|schemes|two|quality|traditional|field|hubermarkov|map|evaluate|deal|extension|methods|sequences|derive|tmap|low|blocking|popular|reconstructed|address|one|noticeable|great|call|confirm|maximum|information|compressed|data|transforms|used|domains|frequency|results|image|test|experimental|presented|done|sequences|sequence|posteriori|dct|improve|restoration|video|remove|random|paper|performances|motion|rates|compensated|significantly
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Random field|Pattern recognition|Computer science|Markov random field|Discrete cosine transform|Motion compensation|Transform coding|Artificial intelligence|Maximum a posteriori estimation|Image restoration|Data compression
+references:1991244327|2113641518|2141620200|2294267220
+
+
+id:2128502464
+title:Channel-aware rate-distortion optimized leaky motion prediction
+year:2004
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:results|resilience|leaky|channel|developed|solution|find|presented|function|presence|drift|knowledge|efficiency|analysis|encoder|two|examples|techniques|prediction|rate|demonstrate|present|assume|basic|distortion|statistical|tradeoff|pattern|video|error|derive|coding|rate|leaky|closedform|expression|motion|way|parameter|errors|analytic
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Coding gain|Algorithmic efficiency|Quarter-pixel motion|Computer science|Word error rate|Communication channel|Artificial intelligence|Encoder|Motion estimation|Rate–distortion theory
+references:1976542377|2122403235|2123807397|2123901719|2128662910
+
+
+id:2129072908
+title:Efficient and Low-Complexity Surveillance Video Compression Using Backward-Channel Aware Wyner-Ziv Video Coding
+year:2009
+author information:[
+author name:Limin Liu
+author organization:Purdue University
+author id:2534653626|
+author name:Zhen Li
+author organization:Image Technol. Res., Dolby Labs. Inc., Burbank, CA
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:experimental|approach|years|concern|reliable|realtime|safety|needed|recent|based|similar|coding|efficiency|goal|inter|analysis|monitoring|encoder|propose|quality|system|size|contents|deals|compression|object|complexity|activity|scheme|achieve|methods|loss|tradeoff|cameras|coding|low|camera|event|close|resilience|deployment|detection|address|particularly|efficient|stateoftheart|data|many|encoder|lead|generally|compression|discuss|essential|small|data|used|high|transmission|shows|implemented|results|computational|needs|protection|intra|widely|often|encoding|maintaining|system|especially|video|techniques|improve|principles|present|higher|wynerziv|bcawz|analysis|mass|show|privacy|video|storage|error|content|aware|candidate|public|backwardchannel|end|surveillance|make|enhance|characteristics|cost|motion|requirement|increase|specific|considerations|lowcomplexity|efficiency|existing|well|suitable|reducing|significantly
+venue name:IEEE Transactions on Circuits and Systems for Video Technology
+venue id:115173108
+venue type:J
+document type:Journal
+study fields:Computer vision|Object detection|Computer science|Multiview Video Coding|Video tracking|Artificial intelligence|Encoder|Video camera|Data compression|Uncompressed video|Scalable Video Coding
+references:1529330280|1566960425|1909364531|2019126104|2023899627|2065081356|2099213070|2101223341|2102251435|2105768002|2106219841|2110806266|2110840970|2117268780|2118572719|2127893047|2130256407|2135764410|2141494900|2143580991|2150412388|2158129006|2160337655
+
+
+id:2132375267
+title:Complexity-Rate-Distortion Analysis of Backward Channel Aware Wyner-Ziv Video Coding
+year:2007
+author information:[
+author name:Limin Liu
+author organization:Purdue University
+author id:2534653626|
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:encode|frames|channel|three|presented|backward|model|estimators|frames|work|schemes|decoder|sent|propose|estimation|coded|extend|sequence|predictively|complexityratedistortion|wynerziv|scheme|examine|back|video|two|bp|aware|coding|previously|many|key|types|motion|previous|performed|encoder|performance|refer|uses|information
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Block-matching algorithm|Quarter-pixel motion|Coding tree unit|Computer science|Motion compensation|Multiview Video Coding|Distributed source coding|Artificial intelligence|Motion estimation|Backward channel
+references:2019126104|2083426559|2084194319|2115393847|2127241838|2141494900
+
+
+id:2135762212
+title:A discussion of leaky prediction based scalable coding
+year:2003
+author information:[
+author name:Yuxin Liu
+author organization:Purdue University
+author id:2237035676|
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:P. Salama
+author organization:University Autonoma de Barcelona
+author id:2154911953|
+author name:E.J. Delp
+author organization:University Autonoma de Barcelona
+author id:1983184564|
+]
+abstract:scalable|achieves|focus|enhancement|descriptions|beyond|three|lpsc|always|based|layer|guaranteed|propose|quality|estimation|prediction|demonstrate|present|since|frame|reconstructions|scheme|show|description|video|two|layer|derive|coding|general|similarity|leaky|decoded|motion|multiple|scheme|structure|decoder|generally|actually|contained|superior|framework|lpsc|mismatch|maximumlikelihood|cannot|reconstruction|achieved|compensation|information|base
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Computer vision|Video reconstruction|Multiple description coding|Coding tree unit|Computer science|Motion compensation|Maximum likelihood|Scalable coding|Artificial intelligence|Video quality
+references:1967375535|2057876146|2098768521|2106168152|2123901719|2124700794|2128662910
+
+
+id:2141494900
+title:Wyner-Ziv video side estimator: conventional motion search methods revisited
+year:2005
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:use|simulation|used|analytical|multireference|unlike|results|coding|still|accuracies|methods|sensitive|estimation|important|estimation|improve|leads|difference|wynerziv|role|access|examine|methods|estimators|show|video|two|side|search|observations|pixel|side|plays|original|frame|motion|interesting|concerning|conventional
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Block-matching algorithm|Quarter-pixel motion|Coding tree unit|Computer science|Motion compensation|Multiview Video Coding|Artificial intelligence|Motion estimation|Rate–distortion optimization|Estimator
+references:2059013911|2123807397|2135305095|2150412388
+
+
+id:2141809427
+title:Wavelet video coding via a spatially adaptive lifting structure
+year:2003
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:Feng Wu
+author organization:
+author id:2121144100|
+author name:Shipeng Li
+author organization:
+author id:2685281789|
+author name:E. Delp
+author organization:
+author id:1983184564|
+]
+abstract:frameworks|experimental|incorporate|structure|problem|results|synchronize|large|need|overhead|encoder|adaptivetransform|wavelet|improvement|demonstrate|present|technique|video|adaptive|coding|common|lifting|introduction|side|codec|address|motion|transmit|many|structure|decoder|confirm|compensated|performance|spatially|information|information|updatefirst
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Computer vision|Lifting scheme|Computer science|Motion compensation|Transform coding|Second-generation wavelet transform|Artificial intelligence|Encoder|Codec|Wavelet transform|Wavelet
+references:2106590163|2169997788
+
+
+id:2147627115
+title:Performance optimization for motion compensated 2D wavelet video compression techniques
+year:2003
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:Feng Wu
+author organization:
+author id:2121144100|
+author name:Shipeng Li
+author organization:
+author id:2685281789|
+author name:E. Delp
+author organization:
+author id:1983184564|
+]
+abstract:compression|stateoftheart|edge|optimization|results|based|new|level|rate|experimental|significant|take|selection|proposed|wavelet|demonstrate|present|frame|pcrd|complexity|extension|methods|video|two|coding|current|paper|prediction|rate|vector|allocation|motion|texture|compensated|performance|proposed|metric|account|techniques|improvements
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Computer vision|Block-matching algorithm|Data compression ratio|Quarter-pixel motion|Computer science|Motion compensation|Electronic engineering|Artificial intelligence|Motion estimation|Data compression|Motion vector|Wavelet transform
+references:2053691921|2098768521|2132573196|2151934237
+
+
+id:2156567156
+title:L-TFRC: an end-to-end congestion control mechanism for video streaming over the Internet
+year:2003
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:Guobin Shen
+author organization:Hong Kong University
+author id:2659352299|
+author name:Shipeng Li
+author organization:Aristotelian University of Thessaloniki
+author id:2685281789|
+author name:E.J. Delp
+author organization:Infocomm Res. Institute, Heng Mui Keng Terrace, Singapore, Singapore
+author id:1983184564|
+]
+abstract:scalable|realtime|channel|available|research|transmission|fluctuations|fine|estimate|significantly|losses|packet|accurately|posed|done|lack|quality|improve|granularity|internet|present|fields|deal|challenges|experiments|frequent|video|ltfrc|lot|coding|logarithmbased|streaming|paper|rate|streaming|address|bandwidth|apply|control|also|great|simulations|confirm|multimedia|smoothness|performance|due|service|progressive|tcpfriendly|applications
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer science|Network packet|Computer network|Quality of service|Real-time computing|Coding (social sciences)|Bandwidth (signal processing)|Logarithm|Channel capacity|Scalability|The Internet
+references:1665941769|2057876146|2098768521|2118876820|2124478678|2163093107|2753542457
+
+
+id:2157992185
+title:Block artifact reduction using a transform-domain Markov random field model
+year:2005
+author information:[
+author name:Zhen Li
+author organization:Purdue University
+author id:2681803858|
+author name:E.J. Delp
+author organization:Purdue University
+author id:1983184564|
+]
+abstract:experimental|artifact|problem|tsdmrf|visual|block|discontinuity|reduce|coding|still|investigating|methods|quality|subjectively|field|annoying|mrf|complexity|improvements|sdmrf|methods|two|tdmrf|exploits|low|based|compared|address|may|markov|efficient|solution|model|confirm|advantages|comparable|first|discuss|data|used|blockbased|results|artifacts|computational|image|presented|often|discrete|achieving|hybrid|sdmrf|improve|cosine|postprocessing|show|video|blocks|random|transform|provides|introduce|manifest|rates|adjacent|transformdomain|objectively|spatialdomain|progressive|reduction|referred
+venue name:IEEE Transactions on Circuits and Systems for Video Technology
+venue id:115173108
+venue type:J
+document type:Journal
+study fields:Noise reduction|Computer vision|Random field|Markov process|Pattern recognition|Markov model|Computer science|Markov random field|Discrete cosine transform|Transform coding|Artificial intelligence|Computational complexity theory
+references:1909739044|1978727202|1991244327|2088059995|2105680870|2110691818|2114586165|2117780481|2118344463|2124020876|2126611844|2127295759|2133914077|2136924750|2138722660|2141620200|2142665930|2145737388|2150456773|2152271242|2166887721|2168756588
+
+
+id:2011612273
+title:Traffic Measurement Based DNSSEC Analysis
+year:2012
+author information:[
+author name:Yong Wang
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2630765486|
+author name:Xiaochun Yun
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2049711260|
+author name:Yao Yao
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2695878785|
+author name:Gang Xiong
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2129373365|
+author name:Zhen Li
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2892820621|
+]
+abstract:measured|several|server|ignoring|packets|introduced|identification|would|record|useless|helpful|validation|traffic|addition|based|cache|resource|ip|conclusions|method|analysis|packet|accurately|servers|authority|concluded|server|records|signature|show|measurement|recursive|top|root|dnssec|introduction|deployment|means|characteristics|many|dnskey|dnssec|application|results|deploying|levels|coming|referred|ratio
+venue name:Computer and Information Technology
+venue id:1120281879
+venue type:C
+document type:Conference
+study fields:Computer security|Computer science|Cache|Network packet|Server|Computer network|Resource allocation|The Internet|nsupdate
+references:1983107032|2167212639
+
+
+id:2049923821
+title:POSTER: Mining Elephant Applications in Unknown Traffic by Service Clustering
+year:2014
+author information:[
+author name:Hongliang Yu
+author organization:Beijing University of Posts and Telecommunications
+author id:2479389814|
+author name:Yong Zhao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2676708120|
+author name:Gang Xiong
+author organization:Institute of Information Engineering Chinese Academy of Sciences,Beijing,China
+author id:2129373365|
+author name:Li Guo
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2122010476|
+author name:Zhen Li
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2664241258|
+author name:Yong Wang
+author organization:The National Computer Network Emergency Response Technical Team/Coordination Center of China, Beijing, China
+author id:2702337395|
+]
+abstract:cluster|application|recognized|identified|network|usually|recent|promising|similar|method|ip|classification|finegrained|service|propose|classifying|traffic|server|statistical|automatically|kinds|believe|unknown|security|perspective|servicebased|great|generally|call|increasing|able|cannot|accounts|certain|dataset|novel|preliminary|rapid|used|belonging|features|brings|generated|classifiers|results|traffic|new|development|kind|real|sharing|port|elephant|classify|importance|show|network|applications|identify|say|direction|management|service|challenge|operators|applications
+venue name:Computer and Communications Security
+venue id:1198471430
+venue type:C
+document type:Conference
+study fields:Traffic classification|Traffic generation model|Computer science|Computer security|Network security|Floating car data|Traffic shaping|Cluster analysis|Network management|Network traffic control
+references:1521553548|1994258596|2051000513|2067680836|2073459066|2075798023|2122226347|2144098589|2149600645|2161251616
+
+
+id:2532980190
+title:Availability analysis of DNSSEC resolution and validation service
+year:2012
+author information:[
+author name:Yong Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2632389402|
+author name:Xiaochun Yun
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2706892291|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2892820621|
+author name:Yao Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2695878785|
+]
+abstract:numerous|bring|server|resolution|classified|number|introduced|vulnerable|attacks|optimization|poor|maninthemiddle|results|validation|availability|always|analysed|depends|failed|retries|exploited|domain|authority|name|valuable|denial|server|analysis|toplevel|show|availability|experiments|recursive|security|servers|root|client|conclusions|launch|possible|dnssec|service|vulnerabilities|well|attacks
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Man-in-the-middle attack|Denial-of-service attack|Computer security|Computer science|Server|Network security|Computer network|Security analysis|Public-key cryptography|Application server|nsupdate
+references:148814131|1859864512|1983107032|2167212639|2272023646
+
+
+id:2553448453
+title:A network attack forensic platform against HTTP evasive behavior
+year:2017
+author information:[
+author name:Zhen Li
+author organization:( Institute of Information Engineering,Chinese Academy of Sciences)
+author id:2664241258|
+author name:Haiqing Pan
+author organization:( Institute of Information Engineering,Chinese Academy of Sciences)
+author id:2510723417|
+author name:Wenhao Liu
+author organization:( Institute of Information Engineering,Chinese Academy of Sciences)
+author id:2518449689|
+author name:Fei Xu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2676796908|
+author name:Zigang Cao
+author organization:( Institute of Information Engineering,Chinese Academy of Sciences)
+author id:2112153813|
+author name:Gang Xiong
+author organization:(
+author id:2806456389|
+]
+abstract:metadata|analyzing|realworld|network|types|usually|flow|case|large|streams|samples|system|million|study|examine|sophistication|scanning|kinds|two|proved|systems|attack|popular|malware|isp|store|data|draw|hide|enafs|increasing|stored|mismatch|days|exploit|data|paper|seven|run|forensic|found|protocol|amounts|attacks|find|besides|origin|different|traffic|discover|need|integrally|http|exploited|carry|present|evasive|covering|analysis|origin|back|forensic|system|network|malicious|trace|normal|types|effectively|also|evasive|attack|activities|typical|detected|services
+venue name:The Journal of Supercomputing
+venue id:32326811
+venue type:J
+document type:Journal
+study fields:Flow network|Metadata|Data stream mining|Network forensics|Computer science|Computer security|Exploit|Malware|Network attack|The Internet
+references:171785150|194643239|1970399788|1993253132|2040424958|2114461157|2115881704|2171200911|2228075399|2256319980|2283878449|2296143800|2309213158|2334508133
+
+
+id:2623485820
+title:Video face recognition through multi-scale and optimization of margin distributions
+year:2017
+author information:[
+author name:Gaopeng Gou
+author organization:University of Chinese Academy of Sciences
+author id:2662039943|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2664241258|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Yangyang Guan
+author organization:University of Chinese Academy of Sciences
+author id:2683369519|
+author name:Junzheng Shi
+author organization:University of Chinese Academy of Sciences
+author id:2631593752|
+]
+abstract:outputs|use|recognition|stateoftheart|number|sizes|entrance|different|humancomputer|results|obtain|based|image|databases|margin|method|multiscale|made|past|collaborative|experimental|decade|videos|classification|proposed|etc|video|attracted|final|demonstrate|present|much|object|sub|optimized|range|video|distribution|representation|ones|result|optimally|public|inspired|get|outperform|wide|abstract|imageset|combining|great|existing|face|judicature|outputs|able|attention|progress|applications
+venue name:International Conference on Conceptual Structures
+venue id:1137878512
+venue type:C
+document type:Conference
+study fields:Computer vision|Facial recognition system|Margin distribution|Computer science|Video tracking|Artificial intelligence|Videoconferencing|Machine learning
+references:1624287108|1964470356|2120453412|2129846893|2132467081|2145876682|2157401020
+
+
+id:2766083827
+title:POSTER: An Empirical Measurement Study on Multi-tenant Deployment Issues of CDNs
+year:2017
+author information:[
+author name:Zixi Cai
+author organization:Chinese Academy of Sciences  University of Chinese Academy of Sciences
+author id:2765144769|
+author name:Zigang Cao
+author organization:University of Chinese Academy of Sciences
+author id:2112153813|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2664241258|
+author name:Wei Xia
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2766177732|
+]
+abstract:bad|bring|cdn|issues|offer|loss|multitenant|efficiency|work|ip|robustness|active|dos|become|denial|study|role|examine|accelerating|believe|measurement|result|web|tenants|share|place|popular|situation|deployment|address|mitigate|https|namely|several|help|mismatch|economic|several|sites|experience|good|meaningful|correctly|find|potential|settings|given|ensure|resource|http|users|important|akaimai|take|improving|hybrid|especially|content|requests|name|playing|support|world|problems|issue|configuration|certificate|deployed|privacy|around|network|security|causing|common|https|make|cdn|enhance|delivery|tenants|advices|deployments|error|due|service|typical|well|visit|comprehensive|user|providers
+venue name:Computer and Communications Security
+venue id:1198471430
+venue type:C
+document type:Conference
+study fields:Content delivery network|User experience design|Internet privacy|Software deployment|Denial-of-service attack|Computer security|Computer science|Resource efficiency|Robustness (computer science)|Empirical measure|Certificate
+references:1881935562|2104899073|2122440889|2130867912
+
+
+id:2800769083
+title:Identifying Gambling and Porn Websites with Image Recognition
+year:2017
+author information:[
+author name:Longxi Li
+author organization:University of Chinese Academy of Sciences 
+author id:2801665974|
+author name:Gaopeng Gou
+author organization:University of Chinese Academy of Sciences
+author id:2662039943|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Zigang Cao
+author organization:University of Chinese Academy of Sciences 
+author id:2112153813|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences 
+author id:2664241258|
+]
+abstract:gotten|perfect|results|rapid|gambling|paper|experimental|collected|bow|harmful|youth|fast|visual|model|text|results|based|phishing|development|efficiency|urls|method|develop|classification|recognize|tool|chosen|proposed|contents|domain|demonstrate|parameters|full|appropriate|gambling|methods|save|screenshot|datasets|screenshots|porn|us|effective|promote|feature|get|website|detection|encourages|identify|could|introduce|change|health|satisfying|gets|names|classification|able|websites|growth
+venue name:Pacific Rim Conference on Multimedia
+venue id:1146687534
+venue type:C
+document type:Conference
+study fields:Bag-of-words model|Computer vision|Phishing|Computer science|Artificial intelligence|The Internet
+references:1491719799|1533496907|1677409904|1965503456|2043034431|2051508710|2117228865|2151103935|2153635508|2191970582|2345381140
+
+
+id:2802694373
+title:Image-Set Based Collaborative Representation for Face Recognition in Videos
+year:2017
+author information:[
+author name:Gaopeng Gou
+author organization:University of Chinese Academy of Sciences
+author id:2662039943|
+author name:Junzheng Shi
+author organization:University of Chinese Academy of Sciences
+author id:2631593752|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Peipei Fu
+author organization:University of Chinese Academy of Sciences
+author id:2787634061|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2664241258|
+author name:Zhenzhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2305085113|
+]
+abstract:experimental|stateoftheart|three|number|represented|based|models|method|models|collaborative|videos|classification|etc|domain|processing|become|object|sub|compare|range|two|experiments|ones|based|set|sets|topics|could|imageset|one|many|multimedia|face|judicature|classification|metric|videobased|able|sets|represent|recognition|main|used|entrance|humancomputer|results|combine|image|individual|test|query|scrc|proposed|final|demonstrate|present|methods|divided|video|representation|public|hottest|similarity|every|outperform|wide|existing|applications
+venue name:Pacific Rim Conference on Multimedia
+venue id:1146687534
+venue type:C
+document type:Conference
+study fields:Computer vision|Facial recognition system|Pattern recognition|Computer science|Artificial intelligence
+references:1506778248|1624287108|1950843348|1964470356|1989702938|1996939238|2051004732|2101169619|2110116545|2110599581|2111842831|2120453412|2122691893|2128835939|2132467081|2134849720|2145876682|2150600350|2162813111|2164598857
+
+
+id:2808664011
+title:Old Habits Die Hard: Fingerprinting Websites on the Cloud
+year:2018
+author information:[
+author name:Xudong Zeng
+author organization:University of Chinese Academy of Sciences
+author id:2807867790|
+author name:Cuicui Kang
+author organization:University of Chinese Academy of Sciences
+author id:2097698347|
+author name:Junzheng Shi
+author organization:University of Chinese Academy of Sciences
+author id:2631593752|
+author name:Zhen Li
+author organization:University of Chinese Academy of Sciences
+author id:2664241258|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+]
+abstract:performs|collected|cloud|extracted|setting|cloud|fit|features|composite|method|model|state|needed|fingerprinting|keeps|gateways|traffic|method|like|excellent|real|recognize|propose|side|proposed|unidirectional|problems|classify|request|methods|utilizing|detect|mixed|investigate|network|malicious|world|variety|flows|precise|performances|ought|detection|website|art|practical|isp|better|websites|multitab|novel
+venue name:International Conference on Computational Science
+venue id:2706111989
+venue type:C
+document type:Conference
+study fields:Data mining|Traffic analysis|Computer science|Cloud computing|Distributed computing
+references:1565839003|1596717185|2008279017|2021949962|2062805799|2108217512|2120702739|2135579486|2149280729|2149706766|2170085959|2269460187|2272516773|2275387952|2490879758|2525096404|2763006672|2911964244
+
+
+id:2901530347
+title:LaFFT: Length-Aware FFT Based Fingerprinting for Encrypted Network Traffic Classification
+year:2018
+author information:[
+author name:Chang Liu
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2704114339|
+author name:Zigang Cao
+author organization:Chinese Academy of Sciences, Beijing, China
+author id:2112153813|
+author name:Zhen Li
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2664241258|
+author name:Gang Xiong
+author organization:Institute of Information Engineering Chinese Academy of Sciences,Beijing,China
+author id:2806456389|
+]
+abstract:lafft|data|encrypted|stateoftheart|challenging|distinguishability|frequency|realworld|loads|fft|complex|classifier|huge|different|fingerprinting|generate|traffic|lengthaware|methods|develop|monitoring|classification|packet|sequences|vectors|task|rely|domain|experiments|become|statistical|forest|analysis|superiority|methods|achieve|fpr|classficiation|sequences|characteristic|network|random|management|emergent|indepth|construction|verify|demonstrated|outperform|linear|identify|apply|length|produce|inseparability|encrypted|application|traditional|front|comprehensive|significantly|features
+venue name:International Symposium on Computers and Communications
+venue id:1160213847
+venue type:C
+document type:Conference
+study fields:Traffic classification|Pattern recognition|Computer science|Network packet|Computer network|Feature extraction|Encryption|Fast Fourier transform|Artificial intelligence|Network monitoring|Random forest|Hidden Markov model
+references:47191821|1667023885|2000756828|2034373897|2098260898|2115416723|2135573056|2468337398|2534437878|2556588907|2605422749|2744198018|2754353227|2963403784
+
+
+id:2919493784
+title:FS-Net: A Flow Sequence Network For Encrypted Traffic Classification
+year:2019
+author information:[
+author name:Chang Liu
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2704114339|
+author name:Longtao He
+author organization:National Computer Network Emergency Response Technical Team/Coordination Center of China
+author id:2912423176|
+author name:Gang Xiong
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2806456389|
+author name:Zigang Cao
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2112153813|
+author name:Zhen Li
+author organization:Chinese Academy of Sciences, Institute of Information Engineering
+author id:2664241258|
+]
+abstract:depend|optimal|stateoftheart|professional|realworld|problem|network|model|manualdesign|classifies|excellent|mainstream|methods|raw|recurrent|classification|propose|traditional|adopt|piecewise|become|neural|algorithms|methods|experiments|traffic|endtoend|guarantee|encoderdecoder|mechanism|indicate|mechanism|mine|reconstruction|problem|could|fsnet|solution|flow|lots|machine|effort|unified|dataset|features|achieves|index|experience|multilayer|rulebased|features|brings|huge|communication|recurrent|representative|potential|traffic|needs|learns|sequence|volume|solve|rises|framework|covering|neural|import|sequential|privacy|fpr|learning|network|combining|flows|divide|human|enhance|effectiveness|characteristics|apply|structure|outperforms|performance|encrypted|paid|attention|challenge|reconstruction|user|comprehensive|applications
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Traffic classification|Data mining|Cryptography|Computer science|Recurrent neural network|Encryption|Decoding methods|Hidden Markov model|Communications security|Payload|Distributed computing
+references:1904365287|2000756828|2062401262|2107878631|2111214891|2111754142|2120955848|2144499799|2148913232|2150702922|2153579005|2168686833|2171634548|2190207511|2295321789|2343004508|2468337398|2534437878|2537766808|2605422749|2743556905|2744198018|2753434589|2754353227|2783320270|2901530347|2912924201|2950635152|2963403784
+
+
+id:2978893826
+title:Machine Learning Based CloudBot Detection Using Multi-Layer Traffic Statistics
+year:2019
+author information:[
+author name:Yu Guo
+author organization:Institute of Information Engineering  University of Chinese Academy of Sciences
+author id:2757844658|
+author name:Junzheng Shi
+author organization:University of Chinese Academy of Sciences
+author id:2631593752|
+author name:Zigang Cao
+author organization:University of Chinese Academy of Sciences
+author id:2112153813|
+author name:Cuicui Kang
+author organization:University of Chinese Academy of Sciences
+author id:2097698347|
+author name:Gang Xiong
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2806456389|
+author name:Zhen Li
+author organization:Institute of Information Engineering  University of Chinese Academy of Sciences
+author id:2664241258|
+]
+abstract:centers|advanced|commit|approach|without|number|realworld|problem|experiment|hackers|centers|majority|block|businesses|public|utilized|drift|using|solid|method|hosts|work|economy|click|propose|benefit|innovative|traffic|underground|difference|become|cloudbots|comes|kinds|believe|seen|proves|layer|exploits|unknown|varying|web|seldom|ecommerce|urgent|detection|caused|cloudbot|services|sample|privacypreserving|machine|increasing|fake|accounts|vast|register|essential|performs|reveal|evidence|data|precision|rapid|speculators|achieves|trafficbased|multilayer|research|features|time|robots|traffic|new|development|practice|seriously|activities|bot|concept|deployed|detect|quasirealtime|combat|network|malicious|effective|security|profit|human|fairness|effectively|perform|harming|also|specific|application|online|partitioning|well|information|referred|cloudbot
+venue name:High Performance Computing and Communications
+venue id:1148948064
+venue type:C
+document type:Conference
+study fields:Speculation|Network economy|Application layer|Computer science|Commit|Exploit|Hacker|Concept drift|Click fraud|Artificial intelligence|Machine learning
+references:1552115285|1567363379|1583640058|2043780693|2062577604|2093703852|2138393708|2463933046|2576320326|2768575201|2803547633
+

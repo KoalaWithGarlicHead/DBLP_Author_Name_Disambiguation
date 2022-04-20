@@ -1,0 +1,2568 @@
+
+id:24287214
+title:Combining Spatial Cloaking and Dummy Generation for Location Privacy Preserving
+year:2012
+author information:[
+author name:Nana Xu
+author organization:Renmin University of China
+author id:2493382274|
+author name:Dan Zhu
+author organization:Renmin University of China
+author id:2419894932|
+author name:Hongyan Liu
+author organization:Tsinghua University
+author id:2618347989|
+author name:Jun He
+author organization:Renmin University of China
+author id:2807371183|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+author name:Tao Liu
+author organization:University
+author id:2529507500|
+]
+abstract:accurate|region|approach|dummy|number|sparse|spatial|algorithm|generation|based|efficiency|large|two|propose|whose|system|size|cloaking|experiments|methods|achieve|one|large|blur|kinds|distribution|two|result|complement|low|precise|demonstrated|means|may|one|arouse|combines|great|help|dummy|kanonymity|use|simple|used|dummies|high|ideal|cost|users|decrease|preserving|proposed|especially|techniques|preserving|region|privacy|generation|generating|protected|attracting|positioning|extra|effectiveness|wide|limited|attentions|also|devices|well|location|time|user|comprehensive|location
+venue name:Advanced Data Mining and Applications
+venue id:1184106476
+venue type:C
+document type:Conference
+study fields:Data mining|Cloaking|Computer science|k-anonymity
+references:1515431652|1689932539|1982590063|2056773559|2087092764|2089959302|2112469755|2128800833|2142406320|2150447982|2154424935|2154592552|2159890390|2159992568
+
+
+id:2002901620
+title:Improving relation descriptor extraction with word embeddings and cluster features
+year:2014
+author information:[
+author name:Tao Liu
+author organization:University
+author id:2529507500|
+author name:Minghui Li
+author organization:Beijing Taobao Technology Co., Ltd., Alibaba Group, China
+author id:2343339050|
+]
+abstract:embeddings|cluster|word|data|use|construction|descriptor|semantics|relation|meaningful|via|syntactic|reflect|shown|extraction|text|results|knowledge|order|obtain|based|method|experimental|extraction|whose|furthermore|predefined|adopt|improve|know|basic|word|expressibility|limited|semantic|deep|string|achieve|words|save|best|learning|training|two|obviously|relation|nominal|paper|feature|feature|entities|robust|problem|introduce|words|technology|specific|people|describes|help|performance|traditional|datasets|information|base
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Training set|Computer science|Semantic information|Natural language processing|Artificial intelligence|Deep learning|Knowledge base|Syntax|Machine learning|Semantics
+references:71795751|72158808|1423339008|1908162016|2105063934|2141099517|2251811146|2251939518
+
+
+id:2049945132
+title:Extracting Domain-Relevant Term Using Wikipedia Based on Random Walk Model
+year:2012
+author information:[
+author name:Wenjuan Wu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2159998862|
+author name:Tao Liu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2529507500|
+author name:He Hu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2126567876|
+author name:Xiaoyong Du
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2160770667|
+]
+abstract:acceptable|quantities|achieves|accuracy|language|approach|domainrelevant|high|identification|extraction|weighted|results|algorithm|new|given|using|efficiency|large|method|experimental|way|concepts|domain|page|present|little|independent|link|show|wikipedia|random|paper|term|human|applying|identify|markov|structures|automatic|entities|effort|category|walk
+venue name:ChinaGrid Annual Conference
+venue id:2755455559
+venue type:C
+document type:Conference
+study fields:Graph theory|Ontology (information science)|Data mining|Markov process|Computer science|Random walk|Markov chain|Encyclopedia|Artificial intelligence|Machine learning|Semantics|The Internet
+references:158057341|318961524|1491314197|1546477643|1633771733|1968332217|1979015808|2023474332|2051063649|2102029756|2120779048|2135172365|2138861205|2156184725|2611471614
+
+
+id:2103334803
+title:Sentiment classification via l2-norm deep belief network
+year:2011
+author information:[
+author name:Tao Liu
+author organization:University
+author id:2529507500|
+author name:Minghui Li
+author organization:Microsoft Asian Research and Development Group, Beijing, China
+author id:2297304526|
+author name:Shusen Zhou
+author organization:Harbin Institute of Technology
+author id:2678681111|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:stateoftheart|fit|loss|introduced|network|text|reduce|using|large|method|analysis|classification|deep|traditional|even|generalization|unsupervised|automatic|vocabulary|initialized|ability|popular|sentiments|business|abstract|noisy|sentiment|classification|information|first|dbn|data|regularization|largesize|network|challenging|heterogeneous|features|dbn|reviews|optimize|expressed|well|results|belief|discover|experimental|capture|important|task|proposed|basic|parameters|topicbased|full|sentiment|basic|classify|optimized|layerwise|complexity|show|scale|sentiments|training|network|finetuned|applications|enough|procedure|intelligent|outperforms|supervised|online|datasets|uses|tends
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Training set|Vocabulary Words|Data mining|Network complexity|Computer science|Sentiment analysis|Deep belief network|Regularization (mathematics)|Artificial intelligence|Norm (mathematics)|Machine learning
+references:1480376833|2126581182|2131462252|2155328222|2163302275|2166706824|2168816626
+
+
+id:2108905092
+title:Lawyer information integration and recommendation by multi-source information validation
+year:2011
+author information:[
+author name:Tao Liu
+author organization:University
+author id:2529507500|
+author name:Biao Fan
+author organization:Renmin University of China
+author id:2223894374|
+author name:He Hu
+author organization:China Renmin University
+author id:2126567876|
+author name:Xiao-Yong Du
+author organization:Renmin University of China
+author id:2160770667|
+]
+abstract:recommendation|used|view|presented|results|order|new|using|including|method|multisource|experimental|often|propose|built|users|allround|technologies|system|techniques|integration|acquisition|recommendation|crossvalidation|redundant|integrated|prevent|effective|validation|web|indicate|acquisition|based|lawyer|key|separated|several|build|unified|located|information
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Recommender system|Information integration|Search engine|Web page|Information retrieval|Computer science|Information acquisition|Multi-source|The Internet|Information filtering system
+references:2008896880|2059268928|2066636486|2069897123|2071849745|2121756062|2139183425|2142151675|2163382775|2171262729|2185093343
+
+
+id:2119286332
+title:Discovering Chinese Compound Term Using Termhood and Unithood Measures
+year:2011
+author information:[
+author name:Jingjing Kang
+author organization:Key Labs. of Data Eng.  Knowledge Eng., Minist. of Educ., China
+author id:2098037991|
+author name:Tao Liu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2529507500|
+author name:He Hu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2126567876|
+author name:Xiaoyong Du
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2160770667|
+]
+abstract:play|led|approach|evaluation|improved|terms|based|using|method|achieved|methods|hood|recognize|demand|validating|domain|account|word|evaluate|semantic|role|achieve|methods|pattern|formation|experiments|segmentation|term|power|takes|compared|detection|heuristic|many|single|chinese|information|several|corpus|incorporate|research|features|extraction|legal|significant|twolevel|candidates|unit|extract|levels|domain|present|leverage|crucial|show|cvalue|automatic|improvement|compound|characterlevel|wordlevel|existing|superior|rise
+venue name:ChinaGrid Annual Conference
+venue id:2755455559
+venue type:C
+document type:Conference
+study fields:Heuristic|Word formation|Pragmatics|Computer science|Filter (signal processing)|Feature extraction|Speech recognition|Text segmentation|Artificial intelligence|Natural language processing|Semantics
+references:148668311|1493949745|1494001761|1497529086|2008434289|2029153635|2049107599|2129287413|2156745031|2158874082|2168760591|2169606435|2787451354
+
+
+id:2121756062
+title:KeyOnto: A Hybrid Knowledge Retrieval Model in Law Semantic Web
+year:2009
+author information:[
+author name:Biao Fan
+author organization:Key Lab. of Data Eng.  Knowledge Eng., MOE, Beijing, China
+author id:2223894374|
+author name:Guangqiang Liu
+author organization:Key Lab. of Data Eng.  Knowledge Eng., MOE, Beijing, China
+author id:2136108920|
+author name:Tao Liu
+author organization:Key Lab. of Data Eng.  Knowledge Eng., MOE, Beijing, China
+author id:2529507500|
+author name:He Hu
+author organization:Key Lab. of Data Eng.  Knowledge Eng., MOE, Beijing, China
+author id:2126567876|
+author name:Xiaoyong Du
+author organization:Key Lab. of Data Eng.  Knowledge Eng., Beijing, China
+author id:2160770667|
+]
+abstract:called|use|together|improves|precision|used|introduced|query|terms|retrieval|model|represented|documents|vector|ontology|knowledge|space|respectively|based|proposes|query|expansion|traditional|vectors|hybrid|concepts|domain|documents|domain|evaluate|basing|concept|show|retrieval|experiments|expanded|paper|organize|similarity|get|term|vector|result|compared|keyonto|resources|thesaurus|makes|combines|specific|queries|structure|integrate|single|form|model|assist
+venue name:ChinaGrid Annual Conference
+venue id:2755455559
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Ontology|Information retrieval|Query expansion|Computer science|Semantic Web|Ranking (information retrieval)|Natural language processing|Artificial intelligence|Vector space model|Knowledge retrieval
+references:21061076|24765167|1562099273|1660390307|1826794529|1956559956|2034076209|2064930103|2084662183|2107703929|2114063134|2139183425|2154987797
+
+
+id:2137400968
+title:Law Text Clustering Based on Referential Relations
+year:2010
+author information:[
+author name:Biao Fan
+author organization:Key Labs. of Data Eng.  Knowledge Eng., Minist. of Educ., China
+author id:2223894374|
+author name:Tao Liu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2529507500|
+author name:He Hu
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2126567876|
+author name:Xiaoyong Du
+author organization:Key Labs. of Data Eng.  Knowledge Eng., China
+author id:2160770667|
+]
+abstract:cluster|feasible|law|data|use|semantic|extracted|relation|linked|solution|referential|links|calculate|text|algorithm|new|based|laws|law|method|proposes|query|texts|extract|domain|carry|semantic|prototype|access|applied|experiments|show|interface|represents|similarity|database|web|paper|rdf|web|similarity|enables|carried|apply|rich|also|data|domain|texts|application|entities|publish|clustering|clustering|simrank|time|user|entity|first|forms|open
+venue name:ChinaGrid Annual Conference
+venue id:2755455559
+venue type:C
+document type:Conference
+study fields:Data modeling|Information retrieval|Document clustering|Computer science|Linked data|Semantic Web|Cluster analysis|Data model|Law|RDF|SimRank
+references:60152866|116902681|1672197616|1981082061|2044286004|2077387653|2081980673|2091122332|2117831564|2132726368|2148540243
+
+
+id:2518933242
+title:Distributed Text Representation with Weighting Scheme Guidance for Sentiment Analysis
+year:2016
+author information:[
+author name:Zhe Zhao
+author organization:Renmin University of China
+author id:2515288965|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Xiaoyun Hou
+author organization:Renmin University of China
+author id:2518717652|
+author name:Bofang Li
+author organization:Renmin University of China
+author id:2518128994|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:focus|stateoftheart|extracted|three|required|unimportant|introduced|weights|guide|models|researches|raw|schemes|analysis|attracted|assigned|networks|fields|neural|one|automatically|focuses|networks|known|feature|words|advantages|texts|bagofwords|compete|rapid|used|growing|features|academic|results|another|obtain|given|discover|commonly|experimental|classifiers|weight|bow|less|weights|weighting|dense|important|feed|take|techniques|sentiment|neural|analysis|line|words|show|paradigms|learning|lines|successful|outperform|social|recently|automatic|approaches|better|industrial|guidance|attention|ones|datasets|growth|suitable
+venue name:Asia-Pacific Web Conference
+venue id:1140082307
+venue type:C
+document type:Conference
+study fields:Data mining|Weighting|Social media|Sentiment analysis|Computer science|Artificial neural network|Distributed representation|Feature learning
+references:71795751|1614298861|1777150271|1832693441|1888026739|1889268436|2025954161|2105745022|2109634664|2110951295|2118585731|2132339004|2135731857|2154359981|2166706824|2250473257|2949547296|2950133940|2964321678
+
+
+id:2520484982
+title:A Text Retrieval System Based on Distributed Representations
+year:2016
+author information:[
+author name:Zhe Zhao
+author organization:Renmin University of China
+author id:2515288965|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Jun Chen
+author organization:Renmin University of China
+author id:2632079491|
+author name:Bofang Li
+author organization:Renmin University of China
+author id:2518128994|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:increasingly|literatures|experience|unit|syntactic|ignores|retrieval|despite|weaknesses|implement|text|embed|judge|totally|based|treated|new|thus|query|distributed|bow|relevant|traditional|longer|system|matchings|atomic|word|since|become|semantic|internal|systems|overcome|representations|nlp|relies|systems|similarity|provides|popularity|popular|compared|representations|words|extent|lowdimensional|meanings|queries|better|texts|essentially|information|uses|user|bagofwords|supported
+venue name:Asia-Pacific Web Conference
+venue id:1140082307
+venue type:C
+document type:Conference
+study fields:Semantic similarity|Data mining|User experience design|Computer science|Popularity|Semantic information|Artificial intelligence|Natural language processing|Syntax|Text retrieval|Visual Word
+references:2949547296|2950133940
+
+
+id:2520549676
+title:Classifying Relation via Bidirectional Recurrent Neural Network Based on Local Information
+year:2016
+author information:[
+author name:Xiaoyun Hou
+author organization:Renmin University of China
+author id:2518717652|
+author name:Zhe Zhao
+author organization:Renmin University of China
+author id:2515288965|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:bidirectional|use|achieves|language|used|upon|research|without|relation|features|context|layers|recurrent|weighted|results|natural|method|introducing|classification|propose|important|external|task|extract|field|pooling|proposed|contrast|processing|consideration|competitive|word|neural|hidden|retain|show|around|experiments|local|layer|network|relation|taken|entities|tokens|resources|previous|apply|windows|model|upon|classification|entities|rnn|dataset|novel
+venue name:Asia-Pacific Web Conference
+venue id:1140082307
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Pooling|Recurrent neural network|Time delay neural network|Artificial intelligence|Relation classification|Machine learning|Relationship extraction
+references:1750263989|1887754209|1889268436|1981082061|2053238041|2099779943|2123143128|2127978399|2138627627|2148721079|2158139315|2234895705|2250417532|2250521169|2250646484|2296645902|2964217331
+
+
+id:2608530403
+title:Guiding the Training of Distributed Text Representation with Supervised Weighting Scheme for Sentiment Analysis
+year:2017
+author information:[
+author name:Zhe Zhao
+author organization:Renmin University of China
+author id:2515288965|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Shen Li
+author organization:Beijing Normal University
+author id:2640849935|
+author name:Bofang Li
+author organization:Renmin University of China
+author id:2518128994|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:use|rapid|focus|researches|upon|unimportant|growing|features|academic|weights|text|guide|various|another|obtain|given|models|discover|researches|models|classifiers|raw|distributed|received|bow|schemes|less|analysis|weights|weighting|important|feed|take|techniques|explored|fields|requires|sentiment|neural|applied|line|one|words|focuses|representations|representation|automatically|lines|social|learned|words|better|industrial|supervised|advantages|texts|attention|ones|growth|suitable|work|bagofwords
+venue name:Data Science and Engineering
+venue id:2486411021
+venue type:J
+document type:Journal
+study fields:Data mining|Weighting|Social media|Computer science|Sentiment analysis|Artificial intelligence|Word2vec|Distributed representation|Machine learning
+references:1593045043|1615991656|1832693441|1889268436|2025954161|2109634664|2113459411|2118585731|2125031621|2131744502|2135731857|2153579005|2166706824|2250473257|2250539671|2518933242|2964321678
+
+
+id:2775221343
+title:QoS-aware service composition for service-based systems using multi-round vickery auction
+year:2017
+author information:[
+author name:Puwei Wang
+author organization:Renmin University
+author id:2585889907|
+author name:Ying Zhan
+author organization:Guizhou University of Finance  Economics
+author id:2754678823|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:optimal|experimental|construct|constraints|approach|maximize|serviceoriented|strategically|combinatorial|based|auctionbased|composition|propose|exist|global|nash|naturally|systems|composition|vickrey|silent|set|address|problem|may|approaches|servicebased|services|restriction|selfinterested|stay|multiround|truthfully|bidding|use|results|budget|offers|bayesian|iterative|engineering|task|utilities|support|paradigm|show|choose|auction|strive|qos|provider|satisfying|approaches|chooses|outperforms|existing|service|truthful|collectively|strategy|providers|existing|bid
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Vickrey auction|Computer science|Combinatorial auction|Quality of service|Operations research|Service provider|Artificial intelligence|Throughput|Bayesian game|Nash equilibrium|Bidding|Machine learning
+references:146219256|1577320633|1965810726|1975470330|1976779713|2015989119|2054531521|2101598364|2122746524|2135598014|2153155386|2154944509|2162220364|2162539496|2171075212
+
+
+id:2883941357
+title:Attention-Based Recurrent Neural Network for Sequence Labeling
+year:2018
+author information:[
+author name:Bofang Li
+author organization:Renmin University of China
+author id:2518128994|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Zhe Zhao
+author organization:Renmin University of China
+author id:2515288965|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:entity|rnns|focus|despite|four|network|filling|still|natural|recurrent|propose|slot|recognition|neural|experiments|long|layer|ones|variations|labeling|variations|key|architecture|processing|named|one|consistent|single|tagging|irrelative|information|comprehensive|improvements|spoken|language|used|selectively|abilities|rnn|sufficient|layers|different|including|widely|sequence|encoding|sequence|partofspeech|useful|problems|hidden|show|language|prediction|provides|understanding|task|every|allows|instead|conduct|typical|attention
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Architecture|Sequence labeling|Computer science|Recurrent neural network|Artificial intelligence|Natural language processing|Chunking (psychology)|Named-entity recognition|Machine learning|Spoken language|Encoding (memory)
+references:6908809|1591801644|1902237438|1940872118|1988995507|2004763266|2064675550|2077302143|2097550833|2104408895|2131774270|2133564696|2137871902|2147880316|2157331557|2166293310|2950178297|2953022181|2962826786|2962902328|2963625095
+
+
+id:2887365331
+title:Complex Named Entity Recognition via Deep Multi-task Learning from Scratch
+year:2018
+author information:[
+author name:Guangyu Chen
+author organization:Renmin University of China
+author id:2885181633|
+author name:Tao Liu
+author organization:University
+author id:2921745126|
+author name:Deyuan Zhang
+author organization:Shenyang Aerospace University
+author id:2885941032|
+author name:Bo Yu
+author organization:Tricorn (Beijing) Technology Co., Ltd
+author id:2983638274|
+author name:Baoxun Wang
+author organization:Tricorn (Beijing) Technology Co., Ltd
+author id:2947704519|
+]
+abstract:entity|experimental|shown|hierarchical|complex|preliminary|results|tasks|tasks|promising|based|multitask|work|focusing|propose|technologies|exist|task|even|covered|failing|relatively|demonstrate|basic|recognition|complexity|deep|neural|experiments|structures|learning|combat|networks|nlp|modern|task|categories|effectiveness|named|requirements|previous|newlyemerging|subtask|many|opportunities|classic|meet|application|conduct|chinese|ner|approach|informal|category|strategy|entity
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Scratch|Multi-task learning|Computer science|Natural language processing|Artificial intelligence|Deep learning|Named-entity recognition|Deep neural networks
+references:1522301498|1614298861|1990349324|2004763266|2045993505|2064675550|2079735306|2096953947|2107878631|2117130368|2130903752|2144578941|2147880316|2158139315|2158899491|2168596788|2290644410|2296283641|2308486447|2513222501|2914746235|2963917673
+
+
+id:2954548380
+title:Scaling Word2Vec on Big Corpus
+year:2019
+author information:[
+author name:Bofang Li
+author organization:Tokyo, Institute of Technology
+author id:2518128994|
+author name:Aleksandr Drozd
+author organization:Tokyo Institute of Technology
+author id:2149018889|
+author name:Yuhe Guo
+author organization:Renmin University of China
+author id:2955494316|
+author name:Tao Liu
+author organization:University
+author id:2639058526|
+author name:Satoshi Matsuoka
+author organization:Tokyo Institute of Technology
+author id:2164966972|
+author name:Xiaoyong Du
+author organization:China Renmin University
+author id:2160770667|
+]
+abstract:contextual|word|results|highfrequency|accuracy|variation|without|number|cluster|context|easily|model|tasks|reduce|models|similar|using|natural|large|equally|samples|dependencies|contains|processing|word|strong|gpus|experiments|range|chainer|nlp|feature|variations|embedding|scaling|highquality|one|words|highlevel|extensive|lowfrequency|embeddings|controls|achieves|cpu|language|main|used|inside|gpu|acceleration|uniformly|implement|nondependent|directly|results|area|fixing|word|learns|widely|batch|accepted|drop|iterations|cnnbased|important|proposed|conflicts|deep|sequential|part|show|subwordlevel|scale|update|training|learning|pairs|times|design|sampled|ensures|heuristically|also|pair|target|treats|conduct|due|various|well|challenge|reducing|batch
+venue name:Data Science and Engineering
+venue id:2486411021
+venue type:J
+document type:Journal
+study fields:Heuristic|GPU cluster|Supercomputer|Computer science|Artificial intelligence|Acceleration|Word2vec|Word embedding|Deep learning|Scaling|Machine learning
+references:1614298861|1615991656|1832693441|1854884267|1966434244|2026487812|2067438047|2114524997|2117065474|2117130368|2125031621|2132166724|2132339004|2137735870|2140480387|2141599568|2153579005|2158899491|2163455955|2163605009|2170682101|2250539671|2251012068|2251771443|2251803266|2293502436|2418340875|2460442863|2493916176|2507974895|2508434770|2524917517|2572487292|2617242334|2765650793|2912811302|2963288913|2963292194
+
+
+id:1993868534
+title:A synthetic approach for robust constrained iterative learning control of piecewise affine batch processes
+year:2012
+author information:[
+author name:Tao Liu
+author organization:RWTH Aachen University
+author id:2624718877|
+author name:Youqing Wang
+author organization:Beijing University of Chemical
+author id:2108134709|
+]
+abstract:closedloop|functions|considered|nonlinear|affine|tracking|constraints|feedback|output|monotonic|state|energy|method|profile|cycletocycle|input|inequality|system|twodimensional|conditions|explicitly|guarantee|piecewise|merits|matrix|cycle|derive|polyhedral|operating|based|stirred|together|stability|controller|robust|linear|directions|setpoint|indices|series|ilc|practically|developing|descriptions|shown|normbounded|continuous|method|uncertainties|combination|lyapunovkrasovskii|level|illustrate|batch|iterative|merit|decrease|system|important|synthetic|proposed|solve|adjustable|parameters|convergence|divided|reactor|description|learning|prescribed|load|tank|derived|highly|effectiveness|processes|process|implementation|disturbances|lmi|control|industrial|performance|application|corresponding|objectives|time
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Affine transformation|Mathematical optimization|Control theory|Nonlinear system|Control theory|Input/output|Iterative learning control|Robust control|Mathematics|Linear matrix inequality|Piecewise
+references:1491543668|2005804068|2038730444|2045714687|2050279275|2097432972|2114997453|2127584587|2141199115|2159038290|2165312999|2236733791
+
+
+id:2033533699
+title:Identification of integrating and unstable processes from relay feedback
+year:2008
+author information:[
+author name:Tao Liu
+author organization:PLA University of Science and Technology
+author id:2624718877|
+author name:Furong Gao
+author organization:Hong Kong University of Science  Technology
+author id:2117464348|
+]
+abstract:standard|developed|feedback|identification|structure|terms|presented|tighter|limit|order|given|limiting|expressions|unstable|condition|examples|proposed|illustrative|exact|demonstrate|conditions|formed|parameters|algorithms|integrating|methods|identification|merits|subsequently|cycle|test|measurement|cycle|denoising|cope|noise|processes|demonstrated|derived|measurable|algorithms|effectiveness|process|processes|relay|response|undoubtedly|fitting
+venue name:Computers  Chemical Engineering
+venue id:150671403
+venue type:J
+document type:Journal
+study fields:Noise reduction|Expression (mathematics)|Measure (mathematics)|Control theory|Limit cycle|Control engineering|Mathematics|Relay|Limiting
+references:2003851325|2006761075|2010978327|2011605086|2042439539|2085780730|2109864285|2133404692|2152858906
+
+
+id:2097728441
+title:Identification and Autotuning of Temperature-Control System With Application to Injection Molding
+year:2009
+author information:[
+author name:Tao Liu
+author organization:Hong Kong University of Sci.  Technol
+author id:2624718877|
+author name:Ke Yao
+author organization:Hong Kong University of Sci.  Technol
+author id:2119884514|
+author name:Furong Gao
+author organization:Hong Kong University of Sci.  Technol
+author id:2117464348|
+]
+abstract:disturbances|type|identification|analytical|model|recent|based|using|tuning|method|system|examples|integrating|scheme|methods|another|disturbance|two|measurement|denoising|literature|motivated|noise|temperature|based|strategies|setpoint|scheme|performed|formulas|rules|developed|presented|operation|molding|internalmodelcontrol|heating|obtain|ensure|test|proposes|merit|heatingup|proposed|controllerdesign|demonstrate|full|barreltemperature|united|loaddisturbance|simplicity|around|general|unity|correspondingly|operations|paper|load|reject|design|steady|controlsystem|effectiveness|temperaturecontrol|practical|relay|control|also|structure|regulation|application|corresponding|response|stable|quantitative|step|injection|design|applications
+venue name:IEEE Transactions on Control Systems and Technology
+venue id:133363738
+venue type:J
+document type:Journal
+study fields:Step response|System testing|Control theory|Temperature control|Injection molding machine|Robustness (computer science)|Control engineering|Control unit|Control system|System identification|Mathematics
+references:1997839081|2033533699|2049306434|2065775411|2141316077|2161377868
+
+
+id:2112619846
+title:Improved independent component regression modeling
+year:2009
+author information:[
+author name:Chunhui Zhao
+author organization:Hong Kong University of Science and Technology
+author id:2624376054|
+author name:Furong Gao
+author organization:Hong Kong University of Science  Technology
+author id:2117464348|
+author name:Tao Liu
+author organization:PLA University of Science and Technology
+author id:2624718877|
+author name:Fuli Wang
+author organization:Northeastern University
+author id:2269755496|
+]
+abstract:modeling|modeling|simulation|extracted|objective|optimization|exclusive|weights|evaluated|developed|algorithm|similar|flexibly|extraction|quality|illustrated|simultaneously|components|statistical|independent|dualobjective|drawbacks|quantitatively|interpretation|feature|relationship|inherits|calibration|firststep|discussed|component|icr|practicability|experiment|ica|twostep|independence|qualitycorrelation|analyzed|solution|ics|modified|adjusting|different|guaranteed|informative|micr|respect|prediction|twofold|roles|principal|causal|enhance|considers|original|constructed|implementation|suboptimization|inconveniences|performance|conventional|regression|risk
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Regression|Principal component regression|Pattern recognition|Regression analysis|Computer science|Feature extraction|Prediction algorithms|Artificial intelligence|Independent component analysis|Calibration|Principal component analysis
+references:2040429619|2058044556|2078745962|2123649031
+
+
+id:2114836596
+title:Robust Step-Like Identification of Low-Order Process Model Under Nonzero Initial Conditions and Disturbance
+year:2008
+author information:[
+author name:Tao Liu
+author organization:Hong Kong University of Sci.  Technol
+author id:2624718877|
+author name:Furong Gao
+author organization:Hong Kong University of Sci.  Technol
+author id:2117464348|
+]
+abstract:considered|used|influence|equations|identification|integrals|method|model|tests|specifically|feasible|proof|problems|strict|recent|steplike|given|method|test|differs|identification|removing|estimation|proposed|estimation|examples|transient|illustrative|instrumental|loworder|disturbance|nonsteady|unexpected|overcome|show|merits|measurement|states|general|literature|load|equation|noise|parameter|noise|subsequent|based|established|effectiveness|process|practical|robust|linear|initial|multiple|also|consistent|nonzero|performed|conventional|difficulties|response|regression|associated|variable|step
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Least squares|Transient response|Linear equation|Step response|Control theory|Regression analysis|Estimation theory|System identification|Mathematics|Linear regression
+references:1989993786|2069730613|2075196564
+
+
+id:2163548386
+title:Identification of low-order process model with time delay from closed-loop step test
+year:2009
+author information:[
+author name:Tao Liu
+author organization:PLA University of Science and Technology
+author id:2624718877|
+author name:Furong Gao
+author organization:Hong Kong University of Science  Technology
+author id:2117464348|
+author name:Chunhui Zhao
+author organization:Hong Kong University of Science and Technology
+author id:2624376054|
+]
+abstract:closedloop|used|controloriented|developed|frequency|identification|terms|model|recent|algorithm|respectively|based|models|given|using|method|introducing|widely|damping|identification|laplace|obtaining|estimation|system|proposed|examples|illustrative|loworder|demonstrate|facilitate|algorithms|firstorderplusdeadtime|two|test|analytically|literature|factor|derived|algorithms|effectiveness|process|control|realization|structure|secondorderplusdeadtime|response|step
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Step response|Mathematical optimization|Frequency response|Laplace transform|Computer science|Control theory|Process modeling|Robustness (computer science)|Process control|System identification|Damping factor
+references:1506307289|1989993786|2006761075|2011605086|2019899109|2069730613|2114836596|2133404692
+
+
+id:2509581632
+title:Identification of Discrete-Time Output Error Model Using Filtered Input Excitation for Integrating Processes With Time Delay
+year:2017
+author information:[
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Shijian Dong
+author organization:Dalian University of Technology
+author id:2124939619|
+author name:Fengwei Chen
+author organization:Dalian University of Technology
+author id:2156652051|
+author name:Dewei Li
+author organization:Shaohai Jiao Tong University
+author id:2138766645|
+]
+abstract:illustrative|integer|used|type|developed|output|identification|limit|excitation|estimate|method|model|subtly|algorithm|openloop|given|including|method|test|introducing|estimation|input|proposed|estimation|equivalently|simultaneously|demonstrate|parameters|facilitate|integrating|systems|convergence|guarantee|error|recursive|differential|example|oe|design|parameter|transformed|sampled|effectiveness|processes|controller|process|linear|identify|implementation|analyzed|consistent|performed|delay|complying|computation|filter|industrial|interpolation|proof|stable|discretetime|time
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Integer|Convergence (routing)|Mathematical optimization|Control theory|Process control|Linear interpolation|Discrete time and continuous time|Estimation theory|System identification|Recursion|Mathematics
+references:2026763266|2079307575|2113086653|2127801338|2132539365|2140386406|2144931885
+
+
+id:2566258672
+title:Identification of Discrete-Time Model With Integer Delay and Control Design for Cooling Processes With Application to Jacketed Crystallizers
+year:2017
+author information:[
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Shijian Dong
+author organization:Dalian University of Technology
+author id:2124939619|
+author name:Shili Rong
+author organization:Dalian University of Technology
+author id:2225988811|
+author name:Chongquan Zhong
+author organization:Dalian University of Technol
+author id:2629315463|
+]
+abstract:process|convenience|integer|developed|rejection|constraints|tracking|without|jacketed|overshoot|identification|excitation|describing|method|model|algorithm|based|computeraided|given|using|method|crystallizer|proposes|merit|establish|estimation|input|bootstrapping|delay|addressed|examples|proposed|illustrative|improve|domain|cooling|disturbance|scheme|modelbased|show|circulator|integratingtype|wave|measurement|point|literature|paper|load|motivated|parameter|design|temperature|noise|rectangular|sampled|device|effectiveness|process|comply|practical|set|implementation|control|twodegreeoffreedom|industrial|proof|application|response|consistent|discretetime
+venue name:IEEE Transactions on Control Systems and Technology
+venue id:133363738
+venue type:J
+document type:Journal
+study fields:Control theory|Bootstrapping|Overshoot (signal)|Control engineering|Process control|Discrete time and continuous time|Control system|Estimation theory|System identification|Domain model|Mathematics
+references:2097728441|2140386406|2145272310
+
+
+id:2582238455
+title:Recursive subspace identification subject to relatively slow time-varying load disturbance
+year:2018
+author information:[
+author name:Jie Hou
+author organization:Dalian University of Technol
+author id:2650587156|
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Qing-Guo Wang
+author organization:University of Johannesburg
+author id:2793391540|
+]
+abstract:superposition|subject|using|quickly|retrieved|output|observer|forgetting|identification|identified|deadbeat|abstractin|algorithm|based|ensure|method|response|introducing|estimation|timeinvariant|system|proposed|slow|estimation|prediction|relatively|timevarying|fixed|disturbance|deterministicstochastic|convergence|another|deterministic|error|two|recursive|extended|adaptive|matrices|load|dynamics|systems|parameter|rls|factor|track|matrices|established|subspace|linear|identify|constructed|decomposed|markov|th|leastsquares|parameter|form|response|unbiased|represent
+venue name:International Journal of Control
+venue id:88061139
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Superposition principle|Mathematical optimization|Subspace topology|Matrix (mathematics)|Control theory|Markov chain|Deterministic system|Observer (quantum physics)|Mathematics|Recursive least squares filter
+references:1973980088|1986910338|1998991650|2004475000|2024376618|2039569176|2051117200|2051287062|2070269885|2105343563|2106078177|2111232193|2130212796|2135488548|2148087508|2148469736|2156686000|2170312047|2412612281
+
+
+id:2590301434
+title:Robust time-domain output error method for identifying continuous-time systems with time delay
+year:2017
+author information:[
+author name:Fengwei Chen
+author organization:Dalian University of Technology
+author id:2156652051|
+author name:Marion Gilson
+author organization:Université de Lorraine, CRAN, UMR 7039, 2 rue Jean Lamour, 54519 Vandœuvre-les-Nancy, France
+author id:2310533368|
+author name:Hugues Garnier
+author organization:Université de Lorraine, CRAN, UMR 7039, 2 rue Jean Lamour, 54519 Vandœuvre-les-Nancy, France
+author id:2308974846|
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+]
+abstract:region|nonlinear|approach|output|minima|loss|identification|optimization|easily|presence|filtering|theoretical|order|method|sampling|simulated|possess|delay|system|delays|starting|methods|achieve|overcome|irregular|local|systems|intersample|behavior|may|initial|efficient|abstract|data|many|valuebased|lowpass|choice|data|several|regularly|shown|presented|function|enlarge|method|results|hold|trapped|presented|proposed|improve|demonstrate|overparametrization|convergence|technique|error|minima|lies|sampled|zeroorder|smooth|incorporating|effectiveness|approaches|superior|performance|continuoustime|challenge|time
+venue name:Systems  Control Letters
+venue id:56603566
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Time domain|Mathematical optimization|Nonlinear system|Control theory|Continuous time system|Filter (signal processing)|Maxima and minima|Sampling (statistics)|System identification|Mathematics
+references:1988098342|1989993786|2004600028|2009749531|2020019046|2026763266|2036029516|2055638441|2079307575|2082365378|2140386406|2142402591|2319977202|2577978871
+
+
+id:2771205173
+title:Predictor-Based Disturbance Rejection Control for Sampled Systems With Input Delay
+year:2019
+author information:[
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Shoulin Hao
+author organization:Dalian University of Technology
+author id:2766842252|
+author name:Dewei Li
+author organization:Shaohai Jiao Tong University
+author id:2138766645|
+author name:Wen-Hua Chen
+author organization:Loughborough University
+author id:2136014268|
+author name:Qing-Guo Wang
+author organization:University of Johannesburg
+author id:2793391540|
+]
+abstract:pdrc|closedloop|illustrative|output|observer|introduced|generalized|filtered|terms|estimate|state|openloop|based|tuning|response|sampling|smith|input|specifying|delay|system|domain|disturbance|scheme|achieve|deterministic|notable|matrix|inequality|extended|tradeoff|cope|gain|example|literature|composed|desired|temperature|vector|processes|eso|established|controller|robust|linear|many|generally|single|crystallization|delayfree|used|good|sufficient|method|uncertainties|stability|merit|rejection|unstable|external|condition|involved|proposed|predictorbased|prediction|demonstrate|applied|reactor|robustness|analytically|along|parameter|predictor|effectiveness|derived|poles|advantage|control|also|monotonically|industrial|performance|application|tuned|discretetime
+venue name:IEEE Transactions on Control Systems and Technology
+venue id:133363738
+venue type:J
+document type:Journal
+study fields:State observer|Control theory|Smith predictor|Control theory|Temperature control|Robustness (computer science)|Deterministic system|Control system|Mathematics|Linear matrix inequality
+references:1824855110|1968832087|2017008592|2109864285|2135493101|2140246545|2230652337|2293043513
+
+
+id:2967742911
+title:Attenuation on non-repetitive disturbances in robust iterative learning control schemes designed over repetitive setting
+year:2019
+author information:[
+author name:Wojciech Paszke
+author organization:University of Zielona
+author id:1976031890|
+author name:Shoulin Hao
+author organization:Dalian University of Technology
+author id:2766842252|
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+]
+abstract:ilc|addresses|imposed|modifies|attenuation|existence|illustrative|trial|setting|computations|problem|updating|shown|sufficient|method|uncertainties|results|stability|based|given|law|method|iterative|inequality|proposed|leads|timevarying|applicability
+venue name:European Control Conference
+venue id:2754459719
+venue type:C
+document type:Conference
+study fields:Control theory|Linear system|Matrix (mathematics)|Computer science|Control theory|Attenuation|Iterative learning control|Linear matrix inequality|Computation
+references:941168285|2103787878|2108489060|2159038290
+
+
+id:2988512355
+title:Extended state observer based indirect-type ILC for single-input single-output batch processes with time- and batch-varying uncertainties
+year:2019
+author information:[
+author name:Shoulin Hao
+author organization:Dalian University of Technology
+author id:2766842252|
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Eric Rogers
+author organization:University of
+author id:1968787646|
+]
+abstract:proportionaltype|tracking|different|required|feedback|improved|output|observer|gradually|generalized|model|state|based|outer|focusing|inequality|input|system|uncertainties|timevarying|simultaneously|methods|guarantee|matrix|extended|designs|established|controller|robust|linear|abstract|setpoint|many|advantages|ilc|simple|used|developed|time|loop|sufficient|dynamic|molding|uncertainties|stability|new|ensure|comparison|batch|iterative|tractable|engineering|inner|bounded|solely|external|condition|proposed|demonstrate|convergence|update|learning|error|related|along|feedforward|design|indirecttype|batchvarying|designed|direction|effectiveness|processes|process|recently|disturbances|control|also|structure|command|doubleloop|direction|existing|industrial|performance|conduct|consists|time|injection
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Inner loop|State observer|Control theory|Iterative learning control|Linear matrix inequality|Mathematics|Tracking error|Bounded function|Feed forward
+references:2052848225|2159038290|2163572958|2179067136|2345184888|2592009351|2771205173|2899657942|2905015357
+
+
+id:2989296349
+title:Anti-windup design for discrete-time systems with time delay via predictor-based extended state observer
+year:2019
+author information:[
+author name:Xinpeng Geng
+author organization:Dalian University of Technology
+author id:2900241760|
+author name:Shoulin Hao
+author organization:Dalian University of Technology
+author id:2627377927|
+author name:Tao Liu
+author organization:Dalian University
+author id:2624718877|
+author name:Qing-Guo Wang
+author organization:University of Johannesburg
+author id:2637048554|
+]
+abstract:saturation|proposing|closedloop|using|illustrative|tracking|saturation|feedback|prefilter|output|observer|actuator|generalized|terms|appears|function|sufficient|estimate|modified|state|sector|stability|ensure|compensator|becomes|condition|delay|system|transfer|proposed|simultaneously|inequalities|modelbased|disturbance|matrix|extended|example|analytically|desired|systems|reject|design|undelayed|predictor|based|demonstrated|designed|established|effectiveness|controller|freeweightingmatrix|linear|steadystate|literature|guaranteeing|setpoint|control|error|antiwindup|stabilize|discretetime|time|novel
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:State observer|Feedback controller|Control theory|Matrix (mathematics)|Control engineering|Transfer function|Engineering|Discrete time and continuous time|Actuator saturation|Tracking error
+references:1988098342|2016562720|2035183990|2097354308|2110204796|2135493101|2145957603|2148827498|2343265570|2764271364
+
+
+id:1490661502
+title:A robotic bipedal model for human walking with slips
+year:2015
+author information:[
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Mitja Trkov
+author organization:Rutgers University
+author id:1950526593|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Yizhai Zhang
+author organization:Northwestern Polytechnical University
+author id:2157071390|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Dezhen Song
+author organization:Texas AM University
+author id:2146981747|
+]
+abstract:developments|modeling|existence|experimental|used|approach|falls|major|optimize|nonslip|assumption|model|joints|results|new|successfully|compared|models|relaxation|profile|capture|active|includes|predicts|proposed|gait|bipedal|slips|demonstrate|present|parameters|slip|locomotion|one|experiments|cause|recovery|rolling|walking|gaits|predict|locomotion|human|ankle|foot|validate|existing|extensive|conduct|slip|doublestance
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Human locomotion|Gait|Control theory|Simulation|Slip (materials science)|Engineering|Ankle
+references:1989149483|2114115207|2128131727
+
+
+id:1504250964
+title:Slip detection and prediction in human walking using only wearable inertial measurement units (IMUs)
+year:2015
+author information:[
+author name:Mitja Trkov
+author organization:Rutgers University
+author id:1950526593|
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:constraints|workers|injuries|reliably|realtime|developing|professional|rehabilitation|falls|major|balance|realtime|dynamic|model|displacement|slipdetection|train|algorithm|new|wearable|using|devices|imu|proposed|prediction|bipedal|experiments|slips|critical|scheme|slip|units|measurement|extended|prevent|effective|elders|fall|paper|walking|causes|predict|demonstrated|human|designed|foot|measurements|kalman|detection|patients|built|one|inertial|kinematic|filter|disorder|extensive|slip|assistive|novel|presents
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Inertial frame of reference|Units of measurement|Extended Kalman filter|Kinematics|Simulation|Wearable computer|Computer science|Slip (materials science)|Control engineering|Balance disorders|Inertial measurement unit
+references:1490661502|1989149483|2061640077|2126564653|2134349615|2145857895|2153542846
+
+
+id:1506286309
+title:A six-dimension parallel force sensor for human dynamics analysis
+year:2004
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Y. Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:K. Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+author name:Y. Yamasaki
+author organization:Kochi University of Technol
+author id:2503512476|
+author name:M. Nakahama
+author organization:Kochi University of Technol
+author id:2974829141|
+]
+abstract:principle|used|improved|dynamics|optimize|presented|distributing|drag|calculate|walking|element|strain|finite|method|threedirection|sixdimension|sixaxis|measure|forces|force|sensor|support|sensor|analysis|load|parallel|positions|coefficients|mechanism|human|designed|dimension|calibration|gages|reaction|leastsquares|sensitivity|calibrating|cells|maximum|adopted
+venue name:Robotics, Automation and Mechatronics
+venue id:1129429480
+venue type:C
+document type:Conference
+study fields:Drag|Load cell|Control theory|Force platform|Human dynamics|Control engineering|Finite element method|Strain gauge|Engineering|Calibration|Humanoid robot
+references:1596992554|2073596732
+
+
+id:1931507486
+title:A wearable inertial sensor system for human motion analysis
+year:2005
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Kyoko Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+author name:Xueyan Tang
+author organization:
+author id:2435571601|
+]
+abstract:calculation|experimental|used|developed|output|acceleration|noises|walking|respectively|velocities|wearable|robustness|system|angular|system|measure|directions|x|gait|analyze|sensor|study|enhances|inference|detect|two|remove|multidimension|accelerometer|mechanism|human|derived|designed|foot|fuzzy|phases|digital|normal|motion|constructed|also|inertial|gyroscopes|filter|outputs|proposed|sensors
+venue name:Computational Intelligence in Robotics and Automation
+venue id:1122896333
+venue type:C
+document type:Conference
+study fields:Computer vision|Motion control|Gyroscope|Wearable computer|Computer science|Accelerometer|Gait analysis|Artificial intelligence|Acceleration|Motion analysis|Fuzzy control system
+references:1506286309|2073596732|2135718988
+
+
+id:1966503762
+title:Verification of additional merits of a bimanual-coordinated rehabilitation robot using near-infrared spectroscopic technology
+year:2014
+author information:[
+author name:Chunguang Li
+author organization:Soochow University
+author id:2426895971|
+author name:Juan Li
+author organization:Soochow University
+author id:2688253681|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+]
+abstract:using|asymmetry|robot|mode|activeresisted|hemispheres|different|greater|tasks|based|work|activeassisted|patterns|index|unilaterallimb|left|difference|cerebral|larger|compare|distinct|training|merits|analyses|confirmed|two|oxygenatedhemoglobin|hemoglobin|laterality|provides|induced|designed|compared|limb|bimanual|indu|previous|training|interhemispheric|patterns|subjects|concentration|control|right|performed|confirm|variance|healthy|sides|obvious|li
+venue name:Advanced Robotics
+venue id:192584203
+venue type:J
+document type:Journal
+study fields:Laterality|Simulation|Rehabilitation robot|Engineering|Robot
+references:1994967503|2046521201|2100785206|2104748275|2121265355|2136472404
+
+
+id:1976979018
+title:Estimation of lower limb muscle forces during human sit-to-stand process with a rehabilitation training system
+year:2012
+author information:[
+author name:Enguo Cao
+author organization:Kochi University of Technology
+author id:2152090194|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Kyoko Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+]
+abstract:modeling|tendency|inconvenient|sittostand|process|developed|body|professionally|attaching|rehabilitation|dynamics|muscles|experiment|system|presented|method|model|directly|results|calculated|new|based|tension|method|level|lower|analysis|measure|system|forces|matched|musculoskeletal|activation|parameters|limb|training|appears|modeling|acquire|segments|composed|validation|muscle|human|estimating|foot|limb|established|inverse|means|practical|determine|also|concerns|shank|performed|kinematic|quantitative|electromyography|anybody|adopted
+venue name:IEEE-EMBS International Conference on Biomedical and Health Informatics
+venue id:2754091824
+venue type:C
+document type:Conference
+study fields:Sit to stand|Rehabilitation|Training system|Computer science|Electromyography|Lower limb muscle|Thigh|Inverse dynamics|Biomechanics|Physical medicine and rehabilitation
+references:2099657214|2120869253|2143581611
+
+
+id:1980529887
+title:3D Force Sensor Designed Using Pressure Sensitive Electric Conductive Rubber
+year:2008
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Y. Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:K. Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+]
+abstract:conductive|experimental|improved|optimization|circuits|element|hardware|respectively|using|impact|electrical|sensitive|analysis|system|correlation|flexible|comfortable|force|experiments|plate|two|measurement|positions|systems|firstly|mechanism|measurements|device|controller|reaction|moments|sensitivity|showed|maximum|compact|used|developed|horizontal|dimensions|distributing|rubber|results|verification|strain|new|finite|including|conducted|pressure|proposed|amplifiers|conditioning|forces|ground|sensor|support|sensor|vertical|interface|integrated|paper|parallel|design|human|designed|sensing|microcomputer|electric|perform|calibration|structure|cells|coefficients|presents
+venue name:Robotics, Automation and Mechatronics
+venue id:1129429480
+venue type:C
+document type:Conference
+study fields:Control theory|Electrical conductor|Natural rubber|Control engineering|Finite element method|Ground reaction force|Engineering|Electronic circuit|Calibration|Amplifier
+references:1506286309|1596992554
+
+
+id:1994967503
+title:A novel rehabilitation system supporting bilateral arm cooperative training
+year:2010
+author information:[
+author name:Chunguang Li
+author organization:Kochi University of Technol
+author id:2305258478|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Kyoko Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+]
+abstract:handles|modes|experimental|tracking|robot|rehabilitation|impaired|activeresisted|hypertonia|reduce|activeassisted|reduced|limbs|persons|movement|traditional|abnormal|system|force|hz|much|average|providing|numerous|degenerated|achieve|deliver|range|unilateral|matter|two|proves|slave|proved|bilateral|arm|compared|training|within|subjects|aged|performed|prototype|confirm|frequency|rms|novel|controls|subject|developed|coordination|frequency|reference|correctly|selfassisted|robots|different|results|commands|actual|development|test|practice|experimental|patients|proposes|less|built|system|tests|task|hemiplegic|position|support|errors|limb|changed|motorfunction|limbs|unilateraldisabled|values|training|symmetric|accomplish|paper|provides|limb|effectiveness|bimanual|motion|therapy|patterns|realized|terminal|velocity|synergies|master|corresponding|various|response|healthy|mean|paid|attention|respond
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Motion planning|Rehabilitation|Frequency response|Torque|Computer science|Training system|Simulation|Robot|Match moving|Trajectory
+references:1982221577|2130392023
+
+
+id:2041092085
+title:Three-dimensional gait analysis system with mobile force plates and motion sensors
+year:2011
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Kyoko Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+author name:Kouzou Shiojima
+author organization:Tec Gihan Co., LTD, 1-22 Nishinohata, Okubo-Cho, Uji-City, Kyoto, 611-0033, Japan
+author id:2121289729|
+]
+abstract:joint|threedimensional|stationary|stickchain|implemented|model|limitations|using|plates|coordinate|analysis|propose|traditional|system|measure|gait|coordinate|analyze|triaxial|force|overcome|global|local|moments|composed|visually|camera|human|measurements|motion|built|plate|one|mobile|transformation|sensors|calculated
+venue name:International Conference on Ubiquitous Robots and Ambient Intelligence
+venue id:2734383331
+venue type:C
+document type:Conference
+study fields:Coordinate system|Computer vision|STRIDE|Gait|Simulation|Force platform|Global coordinate system|Gait analysis|Artificial intelligence|Motion sensors|Engineering|Gait (human)
+references:2102895608
+
+
+id:2067602453
+title:A novel motion sensor with nine degrees of freedom
+year:2011
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:Kyoko Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+]
+abstract:nine|acceptable|communicate|multiaxis|available|orientations|accuracy|used|degrees|reference|threedimensional|realtime|incorporated|mems|implement|laboratory|results|validation|group|new|using|including|method|test|experiment|personal|develop|estimation|system|measure|simplified|proposed|gait|triaxial|sensor|bluetooth|experiments|measurement|commercially|computer|freedom|paper|accelerometer|precision|measurements|orientation|motion|magnetometer|module|performed|gyroscope|sensors|orientation|wireless|supported
+venue name:BioMedical Engineering and Informatics
+venue id:1178831173
+venue type:C
+document type:Conference
+study fields:Computer vision|Gyroscope|Wireless|System of measurement|Computer science|Accelerometer|Personal computer|Kalman filter|Artificial intelligence|Motion estimation|Bluetooth
+references:2027054265|2037419863|2040378481|2102895608|2140004187|2140268640|2148033781|2150893603|2161872204
+
+
+id:2093154391
+title:Wearable Sensor Systems for Infants
+year:2015
+author information:[
+author name:Zhihua Zhu
+author organization:Zhejiang university
+author id:2164558838|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Guangyi Li
+author organization:Zhejiang University
+author id:2118844236|
+author name:Tong Li
+author organization:Kochi University of Technol
+author id:2599883601|
+author name:Yoshio Inoue
+author organization:Zhejiang university
+author id:2083482640|
+]
+abstract:microprocessor|achievements|drowning|immediately|give|wearable|infants|monitoring|analysis|future|processing|obtained|status|continuous|methods|parents|healthcare|low|systems|perspective|behavior|latest|highlighted|health|summarized|framework|energyconsumption|able|information|constant|data|available|inside|body|research|meaningful|high|reviews|clinicians|communication|different|development|presented|discussed|tool|modules|fusion|warn|clinical|external|techniques|sensor|parameters|perceive|lucid|parents|applied|integrated|paper|threats|algorithms|sensing|falling|introduce|transmit|also|performance|sensors|achieved|wireless|physiological|applications
+venue name:Sensors
+venue id:101949793
+venue type:J
+document type:Journal
+study fields:Telemedicine|Data processing|Wireless|Wearable computer|Microprocessor|Electronic engineering|Body area network|Engineering|Wearable sensing
+references:1533121806|1546989151|2002741442|2026903683|2057540634|2059553088|2079841778|2093799557|2099973710|2108697161|2120803666|2122320905|2131496831|2135517513|2142034317|2143516309|2151467798|2158764002|2166475680|2170239483
+
+
+id:2093839343
+title:A Wearable Sensor System for Human Motion Analysis and Humanoid Robot Control
+year:2006
+author information:[
+author name:Tao Liu
+author organization:Kochi University of Technol
+author id:2806305678|
+author name:Y. Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+author name:K. Shibata
+author organization:Kochi University of Technol
+author id:2737254772|
+]
+abstract:highspeed|timeexhausted|leg|robot|output|introduced|camera|based|wearable|robustness|lowcost|analysis|former|angular|system|sensorbased|much|requires|care|study|humanoid|enhances|control|inference|utilizing|reliability|eliminate|measurement|result|current|costly|free|calibration|phases|compared|single|filter|captioned|camerabased|accelerometers|vast|calculation|effectively|fed|data|body|developed|space|shows|designated|incorporated|noises|twoaxis|experimental|conducted|system|measure|gait|sensor|facilitate|analysis|applied|inexpensive|cycle|factors|paper|since|studies|human|every|fuzzy|digital|cost|motion|implementation|considerably|accelerations|also|velocity|shank|gyroscopes|sensors|application|conventional|quantitative|well|latter|presents|taking
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Gyroscope|Control engineering|Robustness (computer science)|Gait analysis|Artificial intelligence|Motion analysis|Humanoid robot|Computer vision|Simulation|Wearable computer|Accelerometer|Engineering|Mobile robot
+references:1931507486|2073596732|2127321491
+
+
+id:2093842398
+title:Neural network-based gait assessment using measurements of a wearable sensor system
+year:2014
+author information:[
+author name:Guangyi Li
+author organization:Zhejiang University
+author id:2118844236|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Tong Li
+author organization:Zhejiang University
+author id:2599883601|
+author name:Yoshio Inoue
+author organization:School of Systems Engineering Kochi University of Technology
+author id:2083482640|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+]
+abstract:joint|ambulatory|developed|building|dynamic|model|results|validation|wearable|using|analysis|estimation|system|especially|gait|daily|forces|ground|parameters|trained|neural|analysis|experiments|networks|measurement|life|moment|research|moments|applications|based|possibility|universal|reaction|studied|one|estimated|people|kinematic|kinetic|longterm
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Kinematics|Gait|Simulation|Wearable computer|Control engineering|Sensor system|Gait analysis|Ground reaction force|Engineering|Artificial neural network
+references:2032168850|2061640077|2135676962|2146592202|2148765077|2162271214
+
+
+id:2306688771
+title:A Novel Tactile Sensor with Electromagnetic Induction and Its Application on Stick-Slip Interaction Detection.
+year:2016
+author information:[
+author name:Yanjie Liu
+author organization:Harbin Institute of Technology
+author id:2441310033|
+author name:Haijun Han
+author organization:Rutgers University
+author id:2500754422|
+author name:Tao Liu
+author organization:Queen′s University
+author id:2716141313|
+author name:Jingang Yi
+author organization:Kochi University of Technol
+author id:2985154130|
+author name:Qingguo Li
+author organization:Harbin Institute of Technology
+author id:2702324590|
+author name:Yoshio Inoue
+author organization:Zhejiang university
+author id:2083482640|
+]
+abstract:equivalent|experimental|approach|robot|output|magnetic|model|state|spatial|transfer|manipulate|based|method|surface|considering|steadily|feasibility|interaction|wafer|field|size|softrigid|object|systems|distribution|grasp|induction|verify|relationship|mechanism|cantileverbeam|validate|detection|prototype|change|novel|realtime|developed|contact|results|new|constructing|transfer|proposed|electromagnetic|robotenvironment|detecting|sensor|sensor|applied|tactile|crucial|according|detect|capable|transferring|paper|provides|end|sensing|characteristics|requirements|built|also|friction|application|stickslip|stable|interaction|typical|presents
+venue name:Sensors
+venue id:101949793
+venue type:J
+document type:Journal
+study fields:Wafer|Electromagnetic induction|GRASP|Proximity sensor|Slip (materials science)|Electronic engineering|Robot end effector|Engineering|Robot|Tactile sensor
+references:1981999954|1993881120|2006691124|2025814551|2027841869|2029912891|2037597894|2094929996|2110741537|2138329241|2171130677
+
+
+id:2499618356
+title:Balance recovery control of human walking with foot slip
+year:2016
+author information:[
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Mitja Trkov
+author organization:Rutgers University
+author id:1950526593|
+author name:Siyu Chen
+author organization:Rutgers University
+author id:2507747360|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:incorporate|body|zero|balance|model|inverted|pendulum|using|capture|extend|extensions|timevarying|present|parameters|allow|control|unexpected|experiments|mass|recovery|point|tune|moment|represents|walking|design|human|foot|validate|limb|normal|linear|built|center|slip|control|cpbased|rapidly|motions|twomass|point|conduct|slip|concept|locations|strategy|respond|movement|first
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Inverted pendulum|Control theory|Computer science|Slip (materials science)|Control engineering|Zero moment point
+references:1490661502|1504250964|2074042377|2099129715|2126729486|2137300190|2539534359
+
+
+id:2527498746
+title:Development of a novel elastic load-carrying device: Desig
+year:2016
+author information:[
+author name:Tong Li
+author organization:Zhejiang University
+author id:2599883601|
+author name:Qingguo Li
+author organization:Queen׳s University
+author id:2702324590|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Guofang Gong
+author organization:Queen׳s University
+author id:2526685744|
+]
+abstract:big|springs|changing|thus|displacement|model|case|energy|method|natural|lower|impact|stiffness|selection|carrying|experiments|force|motion|device|pattern|result|examined|loadcarrier|energetics|forward|carrier|analyzed|comfort|model|reduced|connected|characterize|able|selection|novel|simple|body|influence|frequency|spring|presented|weakened|inverted|well|walking|predicted|manually|pendulumlike|experimental|differs|damping|system|task|proposed|gait|effect|varies|coefficient|strenuous|present|kinetics|carrying|frame|additional|mass|changes|according|reveals|proper|vertical|capable|frequency|arranged|load|along|walking|design|make|highly|costs|weight|motion|determine|center|foreaft|also|velocity|direction|carrier|suggested|massspringdamper|interaction|significantly
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Natural frequency|Gait|Computer science|Control theory|Interaction model|Control engineering|Structural engineering|Simulation|Stiffness|Touchdown|Vertical displacement|Center of mass|Elasticity (economics)
+references:2015244452|2088012217
+
+
+id:2566176197
+title:A wearable sensor system for knee adduction moment measurement
+year:2016
+author information:[
+author name:Yang Shen
+author organization:Zhejiang university
+author id:2690551768|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Qingguo Li
+author organization:Queens University
+author id:2702324590|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Xiaoyu Xie
+author organization:Department of Electrical Engineering and Information Technology, Karlsruhe Institute of Technology, Karlsruhe, Germany
+author id:2563537377|
+author name:Bo Wen
+author organization:Zhejiang university
+author id:2563453997|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+]
+abstract:conductive|used|developed|moment|reference|assessment|stationary|implemented|estimate|links|pressuresensitive|model|laboratory|validation|adduction|osteoarthritis|wearable|using|commonly|capture|develop|pressure|accurately|system|gait|sensor|obtained|rubber|knee|study|trained|neural|purpose|experiments|measurement|moment|network|composed|systems|parameter|based|key|measurements|severity|six|motion|electric|estimated|model|knee|sock|healthy
+venue name:IEEE International Conference on Real-time Computing and Robotics
+venue id:2755514059
+venue type:C
+document type:Conference
+study fields:Motion capture|Gait|System of measurement|Wearable computer|Simulation|Computer science|Sensor system|Pressure sensor|Artificial neural network
+references:2011636099
+
+
+id:2622342827
+title:BELIA: bandwidth estimate-based link increase algorithm for MPTCP
+year:2017
+author information:[
+author name:Ming Zhu
+author organization:Dalian University of Technol
+author id:2040397382|
+author name:Lei Wang
+author organization:University of Technology
+author id:2617058634|
+author name:Zhenquan Qin
+author organization:Dalian University of Technol
+author id:2947733742|
+author name:Nan Ding
+author organization:Dalian University of Technol
+author id:2068489588|
+author name:Jian Fang
+author organization:Delft University of Technology
+author id:2628364214|
+author name:Tao Liu
+author organization:Dalian University
+author id:2921184134|
+author name:Qi Cui
+author organization:Dalian University of Technology
+author id:2624510707|
+]
+abstract:accuracy|fair|three|scene|estimate|utilise|algorithm|goals|demonstrate|devices|analysis|propose|multihomed|multipath|coexist|extensions|size|circumstances|authors|algorithms|access|mptcp|cut|affect|transmission|facing|occurrence|relationships|two|referring|proved|current|stream|satisfies|protocol|mptcp|regular|enables|set|may|bandwidth|one|lostpacket|simulations|filter|combined|congestion|performs|belia|data|major|throughload|whether|links|mechanisms|estimates|resource|batch|paths|real|maintaining|lack|condition|especially|problems|occurrence|tcp|crucial|part|link|show|network|control|allocations|design|estimatebased|define|applications|possibility|every|decides|multiple|control|increase|better|performance|typical|window|applications
+venue name:IET networks
+venue id:2754941121
+venue type:C
+document type:Conference
+study fields:Congestion window|Computer science|Data stream|Multipath TCP|Algorithm|Congestion control algorithm|Bandwidth (signal processing)|Resource allocation|Transmission Control Protocol
+references:656983955|1486184497|1823805418|1990920914|2007309295|2034538170|2050769372|2058474816|2118442492|2147837310|2158700277|2179500942|2283584307|2339109141|2406030211
+
+
+id:2724664581
+title:Evaluation on Step Counting Performance of Wristband Activity Monitors in Daily Living Environment
+year:2017
+author information:[
+author name:Lei Wang
+author organization:Zhejiang University
+author id:2724953013|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Yihui Wang
+author organization:Carnegie Mellon University
+author id:2732809658|
+author name:Qingguo Li
+author organization:Queen׳s University
+author id:2702324590|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Yoshio Inoue
+author organization:Kochi University of Technol
+author id:2083482640|
+]
+abstract:consumerbased|jawbone|fitbit|without|experiment|four|complex|misfit|evaluated|energy|method|testing|seven|analysis|garmin|field|conditions|evaluate|monitors|compare|activity|experiments|specified|reported|popular|arm|estimating|performance|means|include|subjects|many|series|unified|huawei|nine|monitors|polar|paper|seven|used|life|assessing|different|results|selected|counting|including|experiment|widely|convenient|proposed|daily|mi|stairs|wristbandplaced|show|speed|along|wristband|walking|physical|designed|performance|healthy|step
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Step counting|Daily living|Simulation|Computer science|Energy expenditure|Real-time computing|Treadmill|Preferred walking speed|Swing|Stairs
+references:2294692650|2565358069|2576857800|2606698885
+
+
+id:2737313297
+title:Trajectory tracking and balance control of an autonomous bikebot
+year:2017
+author information:[
+author name:Pengcheng Wang
+author organization:Rutgers University
+author id:2128769111|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Yizhai Zhang
+author organization:Northwestern Polytechnical University
+author id:2157071390|
+]
+abstract:autonomous|tracking|robot|analyses|skills|balance|property|results|generate|similar|comparison|bikebot|unstable|proposed|experiments|designs|demonstrate|present|motor|study|interactions|eicbased|control|experiments|show|riding|two|dynamics|systems|externalinternal|physical|bikebot|designed|human|controller|types|built|strategies|mobile|convertible|control|humanrobot|also|trajectory|singletrack|structure|extensive|performance
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Control theory|Control theory|Motor skill|Control engineering|Control system|Engineering|Trajectory|Human–robot interaction|Mobile robot
+references:1570312393|1964820686|2061640077|2073903944|2082051781|2108550383|2115966471|2126475553|2154215568|2291375953|2341801823|2502545419
+
+
+id:2753718556
+title:A gait retraining feedback system based on wearable sensors
+year:2017
+author information:[
+author name:Zexia He
+author organization:Zhejiang university
+author id:2752095225|
+author name:Yang Shen
+author organization:Zhejiang university
+author id:2690551768|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Joao Paulo Ferreira
+author organization:University of Coimbra
+author id:2664349320|
+]
+abstract:measured|subject|upper|used|transmitted|mainly|moment|influence|feedback|judgment|computer|results|order|train|reduce|adduction|based|wearable|simulated|patients|vibrator|develop|pressure|real|sent|system|gait|effect|conducted|sensor|wifi|study|purpose|osteoarthritis|experiments|show|retraining|progression|training|recovery|effective|computer|plantar|composed|walking|angle|foot|validate|six|motion|patients|one|module|knee|vibrator|sensors|pc|time
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Plantar pressure|Gait training|Gait|Simulation|Computer science|Wearable computer|Training effect|Motion sensors|Retraining
+references:2093842398|2566176197
+
+
+id:2783702204
+title:Learning-based modeling and control of underactuated balance robotic systems
+year:2017
+author information:[
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:modeling|simulation|mechanical|autonomous|used|robots|robotic|tracking|learningbased|dynamics|balance|broad|manifold|robots|pendulum|tasks|combine|models|method|capture|task|proposed|etc|datadriven|bipedal|experiments|present|systems|applied|furuta|represents|machinelearning|systems|structural|design|class|include|applications|underactuated|underactuated|convertible|control|trajectory|ranging|balancing|target|framework|form|equilibrium|requirements|properties|represent
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Furuta pendulum|Computer science|Control theory|Ranging|Robot|Underactuation|Mechanical system|Trajectory|Manifold|Aerodynamics
+references:1490661502|1974845375|2014617596|2018705428|2039273302|2082051781|2096363181|2105067685|2124609748|2154215568|2211706531|2214230591|2341801823|2502545419
+
+
+id:2891151898
+title:A Real-time Pre-impact Fall Detection and Protection System
+year:2018
+author information:[
+author name:Zhichao Zhong
+author organization:Zhejiang University
+author id:2892010293|
+author name:Feiyu Chen
+author organization:Zhejiang University
+author id:2891224646|
+author name:Qian Zhai
+author organization:Zhejiang University
+author id:2890516210|
+author name:Zhiqiang Fu
+author organization:Zhejiang University
+author id:2892196446|
+author name:Joao Paulo Ferreira
+author organization:The institute of Superior of Engineering of Coimbra, Quintada Nora, Coimbra, 3030-199, Portugal
+author id:2664349320|
+author name:Yanjie Liu
+author organization:Harbin Institute of Technology
+author id:2441310033|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:aroused|used|good|got|without|problem|lag|realtime|displacement|evaluated|filtering|calculated|results|events|utilized|algorithm|jump|drift|reduce|using|method|profile|attention|system|population|thresholds|proposed|estimation|solve|sensitivity|motion|higher|switching|specificity|jogging|detect|protection|vertical|secondorder|fall|periods|applications|demonstrated|performance|effectiveness|detection|effectively|alarms|subjects|false|wearing|velocity|dailylife|fast|aging|preimpact|airbag|novel
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Population|Simulation|Computer science|Control theory|Filter (signal processing)|Feature extraction|Acceleration|Airbag|Jump|Vertical displacement|Lag
+references:1985853728|2076068958|2101286829|2152599926|2543632018|2587742742
+
+
+id:2891651097
+title:Strength Capacity Estimation of Human Upper Limb in Human-Robot Interactions with Muscle Synergy Models
+year:2018
+author information:[
+author name:Siyu Chen
+author organization:Rutgers University
+author id:2507747360|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:synergy|strength|upper|main|approach|conducting|without|rehabilitation|presented|model|using|identifies|robotics|devices|estimation|system|concepts|musculoskeletal|demonstrate|present|assistasneeded|parameters|assistasneeded|scheme|challenges|one|experiments|estimated|experiments|interactions|capacity|capability|design|muscle|physical|human|validate|limb|determine|built|one|humanrobot|scheme|designing|model|probe|performance|assistive|extensively|envelopes|interaction
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Physical strength|Human musculoskeletal system|Simulation|Computer science|Control engineering|Rehabilitation robotics|Human–robot interaction
+references:1570312393|1593932305|1915506765|1973352801|2000450224|2002919080|2092060192|2144667765
+
+
+id:2906750955
+title:Inertial Sensor-Based Slip Detection in Human Walking
+year:2019
+author information:[
+author name:Mitja Trkov
+author organization:Rutgers University
+author id:1950526593|
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:workers|placed|accurate|leading|fallrelated|automation|mechanisms|professional|evaluation|introduced|realtime|heelstrike|development|property|model|prevention|algorithm|wearable|goal|remain|distance|lower|robustness|active|limbs|impacts|easy|practitioners|toward|system|size|among|note|integration|sensorimotor|societal|device|requires|shortly|injuries|humanoid|slip|locomotion|one|reliability|experiments|extended|walkers|filterbased|fall|systems|prevention|underdeveloped|causes|detection|reported|supports|foot|validate|measurements|compared|kalman|slipping|detection|set|mitigate|occupational|strategies|approaches|could|one|onset|scheme|lead|characterize|consisting|fast|slip|population|features|economic|first|indicator|small|constraints|injuries|available|several|research|faster|falls|find|dynamic|robots|walking|five|results|potential|development|attractive|conducted|often|develop|nonintrusive|estimation|active|proposed|slipinduced|attached|demonstrate|present|potentially|distance|elderly|detect|proactive|simplicity|units|commercially|effective|negative|leg|times|event|initiation|paper|human|sensing|aims|built|yet|inertial|home|superior|sensors|performance|due|assistive|uses|step|biped|existing|presents
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Slipping|Population|Extended Kalman filter|Computer science|Simulation|Systems design|Slip (materials science)|Control engineering|Robustness (computer science)|Inertial measurement unit|Humanoid robot
+references:1490661502|1504250964|1670326883|1675370436|1989149483|2061640077|2126564653|2153542846
+
+
+id:2973148106
+title:An Integrated Stationary/Moving Balance Control of an Autonomous Bikebot
+year:2019
+author information:[
+author name:Pengcheng Wang
+author organization:Rutgers University
+author id:2128769111|
+author name:Yongbin Gong
+author organization:Rutgers University
+author id:2782964972|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:closedloop|experimental|autonomous|zero|balance|stationary|presented|bikebots|different|moving|results|stability|tasks|finally|domains|stopping|cases|demonstrate|present|controllers|guarantee|two|integrated|dynamics|systems|design|bikebot|analyzed|control|transition|attraction|describe|first
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Control theory|Computer science|Control engineering|Control system
+references:1570312393|2073903944|2082051781|2108550383|2154215568|2156974162|2296319573|2502545419|2737313297|2885833886|2967558729
+
+
+id:2980711630
+title:Control of a Two-Wheel Steering Bikebot for Agile Maneuvers
+year:2019
+author information:[
+author name:Yongbin Gong
+author organization:Rutgers University
+author id:2782964972|
+author name:Kuo Chen
+author organization:Rutgers University
+author id:2166331934|
+author name:Jingang Yi
+author organization:Rutgers University
+author id:2180093289|
+author name:Tao Liu
+author organization:Zhejiang University
+author id:2806305678|
+]
+abstract:modeling|called|autonomous|robots|robot|evaluation|twowheel|singletrack|presented|balance|dynamic|model|results|bikebot|difficult|conducted|maneuvers|maintaining|system|system|carry|agile|demonstrate|doubletrack|control|paper|desired|design|track|maneuvers|compared|mobile|steering|control|trajectory|singletrack|framework|performance|platform|simulation|build|first|onewheel|presents
+venue name:International Conference on Advanced Intelligent Mechatronics
+venue id:2624199261
+venue type:C
+document type:Conference
+study fields:Torque|Computer science|Simulation|Control engineering|Agile software development|Vehicle dynamics|Control system design|Robot|Mobile robot|Trajectory
+references:1593002127|2002232590|2073903944|2082051781|2108550383|2126475553|2129155094|2154215568|2156974162|2343765514|2529203031|2737313297|2967558729
+
+
+id:1535350191
+title:Output Synchronization of Dynamical Networks with Incrementally-Dissipative Nodes and Switching Topology
+year:2015
+author information:[
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+]
+abstract:interconnected|criteria|none|nonlinear|subnetworks|output|identical|dynamics|problem|dissipativity|function|results|stability|investigated|respectively|oscillators|using|method|incrementaldissipativity|preserves|particular|circuits|node|system|selection|asymptotic|converted|among|switched|obtained|coupled|switching|applied|networks|necessarily|lyapunov|network|paper|common|selfsynchronizing|algebraic|design|studies|class|characterized|set|cases|dynamical|biochemical|arbitrary|quadratic|single|topology|nodes|form|synchronization|investigation|first|inputoutput
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Topology|Synchronization|Nonlinear system|Control theory|Synchronization networks|Network topology|Exponential stability|Extension topology|Mathematics|Synchronization of chaos
+references:94675972|1661824700|1908390342|1964394579|1972546746|1989206117|2036216368|2045734116|2053769764|2053898169|2056509920|2056790056|2062974796|2071493330|2083644756|2098974515|2107396783|2110216011|2117079884|2125668987|2139707868|2142991845|2162172825|2165744313
+
+
+id:1925533932
+title:Small-disturbance angle stability analysis of microgrids: A graph theory viewpoint
+year:2015
+author information:[
+author name:Yue Song
+author organization:University of Hong Kong
+author id:2246699223|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:elaborate|equivalent|concerned|considered|type|microgrids|terms|modified|model|results|stability|flow|ieee|using|test|smalldisturbance|impact|active|eigenvaluebased|graph|system|perspective|unstable|inequality|supplement|obtained|preserving|theory|criterion|critical|analysis|concept|show|lines|cause|matrix|point|paper|validated|indicates|angle|semidefiniteness|power|lines|stability|introduce|also|positive|instability|structure|laplacian|build|equilibrium
+venue name:International Conference on Control Applications
+venue id:2623196460
+venue type:C
+document type:Conference
+study fields:Graph theory|Stability criterion|Laplacian matrix|Graph energy|Matrix (mathematics)|Control theory|Equilibrium point|Algebraic connectivity|Mathematics|Eigenvalues and eigenvectors
+references:1990833963|2031464736|2053244425|2056524942|2136236807
+
+
+id:1964394579
+title:Synchronization of complex dynamical networks with switching topology: A switched system point of view
+year:2009
+author information:[
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+author name:David J. Hill
+author organization:The Australian National University
+author id:2101335686|
+author name:Tao Liu
+author organization:Australian National University
+author id:2680157933|
+]
+abstract:functions|criteria|via|problem|complex|connection|order|using|method|topology|system|triangularization|switched|timevarying|switching|study|systems|achieve|simultaneous|respectively|networks|two|lyapunov|systems|pregiven|address|dynamical|within|single|topology|cannot|first|several|second|function|view|dynamic|stability|law|usual|collection|establish|topologies|condition|systematically|basic|point|collection|general|alone|nonincreasing|common|lowerdimensional|design|transformed|constructed|multiple|arbitrary|also|condition|synchronization|achieved|avoid
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Topology|Synchronization|Synchronization networks|Control theory|Network topology|Hybrid system|Mathematics|Dynamical system|Synchronization of chaos
+references:1661824700|1908390342|1966292493|1977509696|2053769764|2057996828|2098127225|2107396783|2107712403|2113584844|2128928412|2135234927|2137549436|2140015226|2165744313
+
+
+id:1974307160
+title:Synchronization of delayed dynamical networks with switching topologies
+year:2013
+author information:[
+author name:Tao Liu
+author organization:University of Groningen
+author id:2680157933|
+author name:Ming Cao
+author organization:University of Groningen
+author id:2170581107|
+]
+abstract:exponential|results|delaydependent|type|coupling|introduced|problem|terms|synchronizing|sufficient|results|guarantees|stability|reduce|new|given|studying|method|particular|solvability|analysis|whose|topologies|extend|condition|signals|proposed|delays|subnetwork|switched|timevarying|obtained|switching|average|study|inequalities|show|global|networks|matrix|network|example|numerical|common|paper|dynamics|systems|class|established|effectiveness|linear|dynamical|apply|nodes|synchronization|well|uses|conservativeness|dwelltime|modedependent|identified
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Synchronization|Coupling|Linear system|Computer science|Control theory|Matrix (mathematics)|Synchronizing|Network topology|Exponential stability|Subnetwork
+references:1964394579|2031780472|2053769764|2084184206|2142991845|2155551190|2160643434
+
+
+id:2056509920
+title:Incremental-dissipativity-based output synchronization of dynamical networks with switching topology
+year:2014
+author information:[
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+]
+abstract:interconnected|criteria|none|nonlinear|output|features|dynamics|problem|function|method|results|stability|investigated|using|topology|incrementaldissipativity|particular|analysis|whose|node|system|selection|asymptotic|converted|among|switched|coupled|incrementaldissipative|switching|systems|oscillators|applied|investigate|networks|dissipative|lyapunov|network|paper|related|algebraic|studies|class|characterized|set|dynamical|biochemical|quadratic|designing|special|single|form|synchronization|first|inputoutput
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Topology|Synchronization|Nonlinear system|Algebraic number|Computer science|Control theory|Synchronization networks|Quadratic form|Dissipative system|Synchronization of chaos
+references:94675972|1908390342|1964394579|2037985775|2045734116|2053769764|2098974515|2107396783|2110216011|2117079884|2142991845|2162172825
+
+
+id:2061114056
+title:Synchronization of dynamical networks with distributed event-based communication
+year:2012
+author information:[
+author name:Tao Liu
+author organization:University of Groningen
+author id:2680157933|
+author name:David J. Hill
+author organization:Sydney University
+author id:2101335686|
+author name:Bin Liu
+author organization:Australian National University
+author id:2633763939|
+]
+abstract:interconnected|network|neighbors|neighbors|function|view|manifold|links|state|communication|stability|order|using|depends|topology|sampling|distributed|received|whose|respect|explicit|node|timeinvariant|proposed|asymptotic|networks|send|shared|study|undirected|scheme|achieve|rule|point|lyapunov|network|across|links|systems|eventtriggered|physical|based|designed|sampled|linear|set|dynamical|constructed|decides|reinvestigated|triggering|nodes|synchronization|ones|properties
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Synchronization|Telecommunications network|Linear system|Control theory|Synchronization networks|Computer science|Event based communication|Manifold|Sampling scheme
+references:1648577666|1908390342|1964394579|1978518835|2009275472|2022887258|2098127225|2116601658|2117344958|2142991845|2167183308
+
+
+id:2073771170
+title:Global Bounded Synchronization of General Dynamical Networks With Nonidentical Nodes
+year:2012
+author information:[
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+author name:D. J. Hill
+author organization:University Of Sydney
+author id:2101335686|
+author name:Tao Liu
+author organization:Australian National University
+author id:2680157933|
+]
+abstract:addresses|criteria|several|nonlinear|given|identical|coupling|dynamics|problem|estimate|manifold|connection|state|nodes|boundedness|developed|case|based|introducing|outer|sense|inner|explicit|node|exist|proposed|domain|difference|nonidentical|timevarying|obtained|assumed|note|average|extension|criterion|configuration|convergence|global|networks|general|varying|dynamics|related|systems|class|dynamical|bound|deviation|neither|nodes|synchronization|maximum|time|equilibrium
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Synchronization|Nonlinear system|Coupling|Synchronization networks|Control theory|Coupling strength|Manifold|Mathematics|Bounded function
+references:1494844435|1934995203|1964394579|1966292493|1994237189|2031489836|2053769764|2061906257|2086264532|2098127225|2107396783|2128928412|2133494892|2136390187
+
+
+id:2084838210
+title:Stability of discrete-time delayed impulsive linear systems with application to multi-tracking
+year:2014
+author information:[
+author name:Bin Liu
+author organization:Hunan University
+author id:2633763939|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:Chun-xia Dou
+author organization:Yanshan University
+author id:2629501066|
+]
+abstract:exponential|data|criteria|network|delayed|used|type|transmitted|investigates|second|multitracking|via|allowable|impulsive|solution|model|ddis|communication|results|stability|case|investigated|estimates|exponent|using|minc|issue|impulses|unstable|destabilising|system|signals|ddis|spectrum|effect|solve|dropout|difference|impulses|networked|stabilise|systems|convergence|mixed|matrix|networks|two|paper|systems|rate|studies|based|derived|designed|established|types|inequalities|dynamical|estimated|control|also|maximal|formulated||discretetime|growth|first
+venue name:International Journal of Control
+venue id:88061139
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Telecommunications network|Linear system|Exponent|Matrix (mathematics)|Control theory|MINC|Exponential stability|Rate of convergence|Discrete time and continuous time|Mathematics
+references:1973885419|1983491872|1995355169|2004171444|2008151824|2021190957|2021679764|2041833126|2058765561|2087276939|2088680241|2098127225|2104168156|2107396783|2109711067|2118909312|2119032514|2119384322|2138405647|2138471159|2141333364|2142991845|2148606196|2149388802|2153367633|2153685189|2157201121
+
+
+id:2086987978
+title:Exponential synchronization of complex delayed dynamical networks with general topology
+year:2007
+author information:[
+author name:Tao Liu
+author organization:Northeastern University
+author id:2680157933|
+author name:G.M. Dimirovski
+author organization:Dogus University
+author id:2991133204|
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+]
+abstract:exponential|synchronized|delaydependent|considered|delayed|used|via|coupling|shown|complex|property|controllers|model|weighted|investigated|stability|given|topology|matrix|two|system|examples|delays|possesses|networks|rate|demonstrate|theory|appropriate|undirected|convergence|globally|global|networks|lyapunov|network|general|design|possessing|verify|designed|directed|exponentially|novel|linear|lorenz|dynamical|one|control|contribution|controlled|proposed|typical|synchronization|novel|represent
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:General topology|Linear system|Computer science|Control theory|Synchronization networks|Lyapunov stability|Network topology|Lorenz system|Complex network|Adaptive control
+references:1966909213|2098127225|2113584844|2117344958|2124637492|2140015226|2142587090|2148606196
+
+
+id:2142189574
+title:Synchronization of Dynamical Networks With Nonidentical Nodes: Criteria and Control
+year:2011
+author information:[
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+author name:D J Hill
+author organization:Australian Nat. University
+author id:2101335686|
+author name:Tao Liu
+author organization:Australian Nat. University
+author id:2680157933|
+]
+abstract:criteria|subject|network|put|via|identical|problem|solution|generalizations|optimization|synchronizing|function|controllers|connection|state|nodes|stability|case|given|using|method|topology|nonidentical|obtained|conditions|average|solving|studied|synchronizability|forward|isolated|global|networks|local|paper|common|viewed|free|matrices|trajectory|reorganization|cases|dynamical|problem|also|control|master|controlled|several|framework|nodes|synchronization|equilibrium|certain|presents
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Synchronization|Control theory|Synchronization networks|Generalization|Synchronizing|Master stability function|Network topology|Optimization problem|Trajectory|Mathematics
+references:1494844435|1908390342|1934995203|1964394579|1966292493|1970841109|2031489836|2061906257|2064556559|2081442130|2086264532|2098127225|2098974515|2106984790|2109184141|2111067521|2117344958|2117817591|2134679786|2136390187|2147824439|2147942135|2153224915|2166348529|2167209171
+
+
+id:2142991845
+title:Exponential Synchronization of Complex Delayed Dynamical Networks With Switching Topology
+year:2010
+author information:[
+author name:Tao Liu
+author organization:Australian Nat. University
+author id:2680157933|
+author name:Jun Zhao
+author organization:Australian Nat. University
+author id:2069701714|
+author name:D J Hill
+author organization:Australian Nat. University
+author id:2101335686|
+]
+abstract:results|delayed|entire|dynamics|problem|terms|complex|assumption|addition|using|topology|solvability|whose|examples|switched|timevarying|obtained|theory|switching|average|achieve|global|matrix|networks|local|extended|result|isolate|systems|nonsynchronizing|situation|linear|dynamical|scheme|ratio|exponential|delaydependent|network|dwell|subnetworks|coupling|investigated|sufficient|different|guarantees|stability|given|particular|three|condition|signals|delays|demonstrate|activation|studied|needed|network|total|paper|selfsynchronizing|extra|studies|selfsynchronizing|effectiveness|also|special|form|synchronization|latter|time
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Dwell time|Topology|Synchronization|Coupling|Matrix (mathematics)|Control theory|Synchronization networks|Network topology|Exponential synchronization|Mathematics|Stability theory
+references:1908390342|1964394579|1966909213|2053769764|2084184206|2095712111|2098127225|2107396783|2108876051|2122366941|2139656224|2146923260|2148606196|2155551190|2165744313
+
+
+id:2161725667
+title:Controlled synchronization of complex dynamical networks with nonlinear nodes and couplings
+year:2009
+author information:[
+author name:Tao Liu
+author organization:Northeastern University
+author id:2680157933|
+author name:Georgi M. Dimirovski
+author organization:SS Cyril  Methodius University
+author id:2308050139|
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+]
+abstract:diffusively|simulation|available|solved|illustrative|nonlinear|synthesize|assumptions|via|feedback|coupling|introduced|problem|solution|complex|controllers|state|results|investigated|stability|synchronize|given|decentralized|system|node|vectors|proposed|demonstrate|coupled|full|globally|guarantee|global|respective|networks|n|lyapunov|network|example|adaptive|computer|along|systems|nonlinearly|mechanism|class|designed|measurements|effectiveness|lorenz|dynamical|theory|synchronization|synchronization|controlled|consisting|nodes|synchronization|coefficients|family
+venue name:International Conference on Control Applications
+venue id:2623196460
+venue type:C
+document type:Conference
+study fields:Synchronization|Nonlinear system|Computer science|Synchronization networks|Adaptive system|Control theory|Lyapunov stability|Control engineering|Complex network|Adaptive control|Cellular neural network
+references:256555624|1966909213|2086987978|2098127225|2112084642|2113127719|2113584844|2124637492|2134679786|2140015226|2148606196
+
+
+id:2162172825
+title:Passivity-based output synchronization of dynamical networks with non-identical nodes
+year:2010
+author information:[
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2069701714|
+author name:David J. Hill
+author organization:The Australian National University
+author id:2101335686|
+author name:Tao Liu
+author organization:Australian National University
+author id:2680157933|
+]
+abstract:several|developed|nonlinear|coupling|nonidentical|problem|property|shown|solution|presented|property|checked|feasible|passivity|programming|give|using|verifying|law|need|outer|topologies|among|conditions|switching|criterion|studied|achieve|outputdependent|networks|symmetric|general|negative|maximum|output|zerorowsum|dynamical|studied|synchronization|single|nodes|neither|synchronization|cannot|designed|synchronizability|certain
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Passivity|Synchronization|Coupling|Synchronization networks|Computer science|Control theory|Nonlinear programming|Network topology|Coupling topology|Nonlinear dynamical systems
+references:1908390342|1964394579|1966292493|2042943502|2086264532|2098974515|2110216011|2128928412|2136390187|2140012807|2141541004|2147824439|2155551190
+
+
+id:2169759805
+title:Distributed event-triggered control for output synchronization of dynamical networks with non-identical nodes
+year:2014
+author information:[
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:Ming Cao
+author organization:University of Groningen
+author id:2170581107|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+]
+abstract:output|identical|introduced|problem|nonidentical|estimate|order|estimators|given|depends|exosystems|distributed|node|condition|proposed|asymptotic|driven|exosystems|control|eventbased|achieve|estimators|show|communicates|eventtriggering|rule|occurrence|network|states|example|prevent|numerical|paper|studies|effectiveness|dynamical|zeno|neighbours|obtains|nodes|synchronization|well|fulfilled|information
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Zenos paradoxes|Synchronization|Control theory|Computer science|Event triggered|Estimator
+references:1971891272|1978518835|1989206117|2002558881|2009275472|2046249991|2061114056|2073771170|2121233943|2160932744|2166132612
+
+
+id:2171859308
+title:Synchronization of Dynamical Networks by Network Control
+year:2012
+author information:[
+author name:Tao Liu
+author organization:Australian National University
+author id:2680157933|
+author name:D. J. Hill
+author organization:University Of Sydney
+author id:2101335686|
+author name:Jun Zhao
+author organization:Northeastern University
+author id:2964989010|
+]
+abstract:results|considered|network|used|construct|nonlinear|feedback|reflect|locally|problem|solution|optimization|synchronizing|function|method|feasible|different|signal|combination|given|give|demonstrates|introducing|distributed|constrain|provide|proposed|mixedinteger|switching|study|configuration|technique|lyapunov|network|example|numerical|candidate|found|design|convex|transformed|designed|effectiveness|controller|original|practical|cost|dynamical|problem|also|constrained|structure|way|controlled|single|refer|synchronization|cannot|coefficients
+venue name:Chinese Control Conference
+venue id:2623792093
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Mathematical optimization|Synchronization|Control theory|Control theory|Computer science|Convex combination|Synchronizing|Control engineering|Convex function|Integer programming|Convex optimization
+references:1494844435|1964394579|1973885419|2053769764|2084006722|2098127225|2107396783|2113127719|2113584844|2117344958|2127526050|2128928412|2762325233
+
+
+id:2288881459
+title:Effects of rotational Inertia on power system damping and frequency transients
+year:2015
+author information:[
+author name:Theodor S. Borsche
+author organization:Power Systems Laboratory , ETH Zurich , Switzerland
+author id:2007278831|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+]
+abstract:renewable|use|answers|used|program|frequency|improved|overshoot|shows|optimization|raising|devices|reduced|inertia|damping|rotational|sources|propose|system|technologies|system|provide|drives|transient|effect|inertia|become|providing|virtual|increased|part|changes|best|derive|example|analytically|inertia|energy|due|integral|electronic|actively|power|place|connect|limits|dependent|damping|question|electric|also|sensitivities|generally|respected|time|levels|ratio
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Moment of inertia|Virtual inertia|Renewable energy|Computer science|Control theory|Overshoot (signal)|Electric power system|Damping ratio|Transient analysis|Inertia
+references:2016635297|2028239562
+
+
+id:2324182457
+title:Non-Disruptive Load-Side Control for Frequency Regulation in Power Systems
+year:2016
+author information:[
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Congchong Zhang
+author organization:University of Hong Kong
+author id:2424285286|
+]
+abstract:quickly|occurs|peertopeer|shifts|restoration|generation|using|work|distributed|slowly|system|generators|switched|conditions|switching|average|control|achieve|grid|restores|targets|nominal|systems|power|together|controller|makes|loads|consensus|conditions|mismatch|controllable|first|bus|consensusbased|network|used|frequency|second|mode|reacts|transmission|communication|signal|ideal|instants|goes|real|duties|twofold|according|back|detect|restoration|loadside|deviation|paper|load|gradually|studies|working|designed|agc|restore|automatic|control|regulation|designed|time
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Control theory|Control theory|Power control|Frequency deviation|Electric power system|Automatic control|Control engineering|Automatic frequency control|Dynamic demand|Engineering|Automatic Generation Control
+references:1494844435|1978518835|1984572828|1989230227|2009022268|2012192910|2019586955|2027270344|2028239562|2160643434|2169759805|2171859308|2288881459|2623904884|2963514102|2964286357
+
+
+id:2514760572
+title:Distributed load-side frequency regulation for power systems
+year:2016
+author information:[
+author name:Congchong Zhang
+author organization:University of Hong Kong
+author id:2424285286|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+]
+abstract:generationside|bus|imbalance|consensusbased|simulation|paper|network|periodically|nonlinear|renewables|frequency|transmission|shown|significantly|generation|reduce|method|models|impact|distributed|accordingly|traditional|system|proposed|generators|spinning|systematically|discovered|achieve|needed|loadside|total|paper|systems|reserve|studies|power|designed|coordinating|controller|effectively|discussed|loads|automatic|control|also|consensus|compensated|regulation|controllable|networkpreserving
+venue name:Power Systems Computation Conference
+venue id:2755912504
+venue type:C
+document type:Conference
+study fields:Consensus|Control theory|Control theory|Networked control system|Power control|Electric power system|Automatic frequency control|Automatic control|Control engineering|Engineering|Automatic Generation Control
+references:1659113695|1990833963|2009022268|2012192910|2019586955|2027270344|2160643434|2171859308|2324182457|2964286357
+
+
+id:2515644774
+title:Transient stability analysis of microgrids with a line-based model
+year:2016
+author information:[
+author name:Yue Song
+author organization:University of Hong Kong
+author id:2246699223|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:renewables|investigates|radial|dynamics|optimization|estimate|model|evaluated|energy|using|method|topology|impact|perspective|explicit|system|transient|level|differences|lines|local|lyapunov|across|variations|perspective|angle|power|based|computationally|set|efficient|loads|easytosolve|describe|topological|small|bus|developed|points|transmission|microgrids|function|linebased|expressed|results|stability|test|finite|traversing|system|measure|proposed|points|helps|region|problems|critical|rather|characterized|weakness|numerical|paper|validated|studies|value|identify|also|form|build|equilibrium
+venue name:Power Systems Computation Conference
+venue id:2755912504
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Finite set|Control theory|Equilibrium point|Electric power transmission|Transient stability analysis|Engineering|Optimization problem|Microgrid|Traverse
+references:314643560|1509227760|1925533932|1990833963|2015084265|2136236807|2290543666
+
+
+id:2562934170
+title:Fully distributed voltage control in subtransmission networks via virtual power plants
+year:2016
+author information:[
+author name:Zhiyuan Tang
+author organization:University of Hong Kong
+author id:2625621640|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:semidefinite|tested|approach|required|calculate|whereas|fully|based|violations|distributed|propose|system|provide|sensitivity|obtained|wind|monitors|average|deal|scheme|consensus|farms|matrix|two|communications|plants|power|necessary|fastest|change|purposes|sensitivities|single|consensus|vpps|first|bus|network|used|second|high|optimize|controllers|modified|different|communication|calculated|programming|ieee|weight|subtransmission|reactive|proposed|violation|final|power|virtual|convergence|needed|speed|network|load|vpp|effectiveness|support|aims|penetration|control|voltage|voltage|possible|step|activated
+venue name:International Conference on Smart Grid Communications
+venue id:2622668024
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Capacitor|Decentralised system|Smart grid|Power control|Voltage|AC power|Electronic engineering|Real-time computing|Engineering|Wind power
+references:1984563492|2012192910|2033261213|2074796812|2284546883
+
+
+id:2596530326
+title:A Distributed Framework for Stability Evaluation and Enhancement of Inverter-Based Microgrids
+year:2017
+author information:[
+author name:Yue Song
+author organization:University of Hong Kong
+author id:2246699223|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:Yu Zheng
+author organization:University of Hong Kong
+author id:2642671437|
+]
+abstract:via|evaluation|radial|case|algorithm|buses|efficiency|topology|smalldisturbance|distributed|propose|physically|system|among|generators|evaluate|actions|algorithms|study|preset|matrix|neighboring|result|microgrid|microgrid|power|enables|established|linear|necessary|framework|meet|operation|economic|bus|dg|dispatch|data|meshed|enhancement|minority|predefined|lossy|protocol|high|either|microgrids|dynamic|communication|scenarios|results|stability|selected|programming|finite|reconstruct|develop|preserve|sharing|steps|successive|proposed|sparse|improve|inverterbased|jacobian|locally|carry|validated|design|collects|enhance|pilot|apply|control|schemes|various
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Economic dispatch|Inverter|Lossy compression|Jacobian matrix and determinant|Control engineering|Electronic engineering|Power sharing|Engineering|Successive linear programming|Numerical stability|Microgrid
+references:1502540576|1598618250|1665876831|1925533932|1998109019|2001965107|2012863024|2022948311|2028769394|2042225379|2056524942|2115178870|2119866123|2146924502|2284546883|2287047720|2335458788|2476140618|2555036027
+
+
+id:2617962522
+title:Distributed Secondary Frequency Control Algorithm Considering Storage Efficiency
+year:2018
+author information:[
+author name:Olivier Megel
+author organization:Power Systems Laboratory , ETH Zurich , Switzerland
+author id:2051678249|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Goran Andersson
+author organization:Power Systems Laboratory, ETH Zurich
+author id:1922667974|
+]
+abstract:vary|tracking|number|loss|dispatches|contribution|nonunity|depending|realtime|energy|shorter|method|frames|large|faster|distributed||population|following|orders|larger|algorithms|capability|low|managed|term|compared|receive|particularly|robust
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Economic dispatch|Orders of magnitude (numbers)|Population|Energy level|Computer science|Automatic frequency control|Electronic engineering|Control engineering|Distributed algorithm|Storage efficiency|Automatic Generation Control
+references:1570681597|1964502626|2042290665|2116032830|2150823352|2160643434|2273484141|2287838237|2508693252|2520314131|2537399310|2963716950|2964286357
+
+
+id:2750837234
+title:Exponential input-to-state stability under events for hybrid dynamical networks with coupling time-delays
+year:2017
+author information:[
+author name:Bin Liu
+author organization:The University of Hong Kong
+author id:2742870480|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:exponential|mmatrix|theoretical|results|criteria|dwell|used|smallgain|required|coupling|whether|established|lemmas|easily|results|stability|events|case|flow|given|checkable|method|illustrate|hybrid|notions|conditions|examples|hdns|events|functional|achieve|according|estimated|networks|two|derive|gain|timedelays|uniform|minimal|paper|studies|firstly|case|inputtostate|established|dynamical|may|abstract|studied|iss|also|maximal|consecutive|proposed|time|halanaytype
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Dwell time|Coupling|Exponential function|Exponent|Control theory|Flow (psychology)|Mathematics
+references:1973885419|1982267787|1994003949|2010340595|2011428018|2015910331|2021190957|2034652168|2036826525|2038116673|2038137192|2044238125|2046596911|2058765561|2061282712|2088680241|2090786245|2098989671|2114735269|2121215794|2164025108|2571307628|2602502146|2963950441
+
+
+id:2762325233
+title:Synchronization of dynamical networks by network control
+year:2009
+author information:[
+author name:Tao Liu
+author organization:Australian National University
+author id:2680157933|
+author name:David J. Hill
+author organization:The Australian National University
+author id:2101335686|
+author name:Jun Zhao
+author organization:Australian Nat. University
+author id:2964989010|
+]
+abstract:results|considered|construct|nonlinear|feedback|reflect|locally|problem|optimization|synchronizing|based|give|distributed|provide|switching|study|networks|lyapunov|example|found|controller|dynamical|problem|constrained|controlled|single|network|used|solution|function|method|feasible|different|signal|stability|combination|given|introducing|constrain|proposed|mixedinteger|demonstrate|configuration|technique|network|numerical|candidate|design|convex|transformed|controller|designed|effectiveness|original|practical|cost|also|structure|way|master|refer|synchronization|coefficients
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Control theory|Mathematical optimization|Synchronization|Control theory|Convex combination|Computer science|Master stability function|Synchronizing|Convex optimization|Numerical stability
+references:1494844435|1964394579|1973885419|2009363741|2053769764|2084006722|2107396783|2113127719|2113584844|2128928412|2148606196
+
+
+id:2782751078
+title:Local stability of DC microgrids: A perspective of graph laplacians with self-loops
+year:2017
+author information:[
+author name:Yue Song
+author organization:University of Hong Kong
+author id:2246699223|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:selfloops|new|transferred|criteria|used|loss|introduced|problem|shows|loads|microgrids|terms|graph|passivity|net|stability|definiteness|new|thus|selfloops|impact|preserves|check|graph|contains|measure|physically|infer|buses|instability|interpreted|concept|crucial|grounded|matrix|conductance|local|network|differential|effective|negative|paper|conductances|provides|microgrid|studies|perspective|factor|mechanism|established|original|networkbased|caused|loads|positive|laplacian|microgrids|triggering|loopy|information|insights|dc
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Passivity|Laplacian matrix|Graph|Computer science|Control theory|Instability|Positive definiteness|Conductance|Microgrid|Network structure
+references:1908390342|1925533932|2016777822|2053244425|2115690016|2186178845|2287065438|2318719637|2343323892|2506359039|2570345021|2609819072|2962910558
+
+
+id:2799638352
+title:A Novel Consensus-Based Economic Dispatch for Microgrids
+year:2018
+author information:[
+author name:Zhiyuan Tang
+author organization:University of Hong Kong
+author id:2625621640|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:agent|optimal|consensusbased|quickly|approach|neighboring|problem|solutions|communication|energy|cost|limited|islanded|incremental|microgrids|consensus|proposed|converge|management|solve|variable|novel|taking
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Economic dispatch|Energy management|Telecommunications network|Control engineering|Marginal cost|Network topology|Distributed algorithm|Engineering|Distributed computing
+references:1571416372|2001965107|2042225379|2114791779
+
+
+id:2919580381
+title:Distributed MPC-Based Frequency Control in Networked Microgrids With Voltage Constraints
+year:2019
+author information:[
+author name:Kun Liu
+author organization:University of Hong Kong
+author id:2919726434|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:Zhiyuan Tang
+author organization:University of Hong Kong
+author id:2625621640|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+]
+abstract:modes|regulated|regulate|considered|bring|scalability|mpc|scenarios|renewables|constraints|issues|number|mgs|model|using|successfully|method|work|distributed|version|system|fluctuation|mitigates|scheme|achieve|comparably|neighboring|multipliers|operating|controller|caused|predictive|coordinates|possible|designing|consensus|extensive|nms|increasing|voltagesensitive|performs|frequency|centralized|growing|microgrids|adjusting|mg|controlbased|different|communication|scenarios|results|proposes|discussed|maintaining|regarding|topologies|voltages|proposed|buses|modes|general|networked|challenges|show|privacy|paper|load|controller|direction|applying|penetration|limited|multiple|control|deviation|also|voltage|better|alternating|simulation|well
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Control theory|Decentralised system|Voltage|Frequency deviation|Automatic frequency control|Electronic engineering|Network topology|Engineering|Distributed model predictive control|Scalability
+references:1502540576|1537500458|1980538774|2001965107|2031464736|2037603831|2041178557|2057975886|2095411820|2123705108|2164278908|2517231046|2526981415|2535219938|2802195037
+
+
+id:2963514102
+title:Distributed event-triggered control for asymptotic synchronization of dynamical networks
+year:2017
+author information:[
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+author name:Ming Cao
+author organization:University of Groningen
+author id:2170581107|
+author name:Claudio DePersis
+author organization:University of Groningen
+author id:2963450486|
+author name:Julien M. Hendrickx
+author organization:ICTEAM Institute, Universit Catholique de Louvain, Louvain-La-Neuve, Belgium
+author id:2130803703|
+]
+abstract:etr|neighbours|achieves|dwell|introduced|communication|estimate|implemented|state|asymptotically|thus|depends|way|distributed|decentralized|node|average|eventbased|estimators|eventtriggering|rule|networks|two|network|paper|studies|behaviours|designed|dynamical|zeno|one|synchronization|information|time
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Zenos paradoxes|Dwell time|Synchronization|Control theory|Event triggered|Mathematics|Estimator
+references:1527116633|1977813047|1978518835|1985235885|2038494200|2063786718|2088362368|2092697398|2100409338|2113281549|2121405726|2125472350|2150171340|2160643434|2166132612|2310320799|2548356148
+
+
+id:2965177952
+title:On Extension of Effective Resistance With Application to Graph Laplacian Definiteness and Power Network Stability
+year:2019
+author information:[
+author name:Yue Song
+author organization:University of Hong Kong
+author id:2246699223|
+author name:David J. Hill
+author organization:University of Hong Kong
+author id:2101335686|
+author name:Tao Liu
+author organization:University of Hong Kong
+author id:2680157933|
+]
+abstract:optimal|upper|type|constraints|relation|number|disjoint|model|definitions|eigenvalue|defined|flow|definiteness|smalldisturbance|relaxation|signed|electrical|active|resistance|node|traditional|system|provide|transient|conditions|enhances|monotonicity|global|matrix|two|convexity|extended|proved|intuitively|angle|power|stability|equilibria|sets|one|positive|laplacian|characterize|certain|novel|antagonism|opf|admits|achieves|pairs|zero|coupling|edges|positive|preserved|graph|optimality|nodes|weighted|new|semidefinite|insights|bounded|graph|extends|proposed|instability|overall|definitions|eigenvalues|conductance|representation|network|effective|negative|paper|conductances|convex|apply|generalizes|specific|pair|nodes|interpret|significantly|properties
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Monotonic function|Topology|Laplacian matrix|Convexity|Disjoint sets|Signed graph|Control theory|Mathematics|Eigenvalues and eigenvectors|Laplace operator|Bounded function
+references:1808087424|1818569528|1967509640|1970647593|1987717935|2053244425|2058492355|2093909370|2170736358|2287065438|2327238720|2342705924|2506359039|2536327210|2570009360|2570345021|2609819072|2783132414|2783826290|2796365873|2889090240|2903179546|2953023533|2962910558
+
+
+id:1515974521
+title:Radio Resource Allocation in Two-hop Cellular Relaying Network
+year:2006
+author information:[
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Ping Li
+author organization:Shanghai Jiaotong University
+author id:2625913067|
+author name:Dan Yu
+author organization:
+author id:2150184798|
+author name:Yisheng Xue
+author organization:
+author id:1979292969|
+author name:E. Schulz
+author organization:
+author id:2253955044|
+]
+abstract:reuse|simulation|improves|network|radio|edges|near|nodes|results|theoretical|traffic|new|comparison|resource|preconfigured|introducing|schemes|analysis|hu|propose|dynamically|users|et|important|enhanced|system|proposed|among|cellular|fixed|obtained|since|benefits|scheme|show|nonuniform|cell|distribution|smart|network|qos|provides|twohop|allocated|allocation|h|relay|resources|radio|also|way|better|conventional|partitioning|located
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Cellular radio|Reuse|Computer science|Quality of service|Computer network|System capacity|Radio resource|Cellular network|Hop (networking)|Relay
+references:2133149827|2139330746|2158850316|2170012271
+
+
+id:1976933356
+title:Utility-based joint routing and spectrum partitioning in relay LTE-advanced networks
+year:2011
+author information:[
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+]
+abstract:tries|imposed|joint|alleviate|maximize|intensive|algorithm|based|efficiency|comparison|resource|strategies|intercell|proposes|celledge|develop|schemes|employing|users|enhanced|system|spectrum|improve|among|cellular|fixed|interference|demonstrate|rn|superiority|scheme|utility|guarantee|network|aggregate|routing|computer|paper|twohop|utilitybased|fairness|allocation|effectively|assignment|relay|reuse|lteadvanced|heuristic|scheme|soft|simulations|better|nodes|framework|proposed|performance|partitioning|frequency|constraint
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Computer science|Static routing|Computer network|Destination-Sequenced Distance Vector routing|Real-time computing|Resource allocation|Cellular network|Spectral efficiency|Heuristic routing|Relay|LTE Advanced
+references:2099119507|2100572597|2116797700|2129868130|2133149827|2134626956|2139330746|2144304569|2160310234|2170012271
+
+
+id:1990968577
+title:Reducing the number of sensors under hot spot temperature error bound for microprocessors based on dual clustering
+year:2013
+author information:[
+author name:Xin Li
+author organization:Shanghai University
+author id:2718933047|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Ruolin Wang
+author organization:Shanghai Jiao Tong University
+author id:2145062772|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Liang Zhou
+author organization:Shanghai Jiaotong University
+author id:2298286769|
+]
+abstract:extent|placed|accurate|optimal|accuracy|tracking|number|temperatures|thermal|estimate|utilise|dependent|algorithm|reduce|based|method|expected|accurately|propose|devise|onchip|flexible|spot|spots|characterising|placement|fewest|authors|superiority|methods|hot|maximised|dual|temperature|indicate|rigid|measurements|performance|chip|guaranteeing|combines|great|computation|confirm|clustering|characterisation|employed|resolution|dynamic|directly|mechanisms|results|experimental|proposed|microprocessors|techniques|characterisation|improve|sensor|dtm|full|technique|capable|precisely|physical|effectiveness|allocation|identify|appropriately|satisfying|also|way|manage|sensors|error|management|determining|locations|clustering|location
+venue name:Iet Circuits Devices  Systems
+venue id:166473334
+venue type:J
+document type:Journal
+study fields:Hot spot (veterinary medicine)|Thermal|Microprocessor|Thermal management of electronic devices and systems|Electronic engineering|Chip|Real-time computing|Thermal sensors|Cluster analysis|Mathematics|Computation
+references:2018914898|2032094184|2067183916|2096439694|2102727118|2110939389|2122627712|2129960401|2141923369|2142386281|2143102370|2159269870|2166130351
+
+
+id:1997624661
+title:Transistor technologies and pixel circuit design for efficient active-matrix organic light-emitting diode displays
+year:2012
+author information:[
+author name:Xiaojun Guo
+author organization:Shanghai Jiao Tong University
+author id:2125100082|
+author name:Guangyu Yao
+author organization:Shanghai Jiao Tong University
+author id:1990873234|
+author name:Xiaoli Xu
+author organization:Shanghai Jiao Tong University
+author id:2704182448|
+author name:Wenjiang Liu
+author organization:Shanghai Jiao Tong University
+author id:2137124805|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921930379|
+]
+abstract:architectures|expanding|displays|soon|universities|visual|enter|amoled|excellent|expected|active|tvs|enthusiasm|provide|light|contrast|diode|decades|device|crystal|industry|accelerating|matrix|products|feature|era|popularity|flatpanel|share|amoleds|emerging|compared|innovation|smallsized|set|highquality|largerarea|highresolution|efficient|advent|display|following|launch|pcs|many|multimedia|liquid|advancing|attributes|compete|becoming|used|arena|research|continuous|commercialization|notebook|development|attractive|thinner|difficult|technologies|market|dominated|materials|laboratories|fpd|seems|fullcolor|since|production|lcds|mass|video|vivid|simpler|central|related|consumer|organic|digital|emitting|diodes|mobile|also|despite|rapidly|structure|ultrafast|stable|applications
+venue name:International Conference on Computer Aided Design
+venue id:1128132410
+venue type:C
+document type:Conference
+study fields:Thin-film transistor|Computer science|OLED|Electronic engineering|AMOLED|Liquid-crystal display|Commercialization|Transistor|Active matrix|Electrical engineering|Mobile telephony
+references:2017279664|2154486703|2951019868
+
+
+id:2023667494
+title:Analysis and architecture design of aggregation in BM3D
+year:2011
+author information:[
+author name:Wenjiang Liu
+author organization:Shanghai Jiao Tong University
+author id:2920820074|
+author name:Yue Zhu
+author organization:Shanghai Jiao Tong University
+author id:2707531277|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Hao Zhang
+author organization:ShangHai JiaoTong University
+author id:2641810803|
+]
+abstract:use|several|good|three|second|introduced|solution|aggregation|spatial|temporal|algorithm|realize|image|method|nothing|includes|encoding|propose|correlation|video|algorithms|best|aggregation|papers|denoising|general|asic|far|takes|architecture|aggregation|implementation|discussed|effectively|many|performance|third|first
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Noise reduction|Algorithm design|Computer science|Filter (signal processing)|Electronic engineering|Application-specific integrated circuit|Theoretical computer science|Bandwidth (signal processing)|Matched filter|Video denoising|Encoding (memory)
+references:2047710600|2056370875|2151984896
+
+
+id:2026669590
+title:Inverse Distance Weighting Method Based on a Dynamic Voronoi Diagram for Thermal Reconstruction with Limited Sensor Data on Multiprocessors
+year:2011
+author information:[
+author name:Xin Li
+author organization:Shanghai University
+author id:2716185164|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Liang Zhou
+author organization:Shanghai Jiaotong University
+author id:2298286769|
+]
+abstract:three|voronoi|temperatures|experiment|nonuniformly|thermal|per|circuits|based|using|reconstructing|issue|method|analysis|demand|propose|samples|ever|utilize|densities|evaluate|become|status|algorithms|average|systems|classical|onchip|nonuniform|computer|temperature|power|limits|measurements|exponentially|scaling|chip|set|placements|data|diagram|absolute|increasing|characterization|essential|firstly|spectral|use|spaced|employed|uniformly|dynamic|results|runtime|obtain|experimental|runtime|reconstruct|develop|weighting|important|signals|proposed|techniques|sensor|full|virtual|distance|show|core|error|integrated|transform|mode|effectiveness|inverse|apply|monitor|technology|manage|outperforms|interpolation|performance|sensors|due|management|processor|appropriately|reconstruction|significantly
+venue name:IEICE Transactions on Electronics
+venue id:2489501747
+venue type:J
+document type:Journal
+study fields:Thermal|Computer science|Inverse distance weighting|Interpolation|Electronic engineering|Chip|Voronoi diagram|Thermal sensors|Integrated circuit|Approximation error
+references:1967005434|2036853599|2067183916|2096439694|2102727118|2110939389|2139019659|2142386281|2159617380
+
+
+id:2026885068
+title:Reduced Complexity Algorithm for QC-LDPC Coded Blind Frame Synchronization
+year:2011
+author information:[
+author name:Yinghao Qi
+author organization:ShangHai JiaoTong University
+author id:2709156992|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+]
+abstract:codeconstraints|achieves|used|high|modified|signal|algorithm|soft|hardware|based|reduced|check|propose|system|coded|proposed|analysis|present|frame|complexity|blind|parity|low|indicates|noise|hard|implementation|density|quasicyclic|better|performance|synchronizers|synchronization|ratio
+venue name:IEICE Transactions on Communications
+venue id:2493627025
+venue type:J
+document type:Journal
+study fields:Parity bit|Synchronization|Algorithm complexity|Low-density parity-check code|Computer science|Frame synchronization|Signal-to-noise ratio|Algorithm|Error detection and correction
+references:1595511315|1973712217|2079713623|2102109623|2118043892|2120409965|2125227019
+
+
+id:2099038908
+title:Tag Count Frame Slotted Aloha: A Novel Anti-Collision Protocol in RFID Systems
+year:2008
+author information:[
+author name:Xiaodong Deng
+author organization:Shanghai Jiao Tong University
+author id:2504852250|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Yong Yuan
+author organization:
+author id:2706393917|
+author name:Dan Yu
+author organization:
+author id:2150184798|
+]
+abstract:performs|reader|use|anticollision|tracking|evaluation|protocol|protocols|identification|identified|shows|time|majority|tag|shorter|reduce|based|repeatedly|read|large|last|involves|count|often|identification|tags|delay|aloha|obtained|present|object|frame|aloha|mobility|frame|range|monitoring|paper|systems|low|causes|situation|slotted|processes|process|collisions|identify|multiple|rfid|improvement|single|existing|performance|slotted|preceding|tcfsa|information|operation|stay|presents
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Aloha|Computer science|Computer network|Binary tree|Collision|Real-time computing
+references:1495958990|2107154877|2120328515|2125504058|2133365802|2144503234
+
+
+id:2100572597
+title:Reuse partitioning in fixed two-hop cellular relaying network
+year:2006
+author information:[
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Hongkui Shi
+author organization:Shanghai Jiaotong University
+author id:2126571308|
+author name:Dan Yu
+author organization:
+author id:2150184798|
+author name:Yisheng Xue
+author organization:
+author id:1979292969|
+author name:E. Schulz
+author organization:
+author id:2253955044|
+]
+abstract:reuse|assignments|improves|available|issues|placing|employs|nodes|new|comparison|proposes|positions|theoretic|analysis|simulations|users|quality|addressed|system|proposed|cellular|simultaneously|fixed|scheme|show|cell|network|computer|paper|provides|studies|key|architecture|relay|edges|also|better|several|nodes|conventional|service|partitioning|located
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Radio resource management|Architecture|Reuse|Computer science|Quality of service|Computer network|Cellular traffic|Real-time computing|Cellular network|Hop (networking)|Relay
+references:2133149827|2139330746|2158850316
+
+
+id:2115200215
+title:User Partitioning Based Resource Assignment in Half-Duplex FDD Relaying Cellular Networks
+year:2007
+author information:[
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Yisheng Xue
+author organization:
+author id:1979292969|
+author name:Lan Wang
+author organization:
+author id:2304125463|
+author name:E. Schulz
+author organization:
+author id:2253955044|
+]
+abstract:synchronized|addresses|reuse|frn|remarkably|available|downlinks|timefrequency|without|radio|halfduplex|mode|capacity|well|intensive|based|resource|intercell|develop|enhanced|intracell|cellular|channeldependent|fixed|assumed|aid|scheme|superiority|fdd|aspects|cell|relaying|network|channelaware|computer|paper|known|reported|working|demonstrated|twohop|according|outperform|effectively|assignment|relay|resources|scheme|increase|way|manage|simulations|nodes|framework|proposed|performance|conventional|management|partitioning|user
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Radio resource management|Reuse|Computer science|Adjacent-channel interference|Frequency-division multiplexing|Computer network|Electronic engineering|Cellular network|Interference (wave propagation)|Relay|Duplex (telecommunications)
+references:2100572597|2133149827|2139330746|2170012271
+
+
+id:2115581788
+title:Reuse Partitioning Based Frequency Planning for Relay Enhanced Cellular System with NLOS BS-Relay Links
+year:2006
+author information:[
+author name:Ping Li
+author organization:Shanghai Jiaotong University
+author id:2625913067|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Yisheng Xue
+author organization:
+author id:1979292969|
+author name:Dan Yu
+author organization:
+author id:2150184798|
+author name:Egon Schulz
+author organization:
+author id:2253955044|
+]
+abstract:reuse|frn|without|investigates|via|assumption|near|case|fully|based|issue|schemes|propose|terminals|quality|planning|system|provide|bsfrns|cellular|following|scheme|relaying|cell|two|seem|bs|indispensable|demonstrated|nonlineofsight|located|exploit|principle|remarkably|frequency|frns|boundaries|links|unlike|enhanced|proposed|techniques|improve|focused|fixed|assume|show|deployed|communicates|papers|links|paper|studies|twohop|enhancing|potentials|channelborrowing|relay|mobile|also|better|nodes|performance|conventional|service
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Non-line-of-sight propagation|Cellular radio|Computer science|Reuse|Computer network|Quality of service|Exploit|Electronic engineering|Relay
+references:2098345586|2098761584|2100958239|2133149827|2139330746|2158850316
+
+
+id:2145061103
+title:Reuse Partitioning Based Frequency Planning for Cellular Network with two-HOP Fixed Relay Nodes
+year:2006
+author information:[
+author name:Ping Li
+author organization:Shanghai Jiaotong University
+author id:2625913067|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Yisheng Xue
+author organization:Corporate Technology, Siemens Ltd. China, Beijing, China
+author id:1979292969|
+author name:Dan Yu
+author organization:Siemens Corporate Technology
+author id:2150184798|
+author name:E. Schulz
+author organization:Siemens AG, Communication Mobile Networks, Future Radio Concepts
+author id:2253955044|
+]
+abstract:spectral|principle|reuse|frn|remarkably|whole|developed|put|without|frequency|offer|uplink|presented|emphasis|signal|intensive|offers|new|based|comparison|proposes|schemes|analysis|terminals|coverageoriented|enhanced|planning|system|simplified|proposed|among|cellular|fixed|interference|higher|largest|scheme|taking|show|relaying|two|targeting|computer|paper|known|systems|provides|studies|twohop|experienced|worstcase|coverage|channelborrowing|within|relay|following|mobile|simulations|efficiency|nodes|efficiencyoriented|conventional|ratio
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Signal-to-interference ratio|Computer science|Reuse|Computer network|Spectral efficiency|Cellular network|Hop (networking)|Frequency allocation|Relay|Telecommunications link
+references:2098761584|2133149827|2139330746|2158850316
+
+
+id:2164362174
+title:Joint Routing and Resource Partitioning in Relay Enhanced Cellular Network
+year:2007
+author information:[
+author name:Tao Liu
+author organization:Shanghai Jiaotong University
+author id:2921315454|
+author name:Mengtian Rong
+author organization:Shanghai Jiaotong University
+author id:2805867894|
+author name:Yisheng Xue
+author organization:Shanghai Jiao Tong University
+author id:2937408447|
+author name:E. Schulz
+author organization:Shanghai Jiao Tong University
+author id:2973991724|
+]
+abstract:spectral|reuse|imposed|joint|frn|simulation|intensive|several|radio|frequency|maximize|investigated|nodes|results|new|based|efficiency|resource|intercell|proposes|enhanced|proposed|improve|cellular|channeldependent|fixed|interference|demonstrate|framework|facilitate|scheme|superiority|issues|cell|network|capacity|routing|computer|paper|known|positioning|firstly|aggressive|power|twohop|enables|allocation|aims|efficient|relay|control|schemes|also|framework|performance|reuse|radiation|partitioning|constraint|adopted
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Base station|Reuse|Computer science|Static routing|Computer network|Real-time computing|Resource allocation|Cellular network|Spectral efficiency|Frequency allocation|Relay
+references:1482694946|2052912429|2100572597|2133149827|2139330746
+

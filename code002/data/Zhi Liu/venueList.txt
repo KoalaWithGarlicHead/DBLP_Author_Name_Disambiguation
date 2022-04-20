@@ -1,0 +1,99 @@
+0 IEEE Transactions on Systems, Man, and Cybernetics
+1 Systems, Man and Cybernetics
+2 IEEE Transactions on Fuzzy Systems
+3 Applied Soft Computing
+4 Soft Computing
+5 Knowledge Based Systems
+6 IEEE Transactions on Neural Networks
+7 Applied Intelligence
+8 Engineering Applications of Artificial Intelligence
+9 International Journal of Systems Science
+10 Information Sciences
+11 International Conference on Systems
+12 International Journal of Machine Learning and Cybernetics
+13 Fuzzy Sets and Systems
+14 IEEE International Conference on Fuzzy Systems
+15 Neurocomputing
+16 IEEE Transactions on Industrial Electronics
+17 IEEE Transactions on Control Systems and Technology
+18 Systems  Control Letters
+19 IEEE Transactions on Automatic Control
+20 International Journal of Control
+21 Automatica
+22 IEEE International Conference on Advanced Computational Intelligence
+23 Journal of The Franklin Institute-engineering and Applied Mathematics
+24 Asia-Pacific Network Operations and Management Symposium
+25 International Conference on Communications
+26 Visual Communications and Image Processing
+27 Global Communications Conference
+28 Vehicular Technology Conference
+29 IEEE Transactions on Circuits and Systems for Video Technology
+30 IEEE Journal of Selected Topics in Signal Processing
+31 Journal of Network and Computer Applications
+32 International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness
+33 International Conference on Multimedia and Expo
+34 IEEE Transactions on Vehicular Technology
+35 IEEE Transactions on Multimedia
+36 Computer Communications
+37 Mobile Networks and Applications
+38 IEEE Access
+39 Conference on Information-Centric Networking
+40 International Conference on Parallel Processing
+41 International Conference on Wireless Communications and Signal Processing
+42 Local Computer Networks
+43 Advanced Information Networking and Applications
+44 Mobile Cloud Computing  Services
+45 IEEE International Conference on Smart Computing
+46 Consumer Communications and Networking Conference
+47 Immunotechnology
+48 Asia-Pacific Conference on Communications
+49 IEICE Transactions on Communications
+50 Computer Networks
+51 Conference on Network and Service Management
+52 Signal Processing
+53 International Conference on Information Networking
+54 Wireless Communications and Networking Conference
+55 IEEE Transactions on Communications
+56 IEEE Communications Letters
+57 IEEE Communications Magazine
+58 IEEE Wireless Communications Letters
+59 International Conference on Image Processing
+60 IEEE Computational Intelligence Magazine
+61 arXiv: Networking and Internet Architecture
+62 Asian Conference on Computer Vision
+63 IEEE Signal Processing Letters
+64 European Workshop on Visual Information Processing
+65 ACS/IEEE International Conference on Computer Systems and Applications
+66 IEEE Transactions on Broadcasting
+67 International Conference on Internet Multimedia Computing and Service
+68 IEEE Transactions on Consumer Electronics
+69 Signal Processing-image Communication
+70 Journal of Visual Communication and Image Representation
+71 Multimedia Tools and Applications
+72 Journal of Electronic Imaging
+73 Pattern Recognition Letters
+74 Semantics, Knowledge and Grid
+75 International Symposium on Circuits and Systems
+76 Workshop on Image Analysis for Multimedia Interactive Services
+77 IEEE Transactions on Image Processing
+78 Annual ACIS International Conference on Computer and Information Science
+79 Digital Image Computing: Techniques and Applications
+80 International Conference on Acoustics, Speech, and Signal Processing
+81 Pacific Rim Conference on Multimedia
+82 Eurasip Journal on Image and Video Processing
+83 International Conference on Intelligent Science and Big Data Engineering
+84 Multimedia Signal Processing
+85 European Signal Processing Conference
+86 International Conference on Image and Graphics
+87 International Conference on Multimedia Retrieval
+88 IEEE International Conference on Multimedia Big Data
+89 Chinese Conference on Pattern Recognition
+90 Pattern Recognition
+91 Web Intelligence
+92 International Conference on Natural Computation
+93 Computing
+94 Computational Statistics  Data Analysis
+95 Applied Mathematics and Computation
+96 Sensors
+97 International Journal of Pattern Recognition and Artificial Intelligence
+98 Automatic Control and Computer Sciences

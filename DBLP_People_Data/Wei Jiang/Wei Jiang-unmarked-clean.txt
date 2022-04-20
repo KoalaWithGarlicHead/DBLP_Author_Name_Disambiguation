@@ -1,0 +1,2737 @@
+
+id:1985274112
+title:Relevance aggregation projections for image retrieval
+year:2008
+author information:[
+author name:Wei Liu
+author organization:Columbia University
+author id:2182080890|
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+]
+abstract:projections|irrelevances|rap|select|irrelevant|called|potent|users|issues|approach|feedback|problem|optimization|retrieval|narrow|utilized|knowledge|images|semisupervised|method|large|way|refine|aggregated|underlying|accurately|propose|relevance|samples|intention|system|provide|examples|even|promptly|simultaneously|substantially|engaged|semantic|margin|methods|explores|given|formulate|two|experiments|specified|aggregation|relevances|address|explore|learn|within|learning|quadratic|querying|constrained|feedback|single|vast|returned|regarding|novel|data|projections|research|coupling|falls|unlabeled|image|ignored|category|imbalanced|query|labeled|conducted|often|mining|finding|plus|iterations|relevant|produces|therefore|paradigm|idea|classifier|show|learning|aggregation|point|irrelevant|relevance|effective|database|interest|gap|cbir|make|amount|subspace|entail|limited|separated|generic|target|outperforms|contentbased|special|existing|marking|response|respond|remainder|user|existing
+venue name:Conference on Image and Video Retrieval
+venue id:1149945488
+venue type:C
+document type:Conference
+study fields:Relevance feedback|Dimensionality reduction|Semi-supervised learning|Computer science|Image retrieval|Artificial intelligence|Quadratic programming|Computer vision|Information retrieval|Subspace topology|Effective method|Semantic gap|Machine learning
+references:2010835048|2070473734|2097308346|2101498401|2104290444|2111692687|2117553576|2130660124|2137736727|2138079527|2139823104|2153605240|2154455818|2154872931|2162657934|2170858770
+
+
+id:2002044752
+title:Audio-visual atoms for generic video concept classification
+year:2010
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Courtenay Cotton
+author organization:Columbia University
+author id:2095590781|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:Dan Ellis
+author organization:Columbia University
+author id:2120009620|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+]
+abstract:joint|videos|timefrequency|challenging|extracted|features|hierarchical|visual|audiovisual|onsets|defined|algorithm|energy|soundtrack|based|issue|codebooks|develop|analysis|benchmark|extract|region|locate|analysis|regional|concept|discriminative|investigate|around|experiments|local|atoms|targeting|detection|audio|track|visual|consumer|effectiveness|constructed|audiovisual|onset|generic|atom|confirm|onsets|form|corresponding|associated|approach|audio|novel|features
+venue name:ACM Transactions on Multimedia Computing, Communications, and Applications
+venue id:19610489
+venue type:J
+document type:Journal
+study fields:Computer vision|Computer science|Speech recognition|Artificial intelligence|Hierarchical algorithm|Multimedia|Discriminative model
+references:1510601258|1563256181|1999075139|2016067832|2022692239|2036931824|2038735287|2042707163|2062903088|2073295754|2077072595|2100032013|2103861099|2104019579|2104978738|2109124605|2111918405|2115517344|2118877769|2130103520|2136595724|2140647972|2151103935|2151693816|2154318594|2171819471|2613779721
+
+
+id:2009616550
+title:Audio-visual grouplet: temporal audio-visual interactions for general video concept classification
+year:2011
+author information:[
+author name:Wei Jiang
+author organization:Eastman Kodak Company
+author id:2643038919|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+]
+abstract:videos|stateoftheart|entire|extracted|building|consumer|four|visual|audiovisual|temporal|defined|avgs|based|using|grouped|method|videos|classification|correlations|classifying|traditional|dictionary|provide|among|unique|following|concepts|set|evaluate|much|semantic|statistical|strong|achieve|experiments|grouplet|audio|together|compared|set|robust|approaches|consistent|audiovisual|unconstrained|exploring|classification|extensively|novel|represent|improvements|joint|use|cues|codewords|separation|vocabularies|discover|studying|patterns|significant|discrete|avg|background|columbia|video|carry|demonstrate|largescale|dictionaries|interactions|analysis|concept|according|discriminative|investigate|video|general|mixedandmatched|types|constructed|avgbased|performance|conduct|various|coarselevel|codewords
+venue name:ACM Multimedia
+venue id:1135237122
+venue type:C
+document type:Conference
+study fields:Computer vision|Computer science|Communication channel|Artificial intelligence|Discriminative model
+references:1965555842|1975723154|1986482242|1994424184|1996514462|2002044752|2016067832|2031489346|2036718463|2036931824|2050964073|2062903088|2075727791|2095787854|2107466766|2109124605|2111918405|2120945552|2124195644|2128017662|2136076704|2137981002|2140647972|2141364309|2142194269|2150040608|2151103935|2154151281|2161763247|2161969291|2163292664|2165874743|2168793898|2171819471
+
+
+id:2025954386
+title:Short-term audio-visual atoms for generic video concept classification
+year:2009
+author information:[
+author name:Wei Jiang
+author organization:Columbia University. New York
+author id:2643038919|
+author name:Courtenay Cotton
+author organization:Columbia University. New York
+author id:2095590781|
+author name:Shih-Fu Chang
+author organization:Columbia University. New York
+author id:2149341496|
+author name:Dan Ellis
+author organization:Columbia University. New York
+author id:2120009620|
+author name:Alexander Loui
+author organization:Eastman KODAK, Rochester, NY, USA
+author id:1998102249|
+]
+abstract:named|shortterm|segmentation|objects|videos|tracking|users|without|improved|terms|camera|visual|audiovisual|defined|temporal|algorithm|using|issue|codebooks|analysis|propose||benchmark|concepts|conditions|evaluate|map|semantic|average|tracking|instance|gain|top|shortterm|detection|segmentation|audio|compared|discriminative|set|audiovisual|many|atom|confirm|extensively|associated|complicated|motions|novel|features|improvements|joint|shortterm|developed|challenging|features|sava|generated|learning|results|static|experimental|real|significant|extract|achieving|background|region|savas|region|regional|concept|investigate|video|effective|targeting|alone|uneven|track|consumer|tracking|codebookbased|outperform|multiple|constructed|alternative|also|point|approaches|generic|performance
+venue name:ACM Multimedia
+venue id:1135237122
+venue type:C
+document type:Conference
+study fields:Computer vision|Clutter|Segmentation|Computer science|Artificial intelligence|Point tracking|Multimedia|Discriminative model|Codebook
+references:1484830317|1510601258|1563256181|1999075139|2016067832|2022692239|2036931824|2038735287|2073295754|2077072595|2081474223|2103861099|2104019579|2104978738|2109124605|2111918405|2113507148|2115517344|2118877769|2127499550|2130103520|2136076704|2136595724|2140647972|2151103935|2151693816|2154318594|2161969291|2164899449|2171819471|2613779721
+
+
+id:2036931824
+title:Large-scale multimodal semantic concept detection for consumer video
+year:2007
+author information:[
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:Dan Ellis
+author organization:Columbia University
+author id:2120009620|
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Keansub Lee
+author organization:Columbia University
+author id:2159459488|
+author name:Akira Yanagawa
+author organization:Columbia University
+author id:2069831142|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+author name:Jiebo Luo
+author organization:Eastman Kodak Company, Rochester, USA
+author id:2762710845|
+]
+abstract:modality|frameworks|combinations|accuracy|videos|users|annotated|via|contributions|context|classifier|visual|diverse|state|audiovisual|investigated|goals|promising|reduce|based|models|using|large|carefully|work|pool|multimodal|classification|resulting|opportunities|provide|concepts|semantic|study|statistical|bases|feature|audio|multimodal|art|detection|set|sets|systematic|single|multimedia|assess|extensively|first|sharing|joint|several|evaluated|corpus|upon|research|analytics|realistic|shown|different|results|selected|ontology|discover|new|experiment|real|significant|three|expansion|fusion|present|largescale|errors|concept|show|best|video|paper|studies|consumer|built|perform|automatic|also|approaches|fused|investigation|user|significantly
+venue name:Multimedia Information Retrieval
+venue id:1190496814
+venue type:C
+document type:Conference
+study fields:Ontology|Pattern recognition|Information retrieval|Computer science|Information science|Boosting (machine learning)|Artificial intelligence|Classifier (linguistics)|Analytics|User studies|Machine learning
+references:2077072595|2101087387|2107640784|2107743791|2124386111|2144921994|2153635508|2154422044|2162915993|2171188998|2171881030
+
+
+id:2042510070
+title:Video concept detection by audio-visual grouplets
+year:2012
+author information:[
+author name:Wei Jiang
+author organization:Eastman Kodak Company
+author id:2643038919|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+]
+abstract:optimal|robustly|videos|stateoftheart|entire|building|analyzing|improved|grouplet|four|formulation|visual|audiovisual|temporal|developed|avgs|algorithm|based|using|grouped|method|classified|wth|aggregated|classification|correlations|classifying|contains|traditional|largemargin|concepts|provide|among|unique|following|concepts|set|evaluate|semantic|statistical|strong|computed|achieve|groupletbased|experiments|audio|based|setting|together|compared|set|learn|approaches|consistent|quadratic|unconstrained|exploring|classification|metric|extensively|represent|improvements|joint|data|use|cues|points|codewords|separation|programming|various|vocabularies|discover|individual|patterns|iterative|significant|discrete|avg|background|columbia|proposed|final|demonstrate|largescale|interactions|analysis|distance|concept|according|discriminative|learning|investigate|video|representation|general|mixedandmatched|consumer|nearestneighbor|distances|types|avgbased|effectively|carries|performance|conduct|various|coarselevel|content|uses|codewords
+venue name:International Journal of Multimedia Information Retrieval
+venue id:2496055428
+venue type:J
+document type:Journal
+study fields:Data point|Computer vision|Pattern recognition|Computer science|Communication channel|Metric (mathematics)|Artificial intelligence|Quadratic programming|Discriminative model|Machine learning
+references:1560724230|1566018662|1965555842|1975723154|1986482242|1994424184|1996514462|2002044752|2016067832|2036718463|2036931824|2050964073|2062903088|2075727791|2095787854|2104752854|2106053110|2107466766|2109124605|2111918405|2120945552|2124195644|2127069950|2136076704|2137981002|2140647972|2141364309|2142194269|2147277317|2150040608|2151103935|2151632536|2154151281|2161763247|2161969291|2163292664|2165874743|2168793898|2169495281|2171819471
+
+
+id:2051521096
+title:Grouplet-Based Distance Metric Learning for Video Concept Detection
+year:2012
+author information:[
+author name:Wei Jiang
+author organization:Corp. Res.  Eng., Eastman Kodak Co., Rochester, NY, USA
+author id:2643038919|
+author name:Alexander C. Loui
+author organization:Res. Lab., Eastman Kodak Co., Rochester, NY, USA
+author id:1998102249|
+]
+abstract:optimal|robustly|entire|approach|building|improved|structure|consumer|formulation|visual|let|defined|algorithm|based|using|grouped|method|compared|videos|aggregated|correlations|traditional|largemargin|concepts|set|evaluate|strong|improvements|computed|achieve|experiments|detection|audio|setting|together|detection|set|words|consistent|quadratic|unconstrained|framework|classification|metric|extensively|information|combined|data|use|lets|developed|features|quite|directly|programming|group|individual|learns|preserves|iterative|significant|discrete|columbia|video|final|demonstrate|largescale|code|distance|concept|words|according|learning|generating|investigate|general|nearestneighbor|distances|types|letbased|learned|effectively|structure|better|performance|various|detected|uses
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Data point|Computer vision|Pattern recognition|Computer science|Iterative method|Support vector machine|Metric (mathematics)|Feature extraction|Word metric|Code word|Artificial intelligence|Contextual image classification
+references:1560724230|1566018662|1965555842|1986482242|2009616550|2050964073|2062903088|2066690519|2104752854|2106053110|2107466766|2127069950|2141364309|2142194269|2150040608|2151103935|2161969291|2162762921|2165874743|2169495281
+
+
+id:2082502489
+title:Active Context-Based Concept Fusionwith Partial User Labels
+year:2006
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:A. C. Loui
+author organization:Eastman Kodak Company, Kodak Research Laboratories
+author id:1998102249|
+]
+abstract:small|solicits|called|optimal|criteria|accuracy|annotations|used|developed|approach|number|gains|new|images|using|development|method|active|videos|refine|significant|theoretic|propose|benefit|trecvid|improving|concepts|contrast|concepts|semantic|fusion|concept|automatically|experiments|show|effective|paper|predict|rest|detection|set|determine|may|effectively|contextbased|annotation|performance|conventional|information|user
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Image fusion|Computer science|Artificial intelligence|Computer vision|Annotation|Pattern recognition|Information retrieval|Video retrieval|Context based|Effective method|TRECVID|Feature extraction|Content based retrieval
+references:2115439269|2124342919|2129000925|2136507825|2148730406
+
+
+id:2120559187
+title:Cross-domain learning methods for high-level visual concept classification
+year:2008
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:E. Zavesky
+author organization:Columbia University
+author id:2042357929|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:A. Loui
+author organization:Eastman, Kodak
+author id:1998102249|
+]
+abstract:increasingly|svmbased|comparative|changing|suffer|algorithm|give|method|old|methods|require|classification|propose|benchmark|oftheart|concepts|selection|etc|domain|obtained|poorly|semantic|average|crossdomain|study|criterion|another|svm|feature|latest|set|indexing|may|one|positive|domain|produce|highlevel|exploding|distributions|help|state|multimedia|better|appropriately|represent|data|samples|almost|use|precision|shows|amounts|classifiers|cdsvm|computational|image|new|evaluation|like|cost|adapting|often|develop|chosen|important|trecvid|vectors|improve|largescale|support|classify|issue|trained|applied|additional|changes|training|learning|alone|previously|consumer|news|summary|determine|learned|perform|automatic|also|intuitive|home|performance|due|mean|concept|comprehensive|eg
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Data modeling|Computer science|Image processing|Artificial intelligence|Computer vision|Pattern recognition|TRECVID|Adaptive system|Support vector machine|Feature extraction|Statistical classification|Automatic indexing|Machine learning
+references:1593641510|1978920452|2062903088|2119821739|2120354757|2153635508|2964057329
+
+
+id:2123475527
+title:Automatic aesthetic value assessment in photographic images
+year:2010
+author information:[
+author name:Wei Jiang
+author organization:Kodak Research Laboratories Eastman, Kodak Company, Rochester, NY
+author id:2643038919|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+author name:Cathleen Daniels Cerosaletti
+author organization:Kodak Research Laboratories Eastman, Kodak Company, Rochester, NY
+author id:1217792609|
+]
+abstract:aesthetic|building|estimate|visual|developed|multicategory|promising|rankboost|based|coarsegranularity|images|issue|groundtruth|quality|estimation|provide|algorithms|explores|two|experiments|feature|vector|indicate|categories|set|namely|finegranularity|organizing|novel|used|assessment|features|describing|classifiers|different|generate|results|image|photographic|collection|important|estimation|proposed|spaces|support|assessment|scores|values|content|retrieving|paper|related|predict|visually|consumer|digital|characteristics|automatic|albums|ranging|regression|various|multidimensional|user
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Data modeling|Pattern recognition|Computer science|Support vector machine|Image retrieval|Image processing|Image quality|Digital image|Artificial intelligence|Value assessment|Content management
+references:1511924373|1990272403|2101630756|2107890099|2124028946|2128716185|2137226992|2147192413|2170658603
+
+
+id:2127657889
+title:A consumer video search system by audio-visual concept classification
+year:2012
+author information:[
+author name:Wei Jiang
+author organization:Corporate Research  Engineering, Eastman Kodak Company
+author id:2643038919|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+author name:Phoury Lei
+author organization:Corporate Research  Engineering, Eastman Kodak Company
+author id:2134312453|
+]
+abstract:increasingly|videos|developed|descriptions|signatures|analyzing|grouplet|consumer|engines|visual|text|audiovisual|based|work|query|conducted|develop|classification|system|lack|system|columbia|provide|video|domain|largescale|little|integrating|access|paradigm|searching|concept|querybyexample|show|video|representation|experiments|content|search|due|salient|supports|audio|multimodal|consumer|effectiveness|amount|set|captures|efficient|domain|exploiting|contentbased|massive|classification|difficulties|adopts|well|online|information|describe|open|important|indexing|querybyconcept
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Computer science|Search engine indexing|Artificial intelligence|Contextual image classification|Computer vision|Search engine|Information retrieval|Video retrieval|Visualization|Video tracking|Multimedia|Semantics|Salient
+references:1566018662|1965555842|1967770981|1969994895|1986482242|2009616550|2036931824|2051521096|2062903088|2065822548|2089150756|2090912237|2096479579|2106053110|2127069950|2140406904|2142194269|2144750365|2150040608|2151103935|2161969291|2162762921|2165874743
+
+
+id:2144921994
+title:Kernel Sharing With Joint Boosting For Multi-Class Concept Detection
+year:2007
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:A.C. Loui
+author organization:Eastman Kodak, Company (Rochester, NY)
+author id:1998102249|
+]
+abstract:extensive|optimal|tested|accuracy|videos|approach|gains|required|significant|gained|boatship|revealed|visual|spatial|promising|based|method|flexibility|underlying|classification|analysis|traditional|concepts|among|binary|concepts|greatly|broadcast|complexity|average|computed|extended|weak|multiclass|unlike|demonstrated|detection|kernel|learning|great|reduced|framework|matching|relations|joint|precision|developing|process|detectors|used|corpus|challenging|hierarchical|classifiers|results|computational|vocabularies|new|jointboost|individual|boosting|like|iterative|sharing|important|trecvid|proposed|detecting|multiresolution|concept|classes|kernelbased|detect|discriminative|learning|choose|common|interest|kernels|news|hours|constructed|interesting|also|approaches|performance|due|build|mean|independently|achieved|clustering|subset
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Computer science|Artificial intelligence|Discriminative model|Hierarchical clustering|Kernel (linear algebra)|Object detection|Computer vision|Pattern recognition|Iterative method|TRECVID|Boosting (machine learning)|Machine learning|Computational complexity theory
+references:1566135517|1605688901|2022692239|2032210760|2101087387|2104978738|2105231718|2115313253|2118330267|2133213950|2153605240|2154422044|2159727956|2162915993|2171188998|2171896402|2294259878
+
+
+id:2145833348
+title:Semantic Concept Classification by Joint Semi-supervised Learning of Feature Subspaces and Support Vector Machines
+year:2008
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:Tony Jebara
+author organization:Columbia University
+author id:2048157592|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+]
+abstract:optimal|support|readily|helping|maintain|obstacles|nonlinear|feature|finds|four|classifier|vector|algorithm|space|images|margin|neighborhoods|reproducing|large|videos|handle|classification|jointly|resulting|subspaces|obtained|evaluate|relative|semantic|margin|scarcity|svm|two|local|feature|detection|multimodal|toy|set|learn|one|representing|data|confirm|smoothness|classification|extensively|uci|leverages|novel|unseen|promising|data|developing|used|clearly|challenging|features|major|semisupervised|unlabeled|method|kernel|results|image|test|locality|lpssvm|classifiers|labeled|caltech|preserving|proposed|highdimensionality|present|hilbert|optimized|concept|classifier|show|training|learning|discriminative|video|effective|consumer|effectiveness|amount|subspace|types|learned|well|machines
+venue name:European Conference on Computer Vision
+venue id:1124077590
+venue type:C
+document type:Conference
+study fields:k-nearest neighbors algorithm|Caltech 101|Semi-supervised learning|Subspace topology|Pattern recognition|Computer science|Random subspace method|Support vector machine|Artificial intelligence|Contextual image classification|Linear classifier|Machine learning
+references:2010835048|2035720976|2036931824|2077072595|2097308346|2104290444|2107008379|2109405055|2140095548|2151103935|2154422044|2154872931|2155904486|2162915993
+
+
+id:2164982728
+title:Semantic event detection for consumer photo and video collections
+year:2008
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:A.C. Loui
+author organization:Eastman Kodak, Company (Rochester, NY)
+author id:1998102249|
+]
+abstract:measuring|eventlevel|videos|approach|space|influence|problem|collections|describing|bof|visual|model|higherlevel|events|image|images|large|considering|difficult|real|propose|important|bagoffeatures|utilize|lowlevel|sensitivity|erroneous|semantic|events|scores|concept|technique|video|retrieval|representation|two|experiments|content|database|paper|feature|power|event|based|consumer|effectiveness|detection|original|automatic|also|decreasing|instead|confirm|advantages|management|typical|detected|userspsila|avoid|approach|space|novel
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer science|Artificial intelligence|Content management|Semantic computing|Computer vision|Concept space|Feature vector|Information retrieval|Pattern recognition|Visualization|Support vector machine|Feature extraction|Statistical classification
+references:2077072595|2129193626|2131846894|2143668817|2153605240|2162661274|2165874743
+
+
+id:2166030789
+title:Visual saliency with side information
+year:2009
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Lexing Xie
+author organization:IBM
+author id:2100918400|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+]
+abstract:prototypes|stateoftheart|prefilter|finds|collections|visual|model|join|persistent|algorithm|using|large|steps|analysis|propose|earlier|bagoffeatures|seasons|among|unique|evaluate|algorithms|diversedensity|shared|c|instance|datasets|two|across|contextual|found|intuitively|web|subsequent|side|one|photo|flickr|results|machine|associated|organizing|novel|statistics|winter|used|research|learning|classifiers|starts|different|image|subcollection|patterns|classifiers|collection|finding|sharing|scenes|trecvid|show|learning|video|content|common|salient|design|sideinformation|news|outperform|multiple|constructed|also|clustering|information|clustering|locations
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Data visualization|Algorithm design|Pattern recognition|TRECVID|Computer science|Visualization|Artificial intelligence|Content management|Contextual image classification|Cluster analysis|Salient
+references:1968766038|2119742615|2136595724|2153605240|2154318594|2165874743
+
+
+id:2167145218
+title:Automatic consumer video summarization by audio and visual analysis
+year:2011
+author information:[
+author name:Wei Jiang
+author organization:Eastman Kodak Company
+author id:2643038919|
+author name:Courtenay Cotton
+author organization:Columbia University
+author id:2095590781|
+author name:Alexander C. Loui
+author organization:Eastman Kodak Company
+author id:1998102249|
+]
+abstract:recognized|videos|issues|analyzing|improved|reliable|reflect|facilitates|easily|guidelines|obtained|visual|case|algorithm|soundtrack|large|videos|version|consumerquality|domain|conditions|automatic|semantic|study|methods|condensed|stream|noise|audio|camera|mix|creation|set|efficient|subjects|following|systematic|highlevel|produce|severe|cannot|information|approach|first|sound|used|developed|challenging|good|uncontrolled|generate|actual|experimental|tool|users|important|video|collections|summarization|summaries|sources|applied|show|best|video|poorquality|content|pursue|paper|provides|captured|uneven|studies|consumers|consumer|effectiveness|evaluations|previous|album|multiple|automatic|due|consumeroriented|content
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Multi-document summarization|Automatic summarization|Computer vision|Video processing|Content analysis|Visualization|Clutter|Computer science|Artificial intelligence|Video quality|Multimedia|Semantics
+references:1833279920|1990370077|2010405190|2025242810|2077072595|2095005467|2117051369|2119738097|2122279656|2123475527|2125337530|2128838222|2139085747|2147328102|2170658603|2171721273
+
+
+id:2171881030
+title:Context-Based Concept Fusion with Boosted Conditional Random Fields
+year:2007
+author information:[
+author name:Wei Jiang
+author organization:Columbia University
+author id:2643038919|
+author name:Shih-Fu Chang
+author organization:Columbia University
+author id:2149341496|
+author name:A. C. Loui
+author organization:Eastman Kodak Company, Kodak Research Laboratories
+author id:1998102249|
+]
+abstract:contextual|accurate|inferencing|improves|relationships|model|cbcf|promising|models|method|work|probability|posterior|propose|benefit|labels|concepts|provide|field|among|concepts|algorithm|semantic|statistical|criterion|independent|crf|two|gain|detection|reported|power|boosted|performance|detection|set|may|combining|inconsistent|contextbased|framework|information|techniques|folds|conditional|data|detectors|incorporated|different|directly|results|intercorrelation|computational|new|evaluation|development|cbcf|demonstrates|boosting|includes|develop|important|fusion|crf|interconceptual|concept|discriminative|random|effective|predict|enhance|allocated|effectiveness|previous|automatic|resources|performance|account|taking
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Conditional random field|Object detection|Pattern recognition|Computer science|Support vector machine|Posterior probability|Context model|Artificial intelligence|Boosting (machine learning)|Contextual image classification|Discriminative model|Machine learning
+references:2107640784|2115439269|2124342919|2136507825|2147880316
+
+
+id:1482590843
+title:The design of an LTE-A system enhanced with cognitive radio
+year:2013
+author information:[
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Trung Thanh Nguyen
+author organization:University Duisburg-Essen
+author id:2310515281|
+author name:Asim Burak Guven
+author organization:University of Duisburg-Essen
+author id:2222539409|
+author name:Yue Wang
+author organization:University of Duisburg-Essen
+author id:2305081272|
+author name:Yuan Gao
+author organization:University of Duisburg-Essen
+author id:2304911590|
+author name:Animar Rabbani
+author organization:University of Duisburg-Essen
+author id:2225915576|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Theo Kreul
+author organization:University of Duisburg-Essen
+author id:2228322609|
+author name:Feng Zheng
+author organization:University Duisburg-Essen
+author id:2286070042|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:tv|projects|advanced|research|space|radio|ongoing|white|introductions|goals|given|presented|technology|enhanced|system|addressed|cognitive|spectrum|koglte|crenhanced|frontend|shaping|components|platform|disaster|paper|functionalities|scenario|design|relief|key|according|digital|implementing|ltea|evolution|baseband|specific|considerations|location|design|presents|longterm
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:White spaces|Remote radio head|Telecommunications|Software-defined radio|Computer science|Systems design|Location awareness|Cognitive radio|LTE Advanced|Cognitive network
+references:1582002023|1804458602|1974723136|1977142530|2027150502|2042892246|2067684564|2100575086|2122646546|2149079777|2159356054|2763776724
+
+
+id:1983646197
+title:An MGF-Based Performance Analysis of Opportunistic Relay Selection with Outdated CSI
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:theoretical|channel|available|approach|mainly|without|given|outdated|function|state|presence|directly|based|still|intractability|probability|distributed|analysis|expressions|take|ergodic|channels|pdf|evaluate|independent|analysis|relaying|endtoend|montecarlo|generating|capacity|moment|involvement|opportunistic|csi|corroborate|identically|derived|rayleigh|amplifyandforward|performance|closedform|outage|expression|set|literature|manipulations|density|signaltonoise|advantage|mgf|simulations|performance|conventional|due|validity|novel|mathematical|ratio
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Expression (mathematics)|Computer science|Fading|Signal-to-noise ratio|Electronic engineering|Independent and identically distributed random variables|Moment-generating function|Probability density function|Relay|Channel state information
+references:1972011722|1994554182|2009386696|2025879391|2044331621|2095238991|2099798769|2111779131|2120636364|2124228095|2128295617|2139825184|2148963518|2149040914|2170561782
+
+
+id:1984412155
+title:Spectrum awareness scheme of the rapidly deployable eNodeB for unexpected and temporary events
+year:2013
+author information:[
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Tomaz Javornik
+author organization:Dept. of Commun. Syst., Jozef Stefan Institute, Ljubljana
+author id:2637807349|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Trung Thanh Nguyen
+author organization:University Duisburg-Essen
+author id:2310515281|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:temporary|quickly|via|would|complex|based|using|simulation|considering|stations|adapted|classifying|umts|cognitive|spectrum|cellular|obtained|access|scheme|uncertainty|measurement|layer|unknown|communications|capability|inservice|identities|deployable|systems|noise|map|phases|architecture|problem|initial|ltea|coexisting|ict|novel|encouraging|measuring|downlink|rapid|project|emergency|aerial|experience|radio|terrestrial|rollout|awareness|operation|different|results|signal|needs|proposes|eu|technologies|signals|proposed|deployment|techniques|detecting|lte|events|enodeb|unexpected|network|invulnerable|numerical|paper|physical|sensing|effectively|multiple|rapidly|environment|base
+venue name:Computer Aided Modeling and Design of Communication Links and Networks
+venue id:1172534673
+venue type:C
+document type:Conference
+study fields:Radio resource management|Base station|Remote radio head|UMTS frequency bands|Computer science|Network architecture|Computer network|Real-time computing|Cellular network|EnodeB|Cognitive radio
+references:1482590843|2092431085|2092832382|2094103054
+
+
+id:2014569393
+title:Power optimal allocation in decode-and-forward opportunistic relaying
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:optimal|fed|theoretical|almost|simulation|using|channel|simple|source|via|feedback|price|bottleneck|easily|state|algorithm|probability|proposes|bits|distributed|analysis|cooperative|system|decodeandforward|effect|reusing|boost|flag|packet|taking|montecarlo|comes|back|combat|figured|best|networks|capacity|gain|paper|opportunistic|corroborate|csi|power|factor|performance|byproduct|outage|process|allocation|advantage|effectively|relay|control|existing|powercontrol|performance|due|selection|quantized
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Relay channel|Bottleneck|Distributed power|Computer science|Network packet|Communication channel|Computer network|Channel capacity|Relay|Channel state information
+references:2026898705|2071818388|2099119507|2106835663|2108427351|2113271807|2116236908|2121916661|2128295617|2139825184|2148963518|2154972708|2168814427
+
+
+id:2017346677
+title:Opportunistic space-time coding to exploit cooperative diversity in fast-fading channels
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:channel|without|fastfading|number|problem|terms|alamouti|fullrate|state|order|using|still|probability|simulated|propose|cooperative|cooperating|selection|unique|evaluate|degrades|deal|systems|scheme|selection|relays|comes|instantaneous|gain|coding|diversity|regenerated|reduces|csis|expression|spacetime|opportunistically|csi|scheme|single|ostc|drastically|information|novel|encode|spectral|reveal|perfect|generalized|relays|outdated|drawback|results|selected|sacrifice|achieving|signals|proposed|ostc|full|code|analytical|applied|coined|ors|combining|opportunistic|csi|derived|closedform|outage|relay|schemes|instead|pair|performance|achieved
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Space–time code|Fading|Computer science|Cooperative diversity|Communication channel|Computer network|Coding (social sciences)|Spectral efficiency|Relay|Channel state information
+references:1972011722|1994554182|2009386696|2020925097|2025879391|2026898705|2044331621|2099798769|2107080958|2120636364|2124228095|2128295617|2139825184|2148963518|2149040914|2163128415|2167845382|2170561782
+
+
+id:2018958990
+title:Parallel In-band signal detection with self-interference suppression for cognitive LTE
+year:2014
+author information:[
+author name:Hanwen Cao
+author organization:Institute of Digital Signal Processing (DSV), Universität Duisburg-Essen, Germany
+author id:2127727046|
+author name:Wei Jiang
+author organization:Institute of Digital Signal Processing (DSV), Universität Duisburg-Essen, Germany
+author id:2302691083|
+author name:Thomas Kaiser
+author organization:Universität Duisburg-Essen
+author id:2115159942|
+]
+abstract:simulation|accessing|inband|suppression|knowledge|hardware|generation|unrealistic|mainstream|require|dynamically|propose|system|cognitive|spectrum|cellular|wider|strong|advanced|scheme|range|priori|bands|gain|dvbt|systems|selfinterference|evolution|key|one|possible|selfinterference|increasing|able|fifth|coexisting|novel|ratio|standard|preliminary|friendly|heterogeneous|radio|frequency|different|results|signal|discover|communications|term|towards|modification|long|detecting|lte|show|effective|interest|bands|parallel|extra|enhancing|sensing|submerged|components|enablers|signaltonoise|specification|technology|existing|achieved|wireless|time
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Radio resource management|Wireless|Detection theory|DVB-T|Computer science|Computer network|Cellular network|Interference (wave propagation)|LTE Advanced|Cognitive radio
+references:1482590843|1971996469|2001603994|2079059649|2083467995|2093326613|2094231534|2096380192|2116245167
+
+
+id:2026783050
+title:Analysis of generalized selection combining in cooperative networks with outdated CSI
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:channel|number|price|state|presence|order|still|using|probability|achieved|distributed|analysis|cooperative|cooperating|ergodic|degrades|independent|selection|relaying|montecarlo|relays|comes|k|networks|derive|n|capacity|gain|diversity|identically|amplifyandforward|set|csi|available|simulations|drastically|information|channels|spectral|reveal|theoretical|perfect|available|generalized|outdated|results|selected|correctness|sacrifice|expressions|effect|full|analysis|analytical|applied|combat|numerical|effective|combining|opportunistic|gsc|corroborate|rayleigh|closedform|outage|literature|limited|way|efficiency|performance|conventional
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Telecommunications|Expression (mathematics)|Computer science|Cooperative diversity|Ergodic theory|Correctness|Computer network|Spectral efficiency|Independent and identically distributed random variables|Generalized selection|Channel state information
+references:1972011722|1994554182|2009386696|2020925097|2025879391|2044331621|2095238991|2099798769|2111779131|2120636364|2124228095|2127014568|2128295617|2130592741|2139825184|2148963518|2149040914|2163128415|2165234084|2167845382|2170561782
+
+
+id:2045345500
+title:Opportunistic relaying over Aerial-to-Terrestrial and Device-to-Device radio channels
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Leonardo Goratti
+author organization:CREATE-NET, Trento, Italy
+author id:197421883|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:rapidlydeployed|channel|without|path|loss|number|enable|safety|altitudes|attentions|drawn|spatial|case|based|models|method|robustness|impacts|terminals|cooperative|system|among|aerialtoterrestrial|appropriate|integrating|systems|study|reliability|relaying|lowaltitude|diversity|smallscale|power|merely|resilience|close|deployment|architecture|efficiencies|many|mounted|devicetodevice|novel|channels|spectral|theoretical|rapid|emergency|network|simple|reflecting|used|aerial|radio|analyses|high|opportunistic|investigated|realistic|reap|shadowing|patchy|communication|signal|regarding|channels|improve|conflict|events|provided|link|choose|platform|network|disaster|effective|public|opportunistic|station|relief|rayleigh|coverage|idealized|distances|characteristics|allocation|evaluations|highlydynamic|requirement|increase|existing|carrier|performance|ones|account|base|taking
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Base station|Antenna diversity|Telecommunications network|Computer science|Fading|Computer network|Communication channel|Robustness (computer science)|Path loss|Rician fading
+references:2014569393|2026898705|2108663818|2116236908|2128295617|2139825184|2148963518
+
+
+id:2054782068
+title:Achieving high reliability in Aerial-Terrestrial networks: Opportunistic space-time coding
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:named|without|feedback|terms|evaluated|presence|investigated|models|using|method|probability|stations|aftermath|system|delay|selection|aerialtoterrestrial|degrades|integrating|relaying|reliability|comes|project|coding|architecture|spacetime|csi|mounted|ostc|drastically|devicetodevice|channels|novel|spectral|reveal|emergency|aerial|deploy|radio|realistic|outdated|patchy|communication|signal|results|channel|sacrifice|eu|channels|state|present|balloons|applied|provided|link|combat|information|robustness|network|disaster|absolute|numerical|opportunistic|since|rayleigh|coverage|outage|relay|obviously|aerialterrestrial|increase|improvement|rapidly|outperforms|efficiency|performance|due|base
+venue name:European Conference on Networks and Communications
+venue id:2754578982
+venue type:C
+document type:Conference
+study fields:Space–time code|Base station|Telecommunications network|Computer science|Computer network|Communication channel|Robustness (computer science)|Spectral efficiency|Relay|Channel state information
+references:1972011722|1994554182|2009386696|2020925097|2025879391|2044331621|2107080958|2120636364|2124228095|2136513415|2149040914|2163128415|2167845382|2170561782
+
+
+id:2079059649
+title:Multi-channel robust spectrum sensing with low-complexity filter bank realization
+year:2013
+author information:[
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:mitigating|reliably|simulation|band|evaluation|realworld|bank|uhf|terms|algorithm|addition|based|using|successfully|visualized|propose|feasibility|spectrum|sensitivity|complexity|perfectly|scheme|utilizing|simultaneous|uncertainty|two|measurement|feature|low|noise|power|enables|detection|robust|problem|within|observation|terminals|simulations|filter|mismatch|first|tv|second|generated|signal|computational|polyphase|clock|enhanced|sequence|signals|channels|especially|proposed|favourable|complexity|part|values|detect|network|validated|captured|confirms|effectiveness|sensing|cost|pilot|practical|implementation|parts|implementation|multiple|mobile|crosscorrelation|realized|performance|wideband|periodical|short|consists|essentially|time|reducing|reduction
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Information theory|Polyphase system|Detection theory|Computer science|Filter bank|Communication channel|Real-time computing|Ultra high frequency|Computational complexity theory|Cognitive radio
+references:1804458602|2027150502|2110702117|2153114715|2168078104
+
+
+id:2085755109
+title:A robust radio access technology classification scheme with practical considerations
+year:2013
+author information:[
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+author name:Jurgen Peissig
+author organization:Leibniz University Hannover
+author id:2275468424|
+]
+abstract:projects|mitigating|simulation|ratspecific|realworld|experiment|complex|classifier|knowledge|based|using|method|robustness|agree|classification|classifying|cancellation|receivers|likelihood|cognitive|spectrum|metrics|rules|environment|systems|access|scheme|uncertainty|feature|acquiring|signals|noise|operating|based|robust|decision|scheme|framework|maximum|coexisting|tv|upon|space|radio|white|implemented|microphone|signal|ieee|combination|group|estimation|enhanced|proposed|ongoing|detecting|koglte|lte|applied|capable|network|absolute|paper|validated|confirms|dimension|designed|performances|effectiveness|sensing|types|practical|built|multiple|technology|testbed|wireless|comprehensive|presents
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Radio resource management|White spaces|Detection theory|Computer science|Testbed|Computer network|Real-time computing|Robustness (computer science)|Wireless microphone|Radio access technology|Cognitive radio
+references:1804458602|2092832382|2100814173|2135575309|2151676785|2153114715|2160090443
+
+
+id:2094103054
+title:Key issues towards beyond LTE-Advanced systems with cognitive radio
+year:2013
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Hanwen Cao
+author organization:University Duisburg-Essen
+author id:2127727046|
+author name:Trung Thanh Nguyen
+author organization:University Duisburg-Essen
+author id:2310515281|
+author name:Asim Burak Guven
+author organization:University of Duisburg-Essen
+author id:2222539409|
+author name:Yue Wang
+author organization:University of Duisburg-Essen
+author id:2305081272|
+author name:Yuan Gao
+author organization:University of Duisburg-Essen
+author id:2304911590|
+author name:Ammar Kabbani
+author organization:University of Duisburg-Essen
+author id:2274688564|
+author name:Michael Wiemeler
+author organization:University Duisburg-Essen
+author id:2026333337|
+author name:Theo Kreul
+author organization:University of Duisburg-Essen
+author id:2228322609|
+author name:Feng Zheng
+author organization:University Duisburg-Essen
+author id:2286070042|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:spectral|presentation|introduced|white|state|give|new|including|briefly|discussed|technologies|feasibility|field|cognitive|concepts|spectrum|spaces|frontend|shaping|technical|introductory|platform|operating|key|digital|art|implementing|opportunistically|evolution|baseband|future|location|longterm
+venue name:International Workshop on Signal Processing Advances in Wireless Communications
+venue id:2623057608
+venue type:C
+document type:Conference
+study fields:Technical feasibility|White spaces|Baseband|Telecommunications|Computer science|Electronic engineering|Cognition|Location awareness|Cognitive radio|LTE Advanced|Cognitive network
+references:1582002023|1804458602|1964784453|1971478676|1974723136|1977142530|1985250594|2027150502|2042892246|2066773318|2067684564|2100575086|2111234439|2122646546|2149079777|2159356054|2763776724
+
+
+id:2185724119
+title:Bidirectional branch and bound based antenna selection in massive MIMO systems
+year:2015
+author information:[
+author name:Yuan Gao
+author organization:University of Duisburg-Essen
+author id:2304911590|
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+]
+abstract:antenna|optimal|criteria|channel|infeasible|mimo|algorithm|based|using|still|method|rate|lower|distributed|benchmark|singular|selection|much|complexity|systems|minimum|independent|achieve|focuses|two|capacity|signal|search|low|submatrix|ratio|identically|submatrices|one|massive|future|novel|bidirectional|noise|bound|paper|main|serve|postprocessed|high|solution|find|exhaustive|msv|results|wellknown|maximizing|proposed|especially|sparse|value|demonstrate|largest|purpose|globally|searching|motivation|paper|search|branch|design|selecting|antenna|cost|bab|error|also|although|bit|simulation|achieved|latter
+venue name:Personal, Indoor and Mobile Radio Communications
+venue id:1155092908
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Branch and bound|Search algorithm|Brute-force search|Computer science|Upper and lower bounds|Signal-to-noise ratio|Algorithm|Communication channel|MIMO|Real-time computing|Bit error rate
+references:1747072732|1966317186|1976407234|2008608540|2016774755|2025138368|2029010388|2054549389|2076410399|2082796814|2084304524|2086436914|2099030964|2103491873|2109792745|2115573600|2115892496|2128865660|2147601077|2149527114|2294749945
+
+
+id:2324688844
+title:A Robust Opportunistic Relaying Strategy for Co-Operative Wireless Communications
+year:2016
+author information:[
+author name:Wei Jiang
+author organization:University Duisburg-Essen
+author id:2302691083|
+author name:Thomas Kaiser
+author organization:University
+author id:2115159942|
+author name:A. J. Han Vinck
+author organization:Duisburg-Essen University
+author id:2396200459|
+]
+abstract:kept|channel|dimensional|transmitted|number|analytical|state|presence|knowledge|based|probability|distributed|schemes|analysis|propose|decoding|cooperative|cooperating|system|selection|ergodic|simultaneously|substantially|evaluate|degrades|deal|scheme|relaying|relays|transmission|capacity|multiplexingdiversity|coding|orthogonal|diversity|deteriorates|regenerated|perspective|together|performance|robust|spacetime|opportunistically|csi|wrong|perfect|single|maximumlikelihood|information|encode|manner|reveal|reaped|remarkably|diversity|using|simple|predefined|employed|relays|outdated|solution|results|selected|branches|expressions|receiver|coded|clarifies|signals|proposed|asymptotic|full|higher|best|coined|numerical|ors|opportunistic|achievable|csi|closedform|outage|relay|instead|followed|existing
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Wireless|Cooperative diversity|Computer network|Coding (social sciences)|Decoding methods|Mobile telephony|Mathematics|Relay|Encoding (memory)|Channel state information
+references:1983646197|2009386696|2014569393|2017346677|2025879391|2026898705|2044331621|2048057186|2058567980|2079350152|2084304524|2095238991|2095843437|2095954496|2098360731|2099798769|2107080958|2110401362|2110659753|2120636364|2124228095|2126080547|2128295617|2139825184|2148963518|2149040914|2152121970|2158714612|2163128415|2167447263|2167845382|2169571573|2170561782|2170678650
+
+
+id:2929137234
+title:Delay-aware content distribution via cell clustering and content placement for multiple tenants
+year:2019
+author information:[
+author name:Guolin Sun
+author organization:University of Electronic Science and Technology of China
+author id:2766564548|
+author name:Daniel Ayepah-Mensah
+author organization:University of Electronic Science and Technology of China
+author id:2898650938|
+author name:Li Lu
+author organization:University
+author id:2899022173|
+author name:Wei Jiang
+author organization:German Research Center for Artificial Intelligence-DFKI GmbH, Kaiserslautern, Germany
+author id:2600431363|
+author name:Guisong Liu
+author organization:University of Electronic Science and Technology of China
+author id:2147832107|
+]
+abstract:repeatedly|transmitted|put|investigates|via|maximize|multitenant|problem|algorithm|graphpartitioning|require|utilization|propose|contents|networks|placement|evaluate|delayaware|average|access|scheme|distribution|cell|targets|see|backhaul|key|minimize|efficient|abstract|innetwork|heuristic|satisfaction|great|simulations|component|novel|multitenants|exponential|data|network|caching|radio|faster|download|transmission|generated|huge|speeds|resource|conducted|pressure|users|volume|utilization|proposed|improve|visiting|qoe|latency|content|network|effective|paper|introduction|amount|allocation|mobile|also|rates|growth|wireless|clustering|avoid|time|reduction|user
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Heuristic|Wireless|Backhaul (telecommunications)|Computer science|Latency (engineering)|Computer network|Resource allocation|Cluster analysis|Access network|Exponential growth|Distributed computing
+references:1611909216|1963591592|1972738071|1978645034|1997248076|2003892785|2009708702|2010630450|2014952121|2019678018|2051773775|2061680921|2112053513|2125560635|2186519857|2300813249|2330619054|2342920167|2343785519|2490054311|2561445405|2604174486|2963208336
+
+
+id:2948712218
+title:Autonomous Resource Provisioning and Resource Customization for Mixed Traffics in Virtualized Radio Access Network
+year:2019
+author information:[
+author name:Guolin Sun
+author organization:University of Electronic Science and Technology of China
+author id:2766564548|
+author name:Kun Xiong
+author organization:University of Electronic Science and Technology of China
+author id:2948584126|
+author name:Gordon Owusu Boateng
+author organization:University of Electronic Science and Technology of China
+author id:2905563927|
+author name:Daniel Ayepah-Mensah
+author organization:University of Electronic Science and Technology of China
+author id:2898650938|
+author name:Guisong Liu
+author organization:University of Electronic Science and Technology of China
+author id:2147832107|
+author name:Wei Jiang
+author organization:German Research Center for Artificial Intelligence-DFKI GmbH, Kaiserslautern, Germany
+author id:2600431363|
+]
+abstract:satisfaction|improves|stateoftheart|introduced|balance|network|diverse|refinement|case|algorithm|devised|utilization|quality|population|fail|delay|unused|shared|slices|access|scheme|customization|balances|systems|sudden|operating|validate|dqn|slicing|necessary|strategies|change|one|heuristic|satisfaction|simulations|considering|requirements|slices|autonomous|heterogeneous|learningbased|radio|transmission|coarse|dynamic|isolation|solutions|results|fifthgeneration|infrastructure|resource|widely|shapebased|proposed|improve|conducted|deep|show|back|systemlevel|mixed|investigate|allocates|network|common|qos|provides|reserve|provisioning|reinforcement|fairness|requirements|characteristics|satisfy|resources|also|versatile|proposed|performance|traffics|virtualized|various|service|user|providers|explored|applications
+venue name:IEEE Systems Journal
+venue id:95999327
+venue type:J
+document type:Journal
+study fields:Dynamic network analysis|Resource management|Population|Computer science|Heuristic (computer science)|Transmission delay|Computer network|Quality of service|Provisioning|Radio access network
+references:1567826944|1601067678|1966389375|2047116575|2055515382|2061680921|2076335243|2080555506|2082935935|2085740045|2121863487|2171215045|2186519857|2293358895|2485276051|2513616575|2580787790|2580865186|2597549781|2789911982|2793438365|2794049616|2963488732|2964273049
+
+
+id:2977237962
+title:Revised reinforcement learning based on anchor graph hashing for autonomous cell activation in cloud-RANs
+year:2020
+author information:[
+author name:Guolin Sun
+author organization:University of Electronic Science and Technology of China
+author id:2766564548|
+author name:Tong Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2975365963|
+author name:Gordon Owusu Boateng
+author organization:University of Electronic Science and Technology of China
+author id:2905563927|
+author name:Daniel Ayepah-Mensah
+author organization:University of Electronic Science and Technology of China
+author id:2898650938|
+author name:Guisong Liu
+author organization:University of Electronic Science and Technology of China
+author id:2147832107|
+author name:Wei Jiang
+author organization:German Research Center for Artificial Intelligence-DFKI GmbH, Kaiserslautern, Germany
+author id:2600431363|
+]
+abstract:extensive|processors|remote|number|problem|balance|model|band|recent|promising|energy|kmeans|based|compress|pool|distributed|active|received|schemes|propose|demand|intelligence|decisionmaking|networks|become|access|customized|achieve|formulate|networks|cell|rrhs|varying|low|imperative|compared|set|decision|abstract|forward|satisfaction|designing|simulations|framework|regarded|future|heads|minimum|moved|hashing|autonomous|radio|solution|dynamic|solutions|traffic|dsp|new|resource|conducted|anchorgraph|users|technologies|unit|signals|proposed|activation|deep|concept|show|learning|times|central|links|qos|reinforcement|mobility|physical|effectiveness|bbus|allocation|process|requirements|satisfy|mobile|automatic|consumption|schemes|generic|existing|artificial|cloud|markov|wireless|clustering|revised|user|base
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Wireless network|Computer science|Markov decision process|Quality of service|Resource allocation|Hash function|Cluster analysis|Distributed computing|Cloud computing|Reinforcement learning
+references:1552830313|1928152501|2021247827|2050726943|2068727372|2086229459|2087179032|2112545207|2121863487|2132647318|2137001001|2160808139|2161044775|2164179872|2186519857|2226827734|2261342007|2327455150|2344072545|2567561733|2580865186|2596760110|2764155154|2891146212|2949304156|2962850461|2963600139|2963917952
+
+
+id:2996609468
+title:Autonomous cell activation for energy saving in cloud-RANs based on dueling deep Q-network
+year:2019
+author information:[
+author name:Guolin Sun
+author organization:University of Electronic Science and Technology of China
+author id:2766564548|
+author name:Daniel Ayepah-Mensah
+author organization:University of Electronic Science and Technology of China
+author id:2898650938|
+author name:Anton Budkevich
+author organization:University of Electronic Science and Technology of China
+author id:2995111287|
+author name:Guisong Liu
+author organization:University of Electronic Science and Technology of China
+author id:2147832107|
+author name:Wei Jiang
+author organization:German Research Center for Artificial Intelligence-DFKI GmbH, Kaiserslautern, Germany
+author id:2600431363|
+]
+abstract:network|main|used|autonomous|radio|cloud|number|problem|balance|solution|communication|results|promising|traffic|energy|based|ensure|method|resource|arise|illustrate|active|schemes|develop|propose|demand|qnetwork|dueling|proposed|demand|hcran|solve|networks|activation|consumption|deep|access|customized|challenges|one|formulate|overcome|learning|cell|minimized|rrhs|network|qos|varying|reinforcement|physical|minimize|effectiveness|allocation|density|decision|markov|abstract|consumption|technology|satisfaction|help|heterogeneous|framework|simulation|crans|user|minimum
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Data mining|Telecommunications network|Computer science|Quality of service|Markov decision process|Resource allocation|Radio access network|Energy consumption|Reinforcement learning|Cloud computing|Distributed computing
+references:1928152501|2037153888|2049409654|2050726943|2061680921|2068727372|2070946155|2084779837|2086229459|2110519532|2132647318|2137001001|2138116332|2138583691|2161044775|2164179872|2186519857|2226827734|2251864938|2261342007|2327455150|2344072545|2482498454|2567561733|2741401130|2946662620|2963600139|2963917952
+
+
+id:3006375908
+title:Resource slicing and customization in RAN with dueling deep Q-Network
+year:2020
+author information:[
+author name:Guolin Sun
+author organization:University of Electronic Science and Technology of China
+author id:2766564548|
+author name:Kun Xiong
+author organization:University of Electronic Science and Technology of China
+author id:2948584126|
+author name:Gordon Owusu Boateng
+author organization:University of Electronic Science and Technology of China
+author id:2905563927|
+author name:Guisong Liu
+author organization:University of Electronic Science and Technology of China
+author id:2147832107|
+author name:Wei Jiang
+author organization:German Research Center for Artificial Intelligence-DFKI GmbH, Kaiserslautern, Germany
+author id:2600431363|
+]
+abstract:differentiated|stateoftheart|users|required|output|evaluation|serviceoriented|balance|slice|refinement|diverse|defined|order|algorithm|generation|based|expected|adjusts|isolation|utilization|coexist|population|provisions|provide|unique|completely|actions|slices|access|scheme|unifies|affect|networks|autonomously|two|customize|airinterface|balances|operators|sudden|indicate|mechanism|emerging|dqn|reward|slicing|preferences|resources|efficient|abstract|change|one|performed|services|satisfaction|future|challenging|requirements|agent|reveal|others|available|network|used|heterogeneous|operator|radio|coarse|bslevel|dynamic|different|potential|results|substrate|resource|solutions|proposes|conducted|weights|users|utilization|shapebased|dueling|achieving|proposed|provision|improve|support|since|stations|allow|deep|importance|function|update|learning|allocates|network|paper|common|provides|provisioning|reinforcement|ofdma|factor|allocated|requirements|allocation|satisfy|control|also|technology|performance|traffics|virtualized|various|activities|objectives|services|user|comprehensive|design|applications|base
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Population|Base station|Computer science|Temporal isolation among virtual machines|Computer network|Quality of service|Provisioning|Radio access network|Distributed computing|Reinforcement learning|Personalization
+references:996675875|1567826944|1601067678|1966389375|1978645034|2021247827|2040973061|2047116575|2055515382|2061680921|2074572671|2076335243|2082935935|2085740045|2115559954|2121863487|2166874862|2171215045|2173564293|2186519857|2293358895|2399630895|2485276051|2513616575|2518267668|2580787790|2580865186|2586394488|2597549781|2766448030|2786711917|2789911982|2793438365|2794049616|2911820391|2962754016
+
+
+id:1492216165
+title:A Modified Energy Detector for Random Signals in Gaussian Noise
+year:2015
+author information:[
+author name:Huayan Guo
+author organization:Peking University
+author id:2224928963|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:optimal|almost|simple|detectors|optimize|optimization|find|modified|weighted|signal|results|energy|exponent|new|similar|based|method|large|maximizing|probability|proposes|whose|propose|weighting|signals|proposed|letter|obtained|detector|parameters|numerical|achieve|another|show|proper|sum|error|detector|random|amplitude|noise|parameter|misdetection|power|factor|chen|decision|apply|recently|theory|deviation|also|structure|performance|conventional|variable|well|gaussian|operation
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Phase detector characteristic|Gaussian random field|Computer science|Noise (electronics)|Signal-to-noise ratio|Algorithm|Real-time computing|Noise spectral density|Detector|Gaussian noise|Additive white Gaussian noise
+references:1991839558|2059896646|2093993496|2095683621|2099974497|2107245788
+
+
+id:1824516168
+title:Spectrum redistribution for cognitive radios using discriminatory spectrum double auction
+year:2013
+author information:[
+author name:Luxi Lu
+author organization:Peking University
+author id:2111883130|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Lin Bai
+author organization:Swansea University
+author id:2942600329|
+author name:Chen Chen
+author organization:Peking University
+author id:2444457524|
+author name:Jianhua He
+author organization:Swansea University
+author id:2310317137|
+author name:Haige Xiang
+author organization:Peking University
+author id:2668039414|
+author name:Wu Luo
+author organization:Peking University
+author id:2683170573|
+]
+abstract:allowed|john|competition|users|supply|problem|reformation|wiley|price|pressures|algorithm|profits|using|efficiency|nearoptimal|considering|double|way|efficiently|demand|secondary|traditional|cognitive|spectrum|among|competitive|reusability|primary|study|access|spectrum|verify|spectrums|rational|policy|participants|licensed|efficient|heuristic|lead|clearing|framework|market|first|economic|compete|welldesigned|bidding|copyright|marketdriven|view|results|auctions|development|experimental|discriminatory|guaranteed|users|iterations|proposed|solve|demonstrate|framework|facilitate|according|point|auction|ltd|design|nonnegative|also|equilibrium
+venue name:Wireless Communications and Mobile Computing
+venue id:235346
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Combinatorial auction|Computer science|Generalized second-price auction|Auction theory|Vickrey–Clarke–Groves auction|Spectrum auction|Forward auction|Auction algorithm|Revenue equivalence|Distributed computing
+references:2035335961|2071707134|2114424829|2119991886|2125907855|2127218554|2127593435|2129791350|2144369278|2150131803|2154189866|2167574215|2170020038|2170991283|2171090088
+
+
+id:1999059951
+title:Adaptive Spectrum Sensing/Transmission Scheduling for Cognitive Radio
+year:2012
+author information:[
+author name:Luxi Lu
+author organization:Peking University
+author id:2229441297|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Haige Xiang
+author organization:Peking University
+author id:2668039414|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:superiority|senses|channel|transmission|adaptive|poor|scheduling|verify|results|policy|algorithm|process|determine|markov|nearoptimal|modeled|analysis|propose|secondary|condition|proposed|simulation|spectrum|algorithm|policy|demonstrate|user
+venue name:IEICE Transactions on Communications
+venue id:2493627025
+venue type:J
+document type:Journal
+study fields:Transmission (mechanics)|Markov process|Computer science|Computer network|Communication channel|Real-time computing|Transmission scheduling|Adaptive sensing|Cognitive radio
+references:1971614180|2030287711|2084436032|2122812757|2125935232|2142029851|2169762591
+
+
+id:2048217243
+title:Optimal Power Allocation of Cognitive Radio with Incomplete Channel State Information
+year:2011
+author information:[
+author name:Luxi Lu
+author organization:Peking University
+author id:2229441297|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Haige Xiang
+author organization:Peking University
+author id:2668039414|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:optimal|channel|available|constraints|loss|incomplete|transmission|consider|state|different|results|schemes|sharing|propose|fading|secondary|feasibility|cognitive|proposed|spectrum|fixed|interference|evaluate|primary|instantaneous|effective|scenario|rate|verify|power|rayleigh|allocation|practical|user|simulation|due|information|user|channels
+venue name:IEICE Transactions on Communications
+venue id:2493627025
+venue type:J
+document type:Journal
+study fields:Telecommunications|Rayleigh fading|Data transmission|Computer science|Software-defined radio|Computer network|Communication channel|Electronic engineering|Interference (wave propagation)|Effective transmission rate|Channel state information|Cognitive radio
+references:2105193567|2106295228|2107689535|2117691981|2127593435|2149404602|2161209335|2169279037|2171501928
+
+
+id:2087977793
+title:Optimal Feedback Bits Allocation for Two-Cell Massive MIMO Downlink
+year:2013
+author information:[
+author name:Guozhen Xu
+author organization:Peking University
+author id:2637781276|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:An Liu
+author organization:Hong Kong University of Sci.  Technol
+author id:2296103407|
+author name:Haige Xiang
+author organization:Peking University
+author id:2668039414|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:optimal|channel|allocation|dcsi|feedback|maximize|number|path|interference|massive|mimo|state|per|bits|sumrate|system|intracell|multipleinput|study|numerical|achieve|affect|direct|cell|tradeoff|bs|link|key|validate|twocell|multiuser|massive|information|powers|coordinated|data|theoretical|downlink|used|acquires|high|transmission|solution|consider|results|quantization|inter|obtain|asymptotically|attractive|antennas|insights|goes|ccsi|employing|users|system|zeroforcing|tackle|support|parameters|errors|analysis|link|reveals|total|rate|station|csi|since|closedform|multipleoutput|allocation|limited|cross|transmit|control|ccsi|beamforming|infinity|user|base
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Base station|Beamforming|Computer science|Control theory|MIMO|Electronic engineering|Interference (wave propagation)|Quantization (signal processing)|Asymptotically optimal algorithm|Channel state information|Telecommunications link
+references:1974552031|2074120933|2111673250|2115543075|2124704355|2128136234|2130521103|2131350052|2147601077|2154466855
+
+
+id:2338333133
+title:Energy-Efficient Downlink Transmission for Multicell Massive DAS With Pilot Contamination
+year:2017
+author information:[
+author name:Jun Zuo
+author organization:Peking University
+author id:2341677730|
+author name:Jun Zhang
+author organization:Nanjing University of Post and Telecommunications
+author id:2666253997|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:antenna|employ|optimal|cas|channel|focus|rrh|remote|multicell|improved|number|problem|model|presence|guide|energy|efficiency|colocated|large|considering|impact|distributed||system|provide|contrast|average|study|circuit|works|antennas|achieve|transmission|matrix|rrhs|derive|systems|power|deployment|efficient|clustered|backhauling|massive|das|maximum|heads|ratio|downlink|radio|negligible|solution|find|pc|consider|ee|given|antennas|insights|maximizing|expressions|respect|users|simplified|parameters|useful|backhaul|needed|dass|random|rate|applying|closedform|pilot|practical|transmit|consumption|contamination|existing|user
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Transmitter power output|Backhaul (telecommunications)|Expression (mathematics)|Computer science|Efficient energy use|Computer network|MIMO|Electronic engineering|Distributed antenna system|Energy consumption|Telecommunications link
+references:1507824477|1602100595|1671114372|1969231017|1971443733|1974552031|1987089531|1998579408|2016576276|2017685111|2023535408|2032316377|2038472433|2047468088|2051048474|2054692642|2059245681|2070887824|2076916716|2080872533|2084304524|2092256136|2096171043|2114731473|2114945762|2121315337|2128513990|2131785353|2132048364|2134916061|2136644341|2141682101|2147056723|2147601077|2152999056|2291311362|2293606211|2538040640
+
+
+id:2374986748
+title:Energy Efficient User Association for Cloud Radio Access Networks
+year:2016
+author information:[
+author name:Jun Zuo
+author organization:Peking University
+author id:2341677730|
+author name:Jun Zhang
+author organization:Nanjing University of Post and Telecommunications
+author id:2666253997|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:rrh|equivalent|named|considered|recognized|rrh|stateoftheart|remote|three|nearestbased|number|problem|balance|mimo|energy|algorithm|respectively|efficiency|impact|baseline|propose|provide|comparisons|networks|algorithm|inefficient|multipleinput|algorithms|access|turned|achieve|deterministic|association|two|rrhs|gain|sleep|mcrua|power|key|fronthaul|expression|nbua|associates|user|clustered|one|massive|efficiencybased|associated|multicandidate|empowered|first|spectral|large|achieves|serve|nearest|good|radio|links|consider|results|fifthgeneration|obtain|antennas|significant|users|technologies|proposed|antennae|higher|show|singlecandidate|network|head|numerical|mode|multipleoutput|mobile|multiple|consumption|allowing|performance|cloud|user
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Mobile computing|Remote radio head|Algorithm design|Computer science|Efficient energy use|Computer network|MIMO|Sleep mode|Radio access network|Distributed computing|Cloud computing
+references:1507824477|1546721752|1547154698|1602100595|1611058640|1635873181|1758406427|1969231017|1971443733|1974552031|1987735645|1995920361|1998579408|2004613568|2023535408|2047468088|2051048474|2052917799|2054692642|2076916716|2080872533|2084304524|2092256136|2096171043|2121315337|2124568462|2128513990|2131785353|2132048364|2132647318|2141682101|2142238976|2142943005|2147056723|2149196841|2198406192|2256188983|2285237421|2291311362|2338333133|2538040640
+
+
+id:2466851089
+title:Energy Efficient Downlink Transmission Schemes for Multi-Cell Massive Distributed Antenna Systems
+year:2016
+author information:[
+author name:Jun Zuo
+author organization:Peking University
+author id:2341677730|
+author name:Jun Zhang
+author organization:Beijing University of Posts  Telecommun
+author id:2666253997|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:antenna|employ|rrh|focus|rrh|remote|number|uplink|model|energy|algorithm|based|efficiency|colocated|considering|distributed|schemes|baseline|jointly|contrast|consideration|theory|circuit|works|scheme|association|matrix|cell|two|derive|systems|power|takes|singlerrh|one|backhauling|massive|able|associated|das|heads|first|large|downlink|achieves|nearest|associate|negligible|radio|second|investigated|transmission|given|new|simulations|antennas|proposed|especially|asymptotic|improve|attached|full|higher|backhaul|multicell|show|random|applying|pilot|transmit|consumption|efficiency|existing|achieved|well|user
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Association scheme|Transmitter power output|Backhaul (telecommunications)|Computer science|Efficient energy use|Signal-to-noise ratio|Computer network|Electronic engineering|Interference (wave propagation)|Random matrix|Telecommunications link
+references:1546721752|1971443733|1987089531|1995920361|1998579408|2032316377|2047468088|2054692642|2070887824|2076916716|2084304524|2114731473|2128513990|2131785353|2147056723
+
+
+id:2509202454
+title:Multicell Multiuser Massive MIMO Transmission With Downlink Training and Pilot Contamination Precoding
+year:2016
+author information:[
+author name:Jun Zuo
+author organization:Peking University
+author id:2341677730|
+author name:Jun Zhang
+author organization:Nanjing University of Post and Telecommunications
+author id:2666253997|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:optimal|channel|focus|multicell|without|improved|number|uplink|state|per|case|cooperation|efficiency|still|large|method|propose|bss|analyze|singlecell|degrades|scheme|cell|derive|bt|systems|scenario|expression|mitigate|scheme|small|confirm|massive|information|spectral|perfect|downlink|approximate|achieves|precoding|transmission|precoding|find|btpcp|results|new|maximumratio|comparison|antennas|finite|estimation|proposed|pcp|higher|show|training|gap|station|pilots|effectiveness|closedform|pilot|practical|limited|contamination|performance|lengths|simulation|conventional|due|contamination|achieved|beamforming|user|base
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Beamforming|Base station|Computer science|MIMO|Communication channel|Electronic engineering|Spectral efficiency|Precoding|Channel state information|Telecommunications link
+references:1602100595|1654832238|1966542038|1971443733|1974750125|1983750266|1998579408|1999833500|2013546591|2017104340|2023535408|2027266580|2036223844|2036814222|2051048474|2058830917|2059245681|2062874479|2084304524|2084776441|2092256136|2096171043|2105118201|2111113050|2111673250|2114058115|2114945762|2121315337|2128513990|2131785353|2132048364|2136644341|2138321394|2141682101|2142238976|2145013959|2147601077|2152999056|2163676306|2171342189|2171387626|2291311362|2585090437|2912369344
+
+
+id:2556436560
+title:Soft Combination for Cooperative Spectrum Sensing in Fading Channels
+year:2017
+author information:[
+author name:Huayan Guo
+author organization:Peking University
+author id:2224928963|
+author name:Nima Reisi
+author organization:Azad University
+author id:1351301804|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:glf|optimal|functions|vary|simulation|channel|changing|gains|users|generalized|problem|weightedenergy|integrals|negligible|energy|lower|distributed|slowly|propose|cooperating|cognitive|likelihood|spectrum|intervals|networks|interval|assumed|average|study|independent|overcome|intractable|two|derive|known|low|snr|smallscale|based|linear|observation|one|nature|combining|suggest|comparator|gamma|novel|ratio|constant|reveal|almost|alr|detectors|degradation|radio|implemented|different|regime|results|bayesian|modeled|applicable|includes|fading|proposed|especially|energybased|assume|largescale|suboptimal|detector|glfbased|mog|complexity|detector|precisely|mixture|sensing|fading|outperform|practical|also|nakagami|differ|performance|conventional|due|independently|formula
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Telecommunications|Computer science|Fading|Signal-to-noise ratio|Communication channel|Algorithm|Shadow mapping|Nakagami distribution|Combining rules|Detector|Distributed computing|Cognitive radio
+references:1492216165|1818073027|1969720927|1971614180|1979348504|1981003762|1982436641|1989192034|1991951515|2012622741|2014274742|2018240663|2030500923|2031211320|2034377106|2052284111|2057377638|2057396481|2062035544|2063322879|2067135770|2069596238|2074210308|2079648455|2082409180|2086763360|2089050596|2095683621|2101840010|2106483076|2107441100|2111876376|2112576007|2115400030|2119058356|2119137700|2127040151|2135738604|2140962647|2146315101|2152447715|2153804803|2157000663|2158284593|2160473595|2165202277|2166659560|2321405708|2462840709|2494036272
+
+
+id:2558921515
+title:Fast proximal gradient algorithm for single-group multicast beamforming
+year:2016
+author information:[
+author name:Longfei Zhou
+author organization:Peking University
+author id:2562891332|
+author name:Xiaomin Zhou
+author organization:No.76110 Unit of PLA, Hengyang 421000, P.R. China
+author id:2578985581|
+author name:Jianwei Chen
+author organization:Peking University
+author id:2710409150|
+author name:Wei Jiang
+author organization:Peking University
+author id:2648323362|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:projects|tradeoffs|fair|stateoftheart|objective|problem|optimization|terms|gradientbased|nonsmoothness|algorithm|based|fairly|standards|set|currrent|boost|broadcast|nphard|role|iterates|methods|performancecomplexity|convergence|low|maxmin|gradient|constrained|karushkuhntucker|multimedia|massive|fast|regarded|multicasting|associated|proximal|constraint|exploit|minimum|ratio|wireless|nonconvexity|transmission|solution|time|established|satisfactory|throughput|communication|guarantees|results|computational|offers|ensure|solutions|kind|proposes|difficult|iterative|particular|important|objective|fpg|support|convergence|complexity|show|back|updates|point|network|differential|effective|nonsmooth|paper|along|quality|design|iteration|surrogate|direction|plays|original|previous|nature|signaltonoise|implementation|service|also|way|multicast|outperforms|better|existing|performance|form|simulation|due|online|wireless|services|beamforming|existing
+venue name:International Conference on Wireless Communications and Signal Processing
+venue id:2622754298
+venue type:C
+document type:Conference
+study fields:Approximation algorithm|Beamforming|Mathematical optimization|Wireless|Computer science|Iterative method|Algorithm|Rate of convergence|Multicast|Throughput|Karush–Kuhn–Tucker conditions
+references:1555668432|1967236223|1967449502|1972010412|1981044874|2009702064|2031643974|2119536915|2124450277|2128513990|2142557773|2169363112|2243044614
+
+
+id:2601160662
+title:Linear Soft Combination for Cooperative Spectrum Sensing in Cognitive Radio Networks
+year:2017
+author information:[
+author name:Huayan Guo
+author organization:Peking University
+author id:2224928963|
+author name:Wei Jiang
+author organization:Peking University
+author id:2689920241|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:optimal|subject|upper|three|radio|likelihoodratio|limit|block|investigated|combination|simulations|test|probability|methods|propose|fading|cooperative|cognitive|proposed|slow|spectrum|energybased|networks|requires|study|nearly|show|rule|local|statistics|alarm|minimize|sensing|fading|detection|practical|linear|missed|false|verified|linear|outperforms|performance|fast|conventional|variance|mean|typical|strategy|novel
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Linear combination|False alarm|Computer science|Fading|Algorithm|Real-time computing|Fading distribution|Statistics|Statistical hypothesis testing|Cognitive radio
+references:1415072653|2030500923|2031211320|2052549846|2067135770|2082409180|2112576007|2146315101|2165202277|2172139273|2340718617|2556436560
+
+
+id:2606348571
+title:Coordinated Multicell Multicast Beamforming Based on Manifold Optimization
+year:2017
+author information:[
+author name:Longfei Zhou
+author organization:Peking University
+author id:2562891332|
+author name:Le Zheng
+author organization:Columbia University
+author id:2419990293|
+author name:Xiaodong Wang
+author organization:Columbia University
+author id:2160923106|
+author name:Wei Jiang
+author organization:Peking University
+author id:2648323362|
+author name:Wu Luo
+author organization:Peking University
+author id:2127544316|
+]
+abstract:exponential|constraints|downlink|achieves|dcprogrammingbased|multicell|constraints|objective|maximize|conjugate|problem|optimization|function|manifold|smoothing|algorithm|goal|individual|method|nearoptimal|fractional|converge|guaranteed|nextgeneration|propose|users|afterwards|proposed|cellular|geometric|considered|support|numerical|parametric|experiments|show|sdpbased|networks|distribution|content|multicast|adaptive|design|station|highrate|power|signaltointerferenceplusnoise|key|performance|dinkelbachtype|reformulate|gradient|riemannian|technology|multicast|outperforms|lowcomplexity|existing|form|wireless|combined|beamforming|services|exploit|minimum|properties|program|coordinated|ratio|base
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Exponential smoothing|Conjugate gradient method|Beamforming|Base station|Mathematical optimization|Computer science|Parametric statistics|Multicast|Manifold|Telecommunications link
+references:1529594166|1967236223|1981044874|2006593332|2029650406|2066348441|2082805096|2169363112|2530114754
+
+
+id:2052672253
+title:Hidden annotation for image retrieval with long-term relevance feedback learning
+year:2005
+author information:[
+author name:Wei Jiang
+author organization:Tsinghua University
+author id:2643038919|
+author name:Guihua Er
+author organization:Tsinghua University
+author id:2132442338|
+author name:Qionghai Dai
+author organization:University
+author id:2084683202|
+author name:Jinwei Gu
+author organization:Tsinghua University
+author id:2215949004|
+]
+abstract:small|select|improves|accuracy|incorporate|multilayer|research|feedback|number|ambiguity|problem|retrieval|incorporated|hidden|keywordbased|image|efficiency|semisupervised|images|issue|work|avoids|underlying|propose|relevance|important|contains|extract|concepts|semantic|systems|images|hidden|automatically|annotators|learning|manual|two|representation|burden|candidate|ha|cbir|annotation|alleviates|parts|built|learned|increase|contentbased|annotation|ha|longterm
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Semi-supervised learning|Relevance feedback|Computer science|Image retrieval|Artificial intelligence|Ambiguity|Annotation|Automatic image annotation|Information retrieval|Pattern recognition|Manual annotation|Machine learning|Content-based image retrieval
+references:82591267|1496529538|1531325775|1588729348|1971281888|1973693867|1978850509|1994880410|2011670903|2103369961|2130660124|2138079527|2139823104|2142297230|2148433556|2153134545|2162882216
+
+
+id:2108629388
+title:Multiple boosting SVM active learning for image retrieval
+year:2004
+author information:[
+author name:Wei Jiang
+author organization:Tsinghua University
+author id:2643038919|
+author name:Guihua Er
+author organization:Tsinghua University
+author id:2132442338|
+author name:Qionghai Dai
+author organization:University
+author id:2084683202|
+]
+abstract:small|improves|alleviate|without|feedback|loss|problem|retrieval|incorporated|classifiers|classifier|satisfactory|combine|image|using|images|method|boosting|difficult|sequentially|classification|relevance|difficulty|size|proposed|improve|leaning|show|ensemble|svm|two|experiments|feature|parallel|viewed|cbir|get|result|together|performance|process|subspace|within|one|makes|multiple|merged|sample|efficiency|contentbased|component|performance
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Automatic image annotation|Relevance feedback|Pattern recognition|Computer science|Random subspace method|Support vector machine|Image retrieval|Boosting (machine learning)|Artificial intelligence|Classifier (linguistics)|Machine learning|Visual Word
+references:1973693867|2053596628|2112076978|2138079527|2145721853|2148980227|2155099190
+
+
+id:2153605240
+title:Similarity-based online feature selection in content-based image retrieval
+year:2006
+author information:[
+author name:Wei Jiang
+author organization:Tsinghua University
+author id:2643038919|
+author name:Guihua Er
+author organization:Tsinghua University
+author id:2132442338|
+author name:Qionghai Dai
+author organization:University
+author id:2084683202|
+author name:Jinwei Gu
+author organization:Tsinghua University
+author id:2215949004|
+]
+abstract:extensive|psychological|select|asymmetry|three|feedback|problem|contributions|retrieval|property|visual|meeting|algorithm|based|images|method|gap|propose|relevance|saving|system|concepts|selection|size|comparisons|requirement|processing|improvement|bridge|realvalued|semantic|criterion|images|uniform|current|feature|positive|many|highlevel|contentbased|fast|sets|regionbased|describe|hinders|novel|features|small|manner|mainly|space|features|areas|time|implemented|classifiers|representative|selected|combine|image|including|last|boosting|query|intrinsic|system|important|improving|proposed|improve|lowlevel|retrieve|critical|concept|show|learning|training|investigate|representation|effective|negative|similarity|gap|cbir|fuzzy|effectiveness|process|constructed|apply|really|performance|response|online|suitable
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Relevance feedback|Feature selection|Computer science|Image retrieval|Artificial intelligence|Computer vision|Feature vector|Pattern recognition|Feature (computer vision)|Feature extraction|Machine learning|Content-based image retrieval|Visual Word
+references:1524408959|1586847502|1982948355|1988445395|2022692239|2040895929|2097005463|2098749147|2101498401|2104052971|2110121428|2112076978|2114758632|2115729625|2116801843|2121052776|2127353419|2130660124|2132204530|2133491976|2133604244|2135705692|2138079527|2141164413|2145721853|2296349981|2425246132
+
+
+id:2233977894
+title:Robust subspace segmentation via nonconvex low rank representation
+year:2016
+author information:[
+author name:Wei Jiang
+author organization:Tsinghua University
+author id:2717821964|
+author name:Jing Liu
+author organization:Beijing Normal University
+author id:2526276132|
+author name:Heng Qi
+author organization:Dalian University of Technol
+author id:2131298986|
+author name:Qionghai Dai
+author organization:University
+author id:2084683202|
+]
+abstract:extensive|introduces|convergence|objective|occlusions|problem|formulation|rank|modelthe|model|proof|algorithm|successfully|using|method|robustness|underlying|propose|reweighed|subspaces|traditional|provide|utilize|contaminated|methods|penalize|experiments|datasets|low|noise|noise|segmentation|robust|explore|efficient|data|noisy|face|proximal|iteratively|novel|data|theoretical|approximate|clearly|lrr|ky|norm|spite|function|pknorm|unlike|directly|corruptions|rigorous|proposed|minimization|proposedwe|demonstrate|nonconvex|solving|applied|representation|nuclear|derived|enhance|subspace|recover|determine|illumination|followed|structure|better|fan
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Discrete mathematics|Subspace segmentation|Mathematical optimization|Nuclear norm minimization|Linear subspace|Robustness (computer science)|Matrix norm|Rank minimization|Mathematics
+references:19842529|38891395|79405465|200673309|1533128638|1904464160|1950520880|1968555645|1969698720|1997201895|2003217181|2009234819|2009702064|2014237985|2028581327|2048023990|2069959554|2075547019|2088025572|2100549954|2101105382|2105706220|2107799335|2118154608|2121947440|2124940450|2129812935|2131628350|2146610201|2147021384|2150414161|2154872931|2160915541|2164931791|2167144347|2171837816|2177347332|2212591584|2950753323|2952066970
+
+
+id:2592516688
+title:Subspace Learning Based Low-Rank Representation
+year:2016
+author information:[
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Xiaodong Liu
+author organization:Dalian University
+author id:2594497518|
+author name:Zhixun Su
+author organization:Dalian University of Technol
+author id:2778131128|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Jiangxin Dong
+author organization:Dalian University of Technology
+author id:2739504569|
+]
+abstract:extensive|recognition|experimental|representation|nonlinear|problem|lowrank|adding|subspace|broad|manifold|method|usually|consider|results|case|based|thus|method|segmentation|past|spectralclustering|conducted|handle|extraction|propose|benefit|achieving|topic|simultaneously|decades|favoring|applied|methods|penalty|learning|hot|representation|general|similarity|segmentation|projection|effectiveness|subspace|process|original|linear|learn|learned|arouse|also|confirm|subspace|clustering|suitable|space|extending
+venue name:Asian Conference on Computer Vision
+venue id:1174644639
+venue type:C
+document type:Conference
+study fields:Subspace segmentation|Nonlinear system|Subspace topology|Pattern recognition|Computer science|Random subspace method|Projection (linear algebra)|Artificial intelligence|Cluster analysis|Principal component analysis|Manifold
+references:157583248|1600471557|1736339626|1891936097|1928812244|1993962865|1997201895|2041657594|2052300369|2052311585|2054199929|2065220650|2066986622|2088025572|2097341236|2102002080|2103972604|2112074816|2121647436|2121947440|2125742596|2125874614|2129812935|2136040699|2139054653|2139269942|2144093206|2145152441|2160616617|2160915541|2162813111|2162915993|2177347332|2195250169|2294644361|2295046650
+
+
+id:2726537509
+title:Nonnegative matrix factorization by joint locality-constrained and ℓ 
+year:2018
+author information:[
+author name:Ling Xing
+author organization:Henan University of science and technology
+author id:2731501862|
+author name:Hao Dong
+author organization:Liaoning Normal University
+author id:2730075931|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2731808766|
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2732239155|
+]
+abstract:called|stateoftheart|constraints|localityconstrained|matrix|problem|method|locality|nonsparse|sparsity|methods|accurately|joint|benchmark|nonnegative|simultaneously|datasets|matrix|representations|experiments|local|result|robust|address|reformulate|efficient|could|nonnegative|factorization|l|face|unified|constraint|features|sparseness|use|dominate|updating|presented|theoretically|results|guaranteed|obtain|coordinate|comparison|widely|relevant|sparse|techniques|coefficient|demonstrate|present|applied|convergence|rule|row|designed|selecting|effectiveness|nonnegativity|perform|factorization|recently|existing|well
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Nonnegative matrix|Computer science|Eulers factorization method|Incomplete LU factorization|Artificial intelligence|Mathematical optimization|Coefficient matrix|Pattern recognition|Incomplete Cholesky factorization|Matrix decomposition|Algorithm|Non-negative matrix factorization|Factorization
+references:108615132|211921589|1749992802|2009501510|2013029404|2024687090|2027922120|2039235422|2070670538|2081264591|2097703723|2104819583|2108024382|2108119513|2116216716|2121647436|2134563198|2139596361|2140245639|2163939328|2171837816|2233977894|2243778830|2246035736|2400455482|2579157225|2605531266
+
+
+id:2884029189
+title:Robust subspace learning-based low-rank representation for manifold clustering
+year:2019
+author information:[
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Zhixun Su
+author organization:Dalian University of Technol
+author id:2103684085|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Jie Zhang
+author organization:Beijing Normal University
+author id:2651961336|
+author name:Xiyan Sun
+author organization:Guilin University of electronic technology
+author id:2883460080|
+author name:Xiaonan Luo
+author organization:Guilin University of Electronic Technology
+author id:2766254556|
+]
+abstract:extensive|experimental|representation|nonlinear|extracted|problem|broad|manifold|model|usually|selfrepresentation|recent|case|using|method|robustness|handle|extraction|benefit|years|attracted|spectral|clusteringbased|affinity|favoring|methods|viewed|robust|yielding|linear
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Data point|Spectral clustering|Pattern recognition|Subspace topology|Projection (linear algebra)|Robustness (computer science)|Artificial intelligence|Cluster analysis|Machine learning|Feature learning|Mathematics|Manifold
+references:79405465|157583248|1533128638|1600471557|1736339626|1891936097|1908089688|1989550328|1993962865|1996800636|1997201895|2003217181|2006793117|2009501510|2053008628|2054199929|2056935845|2065220650|2088025572|2097341236|2103972604|2121947440|2125742596|2125874614|2136040699|2139054653|2145152441|2146610201|2156686129|2160616617|2160915541|2162915993|2166049352|2177347332|2195250169|2285796044|2294644361|2295046650|2318145034|2372584135|2518500747|2592516688|2609983914|2744344955|2790153128|2963764968
+
+
+id:2886688054
+title:Robust Semisupervised Nonnegative Local Coordinate Factorization for Data Representation
+year:2018
+author information:[
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Qian Lv
+author organization:Liaoning Normal University
+author id:2887509524|
+author name:Chenggang Yan
+author organization:University Hangzhou
+author id:2886179032|
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Jie Zhang
+author organization:Beijing Normal University
+author id:2651961336|
+]
+abstract:called|convergence|insensitive|stateoftheart|loss|problem|proof|strict|algorithm|issue|method|gene|outlier|methods|labels|deduced|utilize|processing|integrating|study|methods|formulate|experiments|pattern|least|guarantee|global|spline|datasets|matrix|local|term|indicate|many|compared|robust|problem|efficient|nmf|optimum|nonnegative|intellectual|many|factorization|sample|several|face|discriminative|unified|clustering|information|constraint|exploit|novel|standard|data|compact|use|semisupervised|multiplicative|clearly|challenging|points|norm|updating|prior|function|noises|discriminability|consistencies|approximation|coordinate|conducted|develop|square|proposed|techniques|solve|framework|representation|effective|obtaining|make|fails|enhance|noises|representations|label|followed|existing|regression|arises|uses
+venue name:Complexity
+venue id:207319443
+venue type:J
+document type:Journal
+study fields:External Data Representation|Multiplicative function|Pattern recognition|Matrix decomposition|Outlier|Factorization|Non-negative matrix factorization|Artificial intelligence|Cluster analysis|Discriminative model|Machine learning|Mathematics
+references:1547060653|1968178977|1969198379|1988881859|2004025832|2022631295|2024687090|2039235422|2046670074|2070127246|2075421061|2095411731|2097012130|2104819583|2104990616|2108119513|2121947440|2142584058|2142621404|2147274519|2168103112|2258211000|2291859485|2533434078|2589952946|2762383441
+
+
+id:2900035474
+title:Robust Local Learning and Discriminative Concept Factorization for Data Representation
+year:2018
+author information:[
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2731808766|
+author name:Xiaoting Feng
+author organization:Liaoning Normal University
+author id:2899800413|
+author name:Tingting Ma
+author organization:Liaoning Normal University
+author id:2900219515|
+author name:Ling Xing
+author organization:Henan University of science and technology
+author id:2750657170|
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2732239155|
+]
+abstract:optimal|results|called|rlldcf|representation|objective|loss|realworld|reflect|optimization|algorithm|method|thus|topology|outlier|robustness|rlldcf|sensitive|yielded|propose|exist|fixed|validating|squared|numerous|experiments|priori|datasets|matrix|distribution|local|exploits|proved|known|normbased|indicate|cf|robust|linear|shortcomings|distribution
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:External Data Representation|Computer science|Matrix decomposition|Algorithm|Outlier|Local regression|Robustness (computer science)|Factorization|Cluster analysis|Discriminative model|Distributed computing
+references:20696413|80444144|1547060653|1644402181|1979089718|2004025832|2024687090|2036285176|2039235422|2046670074|2070670538|2097308346|2108024382|2108119513|2115115103|2121647436|2134563198|2136635436|2139596361|2140245639|2233977894|2253163421|2258211000|2291859485|2342866759|2513833254|2533434078|2547411571|2553522123|2578231867|2583956757|2586477567|2589952946|2607323999|2734973850|2735611519|2760998155|2762383441|2763874937|2767993539|2772756366
+
+
+id:2902414035
+title:Superpixels for large dataset subspace clustering
+year:2019
+author information:[
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Zhixun Su
+author organization:Dalian University of Technol
+author id:2103684085|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Jie Zhang
+author organization:Beijing Normal University
+author id:2651961336|
+]
+abstract:numerous|dataset|stateoftheart|number|usually|selfrepresentation|recent|using|large|past|inspired|propose|superpixels|years|provide|extracts|decades|clusteringbased|affinity|methods|achieve|two|superpixels|computer|unbearable|popular|enough|superpixelbased|extent|computation|puts|single|confirm|extensively|information|first|spectral|data|research|points|emphasis|consider|results|group|image|kind|experimental|points|improve|since|idea|provided|speed|due|dramatically|considers|subspace|studied|also|although|point|performance|clustering|time|strategy|applications
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Data point|Spectral clustering|Subspace clustering|Pattern recognition|Image segmentation|Artificial intelligence|Mathematics|Machine learning|Computation
+references:79405465|1574818812|1736339626|1938929646|1950520880|1989550328|1993962865|1997201895|1999478155|2001266526|2003217181|2040329636|2065220650|2104125540|2118154608|2118246710|2121947440|2124386111|2125742596|2125874614|2126017757|2139054653|2144902590|2165916500|2195250169|2285796044|2294644361|2592516688|2794351147|2794357878|2884029189|2951085447|2963840432
+
+
+id:2904284280
+title:Subspace segmentation with a large number of subspaces using infinity norm minimization
+year:2019
+author information:[
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Zhixun Su
+author organization:Dalian University of Technol
+author id:2103684085|
+author name:Yang Liu
+author organization:Lanzhou University
+author id:2903960596|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Jie Zhang
+author organization:Beijing Normal University
+author id:2651961336|
+author name:Xiyan Sun
+author organization:Guilin University of electronic technology
+author id:2883460080|
+]
+abstract:smaller|results|dataset|number|realworld|problem|experiment|complex|usually|based|using|large|outlier|propose|subspaces|field|attracted|difference|methods|noise|segmentation|spectralclustering|blockdiagonal|contain|address|robust|abstract|could|nonzero|elements|infinity|first|almost|influence|norm|quite|method|results|segmentation|kind|lsn|experimental|often|intrinsic|affected|graph|minimization|demonstrate|show|graphs|considerable|common|negatively|applications|mentioned|effectiveness|subspace|previous|recently|blocks|bound|offdiagonal|control|structure|contamination|performance|approximately|due|attention|achieved|diagonal
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Diagonal|Uniform norm|Subspace segmentation|Pattern recognition|Subspace topology|Segmentation|Outlier|Linear subspace|Minification|Artificial intelligence|Mathematics
+references:19756496|79405465|929087689|1736339626|1878405293|1908089688|1988700013|1989550328|1993962865|1997201895|2003217181|2006793117|2009501510|2016163491|2027982384|2052311585|2054199929|2056935845|2065220650|2071631699|2088025572|2093492509|2097341236|2103268563|2118120419|2121947440|2125874614|2137291015|2139054653|2145152441|2152461258|2160915541|2162915993|2165916500|2195250169|2258211000|2262946425|2269947760|2294644361|2347775724|2372584135|2464360003|2512527456|2532206188|2592516688|2594128839|2615329755|2736399023|2886216085|2913535645|2944309706|2950753323|2951085447
+
+
+id:2946433006
+title:Bayesian rank penalization
+year:2019
+author information:[
+author name:Kewei Tang
+author organization:Liaoning Normal University
+author id:2140996135|
+author name:Zhixun Su
+author organization:Dalian University of Technol
+author id:2778131128|
+author name:Jie Zhang
+author organization:Beijing Normal University
+author id:2651961336|
+author name:Lihong Cui
+author organization:Liaoning Normal University
+author id:2946521783|
+author name:Wei Jiang
+author organization:Anqing Normal University
+author id:2592957739|
+author name:Xiaonan Luo
+author organization:Guilin University of Electronic Technology
+author id:2989299236|
+author name:Xiyan Sun
+author organization:Guilin University of electronic technology
+author id:2883460080|
+]
+abstract:illustrating|lrr|data|simulation|approach|without|generalized|optimization|lowrank|estimate|rank|limitations|using|including|tuning|usual|double|bayesian|sampling|analysis|monte|benchmark|lack|vision|hybrid|minimization|rely|rpca|potentially|penalization|purpose|methods|overcome|learning|representations|uncertainty|point|principal|characterizing|general|computer|relies|parameter|gap|posterior|key|algorithms|robust|choice|address|abstract|gibbs|rank|also|carlo|approaches|positive|many|produce|computation|pareto|component|face|geodesic|performance|currently|assess|difficulties|machine|sets
+venue name:Neural Networks
+venue id:123019304
+venue type:J
+document type:Journal
+study fields:Point estimation|Data set|Monte Carlo method|Robust principal component analysis|Artificial intelligence|Mathematics|Machine learning|Gibbs sampling|Pareto principle|Computation|Bayesian probability
+references:79405465|1510982829|1648445109|1974042113|1996800636|1997201895|1999174140|2022106621|2037549374|2069959554|2118154608|2118550318|2121947440|2125742596|2125874614|2129812935|2141159272|2146571341|2150489380|2156686129|2162368482|2171170856|2294644361|2545783767|2906621894|2963762195
+
+
+id:1439842103
+title:Extreme learning machine based transfer learning for data classification
+year:2016
+author information:[
+author name:Xiaodong Li
+author organization:Hangzhou Dianzi University
+author id:2346958916|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+]
+abstract:networks|discard|accurate|called|benchmarking|adaptation|desirable|feedforward|number|would|model|algorithm|based|using|method|large|old|methods|tlelm|classification|samples|traditional|tiny|domain|defects|transfer|reality|algorithm|much|methods|least|tlelm|indicate|inherits|highquality|learn|kernel|one|makes|singlehidden|data|layer|model|advantages|machine|cannot|comparable|novel|small|data|elm|source|relabeled|method|tag|different|results|extreme|waste|new|test|experimental|labeled|often|plenty|respect|task|transfer|proposed|solve|knowledge|problems|show|learning|training|simpler|related|effectiveness|amount|aims|target|existing|superior|performance|conventional|build|uses
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Online machine learning|Data mining|Semi-supervised learning|Multi-task learning|Stability (learning theory)|Instance-based learning|Active learning (machine learning)|Extreme learning machine|Computer science|Wake-sleep algorithm|Artificial intelligence|Machine learning
+references:1490954610|1596717185|1971816655|1972812972|1973627122|1993717606|2002016471|2002728347|2026131661|2028759731|2039708501|2040604977|2047431064|2074553321|2078622091|2096987757|2099971677|2102419107|2107298017|2111072639|2111730140|2119821739|2122040390|2122838776|2128787017|2130378394|2141695047|2157595416|2157762168|2159570078|2165698076|2165967751|2168618665|2402837895
+
+
+id:2016924348
+title:Fast sparse approximation of extreme learning machine
+year:2014
+author information:[
+author name:Xiaodong Li
+author organization:Zhejiang University
+author id:2346958916|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+]
+abstract:named|data|simulation|elm|achieves|without|sacrificing|faster|classifiers|extreme|algorithm|similar|approximation|schemes|benchmark|traditional|proposed|sparse|generalization|algorithm|much|algorithms|complexity|rather|compelling|show|learning|two|experiments|scalability|speed|validated|low|performance|sets|introduce|solution|obtains|better|fsaelm|fast|performance|machine|tends
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Data set|Pattern recognition|Extreme learning machine|Computer science|Sparse approximation|Generalization error|Artificial intelligence|Machine learning|Scalability
+references:31566076|1596717185|1978996791|2002728347|2026131661|2029279587|2033351162|2096987757|2111072639|2112294207|2113705938|2117609097|2119821739|2122040390|2127426073|2129809168|2133864802|2139238144|2141695047|2147733201|2151388232|2156909104|2161055889|2163046202|2169976759
+
+
+id:2034710737
+title:Multiple-kernel-learning-based extreme learning machine for classification design
+year:2016
+author information:[
+author name:Xiaodong Li
+author organization:Zhejiang University
+author id:2346958916|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+]
+abstract:equivalent|accurate|desirable|changing|number|realworld|formulation|classifier|easily|based|resultant|using|method|issue|large|sampling|propose|two|extend|combinations|formulating|much|integrating|automatically|networks|experiments|layer|semiinfinite|socalled|toy|linear|particularly|sets|kernel|one|single|fast|machine|highmagnification|feedforward|first|program|competitive|data|elm|second|function|classifiers|method|multiplekernel|extreme|combination|needs|new|kernels|given|image|mkl|often|longer|techniques|hidden|trained|idea|kernelbased|show|learning|training|simpler|programming|formulations|rate|convex|learned|multiple|also|proposed|conventional|uses|simply|base
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Pattern recognition|Radial basis function kernel|Extreme learning machine|Kernel embedding of distributions|Convex combination|Multiple kernel learning|Tree kernel|Artificial intelligence|Mathematics|Machine learning|Kernel (statistics)
+references:1510073064|1972812972|1993717606|2000978763|2002728347|2026131661|2028759731|2031823405|2039361386|2040604977|2047028564|2047431064|2074553321|2078622091|2096987757|2109743529|2111072639|2116589987|2122040390|2124838818|2128787017|2130378394|2141695047|2145295623|2146512693|2151449129|2154462399|2161592627|2165967751|2168618665|2402837895
+
+
+id:2325072868
+title:New fusional framework combining sparse selection and clustering for key frame extraction
+year:2016
+author information:[
+author name:Mengjuan Fei
+author organization:Zhejiang University
+author id:2533852994|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+author name:Zhendong Song
+author organization:Heilongjiang University
+author id:2549701262|
+]
+abstract:optimal|accurate|comparative|informationbased|issues|improved|afflict|algorithm|generation|browsing|using|images|grouped|frames|large|contentloss|methods|videos|extraction|benchmark|selection|processing|must|representative|key|complexity|study|methods|experiments|eliminate|postprocessor|datasets|sequences|subsequently|two|verify|reduces|redundancy|key|ss|indexing|efficient|initial|combines|many|computation|framework|representativeness|efficiently|information|minimisation|first|performs|compact|frames|rapid|several|sufficient|hierarchical|generate|results|selected|computational|obtain|proposes|conducted|preserve|obtaining|mutual|proposed|sparse|final|frame|syncretic|miahc|facilitate|summaries|applied|rather|video|content|redundant|effective|candidate|applications|overcomes|original|also|clusters|instead|superior|performance|conventional|application|agglomerative|clustering|time
+venue name:Iet Computer Vision
+venue id:166929102
+venue type:J
+document type:Journal
+study fields:Data mining|Ranking|Pattern recognition|Computer science|Search engine indexing|Minimisation (psychology)|Mutual information|Artificial intelligence|Key frame|Cluster analysis|Candidate key|Computational complexity theory
+references:1556336529|1969294188|1987366351|1989863986|2004269786|2010518354|2020619232|2027452245|2028414198|2029316761|2032342062|2072551889|2077010306|2091755386|2094998392|2095536970|2105174364|2113855951|2117051369|2119362355|2125337530|2134577448|2139009685|2144645368|2147328102|2341015124|2529272619
+
+
+id:2343647833
+title:Extreme learning machine via free sparse transfer representation optimization
+year:2016
+author information:[
+author name:Xiaodong Li
+author organization:Hangzhou Dianzi University
+author id:2346958916|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+author name:Ye Yao
+author organization:Hangzhou Dianzi University
+author id:2501442788|
+]
+abstract:data|criteria|regularization|assumptions|space|different|via|learning|given|measures|sizes|different|extreme|based|cost|solutions|analysis|propose|decrease|estimation|divergence|transfer|discrepancy|proposed|sparse|problems|algorithms|distance|convergence|methods|experiments|show|learning|training|kl|distribution|representation|machine|general|effective|related|divergence|tfsrbased|free|outperform|robust|extreme|data|existing|framework|machine|mean|maximum|suitable|time|comprehensive|referred
+venue name:Memetic Computing
+venue id:125629831
+venue type:J
+document type:Journal
+study fields:Online machine learning|Mathematical optimization|Multi-task learning|Semi-supervised learning|Active learning (machine learning)|Extreme learning machine|Computer science|Sparse approximation|Artificial intelligence|Computational learning theory|Machine learning|Feature learning
+references:1596717185|1968981675|1972812972|1973627122|1978641127|2002728347|2026131661|2028759731|2031878488|2032031606|2039708501|2040604977|2042184006|2047431064|2059477850|2061065224|2074553321|2078622091|2096987757|2097308346|2101674911|2104242071|2109574129|2111072639|2113606819|2119821739|2122040390|2122838776|2128787017|2130378394|2140245639|2141695047|2165698076|2165967751|2168618665|2301541953
+
+
+id:2559909572
+title:Memorable and rich video summarization
+year:2017
+author information:[
+author name:Mengjuan Fei
+author organization:Zhejiang University
+author id:2533852994|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+]
+abstract:maintain|extracted|annotated|score|introduced|calculate|evaluated|browsing|based|using|frames|method|large|constitute|methods|benchmark|memorability|memorabilityentropybased|creating|evaluating|semantic|video|study|images|methods|comes|focuses|diversity|entropy|hashingbased|key|highquality|indexing|efficient|abstract|many|maximum|information|dataset|comparable|summarization|generates|use|rapid|used|good|interestingness|find|hybridalexnet|five|selected|image|semantically|humancreated|segmentation|proposes|mutual|proposed|video|lowlevel|finetune|frame|summarization|facilitate|deep|summaries|summary|video|shot|network|perceptual|finetuned|predict|applications|value|summary|original|previous|interesting|memorability|conventional|summaries
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Automatic summarization|Information retrieval|Computer science|Segmentation|Search engine indexing|Mutual information|Perceptual hashing|Key frame
+references:1093701151|1556336529|1598774275|1840179877|1892014006|1975029397|1987366351|1989863986|1990017517|1994864760|2004025832|2010518354|2020619232|2032342062|2046670074|2061833242|2070414526|2071711566|2094998392|2095536970|2097430540|2100857488|2103908291|2105174364|2117051369|2126532873|2128715914|2129291408|2131576855|2134670479|2147661572|2163862118|2219771564|2325072868|2341015124|2529272619|2618530766
+
+
+id:2622881578
+title:A novel compact yet rich key frame creation method for compressed video summarization
+year:2018
+author information:[
+author name:Mengjuan Fei
+author organization:Zhejiang University
+author id:2533852994|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+author name:Weijie Mao
+author organization:Zhejiang University
+author id:2633919071|
+]
+abstract:select|seamlessly|optimal|semantics|approach|improved|enable|moving|browsing|method|frames|abundant|lose|propose|shots|object|computed|methods|automatically|compactness|range|knn|eliminate|long|satisfies|aspect|vector|indicate|key|creation|set|indexing|problem|efficient|detecting|one|matting|optimum|many|great|information|stream|ranking|compressed|novel|summarization|dc|compact|rapid|dcbased|axis|segment|dynamic|directly|potential|results|selected|programming|static|typically|experimental|preserves|includes|extract|mutual|proposed|video|background|final|shots|frame|summarization|solving|summaries|importance|according|video|outliers|representation|applications|original|motion|previous|splice|considerably|yet|rich|also|approaches|intensity|existing|conduct|richer|preferences|coefficients|previous|time|scene|user
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Automatic summarization|Computer vision|Block-matching algorithm|Pattern recognition|Computer science|Motion compensation|Multiview Video Coding|Video tracking|Artificial intelligence|Smacker video|Key frame|Video compression picture types
+references:1570810870|1825187736|1904325426|1987366351|1989863986|2020619232|2027452245|2032342062|2037954058|2059639989|2072551889|2091755386|2095536970|2101309634|2103908291|2105174364|2108883127|2115060048|2115857089|2117435890|2118210476|2127992984|2131576855|2134574492|2134577448|2139009685|2147328102|2163527813|2166931216|2271444084|2295475768|2341015124|2402341335|2529272619|2898704628
+
+
+id:2810967842
+title:SphereReID: Deep hypersphere manifold embedding for person re-identification
+year:2019
+author information:[
+author name:Xing Fan
+author organization:Zhejiang University
+author id:2770274876|
+author name:Wei Jiang
+author organization:Zhejiang University
+author id:2697867949|
+author name:Hao Luo
+author organization:Zhejiang University
+author id:2913781146|
+author name:Mengjuan Fei
+author organization:Zhejiang University
+author id:2533852994|
+]
+abstract:reidentification|called|accuracy|stateoftheart|without|sphere|loss|introduced|problem|four|dukemtmcreid|manifold|model|images|sampling|underlying|classification|propose|cuhksysu|persons|reranking|softmax|adopting|simultaneously|person|methods|endtoend|datasets|balanced|softmax|current|feature|spherereid|many|embedding|convolutional|learn|abstract|single|use|achieves|challenging|space|time|function|modified|different|results|train|ignored|obtain|new|including|finetuning|experimental|weights|vectors|solve|demonstrate|hypersphere|termed|classify|code|neural|trained|released|training|learning|network|rate|successful|warmingup|also|outperforms|schedule|strategy
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Manifold embedding|Feature vector|Embedding|Pattern recognition|Softmax function|Convolutional neural network|Hypersphere|Sampling (statistics)|Artificial intelligence|Mathematics
+references:166429404|1518138188|1596233070|1971955426|1982925187|2046835352|2064675550|2068042582|2096733369|2099471712|2106053110|2125889200|2138621090|2168356304|2201508557|2204750386|2337600727|2339827301|2342611082|2432402544|2467139031|2502225121|2520433280|2533124984|2608456260|2609575245|2618530766|2620998106|2733070018|2736410039|2739445742|2755066373|2768610172|2769262677|2788012242|2949117887|2949257576|2949650786|2950596073|2951005624|2951254243|2952467144|2952976870|2963466847|2964130064|2964163358|2964304299
+
+
+id:2895786668
+title:SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-identification
+year:2018
+author information:[
+author name:Xing Fan
+author organization:Zhejiang University
+author id:2770274876|
+author name:Hao Luo
+author organization:Zhejiang University
+author id:2913781146|
+author name:Xuan Zhang
+author organization:Megvii Inc. (Face++), Beijing, China
+author id:2770360033|
+author name:Lingxiao He
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2883591619|
+author name:Chi Zhang
+author organization:Megvii Inc. (Face++)
+author id:2762719473|
+author name:Wei Jiang
+author organization:Zhejiang University Hangzhou
+author id:2697867949|
+]
+abstract:nontrivial|obstacles|reidentification|achieves|channel|reid|accuracy|stateoftheart|years|without|four|model|spatial|given|past|received|often|reidentification|propose|persons|person|competitive|partial|study|trained|methods|parallelism|part|discriminative|datasets|two|network|feature|body|relationship|progress|practical|supervises|learn|training|spatialchannel|occluded|makes|impressive|holistic|holistic|outperforms|single|extensive|corresponding|attention|well|pays
+venue name:Asian Conference on Computer Vision
+venue id:1174644639
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Communication channel|Artificial intelligence|Deep learning|Discriminative model|Machine learning
+references:1949591461|1982925187|1991452654|2102605133|2168356304|2194775991|2204750386|2235916736|2300840837|2432402544|2467139031|2491664569|2502225121|2511791013|2583147637|2584637367|2586899202|2604211872|2606377603|2736410039|2739445742|2755066373|2769346661|2783702274|2949846184|2953360861|2963574614|2963842104|2964130064|2964304299
+
+
+id:2946574625
+title:AlignedReID++: Dynamically matching local information for person re-identification
+year:2019
+author information:[
+author name:Hao Luo
+author organization:Zhejiang University
+author id:2913781146|
+author name:Wei Jiang
+author organization:Zhejiang University Hangzhou
+author id:2697867949|
+author name:Xuan Zhang
+author organization:Zhejiang University Hangzhou
+author id:2770360033|
+author name:Xing Fan
+author organization:Zhejiang University
+author id:2770274876|
+author name:Jingjing Qian
+author organization:Zhejiang University Hangzhou
+author id:2945943498|
+author name:Chi Zhang
+author organization:Zhejiang University Hangzhou
+author id:2762719473|
+]
+abstract:named|improves|reidentification|accuracy|stateoftheart|without|phase|boxes|model|aligned|released|based|models|images|method|local|unaligned|propose|dynamically|jointly||encountering|boost|person|works|inference|methods|achieve|global|acquire|experiments|local|feature|many|performance|detection|approaches|abstract|could|caused|model|inaccurate|requiring|information|novel|data|use|available|several|reid|achieves|used|align|challenging|matching|features|dynamically|train|dukemtmcreid|image|misalignment|comparison|pose|need|labeled|estimation|especially|proposed|person|solve|name|deep|code|show|dmli|information|pairs|extra|human|effectiveness|previous|learned|dmli|supervision|enough|increase|better|performance
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Inference|Pose|Person detection|Artificial intelligence|Labeled data|Feature based|Mathematics
+references:1665214252|1982925187|1991452654|2117539524|2204750386|2235916736|2337600727|2432402544|2467139031|2502225121|2549957142|2551012455|2584637367|2608456260|2731757110|2736410039|2738486593|2754916687|2755066373|2760299260|2769262677|2769925982|2769994766|2782217382|2783855081|2788012242|2794497862|2794809451|2798385569|2798458055|2798775284|2798794112|2810967842|2841273779|2949117887|2949605076|2949650786|2950179405|2951254243|2952467144|2952976870|2963168801|2963637710|2964130064|2964260687
+
+
+id:1874304172
+title:Energy Optimization of Security-Critical Real-Time Applications with Guaranteed Security Protection
+year:2015
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Ke Jiang
+author organization:Linköping University
+author id:2088225498|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+]
+abstract:half|batterypowered|approach|constraints|without|objective|problem|realtime|case|energy|algorithm|based|efficiency|propose|system|designing|much|become|complexity|systems|experiments|existed|reallife|study|embedded|emerging|minimize|address|efficient|approaches|produce|violating|energyefficient|extensive|polynomial|comparing|constraints|subject|achieves|secure|find|scheduling|dynamic|solutions|programming|given|approximation|ideal|solutions|difficult|system|especially|proposed|critical|importance|schedulability|technique|security|validated|due|design|make|requirements|consumption|energysaving|existing|time|applications
+venue name:Journal of Systems Architecture
+venue id:127660348
+venue type:J
+document type:Journal
+study fields:Dynamic programming|Mathematical optimization|Polynomial time complexity|Job shop scheduling|Computer science|Parallel computing|Ideal solution|Real-time computing|Energy consumption|Computer security model|Energy minimization|Distributed computing
+references:1978847318|1996511375|1996960305|1997761579|2000767630|2012569660|2012912569|2015355732|2024951121|2026029858|2028352624|2070698492|2078162636|2081136687|2096089864|2101667397|2103707436|2115334003|2128263839|2133461006|2140026820|2142912915|2149160933|2159682369
+
+
+id:1969377977
+title:Research on Cryptographic Algorithms for Embedded Real-time Systems: A Perspective of Measurement-based Analysis
+year:2012
+author information:[
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Zhenlin Guo
+author organization:University of Electron. Sci.  Technol. of China
+author id:2581196673|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Nan Sang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2107892393|
+]
+abstract:explain|measured|batterypowered|empirical|security|different|realtime|protected|tasks|energy|models|based|datasensitive|analysis|traditional|size|provide|hash|algorithms|systems|focuses|believe|two|cryptographic|embedded|popular|could|help|framework|information|runs|features|mathematical|data|main|securitycritical|features|potential|including|cost|efforts|unit|especially|present|useful|angles|studied|reveals|investigate|platform|factors|energyrelated|security|common|paper|influences|design|make|characteristics|identify|built|multidimensional|consumption|also|concerns|well|applications
+venue name:IEEE International Conference on High Performance Computing, Data, and Analytics
+venue id:1153382799
+venue type:C
+document type:Conference
+study fields:Data processing|ARM9|Cryptography|Computer science|Real-time computing|Mathematical model|Distributed computing|Algorithm design|Parallel computing|Algorithm|Cryptographic primitive|Hash function|Energy consumption
+references:2050304880|2096333427|2097315642|2109972663|2129500757|2132317085|2139371379|2145092051|2154532558|2159682369|2165628865
+
+
+id:1976373675
+title:SAFCM: A Security-Aware Feedback Control Mechanism for Distributed Real-Time Embedded Systems
+year:2012
+author information:[
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Nan Sang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2107892393|
+author name:Paul Pop
+author organization:Tech. University of Denmark
+author id:2125263233|
+]
+abstract:whole|feedback|realtime|multioutput|model|embedded|order|soft|openloop|based|excellent|distributed|utilization|dynamically|propose|environments|multiinput|algorithms|strong|systems|guard|facing|guarantee|protection|mechanism|mechanism|systems|ability|behavior|embedded|compared|controller|scaling|change|predictive|pid|unsecured|great|describes|metric|dre|distributed|requirements|realtime|cpu|used|safcm|loop|securityaware|dynamic|potential|results|need|level|experimental|unpredictable|proposes|widely|cryptography|system|especially|enforce|overall|demonstrate|support|challenges|globally|deployed|security|security|computing|control|paper|feedback|make|designed|requirements|equation|satisfying|control|also|evolution|possible|better|nodes|performance|adaptivity|uses
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Control theory|PID controller|Computer science|Distributed System Security Architecture|Model predictive control|Real-time computing|Feedback loop|Guard (information security)|Control system|Computer security model|Distributed computing|Embedded system
+references:1947147078|2070101530|2078162636|2089160995|2106355865|2109488193|2112601174|2115334003|2119161100|2123797807|2128838486|2133248872|2133461006|2154592472|2160706360|2162783010
+
+
+id:1978847318
+title:Energy aware real-time scheduling policy with guaranteed security protection
+year:2014
+author information:[
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Ke Jiang
+author organization:Linkoping University
+author id:2088225498|
+author name:Xia Zhang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2695099799|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+]
+abstract:constraints|half|subject|secure|approach|predefined|objective|problem|realtime|find|scheduling|dynamic|programming|energy|algorithm|based|approximation|efficiency|nearoptimal|solutions|propose|respect|traditional|proposed|experiments|complexity|systems|schedulability|technique|constraint|existed|security|validated|due|design|embedded|emerging|minimize|address|approaches|consumption|energyefficient|extensive|polynomial|time
+venue name:Asia and South Pacific Design Automation Conference
+venue id:1137823534
+venue type:C
+document type:Conference
+study fields:Dynamic programming|Energy conservation|Mathematical optimization|Job shop scheduling|Scheduling (computing)|Computer science|Approximation theory|Real-time computing|Minimisation (psychology)|Energy consumption|Computational complexity theory|Distributed computing
+references:1996511375|1996960305|1997761579|2000767630|2012569660|2012912569|2015355732|2028352624|2081136687|2101667397|2103707436|2133461006|2142912915|2149160933|2159682369
+
+
+id:2006052094
+title:Adaptive security management of real-time storage applications over NAND based storage systems
+year:2015
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Xupeng Wang
+author organization:University of Electronic
+author id:2680438075|
+author name:Zili Shao
+author organization:Hong Kong Polytech. University
+author id:2107763161|
+]
+abstract:relied|accurate|equipped|constraints|without|building|would|nonvolatile|requirementsemploying|embedded|fully|confidential|soft|based|devices|proportional|vulnerability|service|whose|must|much|flash|monitors|mobility|access|achieve|guarantee|stolen|two|proportionalintegral|result|mechanism|systems|attack|based|mechanism|embedded|address|one|workloads|data|many|nandbased|component|advantages|fast|utilization|information|acceptable|offline|nand|loop|dynamic|unpredictable|cryptography|securitysensitive|overall|framework|memory|privacy|control|validity|characteristics|captures|highlightsestablishing|systemsdesigning|devices|better|well|time|applications|presents|big|three|feedback|loss|realtime|balance|optimization|lost|online|model|utilized|systemsderiving|lose|utilization|runtime|dynamically|explicit|system|even|become|status|overhead|protection|modern|low|memories|sensitive|performance|disclosure|may|controller|great|nvmbased|stored|constraint|certain|fvuc|data|securitycritical|pages|employs|beat|controllers|mechanisms|challenge|otherwise|obtain|like|timing|resist|vulnerability|less|becomes|synthetic|proposed|improve|critical|constraint|storage|security|paper|feedback|controller|make|cost|decides|control|specific|stolen|performance|encrypted|due|build|stable|easier|online|pi|interested
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Control theory|Proportional control|Scheduling (computing)|Computer science|Cryptography|Computer network|Encryption|Feedback loop|NAND gate|Control system|Embedded system|Distributed computing
+references:1497481941|1550722949|1980035523|1981282412|1984735887|1996960305|1997933199|2015355732|2028352624|2032796044|2036382651|2042678864|2070101530|2101667397|2103707436|2104583842|2106117073|2109488193|2112601174|2115334003|2128263839|2128575374|2128838486|2133248872|2133461006|2133583143|2135493101|2142390967|2142903700|2143922085|2154592472|2159339961|2159682369|2161238215|2164623468|2171116656
+
+
+id:2015355732
+title:Resource Allocation of Security-Critical Tasks with Statistically Guaranteed Energy Constraint
+year:2012
+author information:[
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Ke Jiang
+author organization:Linkoping University
+author id:2088225498|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+]
+abstract:choices|extensive|achieves|constraints|good|securitycritical|different|space|problem|optimization|ratio|slack|scheduling|serious|dynamic|solutions|tasks|programming|energy|budget|algorithm|new|based|given|successfully|approximation|tasks|resource|need|former|system|proposed|demonstrate|present|systems|superiority|executed|security|minimal|systems|threatens|embedded|minimize|allocation|robust|set|efficient|approaches|introduce|guaranteeing|multiple|consumption|statistically|constrained|simulations|constraint|risk|interested|time|certain
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Resource management|Dynamic programming|Approximation algorithm|Mathematical optimization|Algorithm design|Job shop scheduling|Computer science|Real-time computing|Resource allocation|Energy consumption|Optimization problem|Distributed computing
+references:1593678308|1996511375|1997761579|2012912569|2020539557|2026029858|2032237694|2078162636|2081136687|2096333427|2101667397|2103707436|2115334003|2120562931|2128263839|2133461006|2136130339|2143922085|2145092051|2147072284|2159682369
+
+
+id:2021807680
+title:Design Optimization of Energy- and Security-Critical Distributed Real-Time Embedded Systems
+year:2013
+author information:[
+author name:Xia Zhang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2695099799|
+author name:Jinyu Zhan
+author organization:University of Electron. Sci.  Technol. of China
+author id:2899244278|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Ke Jiang
+author organization:
+author id:2088225498|
+]
+abstract:extensive|constraints|optimal|focus|approach|securitycritical|modern|problem|realtime|solution|scheduling|embedded|communication|potential|energy|algorithm|grows|based|mapping|efficiency|distributed|significant|finding|propose|systems|external|size|proposed|beneficial|opens|demonstrate|complexity|providing|internal|solving|overhead|confidentiality|experiments|best|protection|technique|result|energyand|security|grows|common|systems|design|embedded|early|dess|genetic|exponentially|problem|efficient|phases|heuristic|also|protections|connected|various|distributed|gate|time|attacks
+venue name:IEEE International Symposium on Parallel  Distributed Processing, Workshops and Phd Forum
+venue id:2755980765
+venue type:C
+document type:Conference
+study fields:Heuristic|Confidentiality|Computer science|Scheduling (computing)|Systems design|Genetic algorithm|Distributed computing|Embedded system
+references:1639032689|2015355732|2028203475|2059015598|2075131571|2078000719|2101667397|2143922085|2148147784|2159682369|2165099686|2166883710
+
+
+id:2032237694
+title:Energy Measurement and Analysis of Security Algorithms for Embedded Systems
+year:2011
+author information:[
+author name:Zhenlin Guo
+author organization:University of Electron. Sci.  Technol. of China
+author id:2581196673|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Nan Sang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2107892393|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+]
+abstract:batterypowered|experimental|recommendations|research|mainly|features|integrity|realtime|leaves|consider|energy|based|test|parameters|utilization|real|traditional|measure|hash|valuable|little|algorithms|systems|hmac|confidentiality|guarantee|investigate|hot|two|measurement|platform|running|precisely|security|energy|public|cryptographic|based|embedded|popular|included|algorithms|characteristics|cost|may|topics|consumption|great|constrained|factors|cryptlib|conduct|build|various|challenge|applications
+venue name:International Conference on Green Computing and Communications
+venue id:2759159208
+venue type:C
+document type:Conference
+study fields:Symmetric-key algorithm|Hash-based message authentication code|Energy conservation|Cryptography|Computer science|Algorithm|Encryption|Cryptographic primitive|Hash function|Energy consumption|Distributed computing|Embedded system
+references:203964163|1729100754|2013613544|2096333427|2097315642|2103239853|2120562931|2129500757|2132317085|2159682369
+
+
+id:2032796044
+title:Online optimization of security-sensitive real-time storage applications for NAND flash memory storage systems
+year:2013
+author information:[
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Xia Zhang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2695099799|
+author name:Xupeng Wang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2680438075|
+author name:Zili Shao
+author organization:Hong Kong Polytech. University
+author id:2107763161|
+]
+abstract:relied|big|accurate|simulation|configurations|constraints|building|feedback|realtime|would|balance|optimization|broad|model|lose|utilization|runtime|whose|dynamically|explicit|system|uncertainties|must|algorithm|flash|become|monitors|status|achieve|experiments|deterministic|range|two|proportionalintegral|mechanism|low|sensitive|embedded|performance|address|probabilistic|workloads|many|controller|component|advantages|utilization|series|stored|certain|fvuc|constraints|data|nand|securitycritical|faster|pages|loop|employs|otherwise|like|timing|unpredictable|cryptography|vulnerability|securitysensitive|overall|memory|critical|storage|security|control|paper|feedback|make|validity|decides|verified|specific|devices|better|encrypted|build|online|well|interested|presents
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Control theory|Flash file system|Cryptography|Computer science|Flash memory emulator|Real-time computing|Feedback loop|Encryption|Probabilistic logic|Vulnerability|Distributed computing|Embedded system
+references:1497481941|1984735887|1996960305|1997933199|2015355732|2036382651|2070101530|2104583842|2106117073|2109488193|2112601174|2133248872|2133461006|2133583143|2154592472|2159682369|2164623468
+
+
+id:2048042967
+title:Energy-aware design of secure multi-mode real-time embedded systems with FPGA co-processors
+year:2013
+author information:[
+author name:Ke Jiang
+author organization:Linköping University
+author id:2088225498|
+author name:Adrian Lifa
+author organization:Linköping University
+author id:260645313|
+author name:Petru Eles
+author organization:University
+author id:2037782592|
+author name:Zebo Peng
+author organization:University
+author id:2104717910|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+]
+abstract:extensive|fieldprogrammable|modes|fulfill|vary|use|secure|approach|constraints|stringent|deadlines|required|offer|number|realtime|dynamic|savings|strict|different|tasks|energy|area|new|efficiency|active|often|coprocessors|propose|system|task|techniques|demonstrate|onboard|experiments|best|protection|enhancement|consuming|security|minimal|modern|systems|array|provides|design|many|embedded|emerging|scaling|nature|performance|framework|meet|gate|operation|design|novel|techniques|dimensions
+venue name:Real-Time Networks and Systems
+venue id:2625108733
+venue type:C
+document type:Conference
+study fields:Design framework|Performance enhancement|Efficient energy use|Computer science|Voltage|Field-programmable gate array|Real-time computing|Gate array|Partitioned systems|Frequency scaling|Distributed computing|Embedded system
+references:586270764|1558919105|1560537307|1973011394|1977099426|1978124838|1986803989|2002377960|2012406118|2023133101|2028352624|2034981803|2040224440|2078162636|2105400593|2105524902|2120562931|2126105956|2133461006|2139139988|2142082169|2154002295|2162204334|2164318682
+
+
+id:2058860136
+title:A Vulnerability Optimization Method for Security-Critical Real-Time Systems
+year:2013
+author information:[
+author name:Xia Zhang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2695099799|
+author name:Jinyu Zhan
+author organization:University of Electron. Sci.  Technol. of China
+author id:2899244278|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+]
+abstract:constraints|task|equally|simulation|criticality|focus|securitycritical|relationships|realtime|scheduling|method|dynamic|consider|strict|tasks|programming|algorithm|reduce|obtain|based|devised|timing|vulnerability|vulnerability|method|system|important|take|task|among|consideration|demonstrate|problems|systems|critical|equipped|experiments|facing|optimization|security|minimal|firstly|effectiveness|execution|multiple|deduced|time|attacks
+venue name:Networking, Architecture and Storages
+venue id:1131665807
+venue type:C
+document type:Conference
+study fields:Dynamic programming|Security level|Computer science|Scheduling (computing)|Encryption|Real-time computing|Real-time operating system|Execution time|Criticality|Distributed computing|Vulnerability
+references:1500356409|2078000719|2101667397|2109488193|2143922085|2159682369|2165099686|2166893828
+
+
+id:2070698492
+title:Measurement-based research on cryptographic algorithms for embedded real-time systems
+year:2013
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Zhenlin Guo
+author organization:School of Computer Science and Engineering University of Electronic Science and Technology of China China
+author id:2581196673|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Nan Sang
+author organization:University of Electronic Science and Technology of China
+author id:2107892393|
+]
+abstract:explain|measured|functions|batterypowered|analyse|empirical|accuracy|experimental|three|realtime|tasks|energy|algorithm|based|models|researches|datasensitive|analysis|devise|propose|size|processing|hash|algorithms|systems|utilizing|experiments|believe|found|systems|operating|precise|nearlinear|power|cryptographic|based|embedded|popular|welldefined|linear|within|could|help|framework|polynomial|efficiently|requirements|runs|features|mathematical|overheads|data|environments|use|developing|main|used|securitycritical|features|optimize|plain|function|method|directly|potential|results|inherent|obtain|ignored|including|test|like|timing|cost|widely|seriously|efforts|unit|especially|supposed|ni|angles|studied|reveals|instrument|identifying|investigate|size|platform|speed|running|general|security|paper|related|design|studies|make|dataprocessing|execution|characteristics|cost|built|limited|multidimensional|interesting|resources|also|consumption|concerns|consumptions|due|well|gaussian|time|properties|eg|fitting|existing|applications
+venue name:Journal of Systems Architecture
+venue id:127660348
+venue type:J
+document type:Journal
+study fields:Cryptographic protocol|Polynomial|Computer science|Cryptography|Real-time computing|Software|Distributed computing|Parallel computing|Algorithm|Cryptographic primitive|Hash function|Security of cryptographic hash functions|Energy consumption
+references:1593678308|1969377977|1993408465|1996960305|2000767630|2078162636|2096333427|2103707436|2109972663|2115334003|2120562931|2129500757|2132317085|2151250495|2154532558|2159682369|2165628865|2615865818
+
+
+id:2073412936
+title:Dynamic security management for real-time embedded applications in industrial networks
+year:2015
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Nan Sang
+author organization:University of Electronic Science and Technology of China
+author id:2107892393|
+author name:Ziguo Zhong
+author organization:University of Nebraska-Lincoln
+author id:2893424437|
+]
+abstract:security|three|adaptively|feedback|realtime|securityaware|tasks|soft|energy|based|models|method|overhead|satisfied|lower|proportional|dsrm|finegrained|propose|quality|environments|aperiodic|environment|server|algorithms|providing|applicationscombining|control|superiority|achieve|mechanism|systems|inspired|cryptographic|mechanism|embedded|makes|face|component|unified|upperlevel|display|frameworkdeploying|reasonable|used|securitycritical|high|controllers|dynamic|assigns|networksestablishing|results|admitted|commonly|level|unpredictable|adjusted|real|widely|twolevel|quantify|efforts|measure|task|proposed|improve|networked|omitted|dynamic|critical|arrival|according|show|deployed|risk|platform|network|security|admit|reject|ready|design|introducing|task|applications|designed|requirements|introduce|control|also|management|manage|industrial|performance|consumptions|simulation|challenge|risk|time|applications
+venue name:Computers  Electrical Engineering
+venue id:121340289
+venue type:J
+document type:Journal
+study fields:Scheduling (computing)|Cryptography|Computer science|Computer network|Embedded applications|Real-time computing|Risk management|Philosophy of design|Aperiodic graph|Computer security model|Security management|Distributed computing
+references:1535709376|1984625057|1991376651|1996960305|2070101530|2078162636|2089160995|2096333427|2103058000|2105926712|2106355865|2109488193|2112601174|2115334003|2123797807|2128263839|2128838486|2133461006|2146865427|2154592472|2158163178
+
+
+id:2075131571
+title:ARCSM: A Distributed Feedback Control Mechanism for Security-critical Real-time System
+year:2012
+author information:[
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Nan Sang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2107892393|
+author name:Xia Zhang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2695099799|
+]
+abstract:increasingly|measured|unpredicted|researches|security|feedback|realtime|tasks|order|soft|energy|openloop|based|ad|method|distributed|dynamically|input|traditional|provide|assigned|hoc|fluctuation|appropriate|server|algorithms|systems|strong|control|risk|guarantee|protection|adaptive|refuse|systems|ability|mechanism|deadline|cryptographic|relationship|embedded|established|initial|missed|analyzed|workloads|unsecured|designing|considering|framework|meet|future|able|requirements|first|becoming|serve|securitycritical|centralized|second|status|growing|features|adaptive|leaves|host|scheduling|implement|unlike|potential|results|new|static|need|level|experimental|proposes|runtime|twolevel|quantify|especially|arcsm|twice|adjust|enforce|demonstrate|critical|challenges|risk|security|control|paper|ready|since|threats|task|designed|costs|multiple|satisfying|control|schemes|management|possible|significance|better|nodes|performance|management|well|risk|time
+venue name:International Symposium on Parallel and Distributed Processing and Applications
+venue id:1194851604
+venue type:C
+document type:Conference
+study fields:Computer science|Software security assurance|Distributed System Security Architecture|Covert channel|Computer network|Real-time operating system|Security service|Real-time computing|Security information and event management|Computer security model|Security management|Distributed computing
+references:1947147078|1984625057|1991376651|2072475299|2089160995|2096333427|2105926712|2109488193|2112601174|2115334003|2119161100|2120562931|2128263839|2128838486|2133248872|2133461006|2139107185|2150824567|2154592472
+
+
+id:2158163178
+title:An Adaptive Risk Control and Security Management for Embedded Real-Time System
+year:2012
+author information:[
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Nan Sang
+author organization:University of Electron. Sci.  Technol. of China
+author id:2107892393|
+author name:Ziguo Zhong
+author organization:University of Nebraska
+author id:2893424437|
+]
+abstract:admits|reasonable|good|securitycritical|without|feedback|sacrificing|realtime|peration|scheduling|dynamic|situation|assigns|mechanisms|results|runtime|tasks|tasks|soft|reduce|based|level|runtime|dynamically|obtaining|twolevel|input|task|environments|system|proposed|especially|adjust|workloads|monitors|status|waiting|superiority|purpose|automatically|show|deployed|adaptive|rejects|capability|security|lowerlevel|systems|ready|design|mechanism|applications|embedded|may|workloads|control|component|risks|framework|adaptivity|simulation|management|uniprocessor|traditional|upperlevel|risk|suitable|interested
+venue name:Availability, Reliability and Security
+venue id:2623176867
+venue type:C
+document type:Conference
+study fields:Fixed-priority pre-emptive scheduling|Uniprocessor system|Fair-share scheduling|Scheduling (computing)|Computer science|Gain scheduling|Two-level scheduling|Dynamic priority scheduling|Embedded system|Distributed computing|Security management
+references:1535709376|1947147078|1991376651|2070101530|2072475299|2096333427|2101550192|2101667397|2105926712|2109488193|2112601174|2115334003|2120562931|2128263839|2128838486|2139107185|2146865427|2154592472
+
+
+id:2177227674
+title:Detecting Fault Injection Attacks on Embedded Real-Time Applications: A System-Level Perspective
+year:2015
+author information:[
+author name:Liang Wen
+author organization:University of Electron. Sci.  Technol. of China
+author id:2442552168|
+author name:Wei Jiang
+author organization:University of Sci.  Technol. of China
+author id:2419943152|
+author name:Ke Jiang
+author organization:Linkoping University
+author id:2088225498|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Xiong Pan
+author organization:University of Electron. Sci.  Technol. of China
+author id:2305028935|
+author name:Keran Zhou
+author organization:University of Electron. Sci.  Technol. of China
+author id:2226345510|
+]
+abstract:extensive|approach|problem|realtime|confidential|algorithm|respectively|based|still|preventing|lower|simulated|distributed|schemes|propose|utilize|algorithm|nphard|superiority|achieve|experiments|focuses|attack|protect|cryptographic|deadline|embedded|compared|synthesis|detection|within|efficient|makes|several|fly|constraint|approach|attacks|addressing|overheads|strength|secure|deploy|results|guaranteed|resist|algorithm|efforts|mapped|overall|demonstrate|best|resisting|annealing|symmetric|optimization|security|paper|since|derived|coverage|determine|fruit|rates|fault|better|service|time|injection|presents|applications
+venue name:High Performance Computing and Communications
+venue id:1148948064
+venue type:C
+document type:Conference
+study fields:Stuck-at fault|General protection fault|Fault coverage|Fault detection and isolation|Computer science|Software fault tolerance|Real-time computing|Fault injection|Distributed computing|Differential fault analysis|Fault indicator
+references:172000273|1495447492|1979802565|2018209358|2024499203|2066425771|2072705087|2078162636|2092954550|2093195672|2096417573|2101667397|2109972663|2112284176|2128166739|2139371379|2148147784|2149209089
+
+
+id:2296321422
+title:Energy optimization of stochastic applications with statistical guarantees of deadline and reliability
+year:2016
+author information:[
+author name:Xiong Pan
+author organization:University of Electronic Science and Technology of China
+author id:2305028935|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Ke Jiang
+author organization:Linköping University
+author id:2088225498|
+author name:Liang Wen
+author organization:University of Electronic Science and Technology of China
+author id:2442552168|
+author name:Qi Dong
+author organization:University of Electronic Science and Technology of China
+author id:2437737364|
+]
+abstract:extensive|optimal|approach|objective|reliable|problem|realtime|reliability|tasks|soft|energy|based|efficiency|nearoptimal|impact|expected|system|utilize|evaluate|complexity|systems|statistical|reliability|experiments|save|reallife|stochastic|deadline|embedded|minimize|may|guaranteeing|distribution|energyefficient|fast|polynomial|frequency|scaling|certain|techniques|constraints|subject|deadlines|solution|find|huge|dynamic|consider|given|conducted|finished|develop|take|proposed|dynamic|solving|instead|probability|complexity|times|due|design|voltage|hard|execution|cost|also|consumption|bisearch|target|application|uniprocessor|time|account|applications|dvfs
+venue name:Asia and South Pacific Design Automation Conference
+venue id:1137823534
+venue type:C
+document type:Conference
+study fields:Dynamic programming|Uniprocessor system|Mathematical optimization|Computer science|Voltage|Stochastic process|Real-time computing|Frequency scaling|Energy consumption|Energy minimization|Reliability theory
+references:1996511375|2002377960|2011969216|2018244723|2097099353|2105524902|2121733525|2122084979|2127739920|2130626677|2136498286|2139613807|2142912915|2155066400|2160658249|2165136860|2171717586
+
+
+id:2518018527
+title:Design optimization for security- and safety-critical distributed real-time applications
+year:2017
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Paul Pop
+author organization:Technical University of
+author id:2125263233|
+author name:Ke Jiang
+author organization:F-Technology AB, Sweden
+author id:2088225498|
+]
+abstract:extensive|focus|measures|tables|metaheuristic|realtime|cryptographic|tasks|energy|based|efficiency|method|lower|distributed|vulnerability|propose|system|architectures|evaluate|appropriate|systems|confidentiality|reliability|experiments|consume|reallife|communications|replication|scaling|address|may|problem|protections|services|lead|requirements|cyclic|levels|techniques|tabu|used|heterogeneous|challenging|frequency|search|dynamic|impair|need|conducted|voltages|quantify|task|proposed|solve|mapped|scheduled|schedulability|deployed|security|computing|design|enhance|requirements|satisfy|introduce|degradation|resources|also|consumption|voltage|factors|minimized|better|schedule|performance|application|determining|interested|frequencies|applications
+venue name:Microprocessors and Microsystems
+venue id:195663827
+venue type:J
+document type:Journal
+study fields:Application security|Efficient energy use|Computer science|Distributed System Security Architecture|Software security assurance|Parallel computing|Real-time computing|Frequency scaling|Energy consumption|Tabu search|Computer security model
+references:1494301198|1560537307|2004220906|2012569660|2017521824|2018209358|2065806894|2070698492|2078162636|2101667397|2103707436|2127739920|2133461006|2139613807|2142386205|2142912915|2148147784|2159682369|2165099686|2165136860|2166883710|2296321422
+
+
+id:2534880476
+title:Design optimization of secure message communication for energy-constrained distributed real-time systems
+year:2017
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Ke Jiang
+author organization:F-Technology AB, Sweden
+author id:2088225498|
+]
+abstract:extensive|application|optimal|evolved|peers|focus|security|approach|required|establish|gradually|problem|realtime|optimization|context|obtained|model|embedded|usually|case|energy|algorithm|grows|based|efficiency|mapping|distributed|require|propose|quality|applicationsidentify|system|size|opens|networks|maximally|problemevaluate|complexity|systems|study|providing|internal|overhead|confidentiality|experiments|tradeoff|longer|protection|technique|two|reallife|dess|energy|systems|deadline|embedded|genetic|exponentially|address|may|problem|strategies|phases|heuristic|protections|connected|extensive|metric|distributed|securitypropose|scarce|constraints|overheads|good|securitycritical|modern|applicationsdesign|solution|presented|scheduling|serious|consequences|communication|potential|budget|including|timing|solutions|significant|finding|systems|improvedin|quantify|external|proposed|beneficial|improve|violation|solve|overall|demonstrate|rises|since|critical|importance|cause|best|running|tend|security|increases|design|ga|hard|possibility|dess|early|execution|energy|performance|although|corresponding|gate|time|applications
+venue name:Journal of Parallel and Distributed Computing
+venue id:157146593
+venue type:J
+document type:Journal
+study fields:Heuristic|Confidentiality|Efficient energy use|Scheduling (computing)|Computer science|Parallel computing|Systems design|Real-time computing|Execution time|Genetic algorithm|Distributed computing|Overhead (business)
+references:1639032689|1980363975|1981737703|1990379172|1996960305|2014310451|2015355732|2021807680|2028203475|2059015598|2075131571|2078000719|2092954550|2096333427|2101667397|2109394932|2132317085|2133461006|2137435720|2143922085|2147083032|2148147784|2159682369|2165099686|2166478098
+
+
+id:2548632561
+title:System-Level Design to Detect Fault Injection Attacks on Embedded Real-Time Applications
+year:2017
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Liang Wen
+author organization:University of Electronic Science and Technology of China
+author id:2442552168|
+author name:Ke Jiang
+author organization:F-Technology AB, Sweden
+author id:2088225498|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Xiong Pan
+author organization:University of Electronic Science and Technology of China
+author id:2305028935|
+author name:Keran Zhou
+author organization:University of Electronic Science and Technology of China
+author id:2226345510|
+]
+abstract:extensive|fault|approach|evaluation|problem|realtime|optimization|confidential|algorithm|based|preventing|simulated|distributed|schemes|propose|perspective|measured|utilize|processing|messages|complexity|compare|superiority|confidentiality|experiments|focuses|protection|long|reallife|systems|attack|protect|cryptographic|deadline|embedded|synthesis|detection|within|efficient|makes|several|fly|units|constraint|approach|attacks|addressing|overheads|strength|secure|securitycritical|research|deploy|ignores|attacks|serious|guaranteed|resist|maximized|article|efforts|mapped|detecting|overall|demonstrate|fruit|systemlevel|best|annealing|symmetric|security|due|derived|coverage|determine|rates|yet|fault|existing|application|service|threat|time|injection|presents|applications
+venue name:ACM Journal on Emerging Technologies in Computing Systems
+venue id:96198239
+venue type:J
+document type:Journal
+study fields:Simulated annealing|Fault coverage|Confidentiality|Computer science|Fault detection and isolation|Cryptography|Electronic system-level design and verification|Real-time computing|Encryption|Fault injection|Embedded system|Distributed computing
+references:172000273|1494301198|1495447492|1497481941|1963748537|1975955690|1979802565|2018209358|2024499203|2053230911|2066425771|2072705087|2078162636|2092954550|2093195672|2096417573|2101667397|2109972663|2112284176|2118154846|2128166739|2139371379|2148147784|2149209089|2153985512|2164357820|2168359956|2177227674
+
+
+id:2757243649
+title:Energy-aware page replacement for NVM based hybrid main memory system
+year:2017
+author information:[
+author name:Yiming Zhang
+author organization:University of Electronic Science and Technology of China
+author id:2758545880|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2759688047|
+author name:Junhuan Yang
+author organization:University of Electronic Science and Technology of China
+author id:2757181212|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Lin Li
+author organization:University of Electronic Science Technology of China
+author id:2757826507|
+author name:Yixin Li
+author organization:University of Electronic Science and Technology of China
+author id:2760612780|
+]
+abstract:called|nvm|main|experimental|used|consistency|approach|pages|dram|optimizing|migrated|drams|calculated|logs|guarantees|results|memories|energy|reduce|based|method|widely|nvms|transactions|system|hybrid|system|determined|architecture|page|replacement|eapr|migrate|algorithms|memory|access|instead|according|show|least|guarantee|paper|low|submitted|power|architecture|compared|advantage|consumption|also|nonvolatile|nvm|structure|nvmdram|deleting|presents|applications
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Registered memory|Interleaved memory|Computer science|Cache-only memory architecture|Real-time computing|Page replacement algorithm|Page fault|Memory map|Demand paging|Memory architecture
+references:1992490313|2010202670|2019701892|2036853599|2102449048|2104305170|2147657366|2204664557|2282225439|2294253319|2346047170|2473099193|2766742782
+
+
+id:2793208719
+title:Energy optimization of security-sensitive mixed-criticality applications for distributed real-time systems
+year:2018
+author information:[
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Xia Zhang
+author organization:University of Texas at Dallas
+author id:2695099799|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Yue Ma
+author organization:University
+author id:2685284090|
+author name:Ke Jiang
+author organization:Linköping University
+author id:2088225498|
+]
+abstract:extensive|optimal|approach|three|problem|realtime|optimization|securitycriticality|model|usually|strict|case|energy|algorithm|grows|based|efficiency|overhead|devised|system|size|higher|complexity|systems|study|experiments|save|protection|balanced|reallife|systems|compared|exponentially|address|problem|efficient|abstract|heuristic|framework|requirements|first|constraints|securitycritical|candidates|results|always|obtain|solutions|timing|proposes|capture|conducted|seriously|significant|finding|establish|proposed|securitysensitive|show|systemlevel|mixedcriticality|security|minimal|related|paper|design|studies|ignore|since|ga|hard|consumption|satisfying|interested|time|existing|applications
+venue name:Journal of Parallel and Distributed Computing
+venue id:157146593
+venue type:J
+document type:Journal
+study fields:Heuristic (computer science)|Computer science|Mixed criticality|Time complexity|Energy consumption|Optimization problem|Genetic algorithm|System model|Energy minimization|Distributed computing
+references:1639032689|1685204595|1991659074|2014310451|2015355732|2072712992|2073412936|2092954550|2101667397|2115334003|2115337128|2128263839|2141086245|2142386205|2143922085|2144155686|2146412113|2148147784|2148810487|2165099686
+
+
+id:2807848753
+title:Energy-Aware Design of Stochastic Applications With Statistical Deadline and Reliability Guarantees
+year:2019
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Xiong Pan
+author organization:University of Electronic Science and Technology of China
+author id:2305028935|
+author name:Ke Jiang
+author organization:Veoneer, Sweden
+author id:2088225498|
+author name:Liang Wen
+author organization:University of Electronic Science and Technology of China
+author id:2442552168|
+author name:Qi Dong
+author organization:University of Electronic Science and Technology of China
+author id:2437737364|
+]
+abstract:extensive|optimal|three|constraints|approach|objective|reliable|problem|realtime|optimization|durations|reliability|case|tasks|fully|soft|energy|algorithm|reduce|based|nearoptimal|compared|probability|overhead|impact|expected|consideration|propose|saving|system|provide|utilize|binary|evaluate|much|systems|statistical|aim|reliability
+venue name:IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+venue id:100835903
+venue type:J
+document type:Journal
+study fields:Dynamic programming|Approximation algorithm|Mathematical optimization|Uniprocessor system|Efficient energy use|Computer science|Real-time computing|Knapsack problem|Time complexity|Energy consumption|Optimization problem
+references:1874304172|2000767630|2002377960|2011969216|2012569660|2018244723|2053230911|2078162636|2096089864|2097099353|2097730691|2103707436|2105524902|2115334003|2121733525|2122084979|2127739920|2128263839|2130626677|2133461006|2136498286|2139613807|2142912915|2143906469|2149160933|2155066400|2159682369|2160658249|2165136860|2171717586|2270708983|2296321422|2569304842
+
+
+id:2899107064
+title:Dynamic data management for automotive ECUs with hybrid RAM-NVM memory: work-in-progress
+year:2018
+author information:[
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2759688047|
+author name:Junhuan Yang
+author organization:University of Electronic Science and Technology of China
+author id:2757181212|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Yixin Li
+author organization:University of Electronic Science and Technology of China
+author id:2760612780|
+]
+abstract:nvm|data|memory|lifetime|main|vehicle|generated|results|utilized|vddm|reduce|distinguish|experimental|propose|decrease|units|hybrid|improve|prolong|automotive|dynamic|frequent|show|cold|hot|vehicle|control|operations|writing|electronic|memory|compared|writings|approaches|lifetime|data|electronic|management|nonvolatile|manage|performance|significantly
+venue name:International Conference on Hardware/Software Codesign and System Synthesis
+venue id:2625909334
+venue type:C
+document type:Conference
+study fields:Computer science|Home automation|Real-time computing|Electronic systems|Dynamic data|Intrusion detection system|Automotive industry|Embedded system
+references:2147539449|2147657366|2204664557|2596696538|2606951540|2950534320
+
+
+id:2899450337
+title:Co-design of security-critical real-time systems to prevent fault injection attacks: work-in-progress
+year:2018
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Liugen Xiu
+author organization:University Of Electronic Science And Technology Of China
+author id:2898729896|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Ke Jiang
+author organization:Veoneer, Sweden
+author id:2088225498|
+]
+abstract:overheads|focus|fault|approach|securitycritical|without|realtime|communication|ten|mechanisms|confidential|hardware|protecting|based|realtime|solutions|resist|lower|distributed|schemes|propose|efforts|measure|proposed|messages|overheads|demonstrate|present|detection|internal|systems|codesign|fdc|superiority|achieve|complexity|systemlevel|best|technique|correction|experiments|search|systems|attack|deadline|make|multiobjective|identify|efficient|fault|heuristic|message|violating|obtains|better|budget|application|corresponding|time|injection|evolutionary
+venue name:International Conference on Hardware/Software Codesign and System Synthesis
+venue id:2625909334
+venue type:C
+document type:Conference
+study fields:Heuristic|Evolutionary algorithm|Fault detection and isolation|Work in process|Computer science|Encryption|Real-time computing|Time complexity|Fault injection|Overhead (business)
+references:1494301198|2018209358|2078162636|2096417573|2097705959|2126105956|2548632561
+
+
+id:2902419155
+title:Design of security-critical distributed real-time applications with fault-tolerant constraint: work-in-progress
+year:2018
+author information:[
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Haibo Hu
+author organization:University Of Electronic Science And Technology Of China
+author id:2899054287|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Ke Jiang
+author organization:Veoneer, Sweden
+author id:2088225498|
+]
+abstract:constraints|subject|focus|overlooked|delivered|secure|approach|faults|securitycritical|problem|optimization|find|solutions|communication|tolerance|given|method|impact|distributed|active|cryptography|seriously|vulnerability|propose|task|messages|tasklevel|indicated|reexecution|confidentiality|experiments|deployed|best|security|design|protect|faulttolerant|multiobjective|minimize|faulttolerant|length|fault|message|leveraged|efficiency|schedule|media|initial|techniques|applications|tolerate
+venue name:Embedded Software
+venue id:1162226489
+venue type:C
+document type:Conference
+study fields:Introspection|Replica|Virtual machine|Vulnerability (computing)|Confidentiality|Work in process|Computer science|Cryptography|Real-time computing|Fault tolerance|Distributed computing
+references:2018209358|2086069480|2103707436|2118154846|2126105956|2133461006|2518018527
+
+
+id:2902858055
+title:Persistence improvement for distributed cache with NVM based storage system: work-in-progress
+year:2018
+author information:[
+author name:Junlong Wang
+author organization:University Of Electronic Science And Technology Of China
+author id:2898755562|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Jinghuan Yu
+author organization:City University of Hong Kong
+author id:2898641580|
+author name:Haibo Hu
+author organization:University Of Electronic Science And Technology Of China
+author id:2899054287|
+author name:Liugen Xu
+author organization:University Of Electronic Science And Technology Of China
+author id:2899018388|
+]
+abstract:checkpointing|optimal|memory|several|accelerate|consider|persistent|reliability|write|based|using|read|finally|non|propose|systems|take|system|improve|files|placement|evaluate|cache|experiments|kinds|storage|two|speed|example|design|mechanism|policy|redis|volatile|performance|conduct|distributed|operations|design
+venue name:Compilers, Architecture, and Synthesis for Embedded Systems
+venue id:1198936338
+venue type:C
+document type:Conference
+study fields:Work in process|Computer science|Computer data storage|Parallel computing|Distributed cache|Non-volatile memory|Throughput|Embedded system|Reinforcement learning
+references:1437323374|1989660200|2032773417|2035918546|2109831069|2125914539|2295704740|2466434324
+
+
+id:2903000150
+title:Writing-aware data variable allocation on hybrid SRAM+NVM SPM: work-in-progress
+year:2018
+author information:[
+author name:Yixin Li
+author organization:University of Electronic Science and Technology of China
+author id:2760612780|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Ying Li
+author organization:University of Science and Technology of China
+author id:2898993351|
+]
+abstract:data|nvm|threshold|experimental|approach|branch|frequency|spm|number|implemented|calculated|reduce|based|probability|comparing|traditional|hybrid|allocate|proposed|execution|average|frequency|operations|paper|writing|value|according|compared|minimize|allocation|variables|determine|sram|nvm|considering|variable|approach|presents
+venue name:Compilers, Architecture, and Synthesis for Embedded Systems
+venue id:1198936338
+venue type:C
+document type:Conference
+study fields:Work in process|Computer science|Parallel computing|Threshold limit value|Static random-access memory|Computer engineering
+references:1985521141|2001942348|2073505815|2109172228|2112892407|2241427683|2734549971
+
+
+id:2943059510
+title:Energy optimization of branch-aware data variable allocation on hybrid SRAM+NVM SPM for CPS
+year:2019
+author information:[
+author name:Yixin Li
+author organization:University of Electronic Science and Technology of China
+author id:2760612780|
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Jiayu Yu
+author organization:University of Electronic Science and Technology of China
+author id:2942719330|
+]
+abstract:increasingly|allocation|approach|branch|variables|nonvolatile|energy|respectively|based|cache|compared|analysis|evaluate|average|experiments|systems|low|iterated|based|wcep|path|worstcase|may|change|maximum|branchaware|approach|cyberphysical|program|data|conditional|several|used|good|spm|execution|assigns|calculated|branches|stable|hybrid|proposed|prediction|migrate|memory|branchbased|determines|according|times|scratchpad|paper|design|since|allocation|consumption|improvement|existing|conduct|corresponding|variable|consists|presents
+venue name:ACM Symposium on Applied Computing
+venue id:2754781246
+venue type:C
+document type:Conference
+study fields:Low energy|Cache|Computer science|Scratchpad memory|Parallel computing|Static random-access memory|Iterated function|Energy consumption|Branch predictor|Energy minimization
+references:1863488620|1989660200|2006483103|2008280134|2073505815|2096867266|2104225326|2111435398|2123470671|2255015856|2552410476|2734549971|2766742782
+
+
+id:2968713944
+title:Vehicle data management with specific wear-levelling and fault tolerance for hybrid DRAM-NVM memory
+year:2019
+author information:[
+author name:Jinyu Zhan
+author organization:University of Electronic Science and Technology of China
+author id:2899244278|
+author name:Junhuan Yang
+author organization:University of Electronic Science and Technology of China
+author id:2757181212|
+author name:Wei Jiang
+author organization:University of Science and Technology of China
+author id:2419943152|
+author name:Yufang Sun
+author organization:Chengdu Technological University
+author id:2967597979|
+author name:Yixin Li
+author organization:University of Electronic Science and Technology of China
+author id:2760612780|
+]
+abstract:vehiclespecific|memory|experimental|approach|years|automotive|balance|dram|tolerance|recent|reduce|based|distinguish|overhead|high|sensitive|propose|prolong|systems|achieve|wear|consequently|hot|vehicle|low|systems|writing|power|mechanism|embedded|emerging|vdm|architecture|compared|approaches|abstract|electronic|nvm|fast|wearlevelling|nvm|data|lifetime|main|persistence|vehicle|high|attracts|dynamic|results|tolerance|vehiclespecific|includes|units|hybrid|improve|automotive|limitation|applied|provided|show|cold|recovery|error|blocks|control|operations|rate|memory|recover|applicationspecific|idle|effectively|attentions|fault|data|also|management|nonvolatile|manage|performance|management|suitable|time
+venue name:Journal of Systems Architecture
+venue id:127660348
+venue type:J
+document type:Journal
+study fields:Dram|Computer science|Word error rate|High density|Real-time computing|Dynamic data|Fault tolerance|Data management|Levelling|Automotive industry|Embedded system
+references:1984574424|1992987627|2033000236|2043110529|2049986441|2050778306|2083066702|2091907331|2092554332|2101090498|2111435398|2134345525|2147539449|2147657366|2204664557|2258963578|2282225439|2294253319|2346047170|2404547066|2530371514|2554732854|2576664946|2588003476|2606951540|2615040299|2734549971|2769084511|2883191660|2950534320
+

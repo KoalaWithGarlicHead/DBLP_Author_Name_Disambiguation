@@ -1,0 +1,2993 @@
+
+id:1442500494
+title:Mechanism and Impedance Control of Pneumatic Servo Driving System for Resistance Spot Welding
+year:2015
+author information:[
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2654355787|
+author name:Tao Wang
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2440495359|
+author name:Wei Fan
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2437995477|
+author name:Yu Wang
+author organization:Beijing, China
+author id:2657141945|
+]
+abstract:results|simulation|impedance|used|output|contact|servo|stability|order|welding|contact|method|resistance|driving|system|proposed|spot|force|position|impedance|simultaneously|achieve|pneumatic|computer|mechanism|free|steady|process|controller|motion|verified|control|pid|also|increase|transition|performance|designed|validity|adopted
+venue name:International Conference on Intelligent Robotics and Applications
+venue id:1165196434
+venue type:C
+document type:Conference
+study fields:Control theory|Servo|PID controller|Control theory|Control engineering|Impedance control|Servomechanism|Engineering|Spot welding
+references:2111964854|2112736206|2112995122|2169440744
+
+
+id:1526497531
+title:Matting and super-pixel based target tracking algorithm
+year:2015
+author information:[
+author name:Hailuo Wang
+author organization:Beijing Institute of Technology, CO, 100081 China
+author id:2171911232|
+author name:Bo Wang
+author organization:Beijing Institute of Technology, CO, 100081 China
+author id:2720046968|
+author name:Zhiqiang Zhou
+author organization:Beijing Institute of Technology, CO, 100081 China
+author id:2435567794|
+author name:Sun Li
+author organization:Beijing Institute of Technology, CO, 100081 China
+author id:2444436245|
+]
+abstract:use|foreground|tracking|offer|updating|problem|record|model|colorhistogram|drift|order|algorithm|based|compared|patches|even|background|matting|object|deal|critical|experiments|show|overcome|cause|matching|feature|track|tracking|estimating|situation|degrade|address|robust|problem|enough|sample|superpixels|target|inaccurate|matting|occlusion|better|performance|proposed|appearance|accuracy|model|information
+venue name:IEEE International Conference on Advanced Computational Intelligence
+venue id:2754972727
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Computer science|Algorithm|Feature matching|Pixel|Artificial intelligence
+references:1981219153|2026400262|2035773017|2098854771|2103846358|2104095591|2118025528|2118246710|2139047213|2150000644|2167089254|2170865122|2293873019
+
+
+id:2002285735
+title:Multi-scale weighted gradient-based fusion for multi-focus images
+year:2014
+author information:[
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Sun Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2444436245|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+]
+abstract:scales|focus|saliency|introduced|corner|sharpness|near|severely|gradientbased|presence|reflects|happen|based|images|method|large|multiscale|carefully|misregistration|impacts|quality|misregistration|determined|motion|object|images|regions|frequently|methods|twoscale|anisotropic|blur|measure|smallscale|camera|problem|abstract|gradient|structures|approach|novel|first|small|used|clearly|edge|boundaries|weighted|results|image|multifocus|experimental|weights|fusion|measure|proposed|solve|focused|demonstrate|present|largescale|region|problems|structurebased|scale|derived|anisotropic|degrade|attenuate|applying|determine|effectively|multiple|raised|structure|factors|outperforms|conventional|due
+venue name:Information Fusion
+venue id:7560371
+venue type:J
+document type:Journal
+study fields:Computer vision|Pattern recognition|Salience (neuroscience)|Fusion|Multi focus|Artificial intelligence|Focus measure|Region detection|Image structure|Mathematics
+references:1755572302|1973423108|1982446433|1992054832|1994616697|2025133197|2026651590|2037935589|2039608780|2050002311|2064562647|2083388902|2096502342|2106002835|2111308925|2116958009|2120626801|2132984323|2133135191|2133665775|2137804028|2141431859|2147469781|2148236753|2159749540|2166339695|2166774562|2170163526|2171125155
+
+
+id:2036115333
+title:A Self-Calibration Method for Nonorthogonal Angles Between Gimbals of Rotational Inertial Navigation System
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Nat. Key Lab. of Intell. Control  Decision of Complex Syst., Beijing Institute of Technol., Beijing, China
+author id:2433239911|
+author name:Qian Ren
+author organization:Nat. Key Lab. of Intell. Control  Decision of Complex Syst., Beijing Institute of Technol., Beijing, China
+author id:2428782053|
+author name:Zhihong Deng
+author organization:Nat. Key Lab. of Intell. Control  Decision of Complex Syst., Beijing Institute of Technol., Beijing, China
+author id:1968145912|
+author name:Mengyin Fu
+author organization:Key Lab. of Intell. Control  Decision of Complex Syst., Beijing Institute of Technol., Beijing, China
+author id:2082356461|
+]
+abstract:effectively|constant|increased|accuracy|calibrated|navigation|proved|established|model|results|moving|reduce|static|method|filter|experimental|gimbals|enhanced|unit|traditional|system|proposed|substantially|position|coupled|parameters|rotating|angles|scheme|nonorthogonal|show|piecewise|error|measurement|extended|relationship|calibration|compared|kalman|navigation|observation|gimbals|equation|rotation|estimated|also|velocity|inertial|base|compensated|proposed|observable|significantly|longterm|base
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Inertial navigation system|Control theory|Control engineering|Artificial intelligence|Inertial measurement unit|Piecewise|Gimbal|Computer vision|Extended Kalman filter|Accelerometer|Inertial reference unit|Calibration|Mathematics
+references:1975881973|1995043610|2001162850|2015342233|2028583686|2062182105|2099198465|2100948482|2107095873|2143388911|2147118753|2155962242|2160729924|2167342870
+
+
+id:2073487124
+title:Noise analysis and suppression method in attitude determination using the global positioning system (GPS)
+year:2010
+author information:[
+author name:Xuan Xiao
+author organization:Department of Automatic Control, Beijing Institute of Technology, Beijing, 100081, China
+author id:2143627174|
+author name:Bo Wang
+author organization:Department of Automatic Control, Beijing Institute of Technology, Beijing, 100081, China
+author id:2433239911|
+author name:Shunting Wang
+author organization:Beijing Institute of Technology, Beijing 100081, China
+author id:2145173280|
+author name:Mengyin Fu
+author organization:Department of Automatic Control, Beijing Institute of Technology
+author id:2082356461|
+]
+abstract:application|accuracy|determination|developed|without|influence|suppression|results|utilized|order|phase|satellites|using|method|double|experimental|squares|real|system|unit|vectors|traditional|difference|attitude|antennas|increased|angles|least|global|measurement|vehicle|total|positioning|noise|land|indicate|relationship|measurements|compared|determine|abstract|analyzed|suppress|computation|carrier|performance|application|errors|time|significantly
+venue name:Applied Mathematics and Computation
+venue id:50372074
+venue type:J
+document type:Journal
+study fields:Least squares|Satellite|Double difference|Attitude determination|Control theory|Global Positioning System|Total least squares|Mathematics|Unit vector|Computation
+references:1979154650|1997267293|2011204084|2071350979|2132580577
+
+
+id:2116958009
+title:An Optimized Approach for Pansharpening Very High Resolution Multispectral Images
+year:2012
+author information:[
+author name:Zhiqiang Zhou
+author organization:Institute of Autom., Beijing, China
+author id:2638229011|
+author name:Silong Peng
+author organization:Institute of Autom., Beijing, China
+author id:2714994676|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2654674804|
+author name:Zhihui Hao
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2700410503|
+author name:Shaolin Chen
+author organization:Institute of Autom., Beijing, China
+author id:2692532335|
+]
+abstract:modeling|accuracy|stateoftheart|extracted|approach|model|band|spatial|severely|pansharpening|similar|based|images|parameters|method|models|considering|index|methods|propose|version|multispectral|quality|field|correlation|rely|analysisbased|detail|explicitly|methods|bands|two|local|multiresolution|stateoftheart|gradient|constrained|generally|information|lowpass|pan|spectral|lp|use|process|simple|characteristics|solution|employs|details|different|results|image|panchromatic|ms|experimental|preserve|fusion|estimation|proposed|adjust|overall|demonstrate|sources|optimized|enhancement|performances|original|outperforms|fused|coefficients|avoid|inject|injection
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Computer vision|Image fusion|Panchromatic film|Remote sensing|Multispectral image|Multiresolution analysis|Artificial intelligence|Image resolution|Mathematics
+references:1992054832|2088538848|2114161542|2121652279|2123046940|2130122365|2149720806|2152254169|2163334907|2163677711|2172185514
+
+
+id:2167342870
+title:Estimation of Information Sharing Error by Dynamic Deformation Between Inertial Navigation Systems
+year:2014
+author information:[
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2433239911|
+author name:Zhihong Deng
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:1968145912|
+author name:Cheng Liu
+author organization:26th Institute, China Electron. Technol. Group Corp., Chongqing, China
+author id:2668034497|
+author name:Yuanqing Xia
+author organization:Beijing Institute of Technology, Beijing
+author id:2120081666|
+author name:Mengyin Fu
+author organization:Beijing Institute of Technology, 100081, CHINA
+author id:2082356461|
+]
+abstract:closedloop|accuracy|influence|navigation|decussate|faster|leverarm|realtime|deformation|method|model|dynamic|results|misalignment|large|method|lever|less|estimation|length|traditional|proposed|position|demonstrate|correction|errors|relative|higher|dynamic|convergence|methods|cause|vehicle|coaxial|systems|angle|verify|takes|arm|output|established|estimated|also|inertial|compensated|simulation|information|compensation|time|sharing
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Inertial navigation system|Compensation methods|Convergence (routing)|Torque|Coaxial|Simulation|Control theory|Control engineering|Deformation (mechanics)|Engineering|Information sharing
+references:2015342233|2028583686|2047572397|2054312097|2078060826|2091782715|2097838466|2107095873|2110104484|2155962242|2160729924|2163474082|2167981441
+
+
+id:2179019672
+title:Perceptual fusion of infrared and visible images through a hybrid multi-scale decomposition with Gaussian and bilateral filters
+year:2016
+author information:[
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Sun Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2444436245|
+author name:Mingjie Dong
+author organization:School of Automation, Beijing Institute of Technology, 5 South Zhongguancun Street, Haidian District, Beijing 100081, PR China
+author id:2683354827|
+]
+abstract:scalesimportant|infrared|three|adaptively|objective|properly|evaluation|introduced|depending|injected|visual|order|soft|moderate|based|images|using|method|multiscale|testing|ir|methods|jointly|obtained|relative|algorithms|schemedifferent|images|prove|superiority|achieve|finescale|result|decomposes|bilateral|pixellevel|smallscale|enables|compared|decomposed|accordance|texture|image|multiscale|actually|enhanced|perceptually|information|novel|features|levels|observers|spectral|separate|use|regularization|used|source|cues|perception|filters|features|assessment|edge|preserved|details|injecting|different|results|combination|msdbased|image|settings|hybridmsdir|visible|asymmetrical|hybridmsd|experimental|adjusted|capture|fusion|important|hybrid|proposed|background|demonstrate|present|largescale|preserving|according|scale|decomposition|scenery|transform|perceptual|parameter|visually|human|make|amount|subjective|control|also|better|conventional|preferences|fused|well|gaussian|user|base
+venue name:Information Fusion
+venue id:7560371
+venue type:J
+document type:Journal
+study fields:Gaussian filter|Computer vision|Image fusion|Pattern recognition|Fusion|Regularization (mathematics)|Gaussian|Artificial intelligence|Infrared|Bilateral filter|Perception|Mathematics
+references:1528144695|2005927904|2014886478|2020442368|2025194869|2026651590|2030716039|2048964123|2050002311|2050320786|2055215570|2056346283|2073779945|2079811652|2091649119|2099244020|2099431685|2106002835|2126750039|2132746638|2133135191|2144531167|2147821504|2156053375|2160451035|2167441249|2244684328
+
+
+id:2404743474
+title:Study on the Electric-pneumatic Pressure Valve Driven by Voice Coil Motor
+year:2015
+author information:[
+author name:Tao Wang
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2440495359|
+author name:Jie Wang
+author organization:School of Automation , Beijing Institute of Technology , Beijing , Peoples Republic of China
+author id:2641857665|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2654355787|
+author name:Jinbing Chen
+author organization:School of Automation , Beijing Institute of Technology , Beijing , Peoples Republic of China
+author id:2687609632|
+]
+abstract:voice|data|highspeed|developed|growing|satisfied|optimization|model|results|coil|excellent|owing|active|proportional|pressure|demand|whose|rejection|system|driven|obtained|valve|motor|disturbance|superiority|analysis|vcm|experiments|validation|validated|electricpneumatic|designed|concerning|characteristics|controller|control|pid|performed|build|response|mathematical
+venue name:International Conference on Intelligent Robotics and Applications
+venue id:1165196434
+venue type:C
+document type:Conference
+study fields:Control theory|PID controller|Control theory|Voice coil|Control engineering|Engineering|Relief valve
+references:2045239556
+
+
+id:2550157261
+title:A Novel Inshore Ship Detection via Ship Head Classification and Body Boundary Determination
+year:2016
+author information:[
+author name:Sun Li
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2444436245|
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Fei Wu
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2565742381|
+]
+abstract:accurate|robustly|ship|areas|detected|saliency|remote|via|introduced|depending|symmetrical|context|easily|utilized|surrounding|based|give|method|shape|compared|refine|classification|accurately|propose|traditional|ships|determined|domain|alarms|images|methods|sea|segments|body|directional|vector|polar|detection|initial|highresolution|gradient|consistent|machine|information|heads|novel|optical|trapezoid|approximate|used|body|features|generate|results|experimental|important|proposed|support|inshore|boundary|line|show|detect|remove|head|transformed|sensing|determination|false|direction
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Computer vision|Line segment|Head segmentation|Salience (neuroscience)|Support vector machine|Remote sensing|Feature extraction|Polar coordinate system|Artificial intelligence|Detector|Mathematics
+references:2002330476|2061200049|2099046646|2111308925|2153635508|2160072137|2400138547
+
+
+id:2579143240
+title:Analysis and Calibration of the Nonorthogonal Angle in Dual-Axis Rotational INS
+year:2017
+author information:[
+author name:Zhihong Deng
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:1968145912|
+author name:Mu Sun
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2285845222|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2433239911|
+author name:Mengyin Fu
+author organization:Department of Automatic Control, Beijing Institute of Technology
+author id:2082356461|
+]
+abstract:axes|accuracy|desirable|improved|navigation|manufacturing|decline|reliability|algorithm|navigation|inevitable|using|method|sensitive|analysis|feasibility|system|restrained|attitude|systemic|indicated|measurement|based|relationship|demonstrated|calibration|estimating|established|practical|lead|model|fast|calibrate|requirements|first|experiment|theoretical|simple|longendurance|results|comparison|presented|imu|especially|proposed|effect|errors|rotating|angles|nonorthogonal|units|effective|coupled|enhance|enhancing|navigation|practical|effectively|estimated|verified|also|improvement|inertial|simulation|rotation|compensation
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Inertial frame of reference|Inertial navigation system|Calibration algorithm|Observability|Units of measurement|Simulation|Accelerometer|Control theory|Inertial measurement unit|Engineering|Calibration
+references:1480278426|1506918467|1968671573|2001162850|2036115333|2053717230|2062182105|2097275135|2100948482|2143388911|2147118753|2151958794|2161393722|2167342870
+
+
+id:2742821607
+title:Research on the Synchronous Control of the Pneumatic Parallel Robot with Two DOF
+year:2017
+author information:[
+author name:Shaoning Wang
+author organization:Beijing Institute of Technology) )
+author id:2745117802|
+author name:Tao Wang
+author organization:Beijing Institute of Technology) )
+author id:2440495359|
+author name:Bo Wang
+author organization:Beijing Institute of Technology) )
+author id:2654355787|
+author name:Wei Fan
+author organization:Beijing Institute of Technology) )
+author id:2437995477|
+]
+abstract:theoretical|synchronous|improves|changing|degrees|robot|horizontal|introduced|algorithm|based|ensure|method|active|pressure|technology|cylinders|two|difference|force|algorithm|position|motion|attitude|basing|study|objectoriented|foundation|two|pneumatic|planning|coordinately|adaptive|researched|mechanism|freedom|paper|load|parallel|variety|studies|end|mechanism|fuzzy|motion|cylinder|control|pid|trajectory|structure|controlled|compressibility|gravity|cannot|cylinder|uses|compensation|lays|coordinated
+venue name:International Conference on Intelligent Robotics and Applications
+venue id:1165196434
+venue type:C
+document type:Conference
+study fields:Compressibility|Robot control|Parallel manipulator|Cylinder (engine)|Motion control|Control theory|Cylinder|Fuzzy logic|Control engineering|Engineering|Swing
+references:1961312251|2036860863|2057787077|2107545453|2122100123|2154293820|2501586739
+
+
+id:2767832224
+title:Scale-Aware Edge-Preserving Image Filtering via Iterative Global Optimization
+year:2018
+author information:[
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Jinlei Ma
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2580946031|
+]
+abstract:stateoftheart|introduced|optimization|suppression|suppression|visual|whereas|filtering|manipulation|based|images|using|method|preventing|natural|scaleaware|propose|achieve|methods|global|local|halos|current|varying|variety|halos|blurring|performance|enabling|gradient|many|filter|framework|advantages|fast|filtering|requiring|able|manner|good|implemented|boundaries|extrema|avoiding|like|kind|iterative|comparing|preserve|important|sequence|measure|proposed|demonstrate|largescale|correction|oriented|oversharpening|idea|show|technique|structures|applications|pixel|smooth|coarsescale|effectiveness|selective|edges|control|filters|way|better|edgepreserving|spatially|guidance|gaussian|applications
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Computer vision|Global optimization|Iterative method|Computer science|Visualization|Filter (signal processing)|Maxima and minima|Gaussian|Artificial intelligence|Pixel
+references:1528144695|1873172440|1918250297|1966040142|1967795753|1979369422|1983044509|1997701791|2001002651|2015207482|2019904315|2040378863|2057203222|2078718577|2083509580|2096768337|2099244020|2109075629|2125188192|2133155955|2137401668|2141957843|2144531167|2150134853|2151103935|2162618331|2231495490|2240509208|2291143146|2542965071
+
+
+id:2799467415
+title:A Characteristic Parameter Matching Algorithm for Gravity-Aided Navigation of Underwater Vehicles
+year:2019
+author information:[
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Jingwei Zhu
+author organization:School of Automation and National Key Laboratory of Intelligent Control and Decision of Complex Systems Beijing Institute of Technology Beijing China
+author id:2800428274|
+author name:Zhihong Deng
+author organization:School of Automation and National Key Laboratory of Intelligent Control and Decision of Complex Systems Beijing Institute of Technology Beijing China
+author id:1968145912|
+author name:Mengyin Fu
+author organization:Nanjing University of Science  Technology
+author id:2082356461|
+]
+abstract:measured|data|correct|accurate|considered|reliable|accuracy|gravityaided|number|navigation|high|connects|continuous|calculate|calculated|results|algorithm|reduce|based|new|method|positions|accurately|traditional|system|field|proposed|improve|final|position|obtained|parameters|anomaly|prove|indicated|methods|according|range|mismatching|characteristic|matching|ins|paper|due|parameter|vector|particle|anomaly|rigid|trajectory|value|key|compared|shorttime|makes|also|filters|gravitational|increase|transformation|inertial|trajectory|carrier|error|proposed|matching|simulation|corresponding|gravity|series|certain|presents
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Inertial navigation system|Inertial frame of reference|Gravitational field|Control theory|Particle filter|Rigid transformation|Gravity anomaly|Engineering|Blossom algorithm|Trajectory
+references:1989746572|2015306524|2036115333|2071291395|2072520237|2155962242|2163465604|2165199328|2167342870|2167899484|2345111710|2570122939
+
+
+id:2896903403
+title:Inshore Ship Detection Based on Convolutional Neural Network in Optical Satellite Images
+year:2018
+author information:[
+author name:Fei Wu
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2565742381|
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Jinlei Ma
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2580946031|
+]
+abstract:smaller|ship|remote|different|complex|suppression|proposal|based|images|multitask|method|shape|compared|considering|robustness|analysis|classification|ships|regions|images|methods|global|eliminate|experiments|sea|current|search|detection|precise|convolutional|detection|set|efficient|texture|possible|produce|proposals|help|unified|heads|novel|optical|detections|network|starts|generate|obtain|need|iterative|duplicate|condition|proposed|beneficial|relatively|demonstrate|present|region|inshore|rough|neural|targets|trained|rather|applied|distinct|network|head|candidate|land|satellite|boundingbox|effectiveness|sensing|practical|constructed|nonmaximum|regression|well|location|specially
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Computer vision|Satellite|Microsoft Windows|Convolutional neural network|Segmentation|Robustness (computer science)|Artificial intelligence|Optical imaging|Mathematics
+references:7746136|1533861849|1536680647|1686810756|1849277567|1964313985|2002330476|2017226600|2026512191|2034875816|2049197221|2061200049|2064094295|2068730032|2088049833|2097117768|2100503224|2102605133|2108349280|2117539524|2137782143|2155893237|2163605009|2167731172|2183182206|2296098264|2550157261|2597117158|2613718673|2659533854|2756626859|2757094569|2793141496|2963037989|2963150697|2963873508
+
+
+id:2913271495
+title:Multi-focus image fusion using boosted random walks-based algorithm with two-scale focus maps
+year:2019
+author information:[
+author name:Jinlei Ma
+author organization:School of Automation, Beijing Institute of Technology Beijing, China
+author id:2580946031|
+author name:Zhiqiang Zhou
+author organization:School of Automation Beijing Institute of Technology
+author id:2435567794|
+author name:Bo Wang
+author organization:School of Automation Beijing Institute of Technology
+author id:2720046968|
+author name:Lingjuan Miao
+author organization:School of Automation, Beijing Institute of Technology, China
+author id:2912447222|
+author name:Hua Zong
+author organization:National Key Laboratory of Science and Technology, Aerospace Intelligent Control Beijing China
+author id:2442863719|
+]
+abstract:equivalent|focus|stateoftheart|complementary|observed|objective|imperfect|would|complex|estimate|walksbased|usually|aligned|probabilities|using|efficiency|method|misregistration|robustness|methods|sensitive|propose|boost|obtained|algorithms|methods|twoscale|ones|found|procedures|firstly|perspective|map|compared|enabling|address|robust|strategies|efficient|abstract|probabilistic|alternate|many|produce|great|associated|small|use|generated|directly|results|computational|multifocus|experimental|modeled|fusion|estimation|measure|proposed|solve|try|demonstrate|largescale|boundaries|solving|contribute|random|paper|observations|result|pixel|badlyaligned|measures|advantage|yet|better|conventional|properties|taking
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Imperfect|Pattern recognition|Image fusion|Random walk|Fusion|Algorithm|Robustness (computer science)|Multi focus|Artificial intelligence|Pixel|Probabilistic logic|Mathematics
+references:1563899710|1822893040|1966040142|1974221832|1985972181|1994616697|1994714721|1999034606|2002285735|2010307644|2015207482|2025133197|2026651590|2028555274|2039465985|2039608780|2044768255|2055215570|2064562647|2078718577|2083509580|2103423579|2116702374|2125188192|2125637308|2133548584|2136001449|2136154655|2141957843|2146695559|2157853947|2160337655|2165641639|2170163526|2171125155|2179019672|2306859282|2522703671|2543959933|2555429518|2559870345|2565500592
+
+
+id:1975542174
+title:A novel low-noise high-linearity CMOS transmitter for mobile UHF RFID reader
+year:2014
+author information:[
+author name:Shan Liu
+author organization:Peking University
+author id:2511528282|
+author name:XinAn Wang
+author organization:Peking University Shenzhen Graduate School
+author id:2944845835|
+author name:JinPeng Shen
+author organization:Peking University Shenzhen Graduate School
+author id:2100321854|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Tao Ye
+author organization:Hong Kong RD Centre for Logistics and Supply Chain Management Enabling Technologies
+author id:2657048322|
+author name:Ru Huang
+author organization:Peking University
+author id:2170038333|
+]
+abstract:standard|measured|communicate|tx|modulation|reader|cancellation|mw|output|dbm|high|uhf|implemented|transmitter|upconversion|reduce|area|active|reader|analog|adopting|proposed|driver|mixer|amplifier|compression|conveniently|doublesideband|consumption|circuit|distance|point|cmos|consuming|low|transponder|noise|occupying|v|noise|power|db|highly|process|linear|linearity|makes|rfid|baseband|mobile|voltage|amplitudeshiftkeying|silicon|designed|novel
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Transmitter|Baseband|Transmitter power output|Telecommunications|Control theory|Linearity|CMOS|Transponder (aeronautics)|Ultra high frequency|Electrical engineering|Mathematics|Amplifier
+references:2095716178|2098488432|2118305368|2130679404|2135562542|2166896082|2178256119
+
+
+id:1991052842
+title:A reference spur estimation method for integer-N PLLs
+year:2013
+author information:[
+author name:Bo Wang
+author organization:Peking University
+author id:2712486027|
+author name:Jinhai Zhang
+author organization:Peking University Shenzhen Graduate School
+author id:2233765587|
+author name:Edouard Ngoya
+author organization:University of Limoges
+author id:2951656317|
+]
+abstract:big|closeloop|quick|using|veriloga|building|spur|reference|loop|function|implemented|results|algorithm|openloop|method|simulation|level|transistorlevel|traditional|transfer|proposed|prediction|leakage|full|predicted|reasons|challenges|pll|current|design|caused|end|hard|allows|one|match|many|instead|filter|mismatch|well|pll|design|novel
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Integer|Phase-locked loop|Leakage (electronics)|Control theory|Computer science|Spur|Electronic engineering|Transfer function|Loop filter
+references:1966204301
+
+
+id:1993013295
+title:A novel compact low-power direct conversion receiver for mobile UHF RFID reader
+year:2012
+author information:[
+author name:Shan Liu
+author organization:Peking University
+author id:2511528282|
+author name:Xin’An Wang
+author organization:Peking University Shenzhen Graduate School
+author id:2944845835|
+author name:JinPeng Shen
+author organization:Peking University Shenzhen Graduate School
+author id:2100321854|
+author name:Bo Wang
+author organization:Peking University
+author id:2906936608|
+author name:Tao Ye
+author organization:Hong Kong RD Centre for Logistics and Supply Chain Management Enabling Technologies
+author id:2657048322|
+author name:Ru Huang
+author organization:Peking University
+author id:2170038333|
+]
+abstract:standard|measured|communicate|flicker|reader|output|uhf|implemented|buffer|presence|signal|area|block|receiver|offset|large|active|reader|input|canceller|mixer|sensitivity|compression|conveniently|leakage|canceling|scheme|distance|fourinput|direct|highinputimpedance|onchip|point|dbm|cmos|consuming|load|low|transponder|v|noise|power|transmitter|opamp|db|conversion|highly|occupying|process|cost|linear|efficient|makes|mobile|rfid|mobile|voltage|proposed|silicon|novel|adopted|dc
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Transmitter|Flicker noise|Control theory|Active load|Transponder (aeronautics)|DC bias|Ultra high frequency|Electrical engineering|Direct-conversion receiver|Operational amplifier|Mathematics|Embedded system
+references:2095716178|2104195245|2113250267|2118305368|2127961238|2135562542|2178256119
+
+
+id:2004401568
+title:A super-regenerative pulsed UWB receiver combined with injection-locking
+year:2013
+author information:[
+author name:Tongning Hu
+author organization:Peking University
+author id:2348709974|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Shan Liu
+author organization:Peking University
+author id:2511528282|
+author name:Yi Peng
+author organization:Peking University
+author id:2225827532|
+author name:Jinghai Zhang
+author organization:Peking University
+author id:2288555085|
+author name:Jinpeng Shen
+author organization:Peking University
+author id:2100321854|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+]
+abstract:compact|use|superregenerative|frequency|features|signal|combination|realize|oscillator|receiver|thus|suppressing|pulsed|less|receiver|ghz|proposed|adopting|benefits|circuit|consuming|cmos|srr|paper|low|working|power|designed|consumes|allows|digital|uwb|characteristics|locking|also|technology|supply|ber|calibrating|wideband|pulse|pll|injection|novel|presents
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Phase-locked loop|Wideband|Oscillation|Radio receiver design|Computer science|Injection locking|CMOS|Electronic engineering|Electrical engineering|Calibration|Low-power electronics
+references:2097320315|2102733974|2114882654|2121854389|2122867694|2124050434|2137800538|2161961289
+
+
+id:2023161768
+title:Analysis of a compact BCC transceiver based on PLL FSK modulator/demodulator
+year:2014
+author information:[
+author name:Chaoxun Wang
+author organization:Peking University
+author id:2150208343|
+author name:Ke Lin
+author organization:Peking University
+author id:2236262545|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Jiali Hou
+author organization:Peking University
+author id:2472038867|
+author name:Mo Wang
+author organization:Peking University
+author id:2721160585|
+author name:Kai Xu
+author organization:Peking University
+author id:2636069135|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+]
+abstract:mostly|reuse|compact|correct|transceiver|paper|whole|body|good|feasibility|thanks|modulator|communication|fsk|bcc|channel|proposed|simplified|consumption|circuit|proving|ultracompact|pll|low|power|human|architecture|compared|prefers|analyzed|structure|conventional|demodulator|suitable|operation
+venue name:Asia Pacific Conference on Circuits and Systems
+venue id:1133691915
+venue type:C
+document type:Conference
+study fields:Phase-locked loop|Demodulation|Transceiver|Frequency-shift keying|Computer science|Communication channel|Modulation|Electronic engineering|Electrical engineering|Modulator/Demodulator|Phase frequency detector
+references:2000345125|2036876617|2068876400|2112543413|2112759302
+
+
+id:2052275843
+title:A 800nW high-accuracy RC oscillator with resistor calibration for RFID
+year:2013
+author information:[
+author name:Jinhai Zhang
+author organization:Peking University Shenzhen Graduate School
+author id:2233765587|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Yi Peng
+author organization:Peking University
+author id:2225827532|
+author name:Tongning Hu
+author organization:Peking University
+author id:2348709974|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+]
+abstract:reports|exceeds|serve|variation|frequency|reference|shows|stateofart|resistor|oscillator|simulation|figureofmerit|clock|highaccuracy|circuits|rc|achieving|proposed|adopting|overall|worst|calibration|scheme|according|technique|corners|paper|intended|design|power|calibration|allows|tag|lowpower|robust|efficient|rfid|also|consumption|passive|novel
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Process compensation|Oscillation|Computer science|Electronic engineering|Resistor|RC oscillator|Electronic circuit|Electrical engineering|Calibration|Power consumption
+references:2065757592|2128207004
+
+
+id:2061118292
+title:A three-stage LDO with active feedback frequency compensation and slew-rate enhancement
+year:2013
+author information:[
+author name:Tongning Hu
+author organization:Peking University
+author id:2348709974|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Ke Lin
+author organization:Peking University
+author id:2236262545|
+author name:Yi Peng
+author organization:Peking University
+author id:2225827532|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+]
+abstract:eliminating|enhancement|frequency|feedback|zero|loop|presented|stability|current|phase|using|margin|response|simulated|active|capacitor|reuses|quiescent|bringing|left|transient|dropout|regulator|supplying|full|circuit|improved|range|speed|cmos|righthalfplane|current|paper|load|low|dropout|ldo|provides|minimize|structure|compensation|voltage|slewrate|stage|compensation|first|presents
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Transient response|Capacitor|Control theory|Computer science|Electronic engineering|Phase margin|Slew rate|Frequency compensation|Low-dropout regulator|Dropout voltage|Biasing
+references:2076027811|2157123341|2167017502
+
+
+id:2139582289
+title:Integer-N PLLs Verification Methodology: Large Signal Steady State and Noise Analysis
+year:2012
+author information:[
+author name:Bo Wang
+author organization:Peking University
+author id:2712486027|
+author name:E. Ngoya
+author organization:University of Limoges
+author id:2262175046|
+]
+abstract:modeling|accurate|simulation|described|concern|bottomup|state|circuits|algorithm|phase|using|integern|analysis|accurately|transistorlevel|much|circuit|nonidealities|two|computer|composed|noise|noise|predicting|chip|steadystate|within|fast|framework|accounts|tapeout|calculation|commercial|precision|radio|frequency|major|loop|hierarchical|implemented|locked|verification|new|need|less|important|spending|proposed|bruteforce|comprehensively|purpose|integrated|blocks|pll|general|paper|behavioral|memory|steady|covers|characteristics|tools|conventional|response|succeed|time|strategy|methodology
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Phase-locked loop|Behavioral modeling|Phase noise|Electronic engineering|RFIC|Electronic circuit|Integrated circuit|Computer memory|Steady state (electronics)|Mathematics
+references:1998752433|2104147443|2127567917|2160797709|2167168835|2172110286
+
+
+id:2487583395
+title:Design and implementation of a body monitoring baseband system for human body communication
+year:2015
+author information:[
+author name:Xiaofei Chen
+author organization:Peking University Shenzhen Graduate School
+author id:2681490448|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Ke Lin
+author organization:Peking University
+author id:2236262545|
+author name:Ning Li
+author organization:Peking University Shenzhen Graduate School
+author id:2702505133|
+author name:Chen Chen
+author organization:Peking University
+author id:2638720391|
+author name:Haibin Shao
+author organization:Peking University
+author id:2483708114|
+author name:Xin-An Wang
+author organization:Peking University Shenzhen Graduate School
+author id:2944845835|
+]
+abstract:wireless|medical|data|fpga|subsystem|convenience|body|protocol|brings|enable|communication|order|area|new|similar|basis|propose|node|unit|system|field|rate|optimized|monitoring|platform|network|smic|paper|design|table|power|human|digital|lookup|basband|cost|efficient|mw|implementation|verified|baseband|great|prototype|hub|management|subsystem|consists|configurable|presents
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Lookup table|Baseband|Computer science|FPGA prototype|Electronic engineering|Real-time computing|Body area network|Data rate|Network management|Communications protocol|Embedded system
+references:2023161768|2112543413|2114979750|2130851966
+
+
+id:2489917048
+title:PPV Modeling of Memristor-Based Oscillators and Application to ONN Pattern Recognition
+year:2017
+author information:[
+author name:Hanyu Wang
+author organization:Peking University
+author id:2503638254|
+author name:Miao Qi
+author organization:Peking University
+author id:2481152808|
+author name:Bo Wang
+author organization:Peking University
+author id:2702888231|
+]
+abstract:modeling|accurate|simulation|features|retaining|phase|based|oscillator|method|compared|oscillatory|proposed|sensitivity|largescale|complexity|oscillators|speeding|neural|applied|perturbation|pattern|characteristic|onn|network|memristorbased|vector|projection|precision|highly|enables|efficient|recognition|abstraction|considerably|many|existing|fast|time|reducing|comparable|novel
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Vector projection|Memristor|Oscillation|Synchronization|MATLAB|Pattern recognition|Computer science|Electronic engineering|Artificial intelligence|Artificial neural network
+references:1544430784|1632971677|1987712409|1990602655|2019061854|2051547299|2102216069|2111162116
+
+
+id:2503562518
+title:A high-performance charge pump with improved static and dynamic matching characteristic
+year:2015
+author information:[
+author name:Haibin Shao
+author organization:Peking University
+author id:2483708114|
+author name:Ke Lin
+author organization:Peking University
+author id:2236262545|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Chen Chen
+author organization:Peking University
+author id:2638720391|
+author name:Fang Gao
+author organization:Peking University
+author id:2292573235|
+author name:Feng Huang
+author organization:Peking University
+author id:2611866913|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+]
+abstract:equivalent|simulation|supply|output|analyzing|path|introduced|reduce|variable|highperformance|discharging|transient|bulkbiasing|vco|range|matching|speed|current|inserted|conduction|temperature|turnon|prototype|capacitor|fast|mismatch|maximum|adopted|perfect|added|impedance|process|spur|reference|coupling|high|implemented|pseudocascode|accelerate|dynamic|results|signal|obtain|static|level|pump|ripple|properties|largest|show|technique|switch|cmos|pll|smic|paper|extra|behavior|amount|wide|charge|control|weaken|structure|voltage|mos|turnoff|conventional|well|time
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Phase-locked loop|Output impedance|Capacitor|Coupling|Control theory|Computer science|Voltage|Electronic engineering|Voltage-controlled oscillator|Charge pump|Ripple
+references:2156412600|2171751422
+
+
+id:2548218019
+title:A small-footprint Body Channal Communication transceiver using only one Phase-Locked Loop as modulator and demodulator
+year:2016
+author information:[
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Haibin Shao
+author organization:Peking University
+author id:2699174313|
+author name:Chaoxun Wang
+author organization:Peking University
+author id:2628534980|
+]
+abstract:smaller|accuracy|saves|largely|block|fsk|oscillator|thus|devices|require|demodulation|wearable|propose|circuits|even|tiny|key|circuit|works|ultracompact|adaptive|ringbased|calibration|together|communication|chip|one|controlled|small|phaselocked|modulation|data|transceiver|achieves|main|simplifies|frequency|loop|area|channel|frequencyshift|system|core|proposed|improve|area|cmos|paper|rate|working|body|pllreused|occupies|structure|possible|voltage|fullydifferential|footprint|well|demands
+venue name:International New Circuits and Systems Conference
+venue id:2736041878
+venue type:C
+document type:Conference
+study fields:Phase-locked loop|Demodulation|Transceiver|Frequency-shift keying|Computer science|Electronic engineering|CMOS|Voltage-controlled oscillator|Electronic circuit|Electrical engineering|Phase frequency detector
+references:1536269369|2036876617|2098565684|2112543413|2112759302|2163776603|2171751422
+
+
+id:2583575988
+title:A reliable PPV characterization method for memristor-based oscillators
+year:2016
+author information:[
+author name:Bo Wang
+author organization:Peking University
+author id:2702888231|
+author name:Hanyu Wang
+author organization:Peking University
+author id:2503638254|
+author name:Miao Qi
+author organization:Peking University
+author id:2481152808|
+]
+abstract:prc|modeling|ring|simulation|projection|rigorously|reliable|problem|colpitts|encounters|oscillators|obtain|based|successfully|method|propose|circuits|transistorlevel|proposed|biological|theory|oscillators|hidden|convergence|concept|direct|discipline|general|memristorbased|paper|ppv|emerging|conversion|apply|unifying|abstraction|verified|prc|state|response|existing|due|characterization
+venue name:International Conference on Electronics, Circuits, and Systems
+venue id:2623819433
+venue type:C
+document type:Conference
+study fields:Colpitts oscillator|Vector projection|Memristor|Oscillation|Abstraction|Computer science|Convergence problem|Control engineering|Electronic engineering|Electronic circuit
+references:1990602655|2019061854|2051547299
+
+
+id:2585813062
+title:Predicting the oscillation condition of memristor-based oscillators using Hopf bifurcation theory
+year:2016
+author information:[
+author name:Miao Qi
+author organization:Peking University
+author id:2481152808|
+author name:Hanyu Wang
+author organization:Peking University
+author id:2503638254|
+author name:Bo Wang
+author organization:Peking University
+author id:2702888231|
+]
+abstract:addresses|van|subcritical|simulation|faster|mainly|feedback|der|unable|bifurcation|whether|oscillation|model|expressed|results|predicted|based|using|successfully|ideal|oscillator|method|real|analysis|pol|propose|condition|proposed|coefficient|oscillators|applied|direct|lyapunov|circuit|times|memristorbased|paper|validated|memristor|derived|close|emerging|determine|introduce|analyzed|supercritical|generic|criterion|form|conventional|condition|cannot|latter|barkhausen|novel|first|hopf
+venue name:International Conference on Electronics, Circuits, and Systems
+venue id:2623819433
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Memristor|Oscillation|Barkhausen stability criterion|Van der Pol oscillator|Electronic engineering|Control engineering|Mathematics|Hopf bifurcation|Bifurcation
+references:2019061854|2082617862
+
+
+id:2783060675
+title:A novel programmable pulse-broadening time amplifier controlled by node capacitance
+year:2017
+author information:[
+author name:Jiangtao Gu
+author organization:Peking University Shenzhen Graduate School
+author id:2758352398|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+author name:Chao Zhang
+author organization:Peking University
+author id:2759152599|
+author name:Tingbing Ouyang
+author organization:Peking University Shenzhen Graduate School
+author id:2757124842|
+author name:Lizhao Gao
+author organization:Peking University Shenzhen Graduate School
+author id:2758816810|
+]
+abstract:constantslope|improves|complementary|changing|gains|output|timegain|state|controlling|period|compared|width|exist|amplification|input|transient|binary|linearprogrammable|simultaneously|much|relative|circuit|times|timedifference|range|matrix|cycle|gain|amplification|reported|capacitanceswitching|according|latest|peaktopeak|ta|width|novel|states|pulsewidth|edge|either|signal|realize|pulsebroadening|tas|amplified|clock|flexibleadjustable|proposed|varies|amplifier|fixed|errors|rising|ranges|input|error|steady|falling|programmable|recently|simply|center|variableslope|pulse|variable|realizes|duty|time|signal
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Clock signal|Capacitance|Computer science|Duty cycle|Pulse-width modulation|Optics|Electronic engineering|Pulse (signal processing)|Signal edge|Integrated circuit|Amplifier
+references:1571758417|1989376602|2008148578|2120935131|2166268103|2343728099|2522346209
+
+
+id:2783156638
+title:A low bit-width parameter representation method for hardware-oriented convolution neural networks
+year:2017
+author information:[
+author name:Qiang Chen
+author organization:Peking University
+author id:2783026579|
+author name:Chen Xin
+author organization:Peking University Shenzhen Graduate School
+author id:2970257707|
+author name:Chenglong Zou
+author organization:Peking University
+author id:2784278735|
+author name:Xinan Wang
+author organization:Peking University
+author id:2944845835|
+author name:Bo Wang
+author organization:Peking University
+author id:2610966694|
+]
+abstract:intelligence|data|fpga|fewer|accuracy|stateoftheart|entire|without|deploy|cnns|number|loss|retrain|lenet|reduce|resourcelimited|models|making|parameters|method|need|compress|evaluation|bits|less|convenient|parameters|become|artificial|cnn|neural|trained|technique|consume|networks|tune|iot|effective|convolution|paper|reduces|power|applications|retraining|means|compressing|resources|energy|heavily|possible|devices|way|computation|existing|finetuning|logic|presents
+venue name:International Conference on ASIC
+venue id:2623605732
+venue type:C
+document type:Conference
+study fields:Adder|Convolution|Computer science|Internet of Things|Field-programmable gate array|Low bit|Computer hardware|Artificial neural network|Fold (higher-order function)|Computation
+references:2337344472
+
+
+id:2807697862
+title:Image Captioning with Scene-graph Based Semantic Concepts
+year:2018
+author information:[
+author name:Lizhao Gao
+author organization:Peking University Shenzhen Graduate School
+author id:2805693904|
+author name:Bo Wang
+author organization:Peking University
+author id:2806565294|
+author name:Wenmin Wang
+author organization:Peking University
+author id:2806900933|
+]
+abstract:called|dataset|bit|different|scene|rnn|phase|embed|captioning|generate|results|sentence|respectively|obtain|image|based|method|dependency|ms|experimental|captioning|scenegraph|propose|graph|input|task|concepts|intermediate|competitive|scenegraphbased|evaluate|next|semantic|concept|coco|show|representation|two|result|cooccurrence|vocabulary|construction|divide|transformed|stateofthearts|explore|cognition|cnnrnnsvm|approaches|highlevel|existing|superior|framework|build|novel
+venue name:International Conference on Machine Learning
+venue id:1180662882
+venue type:C
+document type:Conference
+study fields:Scene graph|Closed captioning|Pattern recognition|Computer science|Artificial intelligence|Natural language processing|Cognition|Semantic representation|Sentence|Bit array|Vocabulary
+references:1514535095|1895989618|2404394533|2463955103|2949769367|2950133940|2950201573|2952122856
+
+
+id:2911279106
+title:A balanced hybrid ring oscillator for precise temperature compensation
+year:2018
+author information:[
+author name:Kanglin Xiao
+author organization:Peking University
+author id:2912407159|
+author name:Bo Wang
+author organization:Peking University
+author id:2760515481|
+author name:Xiaoqi Lin
+author organization:Peking University Shenzhen Graduate School
+author id:2914289535|
+author name:Changpei Qiu
+author organization:Peking University Shenzhen Graduate School
+author id:2912742260|
+]
+abstract:explain|optimal|ring|type|developed|characteristics|supply|different|variation|number|ptat|implemented|adjusting|models|oscillator|capacitance|ideal|opposite|clock|cell|hybrid|delay|proposed|worst|ro|mhz|circuit|range|onchip|balanced|point|cmos|mechanism|found|paper|load|ros|temperature|currentstarved|precise|normal|characteristics|process|previous|one|combining|nonideal|compensation|compensated|cells|absolute|consists|compensation|ctat
+venue name:International Midwest Symposium on Circuits and Systems
+venue id:2622932236
+venue type:C
+document type:Conference
+study fields:Clock signal|Ring oscillator|Capacitance|Atmospheric temperature range|Computer science|Absolute zero|Electronic engineering|Cmos process|Process variation|Optoelectronics
+references:2048787276|2103584631|2133427075|2483945378
+
+
+id:2913553151
+title:A multi-phase detecting method for spurs cancellation in all digital fractional-N phase-lock loops
+year:2018
+author information:[
+author name:Tingbing Ouyang
+author organization:Peking University Shenzhen Graduate School
+author id:2757124842|
+author name:Kanglin Xiao
+author organization:Peking University
+author id:2912407159|
+author name:Xiaoqi Lin
+author organization:Peking University Shenzhen Graduate School
+author id:2914289535|
+author name:Changpei Qiu
+author organization:Peking University Shenzhen Graduate School
+author id:2912742260|
+author name:Bo Wang
+author organization:Peking University
+author id:2760515481|
+]
+abstract:simulation|converter|multiphase|bring|multiphase|resolution|variation|without|spur|frequency|high|adding|shifts|narrow|converters|tdc|results|inherent|issue|method|nonlinearity|finite|adapt|fractional|assisted|dtc|contains|eliminates|cancellation|proposed|detecting|impulse|digitaltotime|spur|timetodigital|show|digital|range|spurs|loops|tdc|paper|noise|phaselock|architecture|linearity|may|limited|caused|also|although|suppress|fir|spurs|actually|filter|response|achieved|unwanted|significantly
+venue name:International Midwest Symposium on Circuits and Systems
+venue id:2622932236
+venue type:C
+document type:Conference
+study fields:Nonlinear system|Computer science|Lock (computer science)|Linearity|Multi phase|Spur|Converters|Electronic engineering|Finite impulse response
+references:1967115316|1975505602|1994184480|1997287970|2084894221|2526823520|2592077478|2605666562|2756489207|2758621295
+
+
+id:1500133521
+title:Low-Overhead Distributed Jamming for SIMO Secrecy Transmission with Statistical CSI
+year:2015
+author information:[
+author name:Chao Wang
+author organization:School of Electronic and Information Engineering
+author id:2670962742|
+author name:Hui-Ming Wang
+author organization:School of Electronic and Information Engineering
+author id:2151152160|
+author name:Bo Wang
+author organization:School of Electronic and Information Engineering, Xi’an, China
+author id:2295129193|
+]
+abstract:channel|heterogeneous|coordination|maximize|number|transmission|multipleantenna|optimize|multioutput|mimo|state|geographically|signal|programming|based|approximation|receiver|large|maximizing|distributed|applicable|require|propose|fading|confound|system|singleantenna|signals|ergodic|proposed|asymptotic|among|geometric|largescale|greatly|eavesdropper|statistical|independent|scheme|singleinput|derive|eavesdropper|secrecy|rate|achievable|reduces|power|jammers|esr|jamming|multiple|transmit|jammer|exploring|massive|uncoordinated|information|strategy
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:Topology|Synchronization|Mathematical optimization|Transmitter power output|Telecommunications|Fading|Secrecy|MIMO|Geometric programming|Jamming|Mathematics|Channel state information
+references:2007529001|2061159444|2065313044|2072487832|2080693943|2085914567|2086006789|2096151870|2104478100|2112820013|2122653429|2127995963|2128513990|2135137654|2141682101|2141797073|2168792413|2171006634|2963103095
+
+
+id:1983143345
+title:Practical Transmission Scheme With Fixed Communication Rate Under Constraints of Transmit Power and Secrecy Outage Probability
+year:2015
+author information:[
+author name:Zongmian Li
+author organization:Xian Jiaotong University
+author id:2192208536|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Xiaoyan Hu
+author organization:Xian Jiaotong University
+author id:2425149991|
+]
+abstract:performs|perfect|channel|main|simplifies|secure|constraints|adaptively|transmission|assumption|state|communication|different|codebook|results|new|fixing|issue|thus|probability|adjusts|schemes|fading|propose|singleantenna|addressed|channels|slow|proposed|statistical|scheme|show|nonadaptive|fixes|layer|adaptive|security|strict|secrecy|rate|wiretap|csi|letter|power|physical|outage|literature|transmit|length|conventional|simulation|sop|well|information|constraint|design
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Transmitter power output|Secure transmission|Computer science|Fading|Secrecy|Communication channel|Computer network|Physical layer|Channel state information|Codebook
+references:2039065876|2043769961|2102654676|2112513314|2113706820|2144371013|2170589865
+
+
+id:2037636326
+title:Secrecy Rate Maximization With Artificial-Noise-Aided Beamforming for MISO Wiretap Channels Under Secrecy Outage Constraint
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Zongze Li
+author organization:Xian Jiaotong University
+author id:2496357211|
+]
+abstract:optimal|maximization|channel|main|without|generalized|shows|solution|complex|state|signal|always|making|approximation|multipelinputsingleoutput|probability|modeled|addressed|considered|obtained|assumed|eavesdropper|perfectly|scheme|probability|constraint|result|random|orthogonal|aided|secrecy|paper|known|rate|wiretap|achievable|noise|csi|power|outage|allocation|vector|constrained|artificial|corresponding|maximum|constraint|information|gaussian|beamforming|informationbearing|complete|signal
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Beamforming|Mathematical optimization|Computer science|Secrecy|Communication channel|Multivariate random variable|Artificial noise|Complex normal distribution|Maximization|Channel state information
+references:2007529001|2013605702|2055044375|2060416030|2112513314|2141797073|2164432698|2540385438
+
+
+id:2050343204
+title:Secrecy outage of a two-user slow fading broadcast channel
+year:2014
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Qinye Yin
+author organization:Xian Jiaotong University
+author id:2159699370|
+]
+abstract:constraints|twouser|superposition|conditional|optimal|claimed|channel|paper|available|achieves|used|transmitted|influence|consider|state|throughput|presence|results|case|confidential|using|probability|discussed|fading|external|measure|slow|messages|throughput|legitimate|assume|region|parameters|ie|broadcast|boundary|average|numerical|regions|independent|instantaneous|sum|derive|eavesdropper|coding|general|secrecy|scenario|rate|achievable|csi|characterized|outage|fading|allocation|user|studied|performance|conditioned|maximum|information|strategy|user
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Wireless|Computer science|Fading|Secrecy|Computer network|Communication channel|Throughput|Broadcast channels|Encoding (memory)|Channel state information
+references:1986090422|2040082383|2043769961|2080693943|2102654676|2109394932|2112513314|2113706820|2125928210|2128153585|2144007657|2144371013|2151442132|2153836410|2172233962|2953075917
+
+
+id:2144371013
+title:A new scheme to improve the secrecy throughput under the constraints of secrecy outage probability and average transmit power
+year:2014
+author information:[
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Peizhi Yang
+author organization:Xian Jiaotong University
+author id:2496566743|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Qinye Yin
+author organization:Xian Jiaotong University
+author id:2159699370|
+]
+abstract:simulation|differing|channel|required|adaptively|state|probabilities|transmitter|issue|receiver|probability|system|slow|determined|legitimate|rate|assumed|compare|perfectly|scheme|two|layer|gain|known|wiretap|power|density|single|information|constraint|concerned|small|main|quasistatic|used|function|throughput|communication|results|maximized|modeled|fading|addressed|know|fixed|eavesdropper|equipped|probability|show|security|pdf|secrecy|paper|receivers|rate|csi|physical|value|rayleigh|outage|transmit|chooses|outperforms|existing|performance|wireless|required|antenna
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Transmitter|Transmitter power output|Rayleigh fading|Computer science|Fading|Secrecy|Computer network|Communication channel|Fading distribution|Channel state information
+references:2013906384|2043769961|2060416030|2072563372|2080693943|2102654676|2109394932|2112513314|2113706820|2128153585|2133406100|2135137654|2144007657|2156214717|2159437533|2159687282|2168792413|2408396831
+
+
+id:2196278068
+title:Secrecy Rate Maximization With Uncoordinated Cooperative Jamming by Single-Antenna Helpers Under Secrecy Outage Probability Constraint
+year:2015
+author information:[
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Xiaoyan Hu
+author organization:Xian Jiaotong University
+author id:2425149991|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Zongmian Li
+author organization:Xian Jiaotong University
+author id:2192208536|
+]
+abstract:helpers|transmits|large|differing|channel|maximization|focus|number|problem|helper|solution|modified|obtained|satisfactory|state|signal|results|programming|singleinputmultipleoutput|using|issue|method|probability|confound|cooperative|singleantenna|addressed|proposed|especially|solve|eavesdropper|statistical|numerical|scheme|provided|show|layer|eavesdropper|srm|security|secrecy|rate|wiretap|achievable|convex|power|physical|outage|allocation|practical|problem|jamming|multiple|existing|concerning|assuming|performance|uncoordinated|independently|information|constraint|ucj|dc
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Computer science|Secrecy|Computer network|Communication channel|Physical layer|Convex function|Jamming|Maximization|Telecommunications link|Channel state information
+references:1508047767|1983143345|1990494141|2009204314|2036755731|2037636326|2041231002|2043769961|2104478100|2112513314|2128153585
+
+
+id:2262314904
+title:Two-step transmission with artificial noise for secure wireless SIMO communications
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:PengCheng Mu
+author organization:Xian jiaotong university
+author id:2166083999|
+author name:PeiZhi Yang
+author organization:Xian jiaotong university
+author id:2496566743|
+author name:QinYe Yin
+author organization:Xian jiaotong university
+author id:2159699370|
+]
+abstract:demodulating|transmits|region|channel|approach|without|estimate|state|usually|respectively|using|issue|lower|require|received|propose|simulations|input|traditional|system|scheme|informationtheoretic|layer|singleinput|result|orthogonal|noise|snr|noise|simo|compared|analyzed|inaccurate|polluted|additionally|information|first|symbol|symbol|generates|paper|twostep|source|second|reference|high|transmission|directly|different|jammed|results|needs|new|antennas|transmitted|addressed|signals|proposed|especially|improve|eavesdropper|destination|show|eavesdropper|random|numerical|security|multiplied|secrecy|rate|achievable|physical|direction|multipleoutput|derived|bound|multiple|outperforms|obtains|artificial|performance|due|wireless
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Wireless|Telecommunications|Upper and lower bounds|Control theory|Symbol|Secrecy|Electronic engineering|Physical layer|Artificial noise|Mathematics|Channel state information
+references:312469808|1975152775|1986090422|2007529001|2011670293|2043769961|2049312299|2058714794|2065313044|2072563372|2080693943|2086006789|2118433700|2123465801|2128153585|2133406100|2144007657|2145577744|2156214717
+
+
+id:2394815362
+title:Combining dirty-paper coding and artificial noise for secrecy
+year:2016
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Chao Wang
+author organization:Xian Jiaotong University
+author id:2670962742|
+author name:Weile Zhang
+author organization:Xian Jiaotong University
+author id:2158010122|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Bobin Yao
+author organization:ChangAn University
+author id:2169348864|
+]
+abstract:accurate|beamforming|maximization|secure|constraints|transmission|problem|find|multiuser|consider|communication|potential|order|addition|based|treated|probability|encoding|intrinsic|propose|users|zeroforcing|traditional|signals|hybrid|provide|proposed|dpc|adopting|dirtypaper|must|anbased|broadcast|request|solving|scheme|achieve|determines|show|transmission|requests|coding|broadcasting|paper|secrecy|scenario|rate|noise|studies|since|supporting|designed|close|enables|outage|normal|one|combines|channel|artificial|well|informationbearing|characterization|user
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Dirty paper coding|Broadcasting|Beamforming|Secure transmission|Computer science|Secrecy|Computer network|Artificial noise|Maximization|Encoding (memory)
+references:1976109068|1980427653|2007529001|2037636326|2060416030|2088892532|2102654676|2103150712|2129457795|2141797073|2148672861|2151795416
+
+
+id:2514034654
+title:On the Secrecy Rate Maximization With Uncoordinated Cooperative Jamming by Single-Antenna Helpers
+year:2017
+author information:[
+author name:Xiaoyan Hu
+author organization:Xian Jiaotong University
+author id:2425149991|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Zongmian Li
+author organization:Xian Jiaotong University
+author id:2192208536|
+]
+abstract:helpers|transmits|optimal|differing|maximization|channel|works|properly|maximize|helper|solution|uplink|state|signal|results|case|receiver|nearoptimal|probability|two|confound|cooperative|singleantenna|addressed|proposed|allocate|cellular|rate|obtained|partial|role|solving|numerical|scheme|show|global|layer|eavesdropper|security|paper|secrecy|systems|rate|wiretap|intended|station|csi|singleinputsingleoutput|power|physical|case|enhance|outage|practical|plays|cases|jamming|center|control|channel|existing|performance|uncoordinated|independently|well|information|constraint|ucj|comparable|base
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Base station|Computer science|Secrecy|Computer network|Communication channel|Physical layer|Jamming|Maximization|Telecommunications link|Channel state information
+references:1970578484|1983377825|2024781399|2036755731|2037636326|2041231002|2042599231|2043769961|2065615867|2068916891|2104478100|2112513314|2128153585|2171006634|2196278068|2518686002
+
+
+id:2518686002
+title:Optimal Semiadaptive Transmission With Artificial-Noise-Aided Beamforming in MISO Wiretap Channels
+year:2016
+author information:[
+author name:Zongmian Li
+author organization:Xian Jiaotong University
+author id:2192208536|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Xiaoyan Hu
+author organization:Xian Jiaotong University
+author id:2425149991|
+]
+abstract:optimal|numerically|simulation|channel|focus|adaptively|newly|reliable|generalized|problem|premise|state|presence|codebook|transmitter|receiver|compared|multiantenna|encoder|singleantenna|messages|adopting|legitimate|obtained|assumed|simplified|instantaneous|transmission|adaptive|scenario|semiadaptive|noncolluding|csi|scheme|artificialnoiseaided|sends|eavesdroppers|closed|information|channels|statistics|secure|transmission|major|presented|slowfading|consider|throughput|communication|results|anaided|wellknown|fixing|maximizing|adjusted|powerallocation|decoder|proposed|possesses|designs|solving|instead|according|show|paper|secrecy|rate|design|studies|derived|allows|advantage|multiple|arbitrary|nonadaptive|direction|performance|beamforming
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Beamforming|Transmitter|Secure transmission|Fading|Computer science|Communication channel|Computer network|Electronic engineering|Artificial noise|Throughput|Channel state information
+references:1902764075|1967269817|1973384884|1983143345|2006355152|2007312804|2013605702|2037636326|2039065876|2043769961|2060416030|2075653421|2086084851|2090960347|2092086200|2112513314|2113706820|2115843455|2128153585|2133406100|2135137654|2141797073|2144007657|2145300702|2156214717|2159687282|2166606237|2170589865|2184413915|2196278068|2262314904|2330857137
+
+
+id:2519184547
+title:Secrecy rate maximization for SIMO wiretap channel with uncoordinated cooperative jamming under secrecy outage probability constraint
+year:2016
+author information:[
+author name:Xiaoyan Hu
+author organization:Xian Jiaotong University
+author id:2425149991|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Zongmian Li
+author organization:Xian Jiaotong University
+author id:2192208536|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Ying Ju
+author organization:Xian Jiaotong University
+author id:2305919125|
+]
+abstract:meansquare|maximization|channel|focus|number|problem|refinement|state|singleinputmultipleoutput|receiver|method|probability|combiner|confound|cooperative|quality|singleantenna|statistical|conservative|numerical|scheme|layer|wiretap|power|problem|jamming|sop|uncoordinated|information|constraint|minimum|dc|helpers|large|used|good|solution|find|method|results|programming|antennas|signals|proposed|especially|solve|eavesdropper|equipped|provided|show|constraint|error|srm|security|paper|secrecy|rate|intended|convex|physical|derived|enhance|bisectionlike|outage|allocation|practical|original|apply|multiple|transmit|channel|concerning|assuming|performance|independently
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Wireless|Computer science|Computer security|Secrecy|Communication channel|Computer network|Convex function|Physical layer|Jamming|Maximization|Channel state information
+references:1500133521|1983143345|1990494141|2009204314|2011670293|2036755731|2037636326|2041231002|2043769961|2065313044|2072487832|2085914567|2104478100|2112513314|2115843455|2128153585|2141797073|2144007657|2171006634|2196278068|2518686002
+
+
+id:2557022797
+title:Dirty-Paper Coding Based Secure Transmission for Multiuser Downlink in Cellular Communication Systems
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+]
+abstract:simulation|channel|allocation|users|approach|constraints|optimization|sdpc|state|theoretical|addition|thus|probability|schemes|propose|broadcasting|traditional|provide|adopting|dirtypaper|evaluate|broadcast|algorithms|statistical|compare|scheme|intractable|transmission|covariance|secret|two|exploits|coding|scenario|noise|supports|power|close|efficient|user|one|available|combines|scheme|confirm|energyefficient|sop|information|constraint|informationbearing|first|novel|eavesdroppers|serve|secure|second|transmission|multiuser|sdpcbased|directly|potential|results|treated|approximation|involves|maximizing|encoding|intrinsic|establish|zeroforcing|signals|proposed|solve|support|problems|eavesdropper|facilitate|numerical|paper|secrecy|rate|optimizes|achievable|studies|supporting|matrices|derived|normal|outage|apply|rates|alternative|transmit|schemes|message|rates|artificial|performance|optimization|user
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Dirty paper coding|Broadcasting|Secure transmission|Computer science|Secrecy|Computer network|Artificial noise|Optimization problem|Channel state information|Telecommunications link
+references:1902764075|1964339032|1970334960|1976109068|1980427653|1983143345|1986090422|2007529001|2009780658|2014145493|2030546921|2037636326|2041374101|2042599231|2044921756|2048146300|2049312299|2060416030|2086084851|2088345322|2088892532|2102654676|2103150712|2107520399|2112513314|2115843455|2129457795|2133406100|2141797073|2148672861|2151795416|2152173384|2167165277|2172233962|2184413915|2394815362|2518686002|2540385438
+
+
+id:2613978673
+title:The Application of Non-Orthogonal Multiple Access in 5G Physical-Layer Multi-Region Geocast
+year:2017
+author information:[
+author name:Yi Zhang
+author organization:Xian Jiaotong University
+author id:2611002810|
+author name:Tong-Xing Zheng
+author organization:Xian Jiaotong University
+author id:2124638092|
+author name:Qian Yang
+author organization:Xian Jiaotong University
+author id:2234733551|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Zongze Li
+author organization:Xian Jiaotong University
+author id:2496357211|
+]
+abstract:differentiated|simulation|favorable|objective|connectivity|multigroup|promising|algorithm|based|using|multiregion|propose|noma|physicallayer|non|among|multipleinput|geographical|systems|access|multiregion|layer|routing|orthogonal|geocast|disparity|power|minimize|efficient|one|exploiting|massive|locations|future|information|remarkable|first|data|subject|achieves|method|protocols|different|results|approximation|studying|antennas|level|system|technologies|group|sequential|show|technique|investigate|network|total|prescribed|paper|rate|design|convex|studies|physical|delivery|limited|multiple|transmit|groups|multicast|singleoutput|better|performance|conventional|realizes|locations|time|beamforming|user
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Noma|Beamforming|Transmitter power output|Computer science|Network layer|Computer network|Physical layer|Multicast|Geocast|Routing protocol
+references:1690504809|1901462474|1922937245|1969043696|1969648546|1981044874|1991312775|2075210039|2085486577|2142448896|2144113407|2169363112|2951205086|2963892071
+
+
+id:2741674900
+title:Artificial-noise-aided beamforming design against a multi-antenna eavesdropper under secrecy outage constraint
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Zongze Li
+author organization:Xian Jiaotong University
+author id:2496357211|
+author name:Weile Zhang
+author organization:Xian Jiaotong University
+author id:2158010122|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Qinye Yin
+author organization:Xian Jiaotong University
+author id:2159699370|
+]
+abstract:misome|antenna|equivalent|smaller|optimal|channel|nullspace|maximization|several|number|problem|solution|find|assumption|obtained|unlike|directly|sop|antennas|probability|conclusions|regarding|traditional|singleantenna|generalizing|works|solving|prove|scheme|seek|general|aided|found|secrecy|rate|wiretap|design|outage|noise|perspective|power|outage|closedform|allocation|problem|studied|start|transmit|arbitrary|also|many|indeed|increase|constrained|structure|existing|artificial|requiring|beamforming|adopted
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Beamforming|Mathematical optimization|Generalization|Computer science|Secrecy|Signal-to-noise ratio|Communication channel|Artificial noise|Maximization
+references:2007529001|2013605702|2037636326|2060416030|2112513314|2113160737|2135137654|2141797073|2184413915|2330857137|2516924564|2518686002
+
+
+id:2749974305
+title:Artificial-Noise-Aided Beamforming Design in the MISOME Wiretap Channel Under the Secrecy Outage Probability Constraint
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Zongze Li
+author organization:The University of Hong Kong
+author id:2496357211|
+]
+abstract:antenna|equivalent|smaller|optimal|channel|nullspace|maximization|multiantenna|number|assumption|transmitter|receiver|probability|conclusions|traditional|singleantenna|generalizing|conditions|conservative|prove|scheme|assumption|seek|aided|found|wiretap|outage|noise|perspective|generalize|power|close|problem|low|many|constrained|eavesdroppers|help|sop|requiring|informationbearing|adopted|several|eavesdroppers|find|unlike|directly|signal|results|antennas|solutions|regarding|arbitrarily|eavesdropper|solving|general|multipleeavesdropper|paper|secrecy|rate|design|studies|outage|allocation|start|transmit|arbitrary|also|indeed|increase|structure|existing|artificial|beamforming
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Beamforming|Transmitter|Mathematical optimization|Wireless|Noise power|Computer security|Secrecy|Computer network|Communication channel|Artificial noise|Maximization|Mathematics
+references:1870509456|1957358593|1970334960|1992996890|2007529001|2013605702|2037636326|2043769961|2060416030|2080946167|2081035264|2102654676|2103063389|2110019315|2112513314|2113160737|2113706820|2133406100|2135137654|2141797073|2144007657|2184413915|2330857137|2516924564|2518686002|2523980337|2741674900
+
+
+id:2753664374
+title:Artificial Noise-Aided Secure Multicasting Design Under Secrecy Outage Constraint
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+]
+abstract:optimal|simulation|channel|maximization|nullspace|transmitted|investigates|improved|number|problem|transmitting|refinement|state|algorithm|reduce|using|method|carefully|probability|singlestream|propose|traditional|generalization|adopt|legitimate|valuable|statistical|formulate|intractable|global|layer|valid|found|noise|according|problem|efficient|incurred|available|transformation|scheme|constrained|sop|information|constraint|informationbearing|novel|beamforming|space|solution|find|distributing|uniformly|solves|consider|optimality|signal|less|establish|vectors|null|improve|conservatism|suboptimal|eavesdropper|solving|multipleinputsingleoutput|security|paper|common|along|secrecy|receivers|rate|secrecy|transformed|physical|designed|outage|multiple|transmit|also|message|multicast|lowcomplexity|artificial|performance|interfere|nearoptimal
+venue name:IEEE Transactions on Communications
+venue id:196647941
+venue type:J
+document type:Journal
+study fields:Beamforming|Mathematical optimization|Computer science|Control theory|Signal-to-noise ratio|Secrecy|Communication channel|Artificial noise|Multicast|Maximization|Distributed computing|Channel state information
+references:1964339032|1970334960|1980427653|1981044874|1983143345|1986090422|1996215314|2004709358|2007529001|2013605702|2014145493|2033298349|2037636326|2041374101|2042599231|2044951885|2052898460|2060416030|2083831155|2092086200|2100573451|2102654676|2107520399|2112513314|2121204123|2122744491|2125928210|2145300702|2149655188|2152173384|2187253697|2342775801|2518686002|2527705631|2540251752|2540385438|2545321551|2557022797|2782809764
+
+
+id:2781081528
+title:A nonadaptive transmission scheme in slow fading wiretap channels with adjustable transmit power under secrecy outage constraint
+year:2017
+author information:[
+author name:Zongze Li
+author organization:Xian Jiaotong University
+author id:2496357211|
+author name:Pengcheng Mu
+author organization:Xian Jiaotong University
+author id:2166083999|
+author name:Bo Wang
+author organization:Xian Jiaotong University
+author id:2295129193|
+author name:Hui-Ming Wang
+author organization:Xian Jiaotong University
+author id:2151152160|
+author name:Weile Zhang
+author organization:Xian Jiaotong University
+author id:2158010122|
+author name:Tong-Xing Zheng
+author organization:Xian Jiaotong University
+author id:2124638092|
+]
+abstract:optimal|use|channel|maximization|main|tolerable|physical|transmission|problem|optimization|find|throughput|state|quasiconcavity|results|us|new|based|using|probability|maximizing|high|often|guaranteed|method|fading|propose|singlevariable|constraining|slow|channels|proposed|especially|solve|value|adjustable|problems|scheme|provided|instantaneous|constraint|two|layer|proved|security|transform|secrecy|wiretap|verify|power|nadp|golden|allows|outage|one|transmit|solution|section|nonadaptive|existing|superior|simulation|sop|maximum|information
+venue name:International Workshop on Signal Processing Advances in Wireless Communications
+venue id:2623057608
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Transmitter power output|Control theory|Computer science|Fading|Communication channel|Physical layer|Throughput|Optimization problem|Maximization|Channel state information
+references:2037636326|2113706820|2135137654|2145300702|2159687282|2331146738|2518686002
+
+
+id:2036742943
+title:Design of an Ultra-low Voltage 9T SRAM With Equalized Bitline Leakage and CAM-Assisted Energy Efficiency Improvement
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Truc Quynh Nguyen
+author organization:Nanyang Technol. University
+author id:2224109007|
+author name:Anh Tuan Do
+author organization:Nanyang Technol. University
+author id:2135551570|
+author name:Jun Zhou
+author organization:Institute of Microelectronics Acsupe*c/supeSTAR, Singapore
+author id:2667446841|
+author name:Minkyu Je
+author organization:Daegu Gyeongbuk Institute of Science  Technology, Korea
+author id:2144916540|
+author name:Tony Tae-Hyoung Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:equalize|hvt|without|write|rbl|energy|conceal|efficiency|margin|devices||slow|datadependence|improvement|flipping|aid|cam|minimum|circuit|access|energy|v|kb|operating|compared|chip|bitline|miniature|operation|scalable|camassisted|equalized|data|eliminating|fabricated|current|development|read|boosting|test|technology|enhanced|proposed|port|improve|therefore|leakage|nm|ns|technique|integrated|cmos|circuit|paper|pj|enhance|macro|sensing|improvement|sram|voltage|multithreshold|efficiency|performance|contentaddressablememoryassisted|achieved|time
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Access time|Leakage (electronics)|Efficient energy use|CMOS|Electronic engineering|Static random-access memory|Chip|Low voltage|Mathematics|Operating voltage
+references:1965610455|2029470273|2042256453|2075778001|2080441840|2086205576|2094648661|2106264726|2118016286|2144289559|2149521191
+
+
+id:2060996293
+title:A 457 nW Near-Threshold Cognitive Multi-Functional ECG Processor for Long-Term Cardiac Monitoring
+year:2014
+author information:[
+author name:Xin Liu
+author organization:Institute of Microelectronics, Singapore
+author id:2501247999|
+author name:Jun Zhou
+author organization:Institute of Microelectronics,Agency for Science,Technology,and Research,Singapore
+author id:2667446841|
+author name:Yongkui Yang
+author organization:Institute of Microelectronics, A*STAR, (Agency for Science, Technology and Research), Singapore
+author id:2465833501|
+author name:Bo Wang
+author organization:Institute of Microelectronics, A*STAR, (Agency for Science, Technology and Research), Singapore
+author id:2667706082|
+author name:Jingjing Lan
+author organization:Institute of Microelectronics, A*STAR, (Agency for Science, Technology and Research), Singapore
+author id:2172179344|
+author name:Chao Wang
+author organization:Institute of Microelectronics, A*STAR, (Agency for Science, Technology and Research), Singapore
+author id:2708425860|
+author name:Jianwen Luo
+author organization:Institute of Microelectronics, A*STAR, (Agency for Science, Technology and Research), Singapore
+author id:2659121624|
+author name:Wang Ling Goh
+author organization:Nanyang Technol. University
+author id:2115961662|
+author name:Tony Tae-Hyoung Kim
+author organization:School of EEE Nanyang Technological University
+author id:2175500292|
+author name:Minkyu Je
+author organization:Department of Information and Communication Engineering, DGIST, Korea
+author id:2144916540|
+]
+abstract:circuitlevel|electrocardiogram|realtime|enable|reduce|reduced|runlength|analysis|processor|saving|cognitive|cardiac|scheme|global|onchip|adaptive|v|power|compared|architecturelevel|ecg|several|compression|operation|adc|paper|several|digitization|presented|signal|realize|including|level|nw|multifunctional|proposed|techniques|wavelet|pseudodownsampling|analysis|recording|cmos|total|clocking|design|designed|consumes|ultralowvoltage|diagnosis|lowpower|implemented|consumption|also|lowcomplexity|conventional|nearthreshold|denoisingbased|significantly|comprehensive|design|longterm
+venue name:IEEE Journal of Solid-state Circuits
+venue id:83637746
+venue type:J
+document type:Journal
+study fields:Cardiac monitoring|Power saving|Level shifting|Digital signal processor|Computer science|Cmos process|Electronic engineering|Cognition|Wavelet transform|Power consumption
+references:1971353559|1980246793|2004217976|2047200429|2048150589|2054295738|2101210237|2110148769|2116288681|2122462620|2127510558|2160790216|2170918474
+
+
+id:2116317420
+title:0.2 V 8T SRAM with improved bitline sensing using column-based data randomization
+year:2014
+author information:[
+author name:Anh Tuan Do
+author organization:Nanyang Technol. University
+author id:2135551570|
+author name:Zhaochuan Lee
+author organization:School of Electrical and Electronic Engineering Nanyang Technological University
+author id:2974054879|
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Ik-Joon Chang
+author organization:Kyunghee University
+author id:2153591892|
+author name:Tony T. Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:column|chips|scenarios|accessed|bit|supply|suffer|case|respectively|happen|margin|input|boost|access|scheme|pattern|distribution|window|biasing|operating|power|close|bitline|column|swing|enhanced|register|shuffle|subthreshold|operation|data|degradation|used|fabricated|different|shift|demonstrates|test|worst|voltages|dominated|simplified|srams|nm|applied|cmos|feedback|successful|rest|sensing|consumption|technology|increase|sram|linear|room|bitline|time
+venue name:Asian Solid-State Circuits Conference
+venue id:2621920664
+venue type:C
+document type:Conference
+study fields:Logic gate|Access time|Computer science|Voltage|Static random-access memory|Real-time computing|CMOS|Electronic engineering|Low voltage|Swing|Biasing
+references:2105175332|2106264726|2117574816|2127190809|2144289559|2157693067|2171894735|2293394215
+
+
+id:2134666877
+title:A 0.4V 7T SRAM with write through virtual ground and ultra-fine grain power gating switches
+year:2013
+author information:[
+author name:Yuan Lin Yeoh
+author organization:Nanyang Tech. University
+author id:2224835805|
+author name:Bo Wang
+author organization:Nanyang Tech. University
+author id:2667706082|
+author name:Xiangyao Yu
+author organization:Nanyang Tech. University
+author id:2128284562|
+author name:Tony T. Kim
+author organization:Nanyang Tech. University
+author id:2175500292|
+]
+abstract:small|switches|swing|tracking|variation|pvt|fabricated|ultrafine|presented|gating|implemented|suppression|v|grain|write|rbl|stability|energy|period|test|garbage|sense|improving|proposed|techniques|ground|leakage|disturbance|virtual|scheme|storage|cell|redundant|cmos|paper|design|kb|pj|power|track|minimize|sensing|chip|initial|powerup|caused|data|technology|sram|efficiency|decreases|nearthreshold|showed|achieved|minimum|presents
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Virtual ground|Leakage (electronics)|Computer science|Efficient energy use|Electronic engineering|Static random-access memory|CMOS|Chip|Power gating|Low-power electronics
+references:2017195664|2096890581|2106264726|2137459077|2164330002
+
+
+id:2157030615
+title:High energy efficient ultra-low voltage SRAM design: Devic
+year:2012
+author information:[
+author name:Tony T. Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Anh Tuan Do
+author organization:Nanyang Technol. University
+author id:2135551570|
+]
+abstract:play|challenging|reliable|problems|energy|efficiency|presented|improving|techniques|effect|ultralow|srams|role|circuit|mtcmos|design|power|applications|key|emerging|high|explore|efficient|many|sram|voltage|considerations|efficiency|due|various|operation|architectural
+venue name:International SoC Design Conference
+venue id:2623715577
+venue type:C
+document type:Conference
+study fields:Architecture|Efficient energy use|Computer science|Voltage|Static random-access memory|Electronic engineering|Integrated circuit design|Low voltage|Electrical engineering|High energy|Low-power electronics
+references:1968803376|2101351916
+
+
+id:2179746200
+title:An Ultralow-Voltage Sensor Node Processor With Diverse Hardware Acceleration and Cognitive Sampling for Intelligent Sensing
+year:2015
+author information:[
+author name:Xin Liu
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2501247999|
+author name:Jun Zhou
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2667446841|
+author name:Chao Wang
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2708425860|
+author name:Kah-Hyong Chang
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2226878808|
+author name:Jianwen Luo
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2659121624|
+author name:Jingjing Lan
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2172179344|
+author name:Lei Liao
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2302781684|
+author name:Yat-Hei Lam
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2115714704|
+author name:Yongkui Yang
+author organization:Nanyang Technol. University
+author id:2465833501|
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Xin Zhang
+author organization:Institute of Microelectron., A*Star, Singapore, Singapore
+author id:2590906370|
+author name:Wang Ling Goh
+author organization:Department of Information and Communication Engineering, Daegu Gyeongbuk Institute of Science and Technology, Daegu, South Korea
+author id:2115961662|
+author name:Tony Tae-Hyoung Kim
+author organization:Department of Information and Communication Engineering, Daegu Gyeongbuk Institute of Science and Technology, Daegu, South Korea
+author id:2619817442|
+author name:Minkyu Je
+author organization:Daegu Gyeongbuk Institute of Science  Technology, Korea
+author id:2144916540|
+]
+abstract:incorporates|bus|spike|finiteimpulseresponse|dualbus|presented|employed|accelerate|diverse|filtering|signal|tasks|energy|hardware|respectively|including|coordinate|things|sampling|packet|monitoring|classification|processor|discrete|node|core|assisted|proposed|cognitive|techniques|wavelet|processing|sensor|internet|arm|memory|access|circuit|scheme|neural|applied|achieve|speed|vehicle|reconfigurable|digitally|timingerror|transform|computer|fourier|snp|ultralow|applications|architecture|consumes|digital|sensing|risc|situ|rotation|automatic|consumption|satisfying|intelligent|energyefficient|fast|proposed|ultralowvoltage|operation
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Sensor node|Signal processing|Computer science|Filter (signal processing)|Real-time computing|Electronic engineering|Reduced instruction set computing|Fast Fourier transform|Sampling (statistics)|Hardware acceleration|Energy consumption
+references:2003121308|2060996293|2073042933|2114898850|2122708981|2138911811|2139543448|2141412618
+
+
+id:2338090195
+title:0.2 V 8T SRAM With PVT-Aware Bitline Sensing and Column-Based Data Randomization
+year:2016
+author information:[
+author name:Anh Tuan Do
+author organization:Institute of Microelectronics, Singapore
+author id:2974070687|
+author name:Zhao Chuan Lee
+author organization:Nanyang Technological University
+author id:2656215927|
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Ik-Joon Chang
+author organization:Kyung Hee University
+author id:2153591892|
+author name:Xin Liu
+author organization:Institute of Microelectronics, Singapore
+author id:2501247999|
+author name:Tony Tae-Hyoung Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:employ|column|scenarios|swing|randomizes|suffer|problem|randomization|energy|respectively|using|columnbased|boost|circuit|access|columns|pattern|overcome|cell|distribution|biasing|based|close|compared|bitline|column|makes|swing|sram|stored|increasing|skewed|operation|data|degradation|fabricated|shows|dynamic|different|read|occur|keeper|technology|regarding|improve|worst|srams|cbre|cmos|considerable|engine|array|mentioned|successful|rest|schemes|consumption|rows|sram|room|cells|silicon|currently|challenge|time|significantly
+venue name:IEEE Journal of Solid-state Circuits
+venue id:83637746
+venue type:J
+document type:Journal
+study fields:Row|Access time|Computer science|Static random-access memory|CMOS|Electronic engineering|Transistor|Energy consumption|Biasing|Swing
+references:1990823448|2073550359|2075778001|2086651097|2092851441|2095913060|2099087448|2100405141|2105175332|2106264726|2106339466|2109104675|2117574816|2118016286|2122497527|2128743367|2137459077|2140335130|2144289559|2293394215
+
+
+id:2343648012
+title:Read Bitline Sensing and Fast Local Write-Back Techniques in Hierarchical Bitline Architecture for Ultralow-Voltage SRAMs
+year:2016
+author information:[
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Qi Li
+author organization:Nanyang Technological University
+author id:2685158773|
+author name:Tony Tae-Hyoung Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:improves|without|facilitates|action|halfselect|rbl|write|thus|degraded|propose|resulting||access|scheme|pattern|eliminate|cell|local|variations|v|temperature|dependence|writeback|subsequent|operating|resilience|chip|bitline|deteriorated|swing|fast|halfselectfree|subthreshold|minimum
+venue name:IEEE Transactions on Very Large Scale Integration Systems
+venue id:37538908
+venue type:J
+document type:Journal
+study fields:Access time|Leakage (electronics)|Computer science|Voltage|Static random-access memory|Real-time computing|Electronic engineering|Chip|CMOS|Subthreshold conduction|Scalability
+references:2037737201|2040864640|2047956117|2067168777|2073818373|2075778001|2080441840|2096890581|2099087448|2106264726|2134666877|2135574113|2137459077|2141041201|2164330002|2164967515
+
+
+id:2608067194
+title:A 0.4 V 12T 2RW dual-port SRAM with suppressed common-row-access disturbance
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Nanyang Technol. University
+author id:2667706082|
+author name:Jun Zhou
+author organization:Institute of Microelectronics, Agency for Science, Technology and Research, Fusionopolis Way, #08-02 Innovis Tower, Singapore 138634, Singapore
+author id:2667446841|
+author name:Tony Tae-Hyoung Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:ios|accessed|without|conventional|path|problem|commonrowaccess|circuitry|case|issue|work|probability|lower|throughput|simultaneously|consumption|disturbance|internal|access|reliability|disturbance|cell|two|extended|low|operating|power|minimizing|flip|dualport|output|superthreshold|address|sets|suffers|incorrect|abstract|scenario|minimum|bus|data|employed|fabricated|timing|hierarchical|stability|area|read|bitlines|widely|voltages|proposed|worst|ground|region|srams|virtual|penalty|cause|technique|cmos|paper|parallel|row|suppressed|featuring|assisting|cost|degradation|dualport|technology|increase|suppresses|sram|voltage|existing|performance|separating|nodes|ameliorate|due|various|previous|applications|presents
+venue name:Microelectronics Journal
+venue id:98831239
+venue type:J
+document type:Journal
+study fields:Virtual ground|Voltage|Electronic engineering|Address bus|CMOS|Static random-access memory|Low voltage|Throughput|Engineering|Power consumption
+references:2020223369|2073042933|2111287256|2150179059|2158933924
+
+
+id:2108470049
+title:SRAM devices and circuits optimization toward energy efficiency in multi-Vth CMOS
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Institute of Microelectronics, Agency for Science, Technology and Research, 11 Science Park Road, Singapore 117685, Singapore
+author id:2667706082|
+author name:Jun Zhou
+author organization:Institute of Microelectronics, Agency for Science, Technology and Research, 11 Science Park Road, Singapore 117685, Singapore
+author id:2667446841|
+author name:Tony Tae-Hyoung Kim
+author organization:Nanyang Technological University
+author id:2175500292|
+]
+abstract:play|optimal|numerous|quickly|slower|required|improved|write|energy|implantable|efficiency|devices|analysis|combinations|etc|improvement|minimumenergydriven|device|ie|consumption|lowervth|circuit|role|access|enhances|utilizing|vth|crosscoupled|capability|current|desired|nullifying|power|emerging|preferred|together|performance|implementing|biomedical|commercial|excessively|suggests|high|combination|read|boosting|technology|port|techniques|leads|sensor|srams|leakage|higher|critical|latches|speed|cmos|computing|paper|due|design|employing|highly|requirements|transistors|mobile|raised|improvement|sram|voltage|multithreshold|efficiency|highervth|performance|various|achieved|wireless|reduction|reducing|applications|presents
+venue name:Microelectronics Journal
+venue id:98831239
+venue type:J
+document type:Journal
+study fields:Efficient energy use|Circuit design|Electronic engineering|CMOS|Static random-access memory|Electronics|Engineering|Electronic circuit|Energy consumption|Electrical engineering|Performance improvement
+references:1968803376|1977705237|2095913060|2096917901|2099087448|2106264726|2106339466|2111372718|2122497527|2127190809|2137459077|2137883557|2149521191|2171922263
+
+
+id:1143450691
+title:Secure spread-spectrum data embedding with PN-sequence masking
+year:2015
+author information:[
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+]
+abstract:optimal|masked|experimental|without|conventional|offer|maximize|output|developed|knowledge|analysis|processor|jointly|additive|studiedexperimental|domain|pnmasked|aim|notable|loss|current|flaw|embedding|signaltointerferenceplusnoise|ss|masking|linear|efficient|data|designing|predictions|confirm|extensive|information|adopted|illegitimate|ratio|data|extraction|host|inducing|modified|well|spreadspectrum|highlightspn|given|maximumsinr|filter|illustrate|linearly|extract|measure|proposed|improve|performancepnmasked|designs|present|distortion|benefits|pseudonoise|hidden|analytical|additional|dangerous|technique|blindly|recovery|embedding|security|transform|receivers|design|studies|designed|pnsequence|studied|also|carrier|analysisoptimal|performance|corresponding|unauthorized|pn
+venue name:Signal Processing-image Communication
+venue id:38090728
+venue type:J
+document type:Journal
+study fields:Steganography|Embedding|Masking (art)|Linear filter|Computer science|Computer security|Information hiding|Algorithm|Theoretical computer science|Data extraction|Distortion|Spread spectrum
+references:1522884824|1527181506|1605802148|1878907771|1984831369|2011330430|2015865004|2044553225|2054910354|2083014862|2093104721|2093293662|2096696859|2096933452|2102244995|2102826391|2103013014|2103474423|2104808305|2107349306|2110293524|2111554620|2116467012|2120400964|2124355377|2133665775|2147444658|2157769502|2160921333|2164978881|2169016692|2170151472
+
+
+id:1548461697
+title:Security analysis of optimal multi-carrier spread-spectrum embedding
+year:2015
+author information:[
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+author name:Lingyun Li
+author organization:Dalian University of Technology
+author id:2421073407|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+]
+abstract:optimal|data|stego|multicarrier|main|experimental|cover|number|host|results|theoretical|spreadspectrum|probability|impact|analysis|establish|level|present|distance|kullbackleibler|show|bhattacharyya|fundamental|embedding|informationtheoretic|linearlytransformed|security|paper|embedding|limits|considers|ss|host|transformation|distributions|quantified|permit
+venue name:International Conference on Signal and Information Processing
+venue id:2754472367
+venue type:C
+document type:Conference
+study fields:Steganography|Embedding|Signal-to-noise ratio|Algorithm|Theoretical computer science|Probability distribution|Security analysis|Interference (wave propagation)|Distortion|Mathematics|Spread spectrum
+references:1551075943|1878907771|2033178790|2081326826|2093293662|2103013014|2103474423|2104808305|2106663508|2116467012|2120400964|2124355377|2157769502|2160921333|2161439181|2164789387|2167577564|2170151472
+
+
+id:1556913318
+title:Patch-based sensor pattern noise for camera source identification
+year:2015
+author information:[
+author name:Yue Tan
+author organization:Dalian University of Technology
+author id:2478811958|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Meijuan Zhao
+author organization:Dalian University of Technology
+author id:2223244157|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+]
+abstract:accuracy|construct|blockwised|extracted|approach|identification|would|fingerprint|lowcomplexity|algorithm|using|images|patches|contains|patchbased|correlation|methods|similarly|experiments|pattern|least|global|two|local|denoising|proved|current|noise|literatures|camera|problem|broadly|novel|used|source|influence|spn|reference|spn|inherent|selected|always|image|making|test|significatively|residual|identification|estimation|proposed|solve|sensor|demonstrate|fields|constituted|sensor|dresden|content|database|authentication|baseline|outperforms|lowcomplexity|corresponding
+venue name:International Conference on Signal and Information Processing
+venue id:2754472367
+venue type:C
+document type:Conference
+study fields:Computer vision|Residual|Authentication|Denoising algorithm|Pattern recognition|Computer science|Maximum likelihood|Image content|Image noise|Fingerprint|Artificial intelligence|Standard test image
+references:2039768169|2045905048|2049771774|2106138042|2124695272|2129240197|2154889936|2156238933|2163352848
+
+
+id:1965769207
+title:Image tampering localization via estimating the non-aligned double JPEG compression
+year:2013
+author information:[
+author name:Lanying Wu
+author organization:Dalian University of Technology
+author id:2107482345|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Shize Shang
+author organization:Dalian Universityof Technology
+author id:2101394062|
+]
+abstract:called|shift|forgeries|approach|classifier|block|usually|based|method|dealing|compared|double|zeros|processing|compression|tampered|another|jpeg|phenomenon|resaved|get|estimating|mismatches|blurring|robust|efficient|situations|image|grid|machine|compression|threshold|tampering|certain|dataset|small|forged|percentage|host|different|cropped|train|image|need|undergoes|nadjpeg|often|background|parts|present|region|locate|shift|proper|learning|non|common|performances|identify|previous|better|coefficients|location|nonaligned|forms
+venue name:Proceedings of SPIE
+venue id:183492911
+venue type:J
+document type:Journal
+study fields:Computer vision|Lossless JPEG|Compression artifact|Computer science|Image quality|JPEG File Interchange Format|JPEG|Artificial intelligence|JPEG 2000|Quantization (image processing)|Image resolution
+references:1518402653|1967503138|1975528596|2050991548|2059907896|2111374353|2118090703|2119952502|2130225759|2133067392|2146928515|2148610715|2161985709|2547589364
+
+
+id:2002029921
+title:Generalized transfer component analysis for mismatched JPEG steganalysis
+year:2013
+author information:[
+author name:Xiaofeng Li
+author organization:Dalian University of Technology
+author id:2430845072|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Xingang You
+author organization:Dalian University of Technol
+author id:2122635520|
+]
+abstract:extensive|performs|correct|source|mismatched|space|features|generalized|spanned|assumption|discrimination|different|new|similar|method|testing|domains|come|preserve|analysis|propose|samples|fail|transfer|categories|rely|domain|intermediate|learnt|demonstrate|alignment|components|distance|experiments|jpeg|training|representations|distribution|two|derive|across|transform|common|steganalysis|minimizing|universal|mismatches|characteristics|set|original|apply|manifest|approaches|distribution|enough|closer|target|mismatched|component|well|first|steganalysis
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Training set|Steganography|Pattern recognition|Computer science|Image coding|Speech recognition|JPEG|Artificial intelligence|Steganalysis|Component analysis
+references:29798142|1512190422|1760530029|1966073167|2031466562|2049562124|2063442212|2071451750|2078125794|2102419107|2115403315|2128053425|2133743319|2143264331|2149466042|2157762168|2158108973|2163302275|2164943005
+
+
+id:2075705726
+title:Silhouette coefficient based approach on cell-phone classification for unknown source images
+year:2012
+author information:[
+author name:Shuhan Luan
+author organization:Dalian University of Technology
+author id:2339608162|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2970545383|
+author name:Xingang You
+author organization:Beijing Institute of Electronic Technology and Application, Beijing, 100091, China
+author id:2122635520|
+]
+abstract:optimal|approach|problem|usually|case|knowledge|algorithm|based|images|using|issue|require|classified|schemes|classification|become|cellphones|cellphones|two|smart|result|ways|known|cellphones|set|necessary|caused|one|fingerprint|model|wrong|single|classification|messaging|validity|adopted|spectral|acceptable|possibilities|used|source|life|incomplete|major|prior|method|communication|results|though|image|tracing|manipulation|experimental|equipment|graph|mms|extract|proposed|daily|silhouette|coefficient|higher|classify|identifying|show|phones|training|appears|captured|characteristics|subset|practical|classifying|mobile|cellphone|requirement|forensics|partitioning|clustering|avoid|accessory
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Graph theory|Computer vision|Pattern recognition|Computer science|Silhouette|Fingerprint|Phone|Artificial intelligence|Contextual image classification|Graph partition|Multimedia Messaging Service|Tracing
+references:1506864492|1984074113|1988600563|2096754397|2135674549|2293027279|2539607883|2542540794
+
+
+id:2142207584
+title:Source Camera Identification Forensics Based on Wavelet Features
+year:2009
+author information:[
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Yiping Guo
+author organization:Dalian University of Technol
+author id:2631999110|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2970690945|
+author name:Fanjie Meng
+author organization:Dalian University of Technol
+author id:2679910717|
+]
+abstract:introduces|support|feature|identification|sequential|cameras|camera|classifier|higherorder|vector|reduce|based|images|method|correlation|defects|processing|images|selection|formulate|machine|cameras|proved|cooccurrence|multiclass|get|taken|redundancy|camera|based|problem|within|pipeline|forensics|forward|use|source|used|forensic|features|consider|new|image|comparison|finally|intrinsic|imaging|extract|proposed|wavelet|coefficient|support|sources|source|trace|paper|digital|effectiveness|aims|original|six|identify|apply|also|experimentally|passive|authenticating|determining
+venue name:Intelligent Information Hiding and Multimedia Signal Processing
+venue id:1134765956
+venue type:C
+document type:Conference
+study fields:Computer vision|Feature selection|Pattern recognition|Computer science|Support vector machine|Feature extraction|Digital image|Digital camera|Artificial intelligence|Contextual image classification|Wavelet transform|Wavelet
+references:1506864492|1964095033|1988600563|2098347925|2099013489|2104862701|2117500881|2124695272|2124929806|2132961863|2147973929|2153635508
+
+
+id:2148751285
+title:Exposing the double compression in MP3 audio by frequency vibration
+year:2014
+author information:[
+author name:Tianzhuo Wang
+author organization:Dalian University of Technology
+author id:2557449032|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+]
+abstract:called|fvv|simple|experimental|bitrate|vibration|approach|challenging|frequency|second|presented|estimate|results|method|double|analysis|propose|measure|especially|effect|discrete|compression|one|cosine|higher|methods|show|detect|technique|feature|audio|vibration|original|bitrate|caused|also|mdct|outperforms|existing|compression|coefficients|compressed|dataset|novel|first
+venue name:International Conference on Signal and Information Processing
+venue id:2754472367
+venue type:C
+document type:Conference
+study fields:Data compression ratio|Speech coding|Modified discrete cosine transform|Computer science|Discrete cosine transform|Algorithm|Transform coding|Speech recognition|Audio normalization|Vibration|Data compression
+references:1996355929|2030318818|2036326986|2056177844|2077084699|2094810510|2116804340|2132379443
+
+
+id:2170035069
+title:Double Compression Detection Based on Markov Model of the First Digits of DCT Coefficients
+year:2011
+author information:[
+author name:Lisha Dong
+author organization:Dalian University of Technology
+author id:2162602275|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2970690945|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Xingang You
+author organization:Beijing Institute of Electron. Technol.  Applic., Beijing, China
+author id:2122635520|
+]
+abstract:occurs|second|mode|features|stationary|model|usually|results|order|image|given|based|using|comparison|method|double|probability|experiment|made|double|propose|gone|dct|proposed|utilize|compression|basic|cosine|statistical|show|kinds|distribution|matrix|detection|effectiveness|detection|markov|authenticity|image|improvement|transition|model|assess|mean|coefficients|digits|first
+venue name:International Conference on Image and Graphics
+venue id:1166922208
+venue type:C
+document type:Conference
+study fields:Computer vision|Object detection|Markov process|Pattern recognition|Stochastic matrix|Markov model|Computer science|Discrete cosine transform|Markov chain|Transform coding|Artificial intelligence|Data compression
+references:1967503138|2061516452|2070040249|2106522075|2111280862|2118090703|2153635508|2537478078
+
+
+id:2227696942
+title:Amplitude-adaptive spread-spectrum data embedding
+year:2016
+author information:[
+author name:Ming Li
+author organization:Dalian University of Technology Dalian
+author id:2439529108|
+author name:Qian Liu
+author organization:University of New York at Buffalo
+author id:2811123603|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+]
+abstract:optimised|extensive|experimental|stateoftheart|bit|conventional|adaptively|introduced|interference|problem|assigning|order|based|receiver|probability|impact|reduced|schemes|additive|amplitudes|provide|deposit|minimise|level|authors|algorithms|aim|scheme|transmission|across|adaptive|flexibility|amplitude|known|scenario|noise|embedding|biterrorrate|ss|one|data|scheme|designing|information|compensate|novel|symbol|amplitudeadaptive|data|use|several|developed|optimisation|act|host|consider|different|well|signal|results|group|spreadspectrum|given|ideal|illustrate|symbolbysymbol|orderofmagnitude|interest|external|proposed|allocating|interference|present|distortion|error|modulated|allocation|studied|schemes|transformdomain|improvement|carrier|performance|equalamplitude|coefficients
+venue name:Iet Image Processing
+venue id:83215360
+venue type:J
+document type:Journal
+study fields:Theoretical computer science|Artificial intelligence|Interference (wave propagation)|Amplitude|Distortion|Bit error rate|Spread spectrum|Embedding|Pattern recognition|Algorithm|Probability of error|Mathematics|Performance improvement
+references:1968818978|1973020869|1999668872|2001375358|2010867994|2015865004|2019704260|2035617432|2045852091|2069994443|2081326826|2103013014|2107349306|2116467012|2147444658|2164978881|2170151472
+
+
+id:2289147503
+title:Classifier Combination Based Source Identification for Cell Phone Images
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Yue Tan
+author organization:Dalian University of Technology
+author id:2478811958|
+author name:Meijuan Zhao
+author organization:Dalian University of Technology
+author id:2223244157|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Xiangwei Kong
+author organization:
+author id:2116417320|
+]
+abstract:accuracy|led|source|used|branch|feature|employed|number|high|identification|legal|classifier|popularization|criminal|different|results|combination|new|image|based|models|including|method|experimental|proposes|outlier|important|estimation|fusion|vectors|phone|demonstrate|problems|framework|images|color|equipped|training|cell|smart|multiclass|related|paper|feature|array|orderly|verify|camera|digital|effectiveness|oneclass|identify|sets|multifeature|makes|rapid|filter|multimedia|interpolation|forensics|outliers|coefficients|strategy|strategy|presents
+venue name:Ksii Transactions on Internet and Information Systems
+venue id:204131793
+venue type:J
+document type:Journal
+study fields:Digital image forensics|Computer vision|Feature vector|Pattern recognition|Computer science|Interpolation|Outlier|Digital image|Phone|Artificial intelligence|Color filter array|Classifier (linguistics)
+references:144773388|1506864492|1552866035|1575946199|1613536539|2033275170|2078466025|2086666872|2087347434|2099013489|2100077522|2104862701|2119199090|2124929806|2129320899|2132870739|2152203125|2154889936|2156238933|2198906111|2545500706|2546038193
+
+
+id:2321622748
+title:PN-sequence masked spread-spectrum data embedding
+year:2015
+author information:[
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+author name:Qian Liu
+author organization:University of New York at Buffalo
+author id:2811123603|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+]
+abstract:optimal|masked|experimental|without|conventional|offer|maximize|output|developed|knowledge|analysis|processor|jointly|additive|domain|pnmasked|aim|notable|loss|current|flaw|embedding|signaltointerferenceplusnoise|ss|masking|linear|efficient|data|designing|predictions|confirm|extensive|information|adopted|illegitimate|ratio|data|extraction|host|inducing|modified|spreadspectrum|given|maximumsinr|filter|illustrate|linearly|extract|measure|proposed|improve|designs|present|distortion|benefits|pseudonoise|hidden|analytical|additional|dangerous|technique|blindly|recovery|embedding|security|transform|receivers|design|studies|designed|pnsequence|also|carrier|performance|corresponding|unauthorized|pn
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Steganography|Digital watermarking|Embedding|Linear filter|Masking (art)|Computer science|Computer security|Information hiding|Algorithm|Real-time computing|Distortion|Spread spectrum
+references:1605802148|1984831369|2044553225|2054910354|2083014862|2093293662|2096696859|2096933452|2102244995|2102826391|2103013014|2103474423|2111554620|2116467012|2120400964|2124355377|2157769502|2160921333|2164978881|2169016692|2170151472
+
+
+id:2406490710
+title:Camera Source Identification with Limited Labeled Training Set
+year:2015
+author information:[
+author name:Yue Tan
+author organization:Dalian University of Technology
+author id:2478811958|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Yunqing Shi
+author organization:New Jersey Institute of Technology
+author id:2259538074|
+]
+abstract:outputs|samples|several|achieves|accuracy|source|investigates|number|problem|identification|realistic|generated|classifiers|unlabeled|consider|results|new|semisupervised|constructing|method|experimental|illustrate|introducing|patterns|labeled|posterior|identification|ep|samples|proposed|ensemble|binary|projection|theory|limited|higher|average|algorithms|trained|modelbased|training|ensemble|notable|local|preclassifiers|paper|combining|feature|scenario|vector|projection|camera|according|established|sets|constructed|previous|limited|learning|prototype|subsets|ranking
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Training set|Computer vision|Prototype theory|Feature vector|Ranking|Computer science|Local binary patterns|Posterior probability|Artificial intelligence
+references:1796264214|2010864054|2039768169|2049771774|2062671023|2086666872|2129240197|2148916415|2153635508|2154889936|2156238933|2163352848
+
+
+id:2767160731
+title:Electric network frequency estimation based on linear canonical transform for audio signal authentication
+year:2017
+author information:[
+author name:Wei Zhong
+author organization:Beijing Institute of Electronics Technology and Application, Beijing, P. R. China, 100091
+author id:2327637538|
+author name:Xingang You
+author organization:Beijing Institute of Electronic Technology and Application, Beijing, 100091, China
+author id:2122635520|
+author name:Xiangwei Kong
+author organization:Dalian University of Technol
+author id:2116417320|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+]
+abstract:performs|theoretical|sometimes|precision|experimental|frequency|high|antimultipath|complex|view|model|results|based|method|equipment|electrical|canonical|estimation|important|signals|task|proposed|interference|demonstrate|environment|recording|point|network|transform|audio|embedded|carried|linear|electric|noisy|authenticity|connected|well|novel
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Audio signal|Spectral density estimation|Authentication|Noise measurement|Computer science|Speech recognition|Electronic engineering|Audio signal flow|Interference (wave propagation)|Electric network|Signal processing algorithms
+references:2081009539|2116804340|2162713570|2172146649
+
+
+id:2785274766
+title:Complexity Based Sample Selection for Camera Source Identification
+year:2017
+author information:[
+author name:Yabin Li
+author organization:Dalian University of Technology
+author id:2784751206|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Kun Chong
+author organization:Dalian University of Technology
+author id:2784452997|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+]
+abstract:mostly|practice|select|averaging|comparative|eliminating|paper|accuracy|residual|used|source|construct|extracted|scene|influence|reference|spn|identification|would|fingerprint|sky|spn|generate|based|image|images|unrealistic|method|like|widely|patches|methods|identification|seriously|less|extraction|affected|patter|improving|selection|proposed|unique|detail|sensor|complexity|works|experiments|show|content|proved|noise|camera|effectiveness|address|sample|residuals|existing|extensive|performance|blue|previous|significantly|adopted
+venue name:International Conference on Machine Learning
+venue id:1180662882
+venue type:C
+document type:Conference
+study fields:Residual|Pattern recognition|Computer science|Image content|Sky|Fingerprint|Image complexity|Artificial intelligence|Sample selection
+references:1557829443|1838866347|2037343673|2044465660|2045905048|2049771774|2124695272|2155311268
+
+
+id:2937669703
+title:Steganalysis on Internet images via domain adaptive classifier
+year:2019
+author information:[
+author name:Yong Yang
+author organization:University of Technology
+author id:2788064032|
+author name:Xiangwei Kong
+author organization:Zhejiang University
+author id:2970690945|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+author name:Ke Ren
+author organization:Dalian University of Technology
+author id:2938231997|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+]
+abstract:adaptation|stateoftheart|transmitted|cover|terms|recent|algorithm|similar|images|method|considering|testing|methods|contains|domain|millions|day|algorithms|methods|distribution|cameras|steganalysis|performance|detection|problem|sets|abstract|steganographic|makes|integrate|mismatched|distributions|mismatch|steganalysis|standard|joint|conditional|regularization|source|satisfactory|different|results|obtain|add|experimental|proposes|real|users|proposed|solve|geometric|internet|sam|classifier|show|training|effective|paper|captured|marginal|every|algorithms|characteristics|encounter|structure|better|existing|supervised|performance|conventional|various|achieved|essentially
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Steganography|Joint probability distribution|Conditional probability distribution|Pattern recognition|Domain adaptation|Regularization (mathematics)|Artificial intelligence|Steganalysis|Classifier (linguistics)|Mathematics|The Internet
+references:1512190422|1806317803|1934241014|1981658663|1992159937|2002029921|2009130368|2027184711|2030997406|2046385669|2049562124|2091936461|2096943734|2100664256|2104705565|2115403315|2120149881|2124664712|2144182447|2153635508|2162854380|2165698076|2167999072|2170311913|2170598445|2170942078|2185402802|2193183414|2277839806|2293496905|2322525404|2344320947|2473333187|2502869113|2560351977|2614424296
+
+
+id:867017998
+title:Optimal M-PAM Spread-Spectrum Data Embedding with Precoding
+year:2016
+author information:[
+author name:Ming Li
+author organization:University of Technology
+author id:2439529108|
+author name:Qian Liu
+author organization:University of New York at Buffalo
+author id:2811123603|
+author name:Yanqing Guo
+author organization:Dalian University of Technol
+author id:2107962031|
+author name:Bo Wang
+author organization:Dalian University of Technol
+author id:2295129193|
+]
+abstract:optimal|channel|conversely|bit|approach|knowledge|algorithm|receiver|impact|inspired|mlevel|additive|domain|utilize|explicitly|scheme|aim|amplitude|secondorder|known|viewed|embedding|signaltointerferenceplusnoise|precoded|ss|minimize|data|designing|ber|information|first|statistics|ratio|ber|modulation|data|precoding|used|developed|alleviate|host|maximizes|embedder|consider|end|communication|spreadspectrum|delivering|given|including|experimental|tomlinsonharashima|symbolbysymbol|decoder|mpam|proposed|improve|interference|demonstrate|distortion|error|transform|rate|design|studies|process|schemes|target|carrier|performance|conventional|pulse|significantly
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Dirty paper coding|Mathematical optimization|Embedding|Algorithm|Electronic engineering|Zero-forcing precoding|Pulse-amplitude modulation|Distortion|Precoding|Mathematics|Bit error rate|Spread spectrum
+references:1968818978|1973020869|1976109068|1978395275|1999668872|2001375358|2010867994|2023425418|2035617432|2044553225|2045852091|2069994443|2079736071|2081326826|2093293662|2094050168|2096933452|2102826391|2103013014|2103474423|2104808305|2110293524|2111554620|2116467012|2120400964|2124355377|2127295759|2147444658|2160921333|2164978881|2169016692|2170151472
+
+
+id:1869398109
+title:Dynamic label propagation for semi-supervised multi-class multi-label classification
+year:2016
+author information:[
+author name:Bo Wang
+author organization:Stanford University
+author id:2641552239|
+author name:John Tsotsos
+author organization:York University
+author id:2074551997|
+]
+abstract:accuracy|stateoftheart|observed|output|significant|number|modalityour|multimodality|types|dependent|tasks|algorithm|semisupervised|dealing|method|handle|classification|propose|benchmark|extend|size|consideration|extension|deal|emphasizes|methods|overcome|datasets|multilabel|proved|multiclass|demonstrated|particularly|data|framework|metric|unified|classificationwe|performs|data|available|process|dynamic|advantageous|proposes|labeled|insufficient|often|examplesour|graph|lack|difficulty|fusion|highlightswe|propagation|proposed|useful|problems|learning|capable|representation|effective|rate|similarity|transductive|applications|highly|measures|multiple|label|improvement|due|well|information|existing
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Transduction (machine learning)|Data mining|Label propagation|Computer science|Multi-label classification|Artificial intelligence|Graph|Multiple data|External Data Representation|Pattern recognition|Classification scheme|Classification rate|Machine learning
+references:80699098|158976495|1483660231|1578682245|1592096085|1666447063|1709989312|1948350624|1967741257|1979974203|1983998816|1987865517|2009228073|2027922120|2038967169|2041006009|2046589280|2048679005|2052684427|2056974656|2057175746|2062112832|2070127246|2080322700|2084635976|2093926511|2098029000|2101276256|2108501770|2115733720|2117154949|2118712128|2121692343|2126491576|2128028519|2128097790|2129068307|2130556178|2133232758|2133510502|2134604967|2146241755|2152769698|2154455818|2155161883|2156935079|2160569988|2161329297|2162915993|2163605009|2165414070
+
+
+id:1998785713
+title:Face identification using reference-based features with message passing model
+year:2013
+author information:[
+author name:Wei Shen
+author organization:HuaZhong University of Science and Technology
+author id:2007372778|
+author name:Bo Wang
+author organization:University of Toronto
+author id:2641552239|
+author name:Yueming Wang
+author organization:Huazhong University of Science and Technology
+author id:2704001483|
+author name:Xiang Bai
+author organization:Huazhong University of Science and Tech
+author id:2168860362|
+author name:Longin Jan Latecki
+author organization:Temple University
+author id:214878226|
+]
+abstract:optimal|data|use|tell|main|used|favorable|approach|challenging|reference|compute|features|score|measures|contribution|whether|oneshot|implement|directly|results|faces|image|new|encouraging|images|method|query|identification|faces|propose|easy||system|task|adopt|images|instead|given|comes|show|learning|two|matching|effective|paper|similarity|working|map|selecting|set|learned|kernel|face|corresponding|person|graphbased
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Computer vision|Graph|Pattern recognition|Feature (computer vision)|Computer science|Artificial intelligence|Machine learning|Message passing
+references:1498305593|1509928947|1566135517|1982048725|2001519147|2006793117|2006904655|2013431690|2027922120|2049234964|2093922090|2097872774|2100500227|2103560185|2105979014|2106053110|2109824782|2112737239|2113341759|2115651814|2117154949|2117513046|2121647436|2123921160|2127691749|2130556178|2131627887|2134507092|2137250288|2137659841|2140095548|2144719328|2145072179|2148727093|2151103935|2152586002|2154624311|2155759509|2156571432|2157364932|2157656721|2158844819|2163352848|2165052637|2166168249|2169495281|2179426874|2536045881|2536626143|2542451952
+
+
+id:2009228073
+title:Unsupervised metric fusion by cross diffusion
+year:2012
+author information:[
+author name:Bo Wang
+author organization:University of Toronto
+author id:2641552239|
+author name:Jiayan Jiang
+author organization:University of California
+author id:2140732002|
+author name:Wei Wang
+author organization:Nanjing University
+author id:2699563447|
+author name:Zhi-Hua Zhou
+author organization:Nanjing University
+author id:2286237009|
+author name:Zhuowen Tu
+author organization:California University
+author id:2134014566|
+]
+abstract:multiview|dataset|empirical|focus|accuracy|stateoftheart|complementary|different|observed|significant|problem|diverse|algorithm|thus|shape|method|way|classification|propose|benchmark|eye|input|traditional|provide|unsupervised|style|metrics|subsets|algorithms|diffusion|fundamental|range|computer|may|combining|fusing|machine|cotraining|improvements|outputs|data|theoretical|used|features|vision|method|different|unlike|results|given|often|particular|fusion|enhanced|longer|tackle|learning|similarity|explanations|matrices|algorithms|process|wide|advantage|multiple|various|datasets|achieved|metric|information|applications
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Image fusion|Computer science|Regression analysis|Matrix (mathematics)|Artificial intelligence|Contextual image classification|Manifold|Kernel (linear algebra)|Computer vision|Pattern recognition|Regression|Transform coding|Machine learning
+references:53987483|1566135517|1575129940|1756896031|1824737917|1969198379|1996187920|2027922120|2048679005|2057175746|2101324110|2103560185|2115733720|2117154949|2118393783|2121947440|2122837498|2126250169|2126491576|2133556223|2140076625|2150571057|2151103935|2160158899|2162915993|2163352848|2165414070|2165533158|2169495281|2169797000
+
+
+id:2084635976
+title:Affinity learning via self-diffusion for image segmentation and clustering
+year:2012
+author information:[
+author name:Bo Wang
+author organization:University of Toronto
+author id:2641552239|
+author name:Zhuowen Tu
+author organization:Microsoft Research Asia
+author id:2134014566|
+]
+abstract:performs|data|used|faithful|improved|manifold|problems|results|tasks|theoretical|algorithm|image|given|tuning|method|maps|segmentation|intrinsic|analysis|propose|quality|points|provide|proposed|leads|therefore|algorithm|obtained|greatly|much|affinity|diffusion|critical|normalized|mass|nearly|show|stamp|deliver|range|learning|computing|selfdiffusion|sd|along|similarity|parameter|segmentation|propagating|map|enhance|cuts|process|robust|combining|way|help|application|deriving|clustering|clustering|graphbased|time|significantly|eg|essential
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Computer vision|Scale-space segmentation|Correlation clustering|Pattern recognition|Affinity propagation|Segmentation|Computer science|Segmentation-based object categorization|Image segmentation|Artificial intelligence|Region growing|Cluster analysis
+references:1498238238|1510073064|1785730614|1999478155|2057175746|2067191022|2070884193|2087107241|2093926511|2097323414|2097645701|2100588357|2104019579|2104290444|2105026917|2106110775|2116877738|2121189958|2121927366|2121947440|2122555510|2122837498|2123921160|2124351162|2125637308|2127086485|2131791003|2135711152|2139823104|2141729166|2152322845|2161984370|2546160422
+
+
+id:2093926511
+title:Unsupervised metric learning by Self-Smoothing Operator
+year:2011
+author information:[
+author name:Jiayan Jiang
+author organization:UCLA, USA
+author id:2140732002|
+author name:Bo Wang
+author organization:University of Toronto
+author id:2641552239|
+author name:Zhuowen Tu
+author organization:UCLA
+author id:2134014566|
+]
+abstract:diffusionbased|data|metric|improves|approach|gains|without|manifold|unlike|directly|results|tasks|given|image|using|maps|introducing|differs|significant|intrinsic|propose|produced|input|notions|propagation|points|improve|demonstrate|propagates|operator|diffusion|distance|queryspecific|selfsmoothing|mass|experiments|global|along|similarity|extra|reported|segmentation|process|original|wide|advantage|one|also|label|sso|call|performance|metric|evident|ranking
+venue name:International Conference on Computer Vision
+venue id:1164975091
+venue type:C
+document type:Conference
+study fields:Data point|Computer vision|Pattern recognition|Computer science|Image retrieval|Unsupervised learning|Smoothing|Operator (computer programming)|Artificial intelligence|Diffusion map|Contextual image classification|Cluster analysis
+references:1510073064|1575129940|2038967169|2057175746|2105026917|2106404777|2121927366|2121947440|2122837498|2131791003|2150571057|2156365280|2165414070|2169317382|2170818070
+
+
+id:2116684582
+title:Sparse Subspace Denoising for Image Manifolds
+year:2013
+author information:[
+author name:Bo Wang
+author organization:University of Toronto
+author id:2641552239|
+author name:Zhuowen Tu
+author organization:California University
+author id:2134014566|
+]
+abstract:diffusionbased|dimensional|data|dimensionality|insensitive|adaptively|via|realworld|high|structure|advances|inferred|formulation|manifold|noises|recent|algorithm|competing|new|neighborhoods|tuning|often|come|real|significant|analysis|intrinsic|demand|propose|becomes|unraveling|sparse|demonstrate|however|sophisticated|critical|show|technique|learning|availability|experiments|derive|denoising|inspired|parameter|live|toy|algorithms|carried|effectiveness|subspace|linear|original|perform|data|improvement|single|increasing|subspace|applications
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Data structure|Clustering high-dimensional data|Dimensionality reduction|Subspace topology|Pattern recognition|Computer science|Sparse approximation|Linear subspace|Artificial intelligence|Nonlinear dimensionality reduction|Sparse matrix
+references:1989368986|1998596683|2003217181|2009228073|2027922120|2070188987|2084635976|2093926511|2097645701|2098049350|2103560185|2121647436|2123921160|2129638195|2141465109|2146610201|2149622006|2154455818|2177347332|2294984095
+
+
+id:2152769698
+title:Co-Transduction for Shape Retrieval
+year:2012
+author information:[
+author name:Xiang Bai
+author organization:Huazhong University of Sci.  Tech
+author id:2168860362|
+author name:Bo Wang
+author organization:Huazhong University of Sci.  Tech
+author id:2641552239|
+author name:Cong Yao
+author organization:Huazhong University of Sci.  Tech
+author id:2130302435|
+author name:Wenyu Liu
+author organization:Huazhong University of Sci.  Technol
+author id:2143675271|
+author name:Zhuowen Tu
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2134014566|
+]
+abstract:smaller|skeletons|called|objects|accuracy|focus|stateoftheart|complementary|different|decided|improved|measures|retrieval|tasks|algorithm|based|similar|using|goal|large|shape|method|pool|inspired|propose|critically|input|system|set|algorithm|versa|object|multipleinput|computed|cotransduction|given|two|result|fuse|performance|vice|robust|set|may|one|metric|cotraining|iteratively|adopted|data|tritransduction|using|semisupervised|interclass|retrieves|intraclass|assigns|different|directly|new|ideal|query|difficult|often|develop|task|measure|name|present|framework|applied|aspects|learning|similarity|shapes|design|distances|types|limited|also|variation|contours|performance|achieved|objects|account
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Computer vision|Object detection|Similitude|Similarity measure|Pattern recognition|Similarity (geometry)|Ranking|Iterative method|Robustness (computer science)|Artificial intelligence|Mathematics|Cognitive neuroscience of visual object recognition
+references:57680428|1483634300|1533162639|1552231868|1575129940|1589666435|1756896031|1824737917|2020889011|2043040200|2045915581|2048679005|2055979507|2057175746|2062953232|2080979907|2089760990|2104290444|2105026917|2106404777|2114766304|2116663904|2117154949|2118393783|2122827492|2125310690|2126250169|2126491576|2128017662|2128614648|2131529365|2131846894|2132742889|2133556223|2135711152|2140076625|2148659553|2150559991|2151103935|2151532744|2152262720|2156365280|2159498975|2163352848|2165414070|2168606409|2169317382|2169495281|2170818070|2171214792|2171490473|2172188317
+
+
+id:2166338096
+title:Dynamic Label Propagation for Semi-supervised Multi-class Multi-label Classification
+year:2013
+author information:[
+author name:Bo Wang
+author organization:Stanford University
+author id:2641552239|
+author name:Zhuowen Tu
+author organization:California University
+author id:2134014566|
+author name:John K. Tsotsos
+author organization:York University
+author id:2074551997|
+]
+abstract:performs|accuracy|process|stateoftheart|observed|significant|dynamic|dependent|tasks|algorithm|semisupervised|dealing|labeled|often|classification|propose|benchmark|lack|difficulty|fusion|propagation|size|availabel|consideration|problems|emphasizes|methods|learning|datasets|multilabel|multiclass|rate|similarity|transductive|highly|measures|label|instead|improvement|due|metric|well|graphbased|information|existing
+venue name:International Conference on Computer Vision
+venue id:1164975091
+venue type:C
+document type:Conference
+study fields:Transduction (machine learning)|Graph theory|Pattern recognition|Label propagation|Computer science|Classification scheme|Multi-label classification|Correlation|Artificial intelligence|Contextual image classification|Classification rate|Machine learning
+references:158976495|1483660231|1578682245|1592096085|1709989312|1979974203|1983998816|2009228073|2027922120|2038967169|2048679005|2056974656|2084635976|2093926511|2101276256|2106053110|2115733720|2117154949|2121692343|2126491576|2128028519|2130556178|2133232758|2133510502|2134604967|2146012283|2154455818|2155161883|2160569988|2161329297|2162915993|2401715402
+
+
+id:2170467231
+title:Shape Classification Using Tree -Unions
+year:2010
+author information:[
+author name:Bo Wang
+author organization:Hong Kong University of Sci.  Technol
+author id:2641552239|
+author name:Wei Shen
+author organization:HuaZhong University of Science and Technology
+author id:2007372778|
+author name:Wenyu Liu
+author organization:Huazhong University of Sci  Tech
+author id:2143675271|
+author name:Xinge You
+author organization:Huazhong University of Sci.  Technol
+author id:2113952954|
+author name:Xiang Bai
+author organization:Huazhong University of Science and Tech
+author id:2168860362|
+]
+abstract:junction|simple|representation|approach|problem|context|new|based|statistic|merging|using|shape|method|illustrate|tree|way|classification|junctions|node|proposed|improve|obtained|utility|global|distribution|trees|rate|process|learned|structure|nodes|classification|novel|represent
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Active shape model|Tree representation|Global structure|Pattern recognition|Statistic|Computer science|Artificial intelligence|Tree structure|Contextual image classification|Merge (version control)|Bayesian probability
+references:1997276658|2057175746|2059144111|2065802146|2104093257|2111569598|2126666380|2130047783|2134490039|2150559991|2165414070|2168606409|2169317382
+
+
+id:2205890294
+title:Reveel: large-scale population genotyping using low-coverage sequencing data
+year:2014
+author information:[
+author name:Lin Huang
+author organization:University
+author id:2607689178|
+author name:Bo Wang
+author organization:University
+author id:2641552239|
+author name:Ruitang Chen
+author organization:University
+author id:2214781705|
+author name:Sivan Bercovici
+author organization:University
+author id:2803145405|
+author name:Serafim Batzoglou
+author organization:University
+author id:300690800|
+]
+abstract:extent|straightforward|introduces|deviates|accuracy|variants|stateoftheart|entire|approach|variation|lowcoverage|sequencing|number|problem|complex|leveraging|method|large|models|lower|methods|confound|population|variant|substantially|evaluate|requires|become|coverage|prominent|inference|independent|overcome|genomes|linkage|decomposes|low|population|sequenced|emerging|discovering|nucleotide|practical|combines|available|possible|computation|simulations|single|extensive|exome|massive|discovery|calling|lowfrequency|compensate|novel|cohorts|joint|data|achieves|fullcoverage|challenging|lowallelefrequency|high|sufficient|variant|computational|discover|individual|need|genotyping|patterns|real|genotype|sequencing|sparse|mapped|cohort|relatively|markovbased|position|present|potentially|higher|individual|wholegenome|show|cohort|technique|array|missing|reveel|disequilibrium|attempting|cost|cases|previous|confidently|reads|rapidly|performance|genomic|arises|allele|well|time
+venue name:bioRxiv
+venue id:2734324842
+venue type:J
+document type:Repository
+study fields:Population|Linkage disequilibrium|Genotyping|Biology|Inference|Markov chain|1000 Genomes Project|Bioinformatics|Missing data|Genetics|Exome sequencing
+references:1817561967|2066807052|2108234281|2151578735|2152609982|2158275940|2164568552
+
+
+id:2762498896
+title:Vicus: Exploiting local structures to improve network-based analysis of biological data.
+year:2017
+author information:[
+author name:Bo Wang
+author organization:Stanford University
+author id:2641552239|
+author name:Lin Huang
+author organization:Stanford University
+author id:2607689178|
+author name:Yuke Zhu
+author organization:University
+author id:2128865582|
+author name:Anshul Kundaje
+author organization:Stanford University
+author id:2042923958|
+author name:Serafim Batzoglou
+author organization:University
+author id:300690800|
+author name:Anna Goldenberg
+author organization:University of Toronto
+author id:2191844773|
+]
+abstract:play|modeling|benchmarking|accurate|dimensionality|empirical|despite|protein|context|understanding|tasks|tasks|using|thus|genes|module|biological|sensitive|propose|biological|spectral|much|systems|role|inference|methods|experiments|fundamental|global|networks|matrix|cell|two|local|result|fundamental|noise|key|intricacies|vicus|robust|within|many|great|laplacian|single|extensive|advantages|discovery|complicated|progress|cannot|ranking|topological|spectral|network|features|ignored|patterns|done|important|take|improve|neighborhood|demonstrate|interactions|critical|analysis|show|interactions|network|effective|vicus|applications|entail|captures|networkbased|alternative|structure|performance|subtyping|cancer|account|properties
+venue name:PLOS Computational Biology
+venue id:86033158
+venue type:J
+document type:Journal
+study fields:Biological data|Dimensionality reduction|Ranking|Matrix (mathematics)|Biological network|Inference|Computer science|Artificial intelligence|Bioinformatics|Network analysis|Eigenvalues and eigenvectors|Machine learning
+references:1976937534|2009228073|2012599677|2033403400|2037096232|2044988896|2060787631|2081607470|2097308346|2097323414|2107887685|2154455818|2162833336|2552514221
+
+
+id:2810986024
+title:Machine learning for integrating data in biology and medicine: Principle
+year:2019
+author information:[
+author name:Marinka Zitnik
+author organization:Stanford University
+author id:2811250751|
+author name:Francis Nguyen
+author organization:PRINCESS MARGARET CANCER CENTRE, Toronto, ON, Canada
+author id:2963706521|
+author name:Bo Wang
+author organization:HikVision
+author id:2641552239|
+author name:Jure Leskovec
+author organization:Stanford
+author id:1878631932|
+author name:Anna Goldenberg
+author organization:University of Toronto
+author id:2191844773|
+author name:Michael M. Hoffman
+author organization:University of Toronto
+author id:2394605266|
+]
+abstract:identification|understanding|models|biology|thus|method|provide|examples|integration|biological|complexity|statistical|methods|integrative|phenomenon|emerged|enabled|across|current|systems|perspective|key|predicting|include|approaches|abstract|health|disease|biomedical|single|field|answer|future|unprecedented|describe|dimensions|discuss|new|medical|data|several|available|developing|heterogeneous|medicine|features|dimensions|describing|myriad|view|combine|computational|development|ideal|capture|harnessing|technologies|relevant|important|principles|identifying|critical|challenges|scale|effective|integrative|implementations|human|successful|multiple|lifestyle|approaches|variation|factors|investigation|challenge|comprehensive|properties
+venue name:Information Fusion
+venue id:7560371
+venue type:J
+document type:Journal
+study fields:Data integration|Biology|Implementation|Data type|Emerging technologies|Artificial intelligence|Epigenome|Multiple time dimensions|Mathematics|Machine learning|Human health
+references:11344490|103340358|159435487|205829674|1527318567|1823022514|1853598593|1974463674|1984084871|1987679690|1988581590|1998898494|2011356131|2016914833|2024812465|2025897051|2029348196|2035977761|2044511756|2045156863|2056002855|2062649377|2075016035|2075897300|2076154138|2082253757|2100022944|2100582962|2100714130|2103923312|2104400119|2104915027|2105717378|2106029302|2106417713|2106966651|2108191052|2108421854|2111790974|2112014854|2113025130|2116877707|2124649657|2130186565|2131510173|2135007932|2135594369|2136292095|2137084389|2139736926|2140952049|2140966642|2141873373|2145094598|2146416540|2147278762|2151295809|2151357092|2152454589|2161444669|2162587106|2164184461|2171815113|2183717576|2187413858|2271840356|2281778589|2285139619|2313125707|2320155933|2327736479|2331947132|2333144702|2336207313|2338148720|2343509590|2346950316|2402674527|2422847636|2469049024|2470861207|2473876819|2485374661|2516809705|2519794569|2550724046|2569335714|2570516417|2591704587|2597855421|2607497028|2608081584|2611792444|2615066396|2618851150|2621245109|2621361707|2682189153|2735272571|2738924259|2761525601|2765388300|2766492998|2767092306|2786016794|2789725201|2797648291|2799131379|2802145570|2807567459|2949578944|2949780682|2952646324|2963460103
+
+
+id:2913510405
+title:Weakly supervised mitosis detection in breast histopathology images using concentric loss
+year:2019
+author information:[
+author name:Chao Li
+author organization:Huazhong University of Science and Technology
+author id:2586643314|
+author name:Xinggang Wang
+author organization:Huazhong University of Science and Tech
+author id:2117300371|
+author name:Wenyu Liu
+author organization:Huazhong University of Sci  Tech
+author id:2143675271|
+author name:Longin Jan Latecki
+author organization:Temple University
+author id:214878226|
+author name:Bo Wang
+author organization:University Health Network
+author id:2930189600|
+author name:Junzhou Huang
+author organization:Tencent
+author id:2106662015|
+]
+abstract:ring|annotate|fscore|fully|excellent|analysis||circle|pathologists|much|deal|role|scheme|achieve|cells|timeconsuming|segmentation|latest|detection|address|learning|data|singlepixel|model|dataset|novel|medical|grading|available|tedious|inside|challenging|research|compute|belonging|generated|results|significantly|image|need|count|publicly|detecting|tackle|demonstrate|region|icpr|deep|trained|rather|histopathology|learning|training|effort|lot|mitosis|concentric|result|effectiveness|diagnosis|previous|label|supervised|nonmitotic|centroid|cancer|nottingham|outperforming|stateoftheart|different|annotated|loss|problem|mitosis|usually|presence|method|made|propose|developing|semantic|methods|save|loss|quantitatively|weak|low|grading|map|according|convolutional|may|abstract|great|filter|machine|regard|able|prevalent|data|use|used|pixels|function|sufficient|obtain|new|manually|kind|proposes|format|diagnosis|mitosis|important|expand|task|pixels|proposed|topic|termed|code|weakly|around|network|paper|task|mitotic|make|plays|determine|confidence|automatic|also|approaches|technically|conventional|easier|breast
+venue name:Medical Image Analysis
+venue id:116571295
+venue type:J
+document type:Journal
+study fields:Training set|Computer vision|Mitosis|Concentric|Pattern recognition|Segmentation|Mitotic Count|Artificial intelligence|Pixel|Deep learning|Mathematics|Centroid
+references:22040386|1542955296|1580269359|1686810756|1792334496|1988790447|2013811470|2031489346|2079611359|2085038509|2102605133|2119821739|2132031490|2175803585|2339885376|2346062110|2500786414|2518902831|2531897166|2560920277|2563780449|2587121089|2610510511|2618530766|2685699410|2789755511|2813911573|2886631828|2911964244|2949650786|2950094539|2950179405|2950830676|2950891598|2951548327|2951810699|2953106684
+
+
+id:2950964877
+title:Reveel: large-scale population genotyping using low-coverage sequencing data.
+year:2016
+author information:[
+author name:Lin Huang
+author organization:Stanford University
+author id:2607689178|
+author name:Bo Wang
+author organization:Stanford University
+author id:2641552239|
+author name:Ruitang Chen
+author organization:University
+author id:2214781705|
+author name:Sivan Bercovici
+author organization:University
+author id:2803145405|
+author name:Serafim Batzoglou
+author organization:University
+author id:300690800|
+]
+abstract:extent|straightforward|introduces|deviates|accuracy|variants|stateoftheart|entire|approach|variation|lowcoverage|sequencing|number|problem|complex|leveraging|tasks|efficiency|method|large|lower|aimed|jointly|confound|population|variant|substantially|evaluate|requires|become|coverage|prominent|inference|independent|overcome|genomes|linkage|decomposes|low|population|sequenced|emerging|discovering|nucleotide|combines|available|possible|computation|simulations|single|extensive|exome|massive|discovery|calling|ld|lowfrequency|compensate|novel|cohorts|lowallele|joint|data|achieves|available|fullcoverage|challenging|frequency|high|sufficient|rare|online|variant|capturing|bioinformatics|computational|individual|need|genotyping|patterns|real|sequencing|sparse|mapped|cohort|relatively|markovbased|position|present|potentially|higher|individual|wholegenome|show|cohort|technique|array|missing|reveel|disequilibrium|haplotypes|cost|previous|confidently|reads|rapidly|performance|genomic|arises|allele|well|time
+venue name:Bioinformatics
+venue id:52395412
+venue type:J
+document type:Journal
+study fields:Population|Data mining|Genotyping|Linkage disequilibrium|Computer science|Inference|Markov chain|1000 Genomes Project|Missing data|Exome sequencing
+references:1817561967|2066807052|2103441770|2108234281|2158275940|2164568552
+
+
+id:2962804657
+title:Deep Co-Training for Semi-Supervised Image Recognition
+year:2018
+author information:[
+author name:Siyuan Qiao
+author organization:Johns-Hopkins university
+author id:2274776727|
+author name:Wei Shen
+author organization:Johns Hopkins University
+author id:2007372778|
+author name:Zhishuai Zhang
+author organization:Johns-Hopkins university
+author id:2664543709|
+author name:Bo Wang
+author organization:Hikvision Research Institute, Hangzhou, China
+author id:2641552239|
+author name:Alan L. Yuille
+author organization:Johns-Hopkins university
+author id:2065104188|
+]
+abstract:results|stateoftheart|complementary|trains|problem|order|based|semisupervised|using|method|large|inspired|deep|extend|collapsing|examples|provide|study|images|margin|achieve|methods|networks|two|cotrained|exploits|encourage|necessary|learn|framework|information|describe|data|good|view|classifiers|unlabeled|adversarial|different|image|test|learns|labeled|instances|present|cotraining|framework|deep|sources|neural|concept|learning|prevent|views|original|previous|multiple|outperforms|imagenet
+venue name:European Conference on Computer Vision
+venue id:1124077590
+venue type:C
+document type:Conference
+study fields:Computer vision|Semi-supervised learning|Computer science|Co-training|Exploit|Artificial intelligence|Deep learning|Deep neural networks|Machine learning
+references:1670132599|1686810756|1821462560|1836465849|1861492603|1903029394|1923697677|1924619199|1945616565|2037603696|2048679005|2091146638|2097117768|2100128988|2102605133|2107544712|2111316763|2117539524|2133556223|2152769698|2163176424|2194775991|2251850487|2431080869|2432004435|2511730936|2592691248|2604505099|2606711863|2608593418|2613718673|2618530766|2619371851|2625674597|2767011576|2770321406|2912934387|2949299379|2950400684|2951326654|2951970475|2952122856|2952186574|2952229419|2963303538|2963325039|2963446712|2964010755
+
+
+id:2962851632
+title:Deep Regression Forests for Age Estimation
+year:2018
+author information:[
+author name:Wei Shen
+author organization:Shanghai University
+author id:2007372778|
+author name:Yilu Guo
+author organization:Shanghai                            University
+author id:2591957913|
+author name:Yan Wang
+author organization:Johns Hopkins University
+author id:2604823062|
+author name:Kai Zhao
+author organization:NanKai University
+author id:2566863584|
+author name:Bo Wang
+author organization:HikVision
+author id:2641552239|
+author name:Alan Yuille
+author organization:
+author id:2065104188|
+]
+abstract:forests|stepsize|stateoftheart|nonlinear|bounding|three|variation|cast|problem|property|inhomogeneous|fully|images|large|deep|propose|jointly|persons|estimation|deal|cnn|achieve|endtoend|layer|across|feature|verify|free|connect|convolutional|problem|leaf|abstractions|connected|nonstationary|appearance|ages|aging|wrt|standard|inputdependant|joint|data|main|space|split|benchmarks|different|nodes|results|partitions|fixing|typically|follows|estimation|iterating|proposed|parameters|neural|optimized|update|rule|learning|network|drfs|derived|age|facial|patterns|regression|alternating|nodes|due|regression|challenge|well|variational|age
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Feature vector|Pattern recognition|Regression|Convolutional neural network|Computer science|Regression tree analysis|Nonlinear regression|Artificial intelligence|Technical report|Bounding overwatch
+references:316503321|639708223|1167806532|1516111018|1529085430|1557222137|1903029394|1905153633|1972960842|2009088607|2039913439|2066454034|2067425370|2067431615|2075875861|2103077782|2106488920|2113242816|2118664399|2120240539|2121557314|2146656095|2147278565|2151386286|2151451863|2155893237|2163605009|2164598857|2166765763|2220384803|2238950008|2274745179|2330485005|2407521645|2436453945|2440214111|2510725918|2553156677|2572206410|2748140016|2777551880|2911964244|2963878055
+
+
+id:2964010755
+title:Single-Shot Object Detection with Enriched Semantics
+year:2018
+author information:[
+author name:Zhishuai Zhang
+author organization:Johns Hopkins University
+author id:2664543709|
+author name:Siyuan Qiao
+author organization:Johns Hopkins University
+author id:2274776727|
+author name:Cihang Xie
+author organization:Johns Hopkins University
+author id:2122712300|
+author name:Wei Shen
+author organization:Shanghai University
+author id:2007372778|
+author name:Bo Wang
+author organization:HikVision
+author id:2641552239|
+author name:Alan L. Yuille
+author organization:Johns Hopkins University
+author id:2065104188|
+]
+abstract:employ|milliseconds|named|gpu|experimental|semantics|branch|resolution|xp|per|based|module|lower|propose|detection|titan|object|semantic|inference|achieve|global|datasets|weak|conjunction|segmentation|relationship|map|annotation|detection|within|image|module|selfsupervised|single|comprehensive|novel|manner|features|semantics|enriched|enrich|method|results|image|test|ms|learns|voc|channels|proposed|demonstrate|activation|deep|motivation|classes|coco|testdev|speed|shot|network|pascal|extra|effectiveness|supervised|typical|required
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Computer vision|Object detection|Pattern recognition|Inference|Segmentation|Computer science|Visualization|Feature extraction|Image segmentation|Artificial intelligence|Detector|Semantics
+references:7746136|1487583988|1533861849|1536680647|1686810756|1861492603|1903029394|1932624639|2031489346|2088049833|2102605133|2163605009|2193145675|2194775991|2221898772|2288122362|2407521645|2412782625|2520951797|2579985080|2604260814|2604414494|2613718673|2752782242|2962917547|2963037989|2963446712
+
+
+id:848317612
+title:Semi-supervised classification with privileged information
+year:2015
+author information:[
+author name:Zhiquan Qi
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2474485751|
+author name:Yingjie Tian
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160621465|
+author name:Lingfeng Niu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2115436022|
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+]
+abstract:realworld|using|semisupervised|efficiency|methods|propose|traditional|examples|drives|simultaneously|relative|compare|experiments|vashist|distribution|lot|verify|lupi|learning|data|many|model|help|information|exploit|standard|data|available|accelerate|method|unlabeled|us|obtain|new|test|vapnik|privileged|proposed|improve|solve|netw|problems|framework|importance|concept|show|training|learning|speed|performances|effectiveness|types|also|supervised|superior|semilupi|significantly
+venue name:International Journal of Machine Learning and Cybernetics
+venue id:2764999920
+venue type:J
+document type:Journal
+study fields:Semi-supervised learning|Computer science|Support vector machine|Exploit|Supervised learning|Unsupervised learning|Artificial intelligence|Machine learning
+references:6533109|562319516|1491300635|2067562626|2104290444|2109464092|2111557120|2126523478|2139823104|2145494108|2156909104|2502869113|2506404347|2542226129
+
+
+id:963955667
+title:Search Engine Marketin
+year:2015
+author information:[
+author name:Zhuofan Yang
+author organization:University of Chinese Academy Sciences
+author id:2129249470|
+author name:Yong Shi
+author organization:Research Center on Fictitious Economy  Data Science Chinese Academy of Sciences, Beijing, China
+author id:1986476467|
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+]
+abstract:inputs|empirical|research|relation|firm|model|effect|returns|enlightens|managers|strong|explores|show|search|firms|negative|management|paper|engine|low|financing|ecommerce|ability|relationship|consumer|performance|innovation|business|abstract|positive|concentrate|marketing|performance|results|verifies
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Marketing management|Computer science|Search engine optimization|Internal financing|Business model|Finance|Business model innovation|E-commerce|Marketing|Empirical research|Firm offer
+references:2005983249|2133481051
+
+
+id:2156057532
+title:World Search Engine IQ Test Based on the Internet IQ Evaluation Algorithms
+year:2015
+author information:[
+author name:Feng Liu
+author organization:Xian Jiaotong University
+author id:2645402693|
+author name:Yong Shi
+author organization:Research Center on Fictitious Economy  Data Science Chinese Academy of Sciences, Beijing, China
+author id:1986476467|
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+]
+abstract:intelligence|results|data|subsystem|reflected|years|concern|features|bank|engines|find|calculated|using|test|method|proposes|iq|conducted|countries|mining|regarding|intelligence|concepts|difference|internet|designs|rules|world|relative|regions|applied|another|iqs|across|search|paper|based|human|engines|establishes|carried|accordance|subjects|groups|scale|also|beings|absolute|increasing|typical|first|age
+venue name:International Journal of Information Technology and Decision Making
+venue id:207089700
+venue type:J
+document type:Journal
+study fields:Data mining|Wechsler Adult Intelligence Scale|Search engine|Intelligence quotient|Age groups|Artificial intelligence|Cluster analysis|Mathematics|Machine learning|The Internet
+references:562319516|2168897374
+
+
+id:2168897374
+title:Error Correction Method in Classification by Using Multiple-Criteria and Multiple-Constraint Levels Linear Programming
+year:2014
+author information:[
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+author name:Yong Shi
+author organization:Nebraska University
+author id:1986476467|
+]
+abstract:optimal|criteria|problem|investigated|order|based|using|multiplecriteria|handle|classification|two|system|illustrated|switched|versa|card|cutoffs|two|extended|reallife|dual|according|key|vice|linear|problem|decision|strategies|caused|possible|many|corrected|framework|constraint|cutoff|alterable|levels|multipleconstraint|imposed|solution|find|method|credit|potential|programming|group|tradeoffs|need|logically|group|proposed|systematically|fixed|correction|mclp|errors|issue|solving|penalty|classifier|error|supporting|allows|types|multiple|procedure|structure|various|account|applications
+venue name:International Journal of Computers Communications  Control
+venue id:147751515
+venue type:J
+document type:Journal
+study fields:Multiple criteria|Computer science|Artificial intelligence|Linear programming|Type I and type II errors|Classifier (linguistics)|Mathematical optimization|Cutoff|Algorithm|Error detection and correction|Credit card|Multiple criteria linear programming|Machine learning
+references:22012095|562319516|2022115720|2050648450|2058466062|2149019668
+
+
+id:2286138128
+title:Linear Twin SVM for Learning from Label Proportions
+year:2015
+author information:[
+author name:Bo Wang
+author organization:Res. Center on Fictitious Econ.  Data Sci., Beijing, China
+author id:2636707681|
+author name:Zhensong Chen
+author organization:University of Chinese Acad. of Sci
+author id:2500239555|
+author name:Zhiquan Qi
+author organization:Res. Center on Fictitious Econ.  Data Sci, Beijing, China
+author id:2474485751|
+]
+abstract:smaller|instance|data|optimal|theoretical|bag|experimental|assumptions|problem|known|solution|model|problems|group|order|algorithm|needs|obtain|new|based|making|grouped|method|kind|way|efficiently|classification|propose|labels|largemargin|solve|level|avoiding|study|prove|bags|instances|provided|learning|training|two|nonconvex|inspired|every|twin|effectiveness|learn|restrictive|alternative|also|label|positive|single|framework|various|information|information|proportions
+venue name:Web Intelligence
+venue id:1200067787
+venue type:C
+document type:Conference
+study fields:Training set|Data mining|Computer science|Support vector machine|Linear programming|Artificial intelligence|Machine learning
+references:1564684449|1607038179|2014908235|2019184604|2063438554|2064741519|2082741089|2140509289
+
+
+id:2293425463
+title:An Algebra Description for Hard Clustering
+year:2015
+author information:[
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+author name:Yong Shi
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, Research Center on Fictitious Economy and Data Science, Chinese Academy of Sciences, Beijing, China
+author id:1986476467|
+author name:Zhuofan Yang
+author organization:University of Chinese Academy Sciences
+author id:2129249470|
+author name:Xuchan Ju
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2639092490|
+]
+abstract:cluster|tries|data|concentration|results|reasonable|several|latticized|property|different|results|us|algorithm|knowledge|partitions|offers|obtain|based|kind|topology|hard|sort|lack|unsupervised|effect|overall|evaluating|theory|algorithms|criterion|relied|distinct|description|learning|algebra|distribution|uncertainty|representation|result|operations|paper|regions|define|hard|virtue|allows|set|combining|data|clustering|structure|lead|single|regarded|form|due|various|lattice|clustering|considerations|topological|characterization|discuss
+venue name:International Conference Data Science
+venue id:2898609575
+venue type:C
+document type:Conference
+study fields:Fuzzy clustering|Canopy clustering algorithm|CURE data clustering algorithm|Algebra|Correlation clustering|Computer science|Determining the number of clusters in a data set|Theoretical computer science|Constrained clustering|Conceptual clustering|Cluster analysis
+references:1992419399|2040810017
+
+
+id:2514741231
+title:Learning With Label Proportions via NPSVM
+year:2017
+author information:[
+author name:Zhiquan Qi
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2474485751|
+author name:Bo Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2636707681|
+author name:Fan Meng
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
+author id:2518417853|
+author name:Lingfeng Niu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2115436022|
+]
+abstract:called|iteratively|approach|via|generalized|optimization|monotonic|combinatorial|usually|brand|algorithm|based|margin|method|large|benefiting|propose|labels|determined|among|attracted|cases|dilemma|competitive|interpreted|predictors|scheme|proportion|methods|experiments|intractable|two|weak|vector|merely|llpnpsvm|demonstrated|robust|procedure|baglevel|framework|fast|machine|clustering|efficiently|hyperplanes|seeks|llps|nonparallel|instance|data|rationally|rapid|several|accounting|developed|instancelevel|analyzed|falls|widespread|satisfactory|various|termination|new|finite|decrease|interest|addressed|proposed|paths|support|facilitate|issue|convergence|sequential|according|learning|best|llp|enjoys|numerical|minimal|along|transductive|supervision|effectiveness|applying|geometrical|recently|alternative|label|instead|accuracies|due|harness|information|essentially|proportions
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Transduction (machine learning)|Monotonic function|Mathematical optimization|Computer science|Support vector machine|Combinatorial optimization|Artificial intelligence|Sequential minimal optimization|Cluster analysis|Machine learning|Cybernetics|Numerical stability
+references:7903576|15704962|1533128638|1547172162|1564684449|1607038179|1790119552|1972230955|1976190508|2004236981|2027266161|2028704235|2042184006|2063438554|2065218422|2066446909|2077484223|2080511794|2081621367|2082741089|2083143867|2090089568|2098239572|2103284199|2108094618|2108745803|2110119381|2114396536|2115240329|2117426363|2120742448|2149648623|2158681777|2159543578|2164244439|2170860445|2185563688|2204666881|2215815030|2219738499|2222844749|2963210465|2964324211
+
+
+id:2539715271
+title:Misclassification Minimization Based on Multiple Criteria Linear Programming
+year:2014
+author information:[
+author name:Bo Wang
+author organization:Res. Center on Fictitious Econ.  Data Sci., Beijing, China
+author id:2636707681|
+author name:Yong Shi
+author organization:Res. Center on Fictitious Econ.  Data Sci., Beijing, China
+author id:1986476467|
+author name:Wayne Wei Huang
+author organization:Key Res. Lab. on Big Data Min.  Knowledge Manage., Beijing, China
+author id:2717571029|
+author name:Guanfeng Liu
+author organization:Xian Jiaotong University
+author id:2162147167|
+]
+abstract:proposing|criteria|mclp|used|construct|points|employed|second|number|solution|experiment|complementarity|misclassification|credit|different|programming|algorithm|based|approximation|real|schemes|classification|benefit|important|successive|misclassified|tests|minimization|solve|effect|topic|card|clients|scheme|applied|achieve|focuses|technique|two|life|numerical|paper|linearization|minimize|idea|linear|original|problem|interesting|multiple|many|scheme|exploring|classification|first|misclassification
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Linear-fractional programming|Linear approximation|Complementarity (molecular biology)|Mathematical optimization|Computer science|Credit card|Minification|Linear programming|Artificial intelligence|Multiple criteria linear programming|Machine learning|Linearization
+references:562319516|1503357994|1988435528|2022115720|2118310471|2128276672|2149019668|2168897374
+
+
+id:2560045542
+title:Learning with label proportions based on nonparallel support vector machines
+year:2017
+author information:[
+author name:Zhensong Chen
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, CAS, Beijing 100190, China
+author id:2500239555|
+author name:Zhiquan Qi
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, CAS, Beijing 100190, China
+author id:2474485751|
+author name:Bo Wang
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, CAS, Beijing 100190, China
+author id:2636707681|
+author name:Limeng Cui
+author organization:University of Chinese Academy Sciences
+author id:2491106104|
+author name:Fan Meng
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, CAS, Beijing 100190, China
+author id:2518417853|
+author name:Yong Shi
+author organization:Key Laboratory of Big Data Mining and Knowledge Management, CAS, Beijing 100190, China
+author id:1986476467|
+]
+abstract:smaller|experimental|stateoftheart|branch|without|problem|optimization|classifier|conceivable|property|model|tasks|competing|based|using|efficiency|method|large|compared|classification|labels|largemargin|latent|smo|generalization|unique|prove|unknown|proportionnpsvm|known|vector|compared|sets|sufficient|observation|one|restrictive|quadratic|many|advantages|sor|efficiently|novel|binaryclasses|ability|nonparallel|data|several|solved|incorporate|assumptions|learning|solution|shown|classifiers|unlabeled|problems|results|programming|group|needs|need|particular|important|hyperplanes|proposed|improve|solve|support|termed|problems|framework|show|technique|learning|training|llp|computing|multiclasses|applications|make|algorithms|inverse|practical|effectively|alternative|groups|label|pair|better|existing|achieved|proportions|strategy
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Inverse|Data set|Group Label|Pattern recognition|Computer science|Matrix (mathematics)|Support vector machine|Artificial intelligence|Quadratic programming|Hyperplane|Classifier (linguistics)|Machine learning
+references:7903576|1144961267|1564684449|1607038179|1994807229|2004236981|2012010791|2020316573|2033741689|2034156072|2038590825|2063438554|2066446909|2081621367|2082741089|2090089568|2103284199|2116705846|2117426363|2122565017|2140509289|2141416357|2156385557|2157898978|2160338239|2160978182|2166886337|2170860445|2185563688|2215475184|2286138128|2406675335|2952602243
+
+
+id:2791587174
+title:Learning from label proportions on high-dimensional data
+year:2018
+author information:[
+author name:Yong Shi
+author organization:Research Center on Fictitious Economy  Data Science Chinese Academy of Sciences, Beijing, China
+author id:1986476467|
+author name:Jiabin Liu
+author organization:University of Chinese Academy Sciences
+author id:2793271513|
+author name:Zhiquan Qi
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2474485751|
+author name:Bo Wang
+author organization:University of International Business and Economics
+author id:2636707681|
+]
+abstract:called|bag|loss|problem|optimization|algorithm|based|still|dealing|method|methods|propose|labels|proportion|attracted|difference|proportion|bags|formulate|experiments|llprf|compared|robust|problem|efficient|abstract|learning|defining|forests|model|machine|information|novel|data|several|simple|inside|developed|challenging|employed|learning|function|obtain|take|solve|ground|demonstrate|hidden|training|learning|best|annealing|llp|random|interest|task|class|highdimensional|wide|advantage|penalizing|recently|estimated|label|target|accuracies|alternating|truth|form|corresponding|various|proportions
+venue name:Neural Networks
+venue id:123019304
+venue type:J
+document type:Journal
+study fields:Training set|Clustering high-dimensional data|Random variable|Ground truth|Artificial intelligence|Random forest|Mathematics|Machine learning
+references:1600810180|2061119986|2065218422|2066446909|2076063813|2077484223|2082741089|2117085409|2122565017|2166049352|2514741231|2543913258|2560045542|2619690820|2747786576|2911964244
+
+
+id:2808217773
+title:Kernel Extreme Learning Machine for Learning from Label Proportions
+year:2018
+author information:[
+author name:Hao Yuan
+author organization:University of Chinese Academy of Sciences
+author id:2807790817|
+author name:Bo Wang
+author organization:University of International Business and Economics
+author id:2636707681|
+author name:Lingfeng Niu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2115436022|
+]
+abstract:elm|achieves|basing|accuracy|research|learning|improved|number|problem|ielm|far|solves|method|inverse|kernel|extreme|stability|based|method|depends|work|methods|classification|node|generalization|competitive|basic|greatly|framework|hidden|lots|experiments|kernelbased|elm|learning|manual|machine|speed|layer|llp|numerical|due|design|ability|compared|problem|apply|manifest|extreme|also|llpkelm|generalizes|obtains|better|existing|fast|advantages|machine|kelm|llp|first|extending|novel|presents
+venue name:International Conference on Computational Science
+venue id:2706111989
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Inverse|Mathematical optimization|Kernel extreme learning machine|Extreme learning machine|Computer science|Artificial intelligence|Machine learning
+references:7903576|10980763|1564684449|1607038179|1981745143|1993717606|2010792435|2026131661|2047028564|2077484223|2103284199|2107008379|2108745803|2110119381|2111072639|2114396536|2117426363|2119991813|2144372981|2154318594|2158681777|2163474322|2163811596|2166886337|2514741231|2733555913|2739946780|2782618046
+
+
+id:2971644172
+title:Learning from Label Proportions with Generative Adversarial Networks
+year:2019
+author information:[
+author name:Jiabin Liu
+author organization:
+author id:2793271513|
+author name:Bo Wang
+author organization:University of International Business and Economics
+author id:2636707681|
+author name:Zhiquan Qi
+author organization:
+author id:2474485751|
+author name:Yingjie Tian
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160621465|
+author name:Yong Shi
+author organization:University of Chinese Academy of Science
+author id:1986476467|
+]
+abstract:performs|llpgan|upon|without|assumptions|instancelevel|classifier|adversarial|directly|algorithm|solver|give|approximation|optimality|models|work|mild|proportional|benchmark|labels|explicit|llpgan|induce|proposed|light|final|endowed|demonstrate|leverage|deep|prove|experiments|endtoend|learning|global|capable|datasets|networks|representation|derive|scalability|vivid|generative|effective|llp|inheriting|compared|imposing|empowers|discriminator|available|label|distribution|baglevel|existing|several|advantages|restricted|information|proportions|approach
+venue name:arXiv: Learning
+venue id:2597173376
+venue type:J
+document type:Repository
+study fields:Discriminator|Artificial intelligence|Generative grammar|Solver|Global optimality|Classifier (linguistics)|Machine learning|Mathematics|Adversarial system|Scalability
+references:1564684449|1607038179|1799366690|2065218422|2082741089|2099471712|2108501770|2110119381|2114396536|2145494108|2154318594|2163922914|2173520492|2178768799|2183341477|2185563688|2194775991|2331128040|2514741231|2739748921|2754977407|2805516822|2952229419|2963037989|2963170156|2963373786|2964201867
+
+
+id:2996846541
+title:A Novel Texture Generation Super Resolution Model
+year:2019
+author information:[
+author name:Biao Li
+author organization:University of Chinese Academy of Sciences
+author id:2783478964|
+author name:Yong Shi
+author organization:University of Chinese Academy of Sciences
+author id:1986476467|
+author name:Sujuan Li
+author organization:the First Affiliated Hospital of Zhengzhou University
+author id:2998370265|
+author name:Bo Wang
+author organization:University of International Business and Economics
+author id:2636707681|
+author name:Zhiquan Qi
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2474485751|
+author name:Jiabin Liu
+author organization:Research Center on Fictitious Economy and Data Science, Chinese Academy of Sciences, Beijing 100190, China
+author id:2793271513|
+]
+abstract:measured|accurate|thought|results|extracting|approach|loss|introduced|visual|model|gans|order|promoting|method|abundant|methods|propose|former|quality|input|difference|constructure|superresolution|methods|achieve|experiments|ability|based|popular|sr|address|abstract|texture|one|details|constrained|model|information|novel|lr|generations|achieves|losses|features|generated|academic|function|details|unlike|combine|new|goal|pleasant|feeling|effected|decrease|driving|leads|try|loss|higher|leverage|deep|attract|pretrained|gans|show|learning|generating|integrated|weakness|pursue|derives|structure|better|outputs|circle|corresponding|attention
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Leverage (finance)|Computer science|Artificial intelligence|Deep learning|Superresolution|Machine learning
+references:2133665775
+

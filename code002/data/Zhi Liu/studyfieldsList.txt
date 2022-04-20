@@ -1,0 +1,812 @@
+0 state observer
+1 backstepping
+2 mathematical optimization
+3 nonlinear system
+4 control theory
+5 control engineering
+6 multi-agent system
+7 control system
+8 artificial neural network
+9 observer (quantum physics)
+10 mathematics
+11 bounded function
+12 defuzzification
+13 computer science
+14 fuzzy logic
+15 stochastic process
+16 fuzzy set
+17 artificial intelligence
+18 inference engine
+19 probabilistic logic
+20 uncertainty modeling
+21 membership function
+22 machine learning
+23 lyapunov function
+24 inverse
+25 fuzzy adaptive control
+26 backlash
+27 mechanical system
+28 humanoid robot
+29 actuator
+30 support vector machine
+31 empirical risk minimization
+32 robustness (computer science)
+33 robot
+34 trajectory
+35 kernel (statistics)
+36 adaptive control
+37 tracking error
+38 graph kernel
+39 radial basis function kernel
+40 tree kernel
+41 polynomial kernel
+42 computer vision
+43 pattern recognition
+44 kernel embedding of distributions
+45 kernel method
+46 variable kernel density estimation
+47 regression analysis
+48 kalman filter
+49 zero moment point
+50 learning controller
+51 particle swarm optimization
+52 convergence (routing)
+53 operator (computer programming)
+54 adaptive neuro fuzzy inference system
+55 wavelet
+56 adaptive system
+57 hysteresis
+58 fuzzy logic system
+59 efficient energy use
+60 dynamic balance
+61 high energy
+62 training set
+63 gradient descent
+64 fuzzy wavelet neural network
+65 parameter learning
+66 connectionism
+67 feed forward
+68 digital signal processing
+69 fuzzy svm
+70 stability margin
+71 simulation
+72 gaussian
+73 identifier
+74 symmetric matrix
+75 attitude control
+76 nonlinear control
+77 lyapunov redesign
+78 fuzzy control system
+79 least squares
+80 fuzzy classification
+81 fuzzy number
+82 noise spectral density
+83 dead zone
+84 fuzzy set operations
+85 fuzzy associative matrix
+86 neuro-fuzzy
+87 scale-space segmentation
+88 gabor filter
+89 cluster analysis
+90 segmentation
+91 random early detection
+92 weighted random early detection
+93 active queue management
+94 real-time computing
+95 network congestion
+96 queue management system
+97 network traffic control
+98 robotic arm
+99 motion control
+100 internal forces
+101 second-generation wavelet transform
+102 discrete wavelet transform
+103 stationary wavelet transform
+104 wavelet packet decomposition
+105 wavelet transform
+106 mimo
+107 linear control
+108 data mining
+109 visual servoing
+110 recursion
+111 least squares support vector machine
+112 algorithm
+113 speech recognition
+114 multilayer perceptron
+115 kernel adaptive filter
+116 adaptive filter
+117 recursive least squares filter
+118 hand tremors
+119 fuzzy support vector machine
+120 regression function
+121 slack variable
+122 energy consumption
+123 signal processing
+124 data information
+125 multiresolution analysis
+126 sample size determination
+127 function approximation
+128 vagueness
+129 probabilistic method
+130 statistical process control
+131 robot control
+132 robot kinematics
+133 system dynamics
+134 stability theory
+135 probabilistic logic network
+136 inference
+137 probabilistic ctl
+138 probabilistic argumentation
+139 energy conservation
+140 optimal control
+141 consensus
+142 robust control
+143 approximation error
+144 noise reduction
+145 sampling distribution
+146 pixel density
+147 image denoising
+148 probability density function
+149 vibration isolation
+150 engineering
+151 vibration
+152 estimation theory
+153 uniform boundedness
+154 exponential stability
+155 automatic frequency control
+156 isolator
+157 estimator
+158 coupling
+159 quantization (signal processing)
+160 lyapunov stability
+161 stochastic control
+162 robotic systems
+163 torque
+164 nonlinear dynamical systems
+165 nussbaum function
+166 adaptive learning
+167 consensus control
+168 synchronizing
+169 computation
+170 adaptive method
+171 parametric statistics
+172 stochastic neural network
+173 compensation methods
+174 discontinuity (linguistics)
+175 piecewise
+176 plant
+177 residual
+178 multivariable calculus
+179 loop gain
+180 neural control
+181 finite set
+182 instability
+183 scalar (physics)
+184 common lyapunov function
+185 manipulator
+186 normal mode
+187 kernel (linear algebra)
+188 hybrid kernel
+189 filter (signal processing)
+190 sampling (statistics)
+191 interference (wave propagation)
+192 automation
+193 weight
+194 control algorithm
+195 differentiable function
+196 discrete mathematics
+197 stability criterion
+198 finite time control
+199 approximation property
+200 lemma (mathematics)
+201 finite time
+202 quantization (physics)
+203 duality (optimization)
+204 linear combination
+205 quadratic form
+206 teleoperation
+207 physiological tremor
+208 regression
+209 feature mapping
+210 kinematics
+211 jacobian matrix and determinant
+212 a priori and a posteriori
+213 adaptive algorithm
+214 matrix (mathematics)
+215 concatenation
+216 duopoly
+217 revenue
+218 oligopoly
+219 computer network
+220 quality of service
+221 time preference
+222 monopoly
+223 nash equilibrium
+224 reference frame
+225 coding tree unit
+226 motion compensation
+227 multiview video coding
+228 video tracking
+229 distributed source coding
+230 encoder
+231 video compression picture types
+232 linear network coding
+233 retransmission
+234 network packet
+235 wireless wan
+236 wi-fi
+237 multicast
+238 wireless ad hoc network
+239 video quality
+240 resource allocation
+241 decoding methods
+242 optimization problem
+243 network interface
+244 distributed computing
+245 forward error correction
+246 wireless network
+247 wireless broadband
+248 automatic repeat request
+249 physical layer
+250 broadband networks
+251 data modeling
+252 system capacity
+253 electronic engineering
+254 data rate
+255 throughput
+256 heterogeneous network
+257 lte advanced
+258 area coverage
+259 encode
+260 multiple description coding
+261 parallax
+262 communication channel
+263 depth perception
+264 rendering (computer graphics)
+265 markov process
+266 lossy compression
+267 group of pictures
+268 coding (social sciences)
+269 unicast
+270 data compression
+271 packet loss
+272 pixel
+273 recovery procedure
+274 encoding (memory)
+275 interpolation
+276 mobile device
+277 frame rate
+278 image-based modeling and rendering
+279 battery (electricity)
+280 lagging
+281 inter-domain
+282 authentication
+283 domain name system
+284 server
+285 network architecture
+286 router
+287 network performance
+288 the internet
+289 markov decision process
+290 telecommunications network
+291 power control
+292 telecommunications link
+293 channel state information
+294 computational complexity theory
+295 video processing
+296 primary channel
+297 scalability
+298 spectrum reallocation
+299 homomorphic encryption
+300 wireless
+301 computer security
+302 encryption
+303 public-key cryptography
+304 private information retrieval
+305 spectrum auction
+306 cost accounting
+307 link adaptation
+308 greedy algorithm
+309 cellular network
+310 mobile telephony
+311 scalable video coding
+312 user experience design
+313 cache
+314 multipath propagation
+315 non-line-of-sight propagation
+316 fingerprint recognition
+317 location-based service
+318 fingerprint
+319 ranging
+320 rss
+321 base station
+322 picocell
+323 macrocell
+324 popularity
+325 content centric
+326 multimedia
+327 spectral clustering
+328 dynamic time warping
+329 parameter identification problem
+330 uniqueness
+331 subspace topology
+332 discriminant
+333 spectrogram
+334 classification scheme
+335 feature extraction
+336 feature (machine learning)
+337 grassmannian
+338 environmental sound classification
+339 mobile computing
+340 mobile data offloading
+341 small cell
+342 mobile broadband
+343 reinforcement learning
+344 content popularity
+345 network topology
+346 electricity market
+347 stand-alone power system
+348 smart grid
+349 electricity
+350 grid parity
+351 electricity retailing
+352 environmental economics
+353 electricity generation
+354 resource management
+355 job shop scheduling
+356 scheduling (computing)
+357 xcast
+358 pragmatic general multicast
+359 mobile app
+360 android (operating system)
+361 high density
+362 public transport
+363 bandwidth (signal processing)
+364 internet traffic
+365 hungarian algorithm
+366 bipartite graph
+367 relay
+368 vehicular ad hoc network
+369 job assignment
+370 job scheduler
+371 processor scheduling
+372 cloud computing
+373 ant colony optimization algorithms
+374 edge computing
+375 global positioning system
+376 workflow
+377 key distribution in wireless sensor networks
+378 visual sensor network
+379 sensor fusion
+380 landslide
+381 mobile wireless sensor network
+382 fuse (electrical)
+383 wireless sensor network
+384 hybrid system
+385 openflow
+386 stackelberg competition
+387 stochastic game
+388 video streaming
+389 end user
+390 advertising
+391 payment
+392 ieee 802
+393 wireless transmission
+394 wireless lan
+395 heuristic
+396 link-state routing protocol
+397 dynamic source routing
+398 path vector protocol
+399 static routing
+400 wireless routing protocol
+401 interior gateway protocol
+402 routing information protocol
+403 zone routing protocol
+404 location-based advertising
+405 profit maximization
+406 overhead (computing)
+407 femtocell
+408 system model
+409 cognitive radio
+410 backward induction
+411 data-driven
+412 cyber-physical system
+413 acceleration
+414 virtual reality
+415 heuristic (computer science)
+416 joint source and channel coding
+417 sensor node
+418 channel bonding
+419 data transmission
+420 wireless camera
+421 commodity
+422 sleep monitoring
+423 economic shortage
+424 mixture model
+425 power budget
+426 beamforming
+427 virtual network
+428 polynomial
+429 internet protocol suite
+430 cascade
+431 differential privacy
+432 incentive
+433 crowdsourcing
+434 mechanism design
+435 game theory
+436 information privacy
+437 complete information
+438 subcarrier
+439 orthogonal frequency-division multiple access
+440 spatial intelligence
+441 task analysis
+442 latency (engineering)
+443 internet of things
+444 localization system
+445 fingerprint database
+446 complex wavelet transform
+447 utility maximization problem
+448 mobile edge computing
+449 transmission time
+450 time division multiple access
+451 immersion (virtual reality)
+452 convex optimization
+453 view synthesis
+454 round-trip delay time
+455 versa
+456 distortion
+457 informatics
+458 enabling
+459 computational intelligence
+460 human–computer interaction
+461 affective computing
+462 channel data
+463 hidden markov model
+464 embedding
+465 raw data
+466 big data
+467 generative adversarial network
+468 amplitude
+469 salience (neuroscience)
+470 supervised learning
+471 fixation (visual)
+472 scale-invariant feature transform
+473 histogram
+474 salient objects
+475 image retrieval
+476 image segmentation
+477 spatial analysis
+478 saliency map
+479 kadir–brady saliency detector
+480 image matching
+481 image resolution
+482 superpixel segmentation
+483 algorithm design
+484 selection algorithm
+485 motion estimation
+486 reference software
+487 speedup
+488 coding gain
+489 graph theory
+490 cut
+491 minimum cut
+492 unsupervised learning
+493 kernel density estimation
+494 tunstall coding
+495 color depth
+496 smacker video
+497 sub-band coding
+498 context-adaptive binary arithmetic coding
+499 color contrast
+500 weighting
+501 merge (version control)
+502 salient
+503 facial recognition system
+504 local binary patterns
+505 curse of dimensionality
+506 algorithmic efficiency
+507 search algorithm
+508 absolute difference
+509 motion vector
+510 depth map
+511 codec
+512 macroblock
+513 motion field
+514 quarter-pixel motion
+515 inter frame
+516 pid controller
+517 high-motion
+518 residual frame
+519 bit allocation
+520 standard deviation
+521 coding quality
+522 human visual system model
+523 visual attention
+524 computation complexity
+525 block-matching algorithm
+526 context-adaptive variable-length coding
+527 binary tree
+528 image processing
+529 segmentation-based object categorization
+530 color image
+531 edge detection
+532 thresholding
+533 depth of field
+534 interval tree
+535 computer graphics (images)
+536 retargeting
+537 scaling
+538 optical flow
+539 optical imaging
+540 object detection
+541 viola–jones object detection framework
+542 salient object detection
+543 iterative method
+544 maximization
+545 benchmark (computing)
+546 image texture
+547 range segmentation
+548 region growing
+549 minimum spanning tree-based segmentation
+550 nonparametric statistics
+551 mean-shift
+552 feature vector
+553 color histogram
+554 color normalization
+555 content-based image retrieval
+556 texture filtering
+557 similarity measure
+558 visualization
+559 color quantization
+560 tree (data structure)
+561 decision tree model
+562 interactive video
+563 pixel classification
+564 region selection
+565 rate–distortion theory
+566 background subtraction
+567 cost matrix
+568 matrix algebra
+569 contextual image classification
+570 activity-based costing
+571 derivation method
+572 image representation
+573 motion vector field
+574 lagrange multiplier
+575 quadtree
+576 perception
+577 rectangle
+578 fusion
+579 transform coding
+580 theoretical computer science
+581 bayes estimator
+582 rate–distortion optimization
+583 bayes theorem
+584 scale factor
+585 seam carving
+586 global motion compensation
+587 ranking
+588 multiplication
+589 manifold ranking
+590 manifold
+591 grain quality
+592 motion analysis
+593 object model
+594 tracking system
+595 smoothing
+596 markov random field
+597 stereoscopy
+598 probability distribution
+599 boosting (machine learning)
+600 automatic image annotation
+601 feature detection (computer vision)
+602 visual word
+603 contrast (statistics)
+604 prior probability
+605 random forest
+606 discriminative model
+607 data set
+608 coherence (physics)
+609 dijkstras algorithm
+610 region of interest
+611 quality score
+612 rgb image
+613 feature (computer vision)
+614 image quality
+615 independent component analysis
+616 luminance
+617 relative luminance
+618 brightness
+619 obstacle avoidance
+620 visual prosthesis
+621 spiking neural network
+622 classifier (linguistics)
+623 cognitive neuroscience of visual object recognition
+624 shortest path problem
+625 vertex (geometry)
+626 oversampling
+627 naive bayes classifier
+628 correlation
+629 upsampling
+630 gaze
+631 saccade
+632 saccadic masking
+633 stereo camera
+634 stereo cameras
+635 stereopsis
+636 monocular
+637 computer stereo vision
+638 web page
+639 end-to-end principle
+640 convolutional neural network
+641 transfer of learning
+642 deep learning
+643 visual perception
+644 performance improvement
+645 omnidirectional antenna
+646 map projection
+647 detector
+648 image compression
+649 fixation (psychology)
+650 adaboost
+651 eye movement
+652 salience (language)
+653 graph
+654 phase spectrum
+655 fourier transform
+656 frequency spectrum
+657 backward propagation
+658 novelty
+659 ambiguity
+660 semantics
+661 microsoft windows
+662 temporal consistency
+663 full rate
+664 mode selection
+665 reduction (complexity)
+666 bounding overwatch
+667 minimum bounding box
+668 clique
+669 grabcut
+670 directed graph
+671 sample selection
+672 tensor
+673 feature aggregation
+674 layering
+675 adjacency matrix
+676 stochastic matrix
+677 markov chain
+678 gaussian noise
+679 feature fusion
+680 pyramid
+681 initialization
+682 semantic similarity
+683 binary code
+684 orthogonality
+685 hash function
+686 image manipulation
+687 naturalness
+688 face verification
+689 generative grammar
+690 deep neural networks
+691 perturbation (astronomy)
+692 adversarial system
+693 convolution
+694 kernel (image processing)
+695 hierarchy
+696 autism spectrum disorder
+697 stylized fact
+698 regularization (mathematics)
+699 visual cortex
+700 information transmission
+701 fixation point
+702 sparse approximation
+703 particle filter
+704 text mining
+705 semi-supervised learning
+706 active learning
+707 web mining
+708 active learning (machine learning)
+709 batch processing
+710 statistical classification
+711 biometrics
+712 nonlinear dimensionality reduction
+713 finger vein recognition
+714 iris recognition
+715 information protection policy
+716 word error rate
+717 embedded system
+718 k-nearest neighbors algorithm
+719 dimensionality reduction
+720 hausdorff distance
+721 tongue
+722 access control
+723 blossom algorithm
+724 liveness
+725 normalization (image processing)
+726 fungal keratitis
+727 binary pattern
+728 cornea
+729 microscopy
+730 confocal microscopy
+731 network analysis
+732 intrusion detection system
+733 tikhonov regularization
+734 frequency band
+735 brain–computer interface
+736 overfitting
+737 spatial filter
+738 exploit
+739 population
+740 neutral network
+741 wearable computer
+742 linear discriminant analysis
+743 database
+744 disease
+745 myocarditis
+746 ecg analysis
+747 chest tightness
+748 intensive care medicine
+749 palpitations
+750 cluster (physics)
+751 cluster tree
+752 annotation
+753 labeled data
+754 empirical research
+755 econometrics
+756 score test
+757 jackknife resampling
+758 statistic
+759 likelihood-ratio test
+760 characteristic function (probability theory)
+761 empirical likelihood
+762 statistics
+763 covariate
+764 feature selection
+765 lasso (statistics)
+766 model selection
+767 asymptotic distribution
+768 has property
+769 monte carlo method
+770 outlier
+771 missing data problem
+772 missing data
+773 inverse probability
+774 efficient estimator
+775 applied mathematics
+776 microstructure
+777 laplace transform
+778 jump
+779 semimartingale
+780 volatility (finance)
+781 spline (mathematics)
+782 approximation algorithm
+783 parametric equation
+784 curvature
+785 trigonometric functions
+786 mathematical analysis
+787 quartic function
+788 weight function
+789 matrix function
+790 basis function
+791 dual basis
+792 two-vector
+793 matrix multiplication
+794 vector projection
+795 projection (linear algebra)
+796 systems design
+797 differential entropy
+798 compressed sensing
+799 hadamard transform
+800 collaborative filtering
+801 rate distortion
+802 bit rate reduction
+803 partition (number theory)
+804 partition problem
+805 macro
+806 spatial correlation
+807 prewitt operator
+808 planar
+809 offset (computer science)
+810 directivity
+811 division (mathematics)

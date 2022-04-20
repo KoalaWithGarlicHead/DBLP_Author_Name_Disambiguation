@@ -1,0 +1,2313 @@
+
+id:2211748292
+title:Performance and Resource Prediction at High Utilization for N-Tier Service Systems in Cloud an Experiment Driven Approach
+year:2015
+author information:[
+author name:Wenbin Zhang
+author organization:ShanDong University
+author id:2444192778|
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+]
+abstract:tomeet|accurate|interacting|allocation|approach|evaluation|intensions|concurrently|deems|model|promising|models|workload|work|effective|utilization|demand|light|complex|testedin|become|fact|numericalresults|requests|dynamicallyadapt|feature|systems|benchmark|develops|efficient|one|workload|able|ntier|developed|experimentdriven|cloud|high|brings|prior|capturing|dynamic|multitier|always|level|resource|query|agreements|sharing|tool|utilization|take|varieties|interactionsamong|physicalresource|requests|prediction|demonstrate|trained|policies|changes|requestshas|interactions|predictthe|running|impressing|provisioning|make|highlyaccurate|implementation|environment|performance|application|due|service|providers|cloud|optimization|modelextends|challenge|providers|account|normally
+venue name:Dependable Autonomic and Secure Computing
+venue id:2758501671
+venue type:C
+document type:Conference
+study fields:Resource management|Service level|Computer science|Workload|Provisioning|Real-time computing|Shared resource|Cloud testing|Benchmark (computing)|Distributed computing|Cloud computing
+references:202046373|1681426122|1983224729|1988716698|2006076242|2010149990|2059542827|2114743526|2115743854|2119028650|2140816534|2145457647|2164403245
+
+
+id:2295375378
+title:A Method of E-Commerce Trading Process Construction Based on PaaS Platform
+year:2015
+author information:[
+author name:Zongshui Xiao
+author organization:Shandong University
+author id:2104849726|
+author name:Wenbin Zhang
+author organization:ShanDong University
+author id:2444192778|
+author name:Qingzhong Li
+author organization:ShanDong University
+author id:2133393087|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+]
+abstract:container|whole|construct|relationships|problem|complex|easily|payment|model|based|using|method|collaborative|portals|specify|opportunity|planning|traditional|contains|provide|starting|trading|semantic|customized|automatically|two|proved|variety|ecommerce|ecommerce|relationship|based|product|one|theory|solution|many|isv|collaboration|attributes|requirements|small|task|others|construction|ecommerce|used|operator|metamodel|new|kind|includes|develop|technologies|proposed|largescale|since|htn|buyers|paas|according|scale|logistics|platform|construction|supporting|execution|processes|process|cases|metamodel|easily|proposed|application|management|service|cloud|typical|online|challenge|applications
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Customer relationship management|World Wide Web|Hierarchical task network|Scheduling (computing)|Computer science|Knowledge management|Product management|Semantics|E-commerce|Cloud computing|Personalization
+references:1977715871|1991102928|2031382133|2049986834|2135031110|2165499379
+
+
+id:2401664775
+title:MapReduce short jobs optimization based on resource reuse
+year:2016
+author information:[
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Kaihui Zhang
+author organization:Shandong University
+author id:2688404909|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+author name:Shidong Zhang
+author organization:Shandong University
+author id:2102083898|
+author name:Han Yu
+author organization:Nanyang technological university
+author id:2155050195|
+]
+abstract:inefficiently|cluster|reuse|executing|depicts|issues|number|suffer|poor|reduce|based|large|hadoop|light|offering|processing|execution|frequently|recovery|datasets|storage|characteristic|serving|mechanism|according|abstract|jobs|suggest|reduced|hadoop|able|manner|run|developed|mapreduce|employed|frequency|analyses|jobs|optimize|results|resource|experimental|runtime|enormous|develop|fill|multiwave|utilization|task|improve|largescale|job|inefficiently|computing|paper|parallel|designed|effectiveness|execution|process|allocation|implementation|opensource|massively|existing|nodes|response|short|time|aiming|significantly
+venue name:Microprocessors and Microsystems
+venue id:195663827
+venue type:J
+document type:Journal
+study fields:Reuse|Computer science|Massively parallel|Parallel computing|Response time|Resource allocation|Operating system
+references:1534130940|1568832590|1687442088|1861377444|1903497807|1964069829|1968116128|2003384702|2008585803|2021932022|2022678927|2040722314|2045717006|2067005380|2090259550|2092086632|2094469165|2096125134|2096893233|2102849319|2105947650|2110104287|2131975293|2140509629|2163961697|2165769837|2173213060|2296349066
+
+
+id:2425242763
+title:CTP: A scheduling strategy to smooth response time fluctuations in multi-tier website system
+year:2016
+author information:[
+author name:Wenbin Zhang
+author organization:ShanDong University
+author id:2444192778|
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Shidong Zhang
+author organization:Shandong University
+author id:2102083898|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Han Yu
+author organization:Nanyang technological university
+author id:2155050195|
+]
+abstract:called|arithmetic|terms|fluctuations|attractions|large|work|utilization|analysis|benchmark|quality|environments|system|light|providing|frequently|concurrent|findings|multitier|measurement|long|top|systems|elaborated|reported|periods|mix|measurements|validate|policy|performance|abstract|caused|one|services|corroborates|extensive|cloud|developed|cloud|high|find|scheduling|results|correctness|resource|maintaining|system|utilization|especially|present|hardly|reasons|show|scale|transactions|effective|numerical|causing|today|smooth|probing|existing|performance|fluctuations|application|service|response|mean|suitable|time|ctp|applications
+venue name:Microprocessors and Microsystems
+venue id:195663827
+venue type:J
+document type:Journal
+study fields:Computer science|Scheduling (computing)|Arithmetic mean|Correctness|Parallel computing|Quality of service|Response time|Real-time computing|Cloud computing
+references:1498041267|1571043125|1574895192|1977531749|1997370784|2007225136|2013936649|2015757551|2023671193|2083131552|2100773341|2107002253|2115683289|2119003581|2121409173|2122509464|2130235153|2134285541|2134683148|2137240782|2145457647|2148881326|2152407381|2158483238|2162388481
+
+
+id:2478507045
+title:Optimizing Replica Exchange Strategy for Load Balancing in Multienant Databases
+year:2016
+author information:[
+author name:Teng Liu
+author organization:SHANDONG UNIVERSITY
+author id:2563874513|
+author name:Qingzhong Li
+author organization:ShanDong University
+author id:2133393087|
+author name:Lanju Kong
+author organization:ShanDong University
+author id:2135601086|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+]
+abstract:optimal|objective|balance|tenant|respectively|databases|based|method|adversely|violations|utilization|dynamically|secondary|among|primary|shared|crisis|affect|phenomenon|two|exchanging|across|composed|mechanism|mitigated|compared|annealing|contending|may|mitigate|queries|replica|developed|overloaded|replicas|dynamic|results|selected|crisis|resource|level|experimental|resource|significant|sharing|algorithm|exchange|issue|roles|according|show|cause|migrationbased|load|multitenant|improved|allocated|tenants|identify|replicas|resources|balancing|performance|due|service|challenge|simulated|suitable|reduction|subset
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Simulated annealing|Resource consumption|Replica|Service level objective|Load balancing (computing)|Computer science|Server|Multitenancy|Shared resource|Database
+references:47136562|133803560|868043558|2053643516|2067080594|2093640589|2099351203|2100628838|2101123884|2110951389|2127488725|2144702296|2151449617|2154474349
+
+
+id:2523222847
+title:A Data Services-Based Quality Analysis System for the Life Cycle of Tire Production
+year:2016
+author information:[
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Yu Chen
+author organization:SHANDONG UNIVERSITY
+author id:2605535279|
+author name:Shibin Sun
+author organization:SHANDONG UNIVERSITY
+author id:2691224214|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+]
+abstract:screening|practice|application|data|whole|enterprises|problem|manufacturing|diverse|algorithm|realize|actual|pass|tree|forecast|shandong|develop|quality|tire|technologies|achieving|system|production|background|improve|solve|analyze|defects|systems|role|analysis|production|applied|achieve|isolated|linglong|proved|rate|ltd|based|tire|process|product|plays|decision|efficient|apply|also|services|positive|improvement|help|management|service|unified|uses|designed|fitting|promotion
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Data mining|Manufacturing|Curve fitting|Industrial engineering|Computer science|Scheduling (production processes)|Data extraction|Data as a service|Big data|Management system|Decision tree learning
+references:1934950990|1989855397|2004880118|2032604683|2046092034|2047138503|2052232573|2067530529|2183885256|2261808119
+
+
+id:2626818931
+title:Data Driven Congestion Trends Prediction of Urban Transportation
+year:2018
+author information:[
+author name:Rui Jia
+author organization:ShanDong University
+author id:2625323628|
+author name:Pengcheng Jiang
+author organization:ShanDong University
+author id:2625303977|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+]
+abstract:accurate|hope|three|reliable|realtime|road|congestion|model|calculate|trends|accepting|reduce|based|easy|system|provide|interval|swarima|statistical|city|smart|lot|stream|trend|address|forecasting|display|smart|faced|model|transportation|elastic|information|congestion|sliding|data|use|alleviate|time|traffic|needs|actual|includes|significant|establish|condition|improve|prediction|parameters|benefits|solving|challenges|capable|point|running|paper|provides|predict|make|process|studied|effectively|windows|significance|existing|urban|regression|timely|condition|location|information
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Data modeling|Data-driven|Traffic flow|Computer science|Data stream|Floating car data|Computer network|Traffic congestion reconstruction with Kerners three-phase theory|Network traffic control|Traffic congestion
+references:1965496627|2031198318|2036785686|2059804518|2078144728|2085569158|2112228497|2116202070|2116300222|2117014758|2147329275|2209832711|2280206383|2325932209|2338694366|2341256628|2391134196
+
+
+id:2727515276
+title:Collaborative Prediction Model of Disease Risk by Mining Electronic Health Records
+year:2016
+author information:[
+author name:Shuai Zhang
+author organization:Shandong University
+author id:2656530916|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Hui Li
+author organization:Shandong University
+author id:2919209728|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+]
+abstract:experimental|conducting|approach|ehr|action|calculate|filtering|temporal|order|based|similar|using|collaborative|collaborative|diseases|carriers|analysis|research|world|demonstrating|address|ehrs|patients|one|electronic|medicine|onset|future|model|codes|performs|medical|ehrs|heterogeneous|major|capturing|records|results|challenge|proposes|prediction|develop|history|real|risks|signs|graph|take|hybrid|preventative|longitudinal|present|capm|assessment|inherently|paper|relies|patient|predict|make|greatest|disease|health|patient|also|earliest|risks|corresponding|well|uses|risk|properties
+venue name:Collaborative Computing
+venue id:1181194180
+venue type:C
+document type:Conference
+study fields:Data science|Graph|Disease|Collaborative filtering|Computer science|Medical history|Graph (abstract data type)|Preventative Medicine
+references:1965701254|1972588194|1998249118|1998619381|2038370668|2049455633|2079892385|2080471468|2122475441|2159094788|2214705246|2952277043
+
+
+id:2728236254
+title:QoS evaluation of prioritized data plane service employing queueing model
+year:2017
+author information:[
+author name:Yongjian Ren
+author organization:Shandong University
+author id:2721498976|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Dongyu Zheng
+author organization:Shandong University
+author id:2735968840|
+]
+abstract:plane|architectures|extensive|results|accuracy|experimental|without|packets|largely|enable|analytical|model|evaluated|sdn|models|chaos|sensitive|input|traffic|delay|matched|architectures|application|evaluate|networking|frequently|characteristic|across|feature|taken|emerging|deployment|resources|may|services|suggest|plane|many|great|lead|characterize|elements|infrastructures|approach|open|interface|data|jackson|selfsimilarity|got|stringent|employed|results|traffic|new|program|defined|priority|decoupled|decrease|efforts|simplified|proposed|software|analytical|paradigm|unexpected|exhibits|decomposition|forwarding|selfsimilar|network|sojourn|paper|qos|quality|standardized|universal|applicability|advantage|abstraction|recognition|service|control|performance|service|traveled|time|bound|account|applications|taking
+venue name:International Workshop on Quality of Service
+venue id:1135145953
+venue type:C
+document type:Conference
+study fields:Data modeling|Forwarding plane|Computer science|Network packet|Computer network|Quality of service|Real-time computing|Queueing theory|Application programming interface|Network element|Software-defined networking|Distributed computing
+references:1968292941|1972826678|2040493347|2112673532|2116970365|2121318675|2125560635|2296645514|2315262035|2317267989
+
+
+id:2751446786
+title:AdaptScale: An adaptive data scaling controller for improving the multiple performance requirements in Clouds
+year:2017
+author information:[
+author name:Yuliang Shi
+author organization:ShanDong University
+author id:2152318149|
+author name:Mianxiong Dong
+author organization:Muroran Institute of Technology, JAPAN
+author id:2285988874|
+author name:Wenbin Zhang
+author organization:ShanDong University
+author id:2444192778|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Junhua Zhang
+author organization:Shandong University
+author id:2554384628|
+]
+abstract:bring|three|bottleneck|meeting|goal|issue|multitenancy|clouds|system|environment|become|shared|overloaded|collecting|adaptive|current|satisfies|reduces|develops|estimating|enables|performance|scaling|controller|strategies|abstract|fluctuating|workloads|workload|fluctuated|meet|information|data|achieves|developed|cloud|solution|whether|nodes|results|regards|system|challenges|determines|show|storage|numerical|operations|paper|responsible|execution|requirements|underloaded|diversified|multiple|automatic|data|monitor|also|performance|nodes|move|variable|consists|time|strategy|user
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Bottleneck|Control theory|Computer data storage|Computer science|Workload|Real-time computing|Execution time|Performance model|Scaling|Cloud computing|Distributed computing
+references:829948382|1485380506|1494303988|1585096280|1662751975|1942158360|2000684597|2002937378|2006076242|2021634928|2037891711|2050128095|2054564636|2057816098|2072329063|2076268125|2078003294|2078656587|2104170204|2125038582|2126707271|2140816534|2145457647|2150013559|2150503355|2151449617|2160686844|2286715017|2330592695|2407497722
+
+
+id:2767216510
+title:Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions
+year:2017
+author information:[
+author name:Chang Liu
+author organization:Shandong University
+author id:2982012505|
+author name:Yinan Zhang
+author organization:Shandong University
+author id:2767586927|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Dong Yuan
+author organization:University of Sydney
+author id:2097074446|
+author name:Chunyan Miao
+author organization:Nanyang technological university
+author id:2154137932|
+]
+abstract:extensive|reasonable|objects|questions|experimental|crowds|multipairwisecomparison|number|greatly|problem|find|employs|results|group|shorter|given|making|shortened|concurrently|solutions|preference|lower|methods|require|finding|propose|sent|explicit|obtained|betterform|applied|latency|show|two|collection|sometimes|numerical|reduces|many|compared|address|monetary|questions|multiple|decision|question|costs|paretooptimal|opinion|existing|bestform|various|cannot|attributes|uses|best|relations|significantly|objects
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Pairwise comparison|Crowds|Data mining|Computer science|Latency (engineering)|Crowdsourcing|Pareto optimal|Artificial intelligence|Machine learning|Group decision-making
+references:1488582764|1968990388|2012668444|2058738785|2064723547|2073068515|2073517200|2076357412|2086804918|2116396741|2122885251|2134644026|2136606893|2138891375|2141017982|2144569695|2152124886|2161126263|2164545125|2170188482|2183076570|2196824873|2242685411|2296041163|2398168965|2398690976|2443200919|2577975703|2578777894|2585226541|2612925715|2950359809|2963054186
+
+
+id:2774332779
+title:Predicting hospital readmission from longitudinal healthcare data using graph pattern mining based temporal phenotypes
+year:2017
+author information:[
+author name:Xiangzhen Xu
+author organization:SHANDONG UNIVERSITY
+author id:2614217147|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Shijun Liu
+author organization:ShanDong University
+author id:2162927838|
+author name:Hui Li
+author organization:Shandong University
+author id:2919209728|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+]
+abstract:optimal|accurate|experimental|phenotypes|improved|analyzing|relationships|represented|usually|events|temporal|tasks|tasks|algorithm|based|using|method|subgraphs|understand|raw|propose|etc|treatment|readmission|pattern|availability|healthcare|adoption|management|event|based|enables|compared|patient|include|expression|decision|namely|tephe|makes|forests|intuitive|baselines|spearheaded|evolving|increasing|approach|first|medical|data|used|heterogeneous|find|greedy|expressed|results|challenge|us|patterns|difficult|significant|graph|sequence|clinical|proposed|datadriven|laboratory|prediction|coefficient|longitudinal|sources|frequent|show|inherently|random|patient|define|hospital|designed|disease|captures|multiple|perform|approaches|rapidly|better
+venue name:Bioinformatics and Biomedicine
+venue id:1156210184
+venue type:C
+document type:Conference
+study fields:Health care|Graph|Computer science|Raw data|Greedy algorithm|Artificial intelligence|Event sequence|Laboratory reports|Random forest|Machine learning|Hospital readmission
+references:1641749581|1969116741|1998619381|2005464046|2121382432|2219889856|2529178420|2571107035
+
+
+id:2784157157
+title:Performance measurement of data flow processing employing software defined architecture
+year:2018
+author information:[
+author name:Lei Liu
+author organization:No.1500 Shunhua Road, Jinan, China
+author id:2644461342|
+author name:Yongjian Ren
+author organization:No.1500 Shunhua Road, Jinan, China
+author id:2721498976|
+author name:Lizhen Cui
+author organization:No.1500 Shunhua Road, Jinan, China
+author id:2155397016|
+author name:Yuliang Shi
+author organization:No.1500 Shunhua Road, Jinan, China
+author id:2152318149|
+author name:Qingzhong Li
+author organization:No.1500 Shunhua Road, Jinan, China
+author id:2133393087|
+]
+abstract:big|results|software|reprocessing|quickly|experimental|approach|without|companies|would|drawing|transmitting|model|exhibit|defined|models|researches|work|utilization|priority|analysis|system|delay|processing|performance|appropriate|server|systems|highlighted|networks|two|result|found|architecture|resources|may|abstract|caused|makes|great|lead|single|extensive|tightly|obvious|information|retransmission|difficult|queue|data|developed|selfsimilarity|stringent|characteristics|employed|reprocessed|presented|communication|computational|traffic|group|development|need|fill|violation|effect|thrust|architecture|coupled|governments|facilitate|importance|optimized|unexpected|show|decomposition|storage|selfsimilar|point|negative|considerable|validated|flows|prosperity|divide|value|experience|big|bound|start|data|improvement|efficiency|performance|achieved|attention|user|account|applications|taking
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:User experience design|Computer science|Retransmission|Queue|Priority queue|Performance measurement|Software|Big data|Data flow diagram|Distributed computing
+references:1875027177|1994345874|2019183416|2040493347|2080807661|2105818147|2116970365|2126311411|2148275477|2170125123|2344683494|2473967398|2512979881|2516521180|2522453496|2522626811|2731964388
+
+
+id:2904356630
+title:Answer Aggregation of Crowdsourcing Employing an Improved EM-Based Approach
+year:2018
+author information:[
+author name:Ran Zhang
+author organization:Shandong University
+author id:2905065197|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Wei He
+author organization:Shandong University
+author id:2705309771|
+author name:Hui Li
+author organization:Shandong University
+author id:2919209728|
+]
+abstract:turk|workers|embased|results|numerous|simulation|answers|accuracy|approach|different|without|improved|realworld|worker|defined|crowdsourcing|based|depends|considering|impact|aggregated|quality|persons|aggregates|simultaneously|amazon|frequently|quality|datasets|workers|participants|answers|may|text|lead|participants|characterize|emotion|answer|data|characteristics|affect|platforms|employed|features|last|aggregating|employs|different|verification|estimates|always|individual|level|intent|conducted|significant|fill|difficulty|mechanical|varies|collect|unexpected|cause|aggregation|question|skills|personality|paper|skill|gap|studies|task|characteristics|also|intent|answer|datasets|eg|account|existing|taking
+venue name:International Conference on Algorithms and Architectures for Parallel Processing
+venue id:1120750887
+venue type:C
+document type:Conference
+study fields:Data science|Crowdsourcing|Computer science|Personality|Distributed computing|The Internet
+references:1970381522|2025721839|2088058724|2105468141|2113878109|2121117737|2134305421|2137165445|2140890285|2142518823|2507828519|2584427494|2591076853|2782709522
+
+
+id:2904756791
+title:Rim Chain: Bridge the Provision and Demand Among the Crowd
+year:2018
+author information:[
+author name:Pengze Li
+author organization:Shandong University
+author id:2904889793|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Qingzhong Li
+author organization:ShanDong University
+author id:2133393087|
+author name:Yongqing Zheng
+author organization:ShanDong University
+author id:2097163820|
+author name:Guangpeng Zhou
+author organization:Shandong University
+author id:2905232300|
+]
+abstract:interconnected|paradigm|results|crowd|validated|pioneer|type|research|degrees|employed|last|rim|topic|results|promising|obtain|new|efficiency|method|arising|work|establishment|demand||separation|provision|framework|study|analytical|science|fulfilled|matching|chain|improved|supporting|place|relationship|behavior|takes|architecture|chain|requirements|aims|six|accordance|topk|crowd|suggest|environment|framework|hops|requirements|prompt|demands
+venue name:International Conference on Algorithms and Architectures for Parallel Processing
+venue id:1120750887
+venue type:C
+document type:Conference
+study fields:Architecture|Six degrees of separation|Computer science|Citizen science|Distributed computing
+references:1526438571|2065788533|2293616274|2585365755
+
+
+id:2945788593
+title:Power Rationing for Tradeoff Between Energy Consumption and Profit in Multimedia Heterogeneous Networks
+year:2019
+author information:[
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Song Xu
+author organization:ShanDong University
+author id:2755642303|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2972978067|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Haozhe Wang
+author organization:University of Exeter
+author id:2145191877|
+]
+abstract:explosive|increasingly|optimal|dimensionality|experimental|alwayson|equilibrium|realtime|optimization|capacity|model|qualityofservice|energy|profits|method|satisfied|two|consumptions|cellular|curse|become|achieve|montecarlo|networks|nash|tradeoff|balances|causes|hetnets|particle|power|contradiction|resolved|performance|efficient|multimedia|massive|framework|meet|novel|serve|developed|heterogeneous|repeated|incomplete|solution|generated|employs|dynamic|communication|results|traffic|obtain|contest|rationing|cost|widely|proposes|guaranteed|enormous|significant|hetnets|maintaining|tool|objective|solve|demonstrate|tullock|game|virtual|challenges|deployed|principal|impressing|paper|qos|supporting|profit|designed|ensures|multiple|maximal|control|consumption|cells|consumptions|swarm|service|adopts|growth|equilibrium|strategy|operators|demands|providers|applications
+venue name:IEEE Journal on Selected Areas in Communications
+venue id:90422530
+venue type:J
+document type:Journal
+study fields:Computer science|Power control|Quality of service|Service provider|Dynamic demand|Repeated game|Heterogeneous network|Nash equilibrium|Energy consumption|Multimedia
+references:1536369969|1967746395|2003121694|2037314246|2054403351|2098473710|2099150502|2105317041|2116970365|2123059049|2129059062|2161865670|2185556644|2334842904|2514685251|2521574705|2522699322|2741152757|2891270813|2908941882
+
+
+id:2951932262
+title:Balancing of the quality-of-servic
+year:2019
+author information:[
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Song Xu
+author organization:ShanDong University
+author id:2755642303|
+author name:Jia Hu
+author organization:University of Exeter
+author id:2650005216|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+]
+abstract:qualityofservice|maintain|configurations|number|equilibrium|eventual|balance|premise|gametheoretical|evaluated|per|order|energy|profits|period|using|large|adjusts|classified|stations|propose|system|provide|obtained|providing|cut|scheme|owing|nash|two|long|consuming|operating|situation|compared|highquality|may|invariably|services|competes|economic|resulted|tremendous|deploy|mode|revenue|different|traffic|area|waste|new|unit|contest|proposed|conflict|tullock|sleeping|network|running|station|mode|ensuring|player|qos|applying|cost|effectively|patterns|energy|consumption|performance|service|providers|wireless|time|reducing|strategy|user|providers|simply|base
+venue name:International Workshop on Quality of Service
+venue id:1135145953
+venue type:C
+document type:Conference
+study fields:Revenue|Wireless network|Base station|Computer science|Efficient energy use|Quality of service|Computer network|Service provider|Nash equilibrium|Energy consumption
+references:1487128192|1530454586|1646514845|1963533680|1974133309|1994080576|2021348806|2037314246|2039922737|2060240123|2061504576|2101948258|2133773058|2161865670|2171722040|2324907777|2601490520|2736180647|2964251953
+
+
+id:2971219932
+title:Promoting Higher Revenues for Both Crowdsourcer and Crowds in Crowdsourcing via Contest
+year:2019
+author information:[
+author name:Song Xu
+author organization:ShanDong University
+author id:2755642303|
+author name:Lei Liu
+author organization:Shandong University
+author id:2644461342|
+author name:Lizhen Cui
+author organization:Shandong University
+author id:2155397016|
+author name:Qingzhong Li
+author organization:ShanDong University
+author id:2133393087|
+author name:Zhongmin Yan
+author organization:Shandong University
+author id:2158955346|
+]
+abstract:workers|optimal|results|reach|experimental|crowds|balance|optimization|testified|leveraging|model|profits|simulate|promising|order|crowdsourcing|crowdsourcing|impacts|intelligence|quality|nashequilibrium|winwin|contests|achieve|turn|two|gain|result|encourage|web|acquisition|workers|contradiction|develops|situation|means|equilibria|business|crowds|expect|emerges|visualization|fee|tremendous|repeated|solution|helpful|development|employing|crowdsourcers|parties|creates|benefits|tullock|optimized|provided|crowdsourcer|incentives|paper|quality|task|result|value|profit|effectiveness|parts|better|schedule|guidance|well|consists|services|rise
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Revenue|Crowds|Incentive|Crowdsourcing|Visualization|Computer science|CONTEST|Quality of experience|Industrial organization|Database|Profit (economics)
+references:1536369969|1970756365|1985777504|1993237411|2120898858|2145002834|2191594815|2210406795|2222808023|2324695044|2473515811|2473634138|2771444807|2883271562|2952607996
+
+
+id:2091649740
+title:Achievable rate regions of multi-way relay channel with direct links
+year:2015
+author information:[
+author name:Yuping Su
+author organization:Xidian University
+author id:2146698403|
+author name:Ying Li
+author organization:Xidian University
+author id:2660763088|
+author name:Guanghui Song
+author organization:Doshisha University
+author id:2631484072|
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+]
+abstract:channel|via|multipleaccess|assumption|mwrcdls|give|large|rate|outer|bits|encoder|explicit|examples|decodeandforward|messages|obtained|regions|numerical|direct|least|k|two|capacity|overhear|study|verify|power|cf|strategies|within|first|twoway|cutset|df|theoretical|achieves|employed|shown|links|insights|multiway|compressandforward|characterised|expressions|users|exchange|power|region|analysis|provided|symmetric|network|mwrcdls|times|common|rate|achievable|derived|derived|studied|relay|bound|rates|also|terminal|analysed|restricted|gaussian|strategy|user
+venue name:Iet Communications
+venue id:85427048
+venue type:J
+document type:Journal
+study fields:Relay channel|Expression (mathematics)|Computer science|Computer network|Gaussian|Encoder|Relay
+references:1982109272|2021156530|2063636694|2081934635|2097739512|2098567664|2119174269|2138731299|2138734220|2150412388|2164166019
+
+
+id:2093765705
+title:Quantize-and-Forward Strategy for Interleave-Division Multiple-Access Relay Channel
+year:2016
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Ying Li
+author organization:Xidian University
+author id:2780491112|
+author name:Yuping Su
+author organization:Xidian University
+author id:2146698403|
+author name:Yue Sun
+author organization:Xidian University
+author id:2714915287|
+]
+abstract:equivalent|dmipq|dmipq|lloydmax|channel|bit|different|quantizer|multipleaccess|investigated|case|algorithm|reduce|bits|bounds|received|node|complexity|quantizeandforward|numerical|denoising|orthogonal|get|noise|interleavedivision|close|initial|discussed|solution|single|idmarc|cannot|minimum|approximate|halfduplex|shown|different|signal|results|approximation|illustrate|compressandforward|users|square|proposed|preserving|suboptimal|useful|analytical|quantizer|searching|error|remove|paper|rate|mmse|designed|destination|recover|relay|multiple|also|distinguished|outperforms|mutualinformation|mean|information|strategy|interleavers
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Relay channel|Search algorithm|Computer science|Minimum mean square error|Electronic engineering|Mutual information|Decoding methods|Quantization (signal processing)|Relay|Bit error rate
+references:1667165204|2028228879|2040611682|2070552690|2115811951|2121916661|2123884620|2129867786|2131705283|2147759009|2150593711|2151892961|2165326372|2170818700
+
+
+id:2223557134
+title:A low-complexity Gaussian message passing iterative detector for massive MU-MIMO systems
+year:2015
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+author name:Yuping Su
+author organization:Xidian University
+author id:2916927445|
+]
+abstract:called|theoretical|results|equally|numbers|accuracy|passing|faster|pairwise|consider|results|new|method|antennas|large|graph|proposed|detection|simultaneously|complexity|message|sources|convergence|serves|convergent|provided|gmpid|k|sagmpid|speed|numerical|paper|low|mmse|station|verify|multipleinput|considers|detection|cases|multipleoutput|lowcomplexity|massive|converges|multiuser|gaussian|iterative|validity|base
+venue name:International Conference on Information and Communication Security
+venue id:1135668280
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Base station|Pairwise comparison|Multi-user MIMO|Computer science|MIMO|Gaussian|Detector|Message passing|Distributed computing
+references:1628621408|1967600006|1971443733|1991918680|2005772714|2028648808|2057803073|2072184935|2075505133|2098387242|2099781940|2100326972|2111521164|2128513990|2132755737|2147601077|2158122241|2912369344
+
+
+id:2282129282
+title:Capacity-achieving iterative LMMSE detection for MIMO-NOMA systems
+year:2016
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+]
+abstract:optimal|considered|access|whole|theorems|properly|uplink|poor|mimo|departing|distributed|square|system|processing|conditions|mimonoma|greatly|complexity|minimum|systems|prove|achieve|sum|matching|capacity|nonorthogonal|systems|firstly|reduces|based|performance|detection|many|lmmse|generally|suboptimal|twouser|achieves|points|extreme|computational|area|iterative|mumimo|proposed|overall|relatively|present|region|mean|paper|rate|achievable|design|multipleinput|considers|multiple|error|calculations|multipleoutput|maximal|analysed|linear|lowcomplexity|multiuser
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Extreme point|Mathematical optimization|Computer science|Minimum mean square error|MIMO|Transfer function|Decoding methods|Detector|Computational complexity theory|Telecommunications link
+references:1523522871|1557486844|1628621408|1645066837|1690504809|1958281780|1967600006|1970311186|1971443733|1997958020|2005772714|2027563534|2028648808|2039962332|2040611682|2047954766|2076642094|2093765705|2098470405|2099268979|2099781940|2100326972|2101362102|2101394529|2108656301|2111616148|2114468914|2114908991|2128513990|2130056224|2132755737|2147601077|2148622067|2154310679|2157638198|2159568790|2160779252|2169732368|2223557134|2287831847|2343670905|2567891236|2912369344
+
+
+id:2324585003
+title:Modeling SCMA in D2D underlaid cellular network
+year:2015
+author information:[
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Yan Shi
+author organization:Xidian University
+author id:2197258156|
+author name:Lei Liu
+author organization:Xidian University
+author id:2980372745|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:optimal|improved|maximize|connectivity|uplink|enable|capacity|order|based|using|efficiency|probability|proportional|overload|system|spectrum|cellular|analyze|device|compare|access|utility|derive|gain|orthogonal|ase|feature|link|stochastic|based|enables|slotted|ofdma|efficient|framework|geometry|ratio|statistics|spectral|frequencydivision|use|network|influence|shown|helpful|communication|results|area|asymptotically|resource|numerically|nonorthogonal|overloading|develop|sharing|users|quantify|expand|proposed|sparse|interference|settings|scma|code|function|aloha|network|analytically|targeting|devicetodevice|ofdma|allows|signaltointerference|fairness|underlaid|closedform|apply|recently|implementation|multiple|allowing|increase|management|typical|significantly
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Stochastic geometry|Aloha|Computer science|Computer network|Interference management|Spectral efficiency|Cellular network|Shared resource|Telecommunications link
+references:2008104692|2024416483|2040714707|2042519026|2076579100|2106749358|2124894634|2126206766
+
+
+id:2326299586
+title:Resource allocation in device-to-device communication underlaid cellular network using SCMA: An opportunistic approach
+year:2015
+author information:[
+author name:Kepeng Zhao
+author organization:Xidian University
+author id:2342881048|
+author name:Yan Shi
+author organization:Xidian University
+author id:2197258156|
+author name:Yanpeng Dai
+author organization:Xidian University
+author id:2342856929|
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:simulation|via|properly|maximize|connectivity|terms|enable|diverse|codebook|fully|order|generation|method|codebooks|resulting|system|cellular|networks|greatly|reused|access|sum|proven|codebook|yield|performance|may|efficient|user|strategies|could|osca|massive|future|fifth|exploit|devicetodevice|spectral|uplinks|incorporate|enhancement|opportunistic|scheduling|implement|consider|communication|potential|results|significant|system|mutual|hybrid|proposed|sparse|overall|tackle|interference|support|scma|code|applied|idea|show|network|targeting|links|allocation|rate|opportunistic|applications|degrade|enhancing|underlaid|allocation|multiple|improvement|efficiency|performance|conventional|wireless|strategy|aiming|user
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Wireless network|Computer science|Computer network|Resource allocation|Spectral efficiency|Cellular network|Channel access method|Performance improvement|Network performance|Codebook|Distributed computing
+references:1660612174|2008104692|2009814580|2042519026|2073726009|2086456844|2087544022|2103870274|2106749358|2124894634
+
+
+id:2414518024
+title:Effect of Densification on Cellular Network Performance With Bounded Pathloss Model
+year:2017
+author information:[
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Lei Liu
+author organization:Xidian University
+author id:2980372745|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:spectral|shed|large|sufficiently|downlink|decay|zero|realistic|shown|terms|model|signal|area|efficiency|densification|probability|goes|impact|bounded|light|cellular|scales|ultradense|degrades|bss
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Wireless network|Base station|Computer science|Computer network|Spectral efficiency|Interference (wave propagation)|Cellular network|Bounded function|Telecommunications link|Lambda
+references:1895375835|2090142727|2110532959|2134686390|2143252188|2149170915|2167353407|2261127636|2963793432
+
+
+id:2429172883
+title:Modeling and Analysis of SCMA Enhanced D2D and Cellular Hybrid Network
+year:2017
+author information:[
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Yan Shi
+author organization:Xidian University
+author id:2197258156|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:optimal|improved|connectivity|balance|capacity|model|codebook|using|efficiency|codeword|considering|probability|overload|system|spectrum|cellular|analyze|dimension|device|compare|study|access|independent|derive|gain|orthogonal|interestingly|ase|found|feature|targeted|stochastic|based|geometrybased|enables|densely|ofdma|massive|framework|future|spectral|frequencydivision|mode|crosstier|shown|helpful|communication|results|area|obtain|resource|overloading|develop|sharing|linearly|users|system|overlaid|quantify|expand|hybrid|proposed|modes|scales|sparse|interference|support|parameters|endow|scma|code|deployed|nonorthogonal|probability|rule|network|rule|analytically|devicetodevice|allows|underlaid|closedform|allocation|apply|recently|implementation|multiple|wireless|significantly|activated
+venue name:IEEE Transactions on Communications
+venue id:196647941
+venue type:J
+document type:Journal
+study fields:Stochastic geometry|Wireless network|Computer science|Electronic engineering|Resource allocation|Spectral efficiency|Cellular network|Hybrid system|Telecommunications link|Codebook
+references:1495901202|1968495205|1982698541|1992942660|2007936241|2008104692|2020158704|2023472100|2024416483|2040714707|2042519026|2076579100|2088312047|2106749358|2118540159|2124894634|2126206766|2130171753|2143487028|2149165606
+
+
+id:2467524786
+title:Convergence Analysis and Assurance for Gaussian Message Passing Iterative Detector in Massive MU-MIMO Systems
+year:2016
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2780491112|
+author name:Yuping Su
+author organization:Shaanxi Normal University
+author id:2678031646|
+]
+abstract:called|results|accuracy|property|fully|algorithm|large||converge|cases|analyze|variances|simultaneously|conditions|multipleinput|complexity|prove|serves|two|derive|detection|verify|operating|means|detection|may|scaleandadd|connected|massive|loopy|definitely|validity|understood|minimum|theoretical|used|faster|sufficient|modified|multiuser|consider|results|antennas|iterative|mumimo|square|largescale|higher|mmse|sources|analysis|convergence|provided|gmpid|error|speed|numerical|paper|station|hard|make|considers|multipleoutput|cases|message|nonconvergent|lowcomplexity|converges|proposed|variance|mean|well|gaussian|passing|simplify
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Base station|Multi-user MIMO|Algorithm|Mean squared error|Minimum mean square error|Theoretical computer science|Real-time computing|Gaussian|Detector|Message passing|Mathematics
+references:1557486844|1967600006|1971443733|1979905340|1986340993|1991918680|2005772714|2028648808|2039962332|2040611682|2052321444|2057803073|2065489737|2072184935|2075505133|2081274544|2084304524|2098387242|2098470405|2099781940|2100326972|2101435685|2111521164|2111616148|2125069315|2125853410|2128513990|2129351819|2130056224|2131705283|2131733892|2131785353|2132755737|2136644341|2139584447|2147601077|2158122241|2164991395|2165942867|2166737934|2321576161|2509202454|2912369344|2963954530
+
+
+id:2520567692
+title:Interference-aware resource allocation for D2D underlaid cellular network using SCMA: A hypergraph approach
+year:2016
+author information:[
+author name:Yanpeng Dai
+author organization:Xidian University
+author id:2342856929|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Kepeng Zhao
+author organization:Xidian University
+author id:2342881048|
+author name:Lei Liu
+author organization:Xidian University
+author id:2980372745|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:allowed|problem|uplink|fully|energy|algorithm|generation|based|efficiency|lower|terminals|propose|system|provide|thereby|among|cellular|algorithm|hypergraph|shared|access|targeting|sum|networks|codebook|orthogonal|interferenceaware|activating|performance|one|services|great|confirm|characterize|regarded|future|fifth|devicetodevice|strategy|uplinks|use|using|available|network|promise|hypergraph|transmission|links|consider|throughput|communication|results|resource|maximizing|iahca|graph|achieving|sparse|interference|higher|scma|code|applied|latency|links|allocation|enhance|algorithms|underlaid|allocation|effectively|multiple|resources|technology|outperforms|better|simulation|conventional|wireless|user
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Radio resource management|Resource management|Wireless network|Computer science|Computer network|Resource allocation|Cellular network|Throughput|Telecommunications link|Codebook|Distributed computing
+references:1660612174|1969281101|1974759496|2008104692|2053822331|2073726009|2079334758|2087544022|2092777627|2326299586
+
+
+id:2520625488
+title:Performance analysis of SCMA ad hoc networks: A stochastic geometry approach
+year:2016
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2980372745|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Yuzhou Li
+author organization:Huazhong University of Science and Technology
+author id:2103126111|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:optimal|simulation|maximization|put|without|connectivity|exhibit|promising|respectively|using|efficiency|ad|probability|opportunity|explicit|networks|evaluate|hoc|access|reliability|matrix|networks|two|derive|tradeoff|gain|ase|stochastic|compared|performance|forward|massive|framework|geometry|constraint|first|spectral|theoretical|transmission|consider|problems|results|area|obtain|asymptotically|develop|sparse|solve|support|problems|settings|scma|code|probability|nearly|link|technique|investigate|medium|network|numerical|ofdma|enhance|successful|multiple|improvement|performance|form|typical|achieved|wireless
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Stochastic geometry|Wireless network|Computer science|Computer network|Interference (wave propagation)|Spectral efficiency|Wireless ad hoc network|Stochastic geometry models of wireless networks|Maximization|Network performance|Distributed computing
+references:1938738734|2008104692|2042519026|2054692642|2060776278|2087544022|2124894634|2137079066|2137891392|2962900333|2963847582
+
+
+id:2553591559
+title:Iterative Channel Estimation Using LSE and Sparse Message Passing for MmWave MIMO Systems
+year:2019
+author information:[
+author name:Chongwen Huang
+author organization:Singapore University of Technology  Design
+author id:2463408034|
+author name:Lei Liu
+author organization:Singapore Universityof Technology and Design
+author id:2950862466|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Sumei Sun
+author organization:Agency for Science, Technology and Research
+author id:2246470621|
+]
+abstract:employ|channel|millimeter|leveraging|assumption|sparse|mimo|algorithm|knowledge|based|method|analysis|propose|analyze|exact|algorithm|crlb|densities|iterations|partial|much|systems|numerical|experiments|least|priori|distribution|matrix|estimator|density|nonzero|lse|iteratively|minimum|lower|turbo|bound|simple|mmwave|five|approximation|matrix|iterative|modeled|estimation|entries|square|entries|proposed|especially|channels|sparse|values|show|wave|genieaided|provides|predict|advantage|estimated|detects|also|evolution|message|channel|better|existing|performance|converges|approximately|variance|unbiased|coefficients|detected|locations|gaussian|passing|simplify
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Cramér–Rao bound|Approximation algorithm|Minimum-variance unbiased estimator|Mathematical optimization|Computer science|Sparse approximation|Communication channel|MIMO|Message passing|Estimator
+references:1489518675|1982222550|1994427954|2026440501|2026933032|2039962332|2052364013|2052963087|2053521124|2056798980|2074086712|2092235212|2101394529|2104653913|2111953900|2112994060|2116334496|2125082270|2127271355|2127490352|2127535650|2132755737|2146000945|2148154358|2148529054|2148846951|2150179603|2157461771|2169732368|2189661557|2195693430|2286197641|2339667469|2467524786|2529882823|2559695533|2587628048|2602529568|2741367247|2962941466|2962965594|2963159303|2963933750
+
+
+id:2559011850
+title:Graph-based joint mode selection and resource allocation scheme for D2D and cellular hybrid network using SCMA
+year:2016
+author information:[
+author name:Kepeng Zhao
+author organization:Xidian University
+author id:2342881048|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Yanpeng Dai
+author organization:Xidian University
+author id:2342856929|
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Yan Shi
+author organization:Xidian University
+author id:2197258156|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:reuse|considered|nonlinear|properly|interference|optimization|uplink|enabling|promising|generation|efficiency|utilization|propose|gmr|system|thereby|selection|flexible|spectrum|cellular|algorithm|access|targeting|formulate|sum|confirmed|enabled|interferenceaware|architecture|resources|proliferation|problem|efficient|future|fifth|threshold|graphbased|joint|network|predefined|mode|shown|communication|results|programming|dedicated|resource|level|maximizing|users|system|hybrid|mutual|sparse|mixedinteger|leads|solve|interference|scma|code|bottlenecks|network|candidate|devicetodevice|rate|allocated|enhancing|allocation|raised|multiple|resources|efficacy|performance|simulation|overwhelming|wireless|avoid|significantly
+venue name:International Conference on Wireless Communications and Signal Processing
+venue id:2622754298
+venue type:C
+document type:Conference
+study fields:Resource management|Wireless network|Computer science|Nonlinear programming|Computer network|Resource allocation|Spectral efficiency|Cellular network|Hybrid system|Optimization problem|Distributed computing
+references:1527886356|1567802099|1660612174|2020158704|2042519026|2047317276|2066106876|2326299586|2520567692
+
+
+id:2571197978
+title:A New Upper Bound on the Achievable Rate of Relay Channel With MIP-QF Strategy
+year:2017
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Yuzhu Liang
+author organization:XiDian University
+author id:2718290425|
+author name:Ying Li
+author organization:Xidian University
+author id:2780491112|
+]
+abstract:awgn|optimal|theoretical|upper|channel|duplex|accuracy|source|decode|halfduplex|shown|white|far|exceed|signal|results|lying|new|need|compressandforward|additive|node|mutual|proposed|decodeandforward|preserving|mipqf|quantizeandforward|away|mmsecf|show|numerical|rate|achievable|noise|ratios|close|destination|derived|cases|relay|bound|verified|also|specific|channel|special|correctly|information|gaussian|validity|bound|cutset
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Relay channel|Numerical models|Upper and lower bounds|Computer science|Electronic engineering|Mutual information|Additive white Gaussian noise|Relay
+references:1660716358|2028228879|2040142717|2070552690|2089555817|2093765705|2121916661|2129867786|2165326372|2166266048|2167447263
+
+
+id:2596929078
+title:Backtracking Codebook Matching Algorithm Based on Codebook Correlation for Uplink SCMA System
+year:2017
+author information:[
+author name:Yanpeng Dai
+author organization:Xidian University
+author id:2342856929|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:frequency|codebooks|scheduling|codebook|exhibit|results|investigated|algorithm|successfully|impact|utilization|bcm|system|system|correlation|sparse|spectrum|improve|whereby|scma|code|access|superiority|scheduled|gain|matching|diversity|allocated|multiple|exploiting|simulation|backtracking|lowcorrelated
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Diversity scheme|Linde–Buzo–Gray algorithm|Scheduling (computing)|Computer science|Real-time computing|Correlation|Backtracking|Blossom algorithm|Telecommunications link|Codebook
+references:2008104692|2042519026|2042921133|2072746634|2104938765|2152091471|2429172883|2496222037
+
+
+id:2736154972
+title:Joint Source-Channel Coding for Asymmetric Slepian-Wolf Multiple Access Relay Channel
+year:2017
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Ying Li
+author organization:Xidian University
+author id:2780491112|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Yue Sun
+author organization:Xidian University
+author id:2714915287|
+]
+abstract:slepianwolf|joint|superposition|use|channel|source|approach|good|multipleaccess|limit|different|results|obtain|new|distributed|significant|matches|users|longer|proposed|letter|djscsc|asymmetric|full|code|scheme|parity|show|capacity|coding|sourcechannel|design|db|compared|considers|performance|within|relay|makes|improvement|better|proposed|performance|conditions|conventional|applicable|simulation
+venue name:IEEE Wireless Communications Letters
+venue id:2500830676
+venue type:J
+document type:Journal
+study fields:Linear network coding|Relay channel|Topology|Computer science|Communication channel|Computer network|Theoretical computer science|Distributed source coding|Shannon–Fano coding|Decoding methods|Channel capacity|Variable-length code
+references:610339656|1868552688|2001959502|2005196269|2088214533|2093765705|2105768002|2111733652|2125893675|2138256990|2140314213|2142521365|2148590829|2154350801|2170818700|2171844485|2570135134|2571197978
+
+
+id:2799385386
+title:Success Probability and Area Spectral Efficiency in SCMA Wireless Networks
+year:2018
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2980372745|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Xijun Wang
+author organization:Xidian University
+author id:2564629548|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:optimal|leading|accuracy|division
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Stochastic geometry|Wireless network|Transmitter|Computer science|Orthogonal frequency-division multiple access|Electronic engineering|Code word|Spectral efficiency|Throughput|Network performance
+references:1935086315|1938738734|2008104692|2042519026|2087544022|2137079066|2429172883|2520625488|2576659761|2586156909|2599532784|2601871131|2616741127
+
+
+id:2882979857
+title:Asymptotically Optimal Estimation Algorithm for the Sparse Signal With Arbitrary Distributions
+year:2018
+author information:[
+author name:Chongwen Huang
+author organization:Singapore University of Technology  Design
+author id:2463408034|
+author name:Lei Liu
+author organization:Singapore Universityof Technology and Design
+author id:2981022796|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+]
+abstract:theoretical|upper|approximate|approach|millimeter|faster|turbotype|communication|signal|algorithm|recoverydiscrete|asymptotically|goes|lower|analysis|propose|estimation|square|entries|especially|proposed|sparse|etc|underwater|fourier|systems|numerical|infinite|show|distribution|error|wave|derive|noise|verify|zero|robust|bound|also|nonzero|many|message|simulations|existing|converges|future|mean|suitable|wireless|minimum|signal|ratio
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Underwater acoustic communication|Computer science|Upper and lower bounds|Signal-to-noise ratio|Mean squared error|Algorithm|Minimum mean square error|Robustness (computer science)|Fourier transform|Asymptotically optimal algorithm
+references:340244495|1967662829|1983078242|1987772002|2000828982|2019820852|2026933032|2052963087|2059703530|2096282089|2111953900|2113167649|2127535650|2134008802|2148846951|2157638198|2166670884|2195693430|2467524786|2962941466|2963518804|2963783167
+
+
+id:2887445882
+title:Practical MIMO-NOMA: Low Complexity and Capacity-Approaching Solution
+year:2018
+author information:[
+author name:Yuhao Chi
+author organization:Xidian University
+author id:2911872185|
+author name:Lei Liu
+author organization:Singapore Universityof Technology and Design
+author id:2981022796|
+author name:Guanghui Song
+author organization:Singapore Universityof Technology and Design
+author id:2744755030|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+]
+abstract:meansquare|channel|bank|imperfect|capacity|mimo|model|receiver|robustness|distributed|analysis|decoding|noma|system|estimation|cellular|singleuser|mimonoma|multipleinput|complexity|messagepassing|access|reliability|irregular|low|db|validate|processing|include|address|linear|multiuser|within|combines|lmmse|massive|information|minimum|novel|codes|theoretical|achieves|heterogeneous|employed|repeataccumulate|high|communication|different|signal|results|settings|beyond|nonorthogonal|iterative|system|coded|transfer|proposed|asymptotic|techniques|overall|detector|code|capacityapproaching|decompose|recovery|error|extrinsic|iteration|class|multipleoutput|process|practical|computations|constructed|implementation|multiple|match|lowcomplexity|performance|proposed|simulation|consists
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Fading|MIMO|Multiuser detection|Communication channel|Algorithm|Robustness (computer science)|Real-time computing|Decoding methods|Latency (engineering)|Detector|Mathematics
+references:1432778544|1626976891|1901462474|1922937245|1972054094|2005916989|2008104692|2027563534|2039962332|2042519026|2055886565|2101394529|2114468914|2123899238|2132755737|2169732368|2223557134|2277419020|2282129282|2346122382|2406220922|2467524786|2484726158|2509696551|2533078778|2560573919|2567891236|2569457250|2585542883|2611861626|2618413983|2622339274|2750602456|2752736291|2765094238|2765358525|2765952502|2769456309|2775781732|2792466972|2962705373|2962965594|2963021847|2964153125
+
+
+id:2898277434
+title:Gaussian Message Passing for Overloaded Massive MIMO-NOMA
+year:2019
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2780491112|
+author name:Chongwen Huang
+author organization:Singapore University of Technology  Design
+author id:2463408034|
+]
+abstract:called|accuracy|number|property|dependent|algorithm|order|large|gmp|analysis|propose||fail|traditional|system|converge|correlation|mud|utilize|variances|simultaneously|detection|mimonoma|multipleinput|complexity|access|prove|scheme|serves|convergent|derive|detection|verify|operating|compared|multiuser|means|detection|linear|problem|multiuser|scaleandadd|lmmse|massive|loopy|definitely
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Factor graph|Discrete mathematics|Linear independence|Minimum mean square error|MIMO|Mean squared error|Real-time computing|Gaussian|Message passing|Mathematics
+references:1523522871|1539800233|1901462474|1922937245|1967600006|1971443733|1973902799|1986340993|1991918680|2005772714|2019094564|2039962332|2061625134|2072184935|2077415125|2082029531|2096680158|2099781940|2100326972|2101362102|2101435685|2108656301|2111521164|2111616148|2119706299|2128513990|2129351819|2130056224|2131705283|2132247362|2132755737|2139584447|2147601077|2151268673|2158122241|2164595191|2220802472|2282129282|2467524786|2569457250|2603333836|2610971674|2765094238|2769456309|2795346202|2798752288|2887445882|2912369344|2962956060|2962965594
+
+
+id:2901912524
+title:Performance of Small Cell Networks Under Multislope Bounded Pathloss Model: From Sparse to Ultradense Deployment
+year:2018
+author information:[
+author name:Junyu Liu
+author organization:Xidian University
+author id:2125669798|
+author name:Min Sheng
+author organization:Xidian University
+author id:2303528837|
+author name:Lei Liu
+author organization:Xidian University
+author id:2785650773|
+author name:Jiandong Li
+author organization:Xidian University
+author id:2256324277|
+]
+abstract:smaller|sufficiently|approach|analyzing|would|network|model|spatial|shortdistance|cons|densification|method|past|probability|distance|light|even|boost|networks|decades|densities|dominates|beyond|cell|networks|cells|long|capacity|proved|pros|found|distinctive|deteriorates|pathloss|sp|deployment|performance|st|exponentially|explore|density|efficient|within|longdistance|characterize
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Base station|Topology|Computer science|Electronic engineering|Small cell|Throughput|Attenuation|Network performance|Lambda|Telecommunications link|Bounded function
+references:794558810|1533983785|1801783838|1999509241|2102413189|2110532959|2133685514|2134686390|2261127636|2401730218|2414518024|2577810536|2596951759|2962751196|2963676093
+
+
+id:2911245957
+title:Interleave Division Multiple Access for High Overloading Applications
+year:2018
+author information:[
+author name:Chulong Liang
+author organization:City University of Hong Kong
+author id:2121489320|
+author name:Yang Hu
+author organization:City University of Hong Kong
+author id:2535157250|
+author name:Lei Liu
+author organization:City University of Hong Kong
+author id:2896906641|
+author name:Chunlin Yan
+author organization:ZTE  Corporation
+author id:2897383290|
+author name:Yifei Yuan
+author organization:ZTE  Corporation
+author id:2897634170|
+author name:Li Ping
+author organization:Hong Kong University
+author id:2143573090|
+]
+abstract:superposition|repetition|division|high|property|interleave|results|generation|reduce|including|communications|lowcost|receiver|overloading|provide|techniques|improve|idma|demonstrate|support|option|access|scheme|idma|matching|coding|outline|design|applications|effectiveness|cost|discussed|implementation|multiple|also|interleaving|simulation|shifted|first|techniques|discuss
+venue name:International Symposium on Turbo Codes and Iterative Information Processing
+venue id:2754651770
+venue type:C
+document type:Conference
+study fields:Computer architecture|Interleave division multiple access|Computer science|Superposition coding|Coding (social sciences)|Interleaving
+references:2014050847|2080918425|2087646599|2095479901|2101394529|2102099405|2108656301|2112976436|2117890770|2143441977|2169167827|2533078778|2567891236|2786035109|2811422593
+
+
+id:2912793741
+title:Iterative Detection in Coded Linear Systems Based on Orthogonal AMP
+year:2018
+author information:[
+author name:Junjie Ma
+author organization:Columbia University
+author id:2303356771|
+author name:Lei Liu
+author organization:University of Technology
+author id:2896906641|
+author name:Xiaojun Yuan
+author organization:City Universityof Hong Kong
+author id:2154119036|
+author name:Li Ping
+author organization:University Of Electronic Science And Technology Of China
+author id:2143573090|
+]
+abstract:results|simulation|wang|nonlinear|required|output|conjecture|terms|seminal|algorithm|based|work|additive|system|messages|exchanged|algorithm|requires|systems|operates|nld|derive|orthogonal|se|aided|systems|noise|extrinsic|detection|linear|orthogonalin|poor|observation|procedure|lmmse|characterize|extensively|ld|minimum|iteratively|certain|standard|data|turbo|approximate|assumptions|white|consider|iterative|decodes|develop|estimation|coded|square|proposed|interference|detector|since|potentially|relaxes|show|error|oamp|emaoamp|extrinsic|decoding|wp|requirements|outperform|studied|verified|suppresses|message|instead|linear|channel|performance|mean|gaussian|passing|treating
+venue name:International Symposium on Turbo Codes and Iterative Information Processing
+venue id:2754651770
+venue type:C
+document type:Conference
+study fields:Turbo|Linear system|Computer science|Minimum mean square error|Filter (signal processing)|Algorithm|Decoding methods|Additive white Gaussian noise|Detector|Decodes
+references:1934021597|2052963087|2080918425|2082029531|2102251435|2107959360|2108656301|2123202508|2132381218|2164031139|2166206392|2282129282|2467524786|2567891236|2603333836|2610971674|2892312077|2962965594|2963602028|2964047892
+
+
+id:2914437179
+title:Capacity-Achieving MIMO-NOMA: Iterative LMMSE Detection
+year:2019
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Yuhao Chi
+author organization:Nanyang Technological University
+author id:2911872185|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+]
+abstract:optimal|called|bit|number|errorcorrecting|singleantenna|system|provide|simultaneously|matched|asymmetric|conditions|mimonoma|multipleinput|systems|access|prove|numerical|achieve|methods|sum|irregular|derive|matching|capacity|low|scenario|detection|detection|linear|within|lmmse|mismatch|associated|minimum|communicate|twouser|used|points|repeataccumulate|shows|multipleantenna|limit|stateofart|multiuser|results|extreme|threeuser|kind|iterative|decoders|users|square|proposed|suboptimal|region|detector|nonorthogonal|error|symmetric|detector|paper|decoding|rate|achievable|station|designed|considers|multipleoutput|practical|multiple|match|maximal|outperforms|lowcomplexity|performance|due|mean|base
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Base station|Control theory|Single antenna interference cancellation|MIMO|Multiuser detection|Algorithm|Minimum mean square error|Decoding methods|Detector|Mathematics|Bit error rate
+references:1523522871|1626976891|1645066837|1901462474|1922937245|1967600006|1996307546|2027563534|2039962332|2068118751|2076642094|2099268979|2101362102|2101394529|2108656301|2111616148|2114468914|2128513990|2132755737|2147601077|2154310679|2157638198|2169732368|2567891236|2765094238|2769456309|2792466972|2795346202|2798752288|2806594972|2887445882|2896490826|2902563985|2913298215|2962965594|2964047892
+
+
+id:2949851742
+title:Capacity-Achieving MIMO-NOMA: Iterative LMMSE Detection
+year:2019
+author information:[
+author name:Lei Liu
+author organization:Xidian University
+author id:2950862466|
+author name:Yuhao Chi
+author organization:
+author id:2911872185|
+author name:Chau Yuen
+author organization:Nanyang Technol. University
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Singapore University of Technology  Design
+author id:2144378114|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+]
+abstract:optimal|called|access|bit|number|errorcorrecting|square|singleantenna|system|provide|simultaneously|matched|asymmetric|conditions|mimonoma|minimum|systems|prove|numerical|achieve|methods|sum|irregular|derive|matching|capacity|nonorthogonal|low|scenario|detection|detection|linear|multiuser|within|lmmse|mismatch|associated|communicate|twouser|used|points|repeataccumulate|shows|multipleantenna|limit|stateofart|multiuser|results|extreme|threeuser|kind|iterative|decoders|users|proposed|suboptimal|region|detector|mean|error|symmetric|detector|paper|decoding|rate|achievable|station|multipleinput|designed|considers|multiple|practical|multiple|match|error|multipleoutput|maximal|linear|outperforms|lowcomplexity|performance|due|base
+venue name:arXiv: Information Theory
+venue id:2595047959
+venue type:J
+document type:Repository
+study fields:Extreme point|Base station|Noma|Mathematical optimization|Minimum mean square error|Algorithm|MIMO|Decoding methods|Detector|Mathematics|Bit error rate
+references:1523522871|1557486844|1626976891|1628621408|1645066837|1901462474|1922937245|1967600006|1996307546|2027563534|2028648808|2039962332|2068118751|2076642094|2099268979|2101362102|2101394529|2108656301|2111616148|2114468914|2128513990|2132755737|2147601077|2157638198|2160779252|2163844889|2169732368|2567891236|2569457250|2765094238|2769456309|2792466972|2795346202|2798752288|2806594972|2887445882|2896490826|2902563985|2912369344|2913298215|2962965594|2963602028|2964047892
+
+
+id:2950433273
+title:Iterative Channel Estimation Using LSE and Sparse Message Passing for MmWave MIMO Systems
+year:2016
+author information:[
+author name:Chongwen Huang
+author organization:Student Member, IEEE
+author id:2463408034|
+author name:Lei Liu
+author organization:Student Member, IEEE
+author id:2950862466|
+author name:Chau Yuen
+author organization:Senior Member, IEEE
+author id:2107163193|
+author name:Sumei Sun
+author organization:Fellow, IEEE
+author id:2246470621|
+]
+abstract:employ|channel|passing|estimator|least|leveraging|sparse|mimo|algorithm|based|method|square|analysis|propose|wave|smp|analyze|exact|algorithm|crlb|densities|iterations|much|systems|numerical|experiments|distribution|matrix|nonzero|millimeter|bernoulligaussian|cramerrao|estimating|density|iteration|iteratively|minimum|lower|turbo|fewer|bound|simple|used|mmwave|lse|approximation|estimation|matrix|iterative|modeled|estimation|entries|entries|proposed|especially|channels|sparse|paths|relatively|sparse|since|message|show|detect|genieaided|provides|predict|value|advantage|detects|also|evolution|message|better|existing|performance|converges|approximately|variance|unbiased|coefficients|location|gaussian|simplify
+venue name:arXiv: Information Theory
+venue id:2595047959
+venue type:J
+document type:Repository
+study fields:Cramér–Rao bound|Minimum-variance unbiased estimator|Mathematical optimization|Upper and lower bounds|Matrix (mathematics)|Algorithm|Communication channel|MIMO|Message passing|Mathematics|Estimator
+references:836396136|1489518675|1584244501|1744464229|1982222550|1991056455|1991918680|1994427954|2009447832|2026440501|2026933032|2039962332|2052321444|2052364013|2052963087|2053521124|2056798980|2068425868|2074086712|2083042020|2085984866|2092235212|2093765705|2101394529|2104653913|2109489513|2111953900|2112994060|2116334496|2117890770|2127271355|2127490352|2127535650|2132755737|2146000945|2148154358|2148529054|2148846951|2150179603|2169732368|2189661557|2195693430|2462743565|2486164642|2520852378|2529882823|2559695533|2602529568|2741367247|2755226093
+
+
+id:2953485991
+title:A New Insight Into GAMP and AMP
+year:2019
+author information:[
+author name:Lei Liu
+author organization:City University of Hong Kong
+author id:2785650773|
+author name:Ying Li
+author organization:Xidian University
+author id:2951675658|
+author name:Chongwen Huang
+author organization:Singapore University of Technology  Design
+author id:2463408034|
+author name:Chau Yuen
+author organization:Singapore University of Technology
+author id:2107163193|
+author name:Yong Liang Guan
+author organization:Nanyang Technol. University
+author id:2144378114|
+]
+abstract:equivalent|approximate|process|building|via|mpas|generalized|white|amp|concise|limit|problems|algorithm|nonlinear|offers|new|equivalence|neglecting|amp|taylor|ep|intrinsic|expansion|additive|insight|theorem|toward|propagation|provide|processing|solving|highorder|rule|expectation|proven|measurement|exploits|general|central|noise|gamp|derived|belief|may|epmpa|infinitesimal|message|channel|unified|gaussian|passing|simplify|clues
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Central limit theorem|Computer science|Algorithm|Electronic engineering|Equivalence (measure theory)|Expectation propagation|Additive white Gaussian noise|Infinitesimal|Message passing|Taylor series|Belief propagation
+references:422388727|1515272691|1632803383|1992036418|2061625134|2075505133|2082029531|2140966562|2166670884|2294432821|2467524786|2530325458|2599170098|2603333836|2706056020|2769497010|2776751579|2887445882|2896991873|2897178685|2898277434|2912793741|2914437179|2945463326|2952582770|2962859484|2963405909|2963602028
+
+
+id:1964779314
+title:Neural-network-based adaptive dynamic surface control for MIMO systems with unknown hysteresis
+year:2014
+author information:[
+author name:Lei Liu
+author organization:Northeastern University
+author id:2776368231|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Zhengwei Shen
+author organization:Northeastern University
+author id:2775904071|
+]
+abstract:small|closedloop|serialparallel|simulation|construct|nonlinear|tracking|approach|problem|multipleinputmultipleoutput|shown|composite|incorporated|uniformly|weights|dynamic|model|state|results|laws|surface|method|compared|bounded|backlashlike|resulting|estimation|nonlinearities|system|signals|proposed|prediction|semiglobally|neural|complexity|provided|focuses|guarantee|eliminate|error|unknown|hysteresis|network|adaptive|paper|systems|class|effectiveness|approaches|neighborhood|control|ultimately|confirm|explosion|existing|compensated|converges|combined|strategy
+venue name:IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning
+venue id:2754968098
+venue type:C
+document type:Conference
+study fields:Mean squared prediction error|Nonlinear system|Computer science|Control theory|MIMO|Hysteresis|Adaptive control|Artificial neural network|Tracking error|Bounded function
+references:1968222391|2010629382|2025025159|2034447120|2110638818|2120912879|2133337272|2135219152|2143121414|2168097327
+
+
+id:1965886111
+title:Intelligence computation based on adaptive tracking design for a class of non-linear discrete-time systems
+year:2013
+author information:[
+author name:Lei Liu
+author organization:Liaoning University of Technology
+author id:2432929542|
+author name:Yan-Jun Liu
+author organization:Liaoning University of Technology
+author id:2104966155|
+author name:Dong-Juan Li
+author organization:Liaoning University of Technology
+author id:2125056616|
+]
+abstract:small|closedloop|functions|discretized|simulation|used|tracking|radial|siso|presented|function|uniformly|property|model|results|utilized|algorithm|computational|reduce|new|using|method|compared|illustrate|basis|analysis|article|discrete|approximated|theorem|signals|converge|networks|form|mean|prove|neural|provided|direct|networks|error|nonsymmetric|around|lyapunov|unknown|example|adaptive|proved|transform|deadzone|systems|bounded|class|value|zero|effectiveness|set|control|schemes|ultimately|special|semiglobal|discretetime|deadzone|presents|burden
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Discretization|Control theory|Artificial intelligence|Artificial neural network|Lyapunov function|Mathematical optimization|Discrete time and continuous time|Adaptive control|Mean value theorem|Mathematics|Machine learning|Tracking error|Bounded function
+references:1966746027|1970068620|1992908868|1996174402|2011981337|2026880725|2033260130|2034903360|2044292107|2049933349|2054676558|2072627105|2094287485|2098732944|2100288218|2103628962|2104792629|2110638818|2111528514|2114847465|2115308069|2117945258|2128901503|2133594302|2137092694|2138459461|2139964569|2140242461|2144784132|2148075745|2155947439|2159045374|2159538611|2160917764|2162601317|2166778519|2167038379
+
+
+id:1967717902
+title:Adaptive fault-tolerant control for a class of uncertain nonlinear MISO discrete-time systems in triangular forms with actuator failures
+year:2014
+author information:[
+author name:Lei Liu
+author organization:Northeastern University Shenyang
+author id:2779329739|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+]
+abstract:closedloop|simulation|nonlinear|faults|approach|uncertain|investigates|multi|output|loss|radial|actuator|presence|successfully|compared|exist|input|inequality|system|ftc|triangular|scheme|achieve|guarantee|networks|matrix|unknown|result|adaptive|proved|systems|faulttolerant|contain|linear|single|confirm|help|approach|forms|approximate|reference|lockinplace|function|signal|results|basis|bounded|discrete|signals|proposed|failure|solving|neural|provided|technique|failures|paper|task|track|class|effectiveness|introduce|control|rbfnn|backstepping|compensation|time|designed
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Backstepping|Nonlinear system|Control theory|Computer science|Fault tolerance|Discrete time and continuous time|Linear matrix inequality|Control reconfiguration|Actuator|Bounded function
+references:1965792176|2061160706|2092116813|2106557935|2110474796|2117945258|2118846378|2122836694|2142709633|2145625078
+
+
+id:2062564145
+title:Stability Criteria for Recurrent Neural Networks With Time-Varying Delay Based on Secondary Delay Partitioning Method
+year:2015
+author information:[
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Lei Liu
+author organization:Northeastern University
+author id:2619221730|
+author name:Qi-He Shan
+author organization:College of Information Science and Engineering Northeastern University
+author id:2485837903|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:upper|rnns|several|main|used|approach|problem|state|recurrent|stability|combination|obtain|method|double|lower|secondary|delay|proposed|timevarying|interval|study|deal|functional|neural|divided|part|show|reciprocal|networks|two|extended|lyapunov|example|result|effective|numerical|total|subintervals|feature|integral|convex|term|result|class|limits|effectiveness|variables|delay|help|criterion|fast|associated|variable|partitioning|first
+venue name:IEEE Transactions on Neural Networks
+venue id:42080949
+venue type:J
+document type:Journal
+study fields:Stability criterion|Nonlinear system|Control theory|Upper and lower bounds|Computer science|Convex combination|Recurrent neural network|State variable|Multiple integral|Numerical stability
+references:1965632565|1974031204|1978832514|1993920342|2008530150|2016562720|2020298866|2031673504|2038641684|2039617089|2044467507|2051104796|2060278456|2066931881|2100784272|2102432893|2107194000|2110460555|2117976551|2120696396|2121615270|2122551828|2123348485|2126341830|2145963278|2150344394|2169539509
+
+
+id:2078881969
+title:Adaptive NN fault-tolerant control for discrete-time systems in triangular forms with actuator fault
+year:2015
+author information:[
+author name:Lei Liu
+author organization:The State Key Laboratory of Synthetical Automation for Process Industries, Shenyang, Liaoning 110819, China
+author id:2780739931|
+author name:Zhanshan Wang
+author organization:State Key Laboratory of Synthetical Automation for Process Industries, Shenyang, China
+author id:2616916553|
+author name:Huaguang Zhang
+author organization:State Key Laboratory of Synthetical Automation for Process Industries, Shenyang, China
+author id:2110932830|
+]
+abstract:forms|tolerant|closedloop|considered|simulation|approximate|nonlinear|faults|approach|three|uncertain|investigates|output|reference|loss|lockinplace|radial|features|actuator|function|uniformly|presence|signal|results|method|compared|singleout|basis|bounded|signals|proposed|triangular|multiinput|neural|scheme|achieve|provided|technique|guarantee|networks|unknown|adaptive|proved|paper|systems|faults|task|track|class|faulttolerant|effectiveness|contain|introduce|one|fault|control|ultimately|confirm|help|existing|backstepping|compensation|discretetime|designed|approach
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Backstepping|Nonlinear system|Control theory|Fault tolerance|Discrete time and continuous time|Control reconfiguration|Mathematics|Bounded function|Actuator fault|Actuator
+references:1963767440|1965792176|1967994003|1972812456|2000622577|2016450377|2035193641|2041012113|2052305027|2061160706|2063432434|2072627105|2082930753|2092116813|2093084509|2106557935|2110474796|2113289097|2117945258|2118846378|2119493620|2122836694|2133085788|2137092694|2142709633|2142923542|2145625078|2183232149
+
+
+id:2147556634
+title:Adaptive neural network tracking design for a class of uncertain nonlinear discrete-time systems with dead-zone
+year:2014
+author information:[
+author name:YanJun Liu
+author organization:Liaoning University of Technology
+author id:2104966155|
+author name:Lei Liu
+author organization:Liaoning University of Technology
+author id:2432929542|
+author name:ShaoCheng Tong
+author organization:Liaoning University of Technology
+author id:2141728717|
+]
+abstract:closedloop|functions|simulation|adaptation|nonlinear|issues|uncertain|employed|feedback|radial|investigated|function|property|strict|stability|utilized|given|using|laws|method|illustrate|basis|analysis|whose|system|input|approximated|proposed|prove|neural|networks|nonsymmetric|lyapunov|unknown|example|deadzone|systems|design|class|effectiveness|backstepping|controller|control|procedure|form|discretetime|approach|design
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Backstepping|Control theory|Mathematical optimization|Nonlinear system|Control theory|Discrete time and continuous time|Adaptive control|Artificial neural network|Mathematics|Strict-feedback form
+references:1963754511|1970068620|1972891981|1988182293|1992908868|2006025321|2010900719|2011981337|2026717471|2026880725|2033260130|2040515067|2049933349|2053902898|2054881597|2079869463|2094437443|2095799820|2100288218|2110091290|2110638818|2114847465|2115308069|2116490015|2117945258|2122995702|2142923542|2146342888|2153729769|2159045374|2159538611|2160218323|2160917764|2162601317|2166778519|2170346869|2171562366|2171574462|2279962698
+
+
+id:2221382943
+title:Neural-Network-Based Adaptive Fault Estimation for a Class of Interconnected Nonlinear System with Triangular Forms
+year:2014
+author information:[
+author name:Lei Liu
+author organization:Northeastern University Shenyang
+author id:2923463775|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Jinhai Liu
+author organization:University
+author id:2143154045|
+author name:Zhenwei Liu
+author organization:University
+author id:2779758606|
+]
+abstract:forms|interconnected|timetofailure|subsystem|residual|threshold|used|nonlinear|radial|function|estimate|generate|utilized|approximation|law|simulation|distributed|basis|estimation|proposed|determined|failure|triangular|observer|detector|solving|neural|methods|unknown|instant|adaptive|current|dynamics|systems|due|class|universal|detection|capabilities|verified|fault|continuestime|threshold|designed|time|novel|methodology
+venue name:International Symposium on Neural Networks
+venue id:1161424158
+venue type:C
+document type:Conference
+study fields:Residual|Nonlinear system|Fault detection and isolation|Computer science|Control theory|Radial basis function neural|Observer (quantum physics)|Artificial neural network|Detector
+references:1967994003|2061160706|2063906601|2081341054|2092116813|2093084509|2106557935|2118846378|2123245377|2133085788|2137922462|2150005359
+
+
+id:2338719424
+title:Fault-Tolerant Controller Design for a Class of Nonlinear MIMO Discrete-Time Systems via Online Reinforcement Learning Algorithm
+year:2016
+author information:[
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Lei Liu
+author organization:Northeastern University
+author id:2619221730|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+author name:Geyang Xiao
+author organization:Northeastern University
+author id:2126155025|
+]
+abstract:optimal|simulation|abrupt|nonlinear|occurs|faults|tracking|problem|critic|meaning|action|mimo|presence|algorithm|energy|respectively|reduce|based|method|offline|compared|index|system|ftc|even|note|rl|account|systems|proven|networks|saved|unknown|adaptive|dynamics|taken|ability|based|minimizing|faulttolerant|controller|decreased|occurs|approach|novel|tolerant|incipient|approximate|used|developed|multipleinputmultipleoutput|incorporated|uniformly|generate|signal|waste|approximation|concentrates|adjusted|weights|bounded|nns|signals|proposed|neural|rather|provided|show|learning|network|numerical|paper|reinforcement|class|effectiveness|cost|fault|control|existing|performance|online|discretetime|longterm
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Nonlinear system|Optimal control|Computer science|Control theory|MIMO|Uniform boundedness|Fault tolerance|Artificial intelligence|Discrete time and continuous time|Artificial neural network|Machine learning|Reinforcement learning
+references:1965352522|1967994003|1969198007|1970127232|1972812456|1978732706|1983294924|1984831821|2001813620|2002260889|2035193641|2044922360|2052475313|2059742446|2077195478|2078881969|2080067489|2087084782|2089904313|2093084509|2098035803|2106557935|2109320898|2118846378|2119493620|2125720852|2132300288|2133085788|2137092694|2142923542|2145625078|2145830976|2145956080|2156321339|2172104678
+
+
+id:2343090116
+title:Adaptive Fault-Tolerant Tracking Control for MIMO Discrete-Time Systems via Reinforcement Learning Algorithm With Less Learning Parameters
+year:2017
+author information:[
+author name:Lei Liu
+author organization:Northeastern University
+author id:2619221730|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:incipient|concerned|optimal|approximate|abrupt|used|nonlinear|tolerating|tracking|faults|three|learningbased|number|critic|action|signal|generate|boundedness|computational|respectively|reduce|given|approximation|stability|ensure|parameters|method|thus|less|analysis|decrease|remarkable|signals|proposed|account|present|parameters|multipleinput|neural|show|technique|learning|unknown|network|adaptive|uniform|paper|feature|systems|taken|reinforcement|ability|based|class|effectiveness|multipleoutput|cost|fault|control|also|procedure|simulations|discretetime|errors|novel|tolerate|burden|strategy
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Adaptive system|Control theory|Computer science|Uniform boundedness|Control engineering|Fault tolerance|Discrete time and continuous time|Adaptive control|Control system|Artificial neural network|Reinforcement learning
+references:1965352522|1968464152|1969198007|1970127232|1978732706|1983294924|1986864433|1987583608|1990916425|1994331821|1998099067|1999213690|2002260889|2003373159|2006090378|2008443278|2033030672|2044892885|2051940462|2059119683|2059742446|2077195478|2077853471|2079888961|2080067489|2089904313|2102934031|2109320898|2112103082|2113289097|2117616282|2118846378|2119493620|2121447854|2123146397|2125720852|2127801773|2129830889|2134569556|2142923542|2145830976|2147586027|2151966330|2158675660|2160561608|2167398973|2172104678
+
+
+id:2380626858
+title:Adaptive Predefined Performance Control for MIMO Systems With Unknown Direction via Generalized Fuzzy Hyperbolic Model
+year:2017
+author information:[
+author name:Lei Liu
+author organization:Northeastern University
+author id:2619221730|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Zhanjun Huang
+author organization:University
+author id:2229287074|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:closedloop|gfhm|simulation|accuracy|construct|faulty|tracking|approach|output|introduced|problem|generalized|model|investigated|utilized|case|using|compared|bounds|resulting|extend|transient|comparisons|multipleinput|deal|priori|guarantee|two|unknown|hysteresis|gain|adaptive|desired|systems|verify|means|steadystate|within|approach|hyperbolic|approximate|main|predefined|features|shown|implemented|results|topic|new|avoids|backlashlike|transforming|ensured|signals|proposed|prediction|errors|confined|provided|error|nussbaumtype|prescribed|times|nonlinearities|since|class|fuzzy|direction|effectiveness|multipleoutput|control|requirement|tracks|existing|performance|healthy|strategy
+venue name:IEEE Transactions on Fuzzy Systems
+venue id:134177497
+venue type:J
+document type:Journal
+study fields:Nonlinear system|Control theory|Adaptive system|A priori and a posteriori|Fuzzy logic|Control system|Artificial neural network|Mathematics|Trajectory|Bounded function
+references:1966556797|1968222391|1970744534|1972891981|1980491877|1983294924|1990429086|2006958879|2007155433|2028181366|2039683272|2042547807|2049778360|2051298259|2054500535|2055722386|2056742369|2078623127|2086126129|2086762105|2087084782|2087260217|2089198099|2089684487|2093771543|2097121541|2102057409|2113021957|2119089988|2132300288|2136272235|2137824246|2138484437|2145783107|2158036483|2158692375|2159045374|2162601317|2963609304
+
+
+id:2592509915
+title:Neural-Network-Based Robust Optimal Tracking Control for MIMO Discrete-Time Systems With Unknown Uncertainty Using Adaptive Critic Design
+year:2018
+author information:[
+author name:Lei Liu
+author organization:Northeastern University Shenyang
+author id:2619221730|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Huaguang Zhang
+author organization:University
+author id:2666768390|
+]
+abstract:closedloop|optimal|simulation|nonlinear|tracking|via|critic|multioutput|action|respectively|dealing|system|even|contrast|multiinput|scheme|uncertainty|unknown|cope|adaptive|proved|systems|based|acd|robust|procedure|scheme|reduced|approach|minimum|novel|concerned|approximate|main|used|developed|features|actorcritic|function|uniformly|controllers|generate|signal|quadric|bounded|establish|stable|signals|proposed|present|errors|neural|purpose|applied|show|exists|network|integrated|numerical|total|paper|design|class|effectiveness|cost|previous|control|ultimately|discretetime|strategy
+venue name:IEEE Transactions on Neural Networks
+venue id:42080949
+venue type:J
+document type:Journal
+study fields:Optimal control|Nonlinear system|Computer science|Adaptive system|Control theory|MIMO|Robustness (computer science)|Artificial intelligence|Discrete time and continuous time|Artificial neural network|Machine learning|Bounded function
+references:1977458621|1978732706|1983089547|1986808474|1989855774|1990026397|1990380686|1991119064|1994331821|1998361253|2003373159|2013895638|2014729048|2020688906|2032704188|2032736119|2047068000|2048687352|2057484415|2067809384|2074037090|2077853471|2078881969|2078977470|2079458565|2085194340|2089684487|2096215872|2098035803|2098732944|2107674817|2109320898|2116479681|2117616282|2123146397|2132179668|2132468772|2138131694|2142620596|2142709633|2145963278|2148032815|2156321339|2156629001|2159543578|2164825665|2166000057|2172104678|2249513906|2332672415|2343090116|2343701426|2344118647|2344560087|2345052385|2473265833|2509783950|2767784613|2963609304
+
+
+id:2594353858
+title:Neural Network-Based Model-Free Adaptive Fault-Tolerant Control for Discrete-Time Nonlinear Systems With Sensor Fault
+year:2017
+author information:[
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Lei Liu
+author organization:Northeastern University Shenyang
+author id:2619221730|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:simulation|focus|nonlinear|issues|output|number|dynamics|problem|largely|employed|utilized|modelfree|based|method|optimality|input|system|ftc|contrast|fde|cope|unknown|estimator|varying|faulttolerant|key|linearization|detection|reconstructed|accordance|learn|one|scheme|single|threshold|novel|strategy|data|compact|solved|main|residual|developed|features|dynamic|establish|estimation|nns|proposed|parameters|neural|pseudopartialderivative|provided|show|detect|network|fault|highlight|numerical|related|utilized|parameter|design|transformed|effectiveness|original|previous|fault|control|criterion|form|approximator|online|time|strategy
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Stuck-at fault|Data modeling|Optimality criterion|Nonlinear system|Control theory|Computer science|Fault detection and isolation|Fault tolerance|Artificial neural network|Linearization
+references:1965792176|1978170465|1984672166|1984831821|1986460220|2014441923|2022479703|2025207313|2030629074|2033897706|2035933463|2040871222|2052305027|2055861714|2068202815|2078881969|2089684487|2089904313|2090283488|2093084509|2098035803|2100288218|2101959500|2108695617|2110710005|2125937501|2137092694|2142393774|2142709633|2146396918|2156321339|2162601317|2172678131|2217539471|2295856041|2327289079|2338719424|2340995602|2343090116|2343248448|2344562701|2349466983|2491054843|2514514867|2530077971|2556875844|2592509915
+
+
+id:2706355003
+title:Data-Based Adaptive Fault Estimation and Fault-Tolerant Control for MIMO Model-Free Systems Using Generalized Fuzzy Hyperbolic Model
+year:2018
+author information:[
+author name:Lei Liu
+author organization:Northeastern University
+author id:2619221730|
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:faults|generalized|contributions|multioutput|model|mimo|modelfree|based|noting|optimality|methods|approximated|ftc|examples|light|contrast|timevarying|multiinput|fde|two|unknown|adaptive|capability|estimator|systems|faults|faulttolerant|linearization|policy|established|detection|reconstructed|initial|one|powerful|novel|first|compact|hyperbolic|residual|threshold|main|simple|used|developed|whether|implemented|dynamic|computational|approximation|occur|estimation|proposed|datadriven|solve|focused|sensor|demonstrate|problems|detect|paper|transformed|fuzzy|effectiveness|applying|determine|previous|fault|control|approaches|databased|parameter|criterion|form|discretetime|time|reducing|burden
+venue name:IEEE Transactions on Fuzzy Systems
+venue id:134177497
+venue type:J
+document type:Journal
+study fields:Optimality criterion|Adaptive system|Fault detection and isolation|Control theory|Fuzzy logic|MIMO|Fault tolerance|Linearization|Mathematics|Estimator
+references:1139407660|1933317792|1959607397|1965293767|1978170465|1984672166|1987338879|2000910171|2003639131|2014441923|2014857127|2022731643|2035933463|2044280374|2068202815|2086143493|2090283488|2093084509|2093771543|2108695617|2116672760|2117616282|2130515883|2139542706|2142393774|2153938810|2158764551|2160637684|2338719424|2342660359|2343090116|2344884128|2345052385|2380626858|2396603033|2409651721|2410930004|2474821858|2497349707|2510324448|2518283862|2592509915|2963609304
+
+
+id:2800384809
+title:Neural Networks-Based Adaptive Finite-Time Fault-Tolerant Control for a Class of Strict-Feedback Switched Nonlinear Systems
+year:2019
+author information:[
+author name:Lei Liu
+author organization:College of Science Liaoning University of Technology Jinzhou China
+author id:2432929542|
+author name:Yan-Jun Liu
+author organization:Liaoning University of Technol
+author id:2104966155|
+author name:Shaocheng Tong
+author organization:Liaoning University of Technol
+author id:2141728717|
+]
+abstract:simulation|illustrative|nonlinear|output|loss|radial|actuator|dynamics|problem|identified|resistorcapacitorinductor|laws|method|handle|sense|version|exist|traditional|system|contrast|switched|networks|account|switching|appropriate|internal|circuit|unknown|adaptive|proved|systems|signals|taken|faulttolerant|stability|controller|designing|finitetime|first|tolerant|theoretical|necessary|upon|developed|reference|lowertriangular|presented|bias|function|signal|stability|concentrates|basis|extends|proposed|demonstrate|neural|convergence|nonswitched|paper|result|class|effectiveness|previous|arbitrary|fault|control|also|tracks|form|time
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Mathematical optimization|Control theory|Nonlinear system|Adaptive system|Control theory|Fault tolerance|Artificial neural network|Mathematics|Actuator|Finite time
+references:1979915722|1982635649|1988837728|1994331821|2006090378|2006541295|2010581001|2011559350|2024155676|2036017392|2055715153|2055861714|2062974796|2063066107|2108912872|2126773645|2132342412|2137284810|2150659431|2165649830|2171052973|2285464184|2287839913|2295856041|2343090116|2343288771|2343523717|2343970347|2344237528|2380626858|2462438590|2560370148|2563423315|2568625502|2573814815|2601030518|2625360904|2753313310|2757619290|2765571205|2765910425|2766919050|2770878849|2788444134|2789092789|2790630269|2793796624|2796359973|2963609304
+
+
+id:2902295052
+title:A Practical Fault Diagnosis Algorithm Based on Aperiodic Corrected-Second Low-Frequency Processing for Microgrid Inverter
+year:2019
+author information:[
+author name:Zhanjun Huang
+author organization:State Key Laboratory of Synthetical Automation for Process Industries, Shenyang, China
+author id:2972971173|
+author name:Zhanshan Wang
+author organization:State Key Laboratory of Synthetical Automation for Process Industries, Shenyang, China
+author id:2972421844|
+author name:Lei Liu
+author organization:College of Science Liaoning University of Technology Jinzhou China
+author id:2972732864|
+]
+abstract:smaller|asymmetry|experimental|realtime|normalization|algorithm|hardware|order|respectively|aslfd|method|compared|lower|easy|aperiodic|comparisons|processing|algorithm|greatly|algorithms|affect|feature|microgrid|get|reduces|validate|variables|abovementioned|logical|calculation|operations|lowfrequency|small|data|simple|features|investigated|shown|startup|method|results|degree|diagnosis|real|square|proposed|improve|practicability|relatively|higher|distortion|complexity|common|root|correctedsecond|applications|amount|requirements|conducive|practical|fault|realized|increase|realization|way|existing|processed|corresponding|detailed|mean
+venue name:IEEE Transactions on Industrial Informatics
+venue id:184777250
+venue type:J
+document type:Journal
+study fields:Inverter|Low frequency|Normalization (statistics)|Computer science|Algorithm|Feature extraction|Root mean square|Aperiodic graph|Distortion|Microgrid
+references:2032232674|2093244782|2123629701|2137463550|2171429758|2336126868|2336820976|2550004180|2561946193|2753378082|2754813553|2762569271|2769525464|2888609085
+
+
+id:2929958122
+title:Adaptive NN Control Without Feasibility Conditions for Nonlinear State Constrained Stochastic Systems With Unknown Time Delays
+year:2019
+author information:[
+author name:Dapeng Li
+author organization:Liaoning University of Technology
+author id:2337537640|
+author name:Lei Liu
+author organization:College of Science Liaoning University of Technology Jinzhou China
+author id:2432929542|
+author name:Yan-Jun Liu
+author organization:Liaoning University of Technol
+author id:2104966155|
+author name:Shaocheng Tong
+author organization:Liaoning University of Technol
+author id:2141728717|
+author name:C. L. Philip Chen
+author organization:University of Macau
+author id:2037336103|
+]
+abstract:closedloop|functions|considered|simulation|delayed|nonlinear|type|constraints|approach|suffer|employed|state|boundedness|utilized|violated|based|efficiency|surface|method|functionals|quality|feasibility|system|lightened|delays|presenting|conditions|appearing|assumed|satisfactions|frequently|achieve|plants|unknown|adaptive|uniform|systems|stochastic|free|controller|constrained|computation|compensate|exponential|approximate|developed|presented|controllers|dynamic|stability|removed|new|semiglobal|ultimate|real|less|employing|never|nns|signals|rigorous|delays|adjustable|full|problems|virtual|neural|values|technique|derivative|network|burden|revealed|design|transformed|control|procedure|proof|arises|online|time|category
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Control theory|Mathematical optimization|LKFS|Nonlinear system|Online computation|Adaptive control|Exponential type|Artificial neural network|Mathematics
+references:1806169597|1967633750|1972435684|1975874834|1986024064|1993349769|1995137574|1996099152|2048145332|2049778360|2058668219|2062373349|2086762105|2090021621|2101879828|2107335022|2116932815|2117976551|2130303604|2132179668|2138941894|2151858664|2153392494|2164136313|2199063378|2278308097|2344466269|2408472393|2428098056|2529405793|2560370148|2563423315|2566133870|2588173368|2592752239|2602203989|2605516885|2618682531|2744608379|2745293285|2750399449|2752879615|2765910425|2788444134|2790630269|2790671014|2791524775|2794029453|2800384809|2805998202|2807030658|2809036841|2888285743|2889943381|2896817070|2901040281|2973218311
+
+
+id:2964867346
+title:Adaptive Fault-Tolerant Consensus Protocols for Multiagent Systems With Directed Graphs
+year:2020
+author information:[
+author name:Zhanshan Wang
+author organization:University
+author id:2616916553|
+author name:Yanming Wu
+author organization:Northeastern University
+author id:2560989171|
+author name:Lei Liu
+author organization:College of Science Liaoning University of Technology Jinzhou China
+author id:2432929542|
+author name:Huaguang Zhang
+author organization:University
+author id:2110932830|
+]
+abstract:highfrequency|tracking|faults|gains|investigates|loss|coupling|actuator|protocol|problem|shown|state|presence|given|distributed|sense|basis|bounded|modification|estimation|input|converge|examples|proposed|timevarying|neighborhood|errors|mass|leader|improved|origin|show|neighboring|around|two|local|unknown|adaptive|protocol|paper|systems|term|faulttolerant|effectiveness|constructed|independent|control|consensus|oscillations|performance|consists|information|avoid|multiagent|compensate
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Coupling|Control theory|Adaptive system|Directed graph|Multi-agent system|Symmetric matrix|Fault tolerance|Mathematics|Actuator|Bounded function
+references:1966751197|1979408645|1982425003|2000806524|2010108030|2020274357|2035193641|2048848526|2049119205|2052305027|2057658318|2079888961|2080817687|2089603437|2096224892|2099175737|2100276679|2104359570|2105616725|2125087034|2137092694|2139542706|2140380216|2167398973|2176990642|2336126868|2343090116|2419346231|2514514867|2520224746|2529676626|2559828591|2567444783|2588418159|2739848262|2755939145|2759248522|2765965898|2766059818|2778955355|2806908004
+
+
+id:109380605
+title:Access Annotation for Safe Program Parallelization
+year:2013
+author information:[
+author name:Chen Ding
+author organization:Rochester University
+author id:2110051044|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+]
+abstract:program|approach|parallelism|uncertain|monitored|properly|number|problem|safety|programmers|algorithm|reduce|efficiency|safety|depends|considering|parallelization|monitoring|parallelize|programs|ie|requires|shared|access|quadratictime|guarantee|manual|two|worth|gives|annotation|softwarebased|data|produce|speculative|executions|sharing|exponential|data|use|precision|interleavings|several|annotations|either|whether|solutions|correctness|demonstrates|comparison|difficult|guaranteed|check|incurs|especially|techniques|paper|virtual|memory|sequential|monitoring|insert|interface|parallel|result|cost|false|automatic|monitor|increase|till|performance|uses|user|presents
+venue name:Network and Parallel Computing
+venue id:1166178324
+venue type:C
+document type:Conference
+study fields:Software transactional memory|Annotation|Program parallelization|Computer science|Virtual memory|Correctness|False sharing|Software|Data access|Distributed computing
+references:1494930385|1498246297|1742609814|1995288535|2028267160|2036520154|2037303555|2078429521|2080073745|2097717378|2105055683|2105794846|2106231823|2111946621|2129934486|2138180780|2145087641|2145467766|2146039870|2149037641|2158308706|2158794422|2164579444|2170200862
+
+
+id:1567711878
+title:Global Tiling for Communication Minimal Parallelization on Distributed Memory Systems
+year:2008
+author information:[
+author name:Lei Liu
+author organization:Key Laboratory of Computer Architecture Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080 and Graduate School of the Chinese Academy of Sciences, Beijing, China ..
+author id:2893799654|
+author name:Li Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2655719509|
+author name:Chengyong Wu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893326478|
+author name:Xiao-Bing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+]
+abstract:tiling|cluster|optimal|tiling|focus|decide|division|problem|diverse|attain|order|respectively|based|mapping|efficiency|shape|experimentations|distributed|methods|traditional|selection|must|average|scheme|formulate|tiletoprocessor|distribution|restrict|two|gain|sp|minimize|linear|computation|connected|handled|space|data|lu|express|integer|time|tile|programming|migration|qsnet|present|memory|globally|shaped|parallelism|decomposition|effective|total|load|parallel|studies|iteration|execution|previous|multidimensional|approaches|better|balancing|performance|semioblique|achieved|simplify
+venue name:European Conference on Parallel Processing
+venue id:1163264588
+venue type:C
+document type:Conference
+study fields:Load balancing (computing)|Computer science|Parallel computing|Distributed memory|Compiler|Loop tiling|Integer programming|Hyperplane|Data migration|Distributed computing|Computation
+references:1983416598|2003798513|2007194250|2008117760|2041929342|2053895556|2082114071|2090011371|2091074029|2098449676|2112132809|2116896429|2124343275|2163193850|2204069727|2296218291
+
+
+id:2001738345
+title:WiseThrottling: a new asynchronous task scheduler for mitigating I/O bottleneck in large-scale datacenter servers
+year:2015
+author information:[
+author name:Fang Lv
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, Beijing, China
+author id:2583269530|
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, China
+author id:2893799654|
+author name:Hui-Min Cui
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, Beijing, China
+author id:2170679915|
+author name:Lei Wang
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, Beijing, China
+author id:2096839585|
+author name:Ying Liu
+author organization:CAS, Beijing
+author id:2625756337|
+author name:Xiao-Bing Feng
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, Beijing, China
+author id:2125627752|
+author name:Pen-Chung Yew
+author organization:Minnesota University
+author id:2156592825|
+]
+abstract:considered|experimental|stepping|approach|poor|bottleneck|exhibit|tasks|reduce|inefficiency|thus|work|propose|processors|system|prior|evaluate|dawning|server|fact|concurrent|fundamental|range|across|modern|era|based|suffers|bandwidth|schedulers|workloads|softwarebased|many|powerful|unprecedented|performs|bottleneck|platforms|major|scheduling|results|challenge|marked|new|pose|selfadjustment|datacenter|servers|contentions|especially|improve|overall|largescale|problems|reveals|contention|cause|primarily|aware|effective|servers|asynchronous|studies|cases|os|wide|wisethrottling|cluster|datacenter|performance|datacenter|severe|reducing
+venue name:The Journal of Supercomputing
+venue id:32326811
+venue type:J
+document type:Journal
+study fields:Bottleneck|Asynchronous communication|Resource description|Scheduling (computing)|Computer science|Server|Parallel computing|Computer network|Input/output|Software|Bandwidth (signal processing)|Distributed computing
+references:1484120854|1494827854|1539971231|1596620545|1982513108|1995830264|2006626399|2028145761|2030234369|2049722552|2050324483|2064039391|2095272619|2100708186|2101675015|2102621631|2103397328|2104321028|2111556044|2134807578|2139190931|2142479513|2142649131|2144413105|2150139096|2153495590|2155168119|2170335318|2294497304
+
+
+id:2050324483
+title:Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
+year:2014
+author information:[
+author name:Fang Lv
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2583269530|
+author name:Hui Min Cui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2170679915|
+author name:Lei Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2096839585|
+author name:Lei Liu
+author organization:University of Chinese Academy of Sciences
+author id:2893799654|
+author name:Cheng Gang Wu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2608553750|
+author name:Xiao Bing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+author name:Pen Chung Yew
+author organization:University of Minnesota
+author id:2156592825|
+]
+abstract:increasingly|obstacles|experimental|welltuned|via|batchmode|concurrently|algorithm|achieved|cmp|lower|mainstream|utilization|contention|impacts|system|processing|impede|become|dawning|server|average|corunning|range|slowdown|modern|processing|set|may|jobs|workloads|many|noticeable|improvements|commercial|becoming|evaluated|cloud|major|efficiency|scheduling|dynamic|throughput|results|resource|kind|batch|datacenters|runtime|significant|servers|important|contentions|proposed|linux|beneficial|job|show|fifteen|platforms|running|scheduler|computing|cluster|clusters|seriously|enhance|also|improvement|ranging|environment|performance|throughputs|service|periodical|services|applications
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Computer science|Scheduling (computing)|Server|Input/output|Real-time computing|Multiprocessing|Job scheduler|Batch processing|Operating system|Computer cluster|Cloud computing|Distributed computing
+references:1494827854|1520797390|1753788805|1976146408|1982513108|1984523026|2018564121|2022832305|2031866163|2049722552|2086291744|2089031675|2093486789|2097762163|2098278566|2100708186|2103397328|2103711518|2104321028|2111556044|2113283471|2125277034|2134807578|2139190931|2142649131|2150139096|2153469489|2153973815|2164348333|2294497304
+
+
+id:2099280458
+title:BPM/BPM+: Software-based dynamic memory partitioning mechanisms for mitigating DRAM bank-/channel-level interferences in multicore systems
+year:2014
+author information:[
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, China
+author id:2893799654|
+author name:Zehan Cui
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, China; Graduate School, CAS, China
+author id:2158433740|
+author name:Yong Li
+author organization:University of Pittsburgh
+author id:2557645667|
+author name:Yungang Bao
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS
+author id:2102743922|
+author name:Mingyu Chen
+author organization:State Key Laboratory of Computer Architecture, ICT, CAS, China
+author id:2098200930|
+author name:Chengyong Wu
+author organization:State Key Laboratory of Computer Architecture
+author id:2142029209|
+]
+abstract:employ|controllers|incur|software|leading|memory|approach|without|monitored|interference|complex|banklevel|manufacturing|dram|diverse|usually|presence|hardware|reduce|based|using|large|banks|reduced|propose|extend|system|adopt|cases|workloads|overheads|programs|evaluate|relative|appropriate|shared|average|unfairness|achieve|scanning|eliminate|requests|multicore|mechanism|gain|result|across|promote|modern|many|mechanism|key|table|modifications|channellevel|address|problem|kernel|many|logic|randomly|pagecoloringbased|unfairness|process|main|degradation|upon|bpmp|multiprogrammed|generated|scheduling|serious|dynamic|implement|throughput|assigns|mechanisms|results|needs|new|dedicated|resource|need|experimental|real|article|core|proposed|modifications|linux|improve|fourcore|overall|interference|demonstrate|page|bpm|benefits|memory|idea|multithreaded|additional|show|distinct|technique|allocates|running|partitioning|lowoverhead|design|eightcore|incorporating|amount|practical|os|effectively|multiple|resources|expensive|modify|performance|application|management|due|pmu|machines|avoid|segregated|demands|presents
+venue name:ACM Transactions on Architecture and Code Optimization
+venue id:26056741
+venue type:J
+document type:Journal
+study fields:Dynamic random-access memory|Memory bank|Interleaved memory|Scheduling (computing)|Computer science|Page table|Parallel computing|Real-time computing|Memory management|Throughput|Multi-core processor
+references:43148069|1504046403|1753788805|1964316448|1967474856|1979866689|1991357793|1993488239|1995830264|1998310976|1999136361|2025304002|2026517532|2038101378|2048242615|2059290792|2064039391|2088664048|2098040113|2098278566|2101193087|2102871765|2107333973|2111804126|2115078506|2115172404|2118296780|2118703320|2121256363|2124237318|2129573249|2129846162|2132269953|2138661001|2142875853|2143773524|2144154231|2144941482|2159908132|2160609361|2162838417|2164988937|2165169256|2165697076|2169875292|2170577400
+
+
+id:2124237318
+title:A software memory partition approach for eliminating bank-level interference in multicore systems
+year:2012
+author information:[
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+author id:2893799654|
+author name:Zehan Cui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2158433740|
+author name:Mingjie Xing
+author organization:State Key Laboratory of Computer Architecture Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+author id:2578728418|
+author name:Yungang Bao
+author organization:Chinese Academy Sciences
+author id:2102743922|
+author name:Mingyu Chen
+author organization:State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences,
+author id:2098200930|
+author name:Chengyong Wu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893326478|
+]
+abstract:employ|degradation|venders|terms|complex|scheduling|serious|throughput|usually|hardware|new|resource|need|modification|resulting|system|proposed|adopting|interference|hesitation|shared|algorithms|memory|numerous|unfairness|slowdown|multicore|seem|modern|causes|address|problem|industrial|performance|logic|main
+venue name:International Conference on Parallel Architectures and Compilation Techniques
+venue id:1134494671
+venue type:C
+document type:Conference
+study fields:Interleaved memory|Uniform memory access|Shared memory|Computer science|Parallel computing|Distributed memory|Cache-only memory architecture|Real-time computing|Memory management|Distributed shared memory|Flat memory model|Distributed computing
+references:1504046403|1753788805|1964316448|1967474856|1979866689|1991357793|1998310976|1999136361|2025304002|2026517532|2038101378|2059290792|2088664048|2098040113|2098278566|2101193087|2107333973|2111804126|2115078506|2115172404|2118703320|2121256363|2129846162|2138661001|2142875853|2143773524|2144154231|2144941482|2159908132|2160609361|2162838417|2164988937|2165169256|2165697076|2169875292|2170577400
+
+
+id:2146039870
+title:Safe parallel programming using dynamic dependence hints
+year:2011
+author information:[
+author name:Chuanle Ke
+author organization:Institute of Computing Technology, Chinese Academy of Sciences, Beijing, NY, USA
+author id:2249528913|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Chao Zhang
+author organization:Intel Labs, China, Beijing, NY, USA
+author id:2946841752|
+author name:Tongxin Bai
+author organization:University of Rochester
+author id:2151322636|
+author name:Bryan Jacobs
+author organization:University of Rochester
+author id:2156749974|
+author name:Chen Ding
+author organization:Rochester University
+author id:2110051044|
+]
+abstract:software|doacross|program|output|dependence|recent|tasks|tasks|safely|hints|specify|parallelization|system|permits|parallelize|programs|partial|speculative|execution|average|ordering|code|composable|multicore|current|dependence|output|may|incorrect|change|makes|possible|prototype|speculative|dependences|conditional|use|largesize|run|express|used|incomplete|implemented|spec|possibly|always|including|openmp|extends|improve|safe|produces|present|legacy|sequential|parallelism|nearly|show|interface|benchmarks|library|primitives|times|parallel|divides|execution|performance|machines|user
+venue name:Conference on Object-Oriented Programming Systems, Languages, and Applications
+venue id:1138732554
+venue type:C
+document type:Conference
+study fields:Programming language|Computer science|Speculative execution|Task parallelism|Parallel computing|Speculative multithreading|Software|If and only if|Legacy code|Spec#|Multi-core processor
+references:79448102|1494930385|1561247983|1963966054|1968347730|1995288535|2028267160|2032404709|2037303555|2043381512|2072725684|2078429521|2098903349|2106669882|2109065830|2110726704|2111946621|2115855199|2115968584|2116170858|2129934486|2144064081|2145087641|2145467766|2149037641|2150527190|2151307463|2158308706|2158794422|2161961092|2164579444|2170200862
+
+
+id:2163738868
+title:Automatic Implementation of Multi-partitioning Using Global Tiling
+year:2008
+author information:[
+author name:Lei Liu
+author organization:Key Lab. of Comput. Archit. Institute of Comput. Technol., Chinese Acad. of Sci., Beijing, China
+author id:2893799654|
+author name:Dingfei Zhang
+author organization:Key Lab. of Comput. Archit. Institute of Comput. Technol., Chinese Acad. of Sci., Beijing, China
+author id:2141022106|
+author name:Hengjie Li
+author organization:Key Lab. of Comput. Archit. Institute of Comput. Technol., Chinese Acad. of Sci., Beijing, China
+author id:2225059094|
+author name:Li Chen
+author organization:Institute of Comput. Technol., Chinese Acad. of Sci., Beijing, , China
+author id:2655719509|
+]
+abstract:play|called|tiling|decide|none|block|algorithm|efficiency|still|mapping|modular|parallelizing|parallelization|analyze|multipartitioning|style|hpf|participation|sophisticated|extension|role|fundamental|global|distribution|known|experimentation|supports|sp|sweep|performance|scheme|transformation|describes|computation|dhpf|tiletoprocessors|strategies|strategy|scalable|parallelization|data|achieves|computations|shows|generated|implemented|implement|though|needs|difficult|present|support|code|line|best|paper|compiler|implementation|automatic|special|application|hyperdiagonal|partitioning|determining|strategy|applications
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Programmer|Computer science|Parallel computing|Transformation algorithm|Code generation|Compiler|Modular design|Sweep line algorithm|Distributed computing|Computation|Scalability
+references:1485473225|1567711878|1983416598|2003798513|2008117760|2082114071|2098449676|2100368376|2111311400|2112132809|2122278327|2124343275|2163193850
+
+
+id:2234353885
+title:Two-Level Task Scheduling for Irregular Applications on GPU Platform
+year:2017
+author information:[
+author name:Jing Li
+author organization:SKL of Computer Architecture, Institute of Computing Technology, CAS, Beijing, China and School of Computer and Control Engineering, UCAS, Beijing, China
+author id:2633681882|
+author name:Lei Liu
+author organization:SKL of Computer Architecture, Institute of Computing Tech, CAS Beijing, China
+author id:2893799654|
+author name:Yuan Wu
+author organization:Beijing Samsung Telecom RD Center, Beijing, China
+author id:2498221507|
+author name:Xiaobing Feng
+author organization:SKL of Computer Architecture, Institute of Computing Technology, CAS, China
+author id:2125627752|
+author name:Chengyong Wu
+author organization:SKL of Computer Architecture, Institute of Computing Tech, CAS Beijing, China
+author id:2142029209|
+]
+abstract:reuse|depend|hierarchically|improves|experimental|approach|suffer|enable|programmers|tasks|cache|potential|work|handle|devise|extend|requires|gpus|concurrent|irregular|distribution|mention|uniform|distribute|architecture|yielding|speedup|lots|framework|harmonicmean|small|data|friendly|degradation|challenging|gpu|nested|scheduling|serious|cache|results|programming|group|errorprone|resource|proposes|understandings|sharing|twolevel|task|managing|full|facilitate|show|irregularities|burden|programming|programmers|paper|parallel|highly|six|effectively|threads|expose|manage|schedule|performance|application|typical|suitable|work|applications
+venue name:International Journal of Parallel Programming
+venue id:148521650
+venue type:J
+document type:Journal
+study fields:Computer science|CPU cache|Scheduling (computing)|Cache|Parallel computing|Thread (computing)|Concurrent computing|Shared resource|Software framework|Speedup
+references:114095214|1504291959|1997162567|2003488560|2016706026|2067313328|2075739954|2080592089|2085704185|2103838950|2109473404|2116437922|2128329055|2128853364|2145018926|2156467710|2156831150|2160428323|2169880332
+
+
+id:2296191823
+title:Pragma Directed Shared Memory Centric Optimizations on GPUs
+year:2016
+author information:[
+author name:Jing Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2633681882|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Yuan Wu
+author organization:Beijing Samsung Telecom Research and Development Center
+author id:2498221507|
+author name:Xiang-Hua Liu
+author organization:Beijing Samsung Telecom Research and Development Center
+author id:2651469839|
+author name:Yi Gao
+author organization:Beijing Samsung Telecom Research and Development Center
+author id:2507403610|
+author name:Xiao-Bing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+author name:Cheng-Yong Wu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2142029209|
+]
+abstract:gpu|select|optimal|usage|nontrivial|experimental|stateoftheart|affine|expertise|parallelism|largely|optimization|four|optimizing|let|programmers|even|models|using|still|excellent|hints|programmer|utilization|resource|easy|propose|devise|system|even|utilize|pragmas|become|requires|shared|improper|extension|role|access|targeting|gpus|automatically|concurrent|across|compiler|polyhedral|openacc|ability|regular|processing|contain|bandwidth|model|lots|framework|instruction|selection|operations|choice|data|coprocessors|used|gpu|platforms|high|describing|accelerate|results|five|programming|inherent|level|resource|might|widely|often|underutilize|maintaining|pragma|lack|important|utilization|improve|techniques|support|parameters|since|higher|ubiquitous|centric|memory|show|burden|alone|productivity|parameter|design|convey|hard|compiler|selecting|plays|effectively|approaches|expose|way|performance|management|typical|suitable|work|applications
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Uniform memory access|Shared memory|Computer science|CUDA|Parallel computing|Distributed memory|Compiler|Memory management|Distributed shared memory|OpenHMPP
+references:1483717008|1517684295|1537323515|1678662003|1782174992|1970643910|1981021840|1992851788|2004683477|2006682606|2034761517|2039378765|2043420024|2076485607|2083056254|2091553595|2104659803|2116437922|2116963870|2122078011|2125456566|2129232868|2130749431|2136515051|2138163628|2142193847|2145018926|2155825157|2170634604
+
+
+id:2346051120
+title:Rethinking Memory Management in Modern Operating System: Horizonta
+year:2016
+author information:[
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture (SKL), Institute of Computing Technology (ICT), Chinese Academy of Science (CAS), Haidian District, Beijing, China
+author id:2893799654|
+author name:Yong Li
+author organization:vCenter Performance, VMware RD 3401, Hillview Ave, Palo Alto, CA
+author id:2557645667|
+author name:Chen Ding
+author organization:Rochester University
+author id:2110051044|
+author name:Hao Yang
+author organization:State Key Laboratory of Computer Architecture (SKL), Institute of Computing Technology (ICT), Chinese Academy of Science (CAS), Haidian District, Beijing, China
+author id:2647018320|
+author name:Chengyong Wu
+author organization:State Key Laboratory of Computer Architecture
+author id:2142029209|
+]
+abstract:increasingly|hvr|approach|diverse|guide|hardware|hierarchy|layer|unmodified|contention|exhaustively|system|correlation|flexible|workloads|consistently|tackling|integrating|study|multicore|derive|across|modern|variety|operating|based|strained|policy|address|indexing|kernel|workloads|combines|integrate|single|framework|series|complicated|unified|describe|modules|levels|several|run|rules|characteristics|space|horizontal|prior|cache|dynamic|implement|restructured|results|new|individual|typically|resource|experimental|solutions|hierarchy|sharing|plus|linux|correlate|improve|levels|page|support|memory|policies|show|cause|vertical|percent|random|allocation|practical|wide|os|multiple|interleaving|outperforms|performance|conventional|application|management|randominterleaved|partitioning
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Memory hierarchy|Virtual memory|Computer science|Cache|Parallel computing|Real-time computing|Memory management|Flat memory model|Multi-core processor|Interleaving|Operating system|Linux kernel
+references:1554154077|1753788805|1979866689|1996027765|2001986196|2004301625|2072753794|2096572124|2098278566|2099280458|2100011668|2115078506|2115172404|2116437922|2118296780|2124237318|2127916031|2129816520|2142098074|2142875853|2143773524|2145035826|2149710423|2151971447|2153495590|2155396321|2156467710|2159908132|2160609361|2164988937|2167290952|2168900306|2169875292|2172339043|2294352052
+
+
+id:2554695184
+title:Memos: A full hierarchy hybrid memory management framework
+year:2016
+author information:[
+author name:Lei Liu
+author organization:Sys-Inventor Group, China
+author id:2893799654|
+author name:Hao Yang
+author organization:Sys-Inventor Group, China
+author id:2647018320|
+author name:Yong Li
+author organization:VMware, CA, US
+author id:2557645667|
+author name:Mengyao Xie
+author organization:Sys-Inventor Group, China
+author id:2636390408|
+author name:Lian Li
+author organization:State Key Lab. of Computer Architecture, ICT, CAS, China
+author id:2648748240|
+author name:Chenggang Wu
+author organization:State Key Lab. of Computer Architecture, ICT, CAS, China
+author id:2100055630|
+]
+abstract:data|nvm|lifetime|entire|throughput|results|guide|energy|reduce|level|experimental|hierarchy|patterns|monitoring|system|benefit|hybrid|system|mapping|page|placement|memory|latency|policies|qos|memos|schedules|powered|side|os|captures|introduce|kernel|resources|contributing|consumption|improvement|management|suitable|leverages|significantly|integrates
+venue name:International Conference on Computer Design
+venue id:1186985151
+venue type:C
+document type:Conference
+study fields:Registered memory|Interleaved memory|Extended memory|Computer science|Virtual memory|Parallel computing|Real-time computing|Memory management|Memory map|Flat memory model|Computer memory|Operating system
+references:2001738345|2015477844|2043143850|2096798533|2099280458|2104305170|2116437922|2119092821|2124237318|2147539449|2147926533|2155694951|2169863928|2284584593|2346051120|2565334518
+
+
+id:2892614785
+title:Fast CNN Pruning via Redundancy-Aware Training
+year:2018
+author information:[
+author name:Xiao Dong
+author organization:University of Chinese Academy of Sciences
+author id:2893010737|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Guangli Li
+author organization:University of Chinese Academy of Sciences
+author id:2893624983|
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Xiaobing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+]
+abstract:networks|pruning|timeconsuming|stateoftheart|approach|unimportant|posttraining|phase|terms|model|addition|respectively|models|based|similar|method|carefully|compress|compared|work|scratch|heavy|compression|become|neural|works|overcome|cnns|sparsity|consuming|partition|modern|redundancy|processes|minimizing|deployment|within|learn|efficient|structures|procedure|many|exploit|redundancyaware|overheads|hindrance|achieves|cnns|prunes|time|results|computational|ensure|need|strategies|experiment|less|weights|dense|proposed|sparse|overall|higher|pretrained|show|training|storage|extra|factor|designed|convolutional|process|apply|introduce|start|procedure|stagewise|finetuning|alexnet|significantly
+venue name:International Conference on Artificial Neural Networks
+venue id:1158833223
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Convolutional neural network|Computer science|Compression procedure|Algorithm|Redundancy (engineering)|Artificial intelligence|Deep learning|Model compression|Fold (higher-order function)|Pruning
+references:1536680647|2119144962|2155893237|2194775991|2507318699|2507936800|2513419314|2515385951|2551895583|2618530766|2737121650|2771655537|2952899695|2963055657|2964152344
+
+
+id:2893379203
+title:Auto-tuning Neural Network Quantization Framework for Collaborative Inference Between the Cloud and Edge
+year:2018
+author information:[
+author name:Guangli Li
+author organization:University of Chinese Academy of Sciences
+author id:2893624983|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Xueying Wang
+author organization:University of Chinese Academy of Sciences
+author id:2892492779|
+author name:Xiao Dong
+author organization:University of Chinese Academy of Sciences
+author id:2893010737|
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Xiaobing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+]
+abstract:data|dataset|reasonable|network|experimental|stateoftheart|cloud|via|analyzing|loss|trivial|transmitting|layers|usually|results|generate|quantization|partitions|reduce|using|large|devices|overhead|collaborative|widely|mixedprecision|leads|cloudedge|demonstrate|deep|study|neural|inference|applied|show|storage|networks|dnns|network|applications|effectiveness|quantization|characteristics|mobile|performed|intelligent|advantages|framework|proposed|accuracy|wireless|autotuning|imagenet
+venue name:International Conference on Artificial Neural Networks
+venue id:1158833223
+venue type:C
+document type:Conference
+study fields:Edge computing|Wireless network|Computer science|Inference|Mobile device|Artificial intelligence|Artificial neural network|Quantization (signal processing)|Auto tuning|Machine learning|Cloud computing
+references:1686810756|2097117768|2101788345|2108598243|2153579005|2155893237|2160815625|2194775991|2469490737|2557283755|2593245696|2605258629|2618530766|2775811337|2787884921
+
+
+id:2903570988
+title:ElasticActor: An Actor System with Automatic Granularity Adjustment
+year:2019
+author information:[
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Wei Cao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2904017879|
+author name:Xiao Dong
+author organization:University of Chinese Academy of Sciences
+author id:2893010737|
+author name:Jiansong Li
+author organization:University of Chinese Academy of Sciences
+author id:2904475117|
+author name:Xiaobing Feng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2125627752|
+]
+abstract:experimental|stateoftheart|changing|gains|building|thanks|number|facilitates|gained|model|recent|hardware|workload|depends|impact|distributed|adjusts|constitute|stations|actors|system|mailbox|granularity|assigned|execution|average|systems|adjustment|automatically|concurrent|two|derive|popularity|elasticactor|share|efficient|highlevel|concurrency|actor|massive|decreases|minimum|available|challenging|unit|cloud|compute|scheduling|throughput|results|new|proposes|runtime|caf|actors|significant|system|adjust|stations|critical|latency|show|best|orleans|paper|parallel|station|construction|task|applications|closedform|characteristics|abstraction|outperforms|performance|formula|eg
+venue name:International Journal of Parallel Programming
+venue id:148521650
+venue type:J
+document type:Journal
+study fields:Computer science|Concurrency|Workload|Scheduling (computing)|Theoretical computer science|Throughput|Granularity|Actor model|Runtime system|Cloud computing|Distributed computing
+references:1547827442|1751123594|2046854130|2095849445|2098310557|2102074146|2122192036|2131062488|2135644880|2135868636|2145304606|2165100134|2257404669|2338760474|2582885064|2795268817|2807485921
+
+
+id:2914415974
+title:Exploiting the input sparsity to accelerate deep neural networks: poster
+year:2019
+author information:[
+author name:Xiao Dong
+author organization:University of Chinese Academy of Sciences
+author id:2893010737|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Guangli Li
+author organization:University of Chinese Academy of Sciences
+author id:2893624983|
+author name:Jiansong Li
+author organization:University of Chinese Academy of Sciences
+author id:2904475117|
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Xueying Wang
+author organization:University of Chinese Academy of Sciences
+author id:2892492779|
+author name:Xiaobing Feng
+author organization:University of Chinese Academy of Sciences
+author id:2125627752|
+]
+abstract:data|community|frameworks|focus|stateoftheart|autonomous|challenging|without|intel|realworld|optimization|academic|generate|driving|domainspecific|models|models|evaluations|significant|propose|input|offtheshelf|contains|sparse|improve|techniques|efficient|programs|deep|code|inference|achieve|endtoend|show|learning|sparsity|capable|generating|input|general|value|tensorflow|detection|efficient|relying|speedups|libraries|great|exploiting|mkl|pipeline|libraries|industrial|performance
+venue name:ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+venue id:1147236337
+venue type:C
+document type:Conference
+study fields:Computer science|Inference|Artificial intelligence|Deep learning|Artificial neural network|Deep neural networks|Machine learning|Distributed computing
+references:2150066425|2194775991|2402144811
+
+
+id:2946810225
+title:Cacheap: Portable and Collaborative I/O Optimization for Graph Processing
+year:2019
+author information:[
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Chen Ding
+author organization:Rochester University
+author id:2110051044|
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences,
+author id:2893799654|
+author name:Jiping Yu
+author organization:Tsinghua University
+author id:2946142315|
+author name:Wentao Han
+author organization:Tsinghua University
+author id:2946414634|
+author name:Xiao-Bing Feng
+author organization:University of Chinese Academy of Sciences
+author id:2125627752|
+]
+abstract:compact|called|available|outofcore|simple|integer|developed|maximize|easily|recent|new|demonstrates|need|utilization|graph|disk|task|system|largescale|larger|memory|automatically|representations|interface|speed|graphs|machines|management|paper|systems|many|factor|engines|processing|minimize|process|amount|necessary|efficient|manages|data|describes|existing|increasingly|efficiently|cacheap|uses|adopted|presents|improvements
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Integer|Graph|Locality|Computer science|CPU cache|Input/output|Graph analytics|Memory management|Distributed computing
+references:78077100|1448681276|1533316337|1788180225|1832683484|1957118585|1975171529|1976969221|1987634495|1994727615|2034102265|2053076698|2066999271|2072901340|2097805736|2101196063|2127063935|2128981930|2146456494|2164705534|2170616854|2409430164|2548005711|2605325442|2606413522|2951510327
+
+
+id:2964155292
+title:Background Subtraction on Depth Videos with Convolutional Neural Networks
+year:2018
+author information:[
+author name:Xueying Wang
+author organization:State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2892492779|
+author name:Lei Liu
+author organization:State Key Laboratory of Computer Architecture Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+author id:2893799654|
+author name:Guangli Li
+author organization:State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, 100190, China
+author id:2893624983|
+author name:Xiao Dong
+author organization:State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2893010737|
+author name:Peng Zhao
+author organization:Institute of Computing Technology, Chinese Academy of Sciences
+author id:2892735720|
+author name:Xiaobing Feng
+author organization:Chinese Academy of Sciences, Beijing, China
+author id:2125627752|
+]
+abstract:networks|bgsnetd|called|reaches|unavailable|experimental|scenarios|approach|appeared|poor|reduce|based|background|method|preprocessing|methods|lowcost|lighting|propose|etc|even|object|systems|anomaly|methods|subtraction|networks|depth|computer|noise|convolutional|xtion|emergence|incurred|data|asus|sensors|component|depth|dataset|rgbd|data|use|used|source|results|combine|new|sbmrgbd|like|widely|significant|rgb|vision|proposed|background|neural|color|applied|show|video|influences|designed|also|outperforms|existing|sensors|subtraction|performance|microsof|strategy
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Background subtraction|Anomaly detection|Pattern recognition|Convolutional neural network|Computer science|Feature extraction|Video tracking|Preprocessor|Artificial intelligence|RGB color model|Artificial neural network
+references:1499877760|1903029394|1966550001|2028282671|2069057506|2071860582|2072736233|2079481876|2084592708|2086686163|2092399511|2097512404|2130293653|2154079153|2295855359|2417256080|2521178580|2525668722|2549532711|2613718673|2618530766|2774176625
+
+
+id:2984085861
+title:Acorns: A Framework for Accelerating Deep Neural Networks with Input Sparsity
+year:2019
+author information:[
+author name:Xiao Dong
+author organization:University of Chinese Academy of Sciences
+author id:2893010737|
+author name:Lei Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893799654|
+author name:Peng Zhao
+author organization:University of Chinese Academy of Sciences
+author id:2892735720|
+author name:Guangli Li
+author organization:University of Chinese Academy of Sciences
+author id:2893624983|
+author name:Jiansong Li
+author organization:University of Chinese Academy of Sciences
+author id:2904475117|
+author name:Xueying Wang
+author organization:University of Chinese Academy of Sciences
+author id:2892492779|
+author name:Xiaobing Feng
+author organization:University of Chinese Academy of Sciences
+author id:2125627752|
+]
+abstract:straightforward|usage|intrinsically|stateoftheart|mklsparse|realworld|broad|optimizing|accesses|driving|natural|models|sparsity|deep|propose|computation|input|opens|programs|access|achieve|range|performancecritical|networks|capability|modern|operators|detection|efficient|kernel|speedups|many|describes|baselines|face|framework|sparsity|memoryfriendly|organized|faces|comprehensive|hindering|door|data|generates|cpu|language|express|autonomous|intel|employed|cacheunfriendly|speedups|generated|accelerate|potential|combine|including|baselines|demonstrates|harnessing|significant|task|directions|sparse|transformations|acorns|tackle|demonstrate|problems|deep|memory|code|neural|challenges|optimizations|provides|kernels|opportunity|designed|allows|outperform|implementation|evaluations|computations|raised|improvement|specific|expensive|upon|performance
+venue name:International Conference on Parallel Architectures and Compilation Techniques
+venue id:1134494671
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Convolution|Computer science|Parallel computing|Operator (computer programming)|Face detection|Artificial neural network|Computer engineering|Sparse matrix|Computation|Performance improvement
+references:189277179|1667652561|1836465849|1935978687|1985312666|2009654791|2027615723|2035278858|2040404421|2063249715|2088866486|2098220211|2119395117|2126004407|2128853364|2145287260|2150066425|2151065677|2153185479|2155893237|2158158791|2163605009|2186615578|2194775991|2284629249|2402144811|2412412865|2555618208|2565236682|2590246587|2605019159|2607538525|2617247391|2624273542|2770383410|2786320458|2789177660|2791012218|2794670651|2798341898|2798841107|2808128431|2886857292|2889647155|2914631005|2963859714|2963896595|2964046515|2964337156
+

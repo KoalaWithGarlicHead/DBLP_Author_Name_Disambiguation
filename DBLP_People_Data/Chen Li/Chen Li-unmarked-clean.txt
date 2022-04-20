@@ -1,0 +1,2531 @@
+
+id:71244820
+title:Record Linkage: A 10-Year Retrospective
+year:2013
+author information:[
+author name:Chen Li
+author organization:UC irvine
+author id:2589970869|
+author name:Sharad Mehrotra
+author organization:UC irvine
+author id:2201039448|
+author name:Liang Jin
+author organization:Microsoft Corp
+author id:2437892641|
+]
+abstract:large|paper|best|research|paper|record|linkage|wrote|tenyear|data|received|followup|dasfaa|describe|titled
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Record linkage|Data set|Information retrieval|Computer science|Database
+references:130948412|1518900854|1587882401|1905517305|1991254414|1994541786|1995074666|1996191381|1998475090|2012604221|2043141497|2061229960|2087183379|2097880962|2100235843|2106602702|2107293766|2112064847|2112912553|2113875810|2119057313|2123020735|2130825214|2136716899|2151930506|2158779275|2167847032|2171179180
+
+
+id:126802472
+title:Search-As-You-Type: Opportunities and Challenges.
+year:2010
+author information:[
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+]
+abstract:called|data|trend|use|tokenzied|answers|feel|users|developed|approach|research|query|autocompletion|informationaccess|recent|knowledge|new|searches|give|using|query|often|underlying|towards|finding|traditional|system|extends|study|solving|challenges|prefixbased|search|systems|supporting|keywords|fulltext|overview|types|interfaces|problem|limited|recently|submits|fly|tryandsee|report|traditional|information|information|step|complete|user|return|first|techniques|discuss
+venue name:IEEE Data(base) Engineering Bulletin
+venue id:62003192
+venue type:J
+document type:Journal
+study fields:Information system|Information retrieval|Computer science|On the fly|Prefix|Database
+references:1570051269|2020919487|2052279667|2061711353|2073540046|2098656774|2146842426|2153987307|2162592052|2167847032
+
+
+id:1480742455
+title:On Answering Queries in the Presence of Limited Access Patterns
+year:2001
+author information:[
+author name:Chen Li
+author organization:University
+author id:2589970869|
+author name:Edward Y. Chang
+author organization:University of California
+author id:2108840372|
+]
+abstract:decidable|arithmetic|relation|accessing|problem|limitations|order|give|using|conjunctive|monadic|provide|following|must|tuples|algorithms|study|access|prove|comparisons|informationintegration|fundamental|abstract|answer|two|datalog|unions|could|one|queries|answer|undecidable|cannot|attributes|relations|complete|certain|first|source|second|compute|whether|legal|consider|results|given|including|test|need|patterns|query|often|tuples|retrieve|solving|values|classes|show|relations|paper|programs|limited|queries|maximal|contained|various
+venue name:International Conference on Database Theory
+venue id:1165285842
+venue type:C
+document type:Conference
+study fields:Information integration|Conjunctive query|Tuple|Computer science|Decidability|Theoretical computer science|Datalog|Monad (functional programming)|Boolean conjunctive query|Undecidable problem
+references:187851124|1506000487|1541672808|1551374365|1684286378|1807168331|1910521678|1979514837|1993996301|2025868887|2028864278|2051228475|2056660085|2060579849|2070553391|2076108709|2076126314|2081973669|2084761702|2111742782|2116879341|2126004201|2141824507|2142104809|2161787409
+
+
+id:1584916681
+title:On Containment of Conjunctive Queries with Arithmetic Comparisons
+year:2004
+author information:[
+author name:Foto N. Afrati
+author organization:National Technical University of Athens
+author id:2022488008|
+author name:Chen Li
+author organization:University of California
+author id:2589970869|
+author name:Prasenjit Mitra
+author organization:University
+author id:2109624860|
+]
+abstract:results|tested|arithmetic|number|problem|property|normalization|implication|normalize|property|easily|algorithm|knowledge|reduce|mappings|based|using|conjunctive|large|thus|pass|work|efficiently|size|following|utilize|domain|conditions|algorithms|complexity|checking|study|experiments|fundamental|test|q|containment|variety|many|queries|logical|single|advantages|first
+venue name:Extending Database Technology
+venue id:1132593990
+venue type:C
+document type:Conference
+study fields:Data mining|Logical consequence|Normalization (statistics)|Computer science|Syntax|Discrete mathematics|Conjunctive query|Domain knowledge|Arithmetic|Homomorphism|Completeness (statistics)|Database|Containment
+references:187851124|1581805425|1598091301|1604794355|1695319587|1908950999|1979514837|2006367173|2012428008|2025868887|2028864278|2031639195|2051192787|2062550757|2076126314|2081973669|2114883263|2126004201|2152191782|2160770337|2295944566
+
+
+id:1605549034
+title:Minimizing View Sets without Losing Query-Answering Power
+year:2001
+author information:[
+author name:Chen Li
+author organization:University
+author id:2589970869|
+author name:Mayank Bawa
+author organization:University
+author id:2127001242|
+author name:Jeffrey D. Ullman
+author organization:University
+author id:2289364316|
+]
+abstract:select|maintain|without|losing|datamanagement|maximallycontained|problem|terms|using|considering|relevance|pcontained|traditional|another|selected|two|containment|variety|v|w|relationship|minimize|resources|set|sets|queryanswering|queries|answer|extensively|first|discuss|good|related|view|deciding|answering|whether|v|retaining|consider|given|need|pcontainment|query|often|develop|basis|respect|power|idea|concept|show|views|applications|views|wide|answered|limited|studied|introduce|rewritings|formalize|due|subset
+venue name:International Conference on Database Theory
+venue id:1165285842
+venue type:C
+document type:Conference
+study fields:Data warehouse|Conjunctive query|Question answering|Database query|Information retrieval|Computer science|Theoretical computer science|Query formulation
+references:153194706|170467795|180056467|187851124|1480292905|1483874328|1494307597|1535017960|1604794355|1684286378|1807168331|1879587332|1979514837|1987272746|1993996301|1995999642|2056660085|2092532991|2094394144|2126004201|2132353748|2141824507|2152191782|2160983447|2295944566
+
+
+id:1905517305
+title:NNH: Improving Performance of Nearest-Neighbor Searches Using Histograms
+year:2004
+author information:[
+author name:Liang Jin
+author organization:University of California
+author id:2437892641|
+author name:Nick Koudas
+author organization:ATT
+author id:335443309|
+author name:Chen Li
+author organization:University of California
+author id:2589970869|
+]
+abstract:called|maintain|objects|decide|construct|without|number|neighbors|problem|pivot|proposal|histograms|large|arising|propose|coexist|plethora|provide|utilize|substantially|primary|algorithms|experiments|fundamental|search|conjunction|feature|variety|searches|neighbor|structures|neighbor|efficiently|information|vast|complete|novel|small|searching|use|nnh|main|used|nearest|neighbors|dynamic|intensive|need|towards|histogram|interest|precalculate|improve|efficient|nn|behind|idea|show|choose|effective|paper|incrementally|dramatically|algorithms|distances|practical|constructed|specification|specific|modify|performance|uses|applications
+venue name:Extending Database Technology
+venue id:1132593990
+venue type:C
+document type:Conference
+study fields:k-nearest neighbors algorithm|Small number|Histogram|Data mining|Nearest neighbour|Search algorithm|Computer science|Priority queue|Pivot point
+references:1489255272|1541459201|1554174647|1575476631|1723433588|1822348499|1956559956|1990111898|1998244781|2038044292|2046144220|2055843181|2058903936|2072145795|2074429597|2078321579|2087721273|2097921974|2104128006|2106642566|2110449999|2118269922|2123060058|2128061541|2131687179|2139276812|2145725688|2151203234|2155776210|2157734198|2295428206
+
+
+id:1967208734
+title:Supporting Efficient Record Linkage for Large Data Sets Using Mapping Techniques
+year:2006
+author information:[
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Liang Jin
+author organization:University of California
+author id:2437892641|
+author name:Sharad Mehrotra
+author organization:California University
+author id:2201039448|
+]
+abstract:increased|distancepreserving|attributelevel|approach|defines|problem|record|merge|context|euclidean|usually|repertoire|join|defined|developed|domainspecific|similar|based|mapping|merging|using|efficiency|issue|dealing|analysis|attributes|linkage|algorithms|given|experiments|linkage|two|cleansing|naturally|proceed|attribute|many|based|map|set|sets|explore|efficient|fastmap|many|describes|records|similarities|extensive|example|attributes|novel|first|joins|data|use|transforms|used|good|pairs|space|solution|find|individual|precedes|preserves|real|recordlinkage|mining|chosen|addressed|lists|techniques|overall|recall|records|values|show|rule|scalability|effective|database|similarity|paper|along|similarity|since|approaches|arises|consists|determining|multidimensional|significantly
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data mining|Record linkage|Data cleansing|Data set|Joins|Information retrieval|Computer science|Euclidean space|Merge (version control)|Nearest neighbor search|Scalability
+references:42232109|1485156179|1646278814|1660390307|1976219590|1982055477|1982431066|2001907516|2010595692|2011039300|2014879296|2024770506|2038044292|2041884394|2045235113|2046144220|2050071106|2058903936|2059378307|2072145795|2085099553|2105423800|2106895292|2112173399|2112912553|2123060058|2131576956|2135527206|2161600801|2161936973|2167081989|2168532702|2542460421
+
+
+id:1970660119
+title:LSM-Based Storage and Indexing: An Old Idea with Timely Benefits
+year:2015
+author information:[
+author name:Sattam Alsubaiee
+author organization:(King Abdulaziz City for Science and Technology, Riyadh, Saudi Arabia)
+author id:2893025002|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:data|integer|realtime|solution|answering|property|implemented|context|near|evaluated|recent|us|temporal|based|lsmbased|large|natural|index|timecorrelated|system|etc|unique|fields|identifiers|spatiotemporal|components|universally|applied|show|exploits|indexes|asterixdb|socialmedia|particularly|within|queries|experimentally|allowing|many|userprovided|queries|target|filter|answer|efficiently|sets|partitioning|generalizable|challenging|describe
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Integer|Data mining|Data set|Information retrieval|Computer science|Search engine indexing|Exploit|Unique identifier|Database
+references:1665789430|2013493775|2035735180|2068739275|2210479044|2265297126|2269109801|2294361615
+
+
+id:1980368539
+title:Data exchange: query answering for incomplete data sources
+year:2008
+author information:[
+author name:Foto Afrati
+author organization:University of Athens
+author id:2022488008|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Vassia Pavlaki
+author organization:National Technical University of Athens
+author id:1963795488|
+]
+abstract:called|answers|semantics|issues|constraints|via|consist|problem|give|mapping|conjunctive|work|tuplegenerating|dependencies|contains|schema|study|prove|another|one|two|chase|structured|acyclic|unions|contain|address|set|may|equalitygenerating|data|queries|polynomial|complete|certain|instance|data|use|source|used|meaningful|compute|incomplete|answering|first|different|problems|settings|solutions|query|done|transforming|exchange|settings|problems|materialized|weakly|investigate|computing|paper|algorithmic|universal|considers|queries|schema|data|target|corresponding|information|time|dependencies|existing
+venue name:Scalable Information Systems
+venue id:1152595915
+venue type:C
+document type:Conference
+study fields:Conjunctive query|Data exchange|Star schema|Information retrieval|Computer science|Chase|Time complexity|Schema (psychology)|Complete information|Semantics
+references:1518655948|1556076816|1599313152|1599833144|1968461475|1969053136|1985581502|1990391007|1992673035|1998510030|2007628496|2016785840|2028222220|2032623878|2059693475|2098213459|2102729564|2106039833|2107115563|2120436863|2120825705|2123752633|2142864156|2145589985|2159668267|2159686758|2159793945|2163009148|2166916904|2171467255|2172059872
+
+
+id:1995074666
+title:Supporting location-based approximate-keyword queries
+year:2010
+author information:[
+author name:Sattam Alsubaiee
+author organization:University of California
+author id:1273370749|
+author name:Alexander Behm
+author organization:University Of California
+author id:1993931556|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:approximate|focus|sites|treebased|three|space|find|keyword|spatial|combine|efficiency|constructing|natural|large|index|efficiently|develop|resulting|exist|important|improving|web|techniques|systematically|bridge|demonstrate|support|errors|algorithms|study|photos|two|inconsistencies|listings|search|paper|search|gap|many|answers|types|capabilities|business|experimentally|data|queries|exploiting|structure|textual|successively|answer|efficiently|datasets|time|properties|augments
+venue name:Advances in Geographic Information Systems
+venue id:1140348717
+venue type:C
+document type:Conference
+study fields:Spatial analysis|Data mining|Information retrieval|Computer science|Keyword search|Spatial database
+references:1483240827|1587882401|1769703906|1974995373|1990974055|2001496424|2006307108|2073083495|2118269922|2135503940|2140048308|2151135734|2155801378|2167847032|2169307587
+
+
+id:2015159801
+title:Quality-Aware Retrieval of Data Objects from Autonomous Sources for Web-Based Repositories
+year:2008
+author information:[
+author name:H. Shirani-Mehr
+author organization:University of California
+author id:2115267903|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Gang Liang
+author organization:California University
+author id:2558599283|
+author name:M. Shmueli-Scheuer
+author organization:University of California
+author id:2973917553|
+]
+abstract:employ|synchronized|data|precision|objects|quantities|questions|used|source|repository|remote|good|approach|three|soon|suppose|repositories|goal|develop|quality|important|web|prediction|since|statistical|methods|least|local|central|paper|metrics|predict|theme|applications|could|confidence|many|designing|framework|deleted|answer|days|certain
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Time series|Data mining|Synchronization|World Wide Web|Internet information retrieval|Information retrieval|Computer science|Web application|Data objects|Database|The Internet
+references:1987272746
+
+
+id:2018312189
+title:Supporting Search-As-You-Type Using SQL in Databases
+year:2013
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:data|keywords|use|answers|residing|interactive|focus|main|type|character|tables|firstn|enable|keyword|character|using|solutions|query|efficiently|develop|real|sql|highperformance|system|techniques|searchasyoutype|millions|dbms|present|support|leverage|commodity|study|achieve|show|updates|experiments|speed|search|database|computer|indexes|computes|native|functionalities|auxiliary|systems|dbms|singlekeyword|fuzzy|performance|mismatches|answers|types|sets|sql|multikeyword|requirement|allowing|increase|onthefly|queries|records|existing|meet|answer|stored|challenge|relational|user|novel|discuss
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:SQL|Data mining|Stored procedure|Relational database|Information retrieval|Computer science|Sargable|Data definition language|Query by Example|Spatial query|Database|Null (SQL)
+references:125979907|164122882|1570051269|1578664299|1974995373|1981585544|1989944922|2016219933|2032327675|2033275219|2054693333|2073540046|2078448162|2089666999|2096076988|2096598900|2097184821|2097776316|2098388305|2098571654|2099370490|2100235843|2105423800|2105436061|2113618143|2115214414|2115215982|2116391761|2117461391|2119057313|2121350579|2121516976|2127675794|2129598390|2131815873|2146842426|2147033904|2150916025|2153987307|2154131897|2158779275|2159454657|2161936973|2162592052|2162833734|2164858177|2165027873|2167847032|2169624745|2171874178
+
+
+id:2024651132
+title:Boosting the Quality of Approximate String Matching by Synonyms
+year:2015
+author information:[
+author name:Jiaheng Lu
+author organization:University of Helsinki
+author id:2108677686|
+author name:Chunbin Lin
+author organization:University of California
+author id:2525081258|
+author name:Wei Wang
+author organization:University of New South Wales
+author id:2488905669|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Xiaokui Xiao
+author organization:Nanyang Technol. University
+author id:2157867657|
+]
+abstract:called|considered|experimental|highconfidence|three|number|realworld|enable|estimate|text|knowledge|order|efficiency|thus|method|work|considering|similar|quality|thereby|size|selection|signaturefiltering|evaluate|theory|algorithms|study|strong|signature|given|logarithmic|datasets|two|matching|expansionbased|strings|sitrees|estimator|computes|verify|stringsimilarity|explore|efficient|approaches|words|many|similarities|matching|framework|requiring|efficiently|first|novel|represent|indicator|joins|proposing|approximate|predefined|space|filters|syntactic|qgrams|synonyms|guarantees|results|combine|searches|making|attractive|boosting|lengthfiltering|strategies|practice|collection|develop|real|article|important|syntacticallydifferent|candidates|measure|improve|present|string|purpose|common|similarity|provides|object|considers|effectiveness|cases|effectively|perform|management|indeed|quantifies|existing|form|comparison|short|online|time|abbreviated|comprehensive
+venue name:ACM Transactions on Database Systems
+venue id:90119964
+venue type:J
+document type:Journal
+study fields:String searching algorithm|Data mining|Joins|Semantic search|Computer science|Theoretical computer science|Approximate string matching|Boosting (machine learning)|String metric|String kernel|Database|Estimator
+references:1527957260|1646278814|1785933978|1821184416|1973001156|1978394996|1988434420|1995437102|2000482994|2025051251|2031250218|2037594241|2044163187|2064379477|2065259291|2072173758|2095368471|2096598900|2097184821|2097776316|2100548092|2105423800|2107079154|2115215982|2121269638|2121516976|2127675794|2133627190|2147033904|2150916025|2152565070|2161936973|2162592052|2163550466|2163993443|2164456230|2167847032
+
+
+id:2033197452
+title:Efficient hosted interpreters on the JVM
+year:2014
+author information:[
+author name:Gülfem Savrun-Yeniçeri
+author organization:University Of California
+author id:2232583234|
+author name:Wei Zhang
+author organization:California University
+author id:2638377632|
+author name:Huahan Zhang
+author organization:University Of California
+author id:2231841062|
+author name:Eric Seckler
+author organization:University Of California
+author id:2222529000|
+author name:Chen Li
+author organization:California University
+author id:2643598436|
+author name:Stefan Brunthaler
+author organization:University of California
+author id:191108769|
+author name:Per Larsen
+author organization:University of California
+author id:2132476862|
+author name:Michael Franz
+author organization:University Of California
+author id:2061291788|
+]
+abstract:exception|compilers|comparatively|interpreters|semantics|modest|offer|identified|poor|complex|respectively|similar|using|preventing|require|resulting|guest|environment|execution|optimizations|affect|hosted|two|machine|enabled|increases|many|socalled|performance|rhino|java|languages|jython|efficient|speedups|custom|instruction|report|jruby|comparable|essential|dispatch|annotations|simple|compilers|hosted|good|interpreters|major|suffered|implemented|host|implement|written|runtime|checks|present|optimized|show|bottlenecks|simpler|targeting|substantially|common|array|negatively|factor|studied|implementation|custom|virtual|expensive|jvm|performance|build
+venue name:ACM Transactions on Architecture and Code Optimization
+venue id:26056741
+venue type:J
+document type:Journal
+study fields:Jython|Programming language|Threaded code|Computer science|Parallel computing|Compiler|Compiled language|Interpreter|Java|Operating system|Semantics|Java virtual machine
+references:32659762|1501401133|1533944741|1598886868|1986991427|1993335798|2010167524|2021246880|2028660699|2031902842|2036933361|2057651724|2062414112|2097971372|2119818055|2149827666|2161646044|2166091242|2167505354|2339802588
+
+
+id:2039532968
+title:Answering queries using materialized views with minimum size
+year:2006
+author information:[
+author name:Rada Chirkova
+author organization:North Carolina State University
+author id:1983031712|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jia Li
+author organization:University of California
+author id:2102964831|
+]
+abstract:optimal|answers|approach|required|without|problem|sizes|depending|using|conjunctive|shape|want|distributed|handle|input|contains|following|returns|experiments|complexity|study|selfjoins|given|least|search|validate|set|problem|explore|viewset|one|workloads|workload|database|store|queries|single|extensive|integration|describe|relations|minimum|data|compact|viewset|space|compute|view|selfjoins|decidability|find|whether|results|described|given|oracle|query|finding|important|techniques|minimumsize|present|instances|show|database|views|amount|queries|also|differ|significantly|applications
+venue name:Very Large Data Bases
+venue id:1133523790
+venue type:C
+document type:Conference
+study fields:Data warehouse|Data integration|Data mining|Conjunctive query|Computer science|View|Oracle|Theoretical computer science|Spatial query|Distributed database|Materialized view|Database
+references:52840101|59450331|187851124|1482520531|1483874328|1538267625|1539154812|1545406293|1558617513|1581805425|1601435884|1604794355|1605549034|1846198342|1952678003|1977786400|1979514837|1991271936|1992673035|1993482412|2005188603|2023195086|2027763082|2028864278|2032339126|2043508455|2056660085|2068901259|2073382728|2076126314|2094208432|2113888164|2114712170|2122816893|2132582487|2134876510|2141824507|2143401113|2152191782|2153329411|2160825121|2171027248|2171492933
+
+
+id:2040818482
+title:Efficient direct search on compressed genomic data
+year:2013
+author information:[
+author name:Xiaochun Yang
+author organization:University
+author id:2109336725|
+author name:Bin Wang
+author organization:University
+author id:2643561327|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jiaying Wang
+author organization:University
+author id:2164916343|
+author name:Xiaohui Xie
+author organization:University of California
+author id:2107390275|
+]
+abstract:explosive|experimental|sequencing|optimization|compressing|reduce|similar|method|index|efficiently|nextgeneration|unresolved|thereby|unique|algorithms|compare|study|differences|characteristic|search|poses|set|question|structures|possible|thorough|data|many|querying|efficiently|cutting|drastically|compressed|describe|novel|data|several|space|reference|time|whether|directly|computational|area|motivated|cost|query|significant|real|done|produced|sequence|techniques|demonstrate|present|accurately|challenges|idea|show|storage|highly|amount|advantage|transmit|perform|requirement|storing|existing|genomic|response|ones|growth
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Data mining|Information retrieval|Computer science|Explosive material|Direct search|Search engine indexing|Response time|Genomics|Data sequences|Data compression|Database|Reference genome
+references:1498437305|1528475610|1964638897|2041824945|2072021854|2096258819|2105583187|2110553099|2112509895|2116041602|2134826720|2137661542|2137892587|2144687917|2144990395|2154931799
+
+
+id:2042077278
+title:Rewriting queries using views in the presence of arithmetic comparisons
+year:2006
+author information:[
+author name:Foto Afrati
+author organization:University of Athens
+author id:2022488008|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Prasenjit Mitra
+author organization:University
+author id:2109624860|
+]
+abstract:equivalent|datalog|considered|tested|arithmetic|variants|without|nondeterministic|problem|finds|property|proof|presence|case|algorithm|using|conjunctive|depends|work|containing|testing|easy|containment|applies|left|comparisons|maximally|semiinterval|subgoal|prove|comparisons|independent|another|giving|two|test|result|containment|mcrs|based|address|efficient|one|solution|right|many|queries|produce|trivial|complete|polynomial|holds|complete|mcr|first|sound|developing|decidability|answering|time|consider|new|test|query|develop|finding|obtaining|dense|interest|homomorphism|carry|show|decidable|investigate|views|cases|orders|limited|rewritings|special|obtains|contained|previous|uses
+venue name:Theoretical Computer Science
+venue id:90727058
+venue type:J
+document type:Journal
+study fields:Query language|Theoretical computer science|Decidability|Time complexity|Special case|Discrete mathematics|Conjunctive query|Combinatorics|Arithmetic|Rewriting|Datalog|Boolean conjunctive query|Mathematics
+references:21125320|59450331|187851124|1480292905|1515943552|1535017960|1581805425|1584916681|1590484727|1604794355|1684286378|1879587332|1971582886|1979514837|2006367173|2012428008|2019721763|2025868887|2027763082|2028864278|2031639195|2051192787|2062550757|2076126314|2094394144|2114883263|2126004201|2132353748|2134483537|2134876510|2152191782|2160770337|2160983447|2161525442|2172549414|2201552871|2295944566
+
+
+id:2043508455
+title:Executing SQL over encrypted data in the database-service-provider model
+year:2002
+author information:[
+author name:Hakan Hacigümüş
+author organization:University of California
+author id:2182302550|
+author name:Bala Iyer
+author organization:IBM Silicon Valley Lab., San Jose, CA
+author id:2570465896|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Sharad Mehrotra
+author organization:California University
+author id:2201039448|
+]
+abstract:introduces|software|focus|anywhere|approach|without|protected|advances|context|model|specifically|issue|database|execute|examples|validating|even|outsiders|processing|much|site|access|privacy|enterprise|explores|experiments|protection|two|long|electronic|power|minimize|include|address|explore|emergence|privacythere|services|data|possible|rapid|queries|performed|computation|site|software|framework|results|stored|cannot|fueled|decrypt|issues|mail|data|internet|several|networking|main|decryption|thefts|second|split|computing|challenge|needs|query|presented|successful|users|sql|technologies|important|techniques|retrieve|serviceprovider|internet|algebraic|privacy|storage|disaster|commercially|general|paper|provides|trusted|client|viable|owner|process|also|encrypted|service|assured|services|strategy|remainder|providers
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:SQL|Data mining|World Wide Web|Computer science|Software as a service|Encryption|Service provider|Business intelligence|Information privacy|Database encryption|Database|The Internet
+references:1527701244|1784244685|1996360405|2026896584|2107628111|2147929033|2171027248
+
+
+id:2044163187
+title:String similarity measures and joins with synonyms
+year:2013
+author information:[
+author name:Jiaheng Lu
+author organization:Renmin University
+author id:2108677686|
+author name:Chunbin Lin
+author organization:Renmin University of China
+author id:2525081258|
+author name:Wei Wang
+author organization:University of New South Wales
+author id:2488905669|
+author name:Chen Li
+author organization:University of California—Irvine
+author id:2589970869|
+author name:Haiyong Wang
+author organization:Renmin University of China
+author id:2228579276|
+]
+abstract:called|considered|empirical|highconfidence|number|realworld|measures|enable|text|filtering|knowledge|using|efficiency|thus|method|optimality|work|considering|synonyms|similar|indicators|propose|quality|thereby|size|selection|evaluate|theory|algorithms|study|strong|signature|given|logarithmic|two|matching|expansionbased|strings|estimator|computes|verify|computationally|explore|indexing|efficient|words|combines|many||similarities|matching|framework|requiring|efficiently|syntactically|approach|first|novel|represent|joins|approximate|predefined|space|syntactic|qgrams|different|synonyms|guarantees|scenarios|results|making|attractive|boosting|practice|collection|real|develop|important|candidates|measure|improve|present|string|purpose|common|paper|similarity|provides|object|considers|effectiveness|cases|effectively|length|filters|indeed|quantifies|structure|expensive|efficiency|existing|form|comparison|short|online|time
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Semantic similarity|String searching algorithm|Data mining|Joins|Computer science|Search engine indexing|Approximate string matching|String metric|String kernel|Nearest neighbor search|Database
+references:112827926|1646278814|1785933978|1973001156|1978394996|1988434420|1995437102|2000482994|2025051251|2037594241|2064379477|2065259291|2072173758|2095368471|2096598900|2097184821|2097776316|2099370490|2100548092|2105423800|2107079154|2115214414|2115215982|2117703483|2121269638|2121516976|2127675794|2133627190|2147033904|2150916025|2152565070|2161936973|2162592052|2163993443|2164456230|2167847032
+
+
+id:2049236082
+title:Adaptive-sampling algorithms for answering aggregation queries on Web sites
+year:2008
+author information:[
+author name:Foto N. Afrati
+author organization:Computer Science Division, NTUA, Athens, Greece
+author id:2022488008|
+author name:Paraskevas V. Lekeas
+author organization:University of Crete
+author id:2290602185|
+author name:Chen Li
+author organization:UC irvine
+author id:2589970869|
+]
+abstract:experimental|users|adaptively|path|structure|price|estimate|easily|based|using|large|require|samples|quality|node|books|allocate|web|following|exact|partial|browse|average|study|statistical|many|based|computationally|resources|sets|organizes|leaf|queries|answer|corresponds|sampling|techniques|databases|data|use|sites|retrieved|compute|pages|hierarchical|different|guarantees|business|hierarchy|query|often|collection|real|synthetic|proposed|adaptivesampling|techniques|submit|validates|aggregation|webaccess|amazoncom|root|class|amount|sample|limited|resources|data|data|expensive|storage|nodes|approximately|corresponding|due|publish|applications
+venue name:Data and Knowledge Engineering
+venue id:1168542559
+venue type:C
+document type:Conference
+study fields:Publication|Data mining|Information retrieval|Computer science|Adaptive sampling|Tree (data structure)|Sampling (statistics)|Hierarchy|Synthetic data sets|Database|Web site|The Internet
+references:1564015926|1603527960|1604629752|1968829657|1998783890|2000154402|2080566084|2114944618|2124350652|2131006463|2169982181|2296677182
+
+
+id:2049599857
+title:Using views to generate efficient evaluation plans for queries
+year:2007
+author information:[
+author name:Foto N. Afrati
+author organization:National Technical University of Athens
+author id:2022488008|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jeffrey D. Ullman
+author organization:University
+author id:2289364316|
+]
+abstract:equivalent|query|optimal|counts|dropped|scalability|approach|without|number|query|problem|sizes|would|terms|thus|assumption|model|plan|algorithm|give|using|efficiency|goal|plans|intermediate|study|infinite|answer|experiments|search|openworld|performance|include|efficient|rewritings|abstract|possible|logical|answer|plan|subgoals|attributes|relations|minimum|first|small|standard|good|space|compute|rewriting|describing|quite|consider|different|generate|optimizers|dropping|query|guaranteed|develop|finding|take|used|final|retain|sources|rather|materialized|show|careful|generating|relations|views|common|missing|physical|views|allows|cost|closedworld|yet|also|rewritings|better|variable|subgoals|latter|subset|base
+venue name:Journal of Computer and System Sciences
+venue id:141020589
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|As is|Algorithm|Theoretical computer science|Rewriting|Predicate (grammar)|Mathematics|Scalability
+references:21125320|187851124|1480292905|1535017960|1565494300|1581805425|1604794355|1684286378|1879587332|1979514837|2027763082|2028222220|2045141511|2070553391|2094394144|2097989803|2126004201|2132353748|2134876510|2152191782|2153329411|2160770337|2160983447|2172549414|2201552871|2295944566
+
+
+id:2052720399
+title:Efficient instant-fuzzy search with proximity ranking
+year:2014
+author information:[
+author name:Inci Cetindil
+author organization:University of California
+author id:1577997|
+author name:Jamshid Esmaelnezhad
+author organization:University of California
+author id:2230597623|
+author name:Taewoo Kim
+author organization:University of California
+author id:2637752133|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:milliseconds|functions|improves|highspeed|complexities|answers|experimental|approach|finds|limitations|algorithm|similar|large|instant|index|propose|relevance|quality|informationretrieval|system|throughput|study|achieve|overcome|focuses|instant|search|emerging|answers|keywords|sets|within|efficient|thorough|many|integrate|meet|efficiently|cannot|ranking|information|phrases|naive|scores|keywords|data|main|good|space|compute|instantly|high|solution|consider|solutions|computational|needs|tradeoffs|need|solutions|query|adapt|instantfuzzy|conducted|develop|real|finding|experiences|higher|relevant|achieving|proximity|techniques|paradigm|records|earlytermination|show|computing|search|common|studies|ranked|types|answered|also|requirement|characterbycharacter|existing|segmenting|response|assuming|challenge|incrementalcomputation|fuzzy|time|user
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Query optimization|Query throughput|Data mining|Web search query|Query language|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|Ranking (information retrieval)|Database
+references:131411689|1570051269|1597602895|1982314207|1982889956|2019168472|2070507812|2073188425|2073540046|2089326542|2089666999|2093270409|2098146716|2098571654|2107293766|2109056561|2113618948|2129598390|2130032538|2134206624|2135050452|2146842426|2151361488|2153987307|2155512447|2158779275|2162432120|2162592052|2165027873|2166001746|2293959011|2404900000
+
+
+id:2073382728
+title:Materializing views with minimal size to answer queries
+year:2003
+author information:[
+author name:Rada Chirkova
+author organization:North Carolina State University
+author id:1983031712|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:optimal|upper|answers|required|without|problem|depending|dynamicprogramming|algorithm|give|conjunctive|viewsets|want|distributed|contains|size|following|complexity|study|given|least|search|heuristics|set|problem|explore|viewset|efficient|one|workloads|workload|database|store|many|queries|integration|cannot|describe|discuss|data|compact|minimalsize|viewset|space|compute|selfjoins|decidability|solution|whether|consider|results|given|need|finding|np|important|disjunctive|complexity|show|database|minimal|views|paper|make|views|amount|queries|bound|differ|better|significantly|applications
+venue name:Symposium on Principles of Database Systems
+venue id:1184151122
+venue type:C
+document type:Conference
+study fields:Data integration|Data warehouse|Byte|Conjunctive query|Upper and lower bounds|Computer science|Decidability|Theoretical computer science|Heuristics|Distributed database
+references:52840101|59450331|187851124|1482520531|1483874328|1538267625|1545406293|1558617513|1581805425|1604794355|1605549034|1846198342|1952678003|1977786400|1979514837|1992673035|1992810975|2023195086|2027763082|2043508455|2056660085|2068901259|2094208432|2113888164|2114712170|2122816893|2132582487|2134876510|2141824507|2143401113|2152191782|2153329411|2171027248|2171492933
+
+
+id:2073540046
+title:Efficient type-ahead search on relational data: a TASTIER approach
+year:2009
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Shengyue Ji
+author organization:University of California—Irvine
+author id:2119737658|
+author name:Chen Li
+author organization:University of California—Irvine
+author id:2589970869|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+]
+abstract:pruning|irrelevant|called|bring|answers|interactive|experimental|approach|evaluation|finds|knowledge|databases|efficiency|typeahead|large|method|index|require|efficiently|propose|devise|grouping|system|tastier|milliseconds|left|tuples|algorithms|achieve|often|instant|search|systems|predicting|modifying|answers|keywords|sets|within|efficient|user|keywordsearch|structures|database|thorough|queries|onthefly|answer|efficiently|complete|novel|tryandsee|paradigm|data|use|feel|main|compute|high|amounts|keyword|new|query|conducted|develop|real|finding|users|relevant|practicality|proposed|gratification|improve|techniques|demonstrate|joining|submit|technique|speed|paper|supporting|highly|types|partitionbased|answered|limited|multiple|also|performance|tastier|challenge|relational|user|existing
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Data mining|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|View|Search-oriented architecture|Query by Example|Database
+references:1539585011|1570051269|1592186521|1967642681|1973828215|1981585544|1981732427|1989944922|2010595692|2070232376|2088039650|2088499566|2093976733|2096076988|2098388305|2098656774|2105819430|2109220922|2113112851|2115221525|2117461391|2121350579|2128034913|2146842426|2148942721|2153987307|2154161546|2158779275|2162592052|2162833734|2165027873|2169624745|2171874178|2293959011
+
+
+id:2078752758
+title:Answering queries with useful bindings
+year:2001
+author information:[
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Edward Chang
+author organization:University of California
+author id:2108840372|
+]
+abstract:decide|source|translated|construct|program|descriptions|accessing|query|optimization|whether|diverse|presence|obtain|queryplanning|including|test|thus|query|develop|propose|containment|offquery|solve|useful|problems|algorithms|access|sources|informationintegration|choose|specified|recursive|datalog|may|limited|efficient|one|patterns|restrictive|queries|framework|capabilities|answer|maximum|information|program
+venue name:ACM Transactions on Database Systems
+venue id:90119964
+venue type:J
+document type:Journal
+study fields:Query optimization|Web search query|Data mining|Query language|RDF query language|Query expansion|Information retrieval|Computer science|Sargable|Web query classification|Spatial query|Database
+references:21125320|187851124|1480742455|1541672808|1573537871|1596983019|1879587332|1910521678|1979514837|1992810975|2025868887|2051228475|2056660085|2060579849|2070553391|2076108709|2081973669|2084761702|2087898817|2094394144|2111742782|2116879341|2117849706|2119409601|2126004201|2128350269|2132063146|2134876510|2141824507|2147100344|2160983447|2161787409|2168605051|2172549414|2201552871|2295944566
+
+
+id:2095661767
+title:SKIF-P: a point-based indexing and ranking of web documents for spatial-keyword search
+year:2012
+author information:[
+author name:Ali Khodaei
+author organization:University of Southern California
+author id:1988171951|
+author name:Cyrus Shahabi
+author organization:University of Southern
+author id:240820708|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:seamlessly|results|called|variants|type|number|terms|poor|four|rank|text|spatial|based|separately|index|handle|accurately|easy|propose|relevance|simultaneously|inefficient|algorithms|given|pages|two|search|tfidf|web|inverted|pointbased|engines|indexing|efficient|topk|searches|one|spatialkeyword|structures|textual|inaccurate|integrate|accuracy|exists|cannot|information|commercial|manner|keywords|data|documents|use|research|space|either|retrieves|find|locationbased|combination|new|significant|develop|relevant|ranks|hybrid|measure|proposed|textually|techniques|file|accurately|distance|scores|aspects|points|interest|webpages|outperform|perform|verified|indexed|approaches|structure|existing|spatialkeyword|performance|spatially|locations|interested|user|existing
+venue name:Geoinformatica
+venue id:104274287
+venue type:J
+document type:Journal
+study fields:Inverted index|Data mining|Web search query|Information retrieval|Semantic search|Web page|Phrase search|Computer science|Search engine indexing|Ranking (information retrieval)|Index term
+references:1483240827|1521219253|1532325895|1660390307|1977841655|1978394996|1979987551|1995074666|2000132155|2000586878|2006307108|2071701840|2073083495|2074281556|2100156887|2109028086|2135503940|2138662031|2140048308|2151345349|2158051918|2160192435|2168053474|2169307587|2170344111
+
+
+id:2101798015
+title:Improving read mapping using additional prefix grams
+year:2014
+author information:[
+author name:Jongik Kim
+author organization:Seoul National University
+author id:2135370255|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Xiaohui Xie
+author organization:University of California
+author id:2107390275|
+]
+abstract:popular|rapid|binding|mapping|sites|reference|rnaseq|given|mapping|read|cost|nextgeneration|read|important|estimation|relatively|identifying|production|optimized|abundance|bases|candidate|transcript|top|low|bowtie|sequencing|repeat|applications|enables|billions|discovering|one|reads|also|many|instead|genome|sequencers|chipseq|step|locations|first|return|applications
+venue name:BMC Bioinformatics
+venue id:19032547
+venue type:J
+document type:Journal
+study fields:Genome|Computer science|Prefix|DNA sequencing|Bioinformatics|Reference genome
+references:2043481183|2097341408|2100548092|2103441770|2115232436|2121516976|2129714591|2133687564|2140154634|2150916025|2156715753|2907919037
+
+
+id:2107293766
+title:Space-Constrained Gram-Based Indexing for Efficient Approximate String Search
+year:2009
+author information:[
+author name:Alexander Behm
+author organization:University Of California
+author id:1993931556|
+author name:Shengyue Ji
+author organization:University Of California
+author id:2119737658|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jiaheng Lu
+author organization:
+author id:2108677686|
+]
+abstract:grambased|discard|reductions|approach|offer|collections|property|reduce|based|large|answering|index|propose|exist|size|provide|even|adopt|unique|analyze|compression|wisely|algorithms|study|experiments|choosing|two|tradeoff|orthogonal|many|compared|processing|performance|indexing|problem|sets|one|gram|structures|invertedlist|discarding|combining|data|queries|opportunities|lists|extensive|answer|exploit|novel|techniques|data|use|approximate|tolerable|deciding|retaining|indexes|spell|given|new|query|develop|real|surprising|important|combine|improving|achieving|techniques|lists|improve|solve|effect|correlated|errors|string|show|inconsistencies|collection|amount|outperform|original|queries|interesting|approaches|structure|existing|performance|well|user|applications
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:String searching algorithm|Query optimization|Web search query|Data mining|Query language|Query expansion|Computer science|Search engine indexing|Web query classification|Data compression|Database
+references:125979907|1578664299|1974995373|1984351882|1993831977|2001496424|2022292926|2041851430|2075833184|2096598900|2097184821|2097776316|2097880962|2101344335|2105423800|2115215982|2115613939|2119057313|2121516976|2122962290|2123020735|2125203709|2127675794|2128777897|2132418474|2138662031|2147717514|2161936973|2162102353|2167847032
+
+
+id:2108061273
+title:Achieving Communication Efficiency through Push-Pull Partitioning of Semantic Spaces to Disseminate Dynamic Information
+year:2006
+author information:[
+author name:A. Bagchi
+author organization:Dept. of Comput. Sci.  Eng., IIT
+author id:2104838271|
+author name:A. Chaudhary
+author organization:Notre Dame University
+author id:2167426889|
+author name:M.T. Goodrich
+author organization:IEEE
+author id:2135853928|
+author name:Chen Li
+author organization:IEEE
+author id:2589970869|
+author name:M. Shmueli-Scheuer
+author organization:University of California
+author id:2973917553|
+]
+abstract:suffer|case|algorithm|give|made|handle|propose|heavy|attributes|adopting|push|attribute|server|semantic|clients|regions|optimalcost|methods|experiments|disseminate|pushpull|gerrymandering|heuristics|decisions|many|validate|pull|minimize|particularly|mitigate|sets|efficient|workloads|queries|call|single|help|evolve|extensive|powerful|provably|ask|information|space|data|simple|caching|space|time|contact|dynamic|communication|different|programming|needs|individual|need|notifying|solutions|query|real|synthetic|gerrymandering|present|technical|challenges|idea|updates|database|regions|responsible|client|idea|cost|multiple|costs|data|various|partitioning|family|applications
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Wireless network|Dynamic programming|Data mining|Computer science|CPU cache|Dissemination|Heuristics|Semantics|Web server|Client–server model|Distributed computing
+references:51518710|199677694|1540805497|1563590781|1590824386|1863417858|1997687389|2001414591|2011230078|2014748080|2041881718|2046209754|2110849300|2120108467|2128350269|2138350977|2149921886|2153730236|2157072041|2168354847|2169576055|2171903035|2918864124
+
+
+id:2108441283
+title:Efficient interpreter optimizations for the JVM
+year:2013
+author information:[
+author name:Gülfem Savrun-Yeniçeri
+author organization:University Of California
+author id:2232583234|
+author name:Wei Zhang
+author organization:California University
+author id:2638377632|
+author name:Huahan Zhang
+author organization:University Of California
+author id:2231841062|
+author name:Chen Li
+author organization:California University
+author id:2643598436|
+author name:Stefan Brunthaler
+author organization:University of California
+author id:191108769|
+author name:Per Larsen
+author organization:University of California
+author id:2132476862|
+author name:Michael Franz
+author organization:University Of California
+author id:2061291788|
+]
+abstract:exception|interpreters|semantics|identified|poor|enable|easily|resort|respectively|similar|preventing|interpreter|substantial|instead|provide|execution|optimizations|bytecode|accessible|affect|unusually|implementers|matter|two|increases|popular|rhino|performance|java|jython|efficient|implementing|speedups|many|expect|machine|instruction|effort|report|attained|comparable|essential|jvm|annotationbased|dispatch|language|hosted|interpreters|written|programming|runtime|boosts|present|virtual|emits|optimized|show|bottlenecks|interface|optimizations|targeting|common|due|array|negatively|dictate|implementers|compiler|factor|hours|studied|custom|implementation|target|expensive|jvm|performance
+venue name:Principles and Practice of Programming in Java
+venue id:1124751898
+venue type:C
+document type:Conference
+study fields:Jython|Programming language|Threaded code|Computer science|Compiler|Compiled language|Java bytecode|Interpreter|Java|Semantics|Operating system
+references:32659762|1501401133|1533944741|1598886868|1986991427|1993335798|2010167524|2021246880|2031902842|2036933361|2057651724|2062414112|2097971372|2119818055|2149827666|2161646044|2339802588
+
+
+id:2109056561
+title:Supporting efficient top-k queries in type-ahead search
+year:2012
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Jiannan Wang
+author organization:Tsinghua University
+author id:2103786759|
+author name:Chen Li
+author organization:UC-Irvine, Irvine, USA
+author id:2589970869|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+]
+abstract:pruning|answers|highefficiency|experimental|query|using|typeahead|large|want|efficiently|extend|sorted|rely|milliseconds|letter|adopting|must|completely|algorithms|study|access|materialization|two|literature|search|answers|sets|within|topk|efficient|k|onthefly|queries|listaccess|answer|efficiently|report|novel|access|minor|keywords|data|several|main|typeahead|find|keyword|results|new|query|develop|real|list|proposed|techniques|basic|present|support|errors|instead|paradigm|challenges|show|best|random|paper|search|inventing|fuzzy|allows|types|answered|requirement|heavily|existing|challenge|user
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data mining|Scratch|Data set|Information retrieval|Computer science|Fuzzy logic|Approximate string matching|Random access
+references:1570051269|1578664299|1967642681|1974995373|1981732427|2003251288|2009688537|2010595692|2018312189|2073540046|2100548092|2108528229|2108932068|2121516976|2129750215|2134206624|2146842426|2153987307|2158779275|2158852037|2161936973|2162592052|2165027873|2167847032|2168960477|2293959011
+
+
+id:2112509895
+title:Human genomes as email attachments
+year:2009
+author information:[
+author name:Scott Christley
+author organization:University Of California
+author id:2304088577|
+author name:Yiming Lu
+author organization:University of California
+author id:2100480165|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Xiaohui Xie
+author organization:University of California
+author id:2107390275|
+]
+abstract:standard|small|becoming|data|advanced|use|available|generated|online|implemented|consider|bioinformatics|inherent|combination|reduce|databases|using|large|need|made|researchers|format|difficult|lossless|sharing|sent|sequence|techniques|rate|obtained|compression|algorithms|part|datasets|consuming|public|continues|programs|email|everexpanding|allows|amount|james|efficient|apply|data|enough|increase|structure|generic|genome|genomic|series|manipulating|mere|time|freely
+venue name:Bioinformatics
+venue id:52395412
+venue type:J
+document type:Journal
+study fields:Genome|Data mining|Email attachment|World Wide Web|Data format|Computer science|Upload|Copying|Data sequences|Bioinformatics|Human genome|Lossless compression
+references:2145058650|2147492358
+
+
+id:2115405571
+title:Efficient fuzzy type-ahead search in TASTIER
+year:2010
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Shengyue Ji
+author organization:Department of Computer Science, UC Irvine, CA 92697-3435, USA
+author id:2119737658|
+author name:Chen Li
+author organization:UC irvine
+author id:2589970869|
+author name:Jiannan Wang
+author organization:Tsinghua University
+author id:2103786759|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+]
+abstract:fuzzysearch|directory|called|answers|type|query|knowledge|typeahead|large|received|exact|looking|study|systems|tastier|search|feature|systems|efficient|positive|data|many|onthefly|people|entities|basis|describe|tastier|friendly|several|project|used|developed|research|amounts|find|informationaccess|keyword|new|query|feedbacks|users|important|techniques|daily|demonstrate|support|allow|paradigm|records|show|deployed|scale|representation|overwhelmingly|paper|design|fuzzy|interfaces|limited|implementation|supporting|indeed|due|online
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Data mining|Search engine|Information retrieval|Computer science|Directory|Keyword search|Fuzzy logic|Server|Fuzzy set|Approximate string matching|Database|The Internet
+references:1570051269|2073540046|2098656774|2146842426|2153987307|2158779275|2162592052
+
+
+id:2116879341
+title:Optimizing Large Join Queries in Mediation Systems
+year:1999
+author information:[
+author name:Ramana Yerneni
+author organization:University
+author id:2506869490|
+author name:Chen Li
+author organization:University
+author id:2589970869|
+author name:Jeffrey D. Ullman
+author organization:University
+author id:2289364316|
+author name:Hector Garcia-Molina
+author organization:University
+author id:237419955|
+]
+abstract:feasible|optimal|attributebinding|answers|sequencing|problem|translations|diverse|model|adornments|case|algorithm|based|margin|conjunctive|underlying||plans|integration|plans|algorithms|study|systems|mediators|another|experiments|focuses|two|misses|sending|mediation|sources|linear|efficient|one|scheme|queries|report|first|data|generates|use|simple|translated|source|heterogeneous|second|major|greedy|feasible|consider|results|need|query|develop|finding|posed|sequence|involved|back|produces|worst|mediator|sources|show|getting|algorithms|costs|capabilities|cost|limited|bound|also|performance|partitioning|strategy
+venue name:International Conference on Database Theory
+venue id:1165285842
+venue type:C
+document type:Conference
+study fields:Data integration|Information system|Data mining|Information integration|Conjunctive query|Database query|Computer science|Theoretical computer science|Vertex cover|Mediation (Marxist theory and media studies)
+references:166430344|1486683419|1489525677|1532302849|1542571610|1556146035|1573537871|1577357121|1804205637|1879587332|1968541019|1969085493|1978220611|1981925480|1991640369|1992810975|2011039300|2023195086|2051228475|2053913299|2059844260|2066623874|2079329679|2081579241|2134876510|2141824507|2147100344|2153329411|2159888038|2170918251|2172549414
+
+
+id:2120436863
+title:Data exchange in the presence of arithmetic comparisons
+year:2008
+author information:[
+author name:Foto Afrati
+author organization:University of Athens
+author id:2022488008|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Vassia Pavlaki
+author organization:National Technical University of Athens
+author id:1963795488|
+]
+abstract:called|answers|arithmetic|constraints|consist|problem|schemas|presence|defined|case|sourcetotarget|universal|conjunctive|work|dependencies|extend|even|comparisons|returns|conditions|schema|conpcomplete|complexity|inequalities|study|deal|prove|comparisons|two|chase|result|satisfies|acchase|structured|relationship|takes|answers|unions|languages|solution|involve|procedure|right|succinct|queries|answer|polynomial|exploit|deac|certain|novel|constraints|instance|data|materialize|existence|used|mainly|syntactic|expressive|shown|solution|answering|time|emphasis|feasible|consider|different|add|settings|new|need|solutions|query|tree|capture|posed|np|transforming|tool|trying|sequence|cqacs|produces|exchange|settings|belong|cqacs|classes|concept|show|investigate|necessarily|general|computing|define|class|universal|cases|identify|introduce|queries|schema|data|instead|indeed|target|short|suitable|latter
+venue name:Extending Database Technology
+venue id:1132593990
+venue type:C
+document type:Conference
+study fields:Data mining|Query language|Data exchange|Polynomial|Computer science|Theoretical computer science|Time complexity|Schema (psychology)|Query optimization|Conjunctive query|Arithmetic|Database|Boolean conjunctive query
+references:1481010204|1518655948|1527866240|1556076816|1584916681|1599313152|1607497598|1966294080|1969053136|1979514837|1985581502|1990391007|1992673035|1998152264|2004698529|2007628496|2016785840|2028222220|2028864278|2031639195|2031810891|2042077278|2059693475|2076612026|2098213459|2102729564|2114883263|2130133338|2142864156|2153531471|2159668267|2159686758|2159793945|2160983447|2163009148|2169602474|2171094216|2913665964
+
+
+id:2123020735
+title:Cost-based variable-length-gram selection for string collections to support approximate queries efficiently
+year:2008
+author information:[
+author name:Xiaochun Yang
+author organization:University
+author id:2109336725|
+author name:Bin Wang
+author organization:University
+author id:2643561327|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:called|improves|approximate|substrings|approach|signatures|number|problem|record|grams|case|algorithm|order|based|fixedlength|similar|using|carefully|lower|index|propose|exist|dictionary|variablelength|web|analyze|algorithms|shared|study|automatically|experiments|fundamental|two|strings|viewed|costbased|relationship|performance|highquality|sets|gram|workload|many|queries|several|techniques|first|data|use|approximate|paper|used|tight|good|deciding|dynamic|programming|spell|query|collection|real|chosen|important|proposed|improve|errors|string|concept|show|structures|best|inconsistencies|collection|computing|common|since|recently|queries|bound|affects|also|improvement|ultimately|structure|special|existing|performance|build|quantitative|arises|well|achieved|requencies|applications
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Data mining|Dynamic programming|Data set|Substring|Computer science|Upper and lower bounds|Approximate string matching|Gram|Database|Special case
+references:125979907|1578664299|1984351882|1993831977|2001496424|2007682403|2041851430|2075833184|2096598900|2097776316|2097880962|2105423800|2107061999|2119057313|2121516976|2127675794|2161936973|2162102353|2167439683|2167847032
+
+
+id:2124350652
+title:Answering aggregation queries on hierarchical web sites using adaptive sampling
+year:2005
+author information:[
+author name:Foto N. Afrati
+author organization:NTUA, Athens, Greece
+author id:2022488008|
+author name:Paraskevas V. Lekeas
+author organization:NTUA, Athens, Greece
+author id:2290602185|
+author name:Chen Li
+author organization:UC irvine
+author id:2589970869|
+]
+abstract:study|using|aggregation|sites|queries|adaptive|answer|web|hierarchical|sampling
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data mining|Information retrieval|Computer science|Adaptive sampling
+references:1564015926|1603527960|1968829657|2000154402|2080566084|2169982181|2296677182
+
+
+id:2129750215
+title:Efficient fuzzy full-text type-ahead search
+year:2011
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Shengyue Ji
+author organization:University Of California
+author id:2119737658|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+]
+abstract:called|prototypes|trend|answers|interactive|invoke|users|approach|query|presence|recent|knowledge|order|using|large|typeahead|received|underlying|toward|system|even|milliseconds|left|algorithms|study|computed|achieve|one|keystroke|speed|search|systems|cached|mismatches|answers|keywords|problem|explore|efficient|within|could|data|queries|people|appear|places|framework|traditional|information|complete|irvine|return|first|novel|techniques|tryandsee|data|keywords|minor|use|friendly|several|feel|used|multikeyword|research|uc|regularly|high|amounts|informationaccess|different|results|new|searches|need|query|often|develop|real|finding|users|extends|techniques|typeahead|support|solving|challenges|incrementalsearch|deployed|interface|previously|since|singlekeyword|supporting|fuzzy|allows|types|interfaces|process|limited|autocomplete|allowing|submits|efficiency|due|various|well|information|step|errors|user
+venue name:Very Large Data Bases
+venue id:1133523790
+venue type:C
+document type:Conference
+study fields:Information system|Web search query|Data mining|Query expansion|Computer science|Fuzzy logic|Full text search|Keystroke logging|Web query classification|Autocomplete|Database
+references:125979907|1570051269|1578664299|1967642681|1970709149|1973828215|1974995373|1981732427|2010595692|2035814200|2052279667|2061711353|2073540046|2075809648|2088039650|2088499566|2096076988|2096598900|2097184821|2097776316|2098388305|2098571654|2098656774|2099015201|2099370490|2100235843|2104150336|2105423800|2105436061|2105819430|2110459974|2113112851|2113618143|2115215982|2115221525|2119057313|2121516976|2123020735|2126391456|2127675794|2128034913|2129598390|2131815873|2133585661|2136716899|2139877708|2146842426|2147033904|2148942721|2150916025|2153987307|2154131897|2154161546|2158779275|2161936973|2162592052|2162833734|2165027873|2167847032|2169624745|2170766963|2171874178|2171972576|2293959011
+
+
+id:2130825214
+title:Answering approximate string queries on large data sets using external memory
+year:2011
+author information:[
+author name:Alexander Behm
+author organization:University Of California
+author id:1993931556|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+]
+abstract:diskbased|construct|treebased|setting|accessing|record|recent|algorithm|similar|work|answering|index|efficiently|devise|matches|bedtree|algorithms|study|datasets|experiments|adaptive|balances|strings|verify|many|could|data|many|queries|lists|answer|efficiently|space|novel|disk|data|approximate|find|indexes|buffer|inverted|given|new|studying|inmemory|occur|solutions|query|adapting|collection|develop|real|important|effects|techniques|focused|systematically|errors|string|investigate|retrieving|candidate|paper|indexes|physical|cleaning|costs|outperform|limited|string|storing|layout|existing|well|significantly|simply|applications
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Inverted index|Approximation algorithm|Data mining|Record linkage|Data set|Query string|Information retrieval|Computer science|Adaptive algorithm|Database|Maintenance engineering|Auxiliary memory
+references:1540616176|1974995373|2001496424|2032327675|2043481183|2049804814|2096598900|2097776316|2107293766|2108235229|2121516976|2127675794|2137339254|2138662031|2140453381|2142009257|2148148676|2150916025|2161936973|2167847032
+
+
+id:2135503940
+title:Processing Spatial-Keyword (SK) Queries in Geographic Information Retrieval (GIR) Systems
+year:2007
+author information:[
+author name:R. Hariharan
+author organization:California University
+author id:2133343013|
+author name:B. Hore
+author organization:University of California
+author id:2672405706|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:S. Mehrotra
+author organization:California University
+author id:2201039448|
+]
+abstract:numerous|systems|focus|orange|short|hundreds|spatial|issued|recent|shelters|databases|geographic|efficiency|large|efficiently|thousands|propose|system|processing|building|systems|one|experiments|example|lot|search|top|variety|systems|sk|national|crime|key|performance|enabling|contain|address|decision|indexing|efficient|strategies|spatialkeyword|many|queries|textual|lead|framework|entities|information|facilities|databases|techniques|retrieval|medical|invaluable|others|available|emergency|generated|repositories|answering|southern|challenge|earthquakeprone|significant|publicly|zones|gis|gir|support|aspects|show|information|disaster|paper|interest|engine|process|built|also|improvement|existing|contained|descriptions|refer|infrastructure|websearch|find|locationbased|applications
+venue name:Statistical and Scientific Database Management
+venue id:1156109491
+venue type:C
+document type:Conference
+study fields:Data mining|Geographic information system|Search engine|Web page|Information retrieval|Computer science|Decision support system|Geographic information retrieval|Search engine indexing|Database|Crime analysis|The Internet
+references:8870360|120118581|1483240827|1496059925|1521219253|1545785301|1885702489|1979977067|2059282218|2073083495|2119159732|2169307587
+
+
+id:2136716899
+title:SEPIA: estimating selectivities of approximate string predicates in large Databases
+year:2008
+author information:[
+author name:Liang Jin
+author organization:University of California
+author id:2437892641|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Rares Vernica
+author organization:University of California
+author id:2951711146|
+]
+abstract:query|called|bag|construct|number|problem|optimization||builds|estimate|similar|based|give|using|edit|probability|accurately|extend|estimation|following|adopting|study|given|experiments|global|nonuniform|distribution|telephone|strings|many|emerging|estimating|problem|sets|queries|fraction|p|q|extensive|ask|novel|discuss|selectivity|data|metric|use|approximate|alleviate|needs|obtain|given|including|need|query|develop|real|histogram|predicates|functions|proximity|techniques|solve|effect|support|errors|name|full|string|distance|records|challenges|show|technique|constructs|database|similarity|satisfy|histogram|groups|specification|selectivities|structure|preselected|condition|applications
+venue name:Very Large Data Bases
+venue id:1133523790
+venue type:C
+document type:Conference
+study fields:Edit distance|String searching algorithm|Data mining|Histogram|Query string|Computer science|Theoretical computer science|String (computer science)|Query optimization|Algorithm|Approximate string matching|String metric|Database
+references:119813091|1480794755|1489255272|1559390933|1589269155|1822348499|1905517305|1984629602|2001496424|2011632873|2018700273|2021283827|2024770506|2038044292|2041851430|2050071106|2055843181|2065528935|2067566391|2075833184|2078321579|2097359597|2097880962|2105423800|2109430544|2110449999|2112064847|2112912553|2116544254|2132560950|2151203234|2157092487|2161936973|2162102353|2167439683|2171903035
+
+
+id:2147320921
+title:Quality-driven approximate methods for integrating GIS data
+year:2005
+author information:[
+author name:Ramaswamy Hariharan
+author organization:University of California
+author id:2133343013|
+author name:Michal Shmueli-Scheuer
+author organization:University of California
+author id:2973820380|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Sharad Mehrotra
+author organization:California University
+author id:2201039448|
+]
+abstract:objects|answers|orange|maximize|rank|refinement|traversal|spatial|geographic|based|using|made|distributed|analysis|junior|quality|schools|asks|evaluate|accessible|specifies|algorithms|study|access|progressively|methods|experiments|quality|county|datasets|local|example|matching|junior|partition|national|many|sources|computationally|keywords|efficient|within|queries|answer|information|techniques|federal|data|keywords|approximate|heterogeneous|answering|limit|geodatagov|keywordbased|different|keeps|given|need|query|widely|conducted|develop|gis|relevant|efforts|improving|proposed|clearinghouses|retrieve|region|parameters|private|sources|analysis|provided|committee|county|content|disaster|database|paper|geospatial|spacepartitioning|coverage|data|differ|expensive|approximately|infrastructure|various|organizations|deeper|time|strategy|objects
+venue name:International Journal of Geographical Information Science
+venue id:111872859
+venue type:J
+document type:Journal
+study fields:Geospatial analysis|Data mining|Tree traversal|Computer science|Emergency management|Time limit|Enterprise GIS|Local analysis|Database
+references:8870360|1539585011|1588246153|1638026557|1833785989|2072540320|2074429597|2104760434|2105786208|2118269922|2121350579|2148942721
+
+
+id:2151930506
+title:Efficient parallel set-similarity joins using MapReduce
+year:2010
+author information:[
+author name:Rares Vernica
+author organization:University of California
+author id:2951711146|
+author name:Michael J. Carey
+author organization:University of California-Irvine
+author id:2157114695|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:joins|scaleup|data|use|main|approach|mapreduce|output|fit|setsimilarity|balance|rs|join|results|case|synthetically|order|based|using|still|need|carefully|solutions|real|finegrained|propose|node|take|input|proposed|even|replication|evaluate|framework|algorithms|study|memory|increased|records|experiments|endtoend|show|across|partition|paper|parallel|popular|minimize|amount|set|selfjoin|joined|perform|speedup|workload|joins|control|also|kept|extensive|nodes|hadoop|condition|efficiently|report|properties
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Data mining|Joins|Workload|Computer science|Parallel computing|Partition (number theory)|Database|Speedup
+references:1500547548|1502916507|1585614323|1997020216|2007030756|2078528123|2085922539|2096598900|2097184821|2097776316|2099194763|2114303224|2114353347|2121516976|2127675794|2142031898|2150916025|2152565070|2154894831|2161443453|2161936973|2164634022|2173213060
+
+
+id:2158779275
+title:Efficient interactive fuzzy keyword search
+year:2009
+author information:[
+author name:Shengyue Ji
+author organization:University Of California
+author id:2119737658|
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+]
+abstract:called|prototypes|trend|answers|interactive|invoke|users|approach|query|presence|recent|knowledge|order|using|large|received|underlying|system|even|milliseconds|left|algorithms|study|computed|achieve|one|matching|keystroke|speed|search|systems|cached|keywords|problem|explore|efficient|within|could|data|people|appear|framework|traditional|information|attributes|complete|irvine|return|first|techniques|tryandsee|data|keywords|minor|use|friendly|several|feel|used|research|uc|regularly|high|amounts|informationaccess|results|new|searches|need|query|often|towards|develop|real|finding|users|relevant|extends|support|solving|records|challenges|incrementalsearch|deployed|interface|previously|since|supporting|fuzzy|allows|types|interfaces|process|limited|autocomplete|multiple|arbitrary|allowing|submits|efficiency|due|various|well|information|step|errors|user|approximately
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Information system|Data mining|Computer science|Directory|Cache|Keystroke logging|Artificial intelligence|Web search query|World Wide Web|Information retrieval|Fuzzy logic|Approximate string matching|Autocomplete|Machine learning
+references:1570051269|1967642681|1974995373|1981732427|2010595692|2061711353|2096598900|2097184821|2097880962|2098571654|2100235843|2107293766|2112064847|2119057313|2129598390|2146842426|2153987307|2165027873|2167847032|2293959011
+
+
+id:2160305607
+title:Best-Effort Top-k Query Processing Under Budgetary Constraints
+year:2009
+author information:[
+author name:Michal Shmueli-Scheuer
+author organization:Databases and Information Systems, MPI for Informatics, Max Planck Society
+author id:2970504320|
+author name:Chen Li
+author organization:External Organizations
+author id:2589970869|
+author name:Yosi Mass
+author organization:External Organizations
+author id:2117117435|
+author name:Haggai Roitman
+author organization:External Organizations
+author id:1917779154|
+author name:Ralf Schenkel
+author organization:Databases and Information Systems, MPI for Informatics, Max Planck Society
+author id:2023575604|
+author name:Gerhard Weikum
+author organization:MPI for Informatics
+author id:514836396|
+]
+abstract:constraints|introduces|results|focus|stateoftheart|constraints|compute|problem|budgetaware|scheduling|consider|solutions|results|budget|making|query|often|worse|quality|take|provide|final|processing|therefore|algorithm|higher|algorithms|lot|paper|budgetoblivious|set|address|problem|topk|produce|framework|performance|achieved|significantly|novel|account|return|existing
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Approximation algorithm|Budget constraint|Scheduling (computing)|Computer science|Theoretical computer science|Processor scheduling|Probability density function|Database|Financial management
+references:1485276789|1488719427|1535279741|1599696396|1835538174|1850437073|2009688537|2011039300|2083039049|2086174602|2090682579|2099797738|2128756912|2141649964|2149229615|2160460392|2666600683
+
+
+id:2161166910
+title:Report on the First International VLDB Workshop on Clean Databases (CleanDB 2006)
+year:2007
+author information:[
+author name:Dongwon Lee
+author organization:Penn-State University
+author id:2141172858|
+author name:Chen Li
+author organization:UC irvine
+author id:2589970869|
+]
+abstract:september|large|clean|conference|databases|conjunction|first|workshop|place|vldb|summary|took|data|bases|provide
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Very large database|Database
+references:1218774|54366487|90461337|99256032|105664143|188224872|1225393098|1484537074|1925598861|2152210322
+
+
+id:2167847032
+title:Efficient Merging and Filtering Algorithms for Approximate String Searches
+year:2008
+author information:[
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jiaheng Lu
+author organization:University Of California
+author id:2108677686|
+author name:Yiming Lu
+author organization:University of California
+author id:2100480165|
+]
+abstract:functions|strings|problem|realtime|grams|filtering|similar|spellchecking|based|merging|edit|following|integration|greatly|evaluate|algorithms|study|affect|experiments|jaccard|two|strings|variety|together|performance|sets|great|integrate|several|efficiently|interests|techniques|contributions|data|several|used|high|generated|find|inverted|various|given|need|query|conducted|collection|develop|real|proposed|lists|improve|techniques|cosine|since|idea|show|similarity|paper|similarity|make|algorithms|way|existing|performance|applications
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:String searching algorithm|Edit distance|Approximation algorithm|Data mining|Query string|Cosine similarity|Computer science|Algorithm|Filter (signal processing)|Theoretical computer science|Jaccard index|Statistical classification
+references:125979907|1768336749|1887000090|2001496424|2007682403|2043481183|2096598900|2097776316|2105423800|2119057313|2121516976|2127675794|2161936973
+
+
+id:2168431905
+title:SAIL: Structure-aware indexing for effective and progressive top-k keyword search over XML documents
+year:2009
+author information:[
+author name:Guoliang Li
+author organization:Tsinghua University
+author id:2171804313|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Jianhua Feng
+author organization:Tsinghua University
+author id:1995232797|
+author name:Lizhu Zhou
+author organization:Tsinghua University
+author id:2286125848|
+]
+abstract:called|maintain|variants|stateoftheart|trees|relationships|gained|reduce|using|method|index|lcas|attention|lowest|propose|devise|relevance|quality|input|keywordpairbased|processing|study|progressively|linkbased|given|answer|lot|trees|search|minimalcost|embedded|contain|keyword|sets|efficient|topk|subtrees|namely|queries|indices|answer|elements|efficiently|ranking|first|novel|indices|data|documents|use|structureaware|incorporate|research|compute|keyword|ancestors|results|numbering|experimental|develop|real|techniques|schemaaware|facilitate|identifying|concept|show|common|paper|search|structural|rooted|identify|recently|effectively|queries|rich|approaches|outperforms|efficiency|existing|ranking|xml|dewey
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Keyword density|Efficient XML Interchange|Numbering scheme|Ranking|XML|Information retrieval|XML validation|Computer science|Search engine indexing|XML schema
+references:1494362579|1550098107|1581680754|1599696396|1962125604|1964013848|1968475213|1973828215|1976505338|1981113794|1981585544|1989944922|2011999472|2020919487|2034444014|2035814200|2062217685|2073540046|2079372196|2088039650|2088499566|2094320135|2096076988|2098388305|2102618089|2105819430|2106376606|2107105629|2108572131|2109464129|2110510808|2111087864|2113112851|2115221525|2117461391|2118302148|2121350579|2126391456|2128034913|2132745220|2133585661|2134206624|2142876691|2143085379|2147287607|2148942721|2156580346|2162532518|2162833734|2164858177|2169624745|2171874178|2205513679|2509216938
+
+
+id:2169262681
+title:Schema-guided wrapper maintenance for web-data extraction
+year:2003
+author information:[
+author name:Xiaofeng Meng
+author organization:RenMin University
+author id:2134422024|
+author name:Dongdong Hu
+author organization:Renmin University of China
+author id:2251631254|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:data|maintain|main|wrapper|html|sites|issues|approach|extracted|features|syntactic|high|pages|problem|maintenance|preserved|inducing|webdata|intensive|generation|based|using|large|arising|accuracies|real|propose|relevant|important|extract|proposed|web|page|changed|repair|semantic|values|experiments|tree|show|fundamental|two|items|correspondingly|desired|variety|wrappers|schemaguided|practical|identify|observation|blocks|effectively|namely|automatic|many|despite|various|interests|uses|locations|vast|extracting|novel|hyperlinks|applications
+venue name:Web Information and Data Management
+venue id:1175548354
+venue type:C
+document type:Conference
+study fields:Data mining|Web page|Information retrieval|Computer science|Data extraction|Hyperlink|Syntax|Schema (psychology)
+references:130279117|1489949474|1532254649|1553019137|1602270052|1921703248|1927338256|1995746869|2026080185|2097519514|2104086170|2136500370|2147100344|2148210463|2150721933|2154763111|2406080254|2912161846
+
+
+id:2169724035
+title:ASTERIX: towards a scalabl
+year:2011
+author information:[
+author name:Alexander Behm
+author organization:University Of California
+author id:1993931556|
+author name:Vinayak R. Borkar
+author organization:University Of California
+author id:1900516000|
+author name:Michael J. Carey
+author organization:University of California-Irvine
+author id:2157114695|
+author name:Raman Grover
+author organization:University of California
+author id:2171821552|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Nicola Onose
+author organization:University of California Irvine
+author id:2095145263|
+author name:Rares Vernica
+author organization:University of California
+author id:2951711146|
+author name:Alin Deutsch
+author organization:University of California
+author id:2096035962|
+author name:Yannis Papakonstantinou
+author organization:University of California
+author id:58344957|
+author name:Vassilis J. Tsotras
+author organization:University of California
+author id:8132329|
+]
+abstract:explain|called|approach|relate|model|state|models|made|work|asterix|analysis|utilizes|provide|processing|starting|tackling|hyracks|current|management|spanning|art|discussed|parties|associated|describe|open|scalable|addressing|data|use|available|project|lie|main|source|uc|research|computational|new|query|pertaining|runtime|evolvingworld|san|covering|technical|challenges|storage|platform|computing|paper|goalthe|dataintensive|overview|requirements|ahead|diego|recently|also|currently|well|interested|user
+venue name:Distributed and Parallel Databases
+venue id:35927321
+venue type:J
+document type:Journal
+study fields:World Wide Web|Architecture|Data-intensive computing|Data analysis|Software engineering|Computer science|ASTERIX|User modeling|Data management|Distributed computing|Cloud computing|Scalability
+references:23038622|23778482|206955312|1493893823|1535627680|1593856066|1962125604|1978924650|1981420413|1982169430|1985393821|1993892970|1994752578|1997020216|2004735493|2016580249|2044490410|2060280513|2066417879|2080427212|2083541728|2098935637|2100830825|2107293766|2113875810|2119400430|2119565742|2119714163|2130825214|2134356404|2135611729|2150013559|2150916025|2151826520|2151930506|2153704625|2153902607|2157355837|2158237121|2167847032|2169028468|2173213060|2653473023
+
+
+id:2170798490
+title:Improving regular-expression matching on strings using negative factors
+year:2013
+author information:[
+author name:Xiaochun Yang
+author organization:University
+author id:2109336725|
+author name:Bin Wang
+author organization:University
+author id:2643561327|
+author name:Tao Qiu
+author organization:Northeastern University
+author id:2131286265|
+author name:Yaoshu Wang
+author organization:Northeastern University
+author id:2230559923|
+author name:Chen Li
+author organization:UC-Irvine, Irvine, USA
+author id:2589970869|
+]
+abstract:occurrences|biosequence|pruning|experimental|substrings|bit|commands|improved|number|problem|text|documents|algorithm|give|using|efficiency|negatives|large|matches|propose|utilizes|analyze|must|inefficient|much|become|algorithms|study|utilizing|achieve|technique|answer|gnu|search|verify|popular|regular|together|expression|highquality|necessary|efficient|thorough|many|appear|parallel|exists|cannot|first|novel|small|data|verified|main|used|prunes|significantly|including|need|conducted|develop|real|significant|finding|tool|candidates|shell|techniques|improve|automaton|power|full|string|show|technique|speed|integrated|factors|candidate|negative|times|operations|paper|grep|algorithms|applying|process|identify|advantage|false|specification|improvement|factors|better|existing|performance|prune|dna|applications|existing
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Small number|Data mining|Regular expression|Substring|Data set|Biosequence|Computer science|Automaton|Text editing|Database|Performance improvement
+references:142858687|1560450186|1982268573|1992020000|2032377275|2045821558|2089302579|2092587157|2129713651|2162481186|2408583837
+
+
+id:2302109632
+title:Negative Factor: Improving Regular-Expression Matching in Strings
+year:2016
+author information:[
+author name:Xiaochun Yang
+author organization:University
+author id:2109336725|
+author name:Tao Qiu
+author organization:Northeastern University
+author id:2131286265|
+author name:Bin Wang
+author organization:University
+author id:2643561327|
+author name:Baihua Zheng
+author organization:Singapore Manage. University
+author id:2200653933|
+author name:Yaoshu Wang
+author organization:Northeastern University
+author id:2230559923|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:occurrences|biosequence|pruning|experimental|stateoftheart|substrings|bit|commands|number|problem|text|algorithm|order|using|efficiency|negatives|large|matches|propose|utilizes|analyze|must|inefficient|much|become|algorithms|study|utilizing|achieve|technique|answer|tools|verify|regular|magnitude|expression|highquality|necessary|efficient|thorough|many|appear|parallel|exists|cannot|first|novel|small|verified|main|used|prunes|significantly|including|need|conducted|develop|real|significant|finding|candidates|shell|techniques|improve|automaton|power|present|string|show|technique|description|integrated|factors|candidate|negative|operations|process|identify|advantage|false|improvement|factors|better|existing|performance|detailed|prune|dna|existing
+venue name:ACM Transactions on Database Systems
+venue id:90119964
+venue type:J
+document type:Journal
+study fields:Small number|Data mining|Regular expression|Substring|Biosequence|Computer science|Automaton|Artificial intelligence|Text editing|Machine learning|Database|Performance improvement
+references:142858687|1491178396|1560450186|1574739914|1577337656|1966773178|1981409766|1982268573|1983788629|1991731883|1992020000|2030839740|2032377275|2045821558|2072607050|2089302579|2092587157|2092860912|2099540492|2129713651|2136238707|2162481186|2170798490|2408583837
+
+
+id:2404900000
+title:Analysis of Instant Search Query Logs.
+year:2012
+author information:[
+author name:Inci Cetindil
+author organization:University of California
+author id:1577997|
+author name:Jamshid Esmaelnezhad
+author organization:University of California
+author id:2230597623|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:David Newman
+author organization:University Of California
+author id:1994620265|
+]
+abstract:increasingly|server|type|years|analyzing|query|seconds|problem|per|recent|reduce|instant|triggers|analysis|propose|traditional|system|rate|become|study|compare|eort|scheme|log|save|keystroke|instant|characters|search|log|popular|data|people|classication|instantsearch|fewer|research|shows|results|new|typically|query|applicable|system|success|typing|power|request|paradigm|behaviors|show|simplicity|directory|content|instantsearch|every|types|previous|also|increase|due|richer|user|showing
+venue name:International Workshop on the Web and Databases
+venue id:1193254108
+venue type:C
+document type:Conference
+study fields:Data mining|Web search query|Instant|Search engine|Phrase search|Directory|Computer science|Keystroke logging|Beam search|Database
+references:1982889956|2012205861|2037553621|2073853190|2096932043|2124449410|2124814993|2152679188|2158336020
+
+
+id:2433194246
+title:Hobbes3: Dynamic generation of variable-length signatures for efficient approximate subsequence mappings
+year:2016
+author information:[
+author name:Jongik Kim
+author organization:Seoul National University
+author id:2135370255|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Xiaohui Xie
+author organization:University of California
+author id:2107390275|
+]
+abstract:improves|extracted|signatures|sequencing|problem|balance|terms|advances|sequencingbased|filtering|algorithm|fixedlength|mapping|using|efficiency|biology|depends|overhead|simulated|index|signatures|genome|accurately|propose|flood|critically|selection|variablelength|flexible|processing|substantially|scheme|signature|experiments|qgram|enabled|shares|positions|verify|power|map|key|address|indexing|one|queries|extensive|accuracy|first|novel|generates|used|medicine|research|reference|qgrams|dynamic|subsequences|inverted|generate|selected|programming|discover|studying|read|query|finally|widely|positions|real|core|extract|proposed|techniques|lists|solve|retrieve|limitation|technical|challenges|show|technique|generating|speed|recent|database|candidate|relies|similarity|literature|studied|groups|qgrams|also|requirement|rapidly|subsequence|way|existing|performance|index|genomic|dna|restricted|applications
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Data mining|Dynamic programming|Similarity query|Computer science|Search engine indexing|Filter (signal processing)|DNA sequencing|Subsequence|Database|Reference genome
+references:1534435001|1536525420|1973001156|1984629602|1993831977|2038361443|2097341408|2097776316|2100751585|2101798015|2103441770|2108234281|2115232436|2119057313|2123020735|2127675794|2129714591|2133687564|2140154634|2150916025|2156715753|2167847032|2907919037
+
+
+id:2564464327
+title:Towards interactive analytics and visualization on one billion tweets
+year:2016
+author information:[
+author name:Jianfeng Jia
+author organization:University of California
+author id:2951784246|
+author name:Chen Li
+author organization:University of California
+author id:2589970869|
+author name:Xi Zhang
+author organization:University of California
+author id:2618358672|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+author name:Simon su
+author organization:U.S Army Research Laboratory
+author id:2138628275|
+]
+abstract:big|called|data|friendly|analytics|cluster|amounts|dimensions|enable|visualize|interactively|generalpurpose|using|large|visualization|apache|users|system|fullstack|demonstrate|present|twitter|running|computer|asterixdb|backend|allows|textual|intelligent|powerful|management
+venue name:Advances in Geographic Information Systems
+venue id:1140348717
+venue type:C
+document type:Conference
+study fields:Middleware|World Wide Web|Data analysis|Visualization|Parallel database|Computer science|Visual analytics|Analytics|Big data|Computer cluster
+references:2101939980|2138199375|2160382748|2166069449|2166279335|2265297126
+
+
+id:2776794852
+title:Caching Geospatial Objects in Web Browsers
+year:2017
+author information:[
+author name:Taewoo Kim
+author organization:University of California
+author id:2637752133|
+author name:Vidhyasagar Thirumaraiselvan
+author organization:University Of California
+author id:2779397026|
+author name:Jianfeng Jia
+author organization:University Of California
+author id:2490576946|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:increasingly|called|objects|usage|mapbased|recent|generalpurpose|cache|using|page|index|web|demonstration|twittermap|utilizing|low|policies|map|visualizing|services|store|many|prefetching|able|efficiently|information|becoming|tweets|caching|time|employs|hierarchical|implemented|javascript|different|well|making|cities|need|often|real|activities|important|achieving|retrieve|demonstrate|present|replacement|critical|browserbased|show|technique|geospatial|load|billion|browser|applications|effectiveness|queries|structure|intelligent|application|response|suitable|time|user|applications
+venue name:Advances in Geographic Information Systems
+venue id:1140348717
+venue type:C
+document type:Conference
+study fields:Geospatial analysis|Data mining|JavaScript library|World Wide Web|Polygon|Web browser|Computer science|Cache|Response time
+references:1532139216|1978690967|2063976878|2564464327
+
+
+id:2782815351
+title:Drum: A rhythmic approach to interactive analytics on large data
+year:2017
+author information:[
+author name:Jianfeng Jia
+author organization:University Of California
+author id:2490576946|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+]
+abstract:data|called|decide|without|predicate|sacrificing|problem|solution|optimization|time|results|order|reduce|delivering|large|considering|query|pace|runtime|conducted|develop|underlying|real|system|sequence|predicates|system|delay|improve|intermediate|collect|much|miniqueries|next|miniqueries|study|progressively|formulate|experiments|show|changes|generating|running|result|adaptive|general|timeconsuming|total|database|behavioral|middleware|experience|delivery|set|drum|incremental|rhythmic|produce|miniquery|extensive|smoothness|framework|answer|well|appropriately|time|user|statistics
+venue name:International Conference on Big Data
+venue id:2623113034
+venue type:C
+document type:Conference
+study fields:Middleware|Data mining|Data modeling|User experience design|Computer science|Drum|Schedule|Artificial intelligence|Analytics|Smoothness|Optimization problem|Machine learning
+references:1968185118|1970660119|1986262965|2020147322|2044564105|2058224784|2071989194|2072540320|2088266288|2093215780|2097258261|2103702871|2112128729|2145676903|2153834102|2164507334|2265297126|2296677182|2342091124|2912802084
+
+
+id:2798277753
+title:ZigZag: Supporting Similarity Queries on Vector Space Models
+year:2018
+author information:[
+author name:Wenhai Li
+author organization:Wuhan University
+author id:2790789373|
+author name:Lingfeng Deng
+author organization:Wuhan University
+author id:2799148748|
+author name:Yang Li
+author organization:Wuhan University
+author id:2798666916|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:pruning|tokens|functions|bag|experimental|number|problem|tightening|record|case|based|using|large|index|dissimilar|bounds|flash|algorithms|study|prove|achieve|global|drives|vector|power|performance|sets|queries|token|filter|records|extensive|recordspecific|efficiently|sets|iteratively|data|incorporate|space|consider|inverted|different|results|correctness|including|develop|weights|external|especially|techniques|improve|present|largescale|support|disks|records|show|storage|nonnegative|paper|similarity|supporting|hard|degrees|exactly|better|conduct|various|well|family|formally
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Inverted index|Data mining|Data set|Vector space|Computer science|Correctness|Theoretical computer science|External storage|Vector space model|Zigzag|Security token
+references:22160234|65332816|1974995373|1979666709|1991175610|1994862698|1995847086|2001700730|2009593660|2014601737|2019412213|2020929650|2024605621|2035835285|2037562342|2086067738|2093050254|2096598900|2097184821|2097776316|2100548092|2104599107|2107293766|2119057313|2121269638|2123020735|2127492100|2127675794|2130825214|2131815873|2132313482|2147844972|2150916025|2151930506|2154138844|2157092487|2161936973|2166400748|2167331726|2167847032|2169387919|2169795703|2170478076|2286724461|2294222380|2294331997|2396588571|2564464327|2585936885|2619410666|2951208224
+
+
+id:2804619229
+title:End-to-End Machine Learning with Apache AsterixDB
+year:2018
+author information:[
+author name:Wail Alkowaileet
+author organization:University Of California
+author id:2003165814|
+author name:Sattam Alsubaiee
+author organization:Center for Complex Engineering Systems at KACST and MIT
+author id:2893025002|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+author name:Heri Ramampiaro
+author organization:Norwegian University of Science and Technology
+author id:1973439381|
+author name:Phanwadee Sinthong
+author organization:University Of California
+author id:2796552774|
+author name:Xikui Wang
+author organization:University Of California
+author id:2764927766|
+]
+abstract:explain|developments|data|functions|glue|maintain|extracting|source|userdefined|platforms|pipelines|builtin|enable|easily|create|udfs|notebook|reduce|using|often|require|underlying|apache|interoperation|provide|involved|scientists|provision|science|support|algorithms|analysts|analytical|data|endtoend|learning|foundation|availability|tools|platform|burden|recent|current|analytics|together|big|capabilities|dataflows|multiple|custombuilt|data|technologies|management|manage|consisting|help|component|machine|information|describe|ingestion|open
+venue name:International Conference on Management of Data
+venue id:1175089206
+venue type:C
+document type:Conference
+study fields:Data deduplication|Name resolution|End-to-end principle|Computer science|Big data management|Artificial intelligence|Big data|Machine learning
+references:1521148341|1880262756|2044849727|2067624665|2101234009|2110086534|2123442489|2155893237|2189465200|2265297126|2271840356|2294361615|2547742189|2564464327|2617941540|2963288913
+
+
+id:2912129787
+title:Heatflip: Temporal-Spatial Sampling for Progressive Heat Maps on Social Media Data
+year:2018
+author information:[
+author name:Niklas Stoehr
+author organization:Technical University of Berlin
+author id:2912312060|
+author name:Johannes Meyer
+author organization:Technical University of Berlin
+author id:2914377435|
+author name:Volker Markl
+author organization:Technical University of Berlin
+author id:1963964406|
+author name:Qiushi Bai
+author organization:University of California Irvine
+author id:2912668393|
+author name:Taewoo Kim
+author organization:University of California
+author id:2637752133|
+author name:De-Yu Chen
+author organization:University
+author id:2911430660|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:precomputations|called|accurate|frameworks|issues|approach|retrieval|spatial|temporal|knowledge|shorter|natural|large|sampling|layer|underlying|samples|provide|analyze|processing|versa|systems|hard|priori|distribution|offline|adaptive|without|keywordbased|validate|vice|address|explore|may|indexing|visualizing|database|combines|data|many|diametrically|stored|showcase|exploit|novel|dimensions|discuss|visualization|data|amounts|interactive|different|generate|challenge|making|exploration|maps|insights|external|spatial|background|present|heat|benefits|analytical|technique|media|database|times|dealing|middleware|opposed|social|way|performance|conventional|progressive|properties
+venue name:International Conference on Big Data
+venue id:2623113034
+venue type:C
+document type:Conference
+study fields:Middleware|Data mining|Social media analytics|Social media|Computer science|Visualization|A priori and a posteriori|Exploit|Sampling (statistics)|Scalability
+references:2057714068|2083619093|2101939980|2294510862|2429954913|2564464327|2585601698|2616712611|2753088425|2782815351|2795530455
+
+
+id:2913770413
+title:Visually Analyzing A Billion Tweets: An Application for Collaborative Visual Analytics on Large High-Resolution Display
+year:2018
+author information:[
+author name:Simon Su
+author organization:US Army Research Lab
+author id:2138628275|
+author name:Michael An
+author organization:Parsons Corp
+author id:2913869012|
+author name:Vincent Perry
+author organization:Parsons Corp
+author id:2543736818|
+author name:Jianfeng Jia
+author organization:University Of California
+author id:2490576946|
+author name:Taewoo Kim
+author organization:University of California
+author id:2637752133|
+author name:Te-Yu Chen
+author organization:University Of California
+author id:2914919981|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:employ|big|called|comparative|interactive|twitter|realtime|enable|visual|spatial|temporal|ran|based|using|large|multidisplay|apache|paraviewweb|billion|benefit|interaction|system|analyze|study|result|tweets|asterixdb|feeds|analyzing|highresolution|display|store|single|stored|x|asterixdb|inch|standard|scalable|visualization|data|findings|run|analytics|mouse|shows|amounts|interactively|streamed|visualization|query|users|present|configuration|back|running|relies|analytics|billion|end|supporting|visual|middleware|allows|keyboard|interesting|also|application|interaction|user
+venue name:International Conference on Big Data
+venue id:2623113034
+venue type:C
+document type:Conference
+study fields:Middleware|Spatial analysis|Data mining|Computer science|Visualization|Visual analytics|Human–computer interaction|Interactive visualization|Big data|Scalability
+references:2034819808|2088565345|2135415614|2137359451|2138199375|2162147429|2163765214|2564464327|2592614979
+
+
+id:2980716463
+title:Similarity query support in big data management systems
+year:2020
+author information:[
+author name:Taewoo Kim
+author organization:University of California
+author id:2637752133|
+author name:Wenhai Li
+author organization:Wuhan University
+author id:2790789373|
+author name:Alexander Behm
+author organization:University Of California
+author id:1993931556|
+author name:Inci Cetindil
+author organization:University of California
+author id:1577997|
+author name:Rares Vernica
+author organization:University of California
+author id:2951711146|
+author name:Vinayak Borkar
+author organization:University of California
+author id:1900516000|
+author name:Michael J. Carey
+author organization:University of California
+author id:2157114695|
+author name:Chen Li
+author organization:California University
+author id:2589970869|
+]
+abstract:increasingly|cluster|similarity|results|natively|experimental|approach|three|without|predicate|reinventing|optimization|largely|record|complex|join|id|plan|based|using|require|apache|benefit|system|provide|web|processing|greatly|template|algorithms|study|achieve|document|one|automatically|experiments|endtoend|datasets|collecting|matching|result|operators|systems|validate|include|efficient|abstract|many|transformation|queries|token|answer|assess|series|future|efficiently|report|novel|techniques|discuss|improvements|becoming|data|use|several|express|incorporate|simplifies|operatorbased|high|optimize|userlevel|implement|expressed|possibly|including|illustrate|query|runtime|particular|often|positions|includes|real|finding|steps|system|important|present|support|involving|records|technique|rule|database|pairs|transform|computing|analytics|paper|parallel|similarity|physical|big|support|queries|specification|data|also|efficacy|existing|performance|conduct|build|management|challenge|uses|operators|reassembling|applications
+venue name:Information Systems
+venue id:193006928
+venue type:J
+document type:Journal
+study fields:Query optimization|Data mining|Reinventing the wheel|Joins|Query language|Parallel database|Computer science|Operator (computer programming)|Analytics|Security token
+references:57699484|1610496399|2019412213|2035835285|2037562342|2097776316|2104599107|2112101330|2116544254|2150916025|2154138844|2158779275|2166400748|2167331726|2210479044|2265297126|2280236292|2286724461|2294222380|2294331997|2396588571|2608731915|2752274179
+
+
+id:1623736296
+title:Estimating Software System Reliability: An Architecture-Based Approach
+year:2015
+author information:[
+author name:Xiwen Wu
+author organization:Shanghai Jiao Tong University
+author id:2142739207|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+]
+abstract:software|accurate|mechanisms|approach|architecturecentric|complex|model|tolerance|calculate|reliability|based|give|large|efficiently|analysis|underestimate|extend|invocation|system|among|chain|components|study|reliability|discretetime|two|case|processes|architecture|robust|markov|produce|model|help|combined|elements|used|high|view|shows|mechanisms|results|tolerance|correctness|ensure|need|might|illustrate|widely|remedy|less|estimation|take|failure|improve|leverage|analytical|locate|crucial|according|recovery|design|detailly|components|fault|improvement|concerning|second|paid|attention|account
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:N-version programming|Computer science|Correctness|Systems design|Software fault tolerance|Software system|Software reliability testing|Fault tolerance|Software architecture|Reliability engineering
+references:98171137|1587899498|1811527611|1947095868|1968406860|2021664600|2023921459|2087090541|2088900036|2100150874|2101267836|2107693190|2108397536|2113004249|2138178819|2142044221|2145071552|2149614712|2155911755|2163778112|2164264843
+
+
+id:1903999291
+title:Breeze: A modeling tool for designin
+year:2015
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Hao Zhong
+author organization:ShanghaiJiao Tong University
+author id:2425534787|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Xiwen Wu
+author organization:Shanghai Jiao Tong University
+author id:2142739207|
+]
+abstract:modeling|software|called|improves|three|analyzing|facilitates|emphasis|engineering|recent|typically|module|engineering|analysis|tool|breeze|users|years|important|proposed|provide|improve|defects|architectures|level|present|support|repair|challenges|one|reliability|technique|reconfiguration|tools|lies|key|academy|architecture|allows|requirements|address|limited|nonfunctional|studied|requirement|although|intensively|various|verifies|requirements
+venue name:IEEE International Conference on Requirements Engineering
+venue id:2606605052
+venue type:C
+document type:Conference
+study fields:Applications architecture|Software engineering|Systems engineering|Computer science|Software architecture description|Architecture tradeoff analysis method|Reference architecture|Software architecture|Resource-oriented architecture|Service-oriented modeling|Software requirements
+references:1489391022|1970764762|1975248342|1986169744|2054657290|2075133124|2096266868|2105160016|2133584094
+
+
+id:1965448869
+title:An Approach to Modelling and Evaluating AGG Based Reliable Software Systems
+year:2014
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Xiwen Wu
+author organization:Shanghai Jiao Tong University
+author id:2142739207|
+]
+abstract:software|three|generalized|terms|model|state|reliability|give|evaluation|work|propose|system|analyze|evaluate|appropriate|reliability|turn|tools|systems|stochastic|supports|attribute|graphs|map|established|combining|transition|approach|use|rules|used|capturing|net|though|add|development|basis|modelling|graph|production|demonstrate|present|idea|gspn|error|aggbased|petri|provides|direction|agg|performing|expands|environment|application|neither|well|time|strategy
+venue name:Theoretical Aspects of Software Engineering
+venue id:1182405406
+venue type:C
+document type:Conference
+study fields:Graph|Computer science|Development environment|Modeling language|System error|Stochastic Petri net|Software system|Theoretical computer science|Database|Reliability model|Distributed computing|Application server
+references:1498244333|1817922214|2159651799
+
+
+id:1970764762
+title:Breeze/ADL: Graph Grammar Support for an XML-Based Software Architecture Description Language
+year:2013
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Chengyuan Yu
+author organization:Shanghai Jiao Tong University
+author id:2118082974|
+]
+abstract:play|named|software|approach|constraints|grammar|adls|definitions|give|specify||breeze|specifying|graph|architectures|style|deal|systems|role|two|example|map|architecture|languages|directions|change|grammar|textual|describe|supported|use|paper|evolution|unable|defined|dynamic|unplanned|bgg|architecture|definition|proposes|capture|xmlbased|graph|important|especially|demonstrate|basic|show|description|explained|running|paper|structural|captured|throughout|direction|evolution|application
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Programming language|XML|Software architecture description|Computer science|Grammar|Theoretical computer science|Formal specification|Software system|Software|Software architecture|Architecture description language
+references:1489800325|1498244333|1919395891|1986671085|2013658284|2014811326|2047309663|2060909623|2082673250|2096937604|2100653580|2103950033|2134108098|2136272000|2146082668|2152893046|2153933075|2158254667|2170774580|2176490758
+
+
+id:1984289300
+title:Software Architecture Matching by Meta-model Extension and Refinement
+year:2012
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University
+author id:2140700555|
+]
+abstract:software|focus|whole|action|guide|xadl|refine|matches|extend|explicit|specifying|system|requirement|requires|implicit|componentbased|two|sa|matching|aspect|verify|based|behavior|key|architecture|may|caused|one|lead|abstractions|characterize|able|runs|features|use|high|whether|adding|view|dynamic|new|development|correctness|ensure|adapt|adapting|changes|becomes|try|helps|interactions|changes|development|units|computing|design|construction|metamodel|ways|interaction|well|changeable|challenge|ocl|inconsistency|weave|properties
+venue name:Asia-Pacific Software Engineering Conference
+venue id:1134663949
+venue type:C
+document type:Conference
+study fields:Software design description|Computer science|Multilayered architecture|Software architecture description|Real-time computing|Software system|Software architecture|Reference architecture|Resource-oriented architecture|Software construction
+references:120106741|1487672899|1487694410|1975255815|1984146313|1990989132|2096973649|2110967855|2119600129
+
+
+id:1984996159
+title:Integrating behavior analysis into architectural modeling
+year:2015
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Tao Zan
+author organization:Graduate University for Advanced Studies
+author id:2633067120|
+]
+abstract:specifications|modeling|software|modeling|establishing|reflected|approach|relation|notation|model|state|mapping|oneway|analysis|feasibility|system|trying|relation|integrating|methods|guarantee|two|specified|result|behavior|together|establishes|architecture|accordance|one|makes|transformation|transformation|cannot|example|architectural|bidirectional|language|checker|specifications|updating|correctness|shown|implemented|problems|results|combine|ensure|often|interoperability|important|improve|aadl|mapping|mapped|helps|present|architectural|notations|provided|development|back|integrated|provides|design|traced|supporting|original|satisfy|control|concerns|notations|interaction|inconsistency
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:Notation|Programming language|Computer science|Modeling language|Systems design|Architecture Analysis  Design Language|Software architecture|Architectural pattern|Software development|Service-oriented modeling
+references:69221180|139818390|1503242327|1790036759|1919395891|1977004405|1977409260|1980313439|1991633729|2013658284|2027132261|2046832714|2060746033|2076676096|2089014520|2106750101|2115083118|2137544679|2150789072|2154193519|2159079542|2161608005|2169673105|2176490758|2399228388
+
+
+id:1985887416
+title:Architecture Reconfiguration in Pervasive Environment: An AADL-based Approach
+year:2014
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Mengyao Ruan
+author organization:University of Michigan-Shanghai Jiao Tong University
+author id:2464525983|
+]
+abstract:education|environments|improves|design|mode|features|property|view|dynamic|implement|drawn|order|always|given|illustrate|adapt|specify|includes|reconfiguration|feasibility|fail|traditional|aadl|analysis|requirement|pervasive|completely|architecture|treatment|configuration|applied|methods|reliability|description|reconfiguration|specified|smart|example|running|satisfies|behavioral|architecture|aspects|specification|trigger|great|transition|room|special|application|changeable|describe|approach
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Database-centric architecture|Space-based architecture|Applications architecture|Computer science|Software architecture description|Solution architecture|Architecture Analysis  Design Language|Reference architecture|Embedded system|Architecture description language
+references:1919395891|1948669034|1968406860|2060746033|2095714273|2096937604|2101505512|2152004366|2152499466|2156385131|2163778112|2170774580|2399343236|2399469196
+
+
+id:1986169744
+title:Design and Safety Analysis for System Architecture: A Breeze/ADL-Based Approach
+year:2014
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linzhu Wu
+author organization:Shanghai Jiao Tong University
+author id:2103707837|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University
+author id:2140700555|
+]
+abstract:modeling|modeling|discipline|approach|concern|feedback|property|qualitative|safety|complex|model|definitions|analysis||extend|feasibility|fta|system|checking|adjustment|methods|focuses|emerged|extended|open|cope|supports|verify|architecture|elements|approach|architectural|standard|language|specifications|generated|tree|implement|problems|results|various|combine|correctness|demonstrates|tool|proposed|converted|techniques|improve|adjust|adjustment|architecture|present|assessment|architectural|applied|development|description|rule|design|early|original|metamodel|also|quantitative|properties|design
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Model checking|Systems engineering|Unified Modeling Language|Computer science|Correctness|Reference architecture|Systems architecture|Fault tree analysis|Reliability engineering|Architecture description language|Service-oriented modeling
+references:1970764762|1996599282|2103436474|2111038497|2136492721|2142559087|2145965293|2158034648
+
+
+id:1987628252
+title:A Bidirectional Framework for Model Synchronization in Component-Based Software Development
+year:2013
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Tao Zan
+author organization:Grad. University for Adv. Studies
+author id:2633067120|
+]
+abstract:concerns|reuse|bidirectional|software|ground|consistency|propagated|notation|model|dynamic|different|development|ensure|architecture|xadl|widely|specify|accepted|propose||tool|proposed|uml|one|applied|notations|frequently|changes|description|availability|componentbased|interface|two|relationship|based|class|architecture|establishes|languages|apply|one|evolution|tram|generic|igrt|notations|cbsd|diagram|environment|framework|detailed|various|stages|changeable|synchronization|required|requirements|happens|design
+venue name:International Conference on Quality Software
+venue id:1182898022
+venue type:C
+document type:Conference
+study fields:Programming language|Systems engineering|UML tool|Software design description|Computer science|Model-driven architecture|Software architecture description|Real-time computing|Component-based software engineering|Software construction|Software development|Software framework
+references:1503242327|1585597514|1965173371|1977152005|1980654796|2046832714|2076676096|2100703953|2115083118|2137544679|2150789072|2154193519|2169361297|2169673105|2176490758
+
+
+id:1993933158
+title:AspectBreeze: integrating trustworthiness aspects into graph grammar supported architecture description language
+year:2014
+author information:[
+author name:Jingzhou Liu
+author organization:Shanghai Jiao Tong University
+author id:2227480955|
+author name:Yuting Chen
+author organization:University
+author id:2118230381|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Jianjun Zhao
+author organization:hanghai Jiao Tong University
+author id:2095987522|
+]
+abstract:architectures|seamlessly|software|developers|woven|maintain|reflected|consistency|grammar|adls|easily|longstanding|defined|case|using|woven|specify|extend|specifying|system|provide|architectures|maintainability|study|many|architecture|languages|change|face|grammars|difficulties|attributes|describe|trustworthy|architectural|supported|used|developed|trustworthiness|weaving|development|including|maintaining|graph|support|aspectoriented|allow|separation|applied|idea|aspectbreeze|aspects|show|description|auction|along|paper|supporting|enhancing|aspectbreeze|allows|nonfunctional|aspects|concerns|also|corresponding|online|base|presents
+venue name:Asia-Pacific Symposium on Internetware
+venue id:2754387375
+venue type:C
+document type:Conference
+study fields:Programming language|Aspect-oriented programming|Software engineering|Computer science|Separation of concerns|Software|Modularity|Software development|Maintainability|Reusability|Architecture description language
+references:57169743|1511832825|1525440541|1553756861|1605597033|1610570299|1949737716|1970764762|2021382227|2024460292|2032937940|2060909623|2063162028|2088854311|2098884586|2103326169|2105076599|2106119625|2111927335|2117669281|2136272000|2138363365|2155266165|2176490758|2286295049|2912299646
+
+
+id:1994138602
+title:PBDDR: Probe-Based Deadlock Detection and Recovery Strategy for Component-Based Systems
+year:2012
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University
+author id:2140700555|
+author name:Xu Li
+author organization:Shanghai Jiaotong University
+author id:2701216986|
+]
+abstract:concerns|tool|software|deadlockfree|processes|approach|analyzing|problem|sequential|statically|four|model|give|based|using|propose|quality|system|detection|evaluate|semantic|two|systems|behavior|key|performance|one|loops|arch|abstract|correctness|probebased|many|deadlock|component|communicating|qualities|componentbased|contributions|reasonable|replace|deadlock|recovery|brings|find|implement|consider|results|correctness|experimental|timeliness|algorithm|formal|involved|solve|dlc|present|critical|cbs|show|studio|system|define|deadlock|requirement|factors|response|interaction|strategy
+venue name:Asia-Pacific Software Engineering Conference
+venue id:1134663949
+venue type:C
+document type:Conference
+study fields:Edge chasing|Concurrency control|Computer science|Correctness|Deadlock|Communicating sequential processes|Software system|Real-time computing|Wait-for graph|Deadlock prevention algorithms|Distributed computing
+references:9422123|1556756008|1581159190|1756169151|1977000665|1999484846|2009965218|2013658284|2045126171|2059881462|2063900889|2066775342|2076749639|2107558091|2112343847|2113014586|2161373029
+
+
+id:2001240499
+title:Transformation from Activity Diagrams with Time Properties to Timed Coloured Petri Nets
+year:2014
+author information:[
+author name:Xuling Chang
+author organization:Shanghai Jiao Tong University
+author id:2133545313|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Jianpeng Hu
+author organization:Shanghai Jiao Tong University
+author id:2139879159|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Bei Cao
+author organization:Shanghai Jiao Tong University
+author id:2191305637|
+]
+abstract:named|rules|tcpn|used|semantics|capture|defined|computer|describing|understanding|model|manipulated|hyper|mapping|equivalence|timed|models|widely|way|list|graph|formal|extend|clocked|system|game|proposed|uml|present|prove|activity|nets|show|diagrams|two|extended|petri|weak|example|define|transformed|validate|lacks|transformation|coloured|transition|model|diagram|application|cannot|time|approach|properties|partially
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Transition system|Data modeling|Model transformation|Petri net|Unified Modeling Language|Computer science|Process architecture|Activity diagram|Theoretical computer science|Equivalence (measure theory)
+references:1846919312|2021900813|2047987805|2081995564|2104877841|2140207680|2142340571|2148893609|2164015376|2171958237
+
+
+id:2022950120
+title:Dynamic software architectures: formal specification and verification with CSP
+year:2012
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University Shanghai P. R. China
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University Shanghai P. R. China
+author id:2152145117|
+author name:Xu Li
+author organization:Shanghai Jiaotong University
+author id:2701216986|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University Shanghai P. R. China
+author id:2140700555|
+]
+abstract:dsas|connectors|software|use|rules|three|consistency|second|evolution|reference|reflect|integrity|describing|four|dynamic|verification|another|including|compared|work|specify|reconfiguration|formal|traditional|system|rigorous|especially|effect|software|architecture|demonstrate|present|replacement|dynamic|formalism|idea|changes|example|running|paper|provides|throughout|verify|precise|behavior|modifications|architecture|direction|directions|specification|also|evolution|expands|structure|model|formalize|application|able|interaction|describe|approach|architectural|first|architectures
+venue name:Asia-Pacific Symposium on Internetware
+venue id:2754387375
+venue type:C
+document type:Conference
+study fields:Database-centric architecture|Computer architecture|Programming language|Applications architecture|Software architecture description|Multilayered architecture|Computer science|Software architecture|Reference architecture|Systems architecture|Resource-oriented architecture
+references:1908286066|1963791371|1977000665|2047309663|2055845667|2096937604|2100653580|2108235534|2110425399|2126174828|2134108098|2148268106|2155184161|2165681774|2762588455
+
+
+id:2033934752
+title:Deadlock detection and recovery for component-based systems
+year:2013
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University
+author id:2140700555|
+]
+abstract:software|analyzing|problem|gained|model|reliability|recent|algorithm|using|loops|lower|years|among|processing|evaluate|complexity|semantic|components|enhances|achieve|reliability|reusability|componentbased|measurement|lot|systems|reduces|elimination|detection|problem|abstract|abstract|component|componentbased|several|replace|deadlock|used|brings|find|dynamic|first|results|connections|new|development|comparison|formal|especially|proposed|present|higher|challenges|show|detect|indexes|related|cost|also|probe|interaction|attention|detected|strategy
+venue name:Mathematical and Computer Modelling
+venue id:182710874
+venue type:J
+document type:Journal
+study fields:Computer science|Deadlock|Deadlock prevention algorithms|Formal methods|Software development|Reusability|Distributed computing|Semantic data model
+references:1555460062|1556756008|1581159190|1756169151|1977000665|1988810149|1999484846|2013658284|2033640190|2045126171|2059881462|2063900889|2066775342|2070255567|2076749639|2101693170|2107558091|2110425399|2112343847|2113014586|2116654123|2120098047|2160097679|2161373029
+
+
+id:2060909623
+title:BGG: A Graph Grammar Approach for Software Architecture Verification and Reconfiguration
+year:2013
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Chengyuan Yu
+author organization:Shanghai Jiao Tong University
+author id:2118082974|
+]
+abstract:software|paper|constraints|approach|high|grammar|statically|terms|productions|capturing|directly|implemented|checked|verification|give|bgg|large|level|basis||graph|breeze|graph|techniques|software|style|appropriate|systems|verification|provided|description|reconfiguration|example|running|operations|paper|provides|throughout|definition|graphs|demonstrating|incapable|architecture|applying|abstraction|change|also|grammar|transformation|performed|grammars|application|describe
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Space-based architecture|Programming language|Software design description|Software architecture description|Computer science|Theoretical computer science|Systems architecture|Software architecture|Resource-oriented architecture|Reference architecture|Enterprise architecture framework
+references:1498244333|1594830708|1843863866|1919395891|2013658284|2061817376|2082673250|2096937604|2103950033|2106119625|2134108098|2136272000|2146082668|2152893046|2153933075|2158254667|2170774580|2176490758
+
+
+id:2085549555
+title:Component Substitutability Behavior Consistency Verification Based on Architecture-driven Development
+year:2012
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+]
+abstract:componentbased|higherorder|software|component|consistency|brings|new|based|give|substitutability|development|correctness|method|specify|distributed|dependable|forecast|develop|engineering|formal|secondly|stage|errors|appropriate|semantic|components|role|paradigm|challenges|description|choosing|systems|satisfies|design|firstly|verify|behavior|key|architecture|enhance|plays|introduce|also|assemble|environment|component|requirements|design
+venue name:International Parallel and Distributed Processing Symposium
+venue id:1191753779
+venue type:C
+document type:Conference
+study fields:Software design description|Software architecture description|Computer science|Software architecture|Reference architecture|Resource-oriented architecture|Component-based software engineering|Software construction|Distributed computing|Software verification
+references:1489800325|1503973138|2013658284|2047309663|2073085037|2096973649|2110425399|2135670602|2146082668|2150320481|2162366870|2762588455
+
+
+id:2089350433
+title:Using entropy weight-based TOPSIS to implement failure mode and effects analysis
+year:2014
+author information:[
+author name:Xiaoyu Fu
+author organization:Shanghai Jiao Tong University
+author id:2294235758|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Guannan Su
+author organization:Shanghai Jiao Tong University
+author id:2161886576|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linzhu Wu
+author organization:Shanghai Jiao Tong University
+author id:2103707837|
+]
+abstract:fmea|modes|similarity|ideal|eliminating|process|used|developed|three|approach|mode|evaluated|potential|failure|case|ignored|obtain|order|toolbreeze|method|widely|analysis|priority|weights|propose|weighting|obtaining|feasibility|effects|traditional|proposed|failure|demonstrate|detection|performance|support|benefits|identifying|integrating|study|purchasing|number|provided|overcome|technique|entropy|known|multiplied|design|rational|website|failures|shortcomings|severity|also|factors|plugin|risk|ranking|approach|simply|novel
+venue name:Asia-Pacific Symposium on Internetware
+venue id:2754387375
+venue type:C
+document type:Conference
+study fields:Failure mode and effects analysis|Data mining|Weighting|Ranking|Purchasing|TOPSIS|Plug-in|Engineering|Reliability engineering
+references:1866574701|1970764762|1983182219|1983686086|1986169744|2004074837|2041404167|2087745828|2114079560
+
+
+id:2101693170
+title:Using Dynamic Probe for Deadlock Detection in Component-Based System
+year:2012
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Weichao Luo
+author organization:Shanghai Jiaotong University
+author id:2140700555|
+]
+abstract:software|analyzing|character|problem|gained|easily|connection|model|evaluated|reliability|recent|algorithm|elimination|lower|years|system|among|unique|processing|detection|hurt|complexity|semantic|components|enhances|achieve|reliability|reusability|measurement|lot|result|composition|reduces|problem|abstract|component|componentbased|several|replace|deadlock|used|dp|brings|shows|find|first|connections|new|development|comparison|might|formal|especially|proposed|present|higher|dynamic|challenges|cbs|cause|detect|system|indexes|related|cbs|since|cost|also|interaction|attention|detected|strategy
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Concurrency control|Computer science|Deadlock|Formal specification|Deadlock prevention algorithms|Software quality|Software development|Reusability|Distributed computing|Semantic data model
+references:9422123|1556756008|1581159190|1756169151|1977000665|1999484846|2013658284|2045126171|2059881462|2063900889|2066775342|2076749639|2107558091|2112343847|2113014586|2116654123|2161373029
+
+
+id:2105160016
+title:Breeze graph grammar: a graph grammar approach for modeling the software architecture of big data-oriented software systems
+year:2015
+author information:[
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+]
+abstract:architectures|big|modeling|software|reliable|john|throughout|three|evaluation|grammar|generalized|statically|wiley|model|state|reliability|give|evaluation|work|specify|require|system|provide|analyze|processing|rules|evaluate|study|achieve|reliability|characteristic|stochastic|supports|map|architecture|directions|change|combining|data|transformation|performed|transition|help|able|cannot|attributes|approach|first|use|rules|used|gspn|centralized|copyright|rewriting|productions|capturing|checked|dynamic|directly|net|various|add|bgg|static|adapt|capture|breeze|graph|technologies|proposed|techniques|demonstrate|present|support|idea|changes|aspects|description|gspn|error|ltd|definition|supporting|petri|also|evolution|expands|databased|achieved
+venue name:Software - Practice and Experience
+venue id:122199241
+venue type:J
+document type:Journal
+study fields:Architecture|Programming language|Computer science|Software architecture description|Software system|Theoretical computer science|Stochastic Petri net|Software|Graph rewriting|Software architecture|Big data
+references:1489800325|1498244333|1594830708|1606525778|1843863866|1919395891|1979074046|1986671085|1998061448|2013658284|2014811326|2047309663|2060909623|2061817376|2062747504|2068684224|2079636926|2082673250|2084912848|2096937604|2100653580|2106119625|2134108098|2136272000|2146082668|2151407682|2152893046|2153933075|2158254667|2159651799|2165681774|2170774580|2176490758|2403404771|2405493392
+
+
+id:2528606600
+title:Applying semantic web and big data techniques to construct a balance model referring to stakeholders of tourism intangible cultural heritage
+year:2016
+author information:[
+author name:Meiyu Shi
+author organization:Beijing Union University
+author id:2339376722|
+author name:Wei Zhu
+author organization:Beijing Union University
+author id:2425977723|
+author name:Hongji Yang
+author organization:Bath Spa Universit
+author id:2096514894|
+author name:Chen Li
+author organization:Bath Spa University
+author id:2191638475|
+]
+abstract:intangible|big|application|entire|stakeholder|attempt|path|balance|model|knowledge|based|efficiency|method|heritage|analysis|cultural|innovative|concepts|semantic|achieve|another|tourism|stakeholders|collecting|two|research|computer|known|web|term|acquisition|within|combining|integrate|data|major|development|including|demonstrates|alienation|sharing|modelling|difficulty|technologies|proposed|final|conflict|questionnaire|applied|scientific|development|coordinating|representation|platform|network|interest|structural|construction|every|effectiveness|process|constructed|social|equation|responsibility|balancing|typical
+venue name:Journal of Computer Applications in Technology
+venue id:119870768
+venue type:J
+document type:Journal
+study fields:Knowledge representation and reasoning|Cultural heritage|Stakeholder|Tourism|Intangible cultural heritage|Knowledge management|Semantic Web|Engineering|Database transaction|Big data
+references:1981163003|2060010287|2124475444|2202213268
+
+
+id:2546368062
+title:A Formal Model for Resource Protections in Web Service Applications
+year:2012
+author information:[
+author name:Junqing Chen
+author organization:Shanghai Jiao Tong University
+author id:2120427084|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Han Huang
+author organization:Quanzhou Normal University
+author id:2691268199|
+author name:Chengyuan Yu
+author organization:Shanghai Jiao Tong University
+author id:2118082974|
+author name:Chen Li
+author organization:Shanghai University
+author id:2191638475|
+]
+abstract:modelchecking|monitors|use|usage|type|extracted|approach|analyzing|correctly|shows|statically|checked|model|represented|development|verifying|comparison|issue|resource|behaviors|runtime|analysis|expressions|important|formal|system|web|improve|effect|behaviors|policies|concurrent|protection|valid|result|expressions|paper|web|valid|protect|policies|applications|performances|sensible|regular|execution|verified|resources|services|obeying|logical|tools|service|suitable|validity|aiming|properties|presents|applications
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Effect system|Computer science|Web standards|Resource allocation|Web modeling|Web application security|Web service|WS-Policy|Database|Formal verification
+references:115551448|1513890874|1554033134|1556177080|1558848517|1676919590|1894084114|1981626968|1981638222|2023808162|2054620608|2073585991|2114576730|2115309705|2118002698|2124284633|2128657549|2133902026|2137967056|2148890056|2161536823|2163672449|2789296038
+
+
+id:2744598869
+title:Tulsa: A Tool for Transforming UML to Layered Queueing Networks for Performance Analysis of Data Intensive Applications
+year:2017
+author information:[
+author name:Chen Li
+author organization:Imperial College London
+author id:2191638475|
+author name:Taghreed Altamimi
+author organization:Carleton University
+author id:2186707903|
+author name:Mana Hassanzadeh Zargari
+author organization:Carleton University
+author id:2593676681|
+author name:Giuliano Casale
+author organization:Imperial College London
+author id:2075119795|
+author name:Dorina C. Petriu
+author organization:Carleton University
+author id:2144941872|
+]
+abstract:networks|software|dice|lqns|used|annotated|problem|generate|queueing|models|based|layered|capture|contention|apache|modelling|transforming|technologies|extends|uml|dias|detecting|present|storm|analytical|specified|across|layers|motivated|generalize|architecture|dataintensive|antipatterns|multiple|transformation|existing|performance|framework|epsilon|applications
+venue name:Quantitative Evaluation of Systems
+venue id:1142642735
+venue type:C
+document type:Conference
+study fields:Software engineering|Unified Modeling Language|Data analysis|Computer science|Software performance testing|Theoretical computer science|Queueing theory|Software architecture|Dice|Abstraction layer|Database
+references:2013832912|2531092293|2592746543|2806594692
+
+
+id:2795403884
+title:Enhancing Big Data Application Design with the DICE Framework
+year:2017
+author information:[
+author name:Giuliano Casale
+author organization:Imperial College London
+author id:2075119795|
+author name:Chen Li
+author organization:Imperial College London
+author id:2191638475|
+]
+abstract:data|qualitydriven|centered|dice|focus|project|developing|natively|source|domains|solutions|case|offers|development|test|uml|port|egovernment|support|around|validated|define|studies|applications|designed|popular|news|big|set|eclipsebased|opensource|industrial|framework|novel|open
+venue name:European Conference on Service-Oriented and Cloud Computing
+venue id:2757853818
+venue type:C
+document type:Conference
+study fields:Unified Modeling Language|Software engineering|Development environment|Computer science|DevOps|Eclipse|Dice|Uml profile|Big data
+references:1459540712|2013832912|2744598869
+
+
+id:2330220674
+title:Self-adaptive architecture evolution with model checking
+year:2017
+author information:[
+author name:Luxi Chen
+author organization:Shanghai Jiaotong University
+author id:2152145117|
+author name:Linpeng Huang
+author organization:Shanghai Jiaotong University
+author id:2641905955|
+author name:Chen Li
+author organization:Bath Spa University
+author id:2191638475|
+author name:Xiwen Wu
+author organization:Shanghai Jiao Tong University
+author id:2142739207|
+]
+abstract:specifications|software|regulate|selfadaptive|adaptation|feedback|facilitates|model|guide|validation|algorithm|respectively|specify|propose||breeze|extend|productions|feasibility|system|applies|phone|undesired|uncontrollable|architecturewe|rules|theory|environment|requires|object|checking|cybernetics|control|formulate|uncertainty|derive|specified|smart|example|adaptive|feature|era|behavior|architecture|validate|address|caused|makes|lead|architecturelevelwe|controlled|framework|leverages|novel|display|process|rules|autonomous|cloud|evolution|brings|dynamic|results|generate|errorprone|behaviors|might|feedbacks|difficult|tool|chosen|illdefined|take|adjust|architects|demonstrate|support|framework|omitted|show|technique|detect|learning|states|computing|design|designed|disruption|process|apply|control|evolution|application
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Space-based architecture|Data architecture|Database-centric architecture|Systems engineering|Computer science|Software architecture description|Artificial intelligence|Software architecture|Systems architecture|Reference architecture|Enterprise architecture framework
+references:176206521|1489800325|1498244333|1597042318|1819146036|1903999291|1919395891|1964137226|1967338579|1970764762|1983963690|1986169744|1998429448|2006116191|2013856010|2029126753|2034822942|2038588106|2044360368|2044683878|2055856629|2057807303|2060909623|2067674876|2072865433|2076925677|2077467182|2084296638|2084912848|2089014520|2089350433|2099564621|2100653580|2105160016|2108157959|2108243193|2117824290|2120729378|2121908619|2129085210|2136341945|2136648928|2137544679|2144338184|2157688972|2159168482|2161456772|2162366870|2168304333|2303688046|2407173565|2482678392
+
+
+id:2560095384
+title:3D Human Activity Recognition Using Skeletal Data from RGBD Sensors
+year:2016
+author information:[
+author name:Jiaxu Ling
+author organization:Xian jiaotong university
+author id:2560047379|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2627573272|
+author name:Chen Li
+author organization:University Xian
+author id:2710208200|
+]
+abstract:select|support|florence|recognized|extracted|approach|rgbd|contributions|action|microsoft|vector|utilized|algorithm|based|images|method|methods|classified|kard|recognize|machine|difference|actions|posture|composed|key|compared|namely|multiclass|depth|framework|postures|sensed|action|dataset|represent|proposing|data|postures|recognition|simple|used|body|features|major|presented|joints|generate|results|new|level|fusion|proposed|parts|position|action|show|effective|kinect|skeleton|human|direction|adjacent|specific|outperforms|significantly
+venue name:International Symposium on Visual Computing
+venue id:1175705186
+venue type:C
+document type:Conference
+study fields:Computer vision|Activity recognition|Pattern recognition|Computer science|Effective method|Direction vector|Support vector machine|Artificial intelligence
+references:198154524|1532659206|1560724230|1910567995|1984798172|1992526082|2007057255|2008824967|2052648922|2056051405|2060280062|2077309078|2085735683|2106076350|2126184431|2143267104|2149645715|2153635508|2168415715|2172000360
+
+
+id:2561398383
+title:Novel Robust Audio Watermarking Scheme against Synchronization Attacks
+year:2016
+author information:[
+author name:Mingyuan Cao
+author organization:University Xian
+author id:2551067968|
+author name:Chen Li
+author organization:University Xian
+author id:2643341532|
+author name:Zongze Wu
+author organization:Guangdong University of technology
+author id:2123277784|
+author name:Lihua Tian
+author organization:University Xian
+author id:2697417820|
+author name:Shaoyi Du
+author organization:University Xian
+author id:2109410961|
+]
+abstract:whole|described|complementary|displays|extracted|advantages|case|utilized|algorithm|based|images|using|watermark|frames|robustness|methods|watermarking|processing|singular|appropriate|algorithms|works|scheme|facing|sequences|two|withstand|embedding|embedded|processing|robust|though|image|great|single|attacks|several|used|second|judgment|adjusting|different|calculated|signal|new|image|resist|discrete|histogram|segment|wavelet|final|frame|largest|values|according|decomposition|rule|transform|common|value|every|preset|enforced|process|types|determine|enough|well|synchronization
+venue name:International Conference on Internet Multimedia Computing and Service
+venue id:2625361550
+venue type:C
+document type:Conference
+study fields:Watermarking attack|Computer vision|Signal processing|Histogram|Synchronization|Digital watermarking|Pattern recognition|Computer science|Robustness (computer science)|Watermark|Discrete wavelet transform|Artificial intelligence
+references:1519471955|2060296947|2084936871
+
+
+id:2562678877
+title:Robust Blind Image Watermarking Algorithm Based On Singular Value Quantization
+year:2016
+author information:[
+author name:Huashan Qian
+author organization:Xian Jiaotong University
+author id:2552358195|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2696161339|
+author name:Chen Li
+author organization:University Xian
+author id:2673774640|
+]
+abstract:several|issues|frequency|experiment|attacks|extraction|method|results|algorithm|quantization|order|realize|new|based|image|watermark|robustness|svd|extraction|invisibility|arnold|watermarking|proposed|dct|improve|strongly|solve|singular|blind|divided|according|show|jpeg|successfully|security|low|taken|noise|firstly|rdwt|value|embedded|carried|subband|robust|original|decomposed|also|subblock|processed|carrier|scrambling|coefficients|first
+venue name:International Conference on Internet Multimedia Computing and Service
+venue id:2625361550
+venue type:C
+document type:Conference
+study fields:Digital watermarking|Singular value|Scrambling|Computer science|Discrete cosine transform|Robustness (computer science)|Watermark|Artificial intelligence|Computer vision|Singular value decomposition|Pattern recognition|Algorithm|Quantization (signal processing)
+references:1892663952|1988936057|1992580242|2047838741|2551589200
+
+
+id:2790014886
+title:Salient Object Detection via Region Shape Feature Contrast and Saliency Fusion
+year:2017
+author information:[
+author name:Xin Ma
+author organization:Xi’an Jiaotong University
+author id:2794166573|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2790631497|
+author name:Chen Li
+author organization:University Xian
+author id:2792855663|
+]
+abstract:named|improves|descriptor|saliency|extracted|model|algorithm|using|shape|method|methods|received|traditional|system|contrast|evaluate|object|semantic|shape|role|regions|argued|overcome|global|datasets|local|matching|result|computer|feature|get|segmentation|ourexperimental|dataset|detection|middle|may|colorbased|could|one|weextensively|lately|many|great|information|novel|represent|enhancement|features|shows|method|results|image|degree|however|handcrafted|patches|important|vision|demonstrate|region|effort|best|novelly|clearly|salient|applications|human|oxford|flower|plays|underutilized|start|approaches|segmented|better|existing|proposed|performance|due|attention|stateoftheart
+venue name:International Conference Video and Image Processing
+venue id:2898251964
+venue type:C
+document type:Conference
+study fields:Feature descriptor|Salient object detection|Pattern recognition|Machine vision|Salience (neuroscience)|Computer science|Fusion|Image segmentation|Artificial intelligence|Semantic feature
+references:1965301399|1999478155|2006537205|2026019603|2037954058|2055180303|2062255279|2100470808|2128272608|2151103935|2156777442|2161969291|2169041475|2172188317|2211996548
+
+
+id:2904140782
+title:Dynamic Hand Gesture Recognition Based On Depth Information
+year:2018
+author information:[
+author name:Xinran Bai
+author organization:Xian Jiaotong University
+author id:2903919633|
+author name:Chen Li
+author organization:University Xian
+author id:2904488263|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2903650365|
+author name:Hui Song
+author organization:University of PAP
+author id:2905535534|
+]
+abstract:palm|focus|experimental|extracted|problem|complex|temporal|utilized|algorithm|similar|images|shape|method|methods|accurately|recognize|lighting|environment|relative|gestures|gesture|methods|svm|consuming|temporal|feature|consisted|trajectory|hand|compared|blurring|change|unify|combines|depth|absolute|hull|movement|adopted|represent|strategy|use|recognition|paper|shape|voting|express|features|dimensions|dynamic|different|avoiding|results|image|changes|less|fingertips|condition|kcurvature|extract|proposed|effect|solve|position|region|present|since|higher|delicately|classify|dynamic|applied|changes|show|detect|representation|gesture|pyramid|rate|convex|process|determine|center|trajectory|better|existing|location|time
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Computer vision|Control theory|Gesture|Support vector machine|Convex hull|Gesture recognition|Pyramid algorithm|Hand region|Artificial intelligence|Engineering|Trajectory|Shape change
+references:2089590867|2562554939
+
+
+id:2904235691
+title:Image Copy-Move Forgery Detection Based on SIFT-BRISK
+year:2018
+author information:[
+author name:Tianyang Du
+author organization:Xian Jiaotong University
+author id:2904728958|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2903650365|
+author name:Chen Li
+author organization:University Xian
+author id:2904488263|
+]
+abstract:sift|forged|use|siftbased|quickly|extracting|experimental|used|descriptor|type|keypoint|premise|invariance|generate|results|algorithm|image|similar|efficiency|method|excellent|widely|significant|propose|keypoints|invariance|hamming|traditional|proposed|leads|binary|position|distance|show|scale|long|speed|robustness|descriptors|copymove|keypoints|common|feature|paper|detection|brisk|highdimensional|detection|copymove|determine|efficient|rotation|match|improvement|performed|forgery|obtains|better|forgery|matching|due|well|information|time
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Scale-invariant feature transform|Feature descriptor|Scale invariance|Invariant (physics)|Pattern recognition|Control theory|Robustness (computer science)|Hamming distance|Forgery detection|Artificial intelligence|Engineering|Binary number
+references:2124386111|2141584146|2572561073|2578241693|2963777235
+
+
+id:2904511435
+title:A SSD-based Crowded Pedestrian Detection Method
+year:2018
+author information:[
+author name:Wenjing Zhang
+author organization:Xian Jiaotong University
+author id:2903801309|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2903650365|
+author name:Chen Li
+author organization:University Xian
+author id:2904488263|
+author name:Haojia Li
+author organization:Xian Jiaotong University
+author id:2903646435|
+]
+abstract:crowd|experimental|pedestrians|easier|setting|problem|complex|order|boxes|based|method|thus|large|propose|benchmark|abnormal|field|adopt|ssdbased|much|become|object|methods|eliminate|datasets|matching|computer|default|aspect|detection|indicate|convolutional|detection|density|considering|unfit|dataset|ratio|small|standard|separate|paper|inria|good|research|influence|horizontal|vision|results|including|adapt|significant|caltech|background|person|scenes|scenes|topic|present|detector|deep|pedestrian|learning|general|public|missing|kernels|designed|direction|ssd|effectively|crowded|increase|instead|better|existing|performance|ones|pedestrian|suitable
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Object detection|Computer vision|Control engineering|Artificial intelligence|Deep learning|Engineering|Detector|Pedestrian detection|Offset (computer science)
+references:1536680647|1999853363|2031454541|2074777933|2102605133|2155893237|2161969291|2168356304|2170101770|2179352600|2193145675|2405365196|2548197316|2963037989
+
+
+id:2904815051
+title:A Voice Activity Detection Method Based on DWT-MVNPDF
+year:2018
+author information:[
+author name:Chen Li
+author organization:University Xian
+author id:2674297935|
+author name:Feiyang Wang
+author organization:Xian Jiaotong University
+author id:2647661327|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2804162338|
+author name:Hui Song
+author organization:University of PAP
+author id:2905535534|
+author name:Xuebo Meng
+author organization:Xian Jiaotong University
+author id:2904113905|
+]
+abstract:voice|spectral|used|experiment|function|dwtmvnpdf|different|calculated|results|energy|obtain|new|based|method|level|probability||extract|environments|proposed|spectrum|wavelet|dualthreshold|classify|algorithms|fact|activity|multiresolution|purpose|multivariate|show|decomposition|executed|distribution|segments|transform|file|entropy|feature|snr|noise|audio|according|normal|detection|threelayer|density|superior|proposed|vad|coefficients|file|dwtmvnpdf|vad|signal|ratio
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Audio signal|Wavelet decomposition|Pattern recognition|Voice activity detection|Control theory|Spectral power distribution|Multivariate normal distribution|Artificial intelligence|Engineering|Probability density function|Wavelet transform
+references:182487737|1974387177|2148128296
+
+
+id:2908235163
+title:Detecting Audio Splicing Forgery Algorithm Based on Local Noise Level Estimation
+year:2018
+author information:[
+author name:Xuebo Meng
+author organization:Xian Jiaotong University
+author id:2904113905|
+author name:Chen Li
+author organization:University Xian
+author id:2674297935|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2804162338|
+]
+abstract:tamper|number|filtered|splicing|order|algorithm|using|method|splicing|accurately|peaks|exist|audio|study|curve|methods|differences|syllables|focuses|kurtosis|distribution|endpoint|ways|entropy|unlike|noise|audio|close|characterized|detection|density|one|bandpass|domain|framing|similarities|syllable|tampering|operation|first|spectral|constant|use|used|heterogeneous|whether|continuous|method|homogenous|different|calculated|including|splicing|syllable|level|need|comparing|significant|judged|background|locate|according|detect|common|paper|since|value|digital|determine|length|recorded|variance|mean|location
+venue name:International Conference on Systems
+venue id:1159975077
+venue type:C
+document type:Conference
+study fields:Background noise|Computer science|Ambient noise level|Noise level|Algorithm|Digital audio|RNA splicing|Syllable|Density distribution|Kurtosis
+references:2094810510|2128876713|2146675392|2159969054|2290955290
+
+
+id:2982997378
+title:A Semi-fragile Video Watermarking Algorithm Based On Chromatic Residual DCT
+year:2019
+author information:[
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2117572423|
+author name:Hangtao Dai
+author organization:Xi’an Jiaotong University
+author id:2982792407|
+author name:Chen Li
+author organization:University Xian
+author id:2984462300|
+]
+abstract:tamper|copyright|select|intra|experimental|bit|three|number|different|block|near|classifies|negligible|algorithm|reduce|based|modulate|using|watermark|probability|quality|watermarking|contains|sensitivity|simultaneously|relative|sub|brought|scheme|secret|k|found|chromatic|semi|protect|relationship|according|key|detection|change|nonzero|tampering|generates|use|residual|good|macroblock|frequency|mode|attacks|basically|recompression|nnz|results|stability|level|chroma|less|changes|sort|affected|dct|prediction|fragile|luminance|code|locate|according|show|detect|video|medium|robustness|frequency|malicious|operations|rate|asynchronous|mode|coefficients|constant|authentication|effectively|blocks|also|stable|coefficients
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Macroblock|Residual|Digital watermarking|Pattern recognition|Chromatic scale|Computer science|Discrete cosine transform|Algorithm|Robustness (computer science)|Artificial intelligence|Luminance|Video quality
+references:857675311|1966171639|1971221370|2010033627|2016454081|2020554143|2029977467|2065515862|2069994443|2131181771|2139791132|2169940774
+
+
+id:2997054210
+title:Homologous Audio Copy-move Tampering Detection Method Based on Pitch
+year:2019
+author information:[
+author name:Chen Li
+author organization:University Xian
+author id:2674297935|
+author name:Yamei Sun
+author organization:Xi’an Jiaotong University
+author id:2996869394|
+author name:Xuebo Meng
+author organization:Xian Jiaotong University
+author id:2904113905|
+author name:Lihua Tian
+author organization:Xian Jiaotong University
+author id:2804162338|
+]
+abstract:principle|nonlinearly|experimental|extracted|different|whether|pitches|pitch|usually|different|results|order|algorithm|based|method|individual|syllable|comparing|accurately|syllables|sequence|proposed|even|person|determined|difference|completely|word|audio|locate|reliability|show|focuses|sequences|two|preprocessed|copymove|feature|verify|audio|detection|characteristics|set|robust|authenticity|better|efficiency|forgery|proposed|conventional|speech|corresponding|various|speaks|calculated|threshold|homologous|attacks
+venue name:International Conference on Communication Technology
+venue id:2624056127
+venue type:C
+document type:Conference
+study fields:Computer science|Speech recognition|Real-time computing|Syllable
+references:1553534962|2107203630|2161429835
+

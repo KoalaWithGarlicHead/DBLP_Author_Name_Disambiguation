@@ -1,0 +1,1775 @@
+
+id:972769462
+title:An intelligent character recognition method to filter spam images on cloud
+year:2017
+author information:[
+author name:Jun Chen
+author organization:Nankai University
+author id:2717638440|
+author name:Hong Zhao
+author organization:Nankai University
+author id:2706172774|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Jian Zhang
+author organization:Nankai University
+author id:2692407356|
+author name:Tao Li
+author organization:Nankai University
+author id:2421204222|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:whole|fair|required|improved|character|far|classifier|easily|usually|recent|filtering|character|soft|generation|hog|encouraging|images|using|impact|expected|recognize|version|years|dalal|recipients|messages|difference|become|illegal|methods|protection|storage|datasets|two|experiments|extended|demonstrated|embedded|one|great|neighbor|filtering|aiming|cannot|spam|dataset|sliding|data|variations|paper|recognition|network|used|cloud|nearest|harmful|influence|cloud|textbased|features|shown|unsuitable|classifiers|helpful|results|always|image|comparison|minors|word|occur|sharing|important|predefined|proposed|converted|solve|nonnegligible|problems|neural|applied|detect|scale|best|storage|negative|computing|candidate|public|make|fuzzy|owner|recognition|match|data|exactly|way|intelligent|better|performance|due|cloud|translation|avoid|window|work
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Data mining|Sliding window protocol|Intelligent character recognition|Computer science|Data sharing|Filter (signal processing)|Artificial intelligence|Soft computing|Artificial neural network|Machine learning|Cloud storage|Cloud computing
+references:153261565|1483542394|1521064364|1579279110|1603112761|1852390226|1963895093|1966631307|1968134183|1971011125|1978729128|1992986938|1995790019|1996067475|1998042868|1998399533|2007652426|2014913982|2015585187|2017278151|2024845132|2044772384|2049951199|2065029203|2066448589|2091291608|2096281078|2097350013|2104939601|2104946622|2113650053|2118875948|2131163834|2135431879|2138565682|2141756865|2142159465|2143973041|2161969291|2166949156|2282054813|2294259878|2326627146
+
+
+id:1886423216
+title:A Margin Maximization Training Algorithm for BP Network
+year:2007
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2657509091|
+author name:Qingren Wang
+author organization:Nankai University
+author id:2677418831|
+]
+abstract:svm|considered|paper|maximization|network|generalization|problem|shows|results|algorithm|margin|grouped|experimental|propose|size|proposed|generalization|improve|nn|criterion|similar|show|training|two|bp|network|paper|ability|key|sample|limited|unlimited|sample|performance|comparable
+venue name:International Symposium on Neural Networks
+venue id:1161424158
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Support vector machine|Algorithm|Artificial intelligence|Decision boundary|Machine learning|Margin maximization
+references:2113853244|2137532058|2294603245
+
+
+id:1968679908
+title:Research on the Text Detection and Extraction from Complex Images
+year:2013
+author information:[
+author name:Jian Zhang
+author organization:Nankai University
+author id:2439476399|
+author name:Renhong Cheng
+author organization:Nankai University
+author id:2229984745|
+author name:Kai Wang
+author organization:Nankai University
+author id:2309904012|
+author name:Hong Zhao
+author organization:Nankai University
+author id:2306396115|
+]
+abstract:videos|years|scene|number|find|understanding|text|fully|challenge|new|images|still|natural|past|ideas|extraction|important|tremendously|extract|proposed|utilize|try|borndigital|images|increased|methods|detect|appears|key|digital|detection|image|although|many|way|existing|disadvantages|advantages|summarize|describe|comprehensive
+venue name:International Conference on Emerging Intelligent Data and Web Technologies
+venue id:2754050073
+venue type:C
+document type:Conference
+study fields:Computer vision|Character recognition|Pattern recognition|Computer science|Feature extraction|Image segmentation|Digital image|Artificial intelligence|Hidden Markov model|Text detection|Optical character recognition software
+references:1483542394|1530108572|1603112761|1677409904|1814573448|1852390226|1966631307|1968134183|1972774730|1986926502|1988029749|1992986938|1995790019|1998042868|1998399533|2006251269|2006408850|2015787694|2017278151|2024845132|2065029203|2066448589|2081362370|2091696127|2096281078|2104125540|2104946622|2108807675|2112586637|2117586922|2119076929|2120189271|2124164882|2124386111|2127251585|2131163834|2132122100|2132985810|2136791484|2137718414|2137736855|2138565682|2138972489|2141756865|2142159465|2143516773|2143973041|2147554628|2147880316|2151103935|2152235937|2160069326|2161969291|2162075956|2163113724|2166633748|2166757711|2166949156|2535516436
+
+
+id:1976487042
+title:A SVM-HMM Based Online Classifier for Handwritten Chemical Symbols
+year:2010
+author information:[
+author name:Yang Zhang
+author organization:Nankai University
+author id:2645303544|
+author name:Guangshun Shi
+author organization:Nankai University
+author id:2276952765|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:data|ring|samples|recognition|accuracy|used|second|fine|classifier|algorithm|symbols|based|method|distinguish|test|samples|contains|proposed|chemical|improve|set|obtained|stage|rough|nonring|training|svm|symbols|ors|paper|task|organic|pointsequencereordering|set|hmm|handwritten|structure|stage|doublestage|novel|first|presents
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Support vector machine|Symbol (chemistry)|Handwriting recognition|Speech recognition|Test data|Artificial intelligence|Hidden Markov model|Contextual image classification|Statistical classification|Classifier (linguistics)
+references:2099522111|2109580984|2113935282|2138905855|2145029943|2153527137
+
+
+id:1992261731
+title:A fast adaptive binarization method for complex scene images
+year:2012
+author information:[
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Jiaofeng Li
+author organization:Nankai University
+author id:2559583849|
+author name:Jiao Jiao
+author organization:Nankai University
+author id:2479911037|
+author name:Jing Xu
+author organization:Nankai University
+author id:2673604383|
+]
+abstract:experimental|scene|shows|realtime|complex|evaluated|results|based|similar|images|method|applicable|proposed|provide|wavelet|processing|support|icdar|methods|binarization|adaptive|processes|robust|mobile|devices|filter|reading|performance|suitable|work|comparable|novel
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Mobile computing|Computer vision|Pattern recognition|Computer science|Mobile device|Artificial intelligence|Wavelet filter
+references:1821793444|1973925224|1987773747|1995790019|1995971685|1998399533|2046836262|2067887288|2072610689|2081868602|2103233308|2127319406|2128060444|2131447359|2132984323|2133003941|2140132917|2146842127|2148539800|2154602117|2165569569
+
+
+id:2034850442
+title:A Comparative Study on CRFs for Fore- and Background Classification
+year:2013
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2309904012|
+author name:Xingli Zhao
+author organization:Nankai University
+author id:2226213580|
+author name:Hong Zhao
+author organization:Nankai University
+author id:2306396115|
+author name:Jian Zhang
+author organization:Nankai University
+author id:2439476399|
+]
+abstract:conditional|accuracy|character|optimization|clue|complex|text|different|results|reduce|based|corrupted|images|frames|natural|experimental|difficult|methods|comparing|analysis|important|effects|provide|background|indexing|demonstrate|cracks|methods|video|content|binarization|random|precisely|paper|segmentation|make|enables|situations|types|recognition|automatic|image|text|many|clean|field|contained|performance|elements|uses|optical
+venue name:International Conference on Emerging Intelligent Data and Web Technologies
+venue id:2754050073
+venue type:C
+document type:Conference
+study fields:Computer vision|Scale-space segmentation|Pattern recognition|Image texture|Segmentation|Computer science|Optical character recognition|Segmentation-based object categorization|Image segmentation|Text segmentation|Artificial intelligence|Contextual image classification
+references:1599061990|2006048156|2051434435|2078409719|2101627831|2131415713|2147880316|2175160295
+
+
+id:2043869514
+title:GPU Acceleration of Interior Point Methods in Large Scale SVM Training
+year:2013
+author information:[
+author name:Tao Li
+author organization:Nankai University
+author id:2303620922|
+author name:Hua Li
+author organization:Nankai University
+author id:2303956581|
+author name:Xuechen Liu
+author organization:Nankai University
+author id:2548959961|
+author name:Shuai Zhang
+author organization:Nankai University
+author id:2440012745|
+author name:Kai Wang
+author organization:Nankai University
+author id:2658501787|
+author name:Yulu Yang
+author organization:Nankai University
+author id:2696740403|
+]
+abstract:equivalent|big|sufficiently|maintain|dataset|improves|ipm|interior|processors|approach|cover|problem|cluster|predictable|expensive|successfully|using|examples|large|node|system|millions|gpuequipped|complexity|gpus|svm|reallife|exploits|yield|vector|libsvm|computationally|linear|problem|dominant|efficient|training|speedup|workload|quadratic|unified|single|machine|polynomial|constant|several|main|used|gpu|gains|motivates|solution|programming|needs|demonstrates|architecture|device|proposes|gpus|url|involved|proposed|improve|solve|cholesky|support|methods|problems|nvidia|parallelism|scale|training|ipm|storage|quadcore|times|operations|paper|convex|iteration|clusters|allows|cost|implementation|point|factorization|structure|performance|compute|achieved|time|significantly
+venue name:Trust, Security And Privacy In Computing And Communications
+venue id:2626753082
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Computer science|CUDA|Parallel computing|Support vector machine|Quadratic programming|Interior point method|Convex optimization|Speedup|Cholesky decomposition
+references:127032682|1873332500|2065887373|2086867325|2099262739|2100522629|2117990954|2146987001|2158348507|2159350554|2160599455|2162322364|2165831368
+
+
+id:2069446244
+title:An improved binarization method using inter- and intra-block features for natural images
+year:2012
+author information:[
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Jiao Jiao
+author organization:Nankai University
+author id:2479911037|
+author name:Jing Xu
+author organization:Nankai University
+author id:2673604383|
+]
+abstract:considered|dataset|competition|three|extracted|introduced|complex|block|text|intrablock|based|images|using|natural|method|degraded|contains|text|icdar|nonuniform|two|binarization|adaptive|low|variations|demonstrated|produce|extensive|orientation|able|features|stages|main|threshold|binarization|features|presented|results|calculated|inter|wellknown|new|important|candidates|background|improve|techniques|subcomponents|analysis|scores|line|blocks|candidate|mentioned|pixel|characteristics|original|blocks|contentbased|superior|performance|scored|location
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Text mining|Pattern recognition|Computer science|Adaptive method|Font|Image processing|Feature extraction|Artificial intelligence|Pixel
+references:1970800786|1973925224|1995790019|2072610689|2076546855|2107835247|2127319406|2128060444|2133003941|2165569569|2915527102
+
+
+id:2116619110
+title:The Risk Neural Network Based Visibility Forecast
+year:2009
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Hong Zhao
+author organization:Nankai University
+author id:2311874748|
+author name:Aixia Liu
+author organization:Meteorological Institute of Tianjin, Tianjin, China
+author id:2481922696|
+author name:Zhipeng Bai
+author organization:Nankai University
+author id:2004368076|
+]
+abstract:standard|mainly|poor|high|model|greater|results|given|visibility|depends|experimental|forecast|notable|provide|value|relatively|support|higher|neural|show|error|measurement|network|low|based|human|situation|case|opposed|linear|one|objectivity|superior|regression|risk|highvisibility|work
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Econometrics|Data modeling|Visibility|Risk analysis (business)|Computer science|Regression analysis|Artificial intelligence|Artificial neural network|Weather forecasting|Observational error|Machine learning|Linear regression
+references:2152320294|2157729848
+
+
+id:2119076929
+title:High Performance Chinese/English Mixed OCR with Character Level Language Identification
+year:2009
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Jianming Jin
+author organization:HP Labs. China, Beijing, China
+author id:2307492094|
+author name:Qingren Wang
+author organization:Nankai University
+author id:2650027137|
+]
+abstract:experimental|fit|problem|identification|algorithm|based|large|samples|system|simultaneously|study|differences|document|global|two|products|increases|english|key|processing|one|chinese|drastically|information|novel|resolve|several|language|research|high|split|different|experiment|bayesian|important|proposed|techniques|improve|support|errors|formula|rather|applied|part|book|technique|rule|mixed|error|drops|rate|provides|previous|parts|english|performance|due|achieved|magazine|work|ocr
+venue name:International Conference on Document Analysis and Recognition
+venue id:1150099070
+venue type:C
+document type:Conference
+study fields:Computer science|Global information|System error|Image segmentation|Artificial intelligence|Natural language processing|Pattern recognition|Word error rate|Document processing|Optical character recognition|Speech recognition|Natural language|Language identification
+references:1971800196|2112355528|2124588404|2168664361|2171411755
+
+
+id:2143305167
+title:Machine-readable region identification from partially blurred document images
+year:2015
+author information:[
+author name:Qinwen Wang
+author organization:Nankai University
+author id:2423688233|
+author name:Yixue Wang
+author organization:Nankai University
+author id:2232379215|
+author name:Chenyang Wang
+author organization:Nankai University
+author id:2301731224|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Tao Li
+author organization:Nankai University
+author id:2421204222|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:named|region|considered|machinereadable|recognized|whole|occurs|identified|realtime|text|filtering|based|images|method|compared|index|quality|light|word|images|document|blur|matrix|minimized|patch|two|performance|one|words|image|assess|meet|maximum|lowpass|wellrecognized|partially|sometimes|recognition|used|influence|reference|correctly|assessment|shows|partial|generated|function|results|image|given|weight|proposed|mrri|region|paper|ocr|structural|similarity|captured|applications|tesseractocr|blurred|applying|cost|identify|nonblurred|calculating|requirement|better|performance|build|ocr|applications
+venue name:International Conference on Document Analysis and Recognition
+venue id:1150099070
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Matrix (mathematics)|Computer science|Reference image|Word recognition|Image quality|Filter (signal processing)|Artificial intelligence
+references:1982471090|1987489060|2001642682|2005664438|2013254516|2018918151|2051596736|2073623229|2102166818|2128060444|2129644086|2133665775|2141983208|2163370434
+
+
+id:2145029943
+title:A study of on-line handwritten chemical expressions recognition
+year:2008
+author information:[
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Guangshun Shi
+author organization:Nankai University
+author id:2276952765|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Qian Geng
+author organization:Nankai University
+author id:2478166561|
+author name:Qingren Wang
+author organization:Nankai University
+author id:2650027137|
+]
+abstract:reliable|recognition|used|shows|major|experiment|presented|online|different|algorithm|symbols|actual|distinguish|fatherly|xmlbased|recognize|expressions|propose|demand|modules|twolevel|users|system|chemical|substances|parts|recognizes|designs|study|isolated|segments|expressions|search|paper|structural|result|recognition|also|handwritten|help|modify|meet|information|novel|first
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Algorithm design|Intelligent character recognition|Pattern recognition|XML|Expression (mathematics)|Computer science|Document processing|Handwriting recognition|Image segmentation|Speech recognition|Artificial intelligence|Intelligent word recognition
+references:1970026646|2038863377|2086803661|2095807336|2112207373|2142069714
+
+
+id:2157729848
+title:The asymptotic optimization of pre-edited ANN classifier
+year:2009
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Guangshun Shi
+author organization:Nankai University
+author id:2276952765|
+author name:Qingren Wang
+author organization:Nankai University
+author id:2650027137|
+]
+abstract:optimal|simulation|experimental|improved|problem|optimization|review|four|classifier|grouped|method|probability|size|provide|generalization|adopt|study|works|prove|methods|onestep|promote|gives|preedited|unlimited|discussed|namely|nonparametric|help|standard|theoretical|paper|main|twostep|research|shows|presented|method|asymptotically|widely|asymptotic|one|support|ann|neural|applied|absence|probability|training|mixed|network|related|support|practical|previous|studied|better|artificial|performance|application|due|work|hypothesis
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Computer science|Artificial intelligence|Classifier (linguistics)|Artificial neural network|Asymptotically optimal algorithm|Network model|Machine learning
+references:1995583909|2016043834|2098437527|2107686700|2113853244|2117428648|2117941247|2118496821|2124287399|2127570188|2132666354|2136333413|2137532058|2139786505|2140539590|2141278204|2145085734|2149651625|2157679397|2166729631
+
+
+id:2293882548
+title:Optimization of air pollutant monitoring stations with constraints using genetic algorithm
+year:2015
+author information:[
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Hong Zhao
+author organization:Nankai University
+author id:2915525734|
+author name:Yanan Ding
+author organization:NanKai University
+author id:2970203593|
+author name:Tao Li
+author organization:Nankai University
+author id:2421204222|
+author name:Lujian Hou
+author organization:Jinan Academy of Environmental Protection Science, Jinan, China. E-mail: houlujian@vip.sina.com
+author id:2567984592|
+author name:Fengjuan Sun
+author organization:Jinan Academy of Environmental Protection Science, Jinan, China. E-mail: houlujian@vip.sina.com
+author id:2222842700|
+]
+abstract:placed|optimal|strength|considered|network|used|nondeterministic|optimize|sufficient|sites|model|helpful|communication|results|signal|programming|algorithm|based|aqms|similar|environmental|method|department|cost|lower|stations|monitoring|quality|important|proposed|providing|protection|air|proven|random|search|capability|design|ga|modelling|indicate|class|selecting|genetic|problem|social|also|factors|outperforms|better|site|powerful|polynomial|service|well|suitable|wireless|economical|mathematical|base
+venue name:Journal of High Speed Networks
+venue id:133922704
+venue type:J
+document type:Journal
+study fields:Base station|Wireless|Telecommunications network|Computer science|Pollutant|Real-time computing|Air quality index|Signal strength|Genetic algorithm|NP
+references:1515787069|1639032689|2093178057|2142183404
+
+
+id:2311728509
+title:HPSVM: Heterogeneous Parallel SVM with Factorization Based IPM Algorithm on CPU-GPU Cluster
+year:2016
+author information:[
+author name:Tao Li
+author organization:Nankai University
+author id:2310999575|
+author name:Xuechen Liu
+author organization:Nankai University
+author id:2231578797|
+author name:Qiankun Dong
+author organization:Nankai University
+author id:2226621584|
+author name:Wenjing Ma
+author organization:Nankai University
+author id:2557612323|
+author name:Kai Wang
+author organization:Institute of Comput., Beijing, China
+author id:2658501787|
+]
+abstract:handles|named|gpu|support|ipm|approach|via|cluster|bottleneck|specifically|optimizing|fully|algorithm|based|still|method|work|collaborative|classification|easy|propose|version|explored|statistical|experiments|svm|interior|cpugpu|dual|low|vector|mechanism|hpsvm|efficient|factorization|computation|pipeline|advantages|fast|machine|collaboration|efficiently|comprehensive|parallelization|data|solved|cpu|used|alleviate|heterogeneous|incomplete|faster|earlier|presented|hierarchical|primaldual|programming|buffers|widely|real|confronted|use|take|cholesky|largescale|memory|analysis|convergence|challenges|paradigm|show|training|point|speed|times|parallel|designed|advantage|maximal|distinguished|supervised|build|regression|datasets
+venue name:Parallel, Distributed and Network-Based Processing
+venue id:1135705775
+venue type:C
+document type:Conference
+study fields:Central processing unit|Algorithm design|GPU cluster|Programming paradigm|Incomplete Cholesky factorization|Computer science|Parallel computing|Support vector machine|Algorithm|Cluster analysis|Statistical classification
+references:127032682|1419172269|1883113581|1973444179|1987281309|2000335122|2043869514|2061219021|2065887373|2080756995|2086867325|2089282273|2095885101|2099262739|2100522629|2110122118|2116173306|2146987001|2151911322|2153635508|2156909104|2158348507|2159350554|2160599455|2161713006|2162054535|2295862081
+
+
+id:2400092189
+title:Multi-scale energy optimization for object proposal generation
+year:2017
+author information:[
+author name:Congchao Wang
+author organization:Nankai University
+author id:2169652327|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Shang-Hong Lai
+author organization:Nat. Tsing Hua University
+author id:2169494962|
+]
+abstract:functions|whole|stateoftheart|approach|number|optimization|merge|multiscales|energy|proposal|generation|likely|based|merging|images|method|unsalient|adopt|multiscale|greatly|object|algorithms|strong|methods|enjoy|global|datasets|two|experiments|local|segments|search|recall|unlike|segmentation|reduces|takes|detection|robust|set|could|one|image|superpixel|possible|proposals|compete|strength|high|edge|different|generate|always|image|test|voc|instances|proposed|present|locating|show|enjoys|pascal|salient|applying|diversified|previous|advantage|also|outperforms|generators|concerning|well|locations
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Data mining|Salience (neuroscience)|Edge detection|Computer science|Artificial intelligence|Computer vision|Object detection|Force field (chemistry)|Pattern recognition|Segmentation|Local search (optimization)|Energy minimization|Test set
+references:7746136|21025885|82130502|261873710|1507506748|1555385401|1861492603|1930392762|1947031653|1958328135|1964005749|1976931317|1989684337|1991367009|1999478155|2004362043|2008541429|2010181071|2031489346|2032078878|2035784046|2037954058|2039298799|2039313011|2046382188|2047670868|2061035601|2066624635|2071480959|2080142539|2088049833|2104446196|2108598243|2118246710|2121660792|2128272608|2128340050|2128715914|2129305389|2129587342|2139047169|2161969291|2168356304|2183182206|2343187456|2541335858|2952122856
+
+
+id:2405914773
+title:OCR with Adaptive Dictionary
+year:2015
+author information:[
+author name:Chenyang Wang
+author organization:Nankai University
+author id:2301731224|
+author name:Yanhong Xie
+author organization:Shenzhouhaotian Technology Co., Ltd
+author id:2513386431|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Tao Li
+author organization:Nankai University
+author id:2421204222|
+]
+abstract:data|focus|language|construct|improved|shows|presented|dictionaries|text|documents|results|utilized|reduce|using|comparison|method|compared|experimental|expected|reduced|improving|dictionary|imaged|system|proposed|etc|beneficial|improve|demonstrate|dictionaries|facilitate|works|methods|document|categorized|proven|size|dictionary|adaptive|web|performance|previous|categorization|identify|implementation|specific|better|existing|framework|performance|content|reducing|category|significantly|methodology|ocr
+venue name:International Conference on Image and Graphics
+venue id:1166922208
+venue type:C
+document type:Conference
+study fields:Categorization|On Language|Entertainment|Computer science|Speech recognition|Language identification|Text categorization
+references:1978729128|2015178565|2029189646|2069472161|2098134779|2118020653|2118748137|2121979056|2135231474|2136343973|2140623389|2141756865|2143842970|2158657513|2164115145
+
+
+id:2513550067
+title:Discovering affective regions in deep convolutional neural networks for visual sentiment prediction
+year:2016
+author information:[
+author name:Ming Sun
+author organization:Nankai University
+author id:2510514903|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Hui Shen
+author organization:Nankai University
+author id:2642334389|
+]
+abstract:select|objects|focus|stateoftheart|via|score|problem|rank|supplementing|algorithm|still|using|method|work|inspired|propose|distributions|input|boost|object|cnn|images|regions|computed|achieve|automatically|experiments|global|k|representations|local|n|current|top|sentiments|popular|discovering|address|observation|image|model|massive|regarded|able|scores|use|several|recognizing|features|candidates|generate|selected|combine|discover|image|emotions|query|tool|wholeimage|offtheshelf|improving|extract|objectness|carry|proposals|predicted|sentiment|deep|scores|affective|pretrained|show|detect|salient|finetuned|performances|argue|label|ones|datasets
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Computer science|Convolutional neural network|Visualization|Salient objects|Feature extraction|Artificial intelligence|Affect (psychology)|Artificial neural network|Machine learning
+references:1784731433|1875160599|1930223417|2003856922|2004236981|2010181071|2036950746|2046682605|2047281828|2049296440|2056553798|2074356411|2075456404|2082398333|2102605133|2124801089|2128715914|2155893237|2963992782
+
+
+id:2515186361
+title:Shape-guided segmentation for fine-grained visual categorization
+year:2016
+author information:[
+author name:Ming Sun
+author organization:Nankai University
+author id:2510514903|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Bo Sun
+author organization:Nankai University
+author id:2684399643|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:localization|proposal|dataset|foreground|stateoftheart|extracted|three|redefined|introduced|pick|classifier|visual|model|probabilities|algorithm|knowledge|energy|models|separately|shape|method|finegrained|propose|dynamically|level|aid|semantic|global|svm|two|caltechucsd|segmentation|map|estimating|compared|highquality|famous|learn|one|image|birds|sample|proposals|help|classification|information|minimum|use|used|good|translate|preferable|features|edge|prior|function|results|us|obtain|image|including|test|query|pixels|extract|final|retrieve|shapeguided|caffe|proposals|finetune|locating|deep|part|aspects|show|training|candidate|pixel|parts|learned|label|approaches|outperforms|corresponding|subset|categorization
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Scale-space segmentation|Pattern recognition|Range segmentation|Computer science|Segmentation|Image texture|Segmentation-based object categorization|Image segmentation|Artificial intelligence|Region growing|Minimum spanning tree-based segmentation
+references:56385144|1616462885|1745334888|1898560071|1928906481|1995543189|2014102544|2049750909|2055349880|2060475276|2083367367|2091759811|2104657103|2110015572|2118696714|2124351162|2126357415|2129587342|2135706578|2152411181|2155893237|2167229723|2169501191|2196615847|2296511073
+
+
+id:2519210008
+title:A Benchmark for Automatic Visual Classification of Clinical Skin Disease Images
+year:2016
+author information:[
+author name:Xiaoxiao Sun
+author organization:NanKai University
+author id:2534032009|
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Ming Sun
+author organization:Nankai University
+author id:2510514903|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:pervades|occurs|hope|illnesses|structure|visual|state|recent|tasks|images|using|shape|diseases|benchmark|contains|system|even|doctors|neural|methods|skin|cnns|computer|adoption|varying|encourage|art|address|problem|one|many|extensive|classification|dataset|recognition|mainly|research|analyses|successes|including|diagnosis|difficult|vision|clinical|skin|job|higher|largest|atrisk|according|best|common|related|human|convolutional|disease|introduce|rates|helpful|perform|affects|also|intelligent|currently|due|observing|diseases
+venue name:European Conference on Computer Vision
+venue id:1124077590
+venue type:C
+document type:Conference
+study fields:Computer vision|Disease classification|Disease|Pattern recognition|Computer science|Convolutional neural network|Computer-aided diagnosis|Visual recognition|Artificial intelligence|Contextual image classification|Machine learning
+references:56385144|1686810756|1898560071|1958236864|1971614991|1988781559|1994213117|1995318441|1996828958|2008981004|2024789802|2027922120|2040403426|2048297895|2049750909|2058305271|2059238568|2061253660|2066941820|2102605133|2103490241|2110765924|2119525058|2129492014|2131264832|2134670479|2135706578|2139888281|2155952429|2162915993|2163605009|2169501191|2213241010|2293474310|2404812871|2533598788|2952429010
+
+
+id:2792110043
+title:BTS-DSN: Deeply supervised neural network with short connections for retinal vessel segmentation
+year:2019
+author information:[
+author name:Song Guo
+author organization:Nankai University
+author id:2791152764|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Hong Kang
+author organization:NanKai University
+author id:2940136906|
+author name:Yujun Zhang
+author organization:Institute of Computing Technology, Chinese Academy, China
+author id:2936214572|
+author name:Yingqi Gao
+author organization:Nankai University
+author id:2936807563|
+author name:Tao Li
+author organization:Nankai University
+author id:2663998573|
+]
+abstract:employ|results|stateoftheart|three|objective|patch|vessel|complex|deeply|connection|model|presence|respectively|similar|images|background|method|multiscale|pass|methods||eye|crosstraining|finer|competitive|experiments|much|semantic|images|methods|btsdsn|layers|world|low|segmentation|abstract|one|structures|conclusions|highlevel|results|showed|information|several|achieves|available|used|stare|source|challenging|drive|fundus|high|ophthalmological|noises|results|connections|segmentation|bottomtop|level|diagnosis|real|sideoutputs|important|condition|task|pixels|transfer|proposed|lowlevel|present|methods|sideoutput|code|show|microaneurysms|behaves|refining|network|vessel|microvessel|passes|public|structural|factor|human|topbottom|requirements|verified|better|supervised|performance|due|short|achieved|datasets|suitable|reducing|diseases
+venue name:International Journal of Medical Informatics
+venue id:53142634
+venue type:J
+document type:Journal
+study fields:Human eye|Vessel segmentation|Data mining|Pattern recognition|Source code|Fundus (eye)|Semantic information|Pixel|Artificial intelligence|Artificial neural network|NASA Deep Space Network|Medicine
+references:1533861849|1903029394|1924902684|1974572900|1974954013|2017331759|2033723371|2037227137|2037776979|2045227075|2069951134|2106883050|2109037308|2116628223|2128457244|2129587342|2132519114|2145305441|2150769593|2155893237|2163344010|2171459511|2194775991|2206167351|2327793514|2404019942|2513326255|2527341761|2561516185|2607333215|2620722267|2740248187|2754904630|2805657784|2809144587|2891656998|2893691907
+
+
+id:2799849986
+title:DCNR: deep cube CNN with random forest for hyperspectral image classification
+year:2019
+author information:[
+author name:Tao Li
+author organization:Nankai University
+author id:2663998573|
+author name:Jiabing Leng
+author organization:NanKai University
+author id:2269095877|
+author name:Lingyan Kong
+author organization:NanKai University
+author id:2751689376|
+author name:Song Guo
+author organization:Nankai University
+author id:2791152764|
+author name:Gang Bai
+author organization:Nankai University
+author id:2578451840|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:together|outperforming|accuracy|image|remote|extracted|put|classifier|model|usually|cube|tasks|models|satisfied|containing|ip|raw|classification|demand|samples|labor|field|thereby|utilize|neural|cnn|strong|forest|utilizing|achieve|fundamental|respectively|proven|datasets|sa|composed|get|forward|one|data|highlevel|neighbor|accuracy|results|pixel|information|data|putting|fed|hyperspectral|features|high|generated|neighbors|directly|dcnr|representative|hsi|extract|pixels|deep|analysis|classifier|show|learning|training|effective|random|pixel|designed|sensing|applying|cost|cubic|limited|rich|label|enough|target|contained|specially|spectralspatial|significantly
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Hyperspectral image classification|Computer vision|Pattern recognition|Convolutional neural network|Computer science|Raw data|Hyperspectral imaging|Pixel|Artificial intelligence|Deep learning|Random forest|Cube
+references:572785986|859421335|1521436688|1665214252|1686810756|1832693441|2005876975|2008847349|2019338222|2025768430|2029316659|2041100636|2090424610|2101711129|2104269704|2117741752|2130627644|2145094598|2151288205|2163605009|2166923144|2246035736|2314785379|2327501763|2327894203|2471138382|2471479712|2509773429|2520594535|2520861906|2538244214|2560609797|2581546270|2592929672|2599743206|2619145493|2749116339|2767072221
+
+
+id:2805820938
+title:Dynamic Match Kernel With Deep Convolutional Features for Image Retrieval
+year:2018
+author information:[
+author name:Jufeng Yang
+author organization:Nankai University
+author id:2796990284|
+author name:Jie Liang
+author organization:Nankai University
+author id:2777830517|
+author name:Hui Shen
+author organization:Nankai University
+author id:2642334389|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Paul L. Rosin
+author organization:Cardiff University
+author id:2165502546|
+author name:Ming-Hsuan Yang
+author organization:University
+author id:2112462370|
+]
+abstract:extensive|irrelevant|considered|bag|construct|stateoftheart|adaptively|evaluation|semantical|pairwise|retrieval|visual|usually|recent|based|similar|images|qualitatively|method|patches|propose|benchmark|thresholds|among|contrast|matched|evaluate|much|semantic|cnn|independent|methods|experiments|focuses|global|merits|networks|retrieval|local|quantitatively|matching|semanticconstrained|distractors|validate|convolutional|may|sets|kernel|one|appearance|framework|constraint|graphbased|powers|leverages|features|data|retrieved|complements|dynamic|different|five|image|settings|static|query|hamming|relevant|offtheshelf|proposed|tackle|demonstrate|largescale|deep|neural|distance|discriminative|descriptors|pairs|candidate|metrics|similarity|incorporating|enhancing|effectively|match|multiple|matches|calculating|also|although|filters|distinguished|outperforms|various|paid|typical|attention|ones|determining|significantly
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Bag-of-words model in computer vision|Pattern recognition|Minutiae|Convolutional neural network|Search engine indexing|Image retrieval|Feature extraction|Artificial intelligence|Discriminative model|Mathematics
+references:204268067|1524680991|1556531089|1576280608|1833123814|1896794744|1913833407|1922773808|1935207225|1947372417|1967643748|1972378554|1976794880|1979931042|1996169591|1997933354|1999817731|2023991840|2031332477|2035293196|2038752770|2044284589|2062118960|2066477856|2068143350|2071011912|2084430102|2086649520|2088866137|2097117768|2108598243|2122115292|2123872146|2128017662|2131846894|2135364649|2139172286|2141362318|2148809531|2151103935|2155980617|2163605009|2170609167|2170942078|2171139251|2172188317|2179042386|2186561432|2204800187|2212363941|2296096135|2326180695|2336803177|2340690086|2460669233|2465200025|2497173630|2499468060|2526145926|2527468481|2531380228|2549957142|2591614014|2604394529|2605439166|2606271862|2738649458|2962684186|2963125676|2963240457
+
+
+id:2939250925
+title:L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
+year:2019
+author information:[
+author name:Song Guo
+author organization:Nankai University
+author id:2791152764|
+author name:Tao Li
+author organization:Nankai University
+author id:2690678935|
+author name:Hong Kang
+author organization:NanKai University
+author id:2940136906|
+author name:Ning Li
+author organization:Nankai University
+author id:2937511609|
+author name:Yujun Zhang
+author organization:Institute of Computing Technology, Chinese Academy, China
+author id:2936214572|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+]
+abstract:extensive|multichannel|edema|leading|bin|areas|three|diabetic|score|qualitative|four|usually|evaluated|presence|classimbalance|soft|respectively|models|method|teams|blindness|depends|multiscale|considering|diseases|methods|handle|propose|||mauc|traditional|retinopathy|competitive|simultaneously|object|images|regions|aim|taking|experiments|kinds|datasets|uncertainty|two|loss|feature|causes|segmentation|demonstrated|compared|include|problem|abstract|could|one|model|lseg|framework|dataset|first|small|lossimbalance|ddr|lesions|available|achieves|main|source|interclass|fundus|high|shows|segment|challenge|including|level|deeplab|diagnosis|difficult|publicly|fusion|lesion|higher|workingage|private|deep|code|multilesion|learning|network|similarity|ddr|related|diabetic|design|eophtha|hard|designed|macular|haemorrhages|cases|better|performance|due|quantitative|response|idrid|account
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Diabetic retinopathy|Pattern recognition|Source code|End-to-end principle|Segmentation|Fundus (eye)|Artificial intelligence|Deep learning|Blindness|Mathematics|Lesion segmentation
+references:1686810756|1975322353|2001457150|2060749088|2108598243|2168894214|2286929393|2433157206|2520503963|2529609428|2749049648|2751777443|2787091153|2792618444|2949650786|2950094539|2950891598|2951581050|2951713345|2963307106
+
+
+id:2948685905
+title:Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening
+year:2019
+author information:[
+author name:Tao Li
+author organization:Nankai University
+author id:2690678935|
+author name:Yingqi Gao
+author organization:Nankai University
+author id:2936807563|
+author name:Kai Wang
+author organization:Nankai University
+author id:2618750558|
+author name:Song Guo
+author organization:Nankai University
+author id:2791152764|
+author name:Hanruo Liu
+author organization:Capital Medical University
+author id:2948281705|
+author name:Hong Kang
+author organization:NanKai University
+author id:2940136906|
+]
+abstract:named|leading|deeplearningbased|accuracy|collected|annotate|stateoftheart|four|evaluated|limitations|order|reduce|models|images|blindness|quality|retinopathy|sensitivity|level|evaluate|object|poorly|algorithms|semantic|providing|lesions|methods|loss|indicating|specificity|detection|segmentation|detection|particularly|patients|abstract|generally|automated|exploring|series|challenging|dataset|screening|available|seven|dr|fundus|high|quite|assessing|selected|obtain|image|new|including|publicly|vision|clinical|proposed|intervened|lesion|workingage|deep|divided|classes|according|cause|learning|ddr|diabetic|early|types|six|recognition|perform|graders|although|drrelated|existing|due|achieved|well|datasets|applications
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Diabetic retinopathy|Object detection|Segmentation|Fundus (eye)|Algorithm|Image quality|Artificial intelligence|Deep learning|Contextual image classification|Mathematics|Machine learning|Diabetic retinopathy screening
+references:639708223|1483870316|1686810756|2053782453|2107871626|2145305441|2150769593|2193145675|2511730936|2557283755|2749049648|2752782242|2752958790|2782364420|2787091153|2804179870|2949650786|2950094539|2950179405|2950891598|2953384591
+
+
+id:1511875443
+title:Local Patch Blind Spectral Watermarking Method for 3D Graphics
+year:2009
+author information:[
+author name:Ming Luo
+author organization:University of York
+author id:2420072269|
+author name:Kai Wang
+author organization:Université de Lyon, CNRS, INSA-Lyon, LIRIS, UMR5205, France F-69621
+author id:2651546062|
+author name:Adrian G. Bors
+author organization:University of York
+author id:343199950|
+author name:Guillaume Lavoué
+author organization:INSA-Lyon
+author id:2045943975|
+]
+abstract:spectral|stateoftheart|graphics|bit|constraints|extracted|good|dis|patch|areas|connectivity|algorithm|using|method|level|patches|introducing|robustness|propose|patches|watermarking|proposed|volumetric|analysis|domain|comparisons|embeds|object|blind|aligning|enforcing|scheme|one|experiments|show|torsion|distribution|meshes|low|provides|segmentation|component|embedded|ensures|robust|segmented|specific|equal|series|coefficients|geometry|principal
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Computer vision|3D computer graphics|Digital watermarking|Polygon mesh|Segmentation|Computer science|Matrix decomposition|Theoretical computer science|Robustness (computer science)|Artificial intelligence|Point cloud|Principal component analysis
+references:1507347479|1986849647|2004036463|2006502673|2023661891|2079066933|2094605916|2100179397|2101079470|2102259022|2108145958|2160824617|2171614304|2235901111|2294259878
+
+
+id:1590954115
+title:3D lighting-based image forgery detection using shape-from-shading
+year:2012
+author information:[
+author name:Wei Fan
+author organization:GIPSA-Lab, 11 rue des Mathématiques, F-38402 St-Martin dHères Cedex, France
+author id:2274271440|
+author name:Kai Wang
+author organization:GIPSA-Lab, 11 rue des Mathématiques, F-38402 St-Martin dHères Cedex, France
+author id:2651546062|
+author name:Francois Cayre
+author organization:GIPSA-Lab, 11 rue des Mathématiques, F-38402 St-Martin dHères Cedex, France
+author id:2461114187|
+author name:Zhang Xiong
+author organization:Beihang University
+author id:2973234200|
+]
+abstract:use|contrary|simple|stateoftheart|forensic|approach|counterforensic|intermediary|research|concentrated|results|promising|par|based|new|using|approximation|surface|method|shape|concentrates|need|kind|methods|particular|less|lighting|propose|involved|detector|line|show|least|result|general|paper|fool|shapes|object|human|means|previous|advocates|learned|purposes|suspect|approaches|shapefromshading|picture|forgery|forensics|forensics|coefficients|lightingbased|first|strategy
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Computer vision|Image forgery|Digital forensics|Computer graphics (images)|Computer science|Image processing|Image-based lighting|Artificial intelligence|Detector|Photometric stereo
+references:2003537776|2013576116|2068575457|2081698350|2082226604|2105649179|2547589364
+
+
+id:1980745118
+title:JPEG Anti-Forensics With Improved Tradeoff Between Forensic Undetectability and Image Quality
+year:2014
+author information:[
+author name:Wei Fan
+author organization:Beihang University
+author id:2274271440|
+author name:Kai Wang
+author organization:GIPSA-Lab, CNRS UMR5216, Grenoble INP, Grenoble, France
+author id:2651546062|
+author name:Francois Cayre
+author organization:GIPSA-Lab, CNRS UMR5216, Grenoble INP, Grenoble, France
+author id:2461114187|
+author name:Zhang Xiong
+author organization:Beihang University
+author id:2128879397|
+]
+abstract:bring|stateoftheart|attempt|loss|visual|modification|smoothing|spatial|successfully|method|double|removing|footprints|quality|left|variationbased|domain|experiments|compression|images|methods|jpeg|undetectability|proven|local|tradeoff|defeat|adaptive|dithering|close|processing|established|partly|domain|recovered|able|information|first|statistics|reasonable|detectors|used|forensic|status|function|feasible|signal|results|artifacts|given|image|deblocking|experimental|proposes|traces|thereafter|history|histogram|dct|proposed|simplified|coefficient|one|solving|show|total|operations|disguising|paper|perceptual|decalibration|carried|normal|aims|original|cost|identify|assignment|outperforms|better|existing|processed|application|build|due|secondround|antiforensic
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Computer vision|Lossless JPEG|Pattern recognition|Computer science|Discrete cosine transform|Image quality|Smoothing|JPEG|Artificial intelligence|Quantization (image processing)|JPEG 2000|Deblocking filter
+references:202145487|1522320082|1535817554|1955882805|1967094344|1994743750|2000434686|2008721161|2016865335|2021505776|2029719964|2030623417|2050991548|2089740826|2096933452|2106663508|2116380715|2118779391|2121029817|2123170991|2123965969|2127295759|2130225759|2133665775|2133743319|2139496607|2145915941|2147413073|2148610715|2153635508|2153797887|2158996282
+
+
+id:2008721161
+title:JPEG anti-forensics using non-parametric DCT quantization noise estimation and natural image statistics
+year:2013
+author information:[
+author name:Wei Fan
+author organization:GIPSA-Lab, CNRS UMR5216, St-Martin dHères, France
+author id:2274271440|
+author name:Kai Wang
+author organization:GIPSA-Lab, CNRS UMR5216, St-Martin dHères, France
+author id:2651546062|
+author name:François Cayre
+author organization:GIPSA-Lab, CNRS UMR5216, St-Martin dHères, France
+author id:2461114187|
+author name:Zhang Xiong
+author organization:Beihang University
+author id:2128879397|
+]
+abstract:detectors|construct|stateoftheart|forensic|without|objective|high|terms|function|visual|optimizing|first|smoothing|potential|quantization|based|image|method|natural|considering|proposes|vulnerability|whose|footprints|quality|estimation|histogram|dct|proposed|left|disguises|finally|higher|statistical|examine|methods|achieve|reliability|show|jpeg|point|detector|paper|undetectable|fool|fooled|table|compared|keeping|image|nonparametric|model|existing|processed|detectors|able|antiforensic
+venue name:Information Hiding
+venue id:1175805213
+venue type:C
+document type:Conference
+study fields:Lossless JPEG|Histogram|Computer vision|Computer science|Discrete cosine transform|Image quality|Theoretical computer science|Smoothing|JPEG|Artificial intelligence|JPEG 2000|Quantization (image processing)
+references:22271197|202145487|1706445894|1978702630|2030623417|2089740826|2096933452|2105680870|2118779391|2123965969|2145915941|2147413073|2153797887|2158996282|2172275395
+
+
+id:2044669911
+title:Median Filtered Image Quality Enhancement and Anti-Forensics via Variational Deconvolution
+year:2015
+author information:[
+author name:Wei Fan
+author organization:Beihang University
+author id:2274271440|
+author name:Kai Wang
+author organization:Grenoble Images Parole Signal Automatique Laboratory, Centre National de la Recherche Scientifique, Grenoble Institute of Technology, Grenoble, France
+author id:2651546062|
+author name:Franois Cayre
+author organization:Grenoble Images Parole Signal Automatique Laboratory, Centre National de la Recherche Scientifique, Grenoble Institute of Technology, Grenoble, France
+author id:2974734910|
+author name:Zhang Xiong
+author organization:Grenoble Images Parole Signal Automatique Laboratory, Centre National de la Recherche Scientifique, Grenoble Institute of Technology, Grenoble, France
+author id:2924523065|
+]
+abstract:tool|extent|helping|median|stateoftheart|setting|artifact|hiding|generalized|filtered|visual|smoothing|filtering|using|still|images|method|researchers|whose|quality|feasibility|effects|concealing|optimizationbased|processing|obtained|variational|images|perturbation|experiments|another|jpeg|undetectability|distribution|denoising|blocking|popularity|antiforensics|regularizes|term|demonstrated|close|image|resampling|framework|compression|disguise|adopted|first|resembles|using|detectors|used|enhancement|serve|forensic|second|prior|mf|retaining|method|keeps|kernel|artifacts|image|approximation|last|widely|proposes|traces|conducted|respect|noised|median|proposed|one|higher|additional|fidelity|derivative|term|enjoys|paper|validated|previously|parameter|convolution|pixel|value|original|also|efficacy|outperforms|better|deconvolution|processed|existing|consists|well|gaussian|eg|antiforensic
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Computer vision|Median filter|Feature detection (computer vision)|Pattern recognition|Computer science|Non-local means|Image quality|Image processing|Image Processing Artifact|Artificial intelligence|Image restoration|Kernel (image processing)
+references:1515158941|1546154723|1866230716|1972263025|1973629749|1980745118|1985613413|1987075379|1994743750|2008721161|2019716459|2021914768|2037974317|2050991548|2069759906|2081060147|2096933452|2106663508|2118779391|2123170991|2124731682|2133436437|2133665775|2138204001|2142058898|2145915941|2147298660|2148232185|2148685281|2153635508|2155084545|2155180118|2159244236|2160921722|2172275395|2544407974|2545647416
+
+
+id:2059707644
+title:Hierarchical Blind Watermarking of 3D Triangular Meshes
+year:2007
+author information:[
+author name:Kai Wang
+author organization:UMR 5205 CNRS, Villeurbanne
+author id:2651546062|
+author name:G. Lavoue
+author organization:UMR 5205 CNRS, Villeurbanne
+author id:2045943975|
+author name:F. Denis
+author organization:Laboratoire LIRIS, UMR 5205 CNRS, Universite Lyon 1, Villeurbanne, F-69622 France
+author id:2132134584|
+author name:A. Baskurt
+author organization:INSA-Lyon, CNRS, Villeurbanne
+author id:2273091458|
+]
+abstract:paper|semiregular|transformations|resolution|second|high|threedimensional|synchronizing|hierarchical|quite|attain|different|meshes|group|geometrically|watermark|considering|robustness|watermarks|invariant|watermarking|insensible|proposed|highest|triangular|wavelet|coarsest|obtained|blind|scheme|factorial|according|decomposition|proven|quantizing|experiments|capacity|primitives|candidate|inserted|common|similarity|coefficients|mesh|modifying|permutation|original|robust|literature|geometrical|highcapacity|edges|lengths|norms|achieved|coefficients|levels|first|attacks
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Digital watermarking|Polygon mesh|Pattern recognition|Computer science|Permutation|Robustness (computer science)|Watermark|Artificial intelligence|Invariant (mathematics)|Wavelet|Wavelet transform
+references:1984685043|1986849647|1989480677|2042352809|2082429090|2113463169|2126185946|2139758408|2163324644|2171614304|2294238806
+
+
+id:2094605916
+title:A Comprehensive Survey on Three-Dimensional Mesh Watermarking
+year:2008
+author information:[
+author name:Kai Wang
+author organization:INSA-Lyon, CNRS, Villeurbanne
+author id:2651546062|
+author name:G. Lavoue
+author organization:INSA-Lyon, CNRS, Villeurbanne
+author id:2045943975|
+author name:F. Denis
+author organization:INSA-Lyon, CNRS, Villeurbanne
+author id:2132134584|
+author name:A. Baskurt
+author organization:INSA-Lyon, CNRS, Villeurbanne
+author id:2273091458|
+]
+abstract:play|considered|art|attackcentric|property|state|promising|give|viewpoint|arising|decade|analysis|watermarking|pointed|provide|become|algorithms|role|entertainment|probably|protection|two|ways|feature|many|gives|emerging|robust|intellectual|encountered|difficulties|future|increasing|techniques|medical|distinguishing|used|presentation|solution|attacks|academic|solutions|problems|potential|meshes|new|last|devising|particular|list|discussed|relevant|important|use|spaces|directions|especially|techniques|survey|fragile|problems|blind|aware|effective|paper|design|since|working|mesh|introduction|authentication|covers|applying|also|existing|industrial|threedimensional|comprehensive|applications
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Computer vision|Steganography|Digital watermarking|Polygon mesh|Authentication|Computer security|Computer science|Robustness (computer science)|Artificial intelligence|Intellectual property|Multimedia|Mesh generation
+references:120859022|194102242|1485728774|1506828534|1528864328|1533685250|1540130673|1585247684|1599697784|1621614599|1971453995|1983520933|1983839058|1984685043|1985601514|1986849647|1989480677|1996110654|2004036463|2006502673|2009999833|2012909180|2021138831|2022357038|2023661891|2033391032|2036724403|2042352809|2044850767|2047349874|2059707644|2069806160|2074522216|2074981114|2075010828|2075597533|2079066933|2082390334|2082429090|2099639837|2100722474|2101079470|2102259022|2102845689|2106874266|2109677782|2113463169|2116467012|2126185946|2133245437|2135415776|2136627726|2139758408|2141236685|2143045198|2146513066|2149647084|2149708440|2159203090|2161123186|2162677913|2163324644|2169371923|2171614304|2182827928|2185639385|2293404936
+
+
+id:2140774414
+title:A Benchmark for 3D Mesh Watermarking
+year:2010
+author information:[
+author name:Kai Wang
+author organization:University de Lyon
+author id:2651546062|
+author name:Guillaume Lavoué
+author organization:University Lyon
+author id:2045943975|
+author name:Florence Denis
+author organization:University Lyon
+author id:2132134584|
+author name:Atilla Baskurt
+author organization:University of Lyon
+author id:2273091458|
+author name:Xiyan He
+author organization:University de Technol. de Troyes
+author id:2712815804|
+]
+abstract:benchmarking|software|main|three|watermarked|conducting|evaluation|protocols|attacks|model|different|protocols|recent|efficiency|watermark|comparison|applicationoriented|methods|steps|benchmark|tool|watermarking|system|proposed|geometric|experiments|distortion|two|paper|variety|meshes|perceptual|induced|define|demonstrated|mesh|measurements|algorithms|robust|implementation|also|follow|integrates|presents
+venue name:Shape Modeling International Conference
+venue id:2621911652
+venue type:C
+document type:Conference
+study fields:Data mining|Digital watermarking|Mathematical optimization|Polygon mesh|Computer science|Robustness (computer science)|Theoretical computer science|Distortion|Benchmarking|Mesh generation|Benchmark (computing)|Software measurement
+references:1493698890|1507347479|1514337436|2006502673|2094605916|2101079470|2104476234|2133665775|2144083240|2145321856|2145848987|2169371923
+
+
+id:2145321856
+title:Hierarchical Watermarking of Semiregular Meshes Based on Wavelet Transform
+year:2008
+author information:[
+author name:Kai Wang
+author organization:UMR 5205 CNRS, Villeurbanne
+author id:2651546062|
+author name:G. Lavoue
+author organization:UMR 5205 CNRS, Villeurbanne
+author id:2045943975|
+author name:F. Denis
+author organization:Geometry Processing and Constrained Optimization
+author id:2132134584|
+author name:A. Baskurt
+author organization:Geometry Processing and Constrained Optimization
+author id:2273091458|
+]
+abstract:copyright|three|resolution|number|geometrically|based|watermark|large|considering|watermarks|sensitive|lowest|watermarking|provide|even|intermediate|obtained|appropriate|strong|increases|primitives|inserted|vector|precise|embedded|modifying|robust|one|highcapacity|framework|norms|associated|able|levels|orientations|several|high|attacks|payload|hierarchical|semiregular|different|results|level|experimental|resist|three|vectors|proposed|wavelet|coefficient|geometric|relatively|fragile|demonstrate|contentpreserving|carrying|blind|decomposition|content|mesh|transform|paper|common|along|meshes|auxiliary|mesh|effectiveness|amount|authentication|groups|also|rapidly|presents
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Digital watermarking|Authentication|Polygon mesh|Pattern recognition|Computer science|Watermark|Artificial intelligence|Norm (mathematics)|Mesh generation|Wavelet|Wavelet transform
+references:1492963300|1508304425|1528864328|1533685250|1540130673|1546618167|1573054766|1828611686|1971453995|1978637010|1983520933|1984685043|1986849647|1989480677|2004036463|2006502673|2009999833|2027644430|2033391032|2044850767|2062401219|2068308023|2082429090|2099639837|2100722474|2101079470|2102259022|2102845689|2109557501|2109677782|2113463169|2113675052|2125698698|2126185946|2126299810|2139490206|2139758408|2141236685|2149647084|2161123186|2162677913|2163324644|2164846652|2165092822|2167959048|2171614304|2294238806
+
+
+id:2145915941
+title:A variational approach to JPEG anti-forensics
+year:2013
+author information:[
+author name:Wei Fan
+author organization:GIPSA-Lab., St. Martin dHères, France
+author id:2274271440|
+author name:Kai Wang
+author organization:GIPSA-Lab., St. Martin dHères, France
+author id:2651546062|
+author name:Francois Cayre
+author organization:GIPSA-Lab., St. Martin dHères, France
+author id:2461114187|
+author name:Zhang Xiong
+author organization:Beihang University
+author id:2128879397|
+]
+abstract:calibrationbased|defeated|advanced|telltale|detectors|stateoftheart|forensic|attempt|conducting|variation|objective|contribution|visual|fools|results|image|based|successfully|method|deblocking|experimental|footprints|quality|exist|improving|proposed|left|minimization|detecting|compression|detector|higher|images|methods|another|show|tradeoff|jpeg|undetectability|remove|detector|total|paper|feature|antiforensics|value|processing|identify|makes|also|possible|employment|constrained|outperforms|better|processed|compression|optimization|tampering|operation|antiforensic
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Lossless JPEG|Computer vision|Digital forensics|Pattern recognition|Computer science|JPEG|Artificial intelligence|JPEG 2000|Quantization (image processing)|Data compression|Detector|Deblocking filter
+references:202145487|1535817554|1994743750|2021505776|2029719964|2030623417|2089740826|2096933452|2118779391|2133665775|2138722660|2147413073|2158996282|2160866359|2164990255
+
+
+id:2150727083
+title:Computing 2D Periodic Centroidal Voronoi Tessellation
+year:2011
+author information:[
+author name:Dong-Ming Yan
+author organization:Project Alice, INRIA, Nancy, France
+author id:2137080269|
+author name:Kai Wang
+author organization:GIPSA‐Lab CNRS Grenoble France
+author id:2651546062|
+author name:Bruno Levy
+author organization:INRIA, ALICE, France
+author id:2478719682|
+author name:Laurent Alonso
+author organization:Project Alice, INRIA, Nancy, France
+author id:2180834121|
+]
+abstract:small|fullhexagonal|simple|sites|voronoi|observe|via|compute|copies|optimization|presented|euclidean|algorithm|constructing|patterns|propose|computation|input|centroidal|obtained|present|full|cvt|tessellation|applied|convergence|periodic|computing|newtonbased|considers|set|previous|efficient|attributed|approaches|diagram|diagram|fast|framework|requiring|space|first|pvd
+venue name:International Symposium on Voronoi Diagrams in Science and Engineering
+venue id:2756070009
+venue type:C
+document type:Conference
+study fields:Topology|Power diagram|Centroidal Voronoi tessellation|Computational geometry|Lloyds algorithm|Voronoi diagram|Weighted Voronoi diagram|Periodic graph (geometry)|Mathematics|Delaunay triangulation
+references:1603536826|1890795085|1967005434|2020995339|2033370626|2051752778|2056422961|2059236787|2069447707|2086969205|2114288655|2150593711|2491635241
+
+
+id:2165944364
+title:Blind and robust mesh watermarking using manifold harmonics
+year:2009
+author information:[
+author name:Kai Wang
+author organization:Université de Lyon, CNRS, INSA, LIRIS, UMR5205, F-69621, France
+author id:2651546062|
+author name:Ming Luo
+author organization:University of York
+author id:2420072269|
+author name:Adrian G. Bors
+author organization:University of York
+author id:343199950|
+author name:Florence Denis
+author organization:Université de Lyon, CNRS, Université Lyon 1, LIRIS, UMR5205, F-69622, France
+author id:2132134584|
+]
+abstract:amplitudes|use|insensitive|stateoftheart|frequency|harmonics|connectivity|manifold|quite|visual|modification|results|quantization|new|using|including|watermark|iterative|changes|analysis|watermarking|amplitudes|scalar|system|proposed|spectrum|coefficient|obtained|present|since|blind|components|scheme|analysis|methods|two|proved|low|comparison|embedded|human|mesh|robust|recently|makes|experimentally|imperceptibility|costa|ensured|various|provided|geometry|attacks
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Digital watermarking|Human visual system model|Computer science|Iterative method|Robustness (computer science)|Watermark|Harmonics|Artificial intelligence|Quantization (signal processing)|Mesh generation
+references:1523815711|1986849647|1994393928|2004036463|2006502673|2023661891|2094605916|2100179397|2101079470|2102259022|2139490206|2160824617
+
+
+id:2558025621
+title:An effective histogram-based approach to JPEG-100 forensics
+year:2016
+author information:[
+author name:Anh Thu Phan Ho
+author organization:University Grenoble Alpes
+author id:2577248245|
+author name:Kai Wang
+author organization:University Grenoble Alpes
+author id:2651546062|
+author name:Francois Cayre
+author organization:University Grenoble Alpes
+author id:2461114187|
+]
+abstract:distinction|precision|integer|approach|improved|either|generalized|whether|create|model|image|images|constructing|proposes|quality|undergone|histogram|never|task|dct|proposed|demonstrate|compression|cosine|higher|identifying|prominent|images|idea|methods|parametric|jpeg|respectively|kinds|choosing|distribution|two|experiments|ones|histogrambased|paper|factor|key|follow|families|outperforms|existing|highlights|forensics|corresponding|coefficients|gaussian|compressed|significantly
+venue name:International Conference on Image Processing
+venue id:1163163559
+venue type:C
+document type:Conference
+study fields:Computer vision|Histogram|Pattern recognition|Computer science|Discrete cosine transform|Histogram matching|Adaptive histogram equalization|JPEG|Artificial intelligence|Balanced histogram thresholding|Quantization (image processing)|Image histogram
+references:1562725088|1980745118|2049031636|2058860584|2096933452|2099711786|2118779391|2121029817|2148685281|2151496117
+
+
+id:2799785652
+title:Distinguishing Between Natural and Computer-Generated Images Using Convolutional Neural Networks
+year:2018
+author information:[
+author name:Weize Quan
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2231470641|
+author name:Kai Wang
+author organization:University Grenoble-Alpes
+author id:2651546062|
+author name:Dong-Ming Yan
+author organization:National Laboratory of Pattern Recognition Institute of Automation, Chinese Academy of Sciences, Beijing, China
+author id:2137080269|
+author name:Xiaopeng Zhang
+author organization:Institute of Automation
+author id:2172294716|
+]
+abstract:advanced|observed|via|sizes|easily|nis|majority|cascaded|attempts|based|images|natural|method|patches|robustness|resizing|understand|scratch|propose|input|obtained|fullsized|aid|appropriate|complexity|cnn|methods|differences|fundamental|global|jpeg|eyes|two|local|cnn|accommodate|scenario|ccns|distinguishing|socalled|convolutional|performance|problem|decision|cg|considering|localtoglobal|compression|difficult|features|postprocessing|visualization|computergenerated|adequate|use|network|simple|used|naked|forensic|good|challenging|heterogeneous|cnns|layers|implement|different|unlike|results|image|new|finetuning|bottom|experimental|adjusted|handcrafted|maintaining|proposed|especially|improve|fixed|try|neural|rather|pretrained|show|training|network|effective|design|human|previous|limited|learned|introduce|also|requirement|specific|derives|structure|outperforms|existing|tools|performance|origins|stable|typical|voting|strategy
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Computer vision|Computer-generated imagery|Pattern recognition|Visualization|Convolutional neural network|Computer science|Effective method|Robustness (computer science)|Feature extraction|Image forensics|Artificial intelligence|Majority rule
+references:305574147|1589439259|1665214252|1800329471|1805141230|1825675169|1836465849|1974436615|2046180645|2055745001|2062503914|2072587119|2095130919|2095705004|2099013489|2100124582|2102258637|2102605133|2106663508|2108598243|2141698957|2144548082|2149933564|2155180118|2155541015|2155893237|2163605009|2194775991|2263285882|2322622188|2407561938|2412509443|2521500513|2542826708|2561004319|2572787276|2616180702|2735904389|2736005949|2739185626|2786289897
+
+
+id:2960202457
+title:PlanIT: planning and instantiating indoor scenes with relation graph and spatial prior networks
+year:2019
+author information:[
+author name:Kai Wang
+author organization:Brown University
+author id:2810209136|
+author name:Yu-An Lin
+author organization:Brown University
+author id:2902650699|
+author name:Ben Weissmann
+author organization:Brown University
+author id:2959595564|
+author name:Manolis Savva
+author organization:Simon  Fraser University
+author id:1951833338|
+author name:Angel X. Chang
+author organization:Simon  Fraser University
+author id:2810748161|
+author name:Daniel Ritchie
+author organization:University
+author id:2987891733|
+]
+abstract:layoutgeneration|reason|modeling|objects|imagebased|representation|scene|relation|via|relationships|problem|model|spatial|guide|work|quality|insight|planning|system|intermediate|networks|partial|providing|regions|spaceoriented|objectoriented|two|interior|search|flexibility|precise|graphs|relationship|synthesis|convolutional|laid|set|user|phases|combines|consistent|procedure|highlevel|people|places|framework|comparable|performs|generates|manner|synthesize|observe|placing|decomposing|edges|prior|generated|planit|graph|instantiation|new|encoding|judged|graph|modules|scenes|configurations|present|support|excels|allow|deep|neural|occupy|paradigm|divided|provided|distinct|representation|network|represents|generative|graphs|divides|learned|also|approaches|room|layout|nodes|instantiating|well|uses|applications
+venue name:ACM Transactions on Graphics
+venue id:185367456
+venue type:J
+document type:Journal
+study fields:Graph|Computer vision|Graph generation|Search procedure|Theoretical computer science|Artificial intelligence|Deep learning|Artificial neural network|Graph (abstract data type)|Mathematics|Generative model|Encoding (memory)
+references:36304730|1992971572|2012785966|2060268527|2077069816|2077263423|2117878059|2118714046|2130634053|2149846167|2162559028|2250673545|2277195237|2479423890|2509413994|2537106893|2557465155|2579549467|2760103357|2769277182|2770875015|2772262724|2772390515|2777356020|2784435047|2786248241|2788962621|2796341166|2805177834|2806941686|2810181048|2884948865|2886970679|2887953252|2902483372|2902539442|2950178297|2950201573|2950697717|2952254971|2953109369|2963649796|2963819570|2964015378
+
+
+id:2981126909
+title:Improving the Generalization of Colorized Image Detection with Enhanced Training of CNN
+year:2019
+author information:[
+author name:Weize Quan
+author organization:University Grenoble Alpes
+author id:2231470641|
+author name:Kai Wang
+author organization:University Grenoble Alpes
+author id:2651546062|
+author name:Dong-Ming Yan
+author organization:University of Chinese Academy of Sciences
+author id:2137080269|
+author name:Denis Pellerin
+author organization:University Grenoble Alpes
+author id:2016936424|
+author name:Xiaopeng Zhang
+author organization:University of Chinese academy of sciences
+author id:2172294716|
+]
+abstract:focus|construct|image|phase|recent|algorithm|images|still|distinguish|natural|method|issue|models|testing|propose|samples|generalization|cnn|images|progressively|methods|automatically|capability|colorization|scenario|power|paired|convolutional|detection|thoroughly|linear|may|sample|colorized|regarded|increasing|dataset|techniques|first|achieves|available|network|remains|forensic|good|challenging|realistic|continue|different|results|train|handcraftedfeaturebased|experimental|difficult|cnnbased|becomes|important|enhanced|synthetic|proposed|improve|demonstrate|deep|blind|neural|studied|insert|learning|training|eyes|network|detector|negative|human|original|identify|although|encounter|interpolation|performance|significantly
+venue name:International Symposium on Parallel and Distributed Processing and Applications
+venue id:1194851604
+venue type:C
+document type:Conference
+study fields:Signal processing|Image colorization|Pattern recognition|Convolutional neural network|Image detection|Computer science|Real-time computing|Artificial intelligence|Deep learning|Linear interpolation|Detector|Signal processing algorithms
+references:2009130368|2108598243|2308529009|2326925005|2461158874|2784285978|2792207818|2922115507|2963399829
+
+
+id:1928013072
+title:Detecting and mitigating interest flooding attacks in content-centric network
+year:2014
+author information:[
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Hongbin Luo
+author organization:Beijing Jiaotong University
+author id:2399472367|
+author name:Jianfeng Guan
+author organization:Bejing University of Posts and Telecommunications
+author id:2507202963|
+author name:Yajuan Qin
+author organization:Beijing jiaotong University
+author id:2149576645|
+author name:Hongke Zhang
+author organization:Beijing University of Posts  Telecommunications
+author id:2107167049|
+]
+abstract:floods|called|mitigating|reach|john|focus|type|attempt|source|number|suffer|terms|wiley|viewpoint|cache|large|counters|briefly|overhead|propose|thresholds|traffic|bringing|expire|analyze|items|denial|damage|algorithms|scheme|two|victim|attack|attack|ability|embedded|table|architecture|detection|may|mitigate|implementing|one|scheme|interests|first|attacks|indicator|small|achieves|source|good|frequency|mode|copyright|hit|router|high|attacks|directly|guarantees|results|traffic|resource|occur|introducing|exhaust|flooding|basis|thresholdbased|dacs|effect|detecting|basic|requesting|idea|countering|contentcentric|pending|show|detect|recording|best|content|network|malicious|interest|rate|tdm|ltd|limiter|design|tdm|routers|original|counter|ccn|target|performance|corresponding|detailed|service
+venue name:Security and Communication Networks
+venue id:120683614
+venue type:J
+document type:Journal
+study fields:Architecture|Denial-of-service attack|Computer security|Cache|Computer science|Computer network|Content centric|Router|Flooding (psychology)
+references:1534162064|1564605863|1810116042|1984479361|1993817276|2006319822|2018992824|2033063733|2041542784|2089982944|2155527034
+
+
+id:1961901215
+title:Modeling denial-of-service against pending interest table in named data networking
+year:2014
+author information:[
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Jia Chen
+author organization:Beijing Jiaotong University
+author id:2235022857|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Yajuan Qin
+author organization:Beijing jiaotong University
+author id:2149576645|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2107167049|
+]
+abstract:floods|named|simulation|john|dos|accuracy|type|interests|dospit|setting|properly|suffer|wiley|model|guide|generation|ndnspecific|similar|cache|probability|considering|bringing|size|attracted|evaluating|embeds|much|damage|experiments|networks|cached|popularity|ndn|dospit|table|named|may|one|designing|timetolive|extensive|severe|pit|attacks|data|suffering|several|networking|copyright|router|attacks|representative|nonexistent|resource|exhaust|expressions|users|chosen|important|proposed|effect|internet|architecture|demonstrate|parameters|next|request|denialofservice|memory|analytical|harm|pending|countermeasures|values|size|content|malicious|effective|security|primitives|interest|ltd|design|routers|closedform|original|degradation|although|way|factors|bypass|service|attention
+venue name:International Journal of Communication Systems
+venue id:175310385
+venue type:J
+document type:Journal
+study fields:Architecture|Expression (mathematics)|Denial-of-service attack|Cache|Computer science|CPU cache|Computer security|Content based networking|Popularity|Computer network|Router
+references:1464223488|1519885366|1534162064|1535296432|1816889752|1931459790|2014952121|2033063733|2110769762|2112878730|2113484578|2117053637|2155141181|2162969618|2168903090|2395375921
+
+
+id:1976445075
+title:ILSRO: Identifier/Location Split-Based Route Optimization for PMIPv6
+year:2012
+author information:[
+author name:Jianfeng Guan
+author organization:Beijing University of Post  Telecommun
+author id:2507202963|
+author name:Changqiao Xu
+author organization:Beijing University of Post  Telecommun
+author id:2110740952|
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Hongke Zhang
+author organization:Beijing University of Post  Telecommun
+author id:2107167049|
+]
+abstract:optimal|mobility|path|introduced|builtin|optimization|terms|hostbased|network|reduce|based|thus|local|schemes|propose|node|route|assigned|split|sub|mobility|scheme|overhead|prefix|transparent|routing|mechanism|blocking|mechanism|mobile|single|approach|adopted|mags|data|separate|several|identifier|solution|function|complement|results|realize|solutions|failure|incurs|achieving|proposed|mapped|signaling|analytical|probability|additional|show|forwarding|proxy|accomplish|home|delivery|lma|support|cost|networkbased|wimax|perform|mobile|better|anchor|management|service|tunnel|location
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Computer network management|Mobility management|Identifier|Computer science|Computer security|Computer network|Prefix|WiMAX|Ubiquitous computing|Proxy Mobile IPv6|Mobile telephony
+references:1500031363|1508194741|1661318199|1970507124|2023017000|2069986436|2103031154|2124047315|2136016745|2148322790|2150220944|2169761265|2289338357|2301446542|2400216726
+
+
+id:2023254619
+title:Cooperative-Filter: countering Interest flooding attacks in named data networking
+year:2014
+author information:[
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Yajuan Qin
+author organization:Beijing jiaotong University
+author id:2149576645|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2107167049|
+]
+abstract:called|considered|attempt|packets|state|promising|cooperation|based|using|resilient|nextgeneration|granularity|must|legitimate|cooperativefilter|mitigates|damage|focuses|consume|current|attack|ndn|embedding|emerging|architecture|threats|named|mitigate|countermeasure|one|many|satisfaction|delay|advantages|increasing|fake|logic|first|statistics|data|suffering|networking|excessively|interest|router|router|interestretrieving|results|resource|flooding|users|candidates|involved|effect|internet|architecture|demonstrate|perprefixperinterface|memory|paradigm|ifa|countering|detect|best|malicious|paper|rate|design|names|viable|routers|fuzzy|effectively|detects|consumption|counter|decreasing|ndn|proposed|performance|simulation|well|reducing|taking
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Countermeasure|Resource consumption|Architecture|Content based networking|Computer security|Computer science|Fuzzy logic|Network packet|Computer network|Router|Flooding (psychology)
+references:59037818|1464223488|1488072645|1535296432|1826493339|1978856808|2110769762|2117053637|2148662748|2168903090|2395375921|2912565176
+
+
+id:2026140797
+title:RDAI: Router-Based Data Aggregates Identification Mechanism for Named Data Networking
+year:2013
+author information:[
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Jia Chen
+author organization:Beijing Jiaotong University
+author id:2235022857|
+author name:Yajuan Qin
+author organization:Beijing jiaotong University
+author id:2679870614|
+]
+abstract:called|period|quickly|attempt|packets|advance|number|routerbased|seconds|identified|terms|issued|promising|order|based|using|successfully|expected|simulated|tackled|come|nextgeneration|congested|aggregates|rdai|aggregates|evaluate|become|networking|identification|local|current|ndn|mechanism|architecture|named|address|table|within|one|representing|many|designing|maximum|complete|certain|first|possibilities|several|interest|router|router|shown|aggregating|implemented|results|scenarios|infrastructure|need|sent|candidates|entries|solve|parties|internet|architecture|demonstrate|problems|link|cause|detect|best|interface|malicious|total|expired|rate|alert|interfaces|identify|data|ndn|performance|simulation|due|corresponding|time|rdai|pending
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Next-generation network|Architecture|Content based networking|Computer science|Computer security|Network packet|Computer network|Internet architecture|Router|The Internet|Distributed computing
+references:59037818|1464223488|1534162064|1535296432|2117053637|2168903090|2395375921
+
+
+id:2066280573
+title:Decoupling malicious Interests from Pending Interest Table to mitigate Interest Flooding Attacks
+year:2013
+author information:[
+author name:Kai Wang
+author organization:Beijing jiaotong University
+author id:2154521167|
+author name:Huachun Zhou
+author organization:Beijing jiaotong University
+author id:2117427222|
+author name:Yajuan Qin
+author organization:Beijing jiaotong University
+author id:2149576645|
+author name:Jia Chen
+author organization:Beijing Jiaotong University
+author id:2235022857|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2107167049|
+]
+abstract:called|considered|focus|loosen|approach|attempt|interests|without|via|evaluation|suffer|enable|state|severely|slate|promising|large|nextgeneration|flooding|packet|resource|propose|pit|dpe|embeds|damage|networking|scheme|consume|security|ndn|embedding|mechanism|behavior|emerging|named|means|stress|table|may|mitigate|one|model|simulations|help|extensive|exhaustion|pit|information|first|exhausting|interest|router|router|realistic|divert|disabling|directly|mechanisms|results|incoming|need|resource|introducing|flooding|candidates|spoofed|involved|improve|effect|name|internet|architecture|present|memory|paradigm|ifa|rather|idea|show|ifa|recording|best|forwarding|malicious|security|primitives|design|indepth|threats|names|designed|amount|original|aims|data|consumption|counter|clean|marking|simulation|corresponding|management|well|attacked|attacks|reducing|significantly|pending
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Architecture|Spoofing attack|Computer science|Computer security|Network packet|Computer network|Network topology|Bandwidth (signal processing)|Router|The Internet|Security management
+references:59037818|1464223488|1488072645|1535296432|1826493339|1928013072|1978856808|2117053637|2148662748|2162969618|2168903090|2395375921
+
+
+id:2618073102
+title:Operators of preference composition for CP-nets
+year:2017
+author information:[
+author name:Xuejiao Sun
+author organization:Yantai University
+author id:2225765807|
+author name:Jinglei Liu
+author organization:YanTai University
+author id:2953714869|
+author name:Kai Wang
+author organization:Yantai University
+author id:2154521167|
+]
+abstract:increasingly|associativity|query|criteria|focus|semantics|relation|introduced|qualitative|outcomes|model|block|strict|dependent|soft|order|generation|equivalence|using|issue|natural|preference|preference||qocp|extend|provide|among|adopt|partial|algorithms|strong|consequently|sequences|two|top|operators|composition|perspective|broader|preferences|abstract|database|k|queries|designing|pareto|efficiently|attributes|dominance|relations|incomparability|becoming|conditional|questions|solved|answering|combination|including|cpnets|widely|capture|preserve|graph|important|conflicting|sequence|tests|fields|concept|database|satisfiability|induced|effectively|queries|multiple|instead|lattice|cpnet|cpnets|handling|relational|category|user|iqocp
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Data mining|Equivalence relation|Associative property|Preference query|Lattice (order)|Relational database|Computer science|Satisfiability|Operator (computer programming)|Pareto principle
+references:115861246|277090265|1580112030|1975168722|2002699418|2011293142|2024927461|2035668353|2063551607|2082266063|2093087759|2093979658|2104947511|2114660707|2122317131|2126500482|2136105968|2148292077|2168821561|2168976073|2170188482|2402713691
+
+
+id:2800635763
+title:Software-Defined Collaborative Offloading for Heterogeneous Vehicular Networks
+year:2018
+author information:[
+author name:Wei Quan
+author organization:University of Waterloo
+author id:2421888022|
+author name:Kai Wang
+author organization:Yantai University
+author id:2806123681|
+author name:Yana Liu
+author organization:Beijing Jiaotong University
+author id:2744805932|
+author name:Nan Cheng
+author organization:University of Waterloo
+author id:2153840244|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2107167049|
+author name:Xuemin Shen
+author organization:Waterloo University
+author id:2125050856|
+]
+abstract:explosive|offloading|stateoftheart|cover|path|loss|problem|softwaredefined|based|efficiency|collaborative|packet|propose|traffic|networks|hpc|vehicular|mobility|networking|achieve|two|sdco|offloading|compared|controller|charge|collaboration|efficiently|graphbased|minimum|data|vertex|roundtrip|source|alleviate|challenging|heterogeneous|centralized|high|optimize|solution|awareness|solutions|communication|results|group|disruption|hybrid|paths|demonstrate|leverage|equipped|concept|provided|frequent|according|vehicles|effective|gsc|optimizes|controller|selecting|softwaredefined|envisioned|mobile|specific|manage|better|nodes|simulation|due|growth|suitable|vehicleassisted|vehicles|significantly
+venue name:Wireless Communications and Mobile Computing
+venue id:235346
+venue type:J
+document type:Journal
+study fields:Graph|Control theory|Computer science|Packet loss rate|Computer network|Bandwidth (signal processing)|Software|Vertex cover|Mobile broadband|Vehicular ad hoc network|Distributed computing
+references:1841544193|1967630610|1992162886|2009251196|2034415518|2101845949|2343259917|2403368577|2415153062|2509469073|2549271499|2602495758|2604436698|2621443519|2743191418|2790588927
+
+
+id:2904462800
+title:InterestFence: Countering Interest Flooding Attacks by Using Hash-Based Security Labels
+year:2018
+author information:[
+author name:Jiaqing Dong
+author organization:Tsinghua University
+author id:2903744949|
+author name:Kai Wang
+author organization:Tsinghua University
+author id:2806123681|
+author name:Yongqiang Lyu
+author organization:Tsinghua University
+author id:2710686494|
+author name:Libo Jiao
+author organization:Tsinghua University
+author id:2612078485|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+]
+abstract:interestfence|accurate|mitigating|prefix|transmitted|without|filtering|based|method|meanwhile|overhead|efficiently|flooding|accurately|analysis|easy|propose|legitimate|performance|items|server|involved|networking|achieve|guarantee|networks|feature|detection|named|interests|detection|efficient|within|one|launch|help|fast|first|mitigate|interest|biggest|claim|verification|traffic|hsl|demonstrates|difficult|transit|ifa|rather|content|lightweight|security|servers|related|securely|threats|routers|cleaning|effectiveness|hashbased|limited|yet|harming|data|detects|attack|label|attacking|due
+venue name:International Conference on Algorithms and Architectures for Parallel Processing
+venue id:1120750887
+venue type:C
+document type:Conference
+study fields:Countermeasure|Computer science|Content based networking|Server|Computer network|Filter (signal processing)|Prefix|Hash function|Flooding (psychology)|Content server|Distributed computing
+references:1486337044|1564415020|1918162579|2010620833|2018793106|2066280573|2068860357|2113484578|2191708173|2575464779|2755646973|2963391656
+
+
+id:2940436381
+title:Graph structure and statistical properties of Ethereum transaction relationships
+year:2019
+author information:[
+author name:Dongchao Guo
+author organization:Beijing Information Science and Technology University
+author id:2942587096|
+author name:Jiaqing Dong
+author organization:Tsinghua University
+author id:2903744949|
+author name:Kai Wang
+author organization:School of Computer Science and Technology, Harbin Institute of Technology, Weihai, Shandong, China
+author id:2942994077|
+]
+abstract:users|exchanges|number|relationships|property|exhibit|recent|devoted|bowtie|laws|large|investigating|decentralized|underlying|transactions|attention|hubs|approximated|toward|attracted|science|ascribed|study|statistical|prominent|focuses|believe|diversity|science|ethereum|perspective|power|popular|connect|means|abstract|component|framework|regarded|vast|relations|transaction|first|statistics|data|rapid|several|assortativity|existence|secure|heavytailed|find|graph|blockchains|development|law|technologies|cryptocurrency|transfer|blockchain|relatively|carry|little|function|effort|best|platform|network|tend|negative|considerable|paper|public|common|supporting|applications|amount|directed|aforementioned|also|recorded|follow|structure|probe|trade|various|investigation|comprehensive
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Network science|Assortativity|Graph|Directed graph|Theoretical computer science|Artificial intelligence|Blockchain|Database transaction|Cryptocurrency|Transaction data|Machine learning|Mathematics
+references:179922057|1025652700|1878853999|1907293129|1976969221|2000042664|2289831356|2517071972|2536325433|2604844934|2614305404|2744332631|2763398287|2767544505|2793346081|2807718082|2854620367|2914424007|2950533466|2963507231
+
+
+id:2975695536
+title:InterestFence: Simple but efficient way to counter interest flooding attack
+year:2020
+author information:[
+author name:Jiaqing Dong
+author organization:Tsinghua University
+author id:2903744949|
+author name:Kai Wang
+author organization:School of Computer Science and Technology, Harbin Institute of Technology, Weihai, Shandong, China
+author id:2991217500|
+author name:Wei Quan
+author organization:Beijing Jiaotong University
+author id:2421888022|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+]
+abstract:named|interestfence|accurate|prefix|transmitted|ifas|without|evaluation|filtering|based|verifying|method|overhead|lower|flooding|accurately|easy|intermediate|legitimate|performance|items|much|checking|networking|achieve|guarantee|cryptographic|compared|named|interests|detection|efficient|abstract|one|launch|filter|help|prefixes|paradigm|mitigate|existence|interest|biggest|claim|verification|traffic|hsl|demonstrates|level|existence|difficult|proposed|involved|keep|name|know|since|ifa|rather|latency|content|lightweight|malicious|security|servers|operations|securely|threats|routers|every|algorithms|hashbased|performing|yet|harming|data|detects|consumption|attack|label|exactly|index|service|well|time|simply|attacktraffic
+venue name:Computers  Security
+venue id:12529635
+venue type:J
+document type:Journal
+study fields:Countermeasure|Level of service|Cryptography|Latency (engineering)|Computer security|Computer science|Server|Filter (signal processing)|Prefix|Hash function
+references:1486337044|1488072645|1534162064|1535296432|1564415020|1788288079|1918162579|1928013072|1961901215|1993359528|2010620833|2017156494|2018793106|2066280573|2068860357|2070024382|2080284298|2104773786|2113484578|2122642161|2136758000|2140164752|2162969618|2165071741|2183987096|2191708173|2296173338|2403368577|2544935971|2564781491|2575464779|2584614223|2592056994|2739466008|2753419519|2755646973|2755868019|2763356328|2781588923|2782356841|2792488777|2899576359|2901683318|2904462800|2914495552|2938539722|2941916044|2946347108|2952374996|2963391656
+
+
+id:2976113208
+title:Shape-optimizing mesh warping method for stereoscopic panorama stitching
+year:2020
+author information:[
+author name:Weiqing Yan
+author organization:YanTai University
+author id:2971864783|
+author name:Guanghui Yue
+author organization:Shenzhen University
+author id:2902140113|
+author name:Jindong Xu
+author organization:YanTai University
+author id:2902331332|
+author name:Yanwei Yu
+author organization:Yantai University
+author id:2975711632|
+author name:Kai Wang
+author organization:Yantai University
+author id:2975423556|
+author name:Chang Tang
+author organization:China University of Geosciences
+author id:2339395493|
+author name:Xiangrong Tong
+author organization:Yantai University
+author id:2902093049|
+]
+abstract:robustly|maintain|accuracy|changing|consistency|gradually|right|moving|reduce|based|images|method|shape|left|methods|analysis|propose|traditional|simultaneously|matched|regions|images|direct|experiments|extended|inconsistency|feature|angle|stitching|warping|compared|inclination|linear|unnatural|abstract|image|consistent|transformation|nonoverlapping|stereoscopic|grid|novel|resolve|shapeoptimizing|projective|points|view|generate|coping|image|panorama|proposed|improve|demonstrate|alignment|distortion|line|blend|seam|differential|designed|mesh|aims|previous|effectively|rotation|multiple|superior|performance|rotation
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Computer vision|Image stitching|Image warping|Panorama|Stereoscopy|Mesh analysis|Artificial intelligence|Direct linear transformation|Distortion|Grid|Machine learning|Mathematics
+references:1963246386|1983683849|1985320612|1995937698|2010339833|2015577017|2018377917|2044694850|2061182690|2085261163|2104925593|2118655575|2126060993|2132436612|2151103935|2153709524|2165949425|2168598788|2197122596|2294503782|2345819731|2532800065|2594098573|2735299109|2753610474|2753749011|2766228387|2770525750|2792131569|2890038543
+
+
+id:1971813925
+title:A balancing voltage transformation for robust frequency estimation in unbalanced power systems
+year:2014
+author information:[
+author name:Yili Xia
+author organization:Southeast University
+author id:2124870263|
+author name:Kai Wang
+author organization:Southeast University
+author id:2627991711|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2374990747|
+author name:Danilo P. Mandic
+author organization:Imperial College of London
+author id:1968210000|
+]
+abstract:deviations|harmonics|presence|obstacle|order|phase|using|method|robustness|underlying|accurately|illustrated|systems|fundamental|range|two|current|estimator|systems|angle|power|affordable|computationally|detection|linear|within|efficient|dips|makes|purposes|positive|possible|transformation|fast|conditions|removes|novel|exponential|addresses|component|use|used|frequency|second|biggest|unbalanced|weighted|wellknown|simulations|cater|including|distorted|discrete|estimation|sequence|proposed|coefficient|support|higher|analysis|detect|technique|singletone|transform|paper|fourier|transformed|predictor|evolution|autocorrelation|voltage|balancing|interpolation|window
+venue name:Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+venue id:2754583030
+venue type:C
+document type:Conference
+study fields:Frequency domain|Spectral density estimation|Fundamental frequency|Control theory|Electric power system|Robustness (computer science)|Spectral density|Discrete Fourier transform|Mathematics|Estimator
+references:1980031882|1980072023|2001188690|2005262499|2010492472|2042663762|2061100755|2067489830|2080655656|2100567194|2111855076|2146174597|2161859765|2170211487|2294288691
+
+
+id:2006148021
+title:Speech parameter generation considering LSP ordering property for HMM-based speech synthesis
+year:2012
+author information:[
+author name:Shijun Qian
+author organization:Southeast University
+author id:2229154806|
+author name:Huanliang Wang
+author organization:AI Speech Co., Ltd, Suzhou, China
+author id:2626181011|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2690266326|
+author name:Ping Zou
+author organization:AI Speech Co., Ltd, Suzhou, China
+author id:2307443785|
+author name:Kai Wang
+author organization:Southeast University
+author id:2646013608|
+]
+abstract:alleviate|high|generated|property|hmmbased|results|utilized|selected|generation|issue|method|considering|experimental|maximized|lsp|weight|guaranteed|preserve|correlates|quality|unstable|synthesized|especially|correlation|proposed|spectrum|parameters|criterion|likelihoods|ordering|speech|achieve|penalty|show|covariance|long|result|penalty|parameter|misorderings|bounded|synthesis|ordered|synthesizing|caused|hmm|also|many|strictly|gv|formants|modify|advantages|performance|conventional|speech|well|cannot|appropriately|diagonal|significantly|adopted|dimensions
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Diagonal|Speech synthesis|Pattern recognition|Speech synthesis hidden markov models|Speech recognition|Correlation|Artificial intelligence|Formant|Hidden Markov model|Mathematics|Covariance|Bounded function
+references:1519698338|1935012542|2000513720|2048277372|2049686551|2089959702|2129142580|2145508474|2145575463
+
+
+id:2073505904
+title:Design of High-Order Extrapolated Impulse Response FIR Filters with Signed Powers-of-Two Coefficients
+year:2011
+author information:[
+author name:Yanfei Cao
+author organization:Southeast University
+author id:2658720948|
+author name:Kai Wang
+author organization:Southeast University
+author id:2579173493|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+author name:Yujie Liu
+author organization:Southeast University
+author id:2691252128|
+author name:Yifeng Zhang
+author organization:Southeast University
+author id:2807388379|
+]
+abstract:specifications|focus|shifters|three|approach|cone|effect|required|problem|adders|wordlength|optimizing|utilized|algorithm|reduce|transformers|method|relaxation|squares|signed|require|excessive|impulse|decades|sensitivity|obtained|highorder|least|subexpression|norder|filterdesign|secondorder|indicate|multiplication|power|elimination|subexpressions|additions|problem|replaced|quadratic|computation|extrapolated|filter|meet|efficiently|halfband|constraint|graphbased|approach|hardwired|standard|twostep|time|spt|continuous|weighted|results|programming|area|given|including|last|finite|experiment|widely|less|extract|proposed|coefficient|expensive|hilbert|sequential|additional|show|simpler|operations|common|design|coefficients|recasting|magnitude|digital|studied|effectively|implementation|length|consumption|filters|approaches|fir|formulated|proposed|simulation|response|quantized|coefficients|suitable|poweroftwo
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Least squares|Impulse response|Mathematical optimization|Common subexpression elimination|Frequency response|Digital filter|Control theory|Multiplication|Sequential quadratic programming|Finite impulse response|Mathematics
+references:1502692169|1986644367|1997332416|1999497750|2001254103|2014053461|2029856765|2032234591|2088997280|2108369204|2109347971|2117394866|2120173944|2128289913|2131256658|2135598174|2140183719|2141376342|2148104155|2152782191|2155957698|2156310009|2157836860|2168149733|2172151141
+
+
+id:2124447596
+title:A Novel Asymptotic Deterministic Randomness Based Watermarking Scheme
+year:2006
+author information:[
+author name:Kai Wang
+author organization:Southeast University
+author id:2579173493|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+author name:Zhenya He
+author organization:Southeast University
+author id:2123090728|
+author name:Yiu-ming Cheung
+author organization:Kong Baptist University
+author id:2161219483|
+]
+abstract:simulation|different|results|utilized|symbolic|based|new|method|resistance|watermarking|system|proposed|asymptotic|improve|private|systems|utilizing|deterministic|show|randomness|security|paper|attack|encrypt|chaotic|map|key|digital|image|randomness|better|existing|performance|presents
+venue name:Information Hiding
+venue id:1175805213
+venue type:C
+document type:Conference
+study fields:Watermarking attack|Symbolic dynamics|Digital watermarking|Computer science|Cryptography|Encryption|Theoretical computer science|Chaotic|Public-key cryptography|Randomness
+references:2116467012|2118354186|2121431807
+
+
+id:2140317377
+title:Symbolic Vector Dynamics Approach to Initial Condition and Control Parameters Estimation of Coupled Map Lattices
+year:2008
+author information:[
+author name:Kai Wang
+author organization:Southeast University
+author id:2579173493|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+author name:Shaoping Wang
+author organization:Southeast University
+author id:2305973564|
+author name:Yiu-Ming Cheung
+author organization:
+author id:2161219483|
+author name:Zhenya He
+author organization:
+author id:2123090728|
+]
+abstract:standard|theoretical|experimental|construct|initiate|problem|solution|understanding|results|symbolic|method|introducing|applicable|develop|extend|estimation|expand|provide|techniques|orbits|coupled|lattices|algorithms|analytical|show|technique|global|admissible|dynamics|chaotic|scope|wordlifting|parameter|vector|map|estimating|set|initial|turbulences|correspondence|onetoone|cmls|also|codes|conditions|novel
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Symbolic dynamics|Signal processing|Nonlinear system|Lattice (order)|Control theory|Chaotic map|Initial value problem|Estimation theory|Signal processing algorithms|Mathematics
+references:2011203427|2018036872|2135818760|2151151231|2161979629|2163746339|2165708462
+
+
+id:2169792695
+title:Modified spread-transform dither modulation
+year:2011
+author information:[
+author name:Yifeng Zhang
+author organization:SoutheastUniversity
+author id:2807388379|
+author name:Chengwei Jia
+author organization:SoutheastUniversity
+author id:2471028721|
+author name:Zhengkang Xu
+author organization:SoutheastUniversity
+author id:2224059536|
+author name:Kai Wang
+author organization:SoutheastUniversity
+author id:2579173493|
+author name:Wenjiang Pei
+author organization:SoutheastUniversity
+author id:2111323613|
+]
+abstract:called|watson|stdm|robust|problem|find|solves|raise|modified|block|calculated|results|quantization|order|based|image|using|modulate|compared|exchanges|stdmpcomw|linearly|secondary|pixels|correlation|proposed|varies|difference|stdmcomw|algorithms|jpeg|aqim|embedding|two|gain|result|numerical|general|decoding|thanks|noise|attack|embedding|according|performance|robust|previous|blocks|one|adjacent|improvement|great|carrier|proposed|brightness|obvious|step|latter|gaussian|adaptively
+venue name:International Conference on Wireless Communications and Signal Processing
+venue id:2622754298
+venue type:C
+document type:Conference
+study fields:Digital watermarking|Computer simulation|Computer science|Real-time computing|Artificial intelligence|Quantization (image processing)|Computer vision|Embedding|Algorithm|Pixel|Decoding methods|Quantization (signal processing)|Gaussian noise
+references:2107465879|2116467012|2127962607|2143330717|2538558719
+
+
+id:2556411974
+title:A least squares enhanced smart DFT technique for frequency estimation of unbalanced three-phase power systems
+year:2016
+author information:[
+author name:Yili Xia
+author organization:Southeast University
+author id:2124870263|
+author name:Kai Wang
+author organization:Southeast University
+author id:2627991711|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+author name:Zoran Blazic
+author organization:Elektroprenos BiH a.d., 78000 Banjaluka, BiH
+author id:1546768534|
+author name:Danilo P. Mandic
+author organization:Imperial College of London
+author id:1968210000|
+]
+abstract:realworld|problem|dft|harmonics|model|presence|singlephase|order|squares|underlying|resulting|perspective|system|among|domain|minimise|conditions|realvalued|deal|components|least|fundamental|threephase|extended|estimator|systems|noise|power|relationship|harmonic|established|linear|smart|simulations|framework|series|measurements|first|upon|frequency|employed|hold|unbalanced|widely|offnominal|estimation|discrete|square|addressed|proposed|suboptimal|higher|benefits|unexpected|technique|transform|fourier|transformed|designed|timedomain|original|built|verified|voltage|consecutive|voltage|error|mean|sdft|lssdft|well|observing|time|complexvalued
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Least squares|Control theory|Computer science|Artificial intelligence|Linear least squares|Frequency domain|Spectral density estimation|Mathematical optimization|Pattern recognition|Discrete frequency domain|Electric power system|Discrete Fourier transform|Estimator
+references:1500762955|1973866226|1980072023|2023993834|2042663762|2067489830|2084863744|2115577730|2119280775
+
+
+id:2767630488
+title:A DFT enhanced complex LMS for digital adaptive spur cancellation
+year:2017
+author information:[
+author name:Zhe Li
+author organization:Southeast University
+author id:2715332028|
+author name:Yili Xia
+author organization:Southeast University
+author id:2124870263|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+author name:Kai Wang
+author organization:Southeast University
+author id:2627991711|
+author name:Danilo P. Mandici
+author organization:Department of Electrical and Electronic Engineering, Imperial College London, London, SW7 2AZ, U.K
+author id:2767913843|
+]
+abstract:pollution|transceivers|adaptively|spur|setting|faster|dft|multistandard|complex|computer|singlespur|algorithm|underlying|utilizes|discrete|enhanced|square|cancellation|proposed|transient|among|algorithm|signalplusnoisetointerference|support|higher|analysis|convergence|least|fundamental|speed|transform|fourier|relationship|performances|demonstrating|steady|compared|mitigate|steadystate|consecutive|simulations|performance|lms|conventional|mean|series|time|ratio
+venue name:International Conference on Digital Signal Processing
+venue id:2623002688
+venue type:C
+document type:Conference
+study fields:Least mean squares filter|Convergence (routing)|Algorithm design|Computer science|Control theory|Phase noise|Fast Fourier transform|Steady state|Discrete Fourier transform|Orthogonal frequency-division multiplexing
+references:1539732990|2083554676|2098176360|2108353271|2117993860|2133639876|2165328907|2170102340|2661279125
+
+
+id:2920699082
+title:A Widely Linear MMSE Anti-Collision Method for Multi-Antenna RFID Readers
+year:2019
+author information:[
+author name:Wei Deng
+author organization:Southeast University
+author id:2902482262|
+author name:Zhe Li
+author organization:Engineering Soochow University
+author id:2715332028|
+author name:Yili Xia
+author organization:Southeast University
+author id:2124870263|
+author name:Kai Wang
+author organization:Southeast University
+author id:2627991711|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2111323613|
+]
+abstract:modeling|separate|leading|minimummeansquareerror|improper|multiantenna|anticollision|degradation|radio|frequency|realworld|identification|transmission|easily|tag|different|signal|likely|quadrature|method|widely|sent|tags|signals|illustrated|proposed|improve|solve|throughput|experiments|methods|modelbased|quality|slot|recovery|readers|integrated|result|secondorder|systems|provides|means|linear|nature|efficient|within|multiple|rfid|simulations|single|advantages|conventional|overlapping|backscattered|multitag|interfere|time|novel|account|taking|statistics
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Transmission quality|Linear model|Computer science|Signal-to-noise ratio|Signal recovery|Real-time computing|Electronic engineering|Collision|Throughput|Quadrature (mathematics)|Radio-frequency identification
+references:1985260456|2067489830|2104309106|2154842995|2509881067|2565777398|2963251830
+
+
+id:2963251830
+title:An Augmented Nonlinear LMS for Digital Self-Interference Cancellation in Full-Duplex Direct-Conversion Transceivers
+year:2018
+author information:[
+author name:Zhe Li
+author organization:Southeast University
+author id:2715332028|
+author name:Yili Xia
+author organization:Southeast University
+author id:2124870263|
+author name:Wenjiang Pei
+author organization:Southeast University
+author id:2374990747|
+author name:Kai Wang
+author organization:Southeast University
+author id:2627991711|
+author name:Danilo P. Mandic
+author organization:Imperial College of London
+author id:1968210000|
+]
+abstract:play|optimal|nonlinear|evaluation|division|fit|justify|thermal|model|hardware|order|based|frequencydependent|arising|impact|underlying|propose|cancellation|canceller|mobilescale|strong|components|role|circuit|scheme|achieve|least|local|orthogonal|si|power|signaltointerferenceplusnoise|linear|solution|selfinterference|advantages|future|ratio|standard|joint|adequate|transceivers|analyzed|frequency|solution|sufficient|signal|quantization|area|simulations|including|widely|conducted|establish|important|square|rigorous|proposed|amplifier|waveforms|support|analysis|multiplexingbased|augmented|network|design|virtue|digital|introduce|transmit|nonidealities|devices|sharedantennabased|fullduplex|directconversion|performance|lms|conventional|various|mean|compliant|wireless
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Least mean squares filter|Control theory|Noise (electronics)|Single antenna interference cancellation|Signal-to-noise ratio|Nonlinear distortion|Quantization (signal processing)|Distortion|Orthogonal frequency-division multiplexing|Mathematics
+references:776779855|1539732990|1793086066|1968876875|1994125924|2042663762|2049516452|2060277789|2085953673|2088939447|2114632138|2116994946|2117993860|2119596571|2122125652|2122421777|2128938148|2134053781|2135328009|2146174597|2151210657|2155260992|2155696702|2160030828|2202426288|2316707692|2545232960|2571157244|2575442075|2585380722|2661279125|2743707579|2766072339|2963349810|2963438277
+
+
+id:2991181330
+title:A sliding-window DFT based algorithm for parameter estimation of multi-frequency signal
+year:2020
+author information:[
+author name:Kai Wang
+author organization:Southeast University
+author id:2989686570|
+author name:Lin Zhang
+author organization:Southeast University
+author id:2989776058|
+author name:He Wen
+author organization:Hunan University
+author id:2990367588|
+author name:Li Xu
+author organization:Southeast University
+author id:2991339644|
+]
+abstract:simulation|accuracy|twostep|frequency|second|high|dft|swdft|coarse|computer|estimate|signal|results|algorithm|frequencydomain|based|squares|varied|distorted|estimation|enhanced|sequence|input|proposed|possesses|used|prediction|obtained|parameters|least|show|estimated|swdft|measurement|instant|slidingwindow|multifrequency|proved|parameter|noise|relationship|timedomain|linear|original|practical|signaltonoise|abstract|performing|estimated|component|accuracy|framework|time|complexvalued|first|ratio
+venue name:Digital Signal Processing
+venue id:64117906
+venue type:J
+document type:Journal
+study fields:Least squares|Sliding window protocol|CLs upper limits|Algorithm|Linear prediction|Estimation theory|Mathematics
+references:1564812694|1822601966|1971581486|1979792591|1983896178|2008559277|2011183897|2047282266|2072620439|2100567194|2120958902|2168784226|2593574102|2596756379|2794361188
+

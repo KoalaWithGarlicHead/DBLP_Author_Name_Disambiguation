@@ -1,0 +1,2534 @@
+
+id:1488460495
+title:Monitoring the Depth of Anesthesia Using Discrete Wavelet Transform and Power Spectral Density
+year:2009
+author information:[
+author name:T. Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:spectral|standard|values
+venue name:Rough Sets and Knowledge Technology
+venue id:1132567130
+venue type:C
+document type:Conference
+study fields:Mathematical analysis|Depth of anesthesia|Spectral density|Discrete wavelet transform|Linear function|Stationary wavelet transform|Standard deviation|Mathematics|Wavelet transform|Wavelet
+references:1998314658|2112966028|2162067857
+
+
+id:1492916848
+title:EEG Analysis on Skull Conductivity Perturbations Using Realistic Head Model
+year:2009
+author information:[
+author name:Md. Rezaul Bashar
+author organization:Department of Mathematics and Computing
+author id:1975703002|
+author name:Yan Li
+author organization:Department of Mathematics and Computing
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:conductivity|accurate|generates|tissue|source|used|realistic|conductivity|compartment|measurement|model|different|results|potential|investigated|models|using|eeg|localization|less|impacts|electroencephalogram|estimation|effects|differences|obtained|vital|errors|requires|higher|measurement|larger|role|values|head|found|scalp|studies|among|skull|demonstrated|compacta|compared|potentials|plays|constructed|forward|brain|computation|ranging|several|due|perturbations|ratio
+venue name:Rough Sets and Knowledge Technology
+venue id:1132567130
+venue type:C
+document type:Conference
+study fields:Conductivity|Pattern recognition|Ranging|Skull|Artificial intelligence|Scalp|Eeg analysis|Acoustics|Electroencephalography|Perturbation (astronomy)|Mathematics|Computation
+references:1498655665|2107348639|2113909411|2160363272
+
+
+id:1519200567
+title:Deadline fault tolerance in a networked real-time system
+year:2006
+author information:[
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:named|executing|primaries|otherwise|either|high|shows|realtime|implemented|scheduling|model|well|guarantees|guaranteed|tasks|algorithm|alternate|simulation|might|lower|completed|welldeveloped|priority|execute|fail|system|task|applies|failure|one|networked|primary|deadlines|periodic|two|result|computing|paper|low|completion|process|cases|manages|verified|alternate|alternates|rates|possible
+venue name:Active Media Technology
+venue id:1179702818
+venue type:C
+document type:Conference
+study fields:Priority ceiling protocol|Scheduling (computing)|Computer science|Real-time operating system|Real-time computing|Fault tolerance|Priority inversion|Priority inheritance|Earliest deadline first scheduling|Dynamic priority scheduling|Distributed computing
+references:1518292187|2109488193|2126873245|2129451538
+
+
+id:1571829530
+title:Classification of EEG Signals Using Sampling Techniques and Least Square Support Vector Machines
+year:2009
+author information:[
+author name:Siuly
+author organization:Department of Mathematics and Computing
+author id:2310396698|
+author name:Yan Li
+author organization:Department of Mathematics and Computing
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:dimensionality|maintain|accuracy|experimental|extracted|terms|reduce|respectively|images|separately|made|sampling|testing|extraction|classification|samples|classifying|eye|persons|seizure|least|two|lssvm|feature|signals|vector|executes|demonstrated|st|patients|namely|great|describes|machine|series|open|first|stages|decisionmaking|data|used|research|second|features|representative|results|potential|selected|comparison|demonstrates|eeg|patients|electroencephalogram|important|square|vectors|signals|extract|suited|epileptic|techniques|support|since|classify|applied|concept|show|training|activity|paper|carried|normal|original|performance|application|well|time|presents
+venue name:Rough Sets and Knowledge Technology
+venue id:1132567130
+venue type:C
+document type:Conference
+study fields:Time series|Computer science|Artificial intelligence|Electroencephalography|Feature vector|Pattern recognition|Support vector machine|Speech recognition|Curse of dimensionality|Feature extraction|Test data|Sampling (statistics)|Machine learning
+references:2058722442|2121133235|2122403396|2144770494
+
+
+id:1599132067
+title:Estimation of Mutual Information: A Survey
+year:2009
+author information:[
+author name:Janett Walters-Williams
+author organization:University of Technology
+author id:73124484|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:data|discussion|research|reference|problem|different|starts|signal|image|new|comparison|methods|analysis|estimation|mutual|field|processing|survey|considered|aim|methods|searching|description|literature|challenges|found|entropy|common|paper|working|studies|introduction|overview|closes|performance|future|information|difficult|tends
+venue name:Rough Sets and Knowledge Technology
+venue id:1132567130
+venue type:C
+document type:Conference
+study fields:Density estimation|Data mining|Signal processing|Pattern recognition|Computer science|Image processing|Artificial intelligence|Mutual information|Machine learning
+references:1635484243|2114011790|2127234432|2160831813
+
+
+id:1968059839
+title:Analysis of alcoholic EEG signals based on horizontal visibility graph entropy
+year:2014
+author information:[
+author name:Guohun Zhu
+author organization:University of Southern
+author id:2115904367|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng (Paul) Wen
+author organization:University of Southern
+author id:2012430087|
+author name:Shuaifang Wang
+author organization:University of Southern
+author id:2396859169|
+]
+abstract:optimal|channel|accuracy|experimental|approach|extracted|three|knearest|alcoholics|identification|abnormal|promising|respectively|based|using|method|abnormalities|drinkers|analysis|classification|forwarded|neighbour|left|even|evaluate|compare|statistical|hvge|entropy|signals|vector|subjects|sample|biomedical|controlled|disorder|recordings|machine|associated|cannot|maximum|novel|features|ratio|employed|horizontal|features|sae|method|hvges|saes|results|selected|group|visibility|eeg|proposes|alcoholics|crossvalidation|graph|signals|channels|demonstrate|support|show|choose|paper|alcoholism|hemisphere|identify|alcoholic|five|conduct|significantly
+venue name:Brain Informatics
+venue id:2498492389
+venue type:J
+document type:Journal
+study fields:Visibility graph|Sample entropy|Pattern recognition|Support vector machine|Artificial intelligence|Graph entropy|Machine learning|Electroencephalography|Mathematics|Statistical analysis
+references:47305151|1508472351|1734549361|2007320090|2016280237|2032645175|2041404167|2065439482|2088478798|2091613287|2153272791|2171558106
+
+
+id:1973041396
+title:Leaf Vein Extraction Using Independent Component Analysis
+year:2006
+author information:[
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Zheru Chi
+author organization:Hong Kong Polytech. University
+author id:2150613467|
+author name:David D. Feng
+author organization:The Hong Kong Polytechnic University
+author id:2973280901|
+]
+abstract:play|functions|interactive|extracting|used|features|generated|hierarchical|extraction|different|results|algorithm|promising|new|using|images|vein|method|work|experimental|patches|develop|extraction|analysis|basis|tool|botanists|important|extract|system|helps|demonstrate|present|little|identifying|images|role|independent|purpose|applied|automatically|pattern|technique|plants|training|venation|popular|map|set|linear|living|sets|efficient|learn|ica|edges|leaf|possible|fastica|veins|component|interaction|randomly|user|properties|objects
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Edge detection|Computer science|Fastica algorithm|Feature extraction|Artificial intelligence|Independent component analysis|Basis function|Machine learning
+references:1762709062|2062606511|2099741732|2119827564|2125148312
+
+
+id:1982088840
+title:A novel statistical algorithm for multiclass EEG signal classification
+year:2014
+author information:[
+author name:Siuly
+author organization:University of Southern Queensland
+author id:2310396698|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:select|mlssvm|extracting|entire|consistency|investigates|output|reflect|depending|outcomes|four|evaluated|ten|algorithm|based|using|method|classification|samples|benchmark|classifying|input|methods|one|experiments|least|variability|coding|signals|vector|compared|within|efficient|optimum|database|data|fitted|multiclass|confirm|classification|machine|minimum|experiment|codes|process|repeated|research|reference|high|whether|different|representative|results|new|test|involves|eeg|patterns|square|extract|epileptic|proposed|demonstrate|support|vs|parameters|classify|show|technique|error|effective|times|assesses|paper|correcting|performances|applying|allocation|groups|also|existing|well|suitable|presents
+venue name:Engineering Applications of Artificial Intelligence
+venue id:900972176
+venue type:J
+document type:Journal
+study fields:Least squares|Data mining|Computer science|Coding (social sciences)|Signal classification|Artificial intelligence|Electroencephalography|Multiclass classification|Pattern recognition|Support vector machine|Statistical algorithm|Eeg data|Machine learning
+references:1571829530|1596717185|1676820704|1970876195|2011484846|2018585293|2026217312|2054764914|2080146971|2081700482|2097171469|2098994855|2101276256|2103082096|2113705938|2119314811|2127314631|2133864802|2151388232|2156909104|2170308301|2619267192
+
+
+id:1983864612
+title:Image Classification Using Wavelet Coefficients in Low-pass Bands
+year:2007
+author information:[
+author name:Weibao Zou
+author organization:Chinese Acad. of Sci., Shenzhen
+author id:2161937853|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:reaches|reliable|approach|different|structure|represented|based|images|histograms|method|large|images|testing|classification|processing|substantially|respectively|bands|distribution|adaptive|categories|based|characterized|set|decomposed|directions|one|structures|makes|database|classification|x|lowpass|data|seven|used|features|different|results|image|experimental|tree|highpass|onto|proposed|wavelet|show|training|projected|effective|arranged|paper|organize|rate|coefficients|derived|improvement|performance|nodes|coefficients|presents
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Histogram|Pattern recognition|Computer science|Artificial intelligence|Tree structure|Cascade algorithm|Stationary wavelet transform|Contextual image classification|Wavelet packet decomposition|Machine learning|Wavelet|Wavelet transform
+references:1556088076|1571271243|2067765887|2104518905|2127827747|2143505744|2165411019|2166681504
+
+
+id:1988565407
+title:Consciousness and Depth of Anesthesia Assessment Based on Bayesian Analysis of EEG Signals
+year:2013
+author information:[
+author name:Tai Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:measured|anesthetized|accuracy|awake|poor|estimate|evaluated|state|case|order|based|using|agreement|consciousness|method|inferences|compared|probability|posterior|index|limiting|accurately|applies|correlation|analyze|map|study|quality|distribution|anesthesia|verify|takes|based|popular|patients|change|bdoa|sample|n|depth|assess|recordings|maximum|shrinkage|paradigm|data|states|used|assessment|largesample|pk|function|implement|results|signal|estimates|new|hypnotic|eeg|bayesian|blandalman|signals|denoise|proposed|techniques|effect|wavelet|prediction|deep|applied|studied|values|show|function|states|plot|gradually|doa|designed|normal|increase|bis|index|variance|coefficients
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Normal distribution|Computer science|Posterior probability|Artificial intelligence|Electroencephalography|Bayes theorem|Wavelet|Computer vision|Pattern recognition|Depth of anesthesia|Correlation|Statistics|Bayesian probability
+references:2076141307|2110307501|2116106036|2143421693|2165944663|2170392470
+
+
+id:1997281209
+title:Theoretical basis for identification of different anesthetic states based on routinely recorded EEG during operation
+year:2009
+author information:[
+author name:T. Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:anesthetic|awake|clearly|routinely|identification|modified|method|results|five|moderate|new|based|using|method|conducted|analysis|electroencephalogram|light|demonstrate|present|fluctuation|deep|states|anesthesia|transform|fourier|discriminate|identify|detrended|recorded|fast|simulation|stages
+venue name:Computers in Biology and Medicine
+venue id:44278595
+venue type:J
+document type:Journal
+study fields:Pattern recognition|LIGHT ANESTHESIA|Computer science|Anesthesia|Deep anesthesia|Depth of anesthesia|Detrended fluctuation analysis|Fast Fourier transform|Artificial intelligence|Anesthetic|Electroencephalography
+references:1998314658|2011830224|2052806391|2128793573|2137778858
+
+
+id:2011484846
+title:Clustering technique-based least square support vector machine for EEG signal classification
+year:2011
+author information:[
+author name:Siuly
+author organization:University of Southern Queensland
+author id:2310396698|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng (Paul) Wen
+author organization:University of Southern
+author id:2012430087|
+]
+abstract:called|accuracy|experimental|approach|extracted|three|terms|imagery|tasks|algorithm|method|sampling|classification|benchmark|much|motor|average|study|compare|twoclass|methods|experiments|another|least|technique|two|literature|signals|specificity|reported|vector|indicate|takes|compared|efficient|one|data|performed|produce|decision|classification|machine|ctlssvm|databases|first|stages|data|findings|several|available|achieves|simple|used|techniquebased|research|second|employed|features|srslssvm|representative|signal|results|new|making|eeg|conducted|less|publicly|square|extract|proposed|epileptic|demonstrate|support|classify|applied|show|technique|mental|random|paper|rate|effectiveness|execution|previous|also|better|existing|performance|clustering|time|presents
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Least squares|Simple random sample|Pattern recognition|Computer science|Support vector machine|Mental image|Feature extraction|Artificial intelligence|Cluster analysis|Electroencephalography|Motor imagery
+references:1526852036|1529306955|1562681882|1571829530|1974928465|1977707084|1984517374|2018585293|2018891159|2021970732|2034697419|2036544512|2038421214|2058722442|2080146971|2081700482|2081895431|2097171469|2098994855|2117251170|2129023315|2138209918|2139212933|2140434576|2156909104|2158076175|2163492840|2170317771|2286426563|2619267192
+
+
+id:2012640125
+title:Improving the accuracy of depth of anaesthesia using modified detrended fluctuation analysis method
+year:2010
+author information:[
+author name:Tai Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng (Paul) Wen
+author organization:University of Southern
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:accuracy|awake|state|moderate|using|method|analysis|monitoring|attention|bispectral|provide|fluctuation|monitors|extension|lagrange|perspective|popular|linear|within|detrended|depth|information|first|levels|comparing|use|states|index|compute|modified|different|five|results|new|need|significant|zones|clinical|extends|improve|mdfa|demonstrate|accurately|classify|deep|ranges|applied|technique|box|states|operations|paper|doa|sizes|simulation|build|corresponding|regression|doa|dfa|presents|anaesthesia
+venue name:Biomedical Signal Processing and Control
+venue id:8427965
+venue type:J
+document type:Journal
+study fields:Depth of anaesthesia|Pattern recognition|Lagrange multiplier|Detrended fluctuation analysis|Artificial intelligence|Deep anaesthesia|Bispectral index|Mathematics|Linear regression
+references:1998314658|2112966028|2128793573|2137478377|2137778858
+
+
+id:2025113711
+title:Effects of the number of hidden nodes used in a structured-based neural network on the reliability of image classification
+year:2009
+author information:[
+author name:Weibao Zou
+author organization:the Hong Kong Polytechnic University
+author id:2161937853|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Arthur Tang
+author organization:University of Central Florida
+author id:2117516913|
+]
+abstract:nonlinear|output|number|problem|investigation|applied|algorithm|images|large|layer|testing|classification|two|structuredbased|input|set|arrives|appropriate|affect|one|experiments|reliability|layer|bpts|indicate|many|architecture|set|classification|organizing|choice|first|numbers|used|challenging|second|assessment|features|results|group|described|image|including|experimental|conducted|significant|important|effects|wavelet|considered|demonstrate|nn|neural|hidden|analysis|unchanged|training|network|rate|coefficients|carried|groups|kept|structure|factors|nodes|backpropagation|consists|uses
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Models of neural computation|Input/output|Artificial intelligence|Backpropagation|Artificial neural network|Contextual image classification|Classification rate|Machine learning|Statistical hypothesis testing|Mathematics|Wavelet
+references:1556088076|1571271243|1976990135|2104518905|2127827747|2160650769|2165411019|2166681504
+
+
+id:2045333176
+title:Analysing epileptic EEGs with a visibility graph algorithm
+year:2012
+author information:[
+author name:Guohun Zhu
+author organization:University of Southern
+author id:2115904367|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:extracted|subject|accuracy|used|eegs|three|degrees|number|high|shown|vg|different|five|results|algorithm|based|subject|visibility|eeg|experimental|degree|singlechannel|classification|electroencephalogram|graph|vg|epileptic|mapped|algorithm|demonstrate|larger|seizure|distribution|eight|paper|analyzes|discriminate|human|types|identify|eegs|interictal|nodes|mean|healthy|significantly
+venue name:BioMedical Engineering and Informatics
+venue id:1178831173
+venue type:C
+document type:Conference
+study fields:Graph theory|Computer vision|Visibility graph|Pattern recognition|Computer science|Algorithm|Feature extraction|Artificial intelligence|Degree distribution|Signal classification|Electroencephalography
+references:1998711164|2005791255|2011484846|2021970732|2059016985|2083062762|2158076175
+
+
+id:2048053690
+title:Monitoring the depth of anaesthesia using Hurst exponent and Bayesian methods
+year:2014
+author information:[
+author name:Tai Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:awake|four|poor|denoise|surgery|state|case|moderate|based|method|index|hurst|analysis|quality|light|obtained|anaesthetic|study|compare|clinically|distribution|signals|indicate|based|validate|robust|patients|data|depth|maximumlikelihood|novel|distinguishing|states|threshold|remains|clearly|used|transitions|assessment|faster|mldoa|modified|different|results|signal|five|exponent|new|eeg|proposes|bayesian|electroencephalogram|monitored|signals|proposed|wavelet|bispectral|classify|deep|show|function|responds|states|patient|derived|identify|bis|better|variance|index|doa|anaesthesia
+venue name:Iet Signal Processing
+venue id:30889260
+venue type:J
+document type:Journal
+study fields:Depth of anaesthesia|Pattern recognition|Light anaesthesia|Signal quality|Hurst exponent|Artificial intelligence|Statistics|Deep anaesthesia|Mathematics|Electroencephalography|Wavelet|Bayesian probability
+references:1997281209|2012640125|2033530220|2110307501|2112966028|2114054266|2116106036|2137478377|2137778858|2146842127|2149072817|2162067857|2165944663|2170392470
+
+
+id:2054764914
+title:Identification of motor imagery tasks through CC-LR algorithm in brain computer interface
+year:2013
+author information:[
+author name:Siuly
+author organization:University of Southern Queensland
+author id:2310396698|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:competition|ctbased|brain|data|support|tested|experimental|identification|outcomes|four|least|computer|evaluated|mi|vector|results|tasks|development|using|motor|method|bci|crossvalidation|tested|square|benchmark|technologies|proposed|spatial|technique|demonstrate|algorithms|study|methods|least|focuses|aggregation|two|machine|crosscorrelation|lssvm|ivb|iva|reported|rcommon|cclr|compared|pattern|csp|set|recently|regression|combining|also|imagery|procedure|clustering|improvement|logistic|existing|performance|iva|interface|techniques
+venue name:International Journal of Bioinformatics Research and Applications
+venue id:207086575
+venue type:J
+document type:Journal
+study fields:Least squares|Cross-correlation|Data set|Computer science|Support vector machine|Brain–computer interface|Algorithm|Feature extraction|Artificial intelligence|Cluster analysis|Machine learning|Motor imagery
+references:1571829530|1970876195|1973948212|2011484846|2018585293|2020873378|2045185094|2080146971|2081700482|2094102648|2106006415|2129023315|2130395838|2140434576|2147174595|2155617375|2168500935|2170317771
+
+
+id:2055070433
+title:Modified CC-LR algorithm with three diverse feature sets for motor imagery tasks classification in EEG based brain-computer interface
+year:2014
+author information:[
+author name:Siuly
+author organization:University of Southern Queensland
+author id:2310396698|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng (Paul) Wen
+author organization:University of Southern
+author id:2012430087|
+]
+abstract:select|reliably|channel|three|investigates|identification|imagery|diverse|tasks|algorithm|based|motor|considering|iii|bci|classification|version|braincomputer|winner|input|insight|applies|algorithm|device|motor|systems|study|crosscorrelation|methods|sequences|distribution|eight|feature|brain|reported|disabled|indicate|composing|develops|compared|performance|cc|set|sets|could|data|people|designing|characterize|exploring|communicate|states|findings|developed|reference|earlier|modified|mi|international|potential|results|wellknown|including|eeg|patterns|tested|basis|important|signals|proposed|improve|anatomical|demonstrate|present|identifying|classifier|technique|mental|best|interface|satisfactory|electrode|provides|cclr|human|electroencephalography|recently|also|distinguished|improvement|structure|existing|logistic|performance|regression|typical|suitable|uses
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Cross-correlation|Computer science|Brain–computer interface|Artificial intelligence|Classifier (linguistics)|Logistic regression|Electroencephalography|Computer vision|Pattern recognition|Algorithm|Communication channel|Feature extraction|Machine learning|Motor imagery
+references:1571829530|1968930555|1973948212|1979464363|1987656288|2002114660|2010371409|2011484846|2012499070|2018585293|2020873378|2021970732|2023591193|2029437937|2038971587|2054764914|2080146971|2080999121|2081700482|2106006415|2126719297|2129013743|2131321253|2147174595|2149925546|2150764079|2152119085|2155617375|2168500935|2172123257
+
+
+id:2061011744
+title:Minimum packet drop sequences based networked control system model with embedded Markov chain
+year:2009
+author information:[
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:triggered|employed|dynamics|problem|state|given|new|using|method|commonly|proposes|packet|modelling|system|plant|networked|drop|study|technique|transmission|sequences|states|paper|chain|controller|demonstrated|controller|chain|identify|markov|control|pid|transition|minimum|novel|first|represent
+venue name:Simulation Modelling Practice and Theory
+venue id:114739668
+venue type:J
+document type:Journal
+study fields:Control theory|PID controller|Packet transmission|Networked control system|Control theory|Computer science|Network packet|Markov chain|Control engineering|Real-time computing
+references:1554496325|1641453282|1801704802|2002217769|2133553301|2140246545|2147341361|2154290660|2164522996|2170096173
+
+
+id:2065439482
+title:Epileptic seizure detection in EEGs signals using a fast weighted horizontal visibility algorithm.
+year:2014
+author information:[
+author name:Guohun Zhu
+author organization:University of Southern
+author id:2115904367|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Paul Wen
+author organization:University of Southern
+author id:2282862412|
+]
+abstract:fwhva|strength|accuracy|frequency|horizontal|features|faster|shows|fft|noiserobustness|method|evaluated|weighted|five|results|investigated|algorithm|promising|based|using|constructing|chaos|visibility|eeg|experimental|proposes|degree|comparing|significant|extraction|classification|two|graph|signals|ictal|sampen|fft|higher|identifying|seizure|show|two|entropy|paper|fourier|feature|signals|fast|identify|groups|sample|eegs|interictal|indices|fast|performance|classification|mean|healthy|series|associated|time|transform
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Sample entropy|Visibility graph|Pattern recognition|Computer science|Algorithm|Feature extraction|Fast Fourier transform|Epileptic seizure|Artificial intelligence|Ictal|Electroencephalography|Computational complexity theory
+references:1489509891|1503945204|1988002401|1988150589|1998711164|2004718447|2011484846|2015928131|2021970732|2045333176|2065454702|2082650415|2107541057|2107941496|2122111042|2148606196|2158468574|2158976038
+
+
+id:2074838957
+title:Designing a robust feature extraction method based on optimum allocation and principal component analysis for epileptic EEG signal classification
+year:2015
+author information:[
+author name:Siuly Siuly
+author organization:Victoria University
+author id:210172658|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:named|dimensionality|accuracy|experimental|favorable|construct|approach|number|four|development|classifier|recent|order|algorithm|reduce|based|method|large|methods|extraction|classification|analysis|samples|innovative|system|valuable|algorithms|study|components|aim|scheme|methods|least|variability|lssvm|feature|get|reported|vector|denoted|popular|compared|robust|linear|efficient|optimum|data|neighbor|multiclass|optimum|component|machine|representatives|novel|features|naive|data|timewindowbetter|used|developed|research|points|features|major|huge|different|representative|results|signal|discover|eeg|tested|finding|enhanced|square|improving|signals|epileptic|channels|discriminant|overall|correlated|support|applied|concept|show|technique|choose|best|principal|minimal|oa|design|bayes|performances|allocation|original|determine|literature|recognition|also|approaches|outperforms|existing|uncorrelated|yields|suitable|work|knearest
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Data point|Data mining|Pattern recognition|Naive Bayes classifier|Computer science|Support vector machine|Feature extraction|Curse of dimensionality|Artificial intelligence|Linear discriminant analysis|Classifier (linguistics)|Principal component analysis
+references:349770100|1571829530|1596717185|1817561967|1974076946|1979835117|1990441178|2001612033|2005305683|2011484846|2018585293|2027927824|2038421214|2054764914|2055070433|2071341607|2097171469|2103082096|2113705938|2119314811|2122111042|2156192068|2167411254|2170308301|2619267192
+
+
+id:2076811039
+title:Using Usage Control to Access XML Databases
+year:2009
+author information:[
+author name:Lili Sun
+author organization:University of Southern
+author id:2125876322|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:increasingly|considered|usage|objectsoriented|therefore|authorization|complex|model|usually|communities|documents|generation|databases|models|authorizations|propose|flexible|comparisons|environment|shared|compare|access|works|kinds|proven|objectoriented|management|web|systems|usage|contain|decision|may|efficient|could|analyzed|web|several|stored|cannot|information|databases|represent|becoming|data|documents|administration|distinguishing|available|used|analyzed|presented|different|objectoriented|widely|system|important|improve|since|next|continuity|private|authorizations|database|security|related|supporting|every|designed|characteristics|selective|control|structure|detailed|xml|various|consists|user|properties|applications
+venue name:International Journal of Information Systems in The Service Sector
+venue id:160826262
+venue type:J
+document type:Journal
+study fields:XML Base|XML Encryption|Efficient XML Interchange|Streaming XML|XML validation|Computer science|XML database|Database|XML Schema Editor|XML Signature
+references:116763781|135765552|1863025379|1986789244|1999220550|2039588269|2048652724|2073300799|2091712649|2107307934|2139275917|2139850616|2146778452|2148088212|2161006460
+
+
+id:2088478798
+title:Analysis and Classification of Sleep Stages Based on Difference Visibility Graphs From a Single-Channel EEG Signal
+year:2014
+author information:[
+author name:Guohun Zhu
+author organization:University of Southern
+author id:2115904367|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Paul Wen
+author organization:University of Southern
+author id:2282862412|
+]
+abstract:accuracy|awake|extracted|degrees|artifact|classifies|respectively|based|singlechannel|classification|distributions|forwarded|gaitrelated|light|domain|difference|obtained|dvgs|methods|epoch|sequences|segments|sleep|found|signals|distinguishable|vector|kappa|set|analyzed|subtracting|stage|machine|movement|features|essential|dd|nine|extracted|states|seven|mainly|frequency|features|horizontal|signal|visibility|eeg|degree|graph|electroencephalogram|reverse|vg|extract|mapped|hvgs|mds|support|sixstate|higher|classify|deep|values|detect|paper|recordings|six|vgs|edges|epochbyepoch|existing|dvg|mean|stages|hvg|coefficients|time|signal
+venue name:IEEE Journal of Biomedical and Health Informatics
+venue id:2495854775
+venue type:J
+document type:Journal
+study fields:Kappa|Visibility|Visibility graph|Pattern recognition|Computer science|Support vector machine|Artificial intelligence|Slow-wave sleep|Series (stratigraphy)|Sleep Stages|Electroencephalography
+references:1503945204|1537512715|1974498657|1982754133|1996369579|2021589706|2033172224|2043224204|2086943666|2102376611|2144691514|2148104502|2153635508|2171558106
+
+
+id:2103932972
+title:Service-mining Based on the Knowledge and Customer Databases
+year:2007
+author information:[
+author name:Hu Wang
+author organization:Wuhan University of Technol
+author id:2676116620|
+author name:Chunqiang Gong
+author organization:Wuhan University of Technology
+author id:2172065658|
+author name:Yan Li
+author organization:Xian University of Technology
+author id:2563701911|
+]
+abstract:data|reasoning|servicemining|structure|function|centers|evaluated|potential|hierarchy|patterns|includes|mining|propose|system|improve|helps|components|discovered|concept|show|layer|vehicle|servicemining|supporting|architecture|introduce|also|feedback|conceptual|framework|service|services|maintenance
+venue name:Annual ACIS International Conference on Computer and Information Science
+venue id:2755365417
+venue type:C
+document type:Conference
+study fields:Customer relationship management|Management information systems|Data structure|Information management|Enterprise resource planning|Computer science|Conceptual architecture|Knowledge base|Hierarchy|Database
+references:2054618740|2121388787|2142503426|2521156824
+
+
+id:2110307501
+title:An Improved Detrended Moving-Average Method for Monitoring the Depth of Anesthesia
+year:2010
+author information:[
+author name:T Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:undergoing|approach|monitored|relation|observed|poor|estimate|state|reflects|trends|case|similar|using|method|consciousness|index|underlying|slope|accurately|delay|correlation|circumstances|fluctuation|logarithm|anesthesia|mdma|found|indicates|close|agreed|validate|compared|scaling|patients|movingaverage|clinically|detrended|fmin|monitor|depth|maximum|minimum|movement|values|faster|powerlaw|function|modified|method|results|signal|exponent|new|hypnotic|quantify|clinical|signals|proposed|bispectral|seems|applied|changes|scale|general|computing|paper|provides|patient|dma|trends|monitor|bis|doa|responsive|nonstationary|scale|time|properties
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Biomedical engineering|Computer science|Signal quality|Artificial intelligence|Scaling|Bispectral index|Computer vision|Depth of anesthesia|Correlation|Statistics|Minimum time|Moving average|Logarithmic scale
+references:1997281209|1998314658|2041404167|2052806391|2112966028|2128793573|2137778858|2146842127|2162067857
+
+
+id:2118506408
+title:XML and web services security
+year:2008
+author information:[
+author name:Lili Sun
+author organization:University of Southern
+author id:2125876322|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:standard|undeniable|becoming|data|documents|main|specifications|website|analyzed|connects|communities|progressed|protecting|based|briefly|presented|xmlbased|standards|toward|especially|web|comparisons|present|become|shared|private|providing|signature|works|signature|effective|security|related|protect|digital|amount|semistructured|contain|may|securing|standards|also|technologies|several|existing|framework|application|xml|service|increasing|cannot|information|describe|relations|user|comprehensive|important|applications
+venue name:Computer Supported Cooperative Work in Design
+venue id:1129447984
+venue type:C
+document type:Conference
+study fields:XML Base|XML Encryption|World Wide Web|Efficient XML Interchange|XML framework|Streaming XML|Computer science|XML validation|XML Schema Editor|XML Signature
+references:1999220550|2157377833|2169199559|2911473785
+
+
+id:2142283956
+title:Measuring the hypnotic depth of anaesthesia based on the EEG signal using combined wavelet transfor
+year:2012
+author information:[
+author name:Tai Nguyen-Ky
+author organization:University of Southern Queensland
+author id:1928625341|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Mel Malan
+author organization:Department of AnaesthesiaToowoomba Health Service, Darling Downs - West Moreton Health Service District, Australia
+author id:2494272115|
+]
+abstract:trend|awake|react|daubechies|observed|wavelet|moderate|based|using|period|agreement|method|consciousness|index|light|determined|set|parallels|optimally|feature|indicates|signals|rescale|patients|one|consistent|transition|generally|p|depth|zdoa|depths|ranking|combined|corresponds|movement|techniques|first|levels|data|indices|eegs|compute|faster|function|different|five|results|new|statistic|hypnotic|eeg|often|unconsciousness|real|eigenvector|discrete|measure|proposed|wavelet|anaesthetised|demonstrate|clinically|deep|applied|changes|best|states|normalisation|transform|paper|blandaltman|plot|derived|value|carried|applying|process|six|identify|recorded|anaesthesia|bis|simulation|build|index|doa|coefficients|presents|anaesthesia
+venue name:Computers in Biology and Medicine
+venue id:44278595
+venue type:J
+document type:Journal
+study fields:Hypnotic|Unconsciousness|Statistic|Pattern recognition|Artificial intelligence|Discrete wavelet transform|Daubechies wavelet|Eigenvalues and eigenvectors|Electroencephalography|Mathematics|Wavelet transform
+references:1963881067|1993671012|2110307501|2116106036|2132984323|2149072817|2162067857
+
+
+id:2216932497
+title:Numeric Investigation of Brain Tumor Influence on the Current Distributions During Transcranial Direct Current Stimulation
+year:2016
+author information:[
+author name:Bo Song
+author organization:University of Southern Queensland
+author id:2661129178|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Tony Ahfock
+author organization:University of Southern Queensland
+author id:1588634816|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:edema|simulation|humanhead|presence|investigated|models|researchers|made|distributions|doctors|grade|conditions|study|global|local|result|current|density|tumors|highresolution|caused|analyzed|possible|brain|series|tumor|showed|first|treat|findings|several|tumor|threshold|influence|realistic|helpful|different|well|area|numerically|patients|fill|interest|clinical|safe|region|montages|neuropsychiatric|changes|electrode|numerical|considerable|induced|observations|influences|gap|derived|pain|constructed|apply|also|peak|tdcs|tumors|although|tdcs|location|cancer|applications
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Neuroscience|Current distribution|Brain tumor|Cancer pain|Region of interest|Transcranial direct-current stimulation|Peak current|Medicine
+references:1998016850|2009561775|2032102008|2040184411|2048372268|2074760344|2077886726|2087418404|2107348639|2113909411|2114257879|2117026441|2148501459
+
+
+id:2287478636
+title:An Intelligent Recommender System Based on Short-Term Risk Prediction for Heart Disease Patients
+year:2015
+author information:[
+author name:Raid Lafta
+author organization:University of Southern Queensland
+author id:2277508999|
+author name:Ji Zhang
+author organization:University Southern Queensland
+author id:2109058337|
+author name:Xiaohui Tao
+author organization:University of Southern
+author id:2144301289|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Vincent S. Tseng
+author organization:Nat. Cheng Kung University
+author id:2023431847|
+]
+abstract:medical|accuracy|experimental|recommendations|recommendations|conducting|research|analytics|tests|satisfactory|results|algorithm|promising|offers|reduce|telehealth|patients|heart|innovative|saving|traditional|system|tests|practitioners|provide|proposed|daily|prediction|support|environment|necessity|paradigm|show|industry|personalized|healthcare|transform|scenario|provides|patient|based|recommender|disease|cost|decision|workload|also|intelligent|way|help|series|yields|uses|time
+venue name:Web Intelligence
+venue id:1200067787
+venue type:C
+document type:Conference
+study fields:Recommender system|Health care|Data mining|Computer science|Workload|Decision support system|Healthcare industry|Analytics|Heart disease
+references:1486317198|1979951318|1981145348|2019565791|2068162295|2082705447|2142865390
+
+
+id:2294418108
+title:Orthogonal Basis Extreme Learning Algorithm and Function Approximation
+year:2015
+author information:[
+author name:Ying Li
+author organization:University of Southern
+author id:2558709655|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Xiangkui Wan
+author organization:Hubei University of TEchnology
+author id:2309124619|
+]
+abstract:simulation|paper|neuron|accuracy|decide|good|learning|number|function|layers|feasible|results|obel|extreme|algorithm|new|given|approximation|develop|nns|proposed|provide|parameters|providing|hidden|neural|training|learning|networks|layer|speed|basis|effective|feedforward|practical|orthogonal|extreme|way|single|fast|showed|derivation|adaptability|nns
+venue name:International Symposium on Neural Networks
+venue id:1161424158
+venue type:C
+document type:Conference
+study fields:Adaptability|Feedforward neural network|Function approximation|Computer science|Wake-sleep algorithm|Orthogonal basis|Algorithm|Algorithm derivation|Artificial intelligence|Artificial neural network|Population-based incremental learning|Machine learning
+references:283480392|2111072639
+
+
+id:2342453702
+title:Classification of epileptic EEG signals based on simple random sampling and sequential feature selection
+year:2016
+author information:[
+author name:Hadi Ratham Al Ghayab
+author organization:University of Southern Queensland
+author id:2344057471|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Shahab A. Abdulla
+author organization:University of Southern Queensland
+author id:2167351208|
+author name:Mohammed Diykh
+author organization:University of Southern Queensland
+author id:2337322782|
+author name:Xiangkui Wan
+author organization:Hubei University of TEchnology
+author id:2309124619|
+]
+abstract:multichannel|select|dimensionality|experimental|three|extracted|selects|classifier|algorithm|reduce|respectively|method|sampling|diseases|classified|classification|forwarded|selection|domain|extracts|sensitivity|fields|treatment|electroencephalogram|least|focuses|sleep|feature|signals|vector|key|data|machine|broadly|medical|achieves|main|simple|used|research|features|results|selected|new|eeg|diagnosis|square|signals|extract|points|support|problems|classify|applied|sequential|show|technique|random|paper|srs|sfs|time|applications|presents
+venue name:Brain Informatics
+venue id:2498492389
+venue type:J
+document type:Journal
+study fields:Least squares|Feature selection|Simple random sample|Computer science|Artificial intelligence|Classifier (linguistics)|Electroencephalography|Time domain|Pattern recognition|Support vector machine|Speech recognition|Curse of dimensionality|Machine learning
+references:1571829530|1596717185|1976724965|1979148805|1988150589|2005305683|2014915963|2027927824|2074838957|2077594923|2102244548|2107941496|2135248331|2159398070|2167191085
+
+
+id:2475148710
+title:Complex networks approach for EEG signal sleep stages classification
+year:2016
+author information:[
+author name:Mohammed Diykh
+author organization:University of Southern Queensland
+author id:2337322782|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:dimensionality|tested|channel|experimental|extracted|number|neurologists|complex|reduce|phase|based|using|method|methods|classified|classification|extraction|monitoring|forwarded|subsegment|propertiesthe|rely|domain|developing|processing|networks|stage|statistical|compare|activity|methods|diagnosing|networks|two|sleep|feature|kmeans|vector|indicate|ability|compared|scoring|sets|analysing|one|specialists|domain|disorders|single|similarities|sleep|stage|machine|featuresstage|assist|combined|novel|stages|transferred|data|reasonable|fewer|paper|network|used|challenging|research|frequency|features|high|segment|different|results|new|including|eeg|awake|important|attains|signals|proposed|support|classify|divided|classifier|show|technique|investigate|represents|paper|provides|similarity|task|ranked|electroencephalography|execution|six|literature|also|approaches|reportedfinding|better|existing|performance|due|comparison|stages|time|properties
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Time domain|Frequency domain|Pattern recognition|Computer science|Support vector machine|Feature extraction|Complex network|Artificial intelligence|Classifier (linguistics)|Machine learning|Electroencephalography|Sleep Stages
+references:1970597853|1978347377|1993578171|1996369579|2000827064|2011484846|2033894697|2034697419|2038971587|2046126307|2050947130|2062439387|2084898653|2086943666|2087347434|2088478798|2097747115|2113367658|2124644809|2126997102|2131209034|2144691514|2148104502
+
+
+id:2519191968
+title:Security and privacy preserving approaches in the eHealth clouds with disaster recovery plan
+year:2016
+author information:[
+author name:Aqeel Sahi
+author organization:University of Southern Queensland
+author id:2467978205|
+author name:David Lai
+author organization:University of Southern Queensland
+author id:2400951594|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:approach|introduced|companies|integrity|review|model|plan|safely|order|reduce|large|personal|remain|work|cryptographicbased|handle|propose|privacypreserving|server|reliability|two|ehealth|healthcare|securitypreserving|ways|electronic|many|projects|means|robust|may|efficient|abstract|one|health|electronic|data|many|domain|inhouse|plan|records|strategy|discuss|issues|protects|data|moved|used|cloud|cloud|vulnerable|amounts|presented|serious|sector|sectors|development|ensure|preserve|regarding|lack|transfer|proposed|preserving|records|cause|privacy|best|storage|recovery|disaster|integrated|computing|security|related|cryptographicbased|ensuring|thirdparty|authentication|health|alternative|costs|approaches|storing|cloud|well|maintenance
+venue name:Computers in Biology and Medicine
+venue id:44278595
+venue type:J
+document type:Journal
+study fields:Electronic data|Authentication|Privacy by Design|Computer science|Computer security|Cloud computing security|Information privacy|Disaster recovery plan|Disaster recovery|Cloud computing
+references:70589698|1582813804|1662502614|1923535302|1965360809|1966837108|1973388526|1981084830|1989433363|1991471065|1993032872|2005358011|2011353876|2014169107|2019672983|2020176599|2060889319|2072515108|2087065364|2090520194|2122433763|2123870853|2133039888|2158440902|2184498111|2271163303|2521842495
+
+
+id:2531239939
+title:Autism Spectrum Disorder: Brain Images and Registration
+year:2016
+author information:[
+author name:Porawat Visutsak
+author organization:University of Southern Queensland
+author id:2567368239|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:developmental|called|results|disability|source|affine|good|analyzing|introduced|contribution|major|translations|function|different|results|signal|various|autistic|new|image|images|using|coordinate|method|devices|neuroscience|abnormalities|system|homogeneous|field|science|nerve|registration|complexity|study|images|aligning|technique|computer|paper|provides|captured|studies|set|robust|social|rotation|implementation|brain|transformation|autism|target|autism|disorder|interests|yields|presents
+venue name:Health Information Science
+venue id:2758852442
+venue type:C
+document type:Conference
+study fields:Autism|Affine transformation|Coordinate system|Homogeneous coordinates|Computer vision|Medical imaging|Computer science|Image processing|Artificial intelligence|Autism spectrum disorder|Image registration
+references:2294667540
+
+
+id:2550372819
+title:IRS-HD: An Intelligent Personalized Recommender System for Heart Disease Patients in a Tele-Health Environment
+year:2016
+author information:[
+author name:Raid Lafta
+author organization:University of Southern Queensland
+author id:2277508999|
+author name:Ji Zhang
+author organization:University Southern Queensland
+author id:2109058337|
+author name:Xiaohui Tao
+author organization:University of Southern
+author id:2144301289|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Vincent S. Tseng
+author organization:Nat. Cheng Kung University
+author id:2023431847|
+]
+abstract:play|easytouse|called|helping|recommendation|supply|objective|saves|days|advises|promising|reduce|proposal|based|telehealth|past|diseases|accurately|analysis|quality|system|day|environment|care|role|receive|decision|may|necessary|irshd|incorrect|workload|health|medical|data|use|friendly|inputs|body|developed|recommendations|whether|satisfactory|offers|making|test|need|patients|heart|users|system|technologies|take|clinical|improving|tests|involved|daily|prediction|demonstrate|support|demo|life|today|every|interfaces|disease|cost|intelligent|way|concerning|conduct|yields|well|risk|reducing|user
+venue name:Advanced Data Mining and Applications
+venue id:1184106476
+venue type:C
+document type:Conference
+study fields:Health care|Recommender system|Data mining|Clinical decision making|Computer science|Workload|User Friendly|Multimedia|Prediction system|Heart disease
+references:1981145348|2082705447
+
+
+id:2557108370
+title:An intelligent recommender system based on predictive analysis in telehealthcare environment
+year:2016
+author information:[
+author name:Raid Lafta
+author organization:University of Southern Queensland
+author id:2277508999|
+author name:Ji Zhang
+author organization:University Southern Queensland
+author id:2109058337|
+author name:Xiaohui Tao
+author organization:University of Southern
+author id:2144301289|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Vincent S. Tseng
+author organization:Nat. Cheng Kung University
+author id:2023431847|
+author name:Yonglong Luo
+author organization:Anhui Normal University
+author id:2119501034|
+author name:Fulong Chen
+author organization:Anhui Normal University
+author id:2101358446|
+]
+abstract:play|recommendation|accuracy|collected|experimental|computerized|objective|advance|collaborator|analyzing|offer|days|january|promising|reduce|based|using|past|diseases|analysis|quality|saving|system|day|advising|usefulness|appropriate|algorithms|providing|study|role|may|industry|healthcare|measurements|may|patients|one|predictive|workload|positive|k|possible|help|highlights|series|medical|data|use|suffering|body|recommendations|whether|satisfactory|chronic|day|results|tunstall|test|need|patients|develop|heart|technologies|take|improving|tests|involved|proposed|daily|useful|show|life|general|validated|telehealth|patient|supporting|recommender|every|cost|disease|recorded|intelligent|way|environment|concerning|conduct|yields|time
+venue name:Web Intelligence
+venue id:1200067787
+venue type:C
+document type:Conference
+study fields:Recommender system|Health care|Data mining|Computer science|Workload|Telehealth|Life quality|Multimedia
+references:1979951318|1981145348|2082705447|2102439281|2130004426|2142865390|2143972360
+
+
+id:2605076645
+title:An Efficient DDoS TCP Flood Attack Detection and Prevention System in a Cloud Environment
+year:2017
+author information:[
+author name:Aqeel Sahi
+author organization:Thi-Qar University
+author id:2467978205|
+author name:David Lai
+author organization:University of Southern Queensland
+author id:2400951594|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Mohammed Diykh
+author organization:Thi-Qar University
+author id:2337322782|
+]
+abstract:projects|results|accuracy|entire|packets|number|terms|classifier|prevention|based|still|period|identifies|using|preventing|ip|squares|classified|classification|packet|flood|classifying|system|denial|damage|increased|access|least|consume|availability|ehealth|lssvm|attack|vector|ddos|compared|detection|decision|within|kappa|discussed|model|single|machine|distributed|stored|information|prevalent|naive|project|source|challenging|research|second|blacklisted|cloud|multilayer|solution|attacks|time|whether|classifiers|dramatically|different|results|offers|new|incoming|perceptron|making|last|exhaust|crossvalidation|attacker|especially|proposed|adopted|clouds|detecting|coefficient|therefore|present|support|tcp|cybercrime|issue|records|crucial|determines|show|detect|best|attackers|security|theft|public|validated|ensuring|normal|securing|kfold|multiple|resources|although|originates|performance|service|timely|yields|short|time|denied
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Denial-of-service attack|Naive Bayes classifier|Computer security|Computer science|Trinoo|Server|Network packet|Computer network|Cybercrime|Application layer DDoS attack|Cloud computing
+references:1201837668|1496514203|1582813804|1596717185|1912123407|1981121910|1993072051|1997790393|2002538582|2011873591|2013479318|2029025881|2038527861|2068803497|2080081718|2104692292|2107239999|2116152020|2119599755|2123583026|2130507939|2131087864|2132616214|2153000698|2163375756|2165618944|2170852315|2276629685|2319799779|2519191968|2527796983|2529865501
+
+
+id:2744480067
+title:Classify epileptic EEG signals using weighted complex networks based community structure detection
+year:2017
+author information:[
+author name:Mohammed Diykh
+author organization:University of Southern Queensland
+author id:2337322782|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:multichannel|closeness|channel|extracted|rand|reliable|cluster|neurologists|four|obtained|based|using|background|multichannel|method|abnormalities|made|nearest|classified|method|demand|resulting|combinations|rate|obtained|diagnosed|treatment|average|statistical|undirected|methods|least|global|k|networks|local|found|known|signals|specificity|vector|urgent|naive|detection|set|efficient|abstract|analysing|k|positive|brain|disorders|single|disorder|results|comparisons|showed|attributes|epilepsy|small|several|network|mainly|pairs|features|eight|modularity|segment|seizures|weighted|potential|results|including|eeg|patients|degree|diagnosis|electroencephalogram|signals|epileptic|proposed|mapped|detecting|support|studied|epilepsy|divided|technique|partitioned|detect|best|network|ranked|recordings|epileptic|false|also|clusters|recorded|existing|well|achieved|datasets|clustering
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Data mining|False positive rate|Pattern recognition|Naive Bayes classifier|Computer science|Support vector machine|Epilepsy|Weighted network|Artificial intelligence|Cluster analysis|EEG-fMRI|Electroencephalography
+references:763891248|1204565951|1571829530|1811753047|1818768602|1824353174|1979148805|1981211771|1982088840|1984164526|1984424958|1990441178|1997281209|1998711164|2006319238|2015928131|2023335485|2036272873|2038402161|2050209058|2052104835|2065439482|2069350326|2074838957|2077594923|2080966422|2097171469|2122496402|2125056386|2148606196|2167684888|2173226459|2279742991|2292649956|2301743789|2342453702|2343771112|2415478720|2475148710|2524982237|2580194401|2593774412|2598587204|2605076645|2952030713
+
+
+id:2760331245
+title:Ensemble of adaboost cascades of 3L-LBPs classifiers for license plates detection with low quality images
+year:2018
+author information:[
+author name:Meeras Salman Al-Shemarry
+author organization:University of Southern Queensland
+author id:2760074607|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Shahab A. Abdulla
+author organization:University of Southern Queensland
+author id:2167351208|
+]
+abstract:tested|accuracy|experimental|whole|three|number|cascades|seconds|respectively|images|using|plates|method|large|probability|testing|methods|quality|system|binary|processing|conditions|lpd|plate|local|vehicle|low|term|acquisition|detection|robust|one|image|multiform|involve|positive|many|techniques|levels|lp|achieves|used|challenging|high|find|classifiers|method|satisfactory|problems|results|image|new|patterns|preprocessing|difficult|develop|license|adaboost|seconds|proposed|fmeasurement|detecting|overall|demonstrate|distortion|identifying|formats|trained|detect|speed|effective|paper|due|regions|rate|aims|illumination|false|outdoor|better|existing|performance|time
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Computer vision|False positive rate|AdaBoost|Pattern recognition|Computer science|Cascading classifiers|Local binary patterns|Image processing|Artificial intelligence|Distortion|License
+references:1575739010|1951018169|1966809579|1975174385|1975399404|1981438058|1982995293|1983128835|1987888265|1988790447|2039051707|2039177567|2046855764|2047148153|2067136171|2088920913|2102608210|2104492225|2104577112|2107634464|2113951056|2135449683|2137401668|2160977939|2162477536|2171786422|2265127172|2273196628|2279655419|2508224586
+
+
+id:2761867242
+title:Developing a Tunable Q-Factor Wavelet Transform Based Algorithm for Epileptic EEG Feature Extraction
+year:2017
+author information:[
+author name:Hadi Ratham Al Ghayab
+author organization:University of Southern Queensland
+author id:2344057471|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Siuly
+author organization:Victoria University
+author id:2310396698|
+author name:Shahab A. Abdulla
+author organization:University of Southern Queensland
+author id:2167351208|
+author name:Paul Wen
+author organization:University of Southern Queensland
+author id:2034074955|
+]
+abstract:qfactor|brain|accuracy|experimental|nonlinear|type|approach|score|terms|outcomes|oscillation|classifier|transients|based|redundancy|method|depends|methods|resonance|extraction|forwarded|correlation|nonoscillatory|analyze|obtained|evaluate|finally|deal|statistical|f|knn|tqwtsm|vector|denoted|contain|linear|decomposed|nature|k|neighbor|n|nonstationary|assist|information|experts|data|extracted|transforms|achieves|seven|sustained|nearest|good|frequency|features|method|different|results|binarycategories|new|eeg|proposes|difficult|electroencephalogram|important|signals|epileptic|proposed|scales|wavelet|coefficient|seizures|twqt|divided|technique|detect|tunable|transform|paper|fourier|mixture|parameterized|recordings|human|subband|instead|performance|refer|window
+venue name:Health Information Science
+venue id:2758852442
+venue type:C
+document type:Conference
+study fields:k-nearest neighbors algorithm|Correlation coefficient|F1 score|Pattern recognition|Computer science|Fourier transform|Speech recognition|Redundancy (engineering)|Artificial intelligence|Classifier (linguistics)|Electroencephalography|Wavelet transform
+references:274409996|1970876195|1991714385|1992137233|2021970732|2025208635|2026118521|2054764914|2065439482|2071341607|2074838957|2112797878|2122111042|2126719297|2142283956|2155441809|2158468574|2238195297|2342453702|2423195739|2524982237|2556777653|2580194401
+
+
+id:2772571429
+title:Beamforming for hyperthermia treatment by training a weighted network of an ultrasonic array
+year:2017
+author information:[
+author name:Feng-cong Li
+author organization:Hubei University of Technology
+author id:2153219833|
+author name:Yi-nan Zhao
+author organization:Harbin Institute of Technology
+author id:2109558921|
+author name:Peng-cheng Gong
+author organization:Hubei University of Technology
+author id:2771851593|
+author name:Li Feng
+author organization:Hubei University of Technology
+author id:2956032706|
+author name:Xiang-kui Wan
+author organization:Hubei University of Technology
+author id:2773707018|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+]
+abstract:calculation|beam|performs|optimal|ultrasonic|three|objective|introduced|generated|backward|modified|algorithm|train|based|hyperthermia|using|ideal|comparison|maps|weight|iterative|inspired|comprises|propose|simulations|difference|refined|obtained|one|waveform|treatment|idea|pattern|training|matrix|network|numerical|diversity|array|feeding|demonstrated|minimize|effectiveness|original|training|forward|procedure|structure|better|nodes|array|calculation|machine|cancer|beamforming|connecting|breast
+venue name:Health Information Science
+venue id:2758852442
+venue type:C
+document type:Conference
+study fields:Ultrasonic sensor|Beamforming|Hyperthermia Treatment|Matrix (mathematics)|Computer science|Waveform|Beamforming algorithm|Algorithm|Weighted network|Beam pattern
+references:1964315948|1983508508|2063377709|2063869361|2108625419|2115396342|2132679193|2139060184|2154331119|2155951048|2162325942|2169796831|2261154172|2466441195|2517661688|2571065083|2586410079|2587787810|2606426377|2708665101|2763636788
+
+
+id:2775465406
+title:An efficient approach for EEG sleep spindles detection based on fractal dimension coupled with time frequency image
+year:2018
+author information:[
+author name:Wessam Al-salman
+author organization:University of Southern Queensland
+author id:2773878526|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+author name:Mohammed Diykh
+author organization:University of Southern Queensland
+author id:2337322782|
+]
+abstract:accuracy|extracted|different|skills|dream|kcomplexes|tfi|estimate|employed|revealed|model|evaluated|respectively|based|using|method|classification|propose|spindles|size|studies|binary|fractal|obtained|detection|requires|average|statistical|least|technique|two|segments|eight|sleep|current|found|signals|verify|vector|naive|compared|experts|robust|set|sets|abstract|image|publically|fds|overlapping|machine|sets|montreal|features|sliding|fed|others|available|challenging|research|frequency|features|high|different|results|combination|obtain|counting|image|discover|including|eeg|archive|square|efforts|task|signals|outperformed|segment|proposed|converted|detecting|support|fd|neural|applied|divided|detect|box|best|tfi|transform|fourier|rate|visually|dimension|effectiveness|applying|characteristics|figure|bayes|also|existing|short|time|window
+venue name:Biomedical Signal Processing and Control
+venue id:8427965
+venue type:J
+document type:Journal
+study fields:Computer vision|Sleep spindle|Sliding window protocol|Pattern recognition|Naive Bayes classifier|Support vector machine|Binary image|Short-time Fourier transform|Artificial intelligence|Box counting|Mathematics|Sleep Stages
+references:1443364857|1900636165|1964612379|1978347377|1999853356|2003411213|2011484846|2013065248|2013337795|2016351790|2023335485|2034498469|2038971587|2040756743|2048127115|2050947130|2053351759|2054682107|2065454702|2066430460|2070504703|2074838957|2078393446|2080006792|2090832101|2163500734|2163933103|2184262435|2185261435|2294267416|2311536390|2342453702|2396294141|2469206660|2552048926
+
+
+id:2889202307
+title:Epileptic seizures detection in EEGs blending frequency domain with information gain technique
+year:2019
+author information:[
+author name:Hadi Ratham Al Ghayab
+author organization:University of Southern Queensland
+author id:2344057471|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Siuly Siuly
+author organization:Victoria University
+author id:210172658|
+author name:Shahab A. Abdulla
+author organization:University of Southern Queensland
+author id:2167351208|
+]
+abstract:infogain|tested|leading|accuracy|experimental|extracted|approach|evaluation|vs|four|classifier|rank|band|algorithm|order|dwt|respectively|based|separately|method|lower|steps|forwarded|benchmark|domain|improvement|obtained|statistical|scheme|activity|methods|concluded|eeg|least|selected|eyes|two|capacity|window|reported|vector|free|compared|detection|set|combines|data|k|people|similarities|fast|accuracy|machine|closed|information|z|combined|open|effectively|achieves|main|used|pairs|frequency|features|fft|implemented|seizures|method|implement|different|results|generate|five|new|level|eeg|proposes|patients|electroencephalogram|discrete|important|square|signals|epileptic|proposed|wavelet|support|gain|classify|decompose|show|technique|partitioned|detect|investigate|information|transform|database|paper|fourier|measures|six|also|windows|versus|outperforms|better|existing|accuracies|performance|healthy|consists|ones|suitable
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Frequency domain|Least squares|Pattern recognition|Computer science|Support vector machine|Feature extraction|Fast Fourier transform|Artificial intelligence|Discrete wavelet transform|Classifier (linguistics)|Electroencephalography|Machine learning
+references:1565475775|1596717185|1734549361|1970917709|1981211771|1991714385|1998711164|2001905743|2074838957|2077594923|2107941496|2162394719|2342453702|2435251607|2761867242|2792389014
+
+
+id:2896723775
+title:Detecting sleep spindles in EEGs using wavelet fourier analysis and statistical features
+year:2019
+author information:[
+author name:Wessam Al-Salman
+author organization:University of Southern Queensland
+author id:2773878526|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Peng Wen
+author organization:Southern Queensland University
+author id:2012430087|
+]
+abstract:occurrences|select|optimal|band|extracted|ongoing|sizes|phase|four|model|hundreds|tasks|algorithm|phase|kmeans|respectively|based|using|method|oneway|testing|analysis|input|spindles|size|developing|detail|obtained|sensitivity|statistical|one
+venue name:Biomedical Signal Processing and Control
+venue id:8427965
+venue type:J
+document type:Journal
+study fields:Sleep spindle|Sliding window protocol|Fourier analysis|Pattern recognition|Support vector machine|Fast Fourier transform|Artificial intelligence|Discrete wavelet transform|Electroencephalography|Mathematics|Wavelet
+references:1543313117|1964612379|1972269696|1978347377|1979148805|1996021349|2011484846|2013065248|2032477387|2038971587|2050947130|2053351759|2065454702|2122496402|2133651588|2149706766|2163500734|2311536390|2335034010|2342453702|2469206660|2475148710|2775465406
+
+
+id:2918414110
+title:Electrocardiogram Baseline Wander Suppression Based on the Combination of Morphological and Wavelet Transformation Based Filtering
+year:2019
+author information:[
+author name:Xiang-kui Wan
+author organization:Hubei University of Technology
+author id:2773707018|
+author name:Haibo Wu
+author organization:Hubei University of Technology
+author id:2920569474|
+author name:Fei Qiao
+author organization:Hubei University of Technology
+author id:2919193692|
+author name:Feng-cong Li
+author organization:Hubei University of Technology
+author id:2153219833|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Yue-wen Yan
+author organization:Hubei University of Technology
+author id:2920684084|
+author name:Jia-xin Wei
+author organization:Hubei University of Technology
+author id:2920334607|
+]
+abstract:stateoftheart|output|electrocardiogram|introduced|suppression|model|method|morphology|suppressing|containing|methods|baseline|quality|thereby|wander|waveform|components|compare|methods|one|overcome|outline|bw|noise|distortions|include|morphological|shortcomings|caused|ecg|combining|effective|filteringbased|mathematical|others|used|realistic|major|create|avoiding|results|new|commonly|mmf|waveletbased|obtaining|enhanced|clinical|signals|proposed|effect|demonstrate|preserving|ecg|show|capable|numerical|wt|algorithms|degrade|effectiveness|literature|introduce|also|better|existing|artificial|signal
+venue name:Computational and Mathematical Methods in Medicine
+venue id:36980176
+venue type:J
+document type:Journal
+study fields:Computer vision|Computer simulation|Pattern recognition|Computer science|Waveform|Filter (signal processing)|Artificial intelligence|Wavelet
+references:1987530867|2165500573|2544197537|2594692578
+
+
+id:2980059005
+title:EEG sleep stages identification based on weighted undirected complex networks
+year:2020
+author information:[
+author name:Mohammed Diykh
+author organization:University of Southern Queensland
+author id:2337322782|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Shahab Abdulla
+author organization:University of Southern Queensland
+author id:2167351208|
+]
+abstract:vary|channel|accuracy|extracted|different|without|number|pzoz|model|represented|evaluated|based|block|using|background|method|multiclasssvm|methods|classification|forwarded|benchmark|networks|obtained|average|statistical|undirected|aim|least|technique|datasets|networks|two|sleep|found|lssvm|signals|vector|key|compared|scoring|set|thoroughly|incorrect|aasm|abstract|conclusions|data|brain|single|sleep|stage|recordings|results|machine|standard|attributes|represent|stages|sliding|spectral|network|research|features|investigated|segment|serious|different|weighted|results|acquired|new|comparison|eeg|preprocessing|develop|important|objective|square|segment|proposed|channels|mapped|demonstrate|support|errors|methods|problems|classifier|according|cause|partitioned|best|structural|recordings|electroencephalography|characteristics|original|blocks|advantage|automatic|medication|also|stages|window|time|knearest
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Computer vision|Sliding window protocol|Pattern recognition|Computer science|Support vector machine|Communication channel|Artificial intelligence|Complex network|Statistical model|Classifier (linguistics)|Electroencephalography|Sleep Stages
+references:227339781|596403090|1596717185|1617232655|1992296489|1996369579|2011484846|2015661320|2021899965|2027927824|2034498469|2035998833|2038971587|2054384069|2088478798|2101940264|2102273122|2102376611|2122496402|2144691514|2150953991|2165515835|2174765496|2342453702|2342766803|2347748326|2396351021|2406312973|2471228762|2475148710|2518980571|2558173024|2558317411|2565543439|2888087868|2901977952|2904408089|2952030713|2958908615
+
+
+id:2584608705
+title:Quantitative thickness prediction of tectonically deformed coal using Extreme Learning Machine and Principal Component Analysis
+year:2017
+author information:[
+author name:Xin Wang
+author organization:China Universityof Mining and Technology
+author id:2979711049|
+author name:Yan Li
+author organization:University of Southern
+author id:2563701911|
+author name:Tongjun Chen
+author organization:Key Laboratory of CBM Resource  Reservoir Formation Process, Ministry of Education, Xuzhou, Jiangsu, China
+author id:2677763131|
+author name:Qiuyan Yan
+author organization:China University of Mining Technology
+author id:2708951662|
+author name:Li Ma
+author organization:Key Laboratory of Coal Resources Exploration and Comprehensive Utilization, Ministry of Land and Resources, Xian, Shanxi, China
+author id:2586382855|
+]
+abstract:application|accurate|tested|seismic|deformed|reliable|number|estimate|model|validation|order|based|using|method|carefully|forecast|attributesthe|analysis|propose|attributes|input|combinations|correlation|analyze|applicability|associations|outbursts|thicknessthe|preferring|study|affect|two|predicting|section|positive|suggest|data|produce|component|machine|predication|attributes|comparing|ratio|data|thickness|use|inputs|elm|function|feasible|tdc|different|results|nodes|calculated|extreme|predicted|selected|area|new|individual|traces|real|linearly|pca|synthetic|prediction|coal|estimatesigmoid|activation|hidden|trained|learning|best|principal|tdc|estimate|tectonically|gas|predict|wells|sigmoid|inputs|pcs|signaltonoise|nearwell|cross|affects|noted|better|nodes|uncorrelated|application|build|quantitative|yields
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Data mining|Seismic attribute|Computer science|Extreme learning machine|Activation function|Uncorrelated|Synthetic data|Coal|Cross-validation|Principal component analysis
+references:803876881|1966548722|1993717606|2038929774|2083357246|2095635024|2101674911|2111072639|2346695677|2368520314
+
+
+id:27752146
+title:A Two-Stage Speed Up Model for Case-Based Learning in Real Time Strategy Games
+year:2011
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2755496503|
+author name:Xiaolei Tong
+author organization:Hebei University
+author id:2640127914|
+author name:Jiayue Dai
+author organization:Hebei University
+author id:2654789189|
+]
+abstract:optimal|considered|whole|optimization|thus|online|defensive|model|algorithm|aa|using|still|environments|provide|even|completes|quickly|recommend|rts|adaptive|demonstrated|genetic|initial|fast|meet|stored|first|use|process|used|offline|good|second|ga|generated|incorporated|problems|results|combination|train|needs|game|solutions|experimental|proposes|real|less|task|tackle|useful|support|ann|game|neural|trained|learning|training|speed|network|random|paper|positioning|ga|idea|cases|ant|perform|also|requirement|twostage|obtains|artificial|gaaa|time|strategy
+venue name:International Conference on Applied Informatics and Communication
+venue id:2756336174
+venue type:C
+document type:Conference
+study fields:Real-time strategy|Turns, rounds and time-keeping systems in games|Computer science|Artificial intelligence|Artificial neural network|Machine learning|Genetic algorithm|Speedup
+references:1504046815|1929166242|2107941094|2124548463|2130564628|2171968280|2210195496
+
+
+id:1987654083
+title:A generalized model of covering rough sets and its application in medical diagnosis
+year:2010
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2432420287|
+author name:Tao Feng
+author organization:Hebei University of Science and Technology
+author id:2652920639|
+author name:Shao-Pu Zhang
+author organization:Shijiazhuang Tiedao University
+author id:2121634201|
+author name:Zhan-Wen Li
+author organization:Hebei University of Science and Technology
+author id:2228165845|
+]
+abstract:medical|reductions|upper|approximate|rules|extracted|generated|algorithm|based|new|approximation|method|lower|proposes|degree|tree|discussed|system|decisionmaking|covering|importance|explores|concept|tree|degree|example|paper|operators|mentioned|demonstrated|diagnosis|decision|also|corresponding|information|reduction|properties
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Information system|Decision tree|Approximation operators|Pattern recognition|Computer science|Rough set|Artificial intelligence|Upper approximation|Operator (computer programming)|Knowledge acquisition|Machine learning|Medical diagnosis
+references:1591618909|2024638676|2036026932|2041596646|2045260678|2077183117|2082266564|2127336911|2149706766|2163982943|2340020088|2912565176
+
+
+id:1989773258
+title:RTS game strategy evaluation using extreme learning machine
+year:2012
+author information:[
+author name:Yingjie Li
+author organization:The Hong Kong Polytechnic University
+author id:2578246082|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Junhai Zhai
+author organization:Hebei University
+author id:2939935069|
+author name:Simon C. K. Shiu
+author organization:Hong Kong Polytech. University
+author id:2060991583|
+]
+abstract:numerous|collected|treebased|required|measures|realtime|complex|integrals|model|types|usually|generation|models|based|evaluation|players|iii|destroy|handle|exist|unmanageable|even|among|simultaneously|experiments|evaluating|become|average|fundamental|enemy|collecting|rts|power|decision|kill|model|battle|fast|machine|complicated|handled|units|cannot|combined|strategy|data|sometimes|elm|rules|implicitly|used|predefined|playable|compute|military|different|weighted|results|extreme|obtain|commonly|strategies|experimental|often|real|warcraft|army|misleading|sequence|unit|proposed|games|game|trained|production|show|learning|units|interactions|effective|due|since|resources|strictly|build|well|fuzzy|strategy
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Extreme learning machine|Computer science|Fuzzy logic|Game strategy|Decision model|Artificial intelligence|Adversary|Machine learning|Weighted arithmetic mean
+references:1507321583|1532194299|1565097357|1591555402|1929166242|1990938413|1993717606|1999501864|2025604780|2026854879|2027090091|2036090572|2043075598|2047028564|2047431064|2055935317|2059800482|2070639104|2077611589|2088195363|2096987757|2110889990|2111072639|2119821739|2122040390|2135017202|2136168234|2141695047|2146352657|2152729775|2157595416|2158054309|2163572752|2166798247|2168089917|2169203254
+
+
+id:2001584795
+title:Different types of classifiers combination based on choquet integral
+year:2010
+author information:[
+author name:Jun-Fen Chen
+author organization:Hebei University
+author id:2637936842|
+author name:Qiang He
+author organization:Hebei University
+author id:2684526531|
+author name:Yan Li
+author organization:Hebei University
+author id:2697676066|
+]
+abstract:mixcombination|accuracy|run|used|three|introduced|experiment|function|classifiers|consider|different|results|combination|algorithm|including|issue|widely|classifiers|simulated|tree|classification|system|system|nonadditive|generalization|cmc|neural|affect|experiments|genetic|show|ensemble|two|network|diversity|systems|integral|choquet|ability|fuzzy|key|types|set|decision|determine|one|multiple|combining|better|performance|interaction|datasets
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Set function|Decision tree|Pattern recognition|Computer science|Random subspace method|Integral equation|Artificial intelligence|Operator (computer programming)|Choquet integral|Artificial neural network|Genetic algorithm|Machine learning
+references:1540867707|1971756873|1981177511|1990427911|1994830145|2037109398|2043075598|2055852977|2063130532|2141876843|2161631032|2164568552
+
+
+id:2002991482
+title:Constructing composite search directions with parameters in quadratic interpolation models
+year:2011
+author information:[
+author name:Qinghua Zhou
+author organization:Hebei University
+author id:2691638364|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Minghu Ha
+author organization:Hebei University
+author id:2673774633|
+]
+abstract:tested|construct|approach|improved|number|optimization|composite|fully|promising|algorithm|reduce|based|method|conclude|methods|former|benchmark|intelligence|systems|methods|ones|search|compared|business|directions|quadratic|subproblems|computation|descent|information|subproblems|use|solved|find|function|subsimplex|problems|weighted|results|potential|possibly|obtain|approximation|solutions|develop|steps|directions|region|trust|steepest|purpose|simplex|show|point|far|make|direction|disclosed|evaluations|previous|introduce|perform|obviously|also|better|existing|interpolation|properties|applications
+venue name:Journal of Global Optimization
+venue id:115925768
+venue type:J
+document type:Journal
+study fields:Trust region|Gradient descent|Mathematical optimization|Interpolation|Quadratic equation|Simplex|Optimization problem|Mathematics|Inverse quadratic interpolation|Computation
+references:1991976020|2015469780|2022451981|2050837887|2056603712|2064087326|2092679899|2163913714
+
+
+id:2003153380
+title:Case-based multi-task pathfinding algorithm
+year:2012
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Lan-Ming Su
+author organization:Hebei University
+author id:2698625340|
+author name:Qiang He
+author organization:Hebei University
+author id:2684526531|
+]
+abstract:reasoning|decide|experimental|path|number|algorithm|reduce|similar|efficiency|using|multitask|method|cases|obtained|pathfinding|save|pathfinding|computer|search|found|computes|firstly|demonstrated|key|store|stored|casebased|fewer|process|solution|find|whether|new|memorybased|adapting|important|searched|longer|task|paths|issue|memory|needed|along|similarity|process|cases|cost|previous|introduce|pathfinding|go|nodes|typical|uses|time
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Pathfinding|Scratch|Algorithmic efficiency|Computer science|Artificial intelligence|Case-based reasoning|Machine learning
+references:1969483458|1982809790|2014489049|2028945152|2043196319|2073050230|2096258842|2102315879|2126385963|2137452788|2145700549|2150470619|2394686934
+
+
+id:2003992713
+title:Sequences of (S) fuzzy integrable functions
+year:2003
+author information:[
+author name:Minghu Ha
+author organization:Hebei University
+author id:2141878751|
+author name:Xizhao Wang
+author organization:Hebei University
+author id:2305421375|
+author name:Lanzhen Yang
+author organization:Hebei University
+author id:2102959331|
+author name:Yan Li
+author organization:Hebei University
+author id:2675824015|
+]
+abstract:equivalent|functions|convergence|concept|integrable|several|fundamental|sequences|relation|weak|uniform|shown|continuous|definitions|fuzzy|new|also|discussed|bounded|three|sequence|measure|proved|mean|among|absolute|convergences|relations|properties
+venue name:Fuzzy Sets and Systems
+venue id:169411308
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Integrable system|Discrete mathematics|Algebra|Mathematical analysis|Measure (mathematics)|Fuzzy logic|Fuzzy mathematics|Fuzzy subalgebra|Fuzzy number|Mathematics|Bounded function
+references:1971756873|2025737045|2082601569|2101206561|2160249805
+
+
+id:2006760989
+title:An auto-adaptive convex map generating path-finding algorithm: Genetic Convex A*
+year:2013
+author information:[
+author name:Pan Su
+author organization:Hebei University
+author id:2099213698|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Yingjie Li
+author organization:The Hong Kong Polytechnic University
+author id:2578246082|
+author name:Simon Chi-Keung Shiu
+author organization:Hong Kong Polytech. University
+author id:2060991583|
+]
+abstract:abstractions|named|robot|path|problem|online|refinement|obstacle|nonoptimal|defined|algorithm|large|method|optimality|distance|extraction|system|manhattan|greatly|methods|genetic|fundamental|global|proven|two|result|computer|timeconsuming|partition|maps|based|demonstrated|map|key|genetic|processing|may|within|speedup|abstract|many|accelerated|fast|graphbased|certain|open|employed|defined|guides|areas|optimize|generated|fitness|function|consider|results|new|searches|convex|experimental|abstraction|less|important|proposed|paths|improve|games|applied|concept|storage|pathfinding|positioning|convex|since|combing|original|abstraction|length|alternative|unnecessary|whilst|equal|proposed|nodes|pathfinding
+venue name:International Journal of Machine Learning and Cybernetics
+venue id:2764999920
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Convex combination|Convex hull|Algorithm|Convex set|Subderivative|Convex polytope|Proper convex function|Convex optimization|Mathematics|Convex analysis
+references:143010625|1522951724|1588404442|1966521260|1969193896|1975423918|1982809790|2017314269|2028244735|2029243826|2045734422|2046904226|2083793682|2128990851|2133647978|2133989630|2150470619|2165036656|2167994996|2185092331
+
+
+id:2028024423
+title:Fuzzy knowledge representation and reasoning using a generalized fuzzy petri net and a similarity measure
+year:2006
+author information:[
+author name:Ming-Hu Ha
+author organization:Hebei University
+author id:2141878751|
+author name:Yan Li
+author organization:Hebei University
+author id:2675654103|
+author name:Xiao-Feng Wang
+author organization:Hebei Radio and TV University
+author id:2701493927|
+]
+abstract:reasoning|rules|generalized|output|evaluation|presented|consequences|represented|consider|weighted|knowledge|using|method|need|proposes|weight|often|whose|deduced|input|measure|improve|gfpn|wfpr|study|production|multilevel|reasoning|two|representation|rule|capability|paper|similarity|fuzzy|gives|enhance|petri|types|wfprs|certainty|also|factors|connected|propositions|fuzzy|synchronously|net
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Descriptive knowledge|Neuro-fuzzy|Knowledge representation and reasoning|Similarity measure|Fuzzy classification|Computer science|Fuzzy set operations|Fuzzy logic|Theoretical computer science|Artificial intelligence|Fuzzy number|Machine learning
+references:1966082642|2013013496|2117204475|2134234758|2138707903|2156742897|2161464089
+
+
+id:2058393604
+title:A Fuzzy Integral Based Query Dispatching Model in Collaborative Case-Based Reasoning
+year:2004
+author information:[
+author name:Simon C. K. Shiu
+author organization:Hong Kong Polytech. University
+author id:2060991583|
+author name:Yan Li
+author organization:Henan Polytechnic University
+author id:2436616389|
+author name:Feng Zhang
+author organization:The Hong Kong Polytechnic University
+author id:2434222896|
+]
+abstract:fulfill|comparatively|network|totop|experimental|used|developed|approach|three|bestcommittee|shows|solution|different|case|obtain|dispatching|based|depends|carefully|collaborative|old|query|distributed|propose|input|measure|proposed|plaza|policies|best|ontanon|network|strongstrong|result|competence|cbr|integral|task|designed|fuzzy|compared|policy|cases|could|effectively|casebased|suggest|many|agents|better|existing|reasoning|efficiently|ones|policy|resided|strategy
+venue name:Applied Intelligence
+venue id:74726891
+venue type:J
+document type:Journal
+study fields:Computer science|Fuzzy logic|Artificial intelligence|Case-based reasoning|Machine learning
+references:1536612688|1589073763|1594268722|1852634206|2113602562|2272810618
+
+
+id:2072044592
+title:Reductions in inconsistent decision systems based on dominance relations
+year:2010
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Na-Xin Sun
+author organization:Hebei University
+author id:2144858707|
+author name:Jin Zhao
+author organization:Hebei University
+author id:2307369816|
+]
+abstract:principle|domination|reductions|several|type|theorems|given|relationships|reflect|introduced|compatible|judgment|function|discusses|directly|based|new|including|degree|system|article|system|proposed|concept|distribution|two|correspondingly|systems|define|incorporating|decision|also|inconsistent|existing|absolute|maximum|dominance|reduction|relations|reduction
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Information system|Discrete mathematics|Set theory|Dominance relation|Computer science|Decision system|Theoretical computer science|Rough set|Artificial intelligence|Distribution function|Machine learning|Cybernetics
+references:1975464269|2101285186
+
+
+id:2094182056
+title:Multi-criteria sorting method based on AHP and variable precision rough set
+year:2012
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Zhen Han
+author organization:Hebei University
+author id:2299669409|
+author name:Qiang He
+author organization:Hebei University
+author id:2684526531|
+]
+abstract:precision|ahp|rules|illustrative|used|consistency|extracted|relation|pairwise|multicriteria|implemented|property|obtained|transitive|based|given|making|comparison|method|test|hierarchy|finally|feasibility|relation|rough|result|vprs|paper|sorting|firstly|attribute|demonstrated|table|effectiveness|process|set|decision|theory|due|variable|example|dominance|reduction|analytic|presents
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Decision tree|Data mining|Computer science|Artificial intelligence|Dominance-based rough set approach|Analytic hierarchy process|Transitive relation|Decision rule|Pairwise comparison|Pattern recognition|Rough set|Sorting|Machine learning
+references:1920267206|1975464269|1984210936|1997362234|2017739185|2044876976|2101285186|2112468092
+
+
+id:2104312663
+title:Optimization methods for resources allocation in real-time strategy games
+year:2011
+author information:[
+author name:Xiao-Lei Tong
+author organization:Hebei University
+author id:2143973696|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Wen-Liang Li
+author organization:Hebei University
+author id:2147242772|
+author name:Lei Zhang
+author organization:Handan hospital of traditional Chinese medicine, Handan 056000
+author id:2652552110|
+]
+abstract:optimal|experimental|put|particle|problem|realtime|optimization|defensive|games|order|algorithm|games|based|goal|ai|handle|resource|weapons|methods|achieve|respectively|distribution|two|rts|map|destruction|compared|genetic|resources|restrictive|meet|stage|locations|first|use|used|limit|different|results|obtain|positions|real|pso|take|proposed|solve|final|position|support|targets|provided|learning|best|multiteam|weapon|random|ga|greatest|types|limited|assignment|interesting|target|point|performance|swarm|well|time|strategy|demands|assign
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Real-time strategy|Particle swarm optimization|Computer science|Artificial intelligence|Machine learning|Genetic algorithm|Encoding (memory)
+references:1929166242|2028244735|2046904226|2124548463|2130564628|2171968280
+
+
+id:2122274913
+title:An On-Line Multi-CBR Agent Dispatching Algorithm
+year:2006
+author information:[
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Xi-Zhao Wang
+author organization:University
+author id:2305421375|
+author name:Ming-Hu Ha
+author organization:Hebei University
+author id:2141878751|
+]
+abstract:references|reasoning|comparative|adaptation|throughout|approach|problem|online|algorithm|past|considering|propose|traditional|system|cases|must|competitive|assumed|algorithms|deal|queue|kinds|requests|low|ability|based|architecture|policy|keeping|practical|one|online|great|agents|single|multicbr|places|fast|meet|casebased|increasing|located|queue|ratio|agent|simple||given|outdated|solves|greedy|different|new|dispatching|cost|optimized|proposed|requests|solve|keep|assume|useful|seems|support|problems|request|multicbr|locate|problemsolving|satisfactory|effective|cbr|independently|determine|satisfy|apply|remembering|performance|corresponding|coming
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Architecture|Computer science|Queue|Algorithm|Greedy algorithm|Competitive algorithm|Artificial intelligence|Competitive analysis
+references:1571906701|1594268722|1992876208|2081798943|2082099352|2085884781
+
+
+id:2142279587
+title:Evolutionary neural network for ghost in Ms. Pac-Man
+year:2011
+author information:[
+author name:Jia-Yue Dai
+author organization:Hebei University
+author id:2103018590|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Jun-Fen Chen
+author organization:Hebei University
+author id:2229746973|
+author name:Feng Zhang
+author organization:Hebei University
+author id:2558710339|
+]
+abstract:agent|considered|inputs|evolved|pacman|red|output|character|fitness|script|function|raise|state|results|simulation|chasing|experimental|learns|ms|capture|article|script|traditional|proposed|position|next|game|neural|show|chase|network|ghost|ghost|ability|popular|pacman|direction|move|plays|step|also|evolution|controlled|red|better|teamwork|evading|well|evolutionary
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Teamwork|Computer science|Evolutionary computation|Fitness function|Artificial intelligence|Artificial neural network|Cybernetics|Team working|Machine learning
+references:1565097357|1582046617|1929166242|2028244735|2039112049|2063637550|2090728853|2101715696|2119296376|2131600418|2140685838
+
+
+id:2590137581
+title:A fast positive-region reduction method based on dominance-equivalence relations
+year:2016
+author information:[
+author name:Yongfei Jin
+author organization:Hebei University
+author id:2288274462|
+author name:Yan Li
+author organization:Hebei University
+author id:2436616389|
+author name:Qiang He
+author organization:Beijing University of Civil Engineering and Architecture
+author id:2582138500|
+]
+abstract:pr|dominanceequivalence|conditional|data|experimental|positiveregion|developed|consist|method|consider|results|defined|algorithm|symbolic|equivalence|approximation|preference|introducing|reduced|attributes|comparisons|set|region|greatly|concept|fpr|respectively|load|systems|attribute|based|demonstrated|make|together|compared|ordered|set|original|decision|positive|computation|fast|attributes|uci|dominance|combined|relations|reduction|reduction
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Equivalence relation|Computer science|Decision system|Artificial intelligence|Machine learning|Cybernetics|Computation
+references:1975464269|2034998024|2051958371|2070416356|2079680557|2092845575|2101285186|2130206010
+
+
+id:1974391796
+title:Application of numerical inverse Laplace transform algorithms in fractional calculus
+year:2011
+author information:[
+author name:Hu Sheng
+author organization:Dalian University of Technology
+author id:2470391999|
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:named|considered|tested|transforms|simple|fractionalorder|equations|gavsteh|confirmed|results|algorithm|using|comparison|equations|numerically|integerorder|fractional|finding|easy|laplace|three|solve|relatively|algorithms|solving|works|analytical|reliability|technique|investigate|differential|numerical|transform|inversion|motivated|transforms|calculus|based|effectiveness|applying|inverse|efficient|effectively|calculating|way|noninteger|difficulties|complicated|validity
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Mellin transform|Mathematical optimization|Greens function for the three-variable Laplace equation|Laplace transform|Posts inversion formula|Mathematical analysis|Laplace–Stieltjes transform|Algorithm|Laplace transform applied to differential equations|Two-sided Laplace transform|Mathematics|Inverse Laplace transform
+references:1968614732|1982555805|1988408512|2004987499|2038765999|2049935622|2051615623|2057342974|2058829853|2073928785|2091227064|2094062182|2139336218
+
+
+id:1982555805
+title:On distributed order integrator/differentiator
+year:2011
+author information:[
+author name:Yan Li
+author organization:Utah State University
+author id:2555486223|
+author name:Hu Sheng
+author organization:Utah State University
+author id:2470391999|
+author name:Yang Quan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:domains|frequency|path|features|number|shown|presented|complex|property|method|order|new|using|distributed|feasibility|illustrated|asymptotic|concepts|impulse|present|analytical|applied|figures|technique|derive|verify|based|integral|derived|validate|perform|response|time|discretization
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Impulse response|Discretization|Signal processing|Path integral formulation|Differentiator|Control theory|Integrator|Control engineering|Fractional calculus|Passive integrator circuit|Mathematics
+references:1562143569|1969313263|1986995623|2004987499|2139336218|2140947903|2141404703|2153393721
+
+
+id:2004987499
+title:Analytical impulse response of a fractional second order filter and its impulse response invariant discretization
+year:2011
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Hu Sheng
+author organization:Dalian University of Technology
+author id:2470391999|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:second|frequency|number|obtained|order|based|filter|fractional|domains|illustrated|examples|asymptotic|proofs|concepts|impulse|analytical|provided|show|derive|derived|perform|filter|form|response|responses|time|properties|discretization
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Impulse response|Mathematical optimization|Digital filter|Impulse invariance|Linear filter|Control theory|Mathematical analysis|Infinite impulse response|Impulse (physics)|Low-pass filter|Finite impulse response|Mathematics
+references:1562143569|1969313263|2139336218|2141404703|2153393721
+
+
+id:2050372097
+title:A Survey on Fractional-Order Iterative Learning Control
+year:2013
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:YangQuan Chen
+author organization:University of California
+author id:2135776116|
+author name:Hyo-Sung Ahn
+author organization:Gwangju Institute of Science And Technology
+author id:2235011406|
+author name:Guohui Tian
+author organization:Shandong University
+author id:2105712176|
+]
+abstract:developments|theoretical|main|experimental|fractionalorder|features|number|presented|foilc|results|new|including|briefly|presented|iterative|illustrated|field|transient|techniques|unique|unsolved|since|problems|provided|show|learning|characters|operators|many|overview|steadystate|foilc|control|improvement|advantages|performances
+venue name:Journal of Optimization Theory and Applications
+venue id:52430896
+venue type:J
+document type:Journal
+study fields:Aerospace|Mathematical optimization|Operator (computer programming)|Fractional calculus|Iterative learning control|Mathematics
+references:1994418989|1997794251|2003446003|2018199920|2050194500|2050920479|2063059891|2066005357|2084348046|2085790217|2105372685|2139574453|2146396918|2159038290|2163572958|2175405015
+
+
+id:2050920479
+title:A generalized fractional-order iterative learning control
+year:2011
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+author name:Hyo-Sung Ahn
+author organization:Gwangju Institute of Science and Technology 1 Oryong-dong, Buk-gu, Korea
+author id:2235011406|
+]
+abstract:paper|nonlinear|fractionalorder|without|number|generalized|controllers|guarantees|algorithm|knowledge|element|using|iterative|system|illustrated|domain|concepts|networks|systems|scheme|convergence|idea|methods|classical|learning|adaptive|numerical|fall|validate|process|linear|implementation|control|simulations|achieved|time|discuss|order
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Mathematical optimization|Nonlinear system|Iterative and incremental development|Computer science|Iterative method|Relaxation (iterative method)|Fractional calculus|Local convergence|Iterative learning control
+references:1994418989|1997794251|2003446003|2063059891|2066005357|2085790217|2108917961|2146396918|2159038290
+
+
+id:2058860728
+title:Stability of fractional-order nonlinear dynamic systems: Lyapunov direct method and generalized Mittag-Leffler stability
+year:2010
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+author name:Igor Podlubny
+author organization:Technical University of Kosice
+author id:1768947561|
+]
+abstract:exponential|provided|direct|nonlinear|fractionalorder|lyapunov|speed|worked|generalized|powerlaw|systems|four|function|dynamic|definitions|stability|introductions|characterized|include|using|decaying|stability|method|studied|illustrate|generally|mittagleffler|special|notions|examples|cases|concepts
+venue name:Computers  Mathematics With Applications
+venue id:73535193
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Lyapunov equation|Mathematical optimization|Circle criterion|Mathematical analysis|Lyapunov redesign|Exponential stability|Lyapunov exponent|Mathematics|Nonlinear dynamic systems|Stability theory
+references:1969313263|2160552781
+
+
+id:2083115070
+title:Spatial semantic hybrid map building and application of mobile service robot
+year:2014
+author information:[
+author name:Hao Wu
+author organization:Shandong University
+author id:2710679693|
+author name:Guo-hui Tian
+author organization:Shandong University
+author id:2105712176|
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Feng-yu Zhou
+author organization:Shandong University
+author id:2627502967|
+author name:Peng Duan
+author organization:Shandong University
+author id:2152659131|
+]
+abstract:localization|modeling|maintain|objects|building|degrees|scene|robot|path|navigation|enable|context|realized|understanding|spatial|knowledge|limitations|order|qr|based|navigation|method|possess|labels|intelligence|planning|mission|traditional|provide|concepts|spectrum|functiondriven|indoor|algorithm|obtained|formed|semantic|complexity|achieve|experiments|comes|global|representations|offered|map|map|supplied|highlevel|self|information|describe|combined|relations|topological|pointofview|rooms|reasonable|semantic|using|recognition|several|used|abilities|autonomy|vision|function|robots|results|area|autonomously|given|need|incarnate|capture|basis|hybrid|solve|elementary|practicability|carry|higher|endow|code|show|structural|robot|task|mentioned|human|allows|studied|mobile|perform|also|technology|environment|artificial|build|management|service|deeper|clustering|imitated
+venue name:Robotics and Autonomous Systems
+venue id:133768115
+venue type:J
+document type:Journal
+study fields:Motion planning|Semantic memory|Computer vision|Computer science|Semantic grid|Artificial intelligence|Topological map|Mobile robot navigation|Robot|Semantic computing|Service robot
+references:84727113|1548081369|1695757689|1940569366|1964502729|2046715600|2072723786|2079987671|2097771816|2104205387|2113755077|2120948370|2125691069|2126842639|2130422193|2130618585|2142879048|2148500748|2151103935|2165874743|2168474961
+
+
+id:2092203959
+title:Time domain analysis of the fractional order weighted distributed parameter Maxwell model
+year:2013
+author information:[
+author name:Lili Cao
+author organization:Shandong University
+author id:2598575979|
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Guohui Tian
+author organization:Shandong University
+author id:2105712176|
+author name:Baodong Liu
+author organization:Shandong University
+author id:2105869051|
+author name:Yangquan Chen
+author organization:University of California
+author id:2135776116|
+]
+abstract:elements|plane|leading|transforms|solved|maxwell|decay|three|path|number|problem|solution|powerlaw|function|complex|property|model|band|well|weighted|order|energy|using|closely|relaxation|fractional|distributed|weight|series|laplace|relevant|illustrated|examples|asymptotic|domain|intermediate|concepts|basic|viscoelastic|boundary|concluded|provided|fundamental|phenomenon|derive|computing|fourier|along|related|operators|integral|parameter|hankel|derived|modulus|hysteresis|validate|inverse|characteristics|discussed|replaced|truncated|precondition|path|several|fowdpmm|cutting|width|time|phenomena|properties|novel
+venue name:Computers  Mathematics With Applications
+venue id:73535193
+venue type:J
+document type:Journal
+study fields:Time domain|Mathematical optimization|Weight function|Mathematical analysis|Complex plane|Fourier series|Fundamental solution|Fractional calculus|Boundary problem|Inverse Laplace transform|Mathematics
+references:1974391796|1986995623|2094062182|2141404703|2168914013
+
+
+id:2094062182
+title:On the fractional-order distributed parameter low-pass filter
+year:2010
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Hu Sheng
+author organization:Dalian University of Technology
+author id:2470391999|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:fractionalorder|number|presented|obtained|based|filter|distributed|illustrated|asymptotic|concepts|impulse|present|analytical|figures|technique|derive|parameter|derived|validate|b|perform|filter|form|response|responses|lowpass|properties|discretization
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Transient response|Impulse response|Mathematical optimization|Digital filter|Linear filter|Control theory|Mathematical analysis|Infinite impulse response|Impulse (physics)|Low-pass filter|Finite impulse response|Mathematics
+references:1562143569|1969313263|2004987499|2020924756|2129380152|2136240868|2139336218|2140947903|2141404703|2153393721
+
+
+id:2105372685
+title:Iterative learning control of a class of fractional order nonlinear systems
+year:2010
+author information:[
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Hyo-Sung Ahn
+author organization:Gwangju Institute of Science and Technology 1 Oryong-dong, Buk-gu, Korea
+author id:2235011406|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:addresses|convergence|learning|lemma|nonlinear|research|detailed|generalized|problem|paper|systems|presented|firstly|definition|gronwallbellman|proof|class|together|order|using|fractional|iterative|control|analysis|agenda|efforts|future
+venue name:International Symposium on Intelligent Control
+venue id:2621773577
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Mathematical optimization|Nonlinear system|Linear system|Control theory|Computer science|Iterative method|Fractional calculus|Adaptive control|Iterative learning control|Lemma (mathematics)
+references:2005804068|2146396918|2167717048
+
+
+id:2112962664
+title:Distributed coordination algorithms for multiple fractional-order systems
+year:2008
+author information:[
+author name:Yongcan Cao
+author organization:Utah State University
+author id:2127472020|
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Wei Ren
+author organization:Utah State University
+author id:2157918172|
+author name:Yang Quan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:agent|simulation|fractionalorder|three|coordination|improved|number|introduced|dynamics|shown|time|presented|graph|sufficient|model|proof|communication|different|results|order|given|using|ensure|fractional|distributed|summarizing|graph|orders|conditions|algorithms|compare|systems|convergence|show|consensus|speed|general|integerorder|paper|varying|systems|studies|relationship|algorithms|directed|multiple|also|model|agents|consensus|characterize|achieved|concept|equilibrium|explicitly
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Graph|Mathematical optimization|Control theory|Computer science|Directed graph|Algorithm|Vehicle dynamics|Proof of concept|Distributed algorithm|Uniform consensus|Consensus model
+references:1998692453|2099175737|2105850748|2107396783|2128928412|2165744313|2170047418|2176205028
+
+
+id:2168914013
+title:Distributed Coordination of Networked Fractional-Order Systems
+year:2010
+author information:[
+author name:Yongcan Cao
+author organization:Utah State University
+author id:2127472020|
+author name:Yan Li
+author organization:Utah State University
+author id:2555486223|
+author name:Wei Ren
+author organization:Utah State University
+author id:2157918172|
+author name:YangQuan Chen
+author organization:Utah State University
+author id:2135776116|
+]
+abstract:agent|simulation|fractionalorder|three|coordination|given|improved|number|introduced|dynamics|shown|time|presented|graph|sufficient|model|proof|different|coordination|results|order|using|ensure|fractional|distributed|summarizing|graph|orders|conditions|networked|algorithms|explicitly|compare|systems|convergence|show|speed|general|integerorder|paper|varying|systems|studies|relationship|algorithms|directed|also|model|agents|characterize|interaction|achieved|concept|equilibrium
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Mathematical optimization|Proportional control|Control theory|Computer science|Directed graph|Multi-agent system|Proof of concept|Vehicle dynamics|Fractional calculus|Control system
+references:1536228023|1969313263|1998692453|2099175737|2105850748|2107396783|2112058052|2112962664|2128928412|2165744313|2170047418|2176205028
+
+
+id:2580182939
+title:An iterative learning approach to identify fractional order KiBaM model
+year:2017
+author information:[
+author name:Yang Zhao
+author organization:Shandong University
+author id:2681122591|
+author name:Yan Li
+author organization:Shandong University
+author id:2555486223|
+author name:Fengyu Zhou
+author organization:Shandong University
+author id:2627502967|
+author name:Zhongkai Zhou
+author organization:Shandong University
+author id:2656703480|
+author name:YangQuan Chen
+author organization:University of California
+author id:2135776116|
+]
+abstract:forms|small|principle|inputs|gr|nonlinear|characteristics|output|compute|identification|shown|discusses|continuous|estimate|stateofart|model|order|models|using|successfully|ptype|law|method|fractional|squares|methods|estimation|proposed|unique|unidirectional|concepts|derivatives|accurately|kibam|differentiation|memory|quasilinear|applied|convergence|arx|least|learning|autoregressive|error|nwaldletnikov|speed|gain|result|adaptive|arrived|numerical|paper|systems|oe|parameter|definition|validate|linear|simulations|fast|advantages|short|strategy|iteratively|certain|exogenous
+venue name:IEEE/CAA Journal of Automatica Sinica
+venue id:2484288132
+venue type:J
+document type:Journal
+study fields:Least squares|Convergence (routing)|Autoregressive model|Nonlinear system|Control theory|Iterative method|Resistor|Iterative learning control|Mathematics|Equivalent circuit
+references:1693489271|1973099745|1986924858|2085781945|2120115609|2135337656|2148475246|2158662819|2160829192
+
+
+id:1492007478
+title:A Scheduling Framework for Periodic Tasks in Geo-Distributed Data Centers
+year:2015
+author information:[
+author name:Yan Li
+author organization:University of Chinese Academy of Science
+author id:2660185356|
+author name:Hong Zhang
+author organization:Coordination Center, Nat. Comput. Network Emergency Response Tech. Team, Beijing, China
+author id:2660314575|
+author name:Yong Wang
+author organization:Coordination Center, Nat. Comput. Network Emergency Response Tech. Team, Beijing, China
+author id:2283552839|
+author name:Xinran Liu
+author organization:Coordination Center, Nat. Comput. Network Emergency Response Tech. Team, Beijing, China
+author id:2690048144|
+author name:Peng Zhang
+author organization:Institute of Inf. Eng., Beijing, China
+author id:2120503182|
+]
+abstract:centers|data|express|used|alleviate|required|evaluation|number|find|scheduling|vms|generate|tasks|temporal|realize|algorithm|given|efficiency|overhead|presented|sequence|task|present|framework|clients|periodic|show|guarantee|casestudy|scheduability|onetime|characteristic|executions|execution|set|multiple|also|framework|able|periodicity|uses|geodistributed|aiming|minimum
+venue name:Service Oriented Software Engineering
+venue id:1135185882
+venue type:C
+document type:Conference
+study fields:Fixed-priority pre-emptive scheduling|Fair-share scheduling|Computer science|Deadline-monotonic scheduling|Real-time computing|Two-level scheduling|Rate-monotonic scheduling|Dynamic priority scheduling|Earliest deadline first scheduling|Round-robin scheduling|Distributed computing
+references:1998537516|2028617807|2032723264|2045287414|2062819966|2079333823|2085942149|2109488193|2115392544|2137597833|2163961697|2173213060|2289698129
+
+
+id:1500842814
+title:Report on the FG 2015 Video Person Recognition Evaluation
+year:2015
+author information:[
+author name:J. Ross Beveridge
+author organization:Colorado State University
+author id:2160773115|
+author name:Hao Zhang
+author organization:Colorado State University
+author id:2660860871|
+author name:Bruce A. Draper
+author organization:Colorado State University
+author id:736409185|
+author name:Patrick J. Flynn
+author organization:University of Notre
+author id:2130918525|
+author name:Zhenhua Feng
+author organization:University of Surrey
+author id:2128450755|
+author name:Patrik Huber
+author organization:University of Surrey
+author id:2154383839|
+author name:Josef Kittler
+author organization:SURREY UNIVERSITY
+author id:2129457005|
+author name:Zhiwu Huang
+author organization:Chinese Academy of Sciences (CAS)
+author id:2476917633|
+author name:Shaoxin Li
+author organization:Institute of Computing Technology, Chinese Academy of Sciences, BeiJing, China
+author id:2167214570|
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Meina Kan
+author organization:Institute of Computing Technology,CAS
+author id:2124700069|
+author name:Ruiping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2564512449|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology,CAS
+author id:2099541584|
+author name:Haoxiang Li
+author organization:Stevens Institute of Technology
+author id:2105443933|
+author name:Gang Hua
+author organization:Steven Institute of Technology
+author id:2132854750|
+author name:Vitomir Struc
+author organization:University of Ljubljana
+author id:777543570|
+author name:Janez Krizaj
+author organization:University of Ljubljana
+author id:509441223|
+author name:Changxing Ding
+author organization:University of Technology
+author id:2224595551|
+author name:Dacheng Tao
+author organization:University of Technol
+author id:2104129307|
+author name:P. Jonathon Phillips
+author organization:National Institute of Standards and Technology
+author id:2100852756|
+]
+abstract:held|videos|recognition|conference|required|evaluation|experiment|cameras|camera|algorithm|evaluation|double|recognize|joint|two|subjects|quality|analysis|handheld|experiments|person|actions|recognition|automatic|biometrics|algorithms|participated|experiments|challenge|conjunction|world|top|consisted|face|ijcb|performer|people|mounted|report|first|second|high|shows|gesture|different|results|ieee|acquired|verification|combination|evaluation|competition|competition|video|person|problem|handheld|effecting|video|around|tripod|rate|factor|included|international|carried|groups|pointandshoot|contained|five|performance|location|presents
+venue name:IEEE International Conference on Automatic Face  Gesture Recognition
+venue id:2755241531
+venue type:C
+document type:Conference
+study fields:Facial recognition system|Computer vision|Computer science|Gesture recognition|Feature extraction|Face Recognition Grand Challenge|Video tracking|Mobile device|Artificial intelligence|Biometrics|Video camera
+references:170472577|1461115072|1510822398|1607979445|1983474530|1997745628|2009119155|2012411608|2015229219|2019464758|2041657594|2068815419|2071266191|2079315848|2097729189|2098017479|2106121358|2107037917|2111654153|2121812409|2127411213|2137659841|2143748665|2144093206|2145287260|2155541015|2159786793|2293500398
+
+
+id:1537741354
+title:Hierarchical hybrid statistic based video binary code and its application to face retrieval in TV-series
+year:2015
+author information:[
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Ruiping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2564512449|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology,CAS
+author id:2099541584|
+]
+abstract:named|stateoftheart|bit|variation|via|problem|largely|retrieval|complex|presence|hhsvbc|based|models|databases|margin|large|methods|handle|vectors|propose|code|utilizes|among|binary|conditions|much|encoded|hierarchical|experiments|tradeoff|covariance|matrix|two|statistic|low|fisher|face|hand|stability|address|efficient|within|max|one|tremendously|face|appearance|information|faces|clip|novel|first|encode|statistic|compact|data|clips|frames|incorporate|body|challenging|space|high|uncontrolled|hierarchical|huge|different|discriminability|hhsvbc|needs|obtain|searches|given|typically|level|finally|hybrid|capture|particular|produced|task|hybrid|proposed|video|tvseries|binary|demonstrate|frame|code|multigranularity|complexity|scale|competitiveness|discriminative|learning|video|representation|parameterized|lowerdimensional|captured|make|highly|highdimensional|aims|supervised|yields|time
+venue name:IEEE International Conference on Automatic Face  Gesture Recognition
+venue id:2755241531
+venue type:C
+document type:Conference
+study fields:Computer vision|Block-matching algorithm|Video post-processing|Pattern recognition|Computer science|Motion compensation|Binary code|Multiview Video Coding|Video tracking|Artificial intelligence|Smacker video|Video compression picture types
+references:213693017|1502916507|1537451167|1545641654|1551774182|1560724230|1592774159|1606858007|1820849028|1953590900|1966385142|1976921161|1977774297|1983496390|1992371516|1996939238|2019754090|2027922120|2044195942|2054831469|2056829492|2066941820|2084363474|2093153344|2115546586|2137894166|2141830256|2144093206|2145406111|2147238549|2150600350|2151103935|2158518976|2161969291|2168996682|2169783907|2293597654
+
+
+id:1959016151
+title:Face video retrieval with image query via hashing across Euclidean space and Riemannian manifold
+year:2015
+author information:[
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Ruiping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2564512449|
+author name:Zhiwu Huang
+author organization:Chinese Academy of Sciences (CAS)
+author id:2476917633|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology,CAS
+author id:2099541584|
+]
+abstract:extensive|movie|functions|videos|stateoftheart|attempt|retrieving|problem|retrieval|euclidean|visual|manifold|represented|usually|embed|recent|promising|still|thus|method|work|methods|propose|light|hashing|competitive|hash|manifold|superiority|experiments|covariance|respectively|two|smart|matching|across|computer|hashingbased|firstly|learn|kernel|makes|suspect|face|framework|deriving|unified|success|space|iteratively|clip|first|searching|data|challenging|heterogeneous|space|optimize|quite|given|image|new|like|query|modeled|particular|becomes|hamming|vision|incurs|spaces|person|discriminant|spaces|demonstrate|hilbert|fastforwards|learning|video|point|seemingly|common|reproducing|interspace|differently|distances|interesting|riemannian|impressive|also|specific|maxmargin|corresponding|appealing|forms|intra|applications
+venue name:Computer Vision and Pattern Recognition
+venue id:1158167855
+venue type:C
+document type:Conference
+study fields:Hilbert space|Kernel (linear algebra)|Computer vision|Hamming code|Pattern recognition|Riemannian manifold|Computer science|Euclidean space|Artificial intelligence|Hash function|Covariance matrix|Hamming space
+references:199018803|213693017|1537451167|1820849028|1953590900|1970055505|1992371516|1996939238|2011646888|2021340975|2030605635|2041657594|2044195942|2064797228|2066986622|2071207147|2084363474|2087193308|2091029628|2093153344|2100235303|2109258005|2110599581|2111654153|2120453412|2121341364|2126017757|2128730107|2129758780|2137894166|2141830256|2144093206|2144414190|2144902422|2147717514|2149652297|2150600350|2160840682|2162666105|2168996682|2251864938|2255038316|2293597654|2397770138
+
+
+id:2019754090
+title:Compact Video Code and Its Application to Robust Face Retrieval in TV-Series.
+year:2014
+author information:[
+author name:Yan Li
+author organization:Institute of Computing Technology., Chinese Academy of Sciences
+author id:2640493168|
+author name:Ruiping Wang
+author organization:Institute of Computing Technology., Chinese Academy of Sciences
+author id:2564512449|
+author name:Zhen Cui
+author organization:Institute of Computing Technology., Chinese Academy of Sciences
+author id:2103993333|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology., Chinese Academy of Sciences
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology., Chinese Academy of Sciences
+author id:2099541584|
+]
+abstract:named|stateoftheart|bit|via|problem|extremely|balance|largely|retrieval|complex|evaluated|presence|promising|based|models|databases|margin|using|method|methods|handle|propose|code|youtube|cvc|traditional|binary|conditions|much|encoded|statistical|code|experiments|covariance|matrix|two|matching|low|variations|face|hand|address|efficient|max|one|tremendously|sample|face|appearance|information|faces|clip|first|bits|standard|manner|compact|data|clips|recognition|incorporate|body|challenging|space|uncontrolled|quite|huge|discriminability|stability|needs|obtain|searches|given|typically|finally|capture|produced|task|proposed|video|tvseries|demonstrate|internet|code|complexity|competitiveness|discriminative|learning|video|representation|general|lowerdimensional|captured|compact|dimension|make|highdimensional|cvc|aims|also|specific|supervised|performance|yields|time|showing
+venue name:British Machine Vision Conference
+venue id:1198654179
+venue type:C
+document type:Conference
+study fields:Facial recognition system|Computer vision|Pattern recognition|Computer science|Supervised learning|Artificial intelligence|Covariance matrix|Video signature|Discriminative model|Blossom algorithm|The Internet|Binary number
+references:213693017|1502916507|1537451167|1820849028|1953590900|1983496390|1992371516|1996939238|2021340975|2044195942|2084363474|2093153344|2099095260|2110599581|2116022929|2119821739|2120453412|2125378448|2129758780|2144093206|2149652297|2150600350|2162813111|2251864938|2293597654
+
+
+id:2070101285
+title:A Memory-Based Continuous Query Index for Stream Processing
+year:2014
+author information:[
+author name:Cuiwen Xiong
+author organization:Institute of Inf. Eng., Beijing, China
+author id:2290753797|
+author name:Peng Zhang
+author organization:Institute of Inf. Eng., Beijing, China
+author id:2120503182|
+author name:Yan Li
+author organization:Nat. Eng. Lab. for Inf. Security Technol. Beijing, Beijing, China
+author id:2928648570|
+author name:Shipeng Zhang
+author organization:Nat. Eng. Lab. for Inf. Security Technol. Beijing, Beijing, China
+author id:2668830206|
+author name:Qingyun Liu
+author organization:Nat. Eng. Lab. for Inf. Security Technol. Beijing, Beijing, China
+author id:2487230997|
+author name:Jianlong Tan
+author organization:Nat. Eng. Lab. for Inf. Security Technol. Beijing, Beijing, China
+author id:2677113361|
+]
+abstract:scalable|increasingly|becoming|emergency|query|far|continuous|implement|results|needs|proposes|query|index|users|disk|provide|especially|web|must|largescale|support|access|latency|scale|aggregation|storage|diskoriented|capacity|outstripped|metrics|paper|low|gracefully|key|bandwidth|memorybased|decision|efficient|approaches|big|performance|meet|online|problematic|improvements
+venue name:International Congress on Big Data
+venue id:2626150945
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Data mining|Query language|RDF query language|Query expansion|Computer science|Sargable|Web query classification|Online aggregation|Database
+references:2059877472|2144518192
+
+
+id:2122401699
+title:A Context-Aware Services Mash-Up System
+year:2008
+author information:[
+author name:Yan Li
+author organization:Institute of Comput., Technol., Chinese Acad. of Sci., Beijing
+author id:2672297074|
+author name:Jun Fang
+author organization:Institute of Comput., Technol., Chinese Acad. of Sci., Beijing
+author id:2719596166|
+author name:Jinhua Xiong
+author organization:Institute of Comput., Technol., Chinese Acad. of Sci., Beijing
+author id:2242674599|
+]
+abstract:called|improves|without|context|participating|model|case|navigate|mashup|system|illustrated|provide|web|even|domain|study|websites|enjoy|scattered|result|current|get|national|address|one|services|many|domain|integrate|services|information|plate|trouble|internet|simple|used|consider|different|need|might|users|system|relevant|formal|especially|proposed|contextaware|therefore|useful|support|sources|scientific|reasoning|content|aware|implemented|middleware|experience|effectiveness|process|also|mashup|better|environment|information|user|taking
+venue name:Grid and Cooperative Computing
+venue id:1163190608
+venue type:C
+document type:Conference
+study fields:Middleware|Information system|Services computing|Mashup|World Wide Web|Computer science|Context awareness|Context model|Web content|The Internet
+references:202400660|1874094205|2001959118|2085374652|2094204865|2099741707|2110399657|2146675700|2152267651|2157520663|2168867823|2169511275
+
+
+id:2135399570
+title:A Layered Context Reference Model for Context/Situation Middleware
+year:2008
+author information:[
+author name:Jinhua Xiong
+author organization:Institute of Comput. Technol., CAS, Beijing
+author id:2658796593|
+author name:Jianping Fan
+author organization:Institute of Comput. Technol., CAS, Beijing
+author id:2497318031|
+author name:Yan Li
+author organization:Institute of Comput. Technol., CAS, Beijing
+author id:2706178088|
+]
+abstract:modeling|modeling|transitions|good|cover|reference|shows|presented|context|implemented|model|different|needs|models|using|mapping|compared|illustrate|adaptability|relevant|lcsm|contextaware|parts|processing|therefore|present|support|complexity|works|covering|layer|layered|effective|isolate|current|challenges|design|applications|situation|together|case|middleware|context|effectiveness|process|requirements|address|implementation|one|patterns|requirement|prototype|way|model|context|application|corresponding|simplify|faces
+venue name:Grid and Cooperative Computing
+venue id:1163190608
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Middleware|Adaptability|Reference model|Computer science|Context model|Construction industry|Ubiquitous computing|Ubiquitous computing middleware|Distributed computing
+references:1526333779|1967661515|2074064585|2075123415|2077722596|2085374652|2116872095|2126622671|2144730987|2146675700|2152267651|2163419627|2168867823
+
+
+id:2240344248
+title:Exploiting Feature Hierarchies with Convolutional Neural Networks for Cultural Event Recognition
+year:2015
+author information:[
+author name:Mengyi Liu
+author organization:Key Lab. of Intell. Inf. Process., Institute of Comput. Technol., Beijing, China
+author id:2109403477|
+author name:Xin Liu
+author organization:Key Lab. of Intell. Inf. Process., Institute of Comput. Technol., Beijing, China
+author id:2655235668|
+author name:Yan Li
+author organization:Key Lab. of Intell. Inf. Process., Institute of Comput. Technol., Beijing, China
+author id:2640493168|
+author name:Xilin Chen
+author organization:Institute of Comput. Technol., Beijing, China
+author id:2099541584|
+author name:Alexander G. Hauptmann
+author organization:School of Computer Science Carnegie Mellon University
+author id:2113269357|
+author name:Shiguang Shan
+author organization:Institute of Comput. Technol., Beijing, China
+author id:2071998504|
+]
+abstract:play|employ|whole|stateoftheart|extracted|scene|via|problem|bottomup|complex|context|understanding|events|complementarily|domainspecific|models|still|closely|method|depends|hierarchies|heritage|cultural|iccv|cultural|contents|among|served|simultaneously|object|strong|cnn|fusion|role|automatically|kinds|global|two|local|challenge|search|feature|event|evidences|key|participants|address|decision|within|image|combining|great|highlevel|proposals|context|chalearn|submission|lap|exploit|generations|nine|achieves|recognizing|remains|associate|features|hierarchical|classifiers|different|five|image|finetuning|level|adapt|batch|capture|ideas|history|mining|important|vision|candidates|task|extract|exploited|final|region|since|framework|deep|best|investigate|representation|vggnet|related|track|selective|performing|recognition|intuitive|understanding|followed|performance|typical|challenge
+venue name:International Conference on Computer Vision
+venue id:1164975091
+venue type:C
+document type:Conference
+study fields:Cultural heritage|Computer science|Convolutional neural network|Artificial intelligence|Hierarchy|Artificial neural network|Computer vision|Object detection|Pattern recognition|Visualization|Exploit|Feature extraction|Machine learning
+references:1903612395|1916922801|1935861902|1946408210|1954433395|1956701811|2088049833|2102605133|2108598243|2118585731|2121647436|2134670479|2147625498|2162915993|2163605009|2167146493|2950179405
+
+
+id:2507663930
+title:Still-to-Video Face Matching Using Multiple Geodesic Flows
+year:2016
+author information:[
+author name:Yu Zhu
+author organization:West Virginia University
+author id:2304750483|
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Guowang Mu
+author organization:Hebei University of Technology
+author id:2590265372|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology
+author id:2071998504|
+author name:Guodong Guo
+author organization:West Virgina University
+author id:2116438665|
+]
+abstract:extensive|experimental|construct|stateoftheart|approach|building|realworld|identification|noncooperative|centers|manifold|usually|still|images|large|method|researchers|propose|distributions|benchmark|cooperative|diversities|subspaces|attracted|environment|methods|experiments|verification|two|matching|low|relationship|robust|may|clustered|great|controlled|considering|characterize|face|geodesic|clips|exploit|connecting|clips|frames|recognition|heterogeneous|high|uncontrolled|generated|find|unbalanced|different|scenarios|representative|results|acquired|connections|grassmann|conducted|significant|users|proposed|stilltovideo|settings|show|scale|resolutions|learning|video|fr|flows|captured|subspace|multiple|recently|multiple|modalities|outperforms|interpret|attention|aiming|applications
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Computer vision|Facial recognition system|Pattern recognition|Subspace topology|Three-dimensional face recognition|Computer science|Linear subspace|Exploit|Artificial intelligence|Face detection|Image resolution|Geodesic
+references:69471719|1538281814|1959016151|1971359334|1996939238|2007146377|2009941059|2016273425|2034136097|2036161092|2045512849|2056602228|2061273563|2068815419|2071266191|2079844951|2085269372|2109531142|2111654153|2112695787|2115318452|2119990023|2122111042|2128053425|2130556178|2138820335|2141425367|2143159002|2144093206|2144935315|2149466042|2150600350|2152788298|2154671648|2158096215|2169495281|2206837713|2912934387
+
+
+id:2530717046
+title:Spatial Pyramid Covariance-Based Compact Video Code for Robust Face Retrieval in TV-Series
+year:2016
+author information:[
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Ruiping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2564512449|
+author name:Zhen Cui
+author organization:Southeast University
+author id:2103993333|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology,CAS
+author id:2099541584|
+]
+abstract:named|break|stateoftheart|bit|via|problem|extremely|balance|largely|retrieval|complex|evaluated|presence|spatial|promising|based|models|margin|using|proceed|method|lower|methods|handle|propose|youtube|extend|cvc|traditional|granularity|binary|conditions|much|encoded|statistical|signature|theory|code|experiments|bang|covariance|matrix|two|matching|prison|low|variations|pixellevel|face|address|efficient|max|one|tremendously|sample|face|appearance|fast|information|faces|first|novel|bits|calculation|standard|manner|compact|data|dimensional|clips|recognition|incorporate|body|challenging|space|celebrities|uncontrolled|hierarchical|method|quite|huge|discriminability|stability|needs|obtain|searches|given|typically|finally|capture|produced|tvseries|task|proposed|demonstrate|internet|code|complexity|competitiveness|discriminative|learning|video|representation|general|along|captured|track|dimension|make|highdimensional|cvc|big|aims|also|specific|supervised|performance|yields|pyramid|descriptive|suitable|time|showing
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Computer vision|Facial recognition system|Pattern recognition|Computer science|Binary code|Supervised learning|Video tracking|Artificial intelligence|Covariance matrix|Discriminative model|Blossom algorithm|Covariance
+references:213693017|1502916507|1506778248|1537451167|1537741354|1560724230|1820849028|1953590900|1959016151|1977774297|1983496390|1986964250|1992371516|1996939238|2008668064|2019754090|2021340975|2044195942|2056829492|2084363474|2093153344|2099095260|2104978738|2110599581|2115546586|2119821739|2120453412|2122691893|2124509324|2125378448|2137894166|2141830256|2144093206|2149652297|2150600350|2153635508|2158518976|2162006472|2162813111|2162915993|2164338181|2168996682|2169783907|2171790913|2221852422|2251864938|2293597654|2294155285|2530345236|2913932916
+
+
+id:2811193979
+title:Fusing magnitude and phase features with multiple face models for robust face recognition
+year:2018
+author information:[
+author name:Yan Li
+author organization:University of Chinese Academy of Science
+author id:2640493168|
+author name:Shiguang Shan
+author organization:Chinese Academy of Science
+author id:2071998504|
+author name:Ruiping Wang
+author organization:University of Chinese Academy of Sciences
+author id:2564512449|
+author name:Zhen Cui
+author organization:Nanjing University of Science  Technology
+author id:2103993333|
+author name:Xilin Chen
+author organization:University of Chinese Academy of Sciences
+author id:2099541584|
+]
+abstract:results|dimensionality|accuracy|blockwise|complementary|approach|three|fisher|realworld|gained|complementarity|spatial|exhibit|fully|phase|reduce|based|models|goal|models|made|robustness|inspired|analysis|classification|propose|cognitive|even|biological|consistently|boost|evaluate|encoded|fusion|two|local|known|variety|systems|scorelevel|robust|address|one|fusing|great|controlled|impressively|face|conditions|progress|combined|approach|recognition|orientations|frgc|challenging|features|high|gabor|results|verification|quantization|last|experimental|significant|identification|vision|proposed|surpassing|exploited|scales|discriminant|applied|importance|best|fourier|rate|magnitude|applications|human|high|wide|multiple|automatic|yet|although|performance|approximately|far|pyramid|achieved|approached
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:Complementarity (molecular biology)|Facial recognition system|Magnitude (mathematics)|Pattern recognition|Machine vision|Computer science|Robustness (computer science)|Curse of dimensionality|Pyramid|Artificial intelligence|Linear discriminant analysis|Machine learning
+references:1213294141|1589614085|1596605326|1607979445|1822699426|1975489811|1978379919|1982048725|1989702938|1998808035|2001519147|2002552184|2009119155|2009824857|2024688311|2039051707|2051396567|2054891869|2073807451|2081547124|2095757522|2096733369|2104978738|2107654046|2114588272|2117072267|2117913389|2119077463|2128293876|2131081720|2137659841|2139395976|2144119003|2145287260|2150892735|2151103935|2152100107|2156815375|2158424441|2159786793|2161969291|2162915993|2164294799|2165731615|2166335841|2169364766|2325939864|2536626143
+
+
+id:2883554352
+title:Attribute annotation on large-scale image database by active knowledge transfer
+year:2018
+author information:[
+author name:Huajie Jiang
+author organization:Shanghai Institute of Microsystem and Information Technology Chinese Academy of Sciences Shanghai China
+author id:2167319683|
+author name:Ruiping Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2564512449|
+author name:Yan Li
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+author id:2640493168|
+author name:Haomiao Liu
+author organization:Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100190, China
+author id:2325044552|
+author name:Shiguang Shan
+author organization:Institute of Computing Technology, Chinese Academy of Sciences, Key Laboratory of Intelligent Information Processing, Beijing, China
+author id:2071998504|
+author name:Xilin Chen
+author organization:Institute of Computing Technology, Chinese Academy of Sciences, Key Laboratory of Intelligent Information Processing, Beijing, China
+author id:2099541584|
+]
+abstract:timeconsuming|relationships|obtained|tasks|knowledge|order|databases|large|active|propose|sun|quality|among|current|ie|shared|experiments|two|attribute|based|together|annotation|robust|learn|abstract|generally|extensive|framework|assist|attributes|databases|novel|small|using|attributes|process|annotations|used|annotations|high|incorporated|quite|different|image|widely|done|vision|transfer|proposed|largescale|benefits|leverage|learning|effective|common|process|limited|perform|resources|automatic|expensive|target|existing|conduct|scale|imagenet
+venue name:Image and Vision Computing
+venue id:177430994
+venue type:J
+document type:Journal
+study fields:Annotation|Active learning|Pattern recognition|Information retrieval|Transfer of learning|Knowledge transfer|Common knowledge|Artificial intelligence|Image database|Mathematics
+references:43954826|1528361845|1585952056|1597421340|1670526751|1722318740|1935432770|1946323491|1969616664|1988348003|1989666518|1995971015|2017814585|2027248184|2033365921|2037560589|2038152633|2040171755|2059009136|2064851185|2070148066|2082351087|2085660690|2088227600|2097053051|2098411764|2108598243|2109586012|2112055291|2115305054|2117539524|2128053425|2134270519|2143352446|2147414309|2149466042|2150674759|2151509460|2155855695|2165698076|2346746376|2367822705|2426031434|2483458289|2519998487|2520762063|2607642691|2950094539|2950349738|2951272299
+
+
+id:2041290212
+title:Constrained elastic net based knowledge transfer for healthcare information exchange
+year:2015
+author information:[
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Bhanukiran Vinzamuri
+author organization:Wayne State University
+author id:23137369|
+author name:Chandan K. Reddy
+author organization:University
+author id:2100435683|
+]
+abstract:fifty|united|attempt|approach|realworld|extremely|model|state|transfer|case|tasks|knowledge|based|successfully|using|still|issue|divergent|distributions|selection|transfer|aid|study|works|methods|differences|multivariate|unsuccessful|range|measurement|healthcare|across|challenges|penalty|feature|electronic|address|contain|states|predictive|learning|health|constrained|lead|help|elastic|information|diabetes|certain|proposing|data|conditional|almost|states|source|features|individualized|whether|problems|net|different|predicted|diagnosis|insufficient|becomes|relevant|impending|transfer|task|measure|proposed|sparse|improve|solve|focused|demonstrate|useful|solving|critical|applied|records|learning|choose|primarily|states|negative|patient|applications|selecting|highly|wide|effectively|target|existing|performance|build|avoid
+venue name:Data Mining and Knowledge Discovery
+venue id:121920818
+venue type:J
+document type:Journal
+study fields:Data mining|Negative transfer|Multi-task learning|Inductive transfer|Feature selection|Elastic net regularization|Computer science|Information exchange|Knowledge transfer|Transfer of learning|Artificial intelligence|Machine learning
+references:1480376833|1854866626|1871180460|2058414375|2102419107|2115575686|2121341364|2122838776|2122922389|2143104527|2146807976|2154913025|2157762168|2163302275|2165644552|2165698076|2914746235
+
+
+id:2147838747
+title:Active Learning based Survival Regression for Censored Data
+year:2014
+author information:[
+author name:Bhanukiran Vinzamuri
+author organization:Wayne State University
+author id:23137369|
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Chandan K. Reddy
+author organization:University
+author id:2100435683|
+]
+abstract:timetoevent|expert|approach|setting|evaluation|problem|outcomes|differentiates|diverse|represented|model|state|inferring|based|models|using|sampling|methods|active|refine|binary|domain|evaluate|attribute|providing|methods|datasets|healthcare|varying|indicates|modelled|electronic|indicate|healthcare|ability|art|address|gradient|health|scheme|feedback|advantages|framework|machine|predictive|approach|novel|indicator|data|censoring|diversity|available|different|interactively|results|offers|comparison|strategies|experimental|survival|query|publicly|synthetic|active|instances|proposed|fields|present|higher|timetoevent|records|learning|discriminative|censored|predict|make|sampled|built|rates|also|label|better|economics|tuned|regression|variable|uses|account|applications
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data mining|Active learning|Proportional hazards model|Regression|Computer science|Subject-matter expert|Dummy variable|Sampling (statistics)|Artificial intelligence|Discriminative model|Censoring (statistics)|Machine learning
+references:2011995986|2021367230|2026706435|2065189618|2108268158|2117927740|2125782079|2135793597|2144603192|2160828669
+
+
+id:2178255279
+title:A distributed ensemble approach for mining healthcare data under privacy constraints
+year:2016
+author information:[
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Changxin Bai
+author organization:Wayne state University
+author id:2224679558|
+author name:Chandan K. Reddy
+author organization:University
+author id:2100435683|
+]
+abstract:accurate|fifty|building|ehr|without|concern|retrieval|evaluated|recent|knowledge|based|models|using|successfully|thus|models|participators|diseases|accurately|adapted|quality|geographical|discovered|two|adaptive|us|systems|ehrs|decision|learn|one|many|privacypreserving|biomedical|records|disparate|advantages|diagnose|associated|information|accumulated|strategy|medical|resolve|using|available|amounts|decisions|acquired|train|actual|making|widely|revealing|insufficient|develop|sharing|lack|demonstrate|preserving|support|useful|sources|records|idea|privacy|indispensable|states|related|regions|patientlevel|disease|literature|effectively|multiple|existing|form|modeling|obstacles|infeasible|collected|attempt|approach|newly|number|model|participating|presence|utilized|protecting|efficiency|large|method|distributed|handle|sensitive|system|delivery|provide|even|sensitivity|care|become|algorithms|regions|aim|privacy|diagnosing|healthcare|electronic|decisions|elegant|established|robust|health|locations|hampered|facilities|facility|diabetes|certain|ehrs|data|main|major|sufficient|quite|different|selected|biomarkers|diagnosis|becomes|important|conflicting|clinical|transfer|proposed|improve|prediction|basic|potentially|problems|making|ensemble|storage|effective|productivity|validated|due|patient|make|universal|ehr|amount|limited|also|increase|performance|build|due|appropriately|objectives
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Data science|Health care|Data sharing|Robust decision-making|Decision model|Predictive modelling|Clinical decision support system|Masking (Electronic Health Record)|Ensemble learning|Mathematics
+references:44899178|184146824|199752024|1563384150|1964366273|1971774955|1982219166|1988790447|1999602050|2001336960|2022079499|2024360430|2028240441|2032210760|2039832455|2041290212|2059800482|2094381401|2110783067|2119067110|2161229593|2161479324|2163757302|2404420681|2405573801
+
+
+id:2267899723
+title:Project Success Prediction in Crowdfunding Environments
+year:2016
+author information:[
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Vineeth Rakesh
+author organization:Wayne State University
+author id:2153695164|
+author name:Chandan K. Reddy
+author organization:University
+author id:2100435683|
+]
+abstract:projects|pledged|collected|approach|evaluation|problem|gained|despite|presence|recent|temporal|phase|models|using|goal|natural|probability|classification|analysis|distributions|years|provide|reached|obtained|partial|crowdfunding|study|formulate|distribution|desired|power|popular|projects|estimating|predicting|policy|duration|compared|performance|means|sets|within|one|data|many|domain|future|crowdfunding|choice|complete|certain|data|use|project|rigorously|incorporate|loglogistic|tweets|predefined|research|platforms|features|twitter|percentage|adding|widespread|huge|dramatically|combine|new|need|survival|failed|important|relevant|take|achieving|rigorous|success|improve|prediction|potentially|challenges|show|learning|training|investigate|around|censored|predict|early|successful|amount|apply|advantage|perform|follow|better|logistic|corresponding|regression|various|kickstarter|succeed|stages|attention|ones|information|time|comprehensive|significantly
+venue name:Web Search and Data Mining
+venue id:1120384002
+venue type:C
+document type:Conference
+study fields:Data mining|Time distribution|Regression|Computer science|If and only if|Predictive modelling|Project success|Censored regression model
+references:1969799269|1985194760|2021866613|2048018743|2090790997|2104235537|2107766120|2146792708|2256429733|2395313569|2404420681
+
+
+id:2358113125
+title:A Multi-Task Learning Formulation for Survival Analysis
+year:2016
+author information:[
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Jie Wang
+author organization:Universityof Michigan
+author id:2471893859|
+author name:Jieping Ye
+author organization:Universityof Michigan
+author id:2810632946|
+author name:Chandan K. Reddy
+author organization:University
+author id:2100435683|
+]
+abstract:employ|select|stateoftheart|loss|realworld|censoring|suffer|problem|hazard|optimization|enable|differentiates|formulation|model|presence|strict|tasks|limitations|algorithm|based|using|goal|multitask|method|gene|methods|proportional|handle|method|analysis|propose|benchmark|popularly|unique|domain|maxheap|alternating|interval|primary|status|hypotheses|shared|study|multipliers|methods|overcome|occurrence|nonsmooth|datasets|matrix|two|direction|across|known|feature|event|estimating|duration|enables|expression|problem|reformulate|learn|cox|future|efficiently|overfitting|standard|indicator|predicting|data|used|incorporate|alleviate|assumptions|points|features|incomplete|brings|realistic|weaknesses|employs|new|survival|traces|particular|list|important|proposed|solve|prediction|projection|demonstrate|problems|analysis|challenges|instances|penalty|parametric|show|learning|error|representation|censored|nonnegative|nonincreasing|related|interest|observations|predict|task|hence|applications|highdimensional|types|characteristics|structure|outperforms|microarray|performance|due|regression|time|reducing
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Clustering high-dimensional data|Multi-task learning|Proportional hazards model|Regression|Computer science|Parametric statistics|Regularization (mathematics)|Artificial intelligence|Survival analysis|Censoring (statistics)|Machine learning
+references:1871180460|1986080131|2065180801|2065189618|2107204118|2147838747|2164278908|2167205245|2267899723|2404420681|2507910288|2507991606
+
+
+id:2482491008
+title:Poisson-Markov Mixture Model and Parallel Algorithm for Binning Massive and Heterogenous DNA Sequencing Reads
+year:2016
+author information:[
+author name:Lu Wang
+author organization:Wayne State University
+author id:2686087796|
+author name:Dongxiao Zhu
+author organization:Wayne State University
+author id:2309060557|
+author name:Yan Li
+author organization:Wayne State University
+author id:2594541701|
+author name:Ming Dong
+author organization:University
+author id:2618285502|
+]
+abstract:modeling|sufficiently|bin|approach|sequencing|analyzing|promising|algorithm|competing|using|simulated|flexible|metagenomics|unsupervised|set|compare|metagenomics|utility|range|long|unknown|composition|course|sources|may|probabilistic|shorter|integrate|massive|framework|reads|efficiently|model|information|exploit|novel|represent|data|heterogeneous|major|time|selected|computational|capture|binning|develop|sequence|longer|improving|extract|solve|kmers|systematically|demonstrate|present|problems|sources|abundance|according|learning|running|general|mixture|parallel|identify|wide|reads|also|approaches|pmm|supervised|performance|poissonmarkov|dna|challenge|short|information|time|base
+venue name:International Symposium on Bioinformatics Research and Applications
+venue id:1156741871
+venue type:C
+document type:Conference
+study fields:Data mining|Data set|Expectation–maximization algorithm|Parallel algorithm|Computer science|Markov chain|Metagenomics|Unsupervised learning|Probabilistic logic|Bioinformatics|Mixture model
+references:1997673861|2064261261|2082203850|2096128575|2150208009|2153138305|2162039942|2163584430
+
+
+id:2585311025
+title:Transfer Learning for Survival Analysis via Efficient L
+year:2016
+author information:[
+author name:Yan Li
+author organization:Computational Medicine and Bioinformatics
+author id:2594541701|
+author name:Lu Wang
+author organization:Wayne State University
+author id:2686087796|
+author name:Jie Wang
+author organization:Computational Medicine and Bioinformatics
+author id:2471893859|
+author name:Jieping Ye
+author organization:Electrical Engineering and Computer Science - Computer Science and Engineering
+author id:2781013714|
+author name:Chandan K. Reddy
+author organization:Virginia PolyTechnic Institute  State University
+author id:2100435683|
+]
+abstract:called|improves|stateoftheart|approach|without|observed|number|censoring|problem|extremely|easily|model|case|knowledge|algorithm|competing|based|similar|models|period|using|efficiency|goal|examples|method|thus|gene|methods|analysis|propose|benchmark|extend|domain|primary|predictors|shared|study|strong|compare|sparsity|occurrence|datasets|augment|consuming|across|encourage|taken|share|event|gives|performance|robust|expression|linear|may|approaches|speedup|data|cox|entities|handled|cannot|features|standard|screening|data|several|source|sufficient|quite|results|compromising|computational|always|obtain|practice|survival|learns|labeled|difficult|insufficient|particular|often|obtaining|respect|interest|synthetic|improving|transfer|extract|proposed|sparse|prediction|demonstrate|potentially|timetoevent|instances|penalty|show|rule|training|learning|representation|censored|scalability|related|interest|auxiliary|task|highdimensional|process|amount|aims|apply|multiple|monitor|also|target|microarray|performance|regression|datasets|uses|time|rise|significantly
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Data mining|Data modeling|Clustering high-dimensional data|Multi-task learning|Semi-supervised learning|Computer science|Transfer of learning|Artificial intelligence|Censoring (statistics)|Machine learning|Scalability|Speedup
+references:1502375784|1830873897|1871180460|1967849786|2041290212|2065180801|2097620183|2100556411|2102419107|2115403315|2122838776|2122922389|2125918842|2147838747|2157762168|2165698076|2187523974|2267899723|2358113125|2404420681|2507991606
+
+
+id:2726304173
+title:Pre-Processing Censored Survival Data Using Inverse Covariance Matrix Based Calibration
+year:2017
+author information:[
+author name:Bhanukiran Vinzamuri
+author organization:IBM Thomas J. Watson, Res. Center, Yorktown Heights, NY
+author id:23137369|
+author name:Yan Li
+author organization:University of Michigan
+author id:2594541701|
+author name:Chandan K. Reddy
+author organization:Virginia TEch
+author id:2100435683|
+]
+abstract:improves|calibrated|approach|attempt|censoring|imputation|dependent|algorithm|goodness|reduce|estimators|using|dealing|method|correlations|compounded|rc|columnbased|covariates|evaluate|algorithms|times|one|covariance|phenomenon|datasets|matrix|conjunction|causes|electronic|indicate|place|event|calibration|compared|performance|within|could|health|right|data|many|crowdfunding|dataset|standard|censoring|data|imputed|regularization|used|auc|high|motivates|amounts|major|bias|different|directly|results|us|estimates|obtain|given|experimental|survival|preprocessing|iterative|comparing|develop|done|synthetic|instances|sparse|leads|improve|effect|final|prediction|longitudinal|imputing|framework|benefits|timetoevent|columnwise|convergence|instances|applied|records|values|censored|effective|times|common|interest|prediction|array|missing|studies|row|inverse|applying|frame|original|wide|apply|recorded|followed|arises|datasets|time|calibrates|account
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Data mining|Data modeling|Covariate|Algorithm design|Computer science|Censoring (clinical trials)|Imputation (statistics)|Statistics|Censoring (statistics)|Estimator
+references:2000891479|2065189618|2077870633|2146130798|2147838747|2163922914|2164786997|2267899723|2395313569|2519198042
+
+
+id:2775288710
+title:Multi-task Survival Analysis
+year:2017
+author information:[
+author name:Lu Wang
+author organization:Wayne State University
+author id:2686087796|
+author name:Yan Li
+author organization:University of Michigan
+author id:2594541701|
+author name:Jiayu Zhou
+author organization:Computer Science and Engineering
+author id:2097879502|
+author name:Dongxiao Zhu
+author organization:Wayne State University
+author id:2309060557|
+author name:Jieping Ye
+author organization:Michigan State University
+author id:2781013714|
+]
+abstract:cluster|dataset|improves|focus|observed|relationships|assumption|types|even|tasks|respectively|models|based|internally|multitask|work|investigating|analysis|propose|samples|benefit|generalization|among|algorithms|wait|involved|whereas|methods|formulate|occurrence|two|naturally|labeling|event|merely|takes|relatedness|may|problem|though|efficient|one|relatedness|single|framework|insufficiency|extensively|information|partially|novel|cancer|standard|instance|data|mtl|used|alleviate|lowrank|consider|different|results|bridging|coxtrace|inherent|collecting|always|atlas|discover|survival|develop|task|proposed|improve|prediction|demonstrate|concrete|timetoevent|analysis|paradigm|instances|show|learning|censored|simultaneously|related|common|provides|every|alleviates|advantage|multiple|also|approaches|structure|existing|performance|regression|cancer|time|genome|significantly|taking
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Data mining|Multi-task learning|Proportional hazards model|Regression|Computer science|Bridging (networking)|Artificial intelligence|Survival analysis|Machine learning
+references:1871180460|1939941161|1993528080|1998249118|1998635907|2031250362|2065180801|2116063398|2118099552|2133491790|2139850885|2143104527|2167205245|2245213139|2337164530|2358113125|2585311025|2747695602|2914746235|2965280447
+
+
+id:2809669277
+title:Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient
+year:2018
+author information:[
+author name:Yan Li
+author organization:Universityof Michigan
+author id:2594541701|
+author name:Jieping Ye
+author organization:Universityof Michigan
+author id:2781013714|
+]
+abstract:reconstruction|experimental|stateoftheart|type|branch|issues|via|problem|model|judge|text|fully|guide|competing|based|semisupervised|goal|method|work|evaluation|methods|analysis|propose|benchmark|approximated|input|contains|size|scheme|evergrowing|methods|modelbased|datasets|distribution|networks|two|extraordinarily|naturally|world|modern|acquiring|gradient|based|policy|performance|reward|address|reformulate|popular|model|framework|classification|machine|information|iteratively|becoming|data|generates|use|sometimes|several|good|high|semisupervised|unlabeled|adversarial|directly|recurrent|results|labeled|difficult|costly|real|discrete|estimation|proposed|techniques|improve|prediction|framework|deep|trained|neural|instances|show|proper|learning|training|representation|network|generative|predictor|reinforcement|make|opposed|aims|evaluations|built|aforementioned|label|target|outperforms|existing|performance|conduct|comprehensive
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:External Data Representation|Semi-supervised learning|Data reconstruction|Computer science|Recurrent neural network|Artificial intelligence|Performance prediction|Machine learning|Reinforcement learning|Adversarial system|Generative model
+references:102334056|177847060|1519506695|1552847225|1554457642|1585385982|1945616565|1959608418|2048679005|2064675550|2079057609|2097089247|2099471712|2101210369|2103626435|2107008379|2113459411|2119717200|2121863487|2126316555|2132339004|2139823104|2139956879|2145339207|2155027007|2170240176|2170569305|2170973209|2402268235|2432004435|2523469089|2557283755|2558737541|2619371851|2949416428
+
+
+id:2962961490
+title:Multi-task learning based survival analysis for multi-source block-wise missing data
+year:2019
+author information:[
+author name:Yan Li
+author organization:University of Michigan
+author id:2594541701|
+author name:Lu Wang
+author organization:Wayne State University
+author id:2686087796|
+author name:Jiayu Zhou
+author organization:Michigan State University
+author id:2097879502|
+author name:Jieping Ye
+author organization:University of Michigan
+author id:2781013714|
+]
+abstract:employ|collected|blockwise|stateoftheart|observed|realworld|problem|model|presents|exhibit|prevention|events|fully|respectively|models|multitask|ad|method|remain|impact|diseases|methods|proportional|handle|completed|analysis|survival|propose|benchmark|extensions|system|allocate|receives|neuroimaging|deal|study|treatment|methods|formulate|pattern|occurrence|datasets|two|healthcare|lot|hazards|partition|decomposes|takes|based|predicting|enables|resources|set|associates|abstract|featurelevel|data|many|cox|framework|stage|series|able|information|dataset|features|cancer|medical|addresses|data|sourcelevel|disease|achieves|used|high|major|different|directly|problems|results|atlas|multisource|patients|survival|diagnosis|interest|take|tests|proposed|prediction|helps|concrete|sources|applied|show|learning|paper|related|patient|missing|transformed|pattern|designed|conversion|highdimensional|types|outperform|disease|aims|original|evaluations|identify|limited|apply|effectively|advantage|multiple|specific|initiative|structure|existing|corresponding|various|challenge|cancer|time|twolayer|genome|comprehensive
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Multiple data|Multi-task learning|Proportional hazards model|Artificial intelligence|Predictive modelling|Missing data|Survival analysis|Healthcare system|Multi-source|Machine learning|Mathematics
+references:1558048826|2037603831|2065180801|2092403294|2095377654|2103972604|2107204118|2112192177|2126607811|2146130798|2164278908|2167205245|2337164530|2358113125|2415877456|2496251701|2507991606|2571620227|2747695602|2894748956
+

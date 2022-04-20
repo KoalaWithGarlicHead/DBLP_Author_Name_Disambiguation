@@ -1,0 +1,2635 @@
+
+id:2008188058
+title:Topical key concept extraction from folksonomy through graph-based ranking
+year:2016
+author information:[
+author name:Han Xue
+author organization:Harbin Engineering University CHINA
+author id:2700555103|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+]
+abstract:numerous|focus|extracting|stateoftheart|extracted|bottleneck|corpora|text|tags|case|knowledge|using|thus|method|models|usergenerated|folksonomy|preference|effective|extraction|propose|tags|concepts|concepts|relative|overcome|datasets|found|acquisition|mix|key|may|topics|lead|indiscriminately|graphbased|certain|novel|first|topical|propagation|mainly|influence|misconception|edge|extraction|feasible|tag|different|significantly|combination|baselines|topicsensitive|weight|folksonomy|proposed|topic|problems|applied|importance|concept|according|content|parameter|studies|ranked|outperform|identify|aforementioned|rich|ranking|topranking|perspectives|existing
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Graph|Pattern recognition|Ranking|Information retrieval|Computer science|Text corpus|Knowledge acquisition bottleneck|Folksonomy|Artificial intelligence|Topic model|Concept extraction
+references:1521118148|1525595230|1532323755|1549014378|1577749430|1880262756|1967160701|2014854862|2015541839|2064418625|2068737686|2086511124|2091769410|2100071287|2105745072|2163659824|2170344111
+
+
+id:2010361013
+title:Social sentiment sensor: a visualization system for topic detection and topic sentiment analysis on microblog
+year:2016
+author information:[
+author name:Yanyan Zhao
+author organization:Harbin Institute of Technology
+author id:2123415570|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:School of Computer Science and Technology
+author id:2142255895|
+author name:Duyu Tang
+author organization:Harbin institute of technology, Harbin, China
+author id:2145601749|
+]
+abstract:topicoriented|cluster|stateoftheart|issues|extracted|wherein|relation|via|cover|dynamics|topicrelated|realtime|rank|model|filtering|vector|gauge|based|using|opportunity|hot|analysis|recognize|distributions|weibo|toward|system|provide|unique|analyze|following|offering|microblogs|bursty|achieve|svm|hot|two|popularity|perspective|share|based|popular|emerging|hashtag|social|detection|topics|distribution|sentiment|framework|summarize|describe|exploit|feelings|certain|visualization|almost|main|sina|topics|instantly|microblogging|expressed|results|new|ideas|includes|users|followers|daily|final|produces|topic|sensor|sentiment|analysis|hashtags|attract|classifier|detect|sentiments|platform|retrieving|public|paper|provides|topicoriented|clusters|aims|social|monitor|message|sss|form|ranking|timely|attention|online|opinions|presents
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Computer science|Popularity|Artificial intelligence|Cluster analysis|World Wide Web|Social media|Pattern recognition|Information retrieval|Ranking|Sentiment analysis|Visualization|Microblogging|Exploit
+references:11244355|656231423|1998224037|2014854862|2014902591|2015186536|2015541839|2026302857|2077587655|2108646579|2124156373|2137553870|2140427797|2148259701|2150098934|2155830421|2166706824|2167573554|2250194349|2250629460|2913932916|2949709688
+
+
+id:2042860192
+title:Predicting movie Box-office revenues by exploiting large-scale social media content
+year:2016
+author information:[
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2916645153|
+author name:Xiao Ding
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+author id:2122094799|
+author name:Yiheng Chen
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, Harbin, China
+author id:2171174714|
+author name:Haochen Chen
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, Harbin, China
+author id:2670203738|
+author name:Maosheng Guo
+author organization:Harbin Institute of Technology
+author id:2662068998|
+]
+abstract:employ|movie|support|accurate|crowd|release|experimental|problem|experiment|vector|based|models|intention|intelligence|revenues|experiments|evaluate|requires|mined|automatically|popularity|power|predicting|linear|predictive|data|lead|exploit|predictions|predicting|use|challenging|posts|grosses|revenue|high|motivates|shown|results|us|nonlinear|level|crossvalidation|users|important|especially|proposed|conducted|prediction|largescale|correlated|artificial|theatrical|show|media|content|wisdom|predict|effectiveness|comments|social|advantage|purchase|regression|revenues|linear|various|regression|boxoffice|attention|explored
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Data science|Predictive power|Computer science|Regression analysis|Popularity|Artificial intelligence|Predictive modelling|Revenue|World Wide Web|Social media|Pattern recognition|Support vector machine|Exploit
+references:153654188|1493746248|1560724230|1565420920|1590495275|1783061888|1964613733|1982087813|1982381099|2015186536|2016210705|2020615055|2087347434|2092152913|2122369144|2124499489|2137226992|2139043937|2139979941|2143144711|2156909104|2166706824|2171468534|2250629460|2540795244
+
+
+id:2096071939
+title:SocialRobot: a big data-driven humanoid intelligent system in social media services
+year:2016
+author information:[
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2916645153|
+author name:Wei-Nan Zhang
+author organization:Harbin Institute of Technology
+author id:2119756314|
+author name:Yu Zhang
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+author id:2654335020|
+]
+abstract:big|interacting|evaluation|number|socialrobot|userinterested|publishing|crowdsourcing|satisfied|usergenerated|socializing|overload|messaging|system|contents|following|day|humanoid|overload|weibo|reposting|naturally|address|highquality|may|makes|services|data|face|increasing|information|tremendous|sina|frequency|shows|implement|attractive|need|users|present|bursting|virtual|searching|deployed|media|content|effective|socialrobot|every|socialization|social|resolving|resources|specific|seeking|intelligent|recommended|blooming|performance|well|information|services|user|chatting
+venue name:Multimedia Systems
+venue id:112262039
+venue type:J
+document type:Journal
+study fields:Information overload|World Wide Web|Internet privacy|Question answering|Social media|Crowdsourcing|Computer science|Specific-information|Socialization|Publishing|Big data|Multimedia
+references:80690057|1507223999|1530276735|1966553486|1976320242|1976745449|1980910426|1999162255|2014854862|2016824112|2026318959|2043403353|2061194032|2092694516|2101196063|2104009457|2127785456|2139575250|2140173168|2155048531|2251429856
+
+
+id:2180312923
+title:Event causality extraction based on connectives analysis
+year:2016
+author information:[
+author name:Sendong Zhao
+author organization:Sch. of Comput. Sci.  Technol., Harbin Institute of Technol., China
+author id:2918201438|
+author name:Ting Liu
+author organization:Sch. of Comput. Sci.  Technol., Harbin Institute of Technol., China
+author id:2916645153|
+author name:Sicheng Zhao
+author organization:Sch. of Comput. Sci.  Technol., Harbin Institute of Technol., China
+author id:2105291618|
+author name:Yiheng Chen
+author organization:Sch. of Comput. Sci.  Technol., Harbin Institute of Technol., China
+author id:2682568973|
+author name:Jian-Yun Nie
+author organization:Dept. of Computer Sci., Université de Montréal, Canada
+author id:2149813270|
+]
+abstract:contextual|numerous|restricted|extracting|type|constraints|beyond|relation|problem|hidden|sentences|model|reality|text|usually|case|method|containing|extraction|among|utilize|obtained|assumed|partial|besides|utilizing|sentences|fundamental|cope|feature|many|ability|naive|predicting|question|kernel|connective|textual|baselines|causality|texts|future|machine|overfitting|dataset|techniques|used|syntactic|features|shows|entailment|dedicated|new|evaluation|commonly|goes|tree|mining|comprehension|important|texts|efforts|task|extract|especially|position|causality|crucial|generating|learning|interactions|paper|public|similarity|lies|causal|previous|advantage|bayes|also|connectives|structure|discourse|interaction|avoid|category|presents
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Causality|Textual entailment|Tree kernel|Artificial intelligence|Natural language processing|Syntax|Syntactic structure|Question answering|Pattern recognition|Naive Bayes classifier|Machine learning|Comprehension|Mathematics
+references:1541975828|1811279891|1817561967|1887754209|1970073043|1973501513|1981082061|1982321556|1991018417|2002849025|2010097736|2034056228|2053238041|2067044483|2068737686|2076622126|2092421954|2093864416|2109462987|2131861279|2135571184|2158194939|2163362093|2168569413|2170496269|2172238468|2250745907|2250836121|2408023948
+
+
+id:2183901315
+title:Topic hierarchy construction from heterogeneous evidence
+year:2016
+author information:[
+author name:Han Xue
+author organization:Harbin Engineering University CHINA
+author id:2700555103|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:School of Computer Science and Technology
+author id:2142255895|
+author name:Shen Liu
+author organization:School of Computer Science and Technology Harbin Institute of Technology Harbin China
+author id:2722810374|
+]
+abstract:update|evidence|numerous|focus|heterogeneous|improved|realtime|corpora|text|knowledge|including|separately|thus|method|hierarchy|folksonomy|constructionmainly|propose|misconceptions|provide|proposed|domain|topic|improvement|problems|stateoftheart|sources|methods|experiments|bottlenecks|representation|recall|indepth|studies|construction|indicate|acquisition|mix|possibility|address|particularly|pvalue|initial|multiple|combines|specific|indiscriminately|outperforms|results|increasing|comprehensive|significantly|novel|existing
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:World Wide Web|Information retrieval|Computer science|Text corpus|Folksonomy|Artificial intelligence|Encyclopedia|Construction method|Hierarchy|Recall|Knowledge acquisition|Machine learning
+references:8089224|132190833|1532323755|1577749430|1847921443|1880262756|1995006620|2008188058|2024967378|2068737686|2100071287|2102308740|2122228338|2122865749|2141225842|2144108169|2155734303|2163199865|2167061159
+
+
+id:2242874043
+title:Sentiment Embeddings with Applications to Sentiment Analysis
+year:2016
+author information:[
+author name:Duyu Tang
+author organization:Harbin institute of technology, Harbin, China
+author id:2145601749|
+author name:Furu Wei
+author organization:Microsoft Research Beijing China
+author id:2171151462|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Nan Yang
+author organization:Microsoft
+author id:2228815495|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+author name:Ming Zhou
+author organization:Microsoft Research Beijing China
+author id:2143584880|
+]
+abstract:bad|without|building|number|loss|context|engineering|tasks|tasks|order|sentence|similar|issue|natural|work|opposite|analysis|propose|benchmark|emoticons|consistently|processing|word|algorithms|sentences|lexicons|automatically|datasets|networks|neighboring|naturally|feature|variety|embedding|together|sentimentspecific|address|learn|words|favors|combining|data|sentiment|contextbased|massive|texts|taskspecific|information|embeddings|use|paper|several|language|contexts|used|good|nearest|space|tailoring|features|neighbors|results|semantically|typically|embeddings|level|like|insights|experimental|develop|encoding|texts|dubbed|signals|mapped|vectors|collect|sentiment|neural|show|learning|training|polarity|provides|design|ignore|outperform|apply|problematic|wordlevel|existing
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Embedding|Computer science|Sentiment analysis|Context model|Feature engineering|Artificial intelligence|Natural language processing|Word embedding|Artificial neural network|Vocabulary|Sentence|Machine learning
+references:36903255|40549020|187383899|1010415138|1503259811|1558797106|1589554437|1594229598|1614298861|1816079941|1984052055|2005697477|2022204871|2031998113|2040467972|2049434052|2064580901|2091812280|2097732278|2108646579|2113459411|2117130368|2118585731|2121227244|2129011250|2130237711|2132339004|2133280805|2137807925|2138204974|2146502635|2147152072|2153579005|2156413587|2157765050|2158899491|2160660844|2163455955|2164019165|2166706824|2217066517|2250243742|2250539671|2250553586|2250717533|2250767751|2250879510|2251356693|2251387237|2251395256|2251770468|2251771443|2251803266|2251939518|2295781714|2296487598|2395693197|2460474657|2963148156
+
+
+id:2292153778
+title:Capturing the Semantics of Key Phrases Using Multiple Languages for Question Retrieval
+year:2016
+author information:[
+author name:Wei-Nan Zhang
+author organization:Research Center for Social Computing and Information Retrieval, School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China
+author id:2119756314|
+author name:Zhao-Yan Ming
+author organization:Digipen Institute of Technology Singapore
+author id:2107469214|
+author name:Yu Zhang
+author organization:Research Center for Social Computing and Information Retrieval, School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China
+author id:2654335020|
+author name:Ting Liu
+author organization:School of Computer Science and Technology
+author id:2916645153|
+author name:Tat-Seng Chua
+author organization:Nat. University of Singapore
+author id:2160663097|
+]
+abstract:communitybased|expanding|seamlessly|answers|experimental|stateoftheart|approach|identification|retrieval|complex|pivot|refinement|model|knowledge|based|models|using|natural|nonkey|work|refine|community|propose|fail|provide|concepts|web|verboseness|word|overlooked|differences|retrieval|two|long|current|search|web|paraphrases|question|acquisition|key|questions|address|question|explore|services|queries|integrate|mismatch|distinguishing|questions|main|language|cqa|paraphrasing|answering|consider|results|contributed|new|level|solutions|query|archive|weights|expansion|important|relevant|try|demonstrate|reasons|concept|integrated|candidate|search|identify|overlook|alternative|also|approaches|outperforms|existing|translation|well|content|user|significantly|age
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Data mining|Query language|Computer science|Web query classification|Natural language processing|Artificial intelligence|Web search query|Question answering|Pivot language|Query expansion|Information retrieval|Natural language|Concept search
+references:60645813|174630521|1482214997|1555108314|1631260214|1979459060|1980515494|1980776243|1985471546|2003677545|2025356973|2028709054|2035363410|2036089660|2042980227|2047295649|2051014959|2060976724|2064418625|2065240770|2076158439|2086039194|2097312446|2099548400|2102394389|2104049510|2105051853|2108650858|2108701407|2119119231|2120284981|2140847984|2143927888|2145766604|2147308966|2151429169|2153653739|2156938860|2156985047|2162355876|2163506809|2164433800|2165612380|2252143362|2282146481
+
+
+id:2341695656
+title:Exploring Segment Representations for Neural Segmentation Models
+year:2016
+author information:[
+author name:Yijia Liu
+author organization:Harbin Institute of Technology
+author id:2106334948|
+author name:Wanxiang Che
+author organization:Harbin Institute of Technology
+author id:2096786427|
+author name:Jiang Guo
+author organization:Harbin Institute of Technology
+author id:2395245277|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+]
+abstract:semicrf|named|functions|dataset|recognition|achieves|language|entire|generalized|segment|model|different|results|tasks|tasks|combine|natural|embeddings|experimental|benchmark|input|segment|solve|processing|competitive|word|benefits|study|neural|experiments|show|units|two|network|represents|nlp|composition|segmentation|many|embedding|composing|cws|thoroughly|problem|representing|extensive|stateoftheart|performance|conduct|typical|chinese|dataset|entity
+venue name:arXiv: Computation and Language
+venue id:2596401190
+venue type:J
+document type:Repository
+study fields:Scale-space segmentation|Embedding|Segmentation|Computer science|Text segmentation|Natural language processing|Artificial intelligence|Artificial neural network|Named-entity recognition|Machine learning
+references:1570587036|1940872118|2004763266|2102301788|2120661206|2130903752|2138857742|2147880316|2157807817|2158899491|2160817711|2165664509|2251811146|2252225757|2287914047|2296194829|2949952998|2950133940
+
+
+id:2418403507
+title:Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution
+year:2017
+author information:[
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+author name:Yiming Cui
+author organization:Harbin Institute of Technology
+author id:2687376174|
+author name:Qingyu Yin
+author organization:Harbin Institute of Technology
+author id:2364554682|
+author name:Wei-Nan Zhang
+author organization:
+author id:2119756314|
+author name:Shijin Wang
+author organization:
+author id:2496586547|
+author name:Guoping Hu
+author organization:
+author id:2496894573|
+]
+abstract:data|simple|twostep|fscore|stateoftheart|alleviate|resolution|approach|annotated|resolution|zero|problem|major|model|obstacle|generate|pseudo|results|released|successfully|experimental|clozestyle|often|real|propose|comprehension|lack|becomes|task|organizers|transfer|proposed|largescale|one|ontonotes|shared|neural|automatically|overcome|show|training|network|pronoun|systems|labeling|spend|gap|task|manpower|mechanism|performance|relying|reading|approaches|heavily|data|expensive|outperforms|better|existing|absolute|progress|significantly|novel|improvements
+venue name:Meeting of the Association for Computational Linguistics
+venue id:1188739475
+venue type:C
+document type:Conference
+study fields:Training set|Obstacle|Computer science|Reading comprehension|Artificial intelligence|Natural language processing|Artificial neural network|Machine learning|Pronoun resolution
+references:204341599|1522301498|1544827683|1575968128|2021692535|2038245978|2039813897|2116343275|2123024554|2125930537|2133258739|2133564696|2155069789|2158831095|2164705687|2196463948|2250555572|2251784867|2252071042|2384495648|2512290434|2950635152
+
+
+id:2491832692
+title:Negation Scope Detection with Recurrent Neural Networks Models in Review Texts
+year:2016
+author information:[
+author name:Lydia Lazib
+author organization:Harbin Institute of Technology
+author id:2514960703|
+author name:Yanyan Zhao
+author organization:Harbin Institute of Technology
+author id:2123415570|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2142255895|
+]
+abstract:negation|featurerich|language|experimental|without|relation|answering|text|different|recurrent|results|tasks|models|based|successfully|using|natural|like|engineering|handcrafted|propose|benefit|important|sequence|task|processing|word|sentiment|analysis|neural|applied|serves|crfbased|show|identifying|media|networks|feature|labeling|scope|embedding|detection|outperform|question|problem|social|subtask|understanding|model|tokenlevel|regarded|efforts|taskspecific|information|scopes
+venue name:International Conference for Young Computer Scientists
+venue id:1174485665
+venue type:C
+document type:Conference
+study fields:Sequence labeling|Question answering|Sentiment analysis|Computer science|Recurrent neural network|Feature engineering|Information extraction|Natural language processing|Artificial intelligence|Word embedding|Machine learning|Relationship extraction
+references:13254153|179875071|1540017823|1924770834|1954622760|1982464493|2035703356|2064675550|2079735306|2102113734|2105827650|2110485445|2115915625|2123207900|2131774270|2139686600|2143612262|2147880316|2158899491|2250260145|2252024663|2293634267|2399456070|2402268235|2513222501|2964199361
+
+
+id:2578354947
+title:Neural personalized response generation as domain adaptation
+year:2019
+author information:[
+author name:Wei-Nan Zhang
+author organization:Harbin Institute of Technology
+author id:2119756314|
+author name:Qingfu Zhu
+author organization:Harbin Institute of Technology
+author id:2658422065|
+author name:Yifa Wang
+author organization:Harbin Institute of Technology
+author id:2686450570|
+author name:Yanyan Zhao
+author organization:Harbin Institute of Technology
+author id:2123415570|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+]
+abstract:small|data|language|stateoftheart|problem|rnn|judgment|personabased|model|robots|twophase|generate|results|conversation|generation|models|large|models|experimental|personal|propose|lack|pretrain|proposed|finetune|evaluate|neural|optimized|one|crucial|show|scale|training|personalized|encoderdecoder|seen|test|general|personalization|offline|aided|initialization|quasituring|human|responses|address|namely|automatic|data|approaches|outperforms|performance|response|conversational|first|novel
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Conversation|Domain adaptation|Computer science|Human judgment|Artificial intelligence|Initialization|Robot|Language model|Machine learning|Personalization
+references:10957333|128104045|305620562|889023230|1518951372|1591706642|1654173042|1775434803|1947758080|1948566616|1975244201|1993378086|1993471477|2022613648|2028783725|2046831886|2064054920|2064675550|2101105183|2114431967|2122514299|2130942839|2153579005|2157331557|2160458012|2161181481|2250558341|2250895046|2291723583|2294059674|2294684023|2296712013|2335122196|2407709678|2410983263|2470875822|2530901366|2551884415|2607239473|2740309605|2765617518|2803620531|2950902819|2963167310|2963206148|2963332597|2963963856|2964352131
+
+
+id:2585731554
+title:Constructing and Embedding Abstract Event Causality Networks from Text Snippets
+year:2017
+author information:[
+author name:Sendong Zhao
+author organization:Harbin Institute of Technology
+author id:2918201438|
+author name:Quan Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2713436602|
+author name:Sean Massung
+author organization:University of Illinois at Urbana-Champaign
+author id:284929341|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+author name:Bin Wang
+author organization:Chinese Academy of Sciences, Beijing, China
+author id:2690358303|
+author name:ChengXiang Zhai
+author organization:Illinois University
+author id:2152766206|
+]
+abstract:stateoftheart|problem|generalized|leveraging|represented|model|embed|models|method|propose|word|sophisticated|frequently|given|range|cooccurring|dual|feature|vector|power|embedding|event|predicting|discovering|representing|downstream|causeeffect|abstract|highlevel|transition|model|causality|matching|space|movement|novel|simple|rules|solution|continuous|stock|results|obtain|experimental|market|proposed|techniques|easytouse|prediction|demonstrate|behind|applied|link|network|effective|pairs|prediction|design|define|causal|applications|wide|learned|perform|specific|better|nodes|build|clustering|simplify|formally|applications
+venue name:Web Search and Data Mining
+venue id:1120384002
+venue type:C
+document type:Conference
+study fields:Data mining|Causality|Vector space|Embedding|Computer science|Theoretical computer science|Cluster analysis|Stock market
+references:177347127|1426956448|1491235195|1811279891|1991018417|1996430422|2018218137|2048968173|2065919272|2081580037|2102765684|2112177991|2117130368|2117831564|2126267628|2127795553|2132339004|2132870739|2135571184|2148847267|2154454189|2156954687|2158194939|2167187514|2180312923|2209967150|2250745907|2250836121|2251709641|2274308990|2283196293|2508664155
+
+
+id:2591945600
+title:Document representation and feature combination for deceptive spam review detection
+year:2017
+author information:[
+author name:Luyang Li
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, Harbin, China
+author id:2500859939|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Wenjing Ren
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, Harbin, China
+author id:2490652159|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+]
+abstract:designing|representation|stateoftheart|handcrafted|meaning|model|reviews|sentence|based|method|methods|latent|selection|semantic|crossdomain|document|products|linguistic|feature|composition|get|review|verify|customers|performance|detection|decision|learn|abstract|makes|spam|reveal|concerned|incorporate|harmful|compute|features|reviews|method|results|combination|comparing|weights|important|deceptive|hardly|present|however|making|deceptive|neural|importance|show|detect|representation|robustness|network|hard|make|value|enhance|effectiveness|process|outperform|mixeddomain|approaches|better|service|attention|existing
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Feature selection|Pattern recognition|Opinion spam|Computer science|Robustness (computer science)|Document representation|Feature combination|Artificial intelligence|Artificial neural network|Sentence|Machine learning|Feature learning
+references:22861983|42251416|1423339008|1488483520|1816079941|1845137714|1889268436|1960685374|1968836297|2016266039|2047756776|2059640750|2066055909|2089124807|2103063352|2105689297|2108671511|2112213600|2113417702|2120615054|2124637344|2125573226|2128272588|2130196635|2131462252|2132339004|2133280805|2137974413|2139148100|2158139315|2158899491|2159359879|2164019165|2169384781|2179021455|2218043766|2250539671|2250879510|2251030241|2251262990|2251645975|2251939518|2295506680|2346278349|2949547296|2949957935|2951840971|2953391617
+
+
+id:2610516509
+title:A Gaussian copula regression model for movie box-office revenues prediction
+year:2017
+author information:[
+author name:Junwen Duan
+author organization:Harbin Institute of Technology
+author id:2120253996|
+author name:Xiao Ding
+author organization:Harbin Institute of Technology
+author id:2122094799|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+]
+abstract:movie|numerous|approach|algorithm|models|using|distributed|dependency|work|probability|smoothed|correlations|propose|distributions|bridge|assumes|strong|datasets|two|uniform|us|vector|based|identically|address|learn|revisit|inference|cumulative|model|baselines|chinese|space|features|novel|joint|approximate|assumptions|features|prior|function|create|results|maps|need|experimental|learns|affected|estimation|market|task|computationalefficient|prediction|rarely|show|discriminative|investigate|factors|responsible|marginal|task|performances|make|limited|copula|perform|revenues|structure|factors|outperforms|multitype|regression|boxoffice|variable|previous|independently|gaussian
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Econometrics|Joint probability distribution|Regression|Inference|Regression analysis|Copula (probability theory)|Cumulative distribution function|Artificial intelligence|Discriminative model|Mathematics|Marginal distribution|Machine learning
+references:43143464|1565420920|1783061888|2003458432|2005372678|2012967345|2015186536|2020615055|2042860192|2092152913|2119436275|2123442489|2126267628|2131203126|2137226992|2137589082|2143017621|2143144711|2165571577|2171468534|2196791692|2251709641|2270262330|2294317440
+
+
+id:2745643029
+title:Personalized Microtopic Recommendation on Microblogs
+year:2017
+author information:[
+author name:Yang Li
+author organization:Harbin Institute of Technology
+author id:2618972893|
+author name:Jing Jiang
+author organization:University
+author id:2286546702|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+author name:Minghui Qiu
+author organization:Singapore Management University
+author id:2750074269|
+author name:Xiaofei Sun
+author organization:Harbin institute of technology, Harbin, China
+author id:2629966468|
+]
+abstract:contextual|called|realworld|builds|microtopic|model|usually|designate|based|give|collaborative|baseline|propose|tags|explicit|weibo|latent|regression|factorizationbased|utilize|competitive|evaluate|explicitly|needs|indicated|recommend|kinds|matrix|acquire|two|microtopics|personalized|challenges|adoption|top|feature|address|probabilistic|services|integrate|help|hashtags|recommending|efficiently|exists|information|interests|symbol|joint|using|sina|solution|create|directly|different|results|experimental|published|users|biographical|task|especially|circumstance|microtopics|nontrivial|page|allow|recommendation|behaviors|show|twitter|exhibits|best|investigate|content|microblogging|ratings|factor|commented|satisfy|clear|rich|outperforms|visited|information|significantly
+venue name:ACM Transactions on Intelligent Systems and Technology
+venue id:2492086750
+venue type:J
+document type:Journal
+study fields:Data mining|World Wide Web|Content analysis|Collaborative filtering|Information needs|Social media|Existential quantification|Computer science|Symbol|Microblogging|Topic model|Probabilistic logic
+references:155754185|1515084241|1553232534|1880262756|1966553486|1974778163|1979192143|1980672078|1992380306|2019177758|2023603028|2039613841|2040107208|2043403353|2048508267|2054141820|2054553473|2057763140|2061873838|2085826953|2094524282|2098697179|2101196063|2101409192|2104210067|2112056172|2115687369|2119825970|2120615054|2124187902|2135029798|2135790056|2137245235|2139750075|2142972908|2145131124|2157881433|2158515176|2206595451|2250475089|2252127435|2913932916|2950975304
+
+
+id:2767150988
+title:Encoding syntactic representations with a neural network for sentiment collocation extraction
+year:2017
+author information:[
+author name:Yanyan Zhao
+author organization:Harbin Institute of Technology
+author id:2123415570|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Computer Science and Technology Department, Harbin Institute of Technology, Harbin, China
+author id:2142255895|
+]
+abstract:numerous|experimental|semantics|relation|analyzing|relationships|deeply|model|reviews|method|methods|extraction|analysis|accurately|propose|constructed|latent|word|semantic|collocation|methods|experiments|representations|targets|two|recursive|cameras|embedding|connect|modifying|convolutional|product|explore|words|many|sentiment|integrate|subtree|regarded|information|combined|exploit|features|adopted|represent|use|used|mainly|syntactic|features|results|polarity|combine|collocations|baselines|word|capture|conducted|domains|relevant|enhanced|extract|task|refers|proposed|paths|basic|sentiment|behind|neural|hidden|relied|show|representation|network|relation|common|studies|syntacticpathbased|applications|included|types|aims|practical|six|featurebased|previous|rich|target|outperforms|path|corresponding|hotels|service|neither|previous|significantly
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Sentiment analysis|Computer science|Convolutional neural network|Recurrent neural network|Natural language processing|Collocation extraction|Artificial intelligence|Word embedding|Syntax|Semantics|Collocation
+references:2005624335|2009118069|2077620588|2107620532|2108646579|2116343275|2117176186|2132043663|2136566870|2150956310|2155454737|2159457224|2160660844|2250575108|2250999640|2251621831|2297405797|2407769879|2492583839|2538071921|2593051978|2949541494
+
+
+id:2776461464
+title:CCG supertagging via Bidirectional LSTM-CRF neural architecture
+year:2017
+author information:[
+author name:Rekia Kadari
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2752608127|
+author name:Yu Zhang
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+author id:2654335020|
+author name:Weinan Zhang
+author organization:Harbin Institute of Technology
+author id:2119756314|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2916645153|
+]
+abstract:networks|results|shortterm|memory|conditional|stateoftheart|without|thanks|number|problem|model|sentence|case|promising|sentence|models|lexical|neighborhoods|method|large|models|past|correlations|labels|input|categories|processing|assigned|word|evaluate|bidirectional|methods|achieve|gain|current|indomain|labeling|close|predicting|address|abstract|combining|many|great|model|machine|future|information|supertag|first|use|used|challenging|features|major|random|whether|tag|results|combination|level|widely|learns|sequence|handcrafted|sequence|task|supertagging|long|architecture|deep|learning|representation|field|marriage|influences|task|outofdomain|cases|ccg|label|due|achieved|uses
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Conditional random field|Architecture|Sequence labeling|Part of speech|Natural language processing|Artificial intelligence|Deep learning|Sentence|Mathematics|Machine learning
+references:1528941926|1850865022|1968836297|1969245183|1987937363|2046670074|2054867311|2064675550|2079735306|2102113734|2107878631|2110485445|2137871902|2147880316|2158139315|2158899491|2159636675|2187430830|2250489794|2251202616|2461708311|2466736553|2513222501|2563900099|2751776087|2760998155|2762383441|2786259876|2950133940|2950689855
+
+
+id:2802223636
+title:Learning to Recommend Related Entities With Serendipity for Web Search Users
+year:2018
+author information:[
+author name:Jizhou Huang
+author organization:Harbin Institute of Technology 8 Baidu Inc., Beijing, China
+author id:2716968339|
+author name:Shiqiang Ding
+author organization:Baidu, Inc, Beijing, China
+author id:2707910080|
+author name:Haifeng Wang
+author organization:baidu
+author id:2946695098|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2142255895|
+]
+abstract:extensive|entity|recommendation|collected|three|building|realworld|terms|serendipity|majority|method|impact|appreciation|methods|baseline|analysis|propose|web|boost|become|providing|strong|effectiveness|role|methods|experiments|recommend|engine|datasets|two|search|feature|discovering|set|sets|controlled|framework|powerful|assist|entity|commercial|engagement|several|used|employed|features|interestingness|different|unexpectedness|widely|conducted|finding|users|system|important|take|proposed|correlate|improve|keep|demonstrate|framework|aspects|show|reveals|contribute|learning|indispensable|candidate|related|engine|confirms|designed|effectiveness|plays|interesting|multiple|also|outperforms|existing|performance|ranking|consists|online|suggestions|significantly|user|account
+venue name:ACM Transactions on Asian and Low-Resource Language Information Processing
+venue id:2754632699
+venue type:C
+document type:Conference
+study fields:Web search engine|Recommender system|Ranking|Information retrieval|Computer science|User engagement|Feature set|Multiple baseline design|Serendipity
+references:1690919088|1759446372|1880262756|1971040550|1981825277|1984020883|2003513631|2009718036|2035968424|2040367556|2045453095|2061296752|2067728224|2069870183|2074680184|2082718666|2085337304|2093618034|2098361907|2111591037|2124591829|2128699418|2135645798|2143405681|2149427297|2150284260|2161676175|2162979096|2164646033|2168717408|2169113736|2251008987|2252076739|2408518877|2533180076|2536623018|2579123947|2739744472
+
+
+id:2807496096
+title:Entity Highlight Generation as Statistical and Neural Machine Translation
+year:2018
+author information:[
+author name:Jizhou Huang
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2716968339|
+author name:Yaming Sun
+author organization:Baidu, Inc, Beijing, China
+author id:2807103237|
+author name:Wei Zhang
+author organization:Baidu Inc
+author id:2752848966|
+author name:Haifeng Wang
+author organization:baidu
+author id:2946695098|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+]
+abstract:entity|without|evaluation|problem|terms|model|guide|successfully|evaluation|inspired|baseline|decoding|set|smt|evaluate|study|statistical|compare|strong|sentences|automatically|another|annotators|manual|two|characteristic|mechanism|entities|copy|one|highlights|machine|ask|entity|summarization|data|use|several|process|entityspecific|incorporate|create|generate|results|mechanisms|computational|test|experimental|develop|sequencetosequence|enhanced|refers|name|largescale|collect|neural|applied|instances|show|description|generating|learning|training|highlight|applications|coverage|multiple|automatic|also|approaches|outperforms|various|translation|descriptive|attention|significantly
+venue name:IEEE Transactions on Audio, Speech, and Language Processing
+venue id:199497470
+venue type:J
+document type:Journal
+study fields:Training set|Automatic summarization|Ask price|Computer science|Machine translation|Manual annotation|Speech recognition|Artificial intelligence|Natural language processing|Decoding methods|Test set
+references:1501931667|1623072288|1843891098|1869752048|2001122765|2036516910|2048207804|2064675550|2101105183|2103081392|2112077341|2118681326|2120814856|2122497354|2133564696|2143541936|2146574666|2147192413|2150284260|2153653739|2250361277|2250968833|2251654079|2296283641|2307381258|2399720833|2401226416|2410539690|2467173223|2507756961|2522143790|2557480356|2574872930|2579123947|2606974598|2611254175|2739744472|2741986820|2949335953|2949888546|2949896162|2950344723|2950580142|2962944953|2964165364
+
+
+id:2885765547
+title:A language-independent neural network for event detection
+year:2018
+author information:[
+author name:Xiaocheng Feng
+author organization:Harbin Institute of Technology
+author id:2224392042|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2142255895|
+]
+abstract:accurate|languages|fscore|experimental|semantics|approach|without|preexisting|knowledge|promising|natural|processing|competitive|word|encoded|average|achieve|automatically|tools|experiments|spanish|event|compared|detection|resources|ace|languages|learn|efficient|absolute|event|chinese|information|features|use|available|remains|language|contexts|languagespecific|features|languageindependent|results|train|manually|depended|language|capture|develop|encoding|difficulty|sequence|detector|neural|show|chunk|contexts|network|effective|relying|multiple|resources|approaches|heavily|specific|improvement|tools|english|various|challenge|previous|achieved|stateoftheart
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|English language|Natural language processing|Artificial intelligence|Artificial neural network|Detector|Semantics|Feature learning|Mathematics|Encoding (memory)
+references:6908809|179875071|752825483|1591801644|1816079941|2013842895|2102563561|2108743083|2115613106|2130714105|2131774270|2133564696|2134033474|2136939460|2144499799|2151372991|2153579005|2165516035|2165962657|2250521169|2250575108|2250966211|2250999640|2251803266|2252099293|2402871509|2512522169|2564139027|2566266660|2575345422|2587648059|2739918945|2740759433|2741405589|2766251611|2950752421|2953391617|2963171262
+
+
+id:2886493354
+title:A syntactic path-based hybrid neural network for negation scope detection
+year:2020
+author information:[
+author name:Lydia Lazib
+author organization:Harbin Institute of Technology
+author id:2514960703|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Yanyan Zhao
+author organization:Harbin Institute of Technology
+author id:2123415570|
+author name:Weinan Zhang
+author organization:Harbin Institute of Technology
+author id:2119756314|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2142255895|
+]
+abstract:bioscope|outperforming|fscore|approach|without|relation|path|context|model|sentence|shortest|sentence|natural|dependency|cue|intervention|processing|evaluate|particularity|cnn|featuresdependent|long|trees|get|architecture|convolutional|detection|question|within|approaches|forward|directions|combines|abstract|token|information|novel|negation|medical|bidirectional|data|language|shortterm|syntactic|features|whether|backward|including|learns|capture|relevant|task|hybrid|present|bilstm|sentiment|memory|analysis|neural|crucial|representation|network|along|salient|scope|human|identify|determine|captures|relying|automatic|parse|constituency|pathbased|widerange
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:Question answering|Sentiment analysis|Convolutional neural network|Computer science|Recurrent neural network|Hybrid neural network|Natural language processing|Artificial intelligence|Parsing|Syntax|Sentence|Machine learning
+references:13254153|179875071|1540017823|1574147753|1750263989|1782003667|1940872118|1982464493|2035703356|2064675550|2079735306|2097606805|2102113734|2105827650|2115915625|2123207900|2131774270|2135932125|2136566870|2139865360|2142786899|2147880316|2158899491|2172140247|2250521169|2250966211|2251135946|2251826083|2293634267|2402268235|2491832692|2508309896|2511964075|2513222501|2566847560|2751776087|2776461464|2964217331
+
+
+id:2888296742
+title:CausalTriad: Toward Pseudo Causal Relation Discovery and Hypotheses Generation from Medical Text Data
+year:2018
+author information:[
+author name:Sendong Zhao
+author organization:Harbin Institute of Technology
+author id:2918201438|
+author name:Meng Jiang
+author organization:University of Notre
+author id:2739650308|
+author name:Ming Liu
+author organization:Harbin Institute of Technology
+author id:2766338930|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2142255895|
+]
+abstract:called|issues|three|relation|four|casual|model|text|pseudo|utilized|knowledge|models|extraction||propose|causation|among|implicit|sentences|datasets|two|literature|across|spanning|address|within|deriving|makes|structures|possible|data|many|textual|single|transitivity|discovery|relations|unseen|clues|represent|proposing|medical|data|recognizing|rules|incorporate|observe|find|triad|generate|results|discover|new|created|experimental|often|mining|expressions|heart|graph|proposed|infer|considered|demonstrate|rule|structures|relations|capable|hypotheses|effective|structural|lies|studies|causal|factor|highly|types|multiple|follow|uses|causaltriad|existing
+venue name:International Conference on Bioinformatics
+venue id:1199066382
+venue type:C
+document type:Conference
+study fields:Factor graph|Expression (mathematics)|Computer science|Causal relations|Causation|Natural language processing|Artificial intelligence|Machine learning|Transitive relation
+references:141818611|826376736|1811279891|1850984366|1933502375|1991018417|1993352447|2040298461|2097553584|2105892820|2116343275|2123442489|2165582599|2209967150|2250539671|2251622960|2361177933|2508239101|2585731554|2950133940|2963020213
+
+
+id:2892426044
+title:Mining predicate-based entailment rules using deep contextual architecture
+year:2019
+author information:[
+author name:Maosheng Guo
+author organization:Harbin Institute of Technology
+author id:2761791202|
+author name:Yu Zhang
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+author id:2654335020|
+author name:Dezhi Zhao
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2763129115|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+]
+abstract:contextual|networks|named|modeling|numerous|accuracy|extracting|context|corpora|represented|model|text|knowledge|give|natural|method|predicatebased|deep|latent|driven|consideration|rules|word|mined|distributional|semantic|statistical|strong|role|besides|inference|utilizing|kinds|datasets|natural|contextual|many|question|learn|abstract|could|downstream|involve|meanings|baselines|reasoning|machine|novel|essential|summarization|embeddings|semantic|several|language|rules|used|brings|shows|dirichlet|potential|entailment|belief|dedicated|evaluation|including|dca|demonstrates|architecture|level|proposes|often|mining|texts|predicates|efforts|task|proposed|instability|solve|topic|inseparable|benefits|representation|processing|language|allocation|paper|previously|combining|public|studies|applications|coverage|plays|reading|also|outperforms|equal|better|form|dbns|hypothesis|methodology
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Automatic summarization|Latent Dirichlet allocation|Question answering|Inference|Deep belief network|Text corpus|Natural language|Artificial intelligence|Rule of inference|Machine learning|Mathematics
+references:73548137|126404662|1965605789|2012180588|2096093447|2141599568|2142472409|2167187514|2168185617|2170848905|2250539671|2251771443|2402770933|2413794162|2523467643|2612953412|2757675222|2758402995|2770027931|2806771447|2950133940|2963077723
+
+
+id:2892428709
+title:Collective entity linking: a random walk-based perspective
+year:2019
+author information:[
+author name:Ming Liu
+author organization:Harbin Institute of Technology
+author id:2766338930|
+author name:Yanyan Zhao
+author organization:School of Mechatronics Engineering , Harbin Institute of Technology , Harbin, China
+author id:2123415570|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:School of Computer Science and Technology
+author id:2142255895|
+]
+abstract:measured|facing|called|accurate|considered|walkbased|accuracy|approach|without|turns|via|relationships|meaning|usually|algorithm|based|large|linking|considering|way|traditional|mentions|assigned|boost|algorithm|appearing|word|much|methods|consume|hot|two|mention|speed|grasp|low|entities|collective|relationship|together|problem|one|change|context|help|entities|mention|complete|connecting|entity|novel|several|either|submatrix|graph|results|simplifying|obtain|meanwhile|resource|like|experimental|proposes|researching|conducted|modeled|often|users|graph|task|proposed|improve|cooccur|name|topic|demonstrate|searching|scale|constructs|running|random|related|paper|amount|determine|calculating|refer|due|hillclimbingbased|suitable|time
+venue name:Knowledge and Information Systems
+venue id:81770430
+venue type:J
+document type:Journal
+study fields:Entity linking|Hill climbing|Graph|GRASP|Computer science|Random walk|Theoretical computer science|Artificial intelligence|Machine learning
+references:11298561|86887328|156722351|177796033|192652968|1491268609|1574911124|1888005072|1964189668|1988157164|2002371870|2009169514|2026810221|2028007965|2035563511|2043030433|2058229264|2065110301|2085337304|2091950909|2099370490|2108614537|2111708605|2115352105|2123561513|2132313482|2135451108|2151048449|2154851992|2155461593|2157191138|2162362997|2162638401|2165266976|2166036954|2250346262|2250481150|2252052301|2393319904|2395701147|2515343214|2525136786
+
+
+id:2901578516
+title:Topical Co-Attention Networks for hashtag recommendation on microblogs
+year:2019
+author information:[
+author name:Yang Li
+author organization:Northeast Forestry University
+author id:2906515184|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+author name:Jingwen Hu
+author organization:Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2901142793|
+author name:Jing Jiang
+author organization:University
+author id:2286546702|
+]
+abstract:dataset|focus|realworld|score|coattention|network|model|recent|guide|models|based|natural|large|depends|methods|topical|sense|baseline|propose|attention|jointly|years|provide|adopt|processing|competitive|microblog|microblogs|much|recommending|experiments|coattention|motivated|mechanism|gives|compared|lstm|learn|abstract|many|fast|increasing|organizing|features|novel|standard|incorporation|topical|use|simple|language|used|research|growing|unlike|different|results|given|settings|test|experimental|handcrafted|task|topic|hashtags|neural|show|representation|content|network|post|successful|previous|improvement|way|outperforms|conduct|various|hashtags|attention|along|tcan|services|significantly
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:F1 score|Social media|Microblogging|Artificial intelligence|Artificial neural network|Mathematics|Machine learning
+references:267713309|374414124|1522301498|1553232534|1683269307|1974778163|2003018928|2027323723|2031237011|2064675550|2103567420|2112056172|2112251034|2115687369|2118463056|2133564696|2137553870|2142920810|2148815800|2149510050|2160692033|2162107206|2168332560|2170414372|2206595451|2211192759|2221711388|2250475089|2250966211|2251376423|2472234281|2532443329|2577986441|2578396138|2727712598|2739671343|2805349826|2949615363|2950133940|2951527505|2963668159
+
+
+id:2946545670
+title:Story Ending Prediction by Transferable BERT
+year:2019
+author information:[
+author name:Zhongyang Li
+author organization:
+author id:2766894288|
+author name:Xiao Ding
+author organization:
+author id:2122094799|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2916645153|
+]
+abstract:select|comparative|accuracy|stateoftheart|three|action|model|tasks|knowledge|based|give|models|still|natural|methods|baseline|analysis|propose|experiments|systems|utilizing|experiments|fundamental|kinds|nlp|get|initialization|enables|downstream|model|several|framework|operation|story|data|strength|transferable|gpt|language|shows|shown|unlabeled|dramatically|helpful|train|semantically|finetuning|including|take|ending|transfer|task|success|improve|prediction|final|largescale|problems|next|sentiment|bertbased|pretrained|transformer|training|investigate|recent|general|weakness|related|prediction|task|bert|incorporating|previous|effectively|error|also|specific|target|outperforms|better|supervised|conduct|various|suggestions
+venue name:arXiv: Computation and Language
+venue id:2596401190
+venue type:J
+document type:Repository
+study fields:Computer science|Artificial intelligence|Natural language processing|Initialization|Strengths and weaknesses|Language model|Machine learning|Natural language inference
+references:2113459411|2136189984|2295072214|2466175319|2607892599|2626778328|2739505524|2739677784|2740702290|2758815496|2787560479|2799054028|2799313190|2831850043|2896457183|2909205211|2953084091|2963159690|2963560082|2964008635|2966584111
+
+
+id:2952562689
+title:Chinese Zero Pronoun Resolution: A Collaborative Filtering-based Approach
+year:2019
+author information:[
+author name:Qingyu Yin
+author organization:Harbin Institute of Technology
+author id:2364554682|
+author name:Weinan Zhang
+author organization:Harbin Institute of Technology
+author id:2119756314|
+author name:Yu Zhang
+author organization:Harbin Institute of Technology, Harbin, Heilongjiang, China
+author id:2654335020|
+author name:Ting Liu
+author organization:Harbin Institute of Technolgy, Harbin, Heilongjiang, PRC
+author id:2916645153|
+]
+abstract:resolvers|semantics|resolution|surpasses|model|calculate|based|thus|collaborative|noun|isolation|baseline|propose|antecedents|traditional|substantially|ontonotes|semantic|systems|portion|proven|neuralnetworkbased|address|necessary|makes|similarities|framework|exploring|chinese|information|filteringbased|phrases|first|almost|rationally|semantic|corpus|reciprocities|reestimate|antecedents|zero|importance|overlooks|results|ignored|resolver|typically|experimental|develop|basis|reciprocities|proposed|pronouns|impossible|capable|generating|singlecandidate|candidate|common|pronoun|convey|considers|approaches|existing|descriptive|vectorspace
+venue name:ACM Transactions on Asian and Low-Resource Language Information Processing
+venue id:2754632699
+venue type:C
+document type:Conference
+study fields:Pronoun|Collaborative filtering|Computer science|Semantic information|Artificial intelligence|Natural language processing|Proper noun|Pronoun resolution|Semantics
+references:131501223|179875071|204341599|1544827683|1547352342|1843891098|1966553486|1973812756|1999047234|2001812656|2021692535|2030144199|2038245978|2039813897|2042281163|2042926703|2064675550|2077810047|2087946919|2094208051|2098132066|2100757683|2118463056|2123024554|2124591829|2127426251|2132339004|2133258739|2143922751|2158831095|2161771536|2196463948|2250555572|2250701745|2251229550|2251261828|2251357896|2251784867|2252071042|2398584644|2418403507|2512290434|2962769558
+
+
+id:2961010423
+title:Deep Contextualized Word Embeddings for Universal Dependency Parsing
+year:2019
+author information:[
+author name:Yijia Liu
+author organization:Harbin Institute of Technology
+author id:2106334948|
+author name:Wanxiang Che
+author organization:Harbin Institute of Technology
+author id:2096786427|
+author name:Yuxuan Wang
+author organization:Harbin Institute of Technology, Harbin, Heilongjiang, China
+author id:2565182546|
+author name:Bo Zheng
+author organization:Harbin Institute of Technology, Harbin, Heilongjiang, China
+author id:2739693874|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Harbin Institute of Technolgy, Harbin, Heilongjiang, PRC
+author id:2142255895|
+]
+abstract:tagging|tagger|focus|stateoftheart|problem|model|simulate|tasks|using|dependency|baseline|deep|analysis|pos|word|semantic|average|improvements|experiments|severe|result|lot|nlp|known|ability|based|emerging|outofvocabulary|consistent|oov|improvements|embeddings|elmo|incorporate|mainly|datainsufficient|syntactic|lowresource|problems|results|settings|static|experimental|conducted|abstraction|contributes|parsing|success|leads|effect|bunch|replacement|little|deep|additional|show|reveals|representation|effective|language|responsible|contextualized|advantage|abstraction|characterlevel|outperforms|better|performance|typical|short|achieved|syntax
+venue name:ACM Transactions on Asian and Low-Resource Language Information Processing
+venue id:2754632699
+venue type:C
+document type:Conference
+study fields:Word representation|Abstraction|Visualization|Computer science|Dependency grammar|Natural language processing|Artificial intelligence|Syntax|Language model
+references:194033037|1491975949|1632114991|1860935423|1992164860|2008652694|2048500237|2064675550|2105847779|2114887620|2134036914|2135439442|2250539671|2493916176|2511730936|2552110825|2567070169|2579343286|2596532918|2626778328|2739827909|2740711318|2797051334|2798539546|2799222909|2880875857|2896457183|2898879711|2914924671|2917956622|2921848006|2949650786|2950133940|2950344723|2950405925|2953369973|2962739339|2963026768
+
+
+id:2981901026
+title:Structural Influence Maximization in Social Networks
+year:2019
+author information:[
+author name:Dong Jing
+author organization:Harbin Institute of Technology
+author id:2981384975|
+author name:Ting Liu
+author organization:Harbin Institute of Technology
+author id:2981510338|
+]
+abstract:maximization|experimental|integer|research|influence|number|problem|shows|find|widespread|model|consider|results|theoretical|algorithm|models|new|development|goal|large|expected|effective|appeared|weights|analysis|effects|propagation|proposed|leads|solve|influence|topic|become|problems|algorithms|seed|studied|given|according|show|networks|network|independently|related|structural|influences|activating|definition|popular|social|efficient|caused|edges|heuristic|k|model|lots|nodes|interests|maximum|previous|information|novel|activated
+venue name:Green Computing and Communications
+venue id:2758502524
+venue type:C
+document type:Conference
+study fields:Integer|Mathematical optimization|Heuristic|Social network|Computer science|Expected value|Information propagation|Maximization
+references:1552414050|1984069252|1990570693|2018984973|2049428368|2061820396|2107559689|2108858998|2141403143|2166408466|2472664708|2492435958|2526910689|2604996434|2612735401|2614040945|2743999154
+
+
+id:3005235747
+title:CTGA: Graph-based Biomedical Literature Search
+year:2019
+author information:[
+author name:Tianwen Jiang
+author organization:
+author id:3005461067|
+author name:Zhihan Zhang
+author organization:
+author id:3005491409|
+author name:Tong Zhao
+author organization:University of Notre Dame
+author id:2951824295|
+author name:Bing Qin
+author organization:Harbin Institute of Technology
+author id:2098930276|
+author name:Ting Liu
+author organization:Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+author id:2142255895|
+author name:Nitesh V. Chawla
+author organization:University of Notre
+author id:1979796846|
+author name:Meng Jiang
+author organization:University of Notre
+author id:2911519267|
+]
+abstract:shift|extracted|three|objective|ctga|engines|text|utilized|knowledge|algorithm|based|models|extraction|traditional|system|concepts|adopt|bridge|tuples|cabased|document|bls|turn|acquire|experiments|measurement|matching|querydocument|literature|tuple|search|systems|structured|linked|efficient|one|structures|words|biomedical|graphbased|information|pubmed|return|performs|documents|graph|factual|level|query|informative|develop|graph|phrases|proposed|content|scientists|knowledge|carry|neural|paradigm|knowledgebased|concept|show|content|represents|effective|search|related|algorithms|similarity|design|unstructured|gap|subjective|relying|argue|heavily|better|uses|significantly|forms|existing
+venue name:Bioinformatics and Biomedicine
+venue id:1156210184
+venue type:C
+document type:Conference
+study fields:Graph|Knowledge graph|Search algorithm|Information retrieval|Computer science|Tuple|Paradigm shift|Information extraction|Artificial intelligence|Machine learning|Blossom algorithm
+references:1486649854|2021581601|2069870183|2101105183|2102672399|2104381725|2132784310|2147558260|2151356080|2159537329|2160266360|2250539671|2251924674|2728003555|2767810319|2804425727|2805208465|2808142148|2811124557|2913250225|2945924302|2963782023|2988402184
+
+
+id:565161688
+title:Exploring community structure of software Call Graph and its applications in class cohesion measurement
+year:2015
+author information:[
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Lidan Wang
+author organization:Xi’an Jiaotong University
+author id:2556458205|
+author name:Yuqiao Hou
+author organization:Xi’an Jiaotong University
+author id:2139734568|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+]
+abstract:software|faults|structure|finds|experiment|complex|network|intraclass|exhibit|give|natural|method|large|dependency|baseline|community|comprehension|propose|practitioners|granularity|convince|adopt|evaluating|metrics|programs|formed|systems|methods|practices|objectoriented|networks|two|measurement|systems|comparison|many|based|compared|validate|densely|java|approaches|abstract|structures|practices|connected|call|calls|able|combined|findings|existence|divisions|function|directly|nodes|new|cohesiveness|engineering|significant|improving|measure|proposed|relatively|software|class|helps|cohesion|useful|networked|needed|additional|subgroup|show|structures|network|cohesion|metrics|predict|class|derived|programs|characteristics|wide|effectively|also|opensource|structure|existing|application|applications
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Cohesion (chemistry)|Data mining|Community structure|Software engineering|Systems engineering|Computer science|Node (networking)|Call graph|Software|Dependency network|Complex network|Java
+references:1899594931|1972458945|1984374364|1995104556|1997608223|2000400110|2014412501|2015029815|2016261531|2019009588|2028793581|2041404167|2047345132|2061144526|2070008347|2070787093|2076113995|2082171899|2085761620|2089800021|2098005762|2115993542|2117412805|2123551785|2124418175|2127048411|2128666163|2128939007|2129581792|2131717044|2132254251|2141490615|2144433126|2145416273|2146019379|2158864412|2161585937|2170680528
+
+
+id:1609987939
+title:A layered classification for malicious function identification and malware detection
+year:2012
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Yanan Sun
+author organization:Xian Jiaotong University
+author id:2117062715|
+]
+abstract:antivirus|products|functions|called|john|without|uplevelclassifier|terms|wiley|malwares|unprejudiced|signaturebased|using|method|typefunction|containing|signatures|classification|millions|knowing|programs|algorithms|experiments|industry|machine|unknown|proved|benign|lowlevelclassifier|naive|compared|detection|malware|decision|accuracy|describe|dataset|mature|developed|tremendous|employed|copyright|apicalls|whether|function|results|new|boosting|test|applicable|identification|produced|hybrid|production|proposed|techniques|detecting|demonstrate|framework|challenges|applied|according|description|detect|learning|layered|malicious|effective|ltd|malware|programs|identify|perform|constituting|structure|outperforms|twolayer|comprehensive
+venue name:Concurrency and Computation: Practice and Experience
+venue id:11065456
+venue type:J
+document type:Journal
+study fields:Cryptovirology|Decision tree|Data mining|Naive Bayes classifier|Computer science|Network security|Boosting (machine learning)|Malware
+references:1884606608|1991001460|1996209007|2020880787|2029272944|2091618476|2103464385|2116237179|2128637026|2129650357|2132166479|2139688842|2144112223|2152405295|2152442131|2155653793
+
+
+id:1970320668
+title:DKISB: Dynamic Key Instruction Sequence Birthmark for Software Plagiarism Detection
+year:2013
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+]
+abstract:software|experimental|program|optimization|instrumentation|flow|based|plaintiff|closely|plagiarism|resilient|analysis|programing|quality|system|strong|kinds|tools|weak|diversity|systems|operating|based|key|detection|decision|birthmarks|produce|face|automated|pin|series|instruction|able|open|techniques|sand|data|generates|reflecting|birthmarks|source|mark|dkisb|high|either|defendant|serious|dynamic|results|semanticpreserving|development|making|like|introducing|intrinsic|sequence|techniques|software|burst|correlated|code|absence|provided|according|show|effective|theft|similarity|compiler|obfuscation|make|industry|way|existing|proposed|healthy|various|threat|properties|birthmark
+venue name:High Performance Computing and Communications
+venue id:1148948064
+venue type:C
+document type:Conference
+study fields:Static program analysis|Programming language|Plagiarism detection|Computer science|Source code|Obfuscation (software)|Obfuscation|Software construction|Software framework|Software development|Distributed computing
+references:1500616534|1863385414|1995739251|2019763646|2021673689|2038159719|2084201645|2086968222|2107697055|2108551812|2120322286|2127020518|2128782367|2134633067|2138756793|2145657894
+
+
+id:1971641298
+title:In-depth measurement and analysis on densification power law of software execution
+year:2014
+author information:[
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Jian Li
+author organization:Xian Jiaotong University
+author id:2680312006|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+]
+abstract:measured|software|explanation|number|usually|tasks|grows|based|densification|graph|relation|appropriate|dpl|discovered|believe|measurement|feature|denser|systems|reported|close|means|java|call|linear|makes|statically|consistent|many|metric|series|cannot|power|law|verified|process|growing|graphs|dynamic|always|given|comparison|static|modeled|engineering|becomes|important|networked|universality|complexity|show|derived|execution|studied|edges|opensource|super|correlation|nodes|obey|measuring|showing|properties
+venue name:Workshop on Emerging Trends in Software Metrics
+venue id:2625859420
+venue type:C
+document type:Conference
+study fields:Computer science|Parallel computing|Software system|Call graph|Software metric|Universality (philosophy)|Programming complexity|Java|Power law|Software sizing
+references:83935134|1995104556|2016261531|2064277303|2108614537|2111708605|2128939007|2144433126|2148606196
+
+
+id:1972990219
+title:Prototype Demonstration: Trojan Detection and Defense System
+year:2009
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ke Lu
+author organization:Xian Jiaotong University
+author id:2662985044|
+author name:Yuanfeng Song
+author organization:Xian Jiaotong University
+author id:2316958405|
+author name:Weizhan Zhang
+author organization:Xian Jiaotong University
+author id:2575105220|
+]
+abstract:disk|quickly|several|monitored|analyzing|apicalls|find|capturing|signaturebased|results|confidential|testing|searches|trojans|system|irps|important|traditional|trojan|files|evaluating|accurately|access|rather|show|detect|unknown|machinelearning|mechanism|paper|defense|defend|regular|detection|processes|contain|could|request|distinguished|prototype|ones|information|novel|presents
+venue name:Consumer Communications and Networking Conference
+venue id:1136042413
+venue type:C
+document type:Conference
+study fields:Confidentiality|Computer science|Computer security|Network packet|Network security|Computer network|Software|Trojan
+references:2144112223
+
+
+id:1985653499
+title:A Dynamic Secret-Based Encryption Scheme for Smart Grid Wireless Communication
+year:2014
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yang Liu
+author organization:Xian Jiaotong University
+author id:2682730943|
+author name:Yashan Mao
+author organization:Xian Jiaotong University
+author id:2312601620|
+author name:Yao Sun
+author organization:University of Toronto
+author id:2695181420|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Weibo Gong
+author organization:Massachusetts University
+author id:2118959496|
+author name:Sheng Xiao
+author organization:University of Massachusetts
+author id:2440357917|
+]
+abstract:introduces|packets|loss|would|experiment|communication|based|inevitable|packet|system|secretbased|shared|scheme|secret|two|smart|challenges|encryption|low|causes|power|key|many|adversary|grid|sides|information|retransmission|wireless|rapid|retransmitted|protocol|updating|generated|dynamic|problems|communication|key|results|offers|marked|keys|employing|coded|vision|sequence|achieving|parties|benefits|applied|concept|show|impossible|privacy|update|demo|platform|network|prevent|security|design|integrating|missing|track|designed|zigbee|previous|also|realizing|platform|misjudging|wireless
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Wireless|Smart grid|Cryptography|Computer science|Retransmission|Network packet|Computer network|Packet loss|Encryption|Key (cryptography)
+references:1523756834|1919704434|1973309971|1980256734|2011284636|2017179140|2033630799|2055817410|2066175361|2078240158|2087969167|2091457677|2114440979|2115710963|2119856652|2122941544|2154663898|2163713983|2170008284
+
+
+id:1986166411
+title:A residential load scheduling approach based on load behavior analysis
+year:2014
+author information:[
+author name:Siyun Chen
+author organization:University Xian
+author id:2657460588|
+author name:Feng Gao
+author organization:an Jiaotong University
+author id:2566136330|
+author name:Xiaohong Guan
+author organization:University Xian
+author id:2119048549|
+author name:Ting Liu
+author organization:MOE KLINNS Lab of Xian Jiaotong University
+author id:2590685047|
+author name:Yulin Che
+author organization:Xian jiaotong university
+author id:2228629198|
+author name:Yuqi Liu
+author organization:Xian jiaotong university
+author id:2229062280|
+]
+abstract:optimal|residential|building|uncertain|identification|price|record|estimate|weather|state|energy|reduce|based|models|method|considering|profile|electrical|analysis|demand|status|methods|appliances|personalized|current|operating|relationship|behavior|minimize|preferences|data|great|comfort|simulations|residential|household|operation|historical|used|scheduling|dynamic|consider|obtain|discover|new|given|difficult|real|three|proposed|daily|customers|demonstrate|appliance|applied|according|load|saving|behavior|human|designed|requirements|cost|featurebased|identify|multidimensional|significance|environment|performance|various|condition|time|strategy
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Load balancing (electrical power)|Simulation|Electricity|Load profile|Harmonic analysis|State model|Engineering|Load scheduling|Load control switch|Reliability engineering|Weather condition
+references:1988916105|2013601308|2016085523|2034099522|2068060907|2076115766|2078940037
+
+
+id:2001486191
+title:An Entropy-based Method for Attack Detection in Large Scale Network
+year:2014
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Zhiwen Wang
+author organization:Xi’an Jiaotong University
+author id:2627710816|
+author name:Haijun Wang
+author organization:Xi’an Jiaotong UniversityXi’an
+author id:2670730470|
+author name:Ke Lu
+author organization:Xi’an Jiaotong UniversityXi’an
+author id:2695841001|
+]
+abstract:employ|numerous|accuracy|number|experiment|per|efficiency|large|method|ip|alerts|analyze|rate|detection|examine|distribution|result|fuse|entropy|snort|low|attack|detection|attack|vector|renyi|attacks|generates|use|source|shannon|deploy|average|employed|high|shows|attacks|ids|huge|jiaotong|including|typically|campus|datagram|real|gather|especially|proposed|university|intrusion|part|destination|scale|detect|system|network|hour|alert|cclass|false|length|cross|monitor|entropybased|challenge|threat
+venue name:International Journal of Computers Communications  Control
+venue id:147751515
+venue type:J
+document type:Journal
+study fields:Cross entropy|Data mining|Ip address|Campus network|Computer science|Network security|Fuse (electrical)|Entropy (information theory)|Intrusion detection system|Datagram
+references:1576154654|2041404167|2085533912|2148808905|2155653793|2345961355
+
+
+id:2009725304
+title:SEDE: state estimation-based dynamic encryption scheme for smart grid communication
+year:2014
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yuhong Gui
+author organization:Xian Jiaotong University
+author id:2662147585|
+author name:Yanan Sun
+author organization:Xian Jiaotong University
+author id:2117062715|
+author name:Yang Liu
+author organization:Xian Jiaotong University
+author id:2682730943|
+author name:Yao Sun
+author organization:University of Toronto
+author id:2695181420|
+author name:Feng Xiao
+author organization:Shanghai Jiaotong university
+author id:2663528121|
+]
+abstract:measured|functions|considered|improves|desirable|encryption|realtime|would|state|generation|using|simulated|terminals|hampering|system|provide|estimation|etc|exchanged|estimationbased|control|scheme|grid|smart|measurement|encryption|encrypt|power|key|decision|lightweight|observably|great|several|advantages|sede|grid|information|tampering|decrypt|essential|highsecurity|simple|used|secure|employed|attacks|communication|generate|calculated|stability|secrets|technologies|estimation|vision|never|proposed|state|demonstrate|dynamic|applied|gird|error|symmetric|states|network|malicious|security|relies|impose|common|grids|process|center|control|heavily|command|correction|due|infrastructure|various|threat|injection
+venue name:ACM Symposium on Applied Computing
+venue id:2754781246
+venue type:C
+document type:Conference
+study fields:Symmetric-key algorithm|Key generation|Eavesdropping|Smart grid|Computer science|Code injection|Electric power system|Encryption|Hash function|Distributed computing
+references:1523756834|1973309971|1985653499|2011284636|2047908524|2066175361|2085627628|2170659658
+
+
+id:2016261531
+title:Calling Network: A New Method for Modeling Software Runtime Behaviors
+year:2015
+author information:[
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Jianliang Zhou
+author organization:Xian Jiaotong University
+author id:2435789578|
+author name:Jian Li
+author organization:Xian Jiaotong University
+author id:2680312006|
+]
+abstract:software|whole|realworld|identification|network|model|models|densification|method|module|local|encodes|version|graph|provide|analyze|inefficient|embodied|calling|experiments|entropy|complicated|consisted|behavior|based|call|java|set|one|structures|systematic|cn|model|call|series|growing|powerlaw|power|becoming|data|several|modern|either|frequencies|dynamic|stability||new|behaviors|patterns|degree|runtime|conducted|sequence|significant|system|lack|proposed|failure|show|monitoring|value|execution|diagnosis|process|interesting|also|considerations|perspectives|entropy|existing|presents|applications
+venue name:ACM Sigsoft Software Engineering Notes
+venue id:186921487
+venue type:J
+document type:Journal
+study fields:Graph|Software behavior|Computer science|Software system|Call graph|Theoretical computer science|Software|Degree distribution|Software visualization|Java|Distributed computing
+references:83935134|1544632947|1598567364|1610570299|1899594931|1972458945|2010636948|2070787093|2076113995|2080593426|2082722400|2096449544|2103318645|2107484131|2108614537|2111708605|2124081952|2124418175|2128939007|2130830290|2144433126|2145416273|2148606196
+
+
+id:2047908524
+title:Security risks evaluation toolbox for smart grid devices
+year:2013
+author information:[
+author name:Yang Liu
+author organization:Xian Jiaotong University
+author id:2682730943|
+author name:Jiahe Liu
+author organization:Xian Jiaotong University
+author id:2229578760|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Yanan Sun
+author organization:Xian Jiaotong University
+author id:2117062715|
+]
+abstract:verified|remote|developed|issues|generated|state|communication|potential|devices|list|attention|decisionmaking|toolbox|evaluate|systems|numerous|control|applied|attract|scan|deployed|storage|smart|security|mechanism|authentication|analyzed|monitor|devices|risks|grid|vulnerabilities|risk
+venue name:ACM Special Interest Group on Data Communication
+venue id:1152462849
+venue type:C
+document type:Conference
+study fields:Remote control|Authentication|Smart system|Smart device|Smart grid|Computer security|Computer science|Toolbox|Open Smart Card Development Platform|Communications protocol|Embedded system
+references:1973309971|2005028112|2130427718
+
+
+id:2053851330
+title:An Identity Authentication Mechanism Based on Timing Covert Channel
+year:2012
+author information:[
+author name:Yanan Sun
+author organization:Xian Jiaotong University
+author id:2117062715|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+]
+abstract:advanced|accuracy|transmitted|packets|crack|experiment|identity|covert|text|method|implanted|thresholds|analyze|timing|proves|exploits|leak|encryption|identity|noise|sending|verify|indicate|protect|mechanism|key|could|attackers|many|theft|confirm|hacker|information|secure|shows|method|huge|different|new|tags|channel|originally|difficult|users|intervals|proposed|tcc|techniques|fraud|forge|cryptanalysis|forging|since|applied|technique|attackers|platform|network|applications|designed|authentication|cipher|transmit|also|although|way|factors|efficiency|various|information|uses|time|user
+venue name:Trust, Security And Privacy In Computing And Communications
+venue id:2626753082
+venue type:C
+document type:Conference
+study fields:Authentication|Eavesdropping|Computer security|Computer science|Cryptography|Covert channel|Network security|Computer network|Cryptanalysis|Encryption|Identity management
+references:9038322|62210294|1579876420|1972737102|2030653120|2042915591|2099137371|2107655538|2120467192|2128628587|2131588610|2150092124|2151185692|2157428729|2169194339|2170979474
+
+
+id:2071779312
+title:Plagiarism detection for multithreaded software based on thread-aware software birthmarks
+year:2014
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Xiaodong Zhang
+author organization:Xian Jiaotong University
+author id:2611610978|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+]
+abstract:increasingly|software|empirical|plague|approach|without|advances|instrumentation|exhibit|hardware|order|based|plagiarism|remain|benefit|system|turning|must|extracts|programs|presenting|become|study|strong|availability|two|multicore|resilience|key|detection|approaches|birthmarks|continued|prototype|pin|progress|cannot|first|exponential|calls|instructions|redesign|tremendous|second|shows|scheduling|implemented|dynamic|throughput|consider|starts|fills|new|semanticpreserving|obfuscations|multithread|significant|proposed|effect|framework|code|applied|inexpensive|multithreaded|optimized|sequential|development|detect|point|computing|paper|gap|programs|industry|effectively|although|approaches|thread|existing|various|presents|applications|birthmark
+venue name:International Conference on Program Comprehension
+venue id:1159024683
+venue type:C
+document type:Conference
+study fields:Software engineering|Thread scheduling|Plagiarism detection|Computer science|Thread (computing)|Software|Throughput|Multi-core processor|Software development|Empirical research
+references:1863385414|1970320668|1985205072|1986108510|1995739251|1998517692|2019763646|2021673689|2031052551|2038159719|2081561469|2084201645|2107697055|2108551812|2117583561|2120724609|2125980283|2134633067|2136833842|2145657894|2146659255|2544139045
+
+
+id:2072152092
+title:Bad data detection method for smart grids based on distributed state estimation
+year:2013
+author information:[
+author name:Yun Gu
+author organization:Xian Jiaotong University
+author id:2466710729|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Dai Wang
+author organization:University
+author id:2158209431|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Zhanbo Xu
+author organization:Jiaotong University
+author id:2114835860|
+]
+abstract:named|bad|considered|three|energy|reduce|based|method|dsebased|injection|economy|traditional|system|cases|device|bdi|grid|grid|respectively|distribution|smart|attack|detection|power|detection|observation|could|analyzed|theft|smart|exploiting|lead|subsystem|distributed|matpower|dispatch|data|several|subsystem|chisquares|helpful|potential|results|ieee|new|test|might|estimation|identification|proposed|state|demonstrate|errors|locate|applied|breakdown|divided|dangerous|detect|generation|security|end|designed|cases|bad|false|data|specific|bypass|cyber|risks|simulation
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Smart grid|End user|Cyber-attack|Computer science|Data detection|Decision support system|Electric power system|Real-time computing|Electricity generation|Statistical hypothesis testing
+references:2005028112|2100445566|2963459078
+
+
+id:2074671988
+title:A discrete region-based approach to improve the consistency of pair-wise comparison matrix
+year:2013
+author information:[
+author name:Hengshan Zhang
+author organization:Xian Jiaotong University
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Zijiang Yang
+author organization:Xian University of Technol
+author id:2265437558|
+author name:Jiahe Liu
+author organization:Xian Jiaotong University
+author id:2707352328|
+]
+abstract:named|optimal|quickly|consistency|approach|evaluation|improved|pairwise|algorithm|multiplecriteria|makers|containing|combinations|decisionmaking|algorithm|methods|experiments|matrix|setmatrix|pairwise|problem|decision|could|store|inconsistent|exploiting|single|complicated|information|regionbased|experts|data|use|approximate|feel|express|judgments|confused|either|find|serious|new|comparison|matrix|difficult|iterative|preserve|users|discrete|proposed|improve|region|revising|applied|searching|show|result|designed|process|original|apply|multiple|instead|existing|due|challenge|significantly
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Data structure|Pairwise comparison|Mathematical optimization|Search algorithm|Iterative method|Computer science|Matrix (mathematics)|Document-term matrix|Artificial intelligence|Forecasting theory|Machine learning|Pairwise comparison matrix
+references:1978062397|1986719771|2003579441|2025447782|2029278175|2035857771|2038779958|2051658624|2067273185|2081575042|2091047027|2091552416|2109585397|2111211679|2117827905
+
+
+id:2082722400
+title:Software structure evaluation based on the interaction and encapsulation of methods
+year:2012
+author information:[
+author name:QingHua H. Zheng
+author organization:Xian jiaotong university
+author id:2149828499|
+author name:ZhiJiang J. Ou
+author organization:Xian jiaotong university
+author id:2594609458|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:ZiJiang J. Yang
+author organization:Western MIchigan University
+author id:2651843301|
+author name:YuQiao Q. Hou
+author organization:Xian jiaotong university
+author id:2687534688|
+author name:Chao Zheng
+author organization:Xian Jiaotong University
+author id:2528446306|
+]
+abstract:encapsulation|software|criteria|approach|evaluation|structure|terms|foundational|concurs|whereas|reduce|based|methods|aimed|quality|traditional|system|versions|struts|evaluate|appropriate|functional|methods|quality|functionality|two|experiments|layer|matching|bugs|low|web|enables|within|program|novel|minor|packages|used|coupling|high|major|whether|hierarchical|adding|implemented|calculated|intuition|us|new|package|fixing|reconstruct|widely|messy|important|quantify|longer|proposed|improve|software|cohesion|support|framework|code|according|affecting|technique|development|paper|structural|factor|applications|designed|ratios|carried|types|six|determine|opensource|clean|structure|interaction|well|normally
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Data mining|Mathematical optimization|Software engineering|Package development process|Computer science|Software quality control|Software quality|Software verification and validation|Software construction|Software development|Software framework|Software measurement
+references:1964962870|2000338940|2039531347|2039539587|2039762965|2058139647|2064700338|2093078802|2111540240|2145416273|2535076574
+
+
+id:2083146624
+title:An appliance classification method for residential appliance scheduling
+year:2015
+author information:[
+author name:Man Su
+author organization:Xian jiaotong university
+author id:2224233258|
+author name:Jianting Ji
+author organization:Xian jiaotong university
+author id:2226406538|
+author name:Yulin Che
+author organization:Xian jiaotong university
+author id:2228629198|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Siyun Chen
+author organization:University Xian
+author id:2657460588|
+author name:Zhanbo Xu
+author organization:Jiaotong University
+author id:2114835860|
+]
+abstract:big|commercial|shifted|residential|considered|historical|identified|price|optimize|whether|scheduling|estimate|dynamic|results|guide|promising|energy|introducing|preference|electrical|significant|classification|propose|demand|load|saving|techniques|parameters|appliance|ubiquitous|challenges|applied|appliances|technique|two|characteristic|personalized|integrated|computing|operations|appliances|determine|satisfy|could|analyzed|control|consumption|electricity|home|shortages|management|various|requirements|strategy|operation|user|demands|shiftability
+venue name:International Symposium on Wearable Computers
+venue id:2538182508
+venue type:C
+document type:Conference
+study fields:Energy management|Computer science|Scheduling (computing)|Home automation|Ubiquitous computing|Electricity price|Economic shortage|Embedded system|Computer appliance
+references:1984560471|1986166411|2030882346|2068060907|2101343315
+
+
+id:2101343315
+title:A user demand and preference profiling method for residential energy management
+year:2014
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yuqi Liu
+author organization:Xian jiaotong university
+author id:2229062280|
+author name:Siyun Chen
+author organization:University Xian
+author id:2101623218|
+author name:Yulin Che
+author organization:Xian jiaotong university
+author id:2228629198|
+author name:Zhanbo Xu
+author organization:Jiaotong University
+author id:2114835860|
+author name:Yufei Duan
+author organization:XJTU
+author id:2328341524|
+]
+abstract:nonintrusion|appliance|contributions|price|promising|energy|load|potential|method|profile|preference|personal|lowcost|demand|saving|personalized|management|nilm|firstly|power|privacyrelated|monitoring|mine|satisfaction|residential|meet|novel|commercial|data|major|solution|generated|scheduling|dynamic|dramatically|different|strategies|cost|widely|significant|less|proposed|improve|since|appliance|applied|technique|deployed|integrated|meters|minimal|operations|paper|indexes|identify|electric|easyaccept|consumption|devices|home|environment|five|various|strategy|user|demands
+venue name:Ubiquitous Computing
+venue id:1171345118
+venue type:C
+document type:Conference
+study fields:Energy management|Scheduling (computing)|Computer science|Profiling (computer programming)|Real-time computing|Ubiquitous computing|Multimedia|Database|Home appliance|Power consumption
+references:1986166411|2001512636|2071637194|2078921071|2101365946|2136753883|2140778428
+
+
+id:2130427718
+title:A novel method to detect bad data injection attack in smart grid
+year:2013
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yun Gu
+author organization:Xian Jiaotong University
+author id:2466710729|
+author name:Dai Wang
+author organization:University
+author id:2158209431|
+author name:Yuhong Gui
+author organization:Xian Jiaotong University
+author id:2167436434|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+]
+abstract:named|bad|construct|subsystems|guide|energy|using|large|two|traditional|system|apse|sensitivity|device|experiments|smart|mechanism|attack|attack|power|detection|within|one|attackers|data|theft|repartitioning|lead|evading|located|novel|small|data|several|subsystem|updating|adaptive|attacks|mechanisms|results|ieee|area|might|estimation|ideas|users|system|proposed|state|improve|demonstrate|basic|locate|applied|breakdown|divided|dangerous|detect|generation|partitioning|end|cases|bad|constructed|detected|injection|inject
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Algorithm design|Smart grid|Computer science|Data detection|Computer network|Electric power system|Power system security|Real-time computing|Power-system protection
+references:2005028112|2022810949|2100445566|2963459078
+
+
+id:2131159016
+title:A new approach to improve the consistency of linguistic pair-wise comparison matrix and derive interval weight vector
+year:2014
+author information:[
+author name:Hengshan Zhang
+author organization:Xian Jiaotong University
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yan Nan
+author organization:Xian Jiaotong University
+author id:2526446560|
+]
+abstract:region|setmatrix|approximate|experimental|used|approach|consistency|got|without|number|character|find|five|results|algorithm|based|new|similar|comparison|opinion|matrix|iterative|weight|includes|real|et|discrete|proposed|improve|revise|set|interval|region|searching|show|according|reciprocal|matrix|derive|similarly|get|transformed|vector|pairwise|based|derived|key|al|decision|strategies|h|optimum|zhang|nisa|approximately|able|elements|liu|q|significantly
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Convergent matrix|Logical matrix|Centering matrix|Matrix function|Algorithm|Square matrix|Block matrix|Sparse matrix|Matrix splitting|Mathematics
+references:1967631404|1977311377|1986719771|1995906594|2003579441|2003684370|2006902036|2018996582|2025447782|2027218152|2029278175|2035857771|2051658624|2056059065|2063427286|2067103692|2074671988|2081575042|2091047027|2091552416|2109585397|2111211679|2117827905|2170729459
+
+
+id:2145857200
+title:SHE: smart home energy management system for appliance identification and personalized scheduling
+year:2014
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yuqi Liu
+author organization:Xian jiaotong university
+author id:2229062280|
+author name:Yulin Che
+author organization:Xian jiaotong university
+author id:2228629198|
+author name:Siyun Chen
+author organization:University Xian
+author id:2657460588|
+author name:Zhanbo Xu
+author organization:Jiaotong University
+author id:2114835860|
+author name:Yufei Duan
+author organization:XJTU
+author id:2328341524|
+]
+abstract:nonintrusion|commercial|called|data|generates|developed|price|scheduling|operation|dynamic|different|promising|energy|using|load|potential|cost|preference|personal|significant|demand|android|saving|preserving|monitors|appliance|appliances|technique|privacy|system|platform|personalized|integrated|minimal|operations|energy|power|home|monitoring|mine|appliances|identify|strategies|electric|consumption|management|smart|home|schedule|environment|meet|demands
+venue name:Ubiquitous Computing
+venue id:1171345118
+venue type:C
+document type:Conference
+study fields:Android (operating system)|Computer science|Scheduling (computing)|Home automation|Energy management system|Ubiquitous computing|Home appliance|Embedded system|Power consumption
+references:2001512636|2071637194|2136753883
+
+
+id:2169953869
+title:A new worm exploiting IPv6 and IPv4-IPv6 dual-stack networks: experimen
+year:2009
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+]
+abstract:worms|subnet|addresses|modeling|propagation|leading|internet|developed|good|protocol|faster|shown|terms|find|serious|propagate|huge|model|victims|discover|new|commonly|worm|hosts|behaviors|vulnerability|focusing|article|propagation|provide|biological|try|networks|collect|much|speciespatch|study|scanning|similar|dualstack|protection|networks|local|network|running|random|effective|current|defense|believed|deployment|spreads|address|simulator|strategies|selfreplicating|could|accelerated|several|topologies|proposed|due|various|discretetime|space
+venue name:IEEE Network
+venue id:186584794
+venue type:J
+document type:Journal
+study fields:Address space|IPv6|IPv4|Modeling and simulation|Computer science|Computer network|Network topology|Subnet|IPv6 address|Distributed computing|The Internet
+references:1498585374|1577425422|2094364522|2100734403|2117802452|2128387723|2130300368|2165184405
+
+
+id:2179505082
+title:A grade assignment and IFS translation approach based on intensive region searching
+year:2015
+author information:[
+author name:Hengshan Zhang
+author organization:Xian Jiaotong University
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaojun Cui
+author organization:Xian Jiaotong University
+author id:2422320411|
+]
+abstract:data|considered|translated|approach|evaluation|solution|experiment|challenge|intensive|based|ir|conducted|proposed|searched|assigned|region|authors|higher|fusion|deal|study|set|assignment|nonuniform|grades|distribution|transform|regions|rate|ifs|intuitionistic|effectiveness|nature|advantage|information|suitable|fuzzy|approach
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Grading (education)|Computer science|Fuzzy set|Correlation|Artificial intelligence|Data rate|Information fusion|Machine learning
+references:1971875039|1981107087|1989221798|1993810822|2026605718|2067217421|2071833049|2075368401|2079767857|2087813122|2109034551|2117759566|2120160105|2137281506|2154525907|2158418210|2162883846
+
+
+id:2194609298
+title:Software Plagiarism Detection with Birthmarks Based on Dynamic Key Instruction Sequences
+year:2015
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Eryue Zhuang
+author organization:Xian Jiaotong University
+author id:1969906259|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+]
+abstract:software|called|sandmark|experimental|type|instruction|approach|attempt|extracted|without|number|upx|algorithm|generation|based|plaintiff|large|plagiarism|resilient|propose||unique|binary|programs|detection|key|optimizations|strong|code|experiments|two|tools|characteristic|weak|detection|detection|available|executable|hide|extensive|faces|dynamic|program|birthmarks|main|source|developed|defendant|implemented|benchmarks|results|new|need|comparing|conducted|sequence|publicly|tool|techniques|code|absence|effective|allatori|plagiarism|provides|compiler|obfuscation|programs|dykispd|characteristics|various|birthmark
+venue name:IEEE Transactions on Software Engineering
+venue id:8351582
+venue type:J
+document type:Journal
+study fields:Programming language|Plagiarism detection|Software engineering|Source code|Computer science|Optimizing compiler|Theoretical computer science|Software|Obfuscation (software)|Obfuscation|Software construction|Executable
+references:1500616534|1508225132|1510687364|1515790419|1551162551|1573286687|1581009051|1593203335|1863385414|1910686388|1966695331|1970320668|1971497680|1981033991|1986108510|1986541713|1995739251|1998517692|2009614414|2019763646|2021673689|2023288969|2024671287|2031052551|2038159719|2040867586|2041839827|2062847633|2068211976|2084201645|2086968222|2096491586|2097001189|2102970979|2104301886|2104489637|2107135371|2107697055|2108551812|2108747667|2109943392|2111525908|2116952712|2117583561|2120322286|2120724609|2121412398|2121749752|2125260159|2125980283|2127020518|2128698639|2128782367|2131714293|2134633067|2136099030|2136833842|2138756793|2145657894|2146659255|2151135920|2161847731|2162444146|2166091242|2166278331|2166462894|2166860375|2396357243|2401617229|2744136779
+
+
+id:2308063324
+title:SHE: Smart home energy management system based on social and motion behavior cognition
+year:2015
+author information:[
+author name:Siyun Chen
+author organization:University Xian
+author id:2101623218|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yadong Zhou
+author organization:Xian jiaotong university
+author id:2166287960|
+author name:Chao Shen
+author organization:Jiaotong University
+author id:2246722105|
+author name:Feng Gao
+author organization:an Jiaotong University
+author id:2566136330|
+author name:Yulin Che
+author organization:Xian jiaotong university
+author id:2228629198|
+author name:Zhanbo Xu
+author organization:Jiaotong University
+author id:2114835860|
+]
+abstract:triggered|considered|number|introduced|would|thus|optimization|estimate|simulate|energy|promising|method|monitoring|saving|system|profiling|study|methods|pattern|personalized|smart|energy|power|behavior|minimize|set|necessary|user|one|analyzed|electricity|smart|performed|comfort|sensors|simulations|future|comfort|requirements|randomly|operation|data|occasional|gps|arriving|challenging|time|generated|academic|attracts|modified|directly|problems|communication|different|generate|potential|occupants|unpredictable|affected|system|users|proposed|leaving|updated|home|locate|applied|according|detect|load|predict|behavior|home|human|requirements|cost|cognition|social|mobile|satisfying|improvement|schedule|sensors|application|management|activities|various|attention|detected|presents
+venue name:International Conference on Smart Grid Communications
+venue id:2622668024
+venue type:C
+document type:Conference
+study fields:Energy management|Smart grid|Profiling (computer programming)|Decision support system|Electric power system|Home automation|Real-time computing|Energy management system|Engineering|Cognition
+references:1984560471|1986166411|2030882346|2059465213|2068060907|2076115766|2091443436|2145857200
+
+
+id:2408122673
+title:A new thread-aware birthmark for plagiarism detection of multithreaded programs
+year:2016
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Feifei Tong
+author organization:Xian Jiaotong University
+author id:2405195633|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Zijiang Yang
+author organization:Xian Jiaotong University
+author id:2265437558|
+]
+abstract:calls|renders|software|trend|almost|empirical|birthmarks|used|stateoftheart|approach|shows|scheduling|scheduling|severely|programming|nondeterminism|generation|new|based|conducted|resilient|towards|less|susceptible|benchmark|system|detecting|algorithms|dynamic|study|fact|multithreaded|yet|effective|birthmarking|design|threadrelated|obfuscation|perturbs|thread|existing|superior|due|comparison|plagiarism|open|techniques|birthmark
+venue name:International Conference on Software Engineering
+venue id:1174403976
+venue type:C
+document type:Conference
+study fields:Programming language|Thread scheduling|Plagiarism detection|Computer science|Instruction set|Thread (computing)|Real-time computing|Birthmark|Software|Obfuscation
+references:1970320668|1971497680|1981033991|2038159719|2071779312|2107697055|2108551812|2117583561|2121412398|2134633067|2194609298|2396357243
+
+
+id:2410588362
+title:Improving Linguistic Pairwise Comparison Consistency via Linguistic Discrete Regions
+year:2016
+author information:[
+author name:Hengshan Zhang
+author organization:Xian Jiaotong University
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+author name:Minnan Luo
+author organization:Xian Jiaotong University
+author id:2409575688|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+]
+abstract:optimal|criteria|improves|empirical|consistency|approach|pairwise|despite|algorithm|give|based|methods|consideration|require|propose|terms|decisionmaking|study|methods|achieve|guarantee|linguistic|singlevalue|matrices|opinions|freedom|gives|address|many|single|extensive|able|regionbased|novel|values|linguistic|approximate|remains|express|used|procedures|expressed|unlike|results|intensive|challenge|comparison|like|widely|iterative|conducted|often|intentions|users|conflicting|discrete|achieving|proposed|final|region|frontend|searching|values|confirms|daunting|task|matrices|value|allows|comply|multiple|existing|modify|significantly
+venue name:IEEE Transactions on Fuzzy Systems
+venue id:134177497
+venue type:J
+document type:Journal
+study fields:Pairwise comparison|Multiple criteria|Search algorithm|Matrix (mathematics)|Artificial intelligence|Natural language processing|Linguistics|Empirical research|Mathematics|Machine learning
+references:1963675712|1963924402|1967631404|1972529917|1976342567|1977311377|1978062397|1986686276|1986719771|1987228393|1991654374|1993418540|2003579441|2006902036|2014042940|2018996582|2021442738|2023024928|2025447782|2027218152|2029278175|2044568429|2051658624|2052366812|2055853880|2056059065|2057636328|2057791961|2063427286|2065880721|2067273185|2067301501|2069403107|2074671988|2081304350|2081575042|2091047027|2091552416|2091943101|2108856508|2109585397|2111211679|2116080612|2117827905|2118763747|2125047170|2131159016|2138962584|2144798659|2145906330|2152788100|2162848031|2394891477|2598771954|2765655707
+
+
+id:2412361571
+title:Exploiting thread-related system calls for plagiarism detection of multithreaded programs
+year:2016
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Eryue Zhuang
+author organization:Xian Jiaotong University
+author id:1969906259|
+author name:Zijiang Yang
+author organization:Xian Jiaotong University
+author id:2265437558|
+]
+abstract:software|trend|suggested|empirical|program|stateoftheart|approach|birthmarksan|severely|nondeterminism|generation|based|plagiarism|resilient|propose|susceptible|benchmark|system|redesign|versions|algorithms|study|works|fact|experiments|two|exploits|birthmarking|threadrelated|perturbs|affected|latest|detection|threadaware|abstractions|programsa|calls|techniques|calls|renders|almost|birthmarks|evaluatedtresb|used|implemented|scheduling|different|programming|new|conducted|towards|less|tool|detecting|dynamic|tresb|sources|rather|multithreaded|show|yet|effective|impose|behavioral|make|obfuscation|programs|effectiveness|characteristics|alternative|also|thread|outperforms|existing|superior|currently|due|comparison|consists|plagiarism|birthmark
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Programming language|Thread scheduling|Plagiarism detection|Computer science|Real-time computing|Exploit|Thread (computing)|Birthmark|Software|Obfuscation|Empirical research
+references:1500616534|1508225132|1661369303|1863385414|1970320668|1971497680|1981033991|1985205072|1995739251|2009614414|2021673689|2038159719|2047113058|2062847633|2067982285|2071779312|2081561469|2084201645|2107697055|2108551812|2111525908|2117583561|2120724609|2121412398|2122532513|2128782367|2134633067|2136833842|2140747479|2145657894|2146659255|2156300775|2162444146|2166462894|2166860375|2194609298|2396357243|2408122673|2432058664
+
+
+id:2471111208
+title:Dependence Guided Symbolic Execution
+year:2017
+author information:[
+author name:Haijun Wang
+author organization:Xian jiaotong university
+author id:2699550585|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Chao Shen
+author organization:Jiaotong University
+author id:2246722105|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+]
+abstract:equivalent|called|usage|empirical|dgse|program|approach|without|path|number|problem|dependence|usually|released|grows|symbolic|based|abundant|compared|propose||traditional|explored|value|evaluate|study|achieve|explores|eliminate|capability|predicting|exponentially|detection|necessary|explore|mitigate|speedup|exploiting|exploring|powerful|approach|program|reasonable|eliminating|approximate|achieves|used|execution|shows|exhaustive|widespread|benchmarks|computational|new|test|soundly|cost|often|develop|tool|paths|systematically|symbolic|guided|purpose|technique|generating|size|percent|redundant|predict|execution|inputs|practical|limited|exploration|implementation|fault|argue|increase|explosion|corresponding
+venue name:IEEE Transactions on Software Engineering
+venue id:8351582
+venue type:J
+document type:Journal
+study fields:Fault detection and isolation|Computer science|Path coverage|Theoretical computer science|Real-time computing|Symbolic execution|Concolic testing|Empirical research|Benchmark (computing)|Speedup|Symbolic trajectory evaluation
+references:157156687|1480909796|1497028280|1526710119|1561959476|1589776562|1710734607|1900305658|1963739845|2002758617|2006860739|2008812751|2009489720|2009956228|2013711971|2017035494|2020689607|2035603501|2043512166|2047694629|2050886219|2052844069|2055770200|2057891174|2059987590|2061227290|2061686717|2065236359|2067871120|2071067812|2071589768|2072000086|2072077040|2076807040|2080573945|2080696000|2082172430|2083318332|2096449544|2097041275|2097444001|2099855131|2101512909|2105993618|2110908283|2115273016|2116382946|2125152082|2133612077|2134691366|2136601052|2139478536|2140687990|2144423682|2146178292|2151959678|2155539595|2162653489|2165751179|2168625647|2169063148|2171469152|2397864009
+
+
+id:2523912761
+title:Analyzing and modeling dynamics of information diffusion in microblogging social network
+year:2017
+author information:[
+author name:Yadong Zhou
+author organization:Science and Technology on Information Transmission and Dissemination in Communication Networks Laboratory, PR China
+author id:2166287960|
+author name:Beibei Zhang
+author organization:Xian University of Technology
+author id:2132116551|
+author name:Xiaoxiao Sun
+author organization:Xian Jiaotong University
+author id:2251575494|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:trend|experimental|innovations|cascades|dynamics|diffusing|represented|model|defined|models|based|merging|compared|topology|analysis|attracted|analyze|pervasive|diffusion|study|discovered|independent|hot|two|perspective|among|based|efficient|could|services|diffusion|many|model|framework|future|information|existence|network|main|used|centralized|analyzed|reproduce|features|growing|topics|microblogging|find|different|generate|results|group|new|researchers|cascade|widely|ideas|particular|real|interacting|proposed|effect|topic|multilevel|influenced|show|network|related|provides|types|process|social|retweeting|recently|effectively|interesting|groups|also|evolution|structure|factors|outperforms|super
+venue name:Journal of Network and Computer Applications
+venue id:30128005
+venue type:J
+document type:Journal
+study fields:Diffusion process|Social media|Social network|Computer science|Microblogging|Information cascade|Theoretical computer science|Cascade|Artificial intelligence|Merge (version control)|Diffusion (business)|Distributed computing
+references:64786183|161754537|1586211775|1777927488|1814023381|1967243926|1967579779|1970777322|1973512904|1996263819|1998901261|2021314079|2024369724|2052817812|2053193971|2061820396|2065347052|2072328158|2080290417|2092473613|2093316096|2101196063|2107383413|2107884625|2109603058|2113889316|2132969050|2147047704|2166330262|2186589590|2250844151|2289587777|2398728993|2562120615|2963602653|2978422749
+
+
+id:2553414616
+title:Mixed Intuitionistic Fuzzy Aggregation Operators decreasing results of unusual IFNs
+year:2016
+author information:[
+author name:Hengshan Zhang
+author organization:Xian Jiaotong University
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+]
+abstract:results|illustrative|mifaos|counterintuitive|introduced|would|utilized|based|laws||deduced|extensions|methods|utilizing|example|aggregation|result|operators|popular|intuitionistic|decision|problem|decreased|operational|face|paper|ifns|aggregating|dimensions|archimedean|intuition|unusual|multivariate|results|group|area|operators|effects|proposed|mixed|final|bmifaos|demonstrate|basic|tconorms|conflict|higher|show|aggregation|numbers|algebraic|tnorms|fuzzy|intuitionistic|ifns|process|mmifaos|relieve|specific|bivariate|challenge|fuzzy|extending
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Algebraic number|Fuzzy classification|Computer science|Fuzzy set operations|Fuzzy set|Artificial intelligence|Operator (computer programming)|Fuzzy number|Discrete mathematics|Algebra|Fuzzy logic|Type-2 fuzzy sets and systems|Machine learning
+references:622302252|1898259180|1905771608|1965777053|1969921454|1971875039|1981107087|1988242538|2036378460|2179505082|2470897470
+
+
+id:2553961511
+title:A human-centered smart home system with wearable-sensor behavior analysis
+year:2016
+author information:[
+author name:Jianting Ji
+author organization:Xian jiaotong university
+author id:2226406538|
+author name:Ting Liu
+author organization:MOE KLINNS Lab of Xian Jiaotong University
+author id:2590685047|
+author name:Chao Shen
+author organization:Jiaotong University
+author id:2246722105|
+author name:Hongyu Wu
+author organization:National Renewable Energy Laboratory, United States
+author id:2239391126|
+author name:Wenyi Liu
+author organization:Xian Jiaotong University
+author id:2566867906|
+author name:Man Su
+author organization:Xian jiaotong university
+author id:2224233258|
+author name:Siyun Chen
+author organization:University Xian
+author id:2101623218|
+author name:Zhanpei Jia
+author organization:Xian Jiaotong University
+author id:2567053209|
+]
+abstract:optimal|data|challenging|extracted|research|monitored|life|scheduling|fullday|potential|obtain|wearable|devices|unpredictable|profile|owing|history|demand|two|quality|important|improving|task|system|proposed|attracted|appliancedemand|sensor|demonstrate|much|since|appliance|generation|matrix|smart|related|load|interest|predict|construction|humancentered|behavior|behavior|human|designed|highly|appliances|identify|constructed|recently|smart|home|simulations|schedule|household|strategy|user
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Wearable computer|Scheduling (computing)|Home automation|Engineering|Wearable technology|Water heating|Embedded system
+references:2127221278
+
+
+id:2597697275
+title:Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection
+year:2018
+author information:[
+author name:Zhenzhou Tian
+author organization:Xian jiaotong university
+author id:2223509796|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Eryue Zhuang
+author organization:Xian Jiaotong University
+author id:1969906259|
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+]
+abstract:increasingly|software|called|experimental|stateoftheart|plague|instruction|three|approach|number|severely|nondeterminism|generation|based|scssb|large|plagiarism|tob|propose|revives|binary|jb|programs|threadoblivious|detection|key|become|algorithms|shield|strong|fact|experiments|tools|resilience|perturbs|call|detection|set|available|framework|comparisons|progress|techniques|tremendous|influence|tobpd|scheduling|implemented|dynamic|benchmarks|starts|representative|results|short|new|including|applicable|conducted|sequence|publicly|semanticspreserving|techniques|code|applied|multithreaded|sequential|show|detect|exhibits|executions|effective|plagiarism|schedules|obfuscation|programs|applying|industry|dykis|although|approaches|thread|existing|due|comparison|achieved|api|collectively|birthmark
+venue name:IEEE Transactions on Software Engineering
+venue id:8351582
+venue type:J
+document type:Journal
+study fields:Programming language|Plagiarism detection|Instruction set|Computer science|Theoretical computer science|Software|Schedule|System call|Obfuscation (software)|Dynamic priority scheduling|Java
+references:183494281|565161688|1445387515|1500616534|1863385414|1966695331|1970320668|1971497680|1981033991|1985205072|1994020507|1995739251|1998517692|2009614414|2019763646|2021673689|2024671287|2028903194|2038159719|2067982285|2071779312|2081561469|2084201645|2088479623|2107697055|2108551812|2111525908|2117583561|2119057313|2120724609|2121412398|2122532513|2134633067|2136833842|2138756793|2140747479|2143776233|2145657894|2146567535|2146659255|2156300775|2162444146|2166462894|2166860375|2194609298|2396357243|2408122673|2412361571|2544139045|2579698096|2940763224
+
+
+id:2601621757
+title:DAPASA: Detecting Android Piggybacked Apps Through Sensitive Subgraph Analysis
+year:2017
+author information:[
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Jun Liu
+author organization:Xian Jiaotong University
+author id:2659490034|
+author name:Wei Wang
+author organization:Beijing JiaoTong University
+author id:2722498736|
+author name:Haifei Li
+author organization:Union University
+author id:2674664441|
+author name:Zhenzhou Tian
+author organization:Xian University of Posts and Telecommunications
+author id:2223509796|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:app|extensive|smartphone|called|approach|three|evaluation|realworld|reflect|structure|injected|evaluated|app|large|piggybacked|profile|sensitive|baseline|propose|two|invocation|even|dapasa|algorithms|depict|two|benign|perspective|smartphones|behavior|popular|apps|compared|established|detection|malware|set|consisting|subgraph|machine|apps|features|exponential|resulted|generates|fed|data|android|assumptions|features|benign|attacks|generated|whether|host|serious|different|complement|five|results|combination|new|patterns|apis|suspicious|android|permissionbased|especially|proposed|demonstrate|analysis|payloads|detect|numeric|learning|exhibits|piggybacking|malicious|threats|apibased|constructed|ssg|patterns|impressive|approaches|five|performance|growth|applications
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Piggybacking (Internet access)|Permission|Android (operating system)|Pattern recognition|Computer security|Computer science|Feature extraction|Android malware|Artificial intelligence|Malware|Operating system|Payload
+references:60817130|90790289|110636400|121173099|565161688|1445387515|1528113134|1943233084|1965667542|1976596267|1997931601|2002083372|2018382289|2023925542|2028727337|2041276426|2064038877|2068025885|2078197322|2085700758|2087970742|2088479623|2089735638|2090061444|2092942461|2099858350|2101746535|2111525908|2112262143|2117172491|2122210511|2122672392|2123519624|2125011234|2132166479|2140095007|2168103835|2168649891|2194609298|2264131323|2288381557|2314180245|2399891510|2617476279|2618014206|2911964244
+
+
+id:2616539171
+title:Automated Testing of Definition-Use Data Flow for Multithreaded Programs
+year:2017
+author information:[
+author name:Xiaodong Zhang
+author organization:Xian Jiaotong University
+author id:2611610978|
+author name:Zijiang Yang
+author organization:
+author id:2265437558|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Pei Liu
+author organization:Xian jiaotong university
+author id:2240388516|
+author name:Jialiang Chang
+author organization:Western Michigan University
+author id:2535459646|
+author name:Yu Hao
+author organization:Xian jiaotong university
+author id:2562518891|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:trend|usage|scalability|program|approach|number|path|interthread|programmers|examining|flow|attempts|symbolic|based|large|testing|understand|interleavings|propose|exhaustively|orders|greatly|shared|increased|direct|focuses|two|multicore|challenges|insuperable|limits|gives|resources|thoroughly|explore|advent|alternate|help|exploring|progress|faces|program|definitionuse|data|interleavings|astronomically|multithreading|directly|test|need|towards|significant|take|paths|leads|multithreaded|effective|computing|intrathread|parallel|due|magnitude|behavior|programs|execution|advantage|also|instead|variable|reduction|methodology
+venue name:International Conference on Software Testing, Verification, and Validation
+venue id:1175644874
+venue type:C
+document type:Conference
+study fields:Multithreading|Computer science|Software bug|Real-time computing|Symbolic data analysis|Symbolic execution|Concurrent computing|Multi-core processor|Data flow diagram|Scalability
+references:48637605|1480909796|1565898282|1586497944|1710734607|1964912337|1979823412|1992474998|2003299277|2009489720|2012997183|2013382827|2047068447|2047694629|2049633124|2051393771|2059987590|2061686717|2082172430|2084719450|2095551048|2096449544|2097444001|2101161997|2101512909|2104993088|2110852599|2111413199|2111759889|2112521545|2115732097|2119142490|2133612077|2134875273|2135948849|2150990339|2153185479|2153229512|2153723363|2158124716|2159856414|2164022236|2167744164|2169875292|2296019735|2471111208|2508374411|2517404595
+
+
+id:2621393611
+title:Dynamic structure measurement for distributed software
+year:2018
+author information:[
+author name:Wuxia Jin
+author organization:Xian jiaotong university
+author id:2564555494|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Di Cui
+author organization:Xian jiaotong university
+author id:2563058794|
+author name:Jianlei Chi
+author organization:Xian jiaotong university
+author id:2567059057|
+]
+abstract:software|focus|observed|introduced|network|majority|model|case|based|impact|distributed|packages|monitoring|propose|two|version|dependencies|quality|measured|rss|among|recipes|evaluate|become|systems|jpetstore|methods|calling|reader|two|measurement|current|intercomponent|architecture|measurements|advent|change|component|increasing|cpc|barely|attributes|relations|represent|chc|coupling|features|implemented|serious|dynamic|consider|kieker|difficult|conducted|comparing|intracomponent|activities|software|technologies|proposed|cohesion|necessity|assessed|coupling|classes|network|computing|structural|studies|factor|applying|fault|opensource|structure|existing|ultrafast|various|ibatis|maintenance
+venue name:Software Quality Journal
+venue id:7504070
+venue type:J
+document type:Journal
+study fields:Change impact analysis|Cohesion (chemistry)|News aggregator|Computer science|Distributed design patterns|Software system|Distributed algorithm|Component-based software engineering|Network model|Distributed computing
+references:565161688|1518754760|1976003821|1977085740|1982427242|1984688105|1997885138|2000819496|2002977223|2010636948|2014412501|2016261531|2017504389|2020757422|2022923677|2045177034|2047345132|2047550520|2050520358|2068382122|2070008347|2077323210|2082103475|2097347001|2104050994|2115115725|2116156538|2132089926|2133961160|2139969125|2148429572|2148431610|2158864412|2159945724|2161585937|2165924201|2471111208|2508559393|2509302628|2546999186|2597697275|2913217271
+
+
+id:2621716177
+title:SEDEA: State Estimation-Based Dynamic Encryption and Authentication in Smart Grid
+year:2017
+author information:[
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Jue Tian
+author organization:University
+author id:2505087704|
+author name:Yuhong Gui
+author organization:Xian Jiaotong University
+author id:2167436434|
+author name:Yang Liu
+author organization:Xian Jiaotong University
+author id:2682730943|
+author name:Pengfei Liu
+author organization:Xi’an Jiaotong University
+author id:2648234313|
+]
+abstract:measured|functions|considered|whole|remote|changing|approach|integrity|would|communication|state|synchronously|using|devices|dynamically|easy|sedea|system|estimation|analyze|exchanged|scheme|confidentiality|smart|rtu|current|encryption|systems|low|reported|protect|power|key|measurements|cc|lightweight|could|summarized|smart|simulations|computation|follows|advantages|measuring|network|simple|used|constantly|pairs|high|grid|estimationbased|dynamic|communication|generate|commands|selected|inherent|ieee|estimates|new|including|ensure|rtus|rounding|difficult|equipment|sent|system|estimation|never|proposed|since|legacy|applied|keys|changes|show|units|updates|error|cc|security|fourbus|predict|authentication|process|cost|center|estimated|control|terminal|correction|conduct|step|sedea
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Key generation|Authentication|Smart grid|Computer science|Electric power system|Computer network|Encryption|Error detection and correction|Rounding|Hash function
+references:1483874305|1523756834|1973768964|1974504141|1985653499|2009725304|2011284636|2029029052|2033630799|2038651258|2040648173|2043924974|2066175361|2079920663|2080760062|2085627628|2091457677|2119856652|2126842049|2130427718|2142762628|2170659658|2279729589|2288275772|2562586545
+
+
+id:2783169723
+title:Enhanced Hidden Moving Target Defense in Smart Grids
+year:2019
+author information:[
+author name:Jue Tian
+author organization:Nanyang Technological University
+author id:2662916093|
+author name:Rui Tan
+author organization:Nanyang Technological University
+author id:2139957394|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:pcffdi|stealthiness|whole|approach|state|moving|goals|equivalence|ac|susceptance|models|opportunistically|propose|analyze|prove|grid|fdi|two|smart|weak|result|confirmingfirst|defense|actively|structured|power|maintains|fdi|may|operational|attackers|launch|simulations|call|cannot|mtd|attacks|discuss|dc|data|stealthy|completeness|research|suggests|incomplete|transmission|realistic|attacks|adversarial|new|conducted|often|estimation|conflicting|proposed|improve|try|activation|settings|hidden|line|changes|show|detect|recent|alert|flows|parameter|studies|ignore|possibility|class|highly|enhancing|effectiveness|costs|preclude|false|also|target|bypass|existing|conduct|detected|threat|injection|design
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Smart grid|Computer security|Control engineering|Equivalence (measure theory)|Operational costs|Engineering|Moving target defense|Completeness (statistics)|Grid
+references:1770527767|1984961651|1989374345|2012352984|2014381275|2022810949|2031252608|2035172813|2038651258|2040085288|2056684756|2064111006|2066909550|2075565671|2093197140|2106306039|2117255788|2122559297|2152728520|2433250951|2477566801|2514382028|2607503516|2764140615
+
+
+id:2783394576
+title:Load identification based on Factorial Hidden Markov Model and online performance analysis
+year:2017
+author information:[
+author name:Siyun Chen
+author organization:University Xian
+author id:2657460588|
+author name:Feng Gao
+author organization:an Jiaotong University
+author id:2566136330|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:equivalent|insensitive|accuracy|focus|hope|observed|analyzing|identification|loads|hidden|evaluated|tasks|energy|algorithm|load|viterbi|using|method|depends|devices|work|sampling|profile|demand|two|extend|insight|traditional|even|analyze|algorithm|conditions|methods|experiments|smart|buildings|found|power|confusing|mechanism|device|markov|efficient|hmm|continuously|model|data|inside|research|frequency|given|brings|solution|judgment|zone|method|stability|individual|illustrate|real|important|proposed|solve|unreliable|boundary|fhmm|aggregate|states|factorial|load|decoded|dimension|process|identify|profile|hmm|zone|performance|conventional|management|response|variable|online|suitable
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Energy management|Markov process|Computer science|Sampling (signal processing)|Algorithm|Demand response|Load profile|Building automation|Hidden Markov model|Viterbi algorithm
+references:1528056001|2145857200|2151729265|2167985623|2255051834|2308063324|2586145155
+
+
+id:2791541601
+title:Android Malware Familial Classification and Representative Sample Selection via Frequent Subgraph Analysis
+year:2018
+author information:[
+author name:Ming Fan
+author organization:Xian jiaotong university
+author id:2228734675|
+author name:Jun Liu
+author organization:Xian Jiaotong University
+author id:2659490034|
+author name:Xiapu Luo
+author organization:Department of ComputingThe Hong Kong Polytechnic University
+author id:2139554617|
+author name:Kai Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2311430221|
+author name:Zhenzhou Tian
+author organization:Xian University of Posts and Telecommunications
+author id:2223509796|
+author name:Qinghua Zheng
+author organization:Xi’an Jiaotong University
+author id:2149828499|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:app|faldroid|overwhelms|variants|approach|selects|number|majority|classifies|per|exhibit|promising|reduce|using|subgraphs|analysis|classification|propose|samples||system|selection|among|following|family|legitimate|shared|algorithms|systems|components|automatically|accelerating|sec|antimalware|poses|behavior|popular|detection|malware|may|accordance|misguide|transformation|great|reasons|apps|drastically|novel|attacks|represent|families|samples|rapid|analyzed|features|correctly|evade|dramatically|inserting|representative|results|solutions|behaviors|experimental|fregraphs|develop|employing|decrease|android|exploited|classify|belong|analysis|challenges|part|frequent|show|polymorphic|constructs|malicious|common|sheer|selecting|cost|constructed|limited|apply|also|increase|families|existing|approximately|investigation|family
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Computer science|Android malware|Feature extraction|Artificial intelligence|Statistical classification|Malware|Machine learning|Malware analysis
+references:60817130|101604734|121173099|183494281|565161688|1445387515|1553801604|1965667542|1976596267|1985686072|1997608223|2002083372|2032724464|2057685268|2064038877|2068211976|2070386561|2071536101|2078197322|2085700758|2088479623|2089735638|2090061444|2092942461|2106349977|2111525908|2121749752|2122672392|2123519624|2125011234|2126359798|2127723417|2147169507|2153635508|2166743230|2166924764|2168103835|2187373861|2194609298|2264131323|2412361571|2470899015|2471111208|2514974017|2560361988|2597697275|2599365809|2601621757|2617476279|2753594008|2911964244|2963954089
+
+
+id:2802370979
+title:Debugging Multithreaded Programs as if They Were Sequential
+year:2018
+author information:[
+author name:Xiaodong Zhang
+author organization:Xian Jiaotong University
+author id:2611610978|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Yu Hao
+author organization:Xian jiaotong university
+author id:2562518891|
+author name:Pei Liu
+author organization:Xian Jiaotong University
+author id:2240388516|
+author name:Lechen Yu
+author organization:Xian jiaotong university
+author id:2642013223|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:called|underlies|program|approach|investigates|feedback|proactivedebugger|extremely|would|assumption|esbmc|programmers|guide|nondeterminism|symbolic|based|method|testing|synergistic|analysis|propose|execute|input|thereby|integration|programs|experiments|deterministic|two|tools|valid|search|proactivedebugger|behavior|detection|attributed|debugging|makes|trigger|systematic|prototype|powerful|bug|difficult|complete|techniques|guiding|generated|whether|loop|scheduling|dynamic|implement|net|wellknown|new|multithread|test|difficult|tool|longer|proposed|paths|failure|effect|fixed|basic|dynamic|analysis|sequential|multithreaded|nondeterministic|show|proactive|input|parallel|debugging|programs|coverage|applying|debug|restore|thread|notyetexplored|outperforms|schedule|path|due|sequential
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Programming language|Instruction set|Computer science|Software bug|Thread (computing)|Feedback loop|Schedule|Symbolic data analysis|Semantics|Debugging|Distributed computing
+references:1480909796|1481985818|1522334395|1534988187|1581214603|1710734607|1887412317|1977476643|2009489720|2011565812|2016167891|2025871578|2047068447|2051016152|2055965695|2059519811|2078392024|2083636040|2084719450|2091939412|2101512909|2102731275|2104831091|2110852599|2113027907|2115732097|2116030344|2119142490|2134633067|2135948849|2138000960|2144469414|2145021036|2146540946|2149298504|2149984854|2150602145|2153185479|2156428492|2159856414|2161466480|2164022236|2164538023|2169875292|2235911515|2273610566|2296019735|2471111208|2561843210
+
+
+id:2885236289
+title:Mitigating Stealthy False Data Injection Attacks Against State Estimation in Smart Grid
+year:2018
+author information:[
+author name:Jingyao Fan
+author organization:Pennsylvania State University
+author id:2224643537|
+author name:Youssef Khazbak
+author organization:Pennsylvania State University
+author id:2783284620|
+author name:Jue Tian
+author organization:University
+author id:2887044123|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2885391856|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:select|called|false|none|number|problem|protected|rank|state|case|algorithm|protecting|reduce|based|likely|thus|probability|injection|vulnerability|propose|system|much|damage|one|given|kinds|fdi|two|attack|targeted|attack|power|operating|protect|caused|makes|heuristic|attackers|launch|metric|first|attacks|process|stealthy|launching|vulnerable|attacks|realtime|serious|consequences|consider|solutions|results|potential|compromising|scada|budget|new|evaluation|meter|enhanced|estimation|proposed|techniques|critical|idea|show|states|meters|limitation|successful|considers|capabilities|cost|limited|perform|attacker|monitor|also|data|although|formalize|due|various|well|significantly
+venue name:Communications and Networking Symposium
+venue id:1201662314
+venue type:C
+document type:Conference
+study fields:Heuristic|Injection attacks|Metre|Smart grid|Computer security|Computer science|Electric power system|Computer network|Metre (music)|SCADA|Vulnerability index
+references:1896250574|2005028112|2040085288|2050588177|2055817410|2079428693|2107043025|2139191533|2148142324|2152728520|2337871897|2433250951|2486732148|2607503516|2751014288
+
+
+id:2885426851
+title:A Search-based Firmware Code Analysis Method for IoT Devices
+year:2018
+author information:[
+author name:Yifei Xu
+author organization:Xian Jiaotong University
+author id:2887970044|
+author name:Ting Liu
+author organization:School of Electronic and Information Engineering Xian Jiaotong University China
+author id:2885391856|
+author name:Pengfei Liu
+author organization:Xian Jiaotong University
+author id:2885026235|
+author name:Hong Sun
+author organization:School of Electronic and Information Engineering Xian Jiaotong University China
+author id:2887449559|
+]
+abstract:data|source|program|associate|structure|would|siemens|serious|selected|manipulate|internetofthings|method|meter|vulnerability|analysis|interface|lack|proposed|exploited|demonstrate|device|code|code|investigate|interface|security|search|functionalities|assembly|threats|hard|power|firmware|device|one|due|searchbased|complicated|information
+venue name:Communications and Networking Symposium
+venue id:1201662314
+venue type:C
+document type:Conference
+study fields:Static program analysis|Microcode|Telecommunications network|Source code|Computer science|Computer network|Assembly language|Electricity meter|Malware|Embedded system|Firmware
+references:1985653499|2783169723|2791541601
+
+
+id:2887916593
+title:Physical Intrusion Detection for Industrial Control System
+year:2018
+author information:[
+author name:Pengfei Liu
+author organization:Xi’an Jiaotong University
+author id:2885026235|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2885391856|
+]
+abstract:widelyused|network|variation|influence|analyzing|model|communication|signal|selected|method|devices|layer|difficult|system|important|external|system|proposed|difference|demonstrate|intruding|device|steal|detect|investigate|prevent|physical|lines|connect|detection|built|caused|one|false|intruded|attackers|control|data|twodevice|devices|voltage|industrial|intrusion|serial|ics|information|inject|represent
+venue name:Communications and Networking Symposium
+venue id:1201662314
+venue type:C
+document type:Conference
+study fields:Serial communication|Computer science|Voltage|Computer network|Electric power transmission|Electrical impedance|Industrial control system|Physical layer|Intrusion detection system|Electrical engineering|Integrated circuit
+references:2279729589
+
+
+id:2888348590
+title:node2defect: using network embedding to improve software defect prediction
+year:2018
+author information:[
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Jianlei Chi
+author organization:Xian jiaotong university
+author id:2567059057|
+author name:Yangxu Jin
+author organization:Xian Jiaotong University
+author id:2809046823|
+author name:Di Cui
+author organization:Xian jiaotong university
+author id:2563058794|
+author name:Ancheng He
+author organization:Xian Jiaotong University
+author id:2808945074|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+]
+abstract:software|called|accurate|improves|experimental|userdefined|construct|stateoftheart|approach|newly|relationships|measures|defect|terms|network|method|dependency|require|dependency|propose|traditional|evaluate|systems|automatically|proved|firstly|vector|embedding|predicting|learn|lowdimensional|computation|inflexible|describe|features|open|statistics|encode|network|used|source|features|high|centrality|results|combine|new|degree|capture|engineering|leveraging|proposed|improve|spaces|class|useful|network|relied|show|network|fmeasure|structural|prediction|studies|defects|programs|learned|structure|existing|various|uses
+venue name:Automated Software Engineering
+venue id:1166511975
+venue type:C
+document type:Conference
+study fields:ENCODE|Data mining|Computer science|Software bug|Centrality|Theoretical computer science|Software system|Software|Dependency network|Software metric|Computation
+references:165633843|1611601820|1614298861|1899594931|1972458945|1974601952|2025700486|2029123435|2073294644|2124418175|2158864412|2257831454|2523229043|2548549162|2612872092|2755316671|2911964244|2962756421|2963224980
+
+
+id:2897180670
+title:Crowd Intelligence for Decision Making Based on Positive and Negative Comparing With Linguistic Scale
+year:2018
+author information:[
+author name:Hengshan Zhang
+author organization:Xi’an University of Posts  Telecommunications
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:University
+author id:2149828499|
+author name:Zhongmin Wang
+author organization:Xian University of Posts  Telecommunications
+author id:2895869309|
+author name:Yanping Chen
+author organization:Xi’an University of Posts  Telecommunications
+author id:2897860145|
+author name:Yu Qu
+author organization:Xian Jiaotong University
+author id:2172274327|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:depend|crowd|avoided|without|measures|problem|pairwise|give|using|method|intelligence|intelligence|traditional|environments|comparisons|opens|compare|methods|linguistic|result|ways|decisions|based|participants|decision|crowd|discarding|consistent|positive|consensus|participants|open|correct|environments|translated|unable|assessment|aggregating|results|new|given|making|studying|comparing|proposed|improve|scales|studied|show|scale|numbers|negative|views|make|intuitionistic|ifns|evaluations|effectively|alternative|proposed|form|corresponding|fuzzy
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Pairwise comparison|Computer science|Artificial intelligence|Atmospheric measurements|Fuzzy number|Linguistics|Machine learning
+references:1771499885|1892798451|1947108233|1969696992|1982675899|1993223769|2033781609|2036378460|2046414928|2094298620|2109756042|2111211679|2179505082|2234548561|2257836145|2296349740|2404062815|2410588362|2535483340|2553414616|2563128797|2585365755|2593514577|2609291468|2772795677|2964219651
+
+
+id:2962391758
+title:Sara: self-replay augmented record and replay for Android in industrial cases
+year:2019
+author information:[
+author name:Jiaqi Guo
+author organization:Xian Jiaotong University
+author id:2885764837|
+author name:Shuyue Li
+author organization:Xian Jiaotong University
+author id:2956862194|
+author name:Jian-Guang Lou
+author organization:Microsoft
+author id:2147362817|
+author name:Zijiang Yang
+author organization:Western Michigan University
+author id:2265437558|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:called|accurate|usage|empirical|conducting|constraints|without|evaluation|number|sizes|enable|record|revealed|diverse|instrumentation|events|method|researchers|devices|quality|requested|study|industry|tools|layer|adaptive|accommodate|mechanism|popular|degrading|increasing|concludes|information|replaying|recordandreplay|inputs|android|available|screen|used|developed|sufficient|recordandreplay|selfreplay|dynamic|different|bridging|replay|towards|publicly|tool|android|assurance|proposed|demonstrate|present|adoption|sources|technique|recording|indispensable|interactions|targeting|versions|common|due|gap|sara|applications|designed|highly|experience|effectiveness|characteristics|industry|wide|os|mobile|rich|satisfying|devices|existing|tools|industrial|performance|application|various|user|applications
+venue name:International Symposium on Software Testing and Analysis
+venue id:1124964101
+venue type:C
+document type:Conference
+study fields:Dynamic instrumentation|Application layer|User experience design|Android (operating system)|Software engineering|Computer science|Bridging (networking)|Real-time computing|Empirical research|Quality assurance
+references:11234669|1985206804|1995362840|2016996406|2025721496|2110561520|2129663982|2136252398|2142892618|2146511370|2362396924|2402294257|2489217640|2547177643|2741894851|2767584442|2792393499|2809206754|2890086692|2963943519
+
+
+id:2979748833
+title:Method Selecting Correct One Among Alternatives Utilizing Intuitionistic Fuzzy Preference Relation Without Consensus Reaching Process
+year:2019
+author information:[
+author name:Hengshan Zhang
+author organization:Xi’an University of Posts  Telecommunications
+author id:2096165136|
+author name:Qinghua Zheng
+author organization:School of Electronic and Information Engineering Xian Jiaotong University China
+author id:2149828499|
+author name:Zhongmin Wang
+author organization:Xi’an University of Posts  Telecommunications
+author id:2895869309|
+author name:Yanping Chen
+author organization:Xi’an University of Posts  Telecommunications
+author id:2897860145|
+author name:Ting Liu
+author organization:School of Electronic and Information Engineering Xian Jiaotong University China
+author id:2590685047|
+author name:Tianhua Chen
+author organization:University of Huddersfield
+author id:2135907955|
+]
+abstract:small|correct|reflected|experimental|translated|developed|alternatives|number|solution|largerscale|pairwise|calculated|results|case|challenge|defined|selected|group|obtain|give|based|actual|grouped|method|makers|preference|aggregated|proposed|even|comparisons|prediction|tackle|alternatives|relation|obtained|one|making|methods|utilizing|normalized|according|show|reaching|answer|negative|minimal|rate|collective|based|views|fuzzy|intuitionistic|process|decision|could|alternative|positive|consensus|conventional|answer|opinions|novel|supported|makers
+venue name:IEEE International Conference on Fuzzy Systems
+venue id:2606228224
+venue type:C
+document type:Conference
+study fields:Small number|Pairwise comparison|Normalization (statistics)|Numerical models|Computer science|Artificial intelligence|Fuzzy number|Fuzzy preference relation|Machine learning|Group decision-making
+references:1892798451|1981107087|1982675899|2007244794|2032391665|2036378460|2094298620|2144798659|2153233136|2160685811|2234548561|2593514577|2609291468|2883111121|2883880313|2884100325|2897180670
+
+
+id:2998298992
+title:Moving Target Defense Approach to Detecting Stuxnet-Like Attacks
+year:2020
+author information:[
+author name:Jue Tian
+author organization:University
+author id:2662916093|
+author name:Rui Tan
+author organization:University
+author id:2139957394|
+author name:Xiaohong Guan
+author organization:Xian jiaotong university
+author id:2119048549|
+author name:Zhanbo Xu
+author organization:Xi’an Jiaotong University
+author id:2114835860|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+]
+abstract:simulation|approach|grids|cover|ongoing|implication|moving|case|knowledge|based|still|loops|propose|push|secondary|system|analyze|conditions|systems|regions|unsafe|defense|analyzes|incidents|attack|actively|sl|power|measurements|detecting|faced|generally|stuxnet|fake|mtd|cyberphysical|open|cps|remains|research|realistic|attacks|results|us|ieee|test|cybersecurity|signals|stuxnetlike|sensor|successful|basic|present|since|settings|issue|configuration|critical|configuration|changes|detect|recent|paper|alert|irongate|threats|constructed|apply|control|target|voltage|inject|compromise
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Open research|Telecommunications network|Voltage control|Computer security|System configuration|Computer worm|Control engineering|Stuxnet|System dynamics|Engineering|Moving target defense
+references:207267598|1995629171|2003530067|2030140501|2038651258|2066909550|2106306039|2117435128|2155589794|2158698691|2486732148|2528550849|2762155482|2783169723|2962837023|2963188433|2963209376|2963445270|2963573945
+
+
+id:2999260806
+title:Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation
+year:2019
+author information:[
+author name:Qiong Feng
+author organization:DREXEL UNIV
+author id:2230759880|
+author name:Yuanfang Cai
+author organization:DREXEL UNIV
+author id:2150140357|
+author name:Rick Kazman
+author organization:University of Hawaii
+author id:1185439314|
+author name:Di Cui
+author organization:Xian jiaotong university
+author id:2563058794|
+author name:Ting Liu
+author organization:Xian Jiaotong University
+author id:2590685047|
+author name:Hongzhou Fang
+author organization:DREXEL UNIV
+author id:2999592356|
+]
+abstract:projects|software|numerous|stateoftheart|tracking|largely|evolves|unaware|hundreds|per|tasks|unnoticed|happen|using|grow|thus|compared|impact|losses|active|maintain|impacts|propose|attention|precisely|quality|exist|system|among|strong|affect|automatically|hotspots|tools|long|result|bugs|persist|architecture|detection|address|possible|cumulative|severe|showed|report|emerge|open|issues|reveal|overnight|project|degradation|source|smell|earlier|time|adding|problems|new|given|fixing|architecture|individual|dominating|difficult|significant|becomes|timelines|developers|immediate|flaws|focused|files|software|debt|problems|code|show|detect|unnoticed|interactions|prevent|negative|signs|along|scope|design|early|deserve|studied|go|monitor|evolution|significance|special|ones|time|severe|revised|quietly|accumulating
+venue name:Automated Software Engineering
+venue id:1166511975
+venue type:C
+document type:Conference
+study fields:Architecture|Systems engineering|Software engineering|Computer science|Debt|Timeline|Software|Software evolution|Software quality|Hotspot (Wi-Fi)|Code smell
+references:144610867|1506445320|1550797871|1933119144|1965658570|1987270873|2004471732|2014216297|2014418158|2017709030|2019386815|2019616236|2020400699|2038899190|2059796957|2088339550|2100925270|2108086273|2111305209|2117944944|2120160565|2121316451|2128780139|2139074146|2139885493|2141069252|2141558501|2143728276|2150098915|2151295763|2151357307|2153887189|2160506632|2216905672|2359516361|2392975828|2560569679|2739113232|2767246253|2767683547|2772484800|2888334439|2895160080|2900917408
+
+
+id:1576544147
+title:A note on observability of Boolean control networks
+year:2015
+author information:[
+author name:Daizhan Cheng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2099465354|
+author name:Hongsheng Qi
+author organization:Key Laboratory of Systems and Control, Institute of Systems Science, Chinese Academy of Sciences, Beijing 100190, P. R. China
+author id:2168369535|
+author name:Ting Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2700209875|
+author name:Yuanhua Wang
+author organization:Shandong University
+author id:2135060399|
+]
+abstract:called|transferable|construct|used|three|pairs|investigated|boolean|observability|last|finite|matrix|presented|iterative|classified|iterations|examples|among|algorithm|one|hindistinguishable|hindistinguishable|networks|matrix|states|network|proved|numerical|pairs|indicates|w|modifying|initial|controltransferability|column|control|rows|stable|yields
+venue name:Asian Control Conference
+venue id:2755813646
+venue type:C
+document type:Conference
+study fields:Row|Diagonal|Discrete mathematics|Combinatorics|Observability|Observable|Controllability|Logical matrix|Iterative method|Matrix (mathematics)|Mathematics
+references:1532781952|1975812564|1976432308|1987906683|1991720013|2008873019|2012641411|2030235975|2033041501|2043307254|2052136341|2058219513|2073458555|2077053100|2131754626|2134367920|2136433622|2153364687|2168891449|2257686411
+
+
+id:1625202375
+title:Observability of dynamic control games
+year:2015
+author information:[
+author name:Hongsheng Qi
+author organization:Key Laboratory of Systems and Control, Institute of Systems Science, Chinese Academy of Sciences, Beijing 100190, P. R. China
+author id:2168369535|
+author name:Ting Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2700209875|
+author name:Daizhan Cheng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2099465354|
+]
+abstract:optimal|observable|recognized|via|observed|realized|model|judge|calculate|algorithm|goals|give|consider|ceg|work|identifiable|completely|systems|two|necessary|may|initial|strategies|n|logical|controlled|u|x|standard|rules|payoffs|updating|whether|find|sufficient|dynamic|described|though|payoffs|game|sequence|condition|assume|game|importance|provided|states|machinehuman|also|control|outputs|machines|strategy|evolutionary
+venue name:Robotics, Automation and Mechatronics
+venue id:1129429480
+venue type:C
+document type:Conference
+study fields:Observability|Optimal control|Observable|Control theory|Control engineering|Control system|Mathematics|U-1
+references:2106897308
+
+
+id:2194530502
+title:A note on observability of Boolean control networks
+year:2016
+author information:[
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+author name:Hongsheng Qi
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2168369535|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2700209875|
+author name:Yuanhua Wang
+author organization:Shandong University
+author id:2135060399|
+]
+abstract:called|transferable|indistinguishable|construct|used|three|pairs|investigated|indistinguishable|boolean|observability|last|finite|matrix|presented|iterative|classified|iterations||examples|among|algorithm|networks|matrix|states|network|proved|numerical|pairs|indicates|u|w|modifying|col|initial|abstract|controltransferability|h|column|control|r|stable|yields
+venue name:Systems  Control Letters
+venue id:56603566
+venue type:J
+document type:Journal
+study fields:Diagonal|Discrete mathematics|Observability|Combinatorics|Observable|Logical matrix|Matrix (mathematics)|Iterative method|Control network|If and only if|Mathematics
+references:1532781952|1975812564|1976432308|1987906683|1991720013|2008873019|2012641411|2030235975|2033041501|2043307254|2052136341|2058219513|2073458555|2077053100|2088259098|2131754626|2134367920|2136433622|2139364826|2153364687|2168891449|2257686411|2344696827
+
+
+id:2292875790
+title:Strategy synchronization of multi-player systems
+year:2015
+author information:[
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2668890968|
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+]
+abstract:controls|called|stabilization|allowed|use|using|simple|approach|space|consist|via|second|dynamics|updating|problem|sufficient|obtained|dynamic|block|state|results|consider|need|negs|aggregated|system|condition|system|converted|considered|switched|overall|obtained|conditions|largescale|networked|algebraic|global|aggregation|representation|two|ones|revealed|partition|systems|negs|necessary|strategies|control|follow|formulated|logical|agents|controlled|neg|proposed|ones|synchronization|approached|suitable|designed|strategy|evolutionary|certain
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Synchronization|Algebraic number|Computer science|Control theory|Global information|State-space representation|Multi-agent system|Control engineering|Artificial neural network|Partition (number theory)|Dynamical system
+references:1570317428|2045817941|2053648336|2063805653|2073458555|2090408760|2103151730|2140380216|2444115642|2912291331
+
+
+id:2343109992
+title:On Decomposed Subspaces of Finite Games
+year:2016
+author information:[
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2700209875|
+author name:Kuize Zhang
+author organization:Harbin Engineering University
+author id:2634269018|
+author name:Hongsheng Qi
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2168369535|
+]
+abstract:nonstrategic|dynamics|games|obtained|dynamic|consider|near|potential|equivalence|finite|investigating|basis|three|explicit|subspaces|convenient|provide|networked|problems|games|note|description|decomposition|pure|revealed|bases|provides|harmonic|negs|decomposed|subspaces|also|detailed|corresponding|formula|evolutionary|properties
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Harmonic|Linear subspace|Harmonic analysis|Artificial neural network|Dynamic and formal equivalence|Mathematics
+references:1570317428|1675187506|1981609310|2024612830|2051832743|2069397923|2073458555|2090408760|2092929058|2103151730|2133768277
+
+
+id:2512479606
+title:Vector space structure of finite evolutionary games and its application to strategy profile convergence
+year:2016
+author information:[
+author name:Hongsheng Qi
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2168369535|
+author name:Yuanhua Wang
+author organization:Shandong University
+author id:2135060399|
+author name:Ting Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2700209875|
+author name:Daizhan Cheng
+author organization:Shandong University
+author id:2099465354|
+]
+abstract:results|equivalences|egs|equilibrium|dynamics|games|calculate|near|defined|reduce|using|players|profile|two|subspaces|converge|examples|exact|obtained|nash|lyapunov|proved|assure|vector|set|strategies|eequilibrium|using|numbers|statical|rules|simple|used|space|investigated|updating|certain|presented|function|different|weighted|potential|given|eg|finite|illustrate|presented|proposed|considered|fixed|projection|players|games|convergence|studied|trajectories|provided|formulas|pure|projection|dimension|subspace|structure|application|strategy|formula|strategy|evolutionary
+venue name:Journal of Systems Science  Complexity
+venue id:45848134
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Lyapunov function|Mathematical optimization|Vector space|Subspace topology|Control theory|Linear subspace|Nash equilibrium|Mathematics
+references:1976432308|1981609310|2020196141|2051832743|2090408760|2106897308|2119845623|2133768277|2134367920
+
+
+id:2568160363
+title:On finite harmonic games
+year:2016
+author information:[
+author name:Changxi Li
+author organization:Harbin Institute of Technology, 150001, China
+author id:2692473003|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2700209875|
+author name:Fenghua He
+author organization:Harbin Institute of Technology, 150001, China
+author id:2143740673|
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+author name:Hongsheng Qi
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2168369535|
+author name:Yiguang Hong
+author organization:Key Laboratory of Systems and Control, Chinese Academy of Sciences, Beijing, China
+author id:2170864033|
+]
+abstract:paper|number|investigated|sufficient|games|obtained|investigated|equivalence|finite|presented|basis|two|condition|problems|games|fundamental|pure|nash|revealed|precise|harmonic|equilibria|dynamical|necessary|discussed|structure|twoplayer|equilibrium|evolutionary|forms
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Power system harmonics|Control theory|Harmonic|Harmonic analysis|Equivalence (measure theory)|Control system|Nash equilibrium|Mathematics
+references:1570317428|1675187506|2051832743|2073458555|2090408760|2111250529|2133768277|2343109992
+
+
+id:2753551477
+title:Observability of Finite Labeled Transition Systems
+year:2018
+author information:[
+author name:Kuize Zhang
+author organization:Harbin Engineering University
+author id:2634269018|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2700209875|
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+]
+abstract:exponential|algorithms|arbitraryexperiment|run|quartic|effective|nondeterministic|paper|systems|provides|socalled|observability|finite|multipleexperiment|verifying|literature|finitely|finite|labeled|simpleexperiment|many|transition|existing|outputs|polynomial|nontotal
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Applied mathematics|Observability|Mathematical optimization|Exponential function|Algorithm design|Nondeterministic algorithm|Automaton|Quartic function|Mathematics|Trajectory
+references:1483893502|1498432697|1966651017|2028587915|2030235975|2047798259|2055298790|2147408468|2150335178|2155447404|2160282650|2287892720|2344696827|2497816991
+
+
+id:2793975659
+title:Verification and Dynamics of Group-Based Potential Games
+year:2019
+author information:[
+author name:Changxi Li
+author organization:Control and Simulation Center; Harbin Institute of Technology; Harbin China
+author id:2692473003|
+author name:Fenghua He
+author organization:Control and Simulation Center; Harbin Institute of Technology; Harbin China
+author id:2143740673|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2700209875|
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+]
+abstract:groupbased|called|theoretical|considered|using|paper|solved|dynamics|whether|potential|investigated|verification|profile|hypergraph|converge|strongly|hypernetworked|myopic|adjustment|detail|demonstrate|potentialtype|checking|game|studied|semitensor|provided|best|pure|nash|rule|example|proved|cascading|result|class|linear|strategies|discussed|equation|solution|played|response|equilibrium|evolutionary
+venue name:IEEE Transactions on Control of Network Systems
+venue id:2502544478
+venue type:J
+document type:Journal
+study fields:Linear equation|Mathematical optimization|Potential game|Hypergraph|Best response|Control system|Artificial neural network|Nash equilibrium|Mathematics|Computational complexity theory
+references:821019010|2004017431|2020196141|2030235975|2058626062|2086688123|2090408760|2103151730|2111250529|2128727659|2444115642
+
+
+id:2809712240
+title:From Boolean game to potential game
+year:2018
+author information:[
+author name:Daizhan Cheng
+author organization:Shandong University
+author id:2099465354|
+author name:Ting Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2893938212|
+]
+abstract:flipped|using|used|approach|space|second|symmetry|games|revealed|proof|boolean|potential|weighted|respectively|give|new|renaming|potential|game|provide|advantage|demonstrate|subsets|games|game|fact|provided|two|nonsymmetric|specified|symmetric|proved|resorting|vector|product|explore|constructed|alternative|also|structure|proposed|advantages|corresponding|formula|semitensor|first
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Vector space|Mathematical optimization|Algebra|Matrix (mathematics)|Potential game|Mathematics
+references:1570317428|1675187506|2086688123|2090408760|2147552962|2166943342|2343109992
+
+
+id:2906314504
+title:Symmetry-based decomposition of finite games
+year:2019
+author information:[
+author name:Changxi Li
+author organization:School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2692473003|
+author name:Fenghua He
+author organization:School of Astronautics, Harbin Institute of Technology, Harbin, China
+author id:2143740673|
+author name:Ting Liu
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2893938212|
+author name:Daizhan Cheng
+author organization:Key Laboratory of Systems and Control, Academy of Mathematics and Systems Sciences Chinese Academy of Sciences Beijing China
+author id:2099465354|
+]
+abstract:space|symmetric|potentialbased|bases|revealed|investigated|orthogonal|dual|games|obtained|vector|complement|symmetrybased|subspace|decomposed|finite|presented|twoplayer|subspaces|subspace|decompositions|properties|dimensions
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Vector space|Subspace topology|Potential game|Pure mathematics|Antisymmetric relation|Linear subspace|Symmetric game|Orthogonal complement|Nash equilibrium|Mathematics
+references:1675187506|1949633497|2051832743|2073458555|2083412921|2090408760|2103151730|2111250529|2170777543|2341447093|2343109992|2568160363
+

@@ -1,0 +1,2866 @@
+
+id:66295247
+title:WT-LDA: User Tagging Augmented LDA for Web Service Clustering
+year:2013
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yilun Wang
+author organization:University
+author id:2131471174|
+author name:Qi Yu
+author organization:Rochester Institute of Technology, USA
+author id:2141651534|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:tagging|seamlessly|trend|accuracy|focus|approach|three|documents|recent|similar|based|efficiency|using|propose|fail|latent|web|completely|description|utilizing|experiments|wsdl|search|ldabased|together|engines|performance|strategies|services|framework|clustering|information|approach|comprehensive|novel|data|documents|trivially|preprocess|dirichlet|lda|develop|real|solely|important|proposed|improve|helps|demonstrate|limitation|leverage|usercontributed|lda|augmented|integrated|language|allocation|functionalities|engine|hence|carried|effectiveness|implementation|groups|service|also|approaches|clustering|existing|performance|service|clustering|integrates
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Data mining|Latent Dirichlet allocation|Search engine|Information retrieval|Computer science|Web service clustering|Web service|Cluster analysis|Service discovery
+references:63061330|63252850|142728198|1480413009|1488986893|1770838219|1880262756|1889380734|1989342565|1990843604|1993332216|2057034415|2069495730|2091381870|2098162425|2112723336|2127021547|2140124448|2145825359|2146013510|2151287369|2152361608|2159540907|2277639114
+
+
+id:104575246
+title:A Semantic-Based Dual Caching System for Nomadic Web Service
+year:2013
+author information:[
+author name:Panpan Han
+author organization:Zhejiang University
+author id:2549615932|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:standard|clients|data|upload|caching|via|loss|download|connectivity|energy|reduce|development|cache|method|devices|work|widely|handle|less|service|downloaded|system|proposed|web|become|hosting|unexpected|latency|platform|network|result|tend|computing|dual|load|web|sudden|since|client|architecture|resources|side|bandwidth|limited|fluctuating|mobile|workloads|service|services|store|data|devices|connected|well|emerge|wireless|significantly
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Client-side|Mobile search|Cache|Computer science|Upload|False sharing|Mobile device|Mobile Web|Web service|Operating system
+references:1540805497|1970383686|1971158118|1974302656|2067760049|2109906692|2117189944|2129269067|2162587626
+
+
+id:398639405
+title:Data Augmented Maximum Margin Matrix Factorization for Flickr Group Recommendation
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yilun Wang
+author organization:University
+author id:2131471174|
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Lichuan Ji
+author organization:Zhejiang University
+author id:2109918233|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:named|recommendation|decide|complementary|approach|annotated|suffer|problem|matrix|gained|filtering|similar|images|choose|collaborative|crawled|handle|propose|tags|obtained|margin|integrating|selforganized|popularity|experiments|uploaded|share|photo|many|flickr|massive|mmmf|information|approach|dataset|augmented|communities|used|photos|employed|maximum|brings|graph|huge|directly|group|conducted|usergroup|sharing|users|graph|volume|group|hybrid|proposed|techniques|improve|demonstrate|since|user|part|cold|troubles|conversations|interest|similarity|effectiveness|applying|start|groups|data|factorization|performance|affiliate|user
+venue name:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+venue id:1178327129
+venue type:C
+document type:Conference
+study fields:Data mining|Latent Dirichlet allocation|Collaborative filtering|Hinge loss|Information retrieval|Cold start|Computer science|Popularity|Matrix decomposition|Upload|Non-negative matrix factorization
+references:87195067|1532325895|1976618413|1984265637|1990843604|1993225236|2037547805|2054141820|2068501849|2074822122|2076525882|2122090912|2135029798|2136122757|2155106456|2158307368|2169463887|2172118809|2341865734|2913081710
+
+
+id:1515133750
+title:Manifold-Learning Based API Recommendation for Mashup Creation
+year:2015
+author information:[
+author name:Wei Gao
+author organization:Zhejiang University
+author id:2563110211|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Honghao Gao
+author organization:Zhejiang University
+author id:2717604206|
+]
+abstract:cluster|three|approach|programmable|number|relationships|problem|mashups|terms|manifold|algorithm|similar|based|using|crawled|apis|propose|web|appropriate|recommending|accessible|study|recommend|experiments|rapidly|adoption|web|composition|among|popular|map|creation|user|services|characterize|framework|increasing|challenging|ranking|dataset|programmble|creation|incorporate|generated|huge|architecture|need|apis|real|take|proposed|serviceoriented|demonstrate|mashups|functionally|ndcg|recommendation|investigate|mash|categorize|effectiveness|wide|automatic|satisfying|compositions|clusters|requirement|factors|existing|ones|suitable|api
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Learning to rank|Data mining|Mashup|World Wide Web|Computer science|Linear programming|Cluster analysis|Nonlinear dimensionality reduction|Manifold ranking|Database|Semantics
+references:63252850|1484223452|1491472737|1660390307|1986949163|2011336438|2016634230|2020436171|2021035032|2030239032|2035009322|2064896247|2069495730|2072191819|2072309371|2120146528|2131791003|2141884427|2146013510|2153386569|2162592052|2165545336|2171633114|2563886019
+
+
+id:1587633949
+title:Learning Sparse Functional Factors for Large-Scale Service Clustering
+year:2015
+author information:[
+author name:Qi Yu
+author organization:
+author id:2141651534|
+author name:Hongbing Wang
+author organization:Southeast University
+author id:2101019922|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+]
+abstract:decade|together|usage|accuracy|number|realworld|terms|diverse|represented|text|promising|similar|efficiency|large|method|past|service|easy|propose|benefit|terms|latent|provide|unique|discovered|functional|works|fact|improved|automatically|experiments|fundamental|sparsity|two|sparsely|desired|offered|demonstrated|poses|regular|witnessed|set|sets|services|extensive|fast|discovery|machine|functionalityrelated|constraint|approach|space|represent|small|data|use|autonomous|descriptions|space|solution|different|challenge|making|learns|searched|especially|proposed|leads|detecting|functionalities|comprised|demonstrate|largescale|functionally|challenges|line|additional|show|description|respective|learning|recent|factors|total|central|functionalities|enumerate|make|webbased|highly|allows|effectiveness|characteristics|opposed|types|determine|nature|limited|service|also|way|factors|enforces|descriptions|conduct|due|service|arises|typical|growth|clustering|services|user|providers|assign
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data science|Small number|Data mining|Computer science|Service provider|Constrained clustering|Web service|Cluster analysis|Service discovery
+references:63061330|63252850|1480413009|1516111018|1586345749|1660390307|1880262756|1989342565|1993332216|2007259720|2013029404|2043545458|2057034415|2069495730|2101168711|2103155997|2110559139|2117111086|2132526688|2152361608|2164376763|2167340291|2169658215|2171104838|2294155649
+
+
+id:1601307935
+title:WS-HFS: A Heterogeneous Feature Selection Framework for Web Services Mining
+year:2015
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Qi Yu
+author organization:Coll. of Comput.  Inf. Sci., Rochester Institute of Technol., Rochester, NY, USA
+author id:2141651534|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:tagging|named|recommendation|feature|annotated|usually|state|tags|case|knowledge|based|profile|handle|attention|propose|invocation|provide|web|functional|compare|log|selection|given|experiments|computing|wsdl|opinions|nominal|feature|collective|sources|art|may|approaches|one|model|consensus|help|heterogeneous|framework|wshfs|unified|features|data|historical|click|reflecting|heterogeneous|features|generated|find|attracts|different|combine|given|development|capture|weight|informative|real|important|proposed|improve|background|considered|demonstrate|correlated|sources|description|combining|qos|functionalities|provides|task|effectiveness|big|process|subspace|termbased|apply|multiple|service|data|response|performance|build|service|challenge|clustering|user|comprehensive
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Services computing|Data mining|Data modeling|Data stream mining|User profile|Computer science|Web service|Big data|Data as a service|Database|Web Coverage Service
+references:63252850|66295247|1480413009|1488986893|1989342565|1993332216|1999075720|2050911218|2064896247|2069495730|2091381870|2104185402|2138879393|2172105112|2277639114
+
+
+id:1926147975
+title:FTCRank: Ranking Components for Building Highly Reliable Cloud Applications
+year:2013
+author information:[
+author name:Hanze Xu
+author organization:Zhejiang University Hangzhou
+author id:2528673606|
+author name:Yanan Xie
+author organization:Zhejiang University
+author id:2151674255|
+author name:Dinglong Duan
+author organization:Zhejiang University Hangzhou
+author id:2281381729|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:named|optimal|achieves|approach|building|research|cloud|reliable|solution|results|tasks|order|obtain|give|ftcrank|significant|propose|provide|largescale|algorithms|show|experiments|effective|popularity|result|hard|applications|faulttolerant|highly|considers|topk|applying|characteristics|components|strategies|also|structure|better|existing|component|increasing|ranking|information|important|applications
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Data mining|Ranking|Computer science|Popularity|Cloud testing|Distributed computing|Cloud computing
+references:1973166106|2034179562|2057034415|2079888102|2113737616|2122588792|2134420134|2337969425
+
+
+id:1981837681
+title:Composite Service Recommendation Based on Bayes Theorem
+year:2012
+author information:[
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Hengyi Jian
+author organization:Zhejiang University
+author id:2130077544|
+]
+abstract:much|accuracy|recommendation|approach|three|analyzing|number|sequence|experiment|composite|diverse|based|efficiency|compared|past|work|decade|propose|resulting|explicit|etc|authors|implicit|algorithms|increased|quality|recommend|sequences|two|result|web|exponentially|set|contain|robust|services|matchmaking|information|vast|approach|first|main|logs|results|illustrate|bayesian|candidates|sequence|focused|little|helps|present|higher|facilitate|recommendation|optimized|show|best|identifying|qos|execution|original|previous|apply|also|existing|service|optimization|paid|attention|step
+venue name:International Journal of Web Services Research
+venue id:119470311
+venue type:J
+document type:Journal
+study fields:Data mining|Computer science|Quality of service|Web service|Database|Bayes theorem|Bayesian probability
+references:45952787|1503653277|1505791277|1965810726|1969057062|1971040550|1978158540|1981692199|2026749761|2091381870|2095814185|2101247289|2114091875|2115702754|2118448117|2119232484|2119319400|2120104197|2120686532|2133266261|2149026085|2159094788|2160050847|2162220364|2162483859|2166627394|2167008685|2171075212|2171104838|2525981820
+
+
+id:1998960889
+title:MapReduce Skyline Query Processing with a New Angular Partitioning Approach
+year:2012
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Kai Hwang
+author organization:Southern California University
+author id:2612957084|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:select|optimal|dimensionality|reach|number|realtime|dataspace|encouraging|upgrade|method|large|optimality|probability|hadoop|reduce|critically|angular|selection|processing|server|experiments|respectively|skyline|local|reallife|web|ecommerce|reduces|attribute|fast|elimination|processing|skyline|highquality|services|assess|metric|grid|shortens|dominance|scalable|data|dimensional|space|mapreduce|computations|cloud|faster|find|optimality|results|selected|new|query|angularpartitioned|scales|present|experimenting|higher|importance|redundant|times|parallel|define|applications|cardinality|selecting|increase|performance|due|various|service|partitioning|well|time|services|significantly|applications
+venue name:International Parallel and Distributed Processing Symposium
+venue id:1191753779
+venue type:C
+document type:Conference
+study fields:Skyline|Data mining|Computer science|Server|Performance metric|Web service|Group method of data handling|Grid|Cloud computing|Distributed computing|Scalability
+references:1497676489|1518543119|1580944449|1965810726|1966731479|1976860187|1985635698|1996162665|2049864887|2075106684|2089329793|2095595858|2096116903|2096547754|2110027139|2110261118|2114990655|2115409852|2116434582|2119211913|2119232484|2121612399|2126547925|2137616448|2140300215|2141880113|2160494060|2162220288|2162220364|2170188482|2173213060
+
+
+id:1999075720
+title:Collaborative QoS Prediction via Matrix Factorization and Topic Model
+year:2013
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Lichuan Ji
+author organization:Zhejiang University
+author id:2109918233|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:explosive|named|dataset|registered|approach|realworld|serviceoriented|experiment|builds|reality|recent|order|algorithm|issue|carefully|collaborative|handle|years|selection|latent|web|even|qualityofservicebased|integrating|works|matrix|result|current|known|scenario|integral|validate|problem|probabilistic|services|many|coldstart|factorization|model|lots|framework|accuracy|becoming|employed|consider|computing|representative|new|cqp|demonstrates|proposes|conducted|users|important|involved|proposed|supposed|prediction|topic|applied|values|qos|paper|missing|predict|value|previous|approaches|outperforms|service|online|growth|user
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Matrix decomposition|Quality of service|Topic model|Missing data|Probabilistic logic|Web service|Service-oriented architecture|The Internet
+references:1880262756|1965810726|2026749761|2030239032|2034405392|2037111396|2075106684|2091381870|2104185402|2135790056|2137245235|2140597141|2141880113|2144651846|2146356176|2151464835|2171075212
+
+
+id:1999341978
+title:A Trust-Aware Search Engine for Complex Service Computing
+year:2014
+author information:[
+author name:Mingdong Tang
+author organization:Hunan University of Science and Technology
+author id:2145636657|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Jianxun Liu
+author organization:Hunan University of Science and Technology
+author id:2137166409|
+author name:Buqing Cao
+author organization:Hunan University of Science  Technology
+author id:2495652069|
+author name:Zhengguang You
+author organization:Hunan University of Science and Technology
+author id:2053513148|
+]
+abstract:increasingly|dataset|servicerelated|experimental|recommendations|three|approach|evaluation|four|complex|using|method|methods|yielded|contains|keyenabling|selection|web|among|complex|evaluate|become|recommending|integrating|components|experiments|engine|computing|search|emerging|validate|highquality|business|combines|services|mobile|produce|prototype|partners|collaboration|aiming|ranking|becoming|reputation|presented|keywordbased|different|results|new|development|conducted|real|hybrid|proposed|customers|final|trust|support|provided|trustaware|show|paradigms|primarily|computing|paper|qos|engine|previous|trustful|service|also|technology|outperforms|qosbased|performance|conventional|providers|service|cloud|interaction|comprehensive|presents
+venue name:International Journal of Web Services Research
+venue id:119470311
+venue type:J
+document type:Journal
+study fields:Service design|Data mining|Mobile QoS|Service level objective|World Wide Web|Computer science|Service system|Differentiated service|Service catalog|Service level requirement|Data as a service|Database
+references:1496369013|1505791277|1515843482|1750509507|2000884234|2019207508|2026711685|2048246528|2062245965|2090987777|2096874095|2102375178|2127158403|2130033043|2132526688|2133254703|2138317117|2141880113|2144596953|2160375412|2171075212|2171104838
+
+
+id:2000472440
+title:Trust-aware media recommendation in heterogeneous social networks
+year:2015
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Qi Yu
+author organization:Rochester Institute of Technology
+author id:2141651534|
+author name:Panpan Han
+author organization:Zhejiang University
+author id:2549615932|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:select|nowadays|recommendation|nontrivial|reliable|realworld|advances|easily|twophase|gaining|based|come|demand|ever|graph|completely|kinds|providing|seed|experiments|recommend|exploits|consuming|challenges|partition|popularity|supports|behavior|key|social|sources|set|may|gccr|contentbased|extensive|purpose|assess|entities|increasing|information|vast|technological|interests|open|novel|adopted|evidence|data|historical|sites|autonomous|used|overloaded|developed|tremendous|hold|trustworthiness|employs|different|facebook|recommendation|group|groups|develop|sharing|users|graph|becomes|technologies|fake|convenient|proposed|unreliable|tackle|framework|summarization|sources|media|coined|platform|network|candidate|central|interest|effectiveness|amount|process|social|match|perform|spread|contentbased|providers|usercentric|clustering|interested|strategy|user|providers|referred
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data mining|World Wide Web|Social media|Social network|Trustworthiness|Computer science|Information providers|Popularity|Exploit|Cluster analysis|Graph summarization
+references:1562400265|1690919088|1966553486|1980672078|2038333294|2042281163|2049455633|2070786785|2080512030|2085937320|2095252517|2097951507|2101196063|2105040129|2110325612|2110407609|2114353347|2119339254|2130234299|2133919533|2137748282|2142974461|2156523427|2159094788|2165897980|2543842955
+
+
+id:2034565563
+title:Content-boosted maximum margin matrix factorization for Flickr group recommendation
+year:2013
+author information:[
+author name:Yilun Wang
+author organization:Zhejiang University Hangzhou
+author id:2131471174|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:named|recommendation|cold|stateoftheart|flickr|suffer|problem|matrix|filtering|browsing|images|method|collaborative|crawled|propose|obtained|greatly|margin|images|experiments|merits|uploaded|inherits|photo|combines|many|flickr|advantages|recommending|information|dataset|communities|experience|maximum|owns|directly|group|groups|conducted|usergroup|sharing|contentboosted|users|graph|hybrid|improve|techniques|demonstrate|since|framework|similarity|effectiveness|applying|groups|also|factorization|contentbased|regularization|online|affiliate|user|eg
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Collaborative filtering|Information retrieval|Computer science|Upload|Matrix decomposition|Graph regularization|Cold start (automotive)
+references:1976618413|2054141820|2074822122|2122090912|2136122757|2155106456|2341865734|2543453567
+
+
+id:2037479317
+title:Full Recognition of Massive Products Based on Property Set
+year:2013
+author information:[
+author name:Li Kuang
+author organization:Central South University
+author id:2802117778|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yanan Xie
+author organization:Zhejiang University
+author id:2151674255|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:standard|data|project|whole|main|put|faced|number|contributions|problem|solution|terms|solves|recent|similar|based|development|coordinate|need|work|mining|establish|intelligence|algorithms|identifying|analysis|applied|mass|industry|area|products|increases|effective|rapidly|parallel|ecommerce|product|business|efficient|forward|unifying|standards|lacks|also|existing|massive|framework|although|unified|standard|online
+venue name:International Congress on Big Data
+venue id:2626150945
+venue type:C
+document type:Conference
+study fields:Competitive intelligence|Data mining|Computer science|Parallel algorithm|Theoretical computer science|Product data|Data mining algorithm|Business intelligence|Cluster analysis|Database|Cloud computing
+references:63252850|1971022913|1994439126|2022686119|2026360870|2041807795|2042281163|2064853889|2080327348|2122588792|2149230623|2157682389|2159094788|2163563073|2166559705
+
+
+id:2057034415
+title:Titan: a system for effective web service discovery
+year:2012
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Yanan Xie
+author organization:Zhejiang University
+author id:2151674255|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+]
+abstract:big|tagging|becoming|documents|internet|recommendation|main|employed|would|tag|challenge|utilized|inherent|tags|crawled|handle|propose|tags|relevant|contains|improve|retrieve|boost|greatly|titan|problems|description|wsdl|distribution|two|ones|effective|search|web|engine|uneven|noise|ability|effectiveness|service|services|increase|clustering|discovery|service|discovery|clustering|user|adopted
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Static web page|Web development|World Wide Web|Information retrieval|Web page|Computer science|Web standards|Data Web|Web modeling|Web service|Web Coverage Service
+references:63252850|1770838219|1971784203|2069495730|2098162425|2132526688|2146013510|2159540907|2165897980|2171104838
+
+
+id:2064896247
+title:Instant Recommendation for Web Services Composition
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Hengyi Jian
+author organization:Zhejiang University
+author id:2130077544|
+author name:Hongbo Deng
+author organization:University of Illinois at Urbana Champaign
+author id:2682826105|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:pruning|optimal|fulfill|processlevel|recommendation|semiautomatically|approach|professional|reliable|realworld|composite|recent|fully|algorithm|still|efficiency|abundant|probability|crawled|instant|efficiently|propose|dynamically|provide|web|adopt|domain|utilize|appropriate|log|experiments|proved|timeconsuming|search|composed|heuristics|composition|inspired|business|topk|services|possible|integrate|functional|approach|aiplanningbased|dataset|good|space|valueadded|find|search|create|dynamic|new|static|manually|however|real|users|expand|proposed|focused|therefore|helps|internet|demonstrate|expertise|higher|incrementally|studies|task|effectiveness|execution|process|identify|automatic|really|proceeds|demands|build|service|various|largegranularity|suggestions|services|intend|applications
+venue name:IEEE Transactions on Services Computing
+venue id:204223317
+venue type:J
+document type:Journal
+study fields:Services computing|Data mining|World Wide Web|Search algorithm|Computer science|Quality of service|WS-I Basic Profile|Heuristics|Web service|WS-Policy|The Internet
+references:63252850|1500760075|1505791277|1524265748|1949967182|1996162665|2026749761|2039326541|2057034415|2069495730|2091381870|2104185402|2110681125|2112465256|2114091875|2114368451|2114719092|2115702754|2118620599|2118839026|2119319400|2122026655|2122588792|2128454338|2141880113|2144651846|2168322422
+
+
+id:2065676484
+title:Selecting skyline services for QoS-aware composition by upgrading MapReduce paradigm
+year:2013
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Qi Yu
+author organization:Rochester Institute of Technology
+author id:2141651534|
+author name:Li Kuang
+author organization:Hangzhou Normal University
+author id:2802117778|
+author name:Yilun Wang
+author organization:University
+author id:2131471174|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:employ|big|select|pt|approach|via|number|model|algorithm|similar|qosaware|based|efficiency|method|composition|methods|handle|analysis|provide|selection|functionality|skyline|two|local|varying|web|power|explore|papertape|synthetical|services|model|fast|increasing|selection|attributes|dominance|adopted|paradigm|used|mapreduce|employed|cloud|dynamic|development|upgrading|pose|real|technologies|proposed|improve|internet|demonstrate|present|experimenting|facilitate|locate|deployed|anglebased|platforms|candidate|qos|parallel|algorithms|process|nature|multiple|differ|rapidly|better|environment|dataspace|detailed|service|challenge|partitioning
+venue name:Cluster Computing
+venue id:106148199
+venue type:J
+document type:Journal
+study fields:Skyline|Qos aware|Computer science|Quality of service|Service composition|Service selection|Database|Cloud computing|The Internet|Distributed computing
+references:1497676489|1518543119|1580944449|1965810726|1966731479|1996162665|2053431631|2057034415|2075106684|2096116903|2096547754|2101247289|2110027139|2110261118|2114990655|2119211913|2121612399|2127414233|2134420134|2137616448|2140300215|2141880113|2155131476|2157418168|2162220364|2170188482|2171075212
+
+
+id:2071709424
+title:iNewsBox: modeling and exploiting implicit feedback for building personalized news radio
+year:2013
+author information:[
+author name:Yanan Xie
+author organization:Zhejiang University
+author id:2151674255|
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Kunyang Jia
+author organization:Zhejiang University
+author id:2223697968|
+author name:Lichuan Ji
+author organization:Zhejiang University
+author id:2109918233|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:bus|tv|internet|paper|inconvenient|collected|listen|feedback|shows|major|radio|order|using|method|like|experiment|effective|propose|users|traditional|provide|especially|know|valuable|become|implicit|algorithms|recommend|media|interface|interactions|getting|inewsbox|world|paper|web|disabled|news|enabling|types|necessary|mobile|reading|also|many|framework|application|online|information|simplify|online|taking|presents
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:World Wide Web|News aggregator|Computer science|Multimedia|The Internet
+references:1880262756|2057932305|2123427850|2153111836
+
+
+id:2072062694
+title:Co-Clustering WSDL Documents to Bootstrap Service Discovery
+year:2014
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Haochao Ying
+author organization:Zhejiang University
+author id:2146051823|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:cluster|named|accuracy|npcomplete|approach|extracted|different|realworld|recent|utilized|algorithm|similar|based|oneway|relaxation|mainstream|service|years|traditional|simultaneously|singular|simultaneously|evaluate|wccluster|algorithms|experiments|wsdl|distribution|desired|utilizing|web|popularity|poses|problem|words|services|increasing|efficiently|clustering|novel|spectral|becoming|data|documents|coclustering|results|proposes|real|solely|graph|vectors|proposed|improve|demonstrate|functionally|locate|rather|proper|indispensable|paper|design|ignore|effectiveness|groups|wccluster|bipartite|existing|service|partitioning|clustering|uses|comprehensive
+venue name:Service-Oriented Computing and Applications
+venue id:1192551523
+venue type:C
+document type:Conference
+study fields:Data mining|Correlation clustering|Computer science|Bipartite graph|Biclustering|Web service|Cluster analysis|Graph partition|Service discovery|Bootstrapping (electronics)
+references:63252850|1493217831|1986748706|2026711685|2069495730|2098162425|2108118489|2127021547|2133576408|2136277350|2146013510|2159540907|2164376763|2171104838
+
+
+id:2081255091
+title:Modelling and exploring historical records to facilitate service composition
+year:2014
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yanan Xie
+author organization:Zhejiang University
+author id:2151674255|
+author name:Lichuan Ji
+author organization:Zhejiang University
+author id:2109918233|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:optimal|differing|focus|recommendation|approach|number|composite|recognise|recent|based|efficiency|past|composition|probability|servicecomposition|nuggets|quality|extend|selection|web|consideration|appropriate|functional|automatically|experiments|skyline|composed|composition|share|mine|dataset|structures|services|continuously|services|approach|complete|critical|connecting|first|partially|adopted|becoming|gspan|mainly|growing|frequently|hsd|presented|candidates|mining|real|graph|experiences|task|overall|bunch|demonstrate|higher|facilitate|locate|records|according|fuws|related|studies|qos|effectiveness|process|nonfunctional|fuwss|recommended|carries|used|service|along|historical
+venue name:International Journal of Web and Grid Services
+venue id:200047447
+venue type:J
+document type:Journal
+study fields:Skyline|Data mining|Services computing|World Wide Web|Web mining|Computer science|Quality of service|Service composition|Web modeling|Web service|WS-Policy
+references:4909282|116828910|1641749581|1647729745|1972324328|1981837681|2019827052|2020163677|2026749761|2038585278|2062516497|2069495730|2084187077|2091381870|2108150886|2110034858|2119319400|2119995149|2122634693|2136593687|2137616448|2141884427|2142120379|2142681043|2157964153|2160494060|2160556205|2165897980|2170188482|2170726034|2522853541
+
+
+id:2101247289
+title:Recommendation on Uncertain Services
+year:2010
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Ru Jia
+author organization:Zhejiang University
+author id:2100542186|
+author name:Shuiguang Deng
+author organization:Zhejiang University
+author id:2012690264|
+author name:Ying Li
+author organization:Zhejiang University
+author id:2424189881|
+]
+abstract:data|project|recommendation|recommend|skyline|approach|space|tps|evaluation|result|shows|experiment|tps|timesensitive|results|approaches|probability|experimental|comparing|services|real|propose|great|ndimensional|performance|uncertainty|service
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Skyline|Recommender system|Data mining|Space technology|Computer science|Quality of service|Measurement uncertainty|Uncertain data|Web service|Probability density function|Database
+references:93571089|1970266878|2112212668|2162220364
+
+
+id:2104185402
+title:Predicting Quality of Service for Selection by Neighborhood-Based Collaborative Filtering
+year:2013
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yipeng Feng
+author organization:ZheJiang University
+author id:2561530270|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+author name:Meng Chu Zhou
+author organization:Tongji University
+author id:2168907694|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:calculation|data|scalability|approach|three|research|known|serviceoriented|premise|reality|smoothing|different|twophase|computing|filtering|new|based|demonstrates|issue|method|compared|collaborative|impact|handle|users|important|fusion|selection|proposed|qualityofservicebased|adjustedcosinebased|improve|supposed|prediction|study|effectiveness|values|sparsity|remove|unknown|common|qos|paper|neighborhoodbased|public|similarity|predict|process|set|previous|problem|services|many|neighbor|target|qosbased|existing|extensive|performance|service|selection|strategy|presents
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Data mining|Collaborative filtering|Computer science|Quality of service|Premise|Smoothing|Artificial intelligence|Service selection|Web service|Machine learning|Service-oriented architecture|Scalability
+references:1503653277|1965810726|1967868690|2020436171|2029306088|2042281163|2049455633|2055119952|2075106684|2075422010|2085937320|2091381870|2096547754|2096874095|2101247289|2110325612|2113273124|2114719092|2114990655|2117311203|2119211913|2122588792|2127300005|2127414233|2128454338|2130310612|2137616448|2140597141|2141880113|2142144955|2144651846|2146356176|2157418168|2161984370|2162220364|2170188482|2170304975|2171075212
+
+
+id:2108118489
+title:Modeling and exploiting tag relevance for Web service mining
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+author name:Michael R. Lyu
+author organization:Chinese Universityof Hong Kong
+author id:2227744130|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:tagging|usage|accuracy|three|annotated|problem|terms|knowledge|respectively|based|using|impact|active|service|propose|relevance|tags|web|evaluate|titan|semantic|description|hyperlinkinduced|experiments|fundamental|functionality|retrieval|measurement|search|collective|mechanism|computation|overly|information|describe|comprehensive|servicetag|data|documents|compute|tagbased|search|implemented|tag|treated|real|mining|employing|users|respect|measure|hybrid|proposed|demonstrate|usercontributed|critical|scores|aspects|inherently|network|language|engine|since|topic|effectiveness|constructed|introduce|service|service|services|user|applications|promotion
+venue name:Knowledge and Information Systems
+venue id:81770430
+venue type:J
+document type:Journal
+study fields:Data mining|World Wide Web|Web mining|Web page|Information retrieval|Computer science|Web standards|Data Web|Web modeling|Web navigation|Social Semantic Web|Web service
+references:63252850|90108207|1476695133|1601572308|1770838219|1889380734|1927661711|1981050116|1990843604|2030035054|2042178278|2043900215|2057034415|2069495730|2069870183|2071983688|2097210546|2098162425|2107178216|2127021547|2127586137|2148698197|2150032155|2159540907|2161171652|2165897980|2169624732|2171104838
+
+
+id:2109637792
+title:Collaborative QoS Prediction via Feedback-Based Trust Model
+year:2013
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yipeng Feng
+author organization:Renren Inc., Beijing, China
+author id:2561530270|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:explosive|becoming|stateoftheart|approach|research|feedback|premise|reality|model|computing|utilized|based|new|development|filtering|demonstrates|compared|collaborative|users|selection|proposed|explored|improve|oriented|supposed|prediction|trust|study|values|trustaware|computing|two|unknown|qos|common|paper|public|predict|effectiveness|previous|approaches|service|services|many|target|qosbased|existing|extensive|performance|service|complemental|growth|approach|dataset|important|presents
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Mobile QoS|Data mining|Services computing|Trusted Computing|Collaborative filtering|Computer science|Quality of service|Computer network|Filter (signal processing)|Web service|Service-oriented architecture|Distributed computing
+references:1967868690|1996162665|2008015434|2030239032|2037111396|2047109571|2075106684|2091381870|2104185402|2110325612|2122588792|2127414233|2129636243|2140597141|2141880113|2146356176|2147997661|2171075212
+
+
+id:2119232484
+title:Service Recommendation: Similarity-Based Representative Skyline
+year:2010
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Shuiguang Deng
+author organization:Zhejiang University
+author id:2012690264|
+author name:Ying Li
+author organization:Zhejiang University
+author id:2424189881|
+]
+abstract:reason|maintain|users|approach|number|traversal|algorithm|based|using|large|preference|want|multicriterion|propose|contains|provide|circle|environment|study|recommend|skyline|result|motivated|get|reported|verify|skyline|decision|services|contour|great|call|extensive|comparability|decreases|describe|data|large|recommendations|points|compute|answering|academic|attracts|dynamic|representative|always|new|cost|real|synthetic|seems|full|sbrsa|analysis|skyline|best|dimensionality|representation|similarity|computing|definition|value|unnecessary|increase|instead|industrial|performance|application|service|attention
+venue name:World Congress on Services
+venue id:2621821323
+venue type:C
+document type:Conference
+study fields:Recommender system|Skyline|Approximation algorithm|Data mining|Algorithm design|Tree traversal|Computer science|Decision support system|Quality of service|Dynamic data|Database
+references:200522420|1517348552|1580944449|1992963068|2029306088|2075106684|2083710080|2084136866|2096547754|2109821166|2116434582|2126187992|2127782281|2141880113|2144651846|2146831356|2150693557|2162220364|2170188482
+
+
+id:2122588792
+title:An Enhanced QoS Prediction Approach for Service Selection
+year:2011
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Yipeng Feng
+author organization:ZheJiang University
+author id:2561530270|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+]
+abstract:calculation|data|accuracy|approach|adding|smooth|different|based|using|compared|impact|real|propose|enhanced|proposed|smoothing|improve|prediction|study|values|two|remove|qos|public|similarity|missing|reported|predict|verify|process|acosine|equation|qosbased|existing|extensive|accuracy|performance|selection|approach|dataset
+venue name:IEEE International Conference on Services Computing
+venue id:2755068430
+venue type:C
+document type:Conference
+study fields:Data mining|Collaborative filtering|Computer science|Quality of service|Smoothing|Service selection|Web service|Service-oriented architecture
+references:2026749761|2101247289|2123476762
+
+
+id:2123531076
+title:QoS-Based Distributed Service Selection in Large-Scale Web Services
+year:2011
+author information:[
+author name:Limin Pan
+author organization:Zhejiang University
+author id:2223112297|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Hui
+author organization:Zhejiang University
+author id:2537854308|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:extensive|performs|internet|preprunerefine|geographically|well|development|distributed|handle|underlying|horizontally|system|scales|internet|distance|experiments|show|servers|paper|web|inspired|design|architecture|effectively|services|connected|framework|efficiently|services
+venue name:IEEE International Conference on Services Computing
+venue id:2755068430
+venue type:C
+document type:Conference
+study fields:Services computing|Middleware (distributed applications)|Computer science|Data Web|Web modeling|Web service|Service-oriented architecture|WS-Policy|Distributed web crawling|Distributed computing
+references:2049864887|2137616448|2170188482|2173213060
+
+
+id:2127021547
+title:Clustering Web services to facilitate service discovery
+year:2014
+author information:[
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Zibin Zheng
+author organization:Chinese University of HongKong
+author id:2104906049|
+author name:Michael R. Lyu
+author organization:Chinese Universityof Hong Kong
+author id:2227744130|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:contextual|extensive|cluster|named|functions|recommendation|annotate|experimental|approach|gains|source|realworld|semantical|would|engines|singleness|based|using|handle|propose|relevance|traditional|provide|web|cases|boost|greatly|semantic|utilizing|experiments|wsdl|distribution|measurement|search|recall|ability|compared|caused|services|noisy|describe|data|documents|precision|language|employs|tag|results|wsdlbased|manually|tags|strategies|conducted|users|relevant|hybrid|proposed|produces|retrieve|demonstrate|allow|limitation|recommendation|additional|description|engine|uneven|effectiveness|clustering|performance|due|service|consists|clustering|information|services
+venue name:Knowledge and Information Systems
+venue id:81770430
+venue type:J
+document type:Journal
+study fields:Data mining|World Wide Web|Information retrieval|Semantic Web Stack|Web page|Computer science|Web standards|Data Web|WS-I Basic Profile|Web modeling|Web service|WS-Policy
+references:63252850|142728198|1480125861|1488986893|1506285740|1532325895|1770838219|1971784203|1993332216|2026711685|2035560803|2057034415|2067042176|2069495730|2075106684|2076165157|2091381870|2098162425|2104185402|2104972744|2112723336|2123476762|2132526688|2146013510|2151287369|2159540907|2164376763|2165267574|2165897980|2167340291|2171104838|2178287480|2277639114
+
+
+id:2134420134
+title:MapReduce Based Skyline Services Selection for QoS-aware Composition
+year:2012
+author information:[
+author name:Liang Chen
+author organization:Zhejiang University Hangzhou
+author id:2248621837|
+author name:Li Kuang
+author organization:Hangzhou Normal University
+author id:2802117778|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:employ|big|select|pt|approach|complex|algorithm|based|efficiency|issue|method|methods|handle|quality|selection|fundamental|skyline|varying|composition|web|skyline|papertape|services|model|fast|increasing|selection|model|attributes|operation|adopted|paradigm|data|largegrained|used|space|mapreduce|employed|dynamic|upgrading|pose|singlefunction|important|serviceoriented|proposed|improve|demonstrate|present|experimenting|locate|anglebased|computing|candidate|along|parallel|qos|components|nature|recently|multiple|service|rapidly|better|environment|service|challenge|partitioning|step
+venue name:International Parallel and Distributed Processing Symposium
+venue id:1191753779
+venue type:C
+document type:Conference
+study fields:Skyline|Data space|Qos aware|Computer science|Server|Quality of service|Service selection|Web service|Database|Service-oriented architecture|Distributed computing
+references:1518543119|1965810726|1996162665|2096116903|2096547754|2101247289|2110261118|2119211913|2121612399|2127414233|2137616448|2140300215|2141880113|2155131476|2157418168|2170188482|2171075212
+
+
+id:2157761268
+title:CBBCM: Clustering Based Automatic Service Composition
+year:2011
+author information:[
+author name:Ying Ma
+author organization:ZheJiang University
+author id:2563347730|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Jian Hui
+author organization:Zhejiang University
+author id:2537854308|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:cluster|called|use|used|approach|good|output|number|high|cluster|experiment|optimization|backward|chaining|preliminary|different|results|algorithm|based|method|parameters|method|propose|adapted|compose|evaluate|automatic|request|semantic|aim|applied|automatically|according|input|proved|challenges|top|web|composition|backward|kmeans|chaining|based|composing|skyline|set|satisfy|clustered|automatic|services|approaches|clustering|faced|gets|better|services|similarities|performance|qos|service|datasets|information|work|services|qos
+venue name:IEEE International Conference on Services Computing
+venue id:2755068430
+venue type:C
+document type:Conference
+study fields:Skyline|Semantic similarity|Data mining|Algorithm design|Computer science|Quality of service|Backward chaining|Cluster analysis|Web service|Semantics
+references:89656087|111771363|1962632332|1968143987|1996162665|2054618740|2083710080|2111117104|2116396741|2125844255|2134272417|2137616448|2142408827|2150552059|2151047574|2170188482|2171075212
+
+
+id:2322233894
+title:Modern Service Industry and Crossover Services: Development and Trends in China
+year:2016
+author information:[
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+author name:Jianwei Yin
+author organization:Zhejiang University
+author id:2124632089|
+author name:Shuiguang Deng
+author organization:Zhejiang University
+author id:2012690264|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Ying Li
+author organization:Zhejiang University
+author id:2424189881|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+]
+abstract:innovationoriented|illustrates|named|evidently|issues|building|terms|complex|trends|knowledge|promoting|based|harmonious|whose|mis|realm|firms|crossover|crossover|industry|global|accelerating|modern|cloudbased|supports|msi|business|services|msirelated|services|framework|information|exploit|facilities|first|addressing|elaborating|rapid|philosophy|upon|modern|status|high|worldwide|intensive|new|development|proposes|history|survey|technical|challenges|concept|scientific|society|paper|china|realization|middleware|characteristics|social|relying|technology|realization|significance|listed|management|service|concept|services|presents
+venue name:IEEE Transactions on Services Computing
+venue id:204223317
+venue type:J
+document type:Journal
+study fields:Middleware|Data mining|Crossover|Computer science|Information technology|Social progress|Exploit|Business model|Tertiary sector of the economy|Cloud computing
+references:1966769064|1978123369|1984012539|2097745829|2102793004|2155879391|2162840341|2319025701|2325979489
+
+
+id:2340085831
+title:PGRank: Personalized Geographical Ranking for Point-of-Interest Recommendation
+year:2016
+author information:[
+author name:Haochao Ying
+author organization:Zhejiang University
+author id:2146051823|
+author name:Liang Chen
+author organization:RMIT
+author id:2248621837|
+author name:Yuwen Xiong
+author organization:Zhejiang University
+author id:2674760608|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:recommendation|experimental|find|results|discover|preference|bayesian|effective|rankbased|real|propose|pointofinterest|latent|become|since|framework|geographical|pattern|show|personalized|behavior|address|could|interesting|venues|ranking|user|dataset|integrates
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Data mining|Behavioral pattern|World Wide Web|Information retrieval|Ranking|Computer science|Point of interest|Bayesian probability
+references:2017921654|2062079386|2073013176|2137245235|2140310134
+
+
+id:2401927547
+title:CASE: A Platform for Crowdsourcing Based API Search
+year:2015
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Zhining Xie
+author organization:Zhejiang University
+author id:2682553266|
+author name:Wei Yang
+author organization:Zhejiang University
+author id:2696588992|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:semantics|becoming|keywords|results|leading|semantic|rapid|simple|used|challenging|employed|compute|number|inferred|unsatisfactory|implement|model|generate|based|crowdsourcing|individual|apis|tool|users|case|latent|web|lists|final|general|appropriate|semantic|searching|twitter|matching|integrated|search|systems|engine|organize|interest|similarity|popularity|result|based|problem|social|queries|growth|api|accounts|leverages|presents|indexing
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Semantic similarity|Data mining|Web API|Search engine|Information retrieval|Computer science|Crowdsourcing|Popularity|Social information|Semantics|The Internet
+references:1968133322|1979955134|2147152072
+
+
+id:2466185541
+title:Incorporating Heterogeneous Information for Mashup Discovery with Consistent Regularization
+year:2016
+author information:[
+author name:Yao Wan
+author organization:Zhejiang University
+author id:2171492316|
+author name:Liang Chen
+author organization:RMIT
+author id:2248621837|
+author name:Qi Yu
+author organization:Rochester Institute of Technology
+author id:2141651534|
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:stateoftheart|realworld|query|mashups|composite|leveraging|model|properly|recent|based|neglecting|propose|provide|rely|appropriate|semantic|programmablewebcom|components|methods|experiments|search|web|merely|compared|efficient|could|consistent|services|model|framework|discovery|increasing|information|ranking|comprehensive|dataset|posing|values|compositive|regularization|achieves|heterogeneous|mainly|consider|results|given|development|experimental|apis|conducted|techniques|oriented|mashups|since|applied|searching|mashup|show|description|best|network|qos|engine|ranked|enhance|components|verified|also|approaches|rapidly|structure|better|performance|service|challenge|integrates
+venue name:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+venue id:1178327129
+venue type:C
+document type:Conference
+study fields:Data mining|Mashup|Search engine|Information retrieval|Ranking|Computer science|Quality of service|Semantic information|Regularization (mathematics)|Service discovery|Service-oriented architecture
+references:2054705465|2068064352|2110404724|2116696957|2132314908|2147152072|2153386569|2154343182|2154455818|2164376763|2165611133|2166686248|2176455203
+
+
+id:2484219422
+title:Collaborative Deep Ranking: A Hybrid Pair-Wise Recommendation Algorithm with Implicit Feedback
+year:2016
+author information:[
+author name:Haochao Ying
+author organization:Zhejiang University
+author id:2146051823|
+author name:Liang Chen
+author organization:School of Computer Science and Information Technology, RMIT, Melbourne, Australia
+author id:2248621837|
+author name:Yuwen Xiong
+author organization:Zhejiang University
+author id:2674760608|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:named|empirical|recommendation|experimental|approach|three|feedback|cdr|realworld|introduced|terms|cfif|assumption|sparse|model|usually|utilized|browsing|based|item|collaborative|collaborative|classified|analysis|propose|studies|latent|level|implicit|systems|works|methods|sparsity|two|feature|recall|demonstrated|pairwise|clicking|performance|side|address|problem|may|one|framework|metric|ranking|information|implicit|pointwise|leverages|dataset|data|paper|mainly|shows|stateofart|different|filtering|bayesian|often|real|hybrid|topic|relaxes|deep|representation|content|effective|causing|recommender|degrade|learned|way|outperforms|obtains|better|performance|regression|feedbacks|latter|significantly|existing
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Collaborative filtering|Ranking|Convolutional neural network|Computer science|Artificial intelligence|Topic model|Deep learning|Empirical research|Machine learning|Bayesian probability
+references:153313452|880911330|1682176785|1963547115|1976999215|2030484290|2064754513|2101409192|2124187902|2135790056|2140310134|2145094598|2157881433|2286085333|2557283755
+
+
+id:2521215546
+title:Personalized API Recommendation via Implicit Preference Modeling
+year:2016
+author information:[
+author name:Wei Gao
+author organization:Zhejiang University
+author id:2563110211|
+author name:Liang Chen
+author organization:RMIT
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Hai Dong
+author organization:RMIT
+author id:2034310905|
+author name:Athman Bouguettaya
+author organization:RMIT
+author id:2309367016|
+]
+abstract:measured|aspect|use|used|users|heterogeneous|approach|complex|understanding|huge|different|predicted|combine|needs|apis|weight|uncover|apis|users|becomes|important|latent|implicit|functional|aim|computed|scores|according|aspects|technique|recommend|learning|matrix|representation|personalized|similarity|get|task|amount|preferences|learn|factorization|factors|similarities|suitable|combined|first
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Data mining|World Wide Web|Computer science|Matrix decomposition|The Internet
+references:66295247|1507354382|1880262756|2011336438|2030239032|2069495730|2072309371|2112465256|2123476762|2144088685|2288462716
+
+
+id:2521481128
+title:Meta-Path Based Service Recommendation in Heterogeneous Information Networks
+year:2016
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:RMIT
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Hai Dong
+author organization:RMIT
+author id:2034310905|
+author name:Athman Bouguettaya
+author organization:RMIT
+author id:2309367016|
+]
+abstract:employ|data|recommendation|heterogeneous|relationships|optimization|model|different|filtering|algorithm|based|collaborative|bayesian|constitute|real|propose|estimation|measure|contents|among|paths|demonstrate|mashups|object|hin|experiments|mashup|recommend|network|naturally|related|along|scenario|similarity|design|creation|effectiveness|types|introduce|multiple|rich|learning|services|metapath|hin|exploiting|service|information|ranking|approach|comprehensive|first
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Mashup|Information networks|Collaborative filtering|Ranking|Computer science|Object type|Model learning|Bayesian probability
+references:80882926|103340358|1515133750|1880262756|1967868690|1980157179|2042281163|2054705465|2070700141|2075010670|2089547685|2091381870|2104185402|2108118489|2124977181|2156227868|2162983389|2950975304
+
+
+id:2523092809
+title:Service Mining for Internet of Things
+year:2016
+author information:[
+author name:Bing Huang
+author organization:RMIT University
+author id:2564103874|
+author name:Athman Bouguettaya
+author organization:RMIT
+author id:2309367016|
+author name:Hai Dong
+author organization:RMIT
+author id:2034310905|
+author name:Liang Chen
+author organization:RMIT
+author id:2248621837|
+]
+abstract:simulation|evaluation|relationships|interestingness|analytical|presented|operation|model|results|based|things|modeled|mining|proposed|ontologybased|internet|metrics|present|evaluate|discovered|show|relationships|enables|effectiveness|measures|discovering|set|interesting|services|framework|bottomup|service|spatialtemporal|describe|services
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Service design|Ontology|Data mining|World Wide Web|Computer science|Internet of Things|Service model|Data as a service|Customer Service Assurance
+references:146073307|1882088395|2118642044|2157501505|2168867823
+
+
+id:2545176281
+title:Crowdsourcing Based API Search via Leveraging Twitter Lists Information
+year:2015
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:Zhejiang University
+author id:2248621837|
+author name:Haochao Ying
+author organization:Zhejiang University
+author id:2146051823|
+author name:Zibin Zheng
+author organization:Zhejiang University
+author id:2565123915|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:named|semantics|crowdaps|approach|number|realworld|experiment|programmableweb|model|usually|based|crowdsourcing|crawled|apis|propose|intelligence|latent|provide|integration|appropriate|semantic|popularity|datasets|acquire|matching|exploits|result|search|offered|popularity|collective|problem|queries|information|accounts|leverages|comprehensive|open|indexing|keywords|semantic|rapid|simple|used|challenging|generated|find|satisfactory|list|results|given|including|demonstrates|individual|apis|query|list|tool|users|becomes|infer|name|final|general|searching|twitter|crowdaps|relies|organize|interest|similarity|effectiveness|effectively|queries|due|growth|api|providers
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Semantic similarity|Data mining|Mashup|World Wide Web|Information retrieval|Collective intelligence|Computer science|Crowdsourcing|Popularity|Exploit|Semantics|The Internet
+references:63252850|80882926|1604154116|1968133322|1979955134|2027225221|2050372846|2054705465|2089547685|2116696957|2125410625|2127021547|2132526688|2158014453
+
+
+id:2555821928
+title:SMS: A Framework for Service Discovery by Incorporating Social Media Information
+year:2019
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+author name:Zhaohui Wu
+author organization:Zhejiang University
+author id:2151930384|
+]
+abstract:explosive|measured|called|optimal|considered|metadata|decay|collected|realworld|lists|four|model|algorithm|based|crawled|propose|latent|traditional|contains|web|appropriate|semantic|functional|methods|experiments|nonfunctional|two|matching|imperative|limits|compared|mine|discovering|linear|learn|approaches|services|generally|single|face|framework|discovery|insufficiency|increasing|information|comprehensive|dataset|novel|indexing|becoming|documents|consumers|semantic|source|mainly|cloud|twitter|queryservice|function|different|combination|including|apis|weight|measure|proposed|demonstrate|present|assume|issue|applied|description|twitter|learning|media|factors|design|consumers|incorporating|effectiveness|requirements|social|effectively|multiple|approaches|factors|target|due|service|growth|information
+venue name:IEEE Transactions on Services Computing
+venue id:204223317
+venue type:J
+document type:Journal
+study fields:Semantic similarity|Data mining|Mashup|World Wide Web|Social media|Computer science|Web service|Service discovery|Semantics|Non-functional requirement|Cloud computing
+references:63252850|80882926|1601307935|1604154116|1965810726|1968133322|1979955134|2009972488|2027225221|2050372846|2054705465|2072309371|2088024166|2089547685|2091381870|2109580672|2116696957|2127021547|2132526688|2156227868|2545176281
+
+
+id:2557538434
+title:Temporal Pattern Based QoS Prediction
+year:2016
+author information:[
+author name:Liang Chen
+author organization:School of Computer Science and Information Technology, RMIT, Melbourne, Australia
+author id:2248621837|
+author name:Haochao Ying
+author organization:Zhejiang University
+author id:2146051823|
+author name:Qibo Qiu
+author organization:Zhejiang University
+author id:2673339478|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Hai Dong
+author organization:RMIT
+author id:2034310905|
+author name:Athman Bouguettaya
+author organization:RMIT
+author id:2309367016|
+]
+abstract:equivalent|qualityofservice|optimal|data|environments|approach|employed|find|function|smoothing|candidates|temporal|challenge|utilized|obtain|given|based|patterns|real|propose|proposed|web|improve|prediction|intervals|demonstrate|functionally|status|critical|unfixed|values|experiments|pattern|network|candidate|world|qos|related|missing|since|predict|selecting|highly|effectiveness|process|set|address|services|clustering|curves|performance|accuracy|service|polynomial|variable|time|approach|comprehensive|dataset|fitting
+venue name:Web Information Systems Engineering
+venue id:1128202388
+venue type:C
+document type:Conference
+study fields:Services computing|Data mining|Polynomial|Computer science|Quality of service|Smoothing|Web service|Cluster analysis
+references:1965310012|1980321478|2030239032|2049455633|2070366435|2071104838|2073178357|2091381870|2092513324|2104185402|2110325612|2112056172|2113273124|2120809739|2121436309|2134420134|2137245235|2140037013|2140597141|2141880113|2155106456|2171075212
+
+
+id:2599436010
+title:A service computing manifesto: the next 10 years
+year:2017
+author information:[
+author name:Athman Bouguettaya
+author organization:University of Sydney
+author id:2309367016|
+author name:Munindar Singh
+author organization:North Carolina State University
+author id:2306655439|
+author name:Michael Huhns
+author organization:University of South Carolina
+author id:189712000|
+author name:Quan Z. Sheng
+author organization:Macquarie University
+author id:1740996049|
+author name:Hai Dong
+author organization:Royal Melbourne Institute of Technology
+author id:2034310905|
+author name:Qi Yu
+author organization:Rochester Institute of Technology
+author id:2141651534|
+author name:Azadeh Ghari Neiat
+author organization:Royal Melbourne Institute of Technology
+author id:1222790356|
+author name:Sajib Mistry
+author organization:Royal Melbourne Institute of Technology
+author id:2776947310|
+author name:Boualem Benatallah
+author organization:Universit of New South Wales
+author id:2038216534|
+author name:Brahim Medjahed
+author organization:University of Michigan–Dearborn
+author id:2306123936|
+author name:Mourad Ouzzani
+author organization:Qatar Computing Research institute
+author id:1671481|
+author name:Fabio Casati
+author organization:University of Trento
+author id:2145207705|
+author name:Xumin Liu
+author organization:Rochester Institute of Technology
+author id:2162045343|
+author name:Hongbing Wang
+author organization:Southeast University
+author id:2101019922|
+author name:Dimitrios Georgakopoulos
+author organization:Swinburne University
+author id:2948439120|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Surya Nepal
+author organization:CSIRO
+author id:2157563740|
+author name:Zaki Malik
+author organization:Texas AM University
+author id:2064548697|
+author name:Abdelkarim Erradi
+author organization:Qatar University
+author id:210192241|
+author name:Yan Wang
+author organization:Macquarie Unversity
+author id:2529756435|
+author name:Brian Blake
+author organization:University of Miami
+author id:2670672164|
+author name:Schahram Dustdar
+author organization:TU WIEN
+author id:2035273997|
+author name:Frank Leymann
+author organization:University Stuttgart
+author id:2127483189|
+author name:Michael Papazoglou
+author organization:Tilburg University
+author id:2097866148|
+]
+abstract:adoption|challenges|strategies|service|mapping|widespread|computing
+venue name:Communications of The ACM
+venue id:103482838
+venue type:J
+document type:Journal
+study fields:Data science|Services computing|World Wide Web|Computer science|Web service|Big data|Manifesto
+references:146073307|1516127713|1589062066|1717983670|1918652204|1965247286|1975363733|1986342936|2008300029|2020740057|2050187978|2097164499|2097565277|2111127426|2130387020|2132853433|2139657108|2146013510|2146138641|2161280754|2171500111|2192583762|2247664617
+
+
+id:2605792740
+title:Extracting Core Users Based on Features of Users and Their Relationships in Recommender Systems
+year:2017
+author information:[
+author name:Li Kuang
+author organization:Central South University
+author id:2802117778|
+author name:Gaofeng Cao
+author organization:Central South University
+author id:2661437932|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+]
+abstract:focus|accuracy|recommendation|users|three|relationships|addressed|drawn|based|methods|extraction|propose|system|fields|authors|compare|works|methods|global|distribution|experiments|popular|set|distribution|designing|calculated|information|attributes|individuals|mainly|influence|fusionsortingbased|different|new|individual|resource|degree|users|core|improving|proposed|solve|scholars|trust|identifying|importance|show|effective|interest|similarity|recommender|effectiveness|longtail|constructed|approaches|way|existing|various|attention|well|user
+venue name:International Journal of Web Services Research
+venue id:119470311
+venue type:J
+document type:Journal
+study fields:Recommender system|Data mining|Information overload|Information retrieval|Computer science|Degree distribution|Novelty
+references:1015040853|1970447570|2007636657|2026749761|2049953615|2053585176|2072309371|2074438240|2083153244|2516558179
+
+
+id:2606242109
+title:Exploiting Geographical Location for Team Formation in Social Coding Sites
+year:2017
+author information:[
+author name:Yuqiang Han
+author organization:Zhejiang University
+author id:2766381335|
+author name:Yao Wan
+author organization:Zhejiang University
+author id:2171492316|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:optimal|developers|stateoftheart|ignoring|objective|realworld|problem|model|collaboratively|algorithm|efficiency|collaborative|impact|propose|among|shared|geographical|works|one|experiments|developer|formation|ones|coding|member|minimizing|social|genetic|may|makes|workload|team|great|unified|exploit|comprehensive|dataset|essential|project|sites|incorporate|individuals|platforms|optimize|function|sites|different|communication|development|comparison|bitbucket|task|proposed|proximity|background|improve|effect|demonstrate|collaboration|github|contribute|best|related|factor|greatest|cost|aims|social|existing|performance|form|location|taking
+venue name:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+venue id:1178327129
+venue type:C
+document type:Conference
+study fields:Data mining|Social coding|Location|Computer science|Workload|Exploit|Genetic algorithm
+references:6116489|1982492133|1991618217|2019720258|2030234114|2046522142|2056436546|2060133495|2139257893|2145604831|2241313219|2398673720|2402670155|2953238822
+
+
+id:2754723663
+title:Mobile Application Rating Prediction via Feature-Oriented Matrix Factorization
+year:2017
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Xingde Ying
+author organization:Zhejiang University
+author id:2755637946|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+]
+abstract:app|approach|different|realworld|ratings|app|google|give|propose|two|latent|interpretation|analyze|integration|methods|matrix|unknown|feature|generalize|based|predicting|apps|preferences|proliferation|problem|apps|obvious|information|approach|certain|dataset|data|rating|used|challenging|features|presented|details|directly|different|generate|results|predicted|likes|featureoriented|experimental|becomes|markets|proposed|improve|prediction|demonstrate|assume|transform|ratings|predict|factor|effectiveness|original|previous|mobile|instead|significance|better|apple|application|preferences|user|integrates
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data mining|Permission|App store|Matrix (mathematics)|Computer science|Matrix decomposition|Feature extraction|Matrix converters
+references:1880262756|1964357740|1968887220|1979112807|1994389483|2002383120|2012234676|2017281925|2036839989|2046586564|2052602449|2054141820|2054553473|2067481044|2085040216|2108685212|2117587045|2135790056|2137245235|2513625120
+
+
+id:2765690456
+title:An Embedding Based Factorization Machine Approach for Web Service QoS Prediction
+year:2017
+author information:[
+author name:Yaoming Wu
+author organization:Sun Yat-sen University
+author id:2767038606|
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Chuan Chen
+author organization:Sun Yat-sen University
+author id:2735534277|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+]
+abstract:several|invoke|good|number|realworld|describing|property|usually|implement|always|users|important|proposed|web|sparse|solve|since|engaged|methods|timeconsuming|considerable|qos|quality|predict|applications|value|predicting|characteristics|problem|nonfunctional|limited|service|services|although|expensive|services|choice
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Embedding|Computer science|Quality of service|Factorization|Web service|Distributed computing
+references:1529703297|1997971772|2010287243|2030239032|2037111396|2087836750|2091381870|2137245235|2140597141|2141880113|2155106456|2162983389|2295739661|2323283582|2335830409|2519569830
+
+
+id:2785918262
+title:SCSMiner: mining social coding sites for software developer recommendation with relevance propagation
+year:2018
+author information:[
+author name:Yao Wan
+author organization:Zhejiang University
+author id:2171492316|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+author name:Zhou Zhao
+author organization:Zhejiang University
+author id:2799011618|
+author name:Jie Tang
+author organization:Tsinghua University
+author id:2158012360|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:developments|expert|projects|software|developers|generativ|consistency|realworld|introduced|recruitment|model|based|collaborative|past|crawled|distributed|version|devise|relevance|among|unique|metrics|implicit|aim|achieve|one|characteristic|coding|capability|search|era|motivated|perspective|social|e|advent|probabilistic|entered|right|many|leveraged|prototype|integrate|framework|unified|ranking|illustration|dataset|stackoverflow|regularization|sites|networking|upon|incorporated|implemented|complement|programming|new|development|develop|experiences|graph|expert|propagation|ground|world|facilitate|demonstrated|locate|applied|github|provided|platform|skills|provides|convey|enhance|corporations|social|effectively|control|truth|service|developer|work
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data science|Social network|Social coding|Ranking|Computer science|Coding (social sciences)|Software|Ground truth|Artificial intelligence|Probabilistic logic|Machine learning|Software development
+references:795501845|1557074680|1820374484|1880262756|1963578450|1970461679|1974270771|2002370809|2022322548|2038227503|2044675594|2046522142|2047268912|2093390569|2097737237|2107743791|2109154616|2109244020|2110499955|2118174895|2124100711|2126226055|2140008999|2143561480|2154455818|2162340487|2165922980|2166686248|2545778708|2578606145|2953238822
+
+
+id:2890494507
+title:Exploiting cross-source knowledge for warming up community question answering services
+year:2018
+author information:[
+author name:Yao Wan
+author organization:Zhejiang University
+author id:2171492316|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Zhou Zhao
+author organization:Zhejiang University
+author id:2799011618|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:multiview|answers|stateoftheart|expertise|ignoring|consistency|realworld|model|knowledge|collaborative|answering|propose|benefit|among|explicitly|works|aim|one|experiments|datasets|two|ones|posted|routing|inspired|perspective|question|share|graphic|questions|may|question|abstract|probabilistic|learning|services|many|coldstart|model|unified|exploit|comprehensive|essential|topical|stackoverflow|questions|incorporate|platforms|cqa|answering|consider|comparison|bayesian|warmstart|identification|users|task|proposed|quora|exchange|demonstrate|limitation|sources|asking|github|idea|learning|best|posts|related|views|cqa|cross|multiple|better|existing|performance|build|richer|community|applications
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Data science|Warming up|Question answering|Exploit|Artificial intelligence|Probabilistic logic|Mathematics|Machine learning|Bayesian probability
+references:53987483|1566499617|1968133322|1986044318|1986945747|2000389083|2022149269|2025895610|2048679005|2053485498|2064890829|2090641502|2103024562|2108685212|2115208659|2123111158|2132613313|2138621811|2140942692|2145234365|2147011149|2152675241|2545778708
+
+
+id:2897346171
+title:Heterogeneous Neural Attentive Factorization Machine for Rating Prediction
+year:2018
+author information:[
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Yang Liu
+author organization:Sun Yat-sen University
+author id:2898068230|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+author name:Philip Yu
+author organization:University of Illinois at Chicago
+author id:2125104194|
+]
+abstract:recommendations|stateoftheart|properly|path|realworld|property|hnafm|calculate|recent|based|item|work|preference|methods|propose|system|meta|among|explored|neural|semantic|experiments|datasets|two|fuse|inspired|relationship|mechanism|learn|hin|integrate|describes|heterogeneous|information|comprehensive|first|features|represent|use|rating|heterogeneous|employed|commuting|features|multilayer|find|attentive|hierarchical|problems|capture|extract|proposed|paths|improve|solve|prediction|demonstrate|deep|recommendation|neural|best|information|network|matrices|recommender|applying|types|perceptrons|factorization|outperforms|attention|user|significantly|objects
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Semantic relationship|Commuting matrices|Computer science|Data type|Factorization|Artificial neural network|Fuse (electrical)|Perceptron
+references:103340358|1514535095|1967863517|1994389483|2010187764|2029249040|2047729491|2062797058|2094286023|2104324457|2133564696|2137028279|2137245235|2157881433|2295739661|2302086703|2354939339|2405923393|2475334473|2509893387|2534727297|2535373932|2605350416|2740920897|2741249238|2743104969|2743159750|2744097819|2767217464|2767774008|2950178297|2963323306|2964044287
+
+
+id:2899935000
+title:Software Service Recommendation Base on Collaborative Filtering Neural Network Model
+year:2018
+author information:[
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Angyu Zheng
+author organization:Sun Yat-sen University
+author id:2900137990|
+author name:Yinglan Feng
+author organization:Sun Yat-sen University
+author id:2900197953|
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+]
+abstract:software|called|quickly|recommendation|construct|repository|users|github|relationships|broad|filtering|github|collaborative|preference|service|web|become|functional|experiments|characteristic|personalized|research|world|variety|services|abstract|many|framework|approach|comprehensive|dataset|data|use|lrpncf|language|developed|tremendous|preferencebased|importance|find|instantiation|nonlinear|obtain|including|applicable|capture|conducted|develop|real|look|users|modules|difficulty|proposed|sparse|treasury|vectors|demonstrate|present|userrepository|code|neural|pncf|representation|network|general|provides|studies|recommender|effectiveness|practical|service|increase|target|application|service|time|interested
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Treasury|World Wide Web|Collaborative filtering|External Data Representation|Service (systems architecture)|Computer science|Software|Web service|Artificial neural network
+references:1976859382|2006626130|2042281163|2054141820|2057034415|2073429012|2076063813|2100755716|2114079787|2124187902|2137245235|2149427297|2150341604|2157881433|2475334473|2557283755|2576320324|2604662567|2605246672|2605350416|2612388534|2740920897|2741582486|2767661346|2950975304
+
+
+id:2900270627
+title:A Weighted Meta-graph Based Approach for Mobile Application Recommendation on Heterogeneous Information Networks
+year:2018
+author information:[
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Yongjian Ye
+author organization:Sun Yat-sen University
+author id:2891265339|
+author name:Yang Liu
+author organization:Sun Yat-sen University
+author id:2898068230|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+author name:Xiaola Lin
+author organization:Sun Yat-en University
+author id:2808812310|
+]
+abstract:extensive|semantics|results|called|focus|recommendation|semantics|stateoftheart|users|approach|number|realworld|userapp|complex|context|model|higherorder|app|based|propose|utilizes|contains|latent|score|hin|semantic|depict|experiments|recommend|datasets|matrix|two|weighted|concatenated|desired|scenario|get|firstly|urgent|apps|validate|compared|learn|makes|hin|factorization|exploiting|subtle|machine|apps|traditional|information|features|fed|rating|heterogeneous|features|explosive|find|consider|different|generate|weighted|obtain|difficult|capture|conducted|users|relevant|metagraph|task|measure|proposed|final|prediction|leverage|recommendation|deep|neural|metagraph|scores|concept|nonnegative|network|interactions|security|similarity|algorithms|effectiveness|requirements|satisfy|apply|introduce|mobile|rich|also|approaches|structure|better|various|growth|distinguishes|user|applications
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Semantic similarity|Graph|Data mining|Information networks|Information retrieval|Computer science|Matrix decomposition|Concatenation|Factorization|Artificial neural network|Semantics
+references:103340358|1880262756|2047729491|2057034415|2095705004|2135029798|2171728202|2245341025|2295739661|2354939339|2441800701|2475080959|2522976719|2558751478|2604662567|2616532648|2620068698|2743159750|2963868263
+
+
+id:2937241109
+title:Predicting Quality of Service via Leveraging Location Information
+year:2019
+author information:[
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+author name:Yaoming Wu
+author organization:Sun Yat-sen University
+author id:2767038606|
+]
+abstract:called|focus|approach|users|realworld|leveraging|connection|id|considering|propose|web|invoked|account|experiments|sum|lanfm|feature|variety|embedding|validate|product|could|services|factorization|exploiting|model|extensive|machine|information|operation|dataset|techniques|values|necessary|used|first|expressed|helpful|weighted|ignored|capture|collection|inner|users|relevant|take|vectors|techniques|improve|prediction|locationaware|internet|distance|neural|applied|userperceived|values|network|interactions|qos|along|predict|experience|carried|effectiveness|wide|previous|noted|performance|intensively|due|various|locations|location|services|work
+venue name:Complexity
+venue id:207319443
+venue type:J
+document type:Journal
+study fields:Feature vector|Embedding|Quality of service|Factorization|Artificial intelligence|Web service|Artificial neural network|Machine learning|Mathematics|The Internet
+references:2045972964|2141880113|2159094788|2162983389|2295458067|2524052287|2599382433|2738639449|2799431042
+
+
+id:2954148014
+title:Multi-view factorization machines for mobile app recommendation based on hierarchical attention
+year:2020
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Lei Zheng
+author organization:University of Illinois
+author id:2575172844|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Yao Wan
+author organization:Zhejiang University
+author id:2171492316|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2525822525|
+]
+abstract:extensive|select|called|recommendation|realworld|model|filtering|tasks|promising|app|models|raw|propose|overload|starting|experiments|datasets|two|uninformative|capability|mechanism|feature|segmentation|power|demonstrated|preferences|within|abstract|one|overcoming|featurelevel|mobile|apps|information|embeddings|features|mvafm|view|mvafm|solution|shown|hierarchical|different|results|representative|development|level|learns|exploited|rarely|demonstrate|however|neural|novelty|importance|network|interactions|recent|effective|intends|views|studies|predict|construction|views|introduction|effectiveness|inputs|attentionbased|effectively|mobile|markets|viewlevel|attention
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Data mining|Mobile app|Information overload|Computer science|Segmentation|Filter (signal processing)|Artificial intelligence|Factorization|Novelty|Artificial neural network|Mobile apps|Machine learning
+references:1492095519|1533861849|1979112807|2004355295|2009109712|2012234676|2052602449|2114079787|2118934678|2119523409|2278138779|2295739661|2405494619|2474765392|2532651260|2550553598|2575006718|2583200575|2606637053|2708423399|2736230012|2739107216|2740885325|2741249238|2754723663|2758611985|2765820394|2766219058|2767724106|2788522804|2802187397|2803646312|2806416578|2883651221|2888838693|2897983179|2898541610|2899626049|2900229157|2900841426|2909866320|2947767618|2950013303|2951001079|2951581544|2953022181|2963868263|2963991316
+
+
+id:2963868263
+title:A Broad Learning Approach for Context-Aware Mobile Application Recommendation
+year:2017
+author information:[
+author name:Tingting Liang
+author organization:Zhejiang University
+author id:2152545579|
+author name:Lifang He
+author organization:Cornell University
+author id:2555188826|
+author name:Chun-Ta Lu
+author organization:University of Illinois
+author id:2224372854|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Philip S. Yu
+author organization:
+author id:2125104194|
+author name:Jian Wu
+author organization:ZheJiang University
+author id:2963222172|
+]
+abstract:employ|multiview|accurate|recommendation|focus|users|approach|conventional|number|relationships|realworld|userapp|ratings|context|broad|app|large|method|propose|providing|applies|among|analysis|utilize|appropriate|multiview|availability|experiments|feature|fullorder|categories|imperative|apps|preferences|address|tensor|efficient|learn|stores|factorization|integrate|framework|apps|information|dataset|features|groupwise|regularization|rapid|rating|mainly|employed|features|view|brings|method|consider|group|development|category|capture|develop|users|respect|becomes|tensorbased|proposed|demonstrate|tucker|facilitate|locate|hidden|challenges|importance|learning|decomposition|interactions|contextaware|prediction|task|predict|effectiveness|effectively|mobile|approaches|structure|performance|application|category|multidimensional
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Factorization method|Mobile app|Computer science|Human–computer interaction|Artificial intelligence|Tucker decomposition|Mobile apps|Machine learning|Mobile telephony
+references:1562476336|1879834137|1969825914|2017281925|2024165284|2052602449|2063571473|2108685212|2135596338|2137245235|2295156440|2295739661|2527508530|2578232043|2583200575|2607046236|2754723663
+
+
+id:2970091166
+title:Generative Adversarial Network Based Service Recommendation in Heterogeneous Information Networks
+year:2019
+author information:[
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Shenghui Li
+author organization:Sun Yat-sen University
+author id:2971338327|
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Yangjun Xu
+author organization:Sun Yat-sen University
+author id:2970979874|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+]
+abstract:generative|recommendation|focus|experimental|score|relationships|realworld|leveraging|filtering|guide|based|thus|collaborative|preference|sensitive|service|propose|samples|even|invoked|recommending|semantic|superiority|methods|utilizing|recommend|distribution|desired|vector|ability|attribute|learn|predictive|services|information|comprehensive|dataset|novel|first|data|used|heterogeneous|metapaths|mainly|adversarial|method|measurement|different|generate|results|new|given|widely|list|employing|proposed|sparse|gan|techniques|solve|demonstrate|mashups|since|locate|mashup|according|generator|respective|training|constructs|network|similarity|mentioned|matrices|amount|limited|effectively|service|discriminator|developers|service|previous|information|services
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Data mining|Mashup|Information networks|Generative adversarial network|Collaborative filtering|Discriminator|Information retrieval|Computer science|Sparse matrix|Adversarial system
+references:103340358|1520352740|1522301498|1880262756|2042281163|2097385209|2099471712|2125389028|2140310134|2521481128|2619206542|2755383710|2789032889|2807511999|2808871813|2891672047|2893785281|2897167574|2899891370
+
+
+id:2972743092
+title:Incorporating geographical location for team formation in social coding sites
+year:2019
+author information:[
+author name:Liang Chen
+author organization:Sun Yat-Sen University
+author id:2248621837|
+author name:Yongjian Ye
+author organization:Sun Yat-sen University
+author id:2891265339|
+author name:Angyu Zheng
+author organization:Sun Yat-sen University
+author id:2900137990|
+author name:Fenfang Xie
+author organization:Sun Yat-sen University
+author id:2765582686|
+author name:Zibin Zheng
+author organization:Sun Yat-sen University
+author id:2104906049|
+author name:Michael R. Lyu
+author organization:Chinese Universityof Hong Kong
+author id:2227744130|
+]
+abstract:software|functions|developers|release|stateoftheart|ignoring|required|objective|skills|realworld|optimization|model|work|collaborative|impact|propose|among|geographical|collaboratively|works|aim|given|experiments|developer|formation|two|ones|coding|set|proliferation|team|collaboration|information|exploit|comprehensive|dataset|open|prefer|project|historical|sites|source|incorporate|challenging|mainly|members|sites|different|communication|comparison|cost|important|task|proposed|proximity|background|improve|demonstrate|leverage|records|minimal|algorithms|social|also|performance|form|conduct|previous|location
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Data science|Social coding|Leverage (finance)|Location|Computer science|Exploit|Artificial intelligence|Optimization algorithm|Open source software|Genetic algorithm|Machine learning
+references:6116489|1498257742|1968535060|1991618217|1993228345|2008255868|2026539971|2046522142|2055928559|2060133495|2073415627|2128083970|2129376520|2139257893|2145604831|2166293769|2167159964|2241313219|2285809549|2331798988|2438985978|2444485119|2498566050|2531384334|2534727297|2588862381|2606242109|2750303327|2752127408|2771332840|2953238822
+
+
+id:1972777157
+title:Time delay tracking for positioning in DTV networks
+year:2012
+author information:[
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Lie-Liang Yang
+author organization:University
+author id:2148064855|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+]
+abstract:demodulated|tv|introduces|data|ofdm|used|transmitted|tracking|frequency|division|copies|fine|coarse|loop|method|locked|pseudo|signal|results|using|method|modulation|demodulation|received|utilizes|modules|datadirected|estimation|signals|delay|applied|show|range|orthogonal|paper|positioning|signals|studies|acquisition|mechanism|track|tracking|digital|effectiveness|produce|multiplex|simulation|synchronization|wireless|time|novel
+venue name:Ubiquitous Positioning, Indoor Navigation, and Location Based Service
+venue id:2754939321
+venue type:C
+document type:Conference
+study fields:Synchronization|Pseudorange|Frequency divider|Computer science|Delay-locked loop|Digital delay line|Modulation|Real-time computing|Group delay and phase delay|Electronic engineering|Orthogonal frequency-division multiplexing
+references:2053702202|2096116305|2110284724|2119857453|2134957651|2154621370|2157313081|2158919537|2164153974
+
+
+id:2004828687
+title:Delay estimation for DVB-T signals in adverse multipath scenarios
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Elena Simona Lohan
+author organization:Tampere University
+author id:1966833027|
+author name:Olivier Julien
+author organization:Signal Processing and Navigation Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2599136459|
+author name:Paul Thevenon
+author organization:Signal Processing and Navigation Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2799337081|
+author name:Christophe Macabiau
+author organization:Signal Processing and Navigation Research Group, École Nationale de LAviation Civile, Toulouse, 31055, France
+author id:2292271076|
+author name:Laura Ruotsalainen
+author organization:Department of Navigation and Positioning, Finnish Geodetic Institute, MASALA, Finland
+author id:2919921989|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+]
+abstract:outputs|considered|scenarios|spaced|multipaths|tracking|employed|dlls|late|presented|estimate|narrow|presence|different|locked|signal|results|using|closely|eml|eml|sensitive|three|datadirected|estimation|difficulty|delay|signals|correlation|difference|relatively|timing|ie|resolution|minus|arrival|multipath|neml|show|cause|detect|dvbt|paper|signals|studies|mechanism|early|compared|rice|rayleigh|high|correlator|mitigate|loops|peak|delay|better|suggested|simulation|hrc|time|errors|adverse|channels|first
+venue name:International Conference on Localization and GNSS
+venue id:2753963244
+venue type:C
+document type:Conference
+study fields:Multipath propagation|DVB-T|Computer science|Delay spread|Electronic engineering|Digital television|Real-time computing|Chirp|Digital Video Broadcasting|Multilateration|Time of arrival
+references:1608659227|1972777157|1999107438|2001832568|2006904528|2053702202|2068362300|2079189568|2096116305|2110284724|2119857453|2134957651|2152303844|2154621370|2157313081|2158919537|2164153974
+
+
+id:2018253980
+title:Motion Restricted Information Filter for Indoor Bluetooth Positioning
+year:2012
+author information:[
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+author name:Ling Pei
+author organization:Finnish Geodetic Institute, Finland
+author id:2142037866|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+author name:Yuwei Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2231287226|
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Tuomo Kröger
+author organization:Finnish Geodetic Institute, Finland
+author id:2092013185|
+]
+abstract:strength|correct|improves|available|accuracy|used|horizontal|navigation|prior|signal|filtering|fingerprinting|algorithm|new|using|static|method|filter|received|localization|indicators|propose|estimation|assisted|tests|achieving|estimation|field|proposed|relatively|indoor|interval|position|authors|bluetooth|fingerprints|show|outliers|long|speed|point|network|paper|due|positioning|signals|studies|measurements|compared|speed|applying|kalman|detection|motion|combines|improvement|consecutive|model|filter|rssi|wireless|information
+venue name:International Journal of Embedded and Real-time Communication Systems
+venue id:172929737
+venue type:J
+document type:Journal
+study fields:Computer science|Outlier|Filter (signal processing)|Real-time computing|Kalman filter|Signal strength|Wireless positioning|Information fusion|Bluetooth|Information filtering system
+references:1981373725|2042043112|2108432483|2128624998|2144041533|2147503037|2147713266|2160364662
+
+
+id:2028769439
+title:Utilizing pulsed pseudolites and high-sensitivity GNSS for ubiquitous outdoor/indoor satellite navigation
+year:2012
+author information:[
+author name:Heidi Kuusniemi
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:257295434|
+author name:Mohammad Zahidul H. Bhuiyan
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:2097713605|
+author name:Marten Strom
+author organization:Space Systems Finland Ltd., Espoo, Finland
+author id:2226876413|
+author name:Stefan Soderholm
+author organization:Fastrax Ltd., Espoo, Finland
+author id:2139345356|
+author name:Timo Jokitalo
+author organization:Fastrax Ltd., Espoo, Finland
+author id:2229668438|
+author name:Liang Chen
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:2619361577|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+]
+abstract:placed|building|without|navigation|strategically|filtering|order|seamless|using|positioning|receiver|pulsed|pulsed|utilizes|provide|aid|spacebased|hardware|satellite|reallife|known|glonass|indoors|particle|demonstrated|means|highsensitivity|reduced|outdoors|efficiently|assist|information|concerned|gps|pseudolite|terrestrial|solution|gnsslike|implemented|signal|bridging|combine|need|gnss|particular|signals|convenient|proximity|interference|pseudolites|problems|ubiquitous|positioning|additional|platform|paper|positioning|corridors|gap|ends|satellite|navigation|transmit|pseudosatellite|platform|pseudolites|locations|time|significantly|presents
+venue name:International Conference on Indoor Positioning and Indoor Navigation
+venue id:2623833764
+venue type:C
+document type:Conference
+study fields:Satellite navigation|Pseudolite|Remote sensing|Air navigation|Real-time computing|GLONASS|GNSS augmentation|Electronic engineering|GNSS applications|Global Positioning System|Engineering|Precise Point Positioning
+references:2069678666
+
+
+id:2036124157
+title:The evaluation of WiFi positioning in a Bluetooth and WiFi coexistence environment
+year:2012
+author information:[
+author name:Ling Pei
+author organization:Finnish Geodetic Institute, Finland
+author id:2142037866|
+author name:Jingbin Liu
+author organization:Department of Navigation and Positioning, Finnish Geodetic Institute, 02431 Masala, Finland
+author id:2473714099|
+author name:Robert Guinness
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:1970460526|
+author name:Yuwei Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2231287226|
+author name:Tuomo Kroger
+author organization:Department of Navigation and Positioning, Finnish Geodetic Institute, MASALA, Finland
+author id:2092013185|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+]
+abstract:strength|approach|number|growing|introduced|preliminary|protocols|results|signal|fingerprinting|positioning|devices|received|basis|demand|environments|drives|analyze|integration|networks|indication|interference|present|environment|bluetooth|coexistence|applied|two|characters|paper|positioning|gives|observation|mobile|technologies|increasing|wifi
+venue name:Ubiquitous Positioning, Indoor Navigation, and Location Based Service
+venue id:2754939321
+venue type:C
+document type:Conference
+study fields:Hybrid positioning system|Received signal strength indication|Computer science|Computer network|Bluetooth networks|Mobile device|Interference (wave propagation)|Global Positioning System|Wireless lan|Bluetooth
+references:1970274170|1978200836|2015071746|2018253980|2033276313|2056427752|2080661738|2085871825|2094204865|2110625010|2112737587|2170102584
+
+
+id:2080661738
+title:Bayesian Fusion for Indoor Positioning Using Bluetooth Fingerprints
+year:2013
+author information:[
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Ling Pei
+author organization:Finnish Geodetic Institute, Finland
+author id:2142037866|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+author name:Yuwei Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2231287226|
+author name:Tuomo Kröger
+author organization:Finnish Geodetic Institute, Finland
+author id:2092013185|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2115965901|
+]
+abstract:strength|use|achieves|accuracy|horizontal|prior|test|method|signal|fingerprinting|results|combine|algorithm|respectively|static|method|positioning|bayesian|received|indicators|fusion|estimation|tests|proposed|field|indoor|indoor|bluetooth|statistical|bf|applied|show|point|network|paper|positioning|studies|verify|measurements|compared|carried|effectiveness|kalman|motion|improvement|model|filter|rssi|information
+venue name:Wireless Personal Communications
+venue id:49967189
+venue type:J
+document type:Journal
+study fields:Computer science|Bayesian fusion|Kalman filter|Real-time computing|Signal strength|Bluetooth|Bayesian probability
+references:1981373725|2042043112|2108432483|2128624998|2144041533|2147503037|2147713266|2160364662
+
+
+id:2089273387
+title:Sound positioning using a small-scale linear microphone array
+year:2013
+author information:[
+author name:Ling Pei
+author organization:Shanghai JiaoTong University
+author id:2142037866|
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Robert Guinness
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:1970460526|
+author name:Jingbin Liu
+author organization:Department of Remote Sensing and Photogrammetry; Finnish Geodetic Institute; Masala Finland
+author id:2473714099|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+author name:Yuwei Chen
+author organization:Department of Remote Sensing and Photogrammetry; Finnish Geodetic Institute; Masala Finland
+author id:2231287226|
+author name:Ruizhi Chen
+author organization:Texas AM University-Corpus Christi
+author id:2115965901|
+author name:Stefan Soderholm
+author organization:Department of Navigation and Positioning, Finnish Geodetic Institute, MASALA, Finland
+author id:2139345356|
+]
+abstract:accuracy|approach|source|generalized|terms|optimization|estimate|calculate|order|algorithm|phase|based|smallscale|using|high|impact|lower|distributed|localization|easy|field|analyze|difference|algorithm|arrays|evaluate|teleconferences|much|fundamentals|average|crosscorrelation|given|known|noise|gives|compared|linear|coordinates|cm|simulations|decreases|extensively|geometry|describe|ratio|small|use|sound|precision|used|source|axis|good|meters|function|microphone|results|signal|nonlinear|solutions|meter|acoustic|iterative|conducted|less|weighting|tests|especially|dilution|deployment|conducted|present|locating|positioning|microphone|game|perpendicular|arrivals|applied|show|scale|error|meters|field|transform|along|array|parallel|positioning|consoles|dramatically|dimension|performances|closedform|length|also|room|linear|better|performance|array|simulation|due|concept|time
+venue name:International Conference on Indoor Positioning and Indoor Navigation
+venue id:2623833764
+venue type:C
+document type:Conference
+study fields:Perpendicular|Weighting|Noise-canceling microphone|Signal-to-noise ratio|Electronic engineering|Microphone array|Engineering|Acoustics|Multilateration|Dilution of precision|Microphone
+references:105235566|1749787523|1972777157|1976071391|1978200836|1983726945|2023004272|2033276313|2056427752|2057323529|2057968074|2080661738|2085871825|2101414012|2110625010|2112737587|2120350100|2135131618|2137767462|2163993204|2170102584
+
+
+id:2092434801
+title:Development of a contextual thinking engine in mobile devices
+year:2014
+author information:[
+author name:Ruizhi Chen
+author organization:Texas AM University
+author id:2115965901|
+author name:Tianxing Chu
+author organization:Texas AM University
+author id:2145701581|
+author name:Jingbin Liu
+author organization:Dept. of Photogrammetry  Remote Sensing, Finnish Geodetic Institute, Masala, Finland
+author id:2473714099|
+author name:Yuwei Chen
+author organization:Dept. of Photogrammetry  Remote Sensing, Finnish Geodetic Institute, Masala, Finland
+author id:2231287226|
+author name:Liang Chen
+author organization:Dept. of Photogrammetry  Remote Sensing, Finnish Geodetic Institute, Masala, Finland
+author id:2619361577|
+author name:Wenchao Xu
+author organization:Texas AM University Corpus Christi
+author id:2120405456|
+author name:Xiao Li
+author organization:Texas AM University
+author id:2623997781|
+author name:Juha Hyyppa
+author organization:Finnish Geodetic Institute Masala, Finland
+author id:2140724766|
+author name:Jian Tang
+author organization:Dept. of Photogrammetry  Remote Sensing, Finnish Geodetic Institute, Masala, Finland
+author id:2617471975|
+]
+abstract:introduces|psychological|recognized|accuracy|cover|builtin|state|moving|inferring|defined|based|using|impact|node|slow|flexible|adopting|mobility|role|activity|engine|two|welldefined|measurements|compared|duration|fast|associated|approach|adopted|inputs|states|using|developed|average|given|bayesian|labeled|geospatial|significant|activities|et|signals|texas|success|shop|visiting|waiting|locationdwelling|states|engine|rate|every|sensing|mobile|devices|coffee|location|time|taking|contextual|focus|realtime|enter|id|driving|algorithm|probability|exit|future|tuples|evaluate|snapshot|inference|polygon|direct|computing|thinking|local|tuple|event|demonstrated|al|break|initial|lab|prototype|state|framework|assess|elements|bus|used|radio|inferred|selected|combination|including|capture|includes|sequence|posteriori|infer|location|paper|walking|positioning|working|included|plays|motion|social|sensors|performance|activities|user
+venue name:Ubiquitous Positioning, Indoor Navigation, and Location Based Service
+venue id:2754939321
+venue type:C
+document type:Conference
+study fields:Geospatial analysis|Tuple|Inference|Mobile device|Human–computer interaction|Probability distribution|Artificial intelligence|Engineering|Spatial contextual awareness|Snapshot (computer storage)|Machine learning|Bayesian probability
+references:98188630|1967329506|2025797281|2033276313|2057968074|2085871825|2098232491|2108328714|2170102584|2264487849
+
+
+id:2098598429
+title:Utilizing building layout for performance optimization of a multi-sensor fusion model in indoor navigation
+year:2012
+author information:[
+author name:Mohammad Zahidul H. Bhuiyan
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2097713605|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:257295434|
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2619361577|
+author name:Laura Ruotsalainen
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2919921989|
+author name:Ling Pei
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2142037866|
+author name:Robert Guinness
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:1970460526|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Department of Navigation and Positioning, Kirkkonummi, Finland
+author id:2115965901|
+]
+abstract:improves|nowadays|accuracy|determination|building|improved|restricts|navigation|experiment|model|compass|utilized|system|etc|multisensor|integration|rate|obtained|requires|satellite|availability|known|systems|aiding|popular|measurements|kalman|highsensitivity|choice|user|heading|within|rfid|fusing|filter|able|information|use|kfbased|achieves|gps|office|inside|global|horizontal|time|meters|continuous|implemented|different|offers|like|aiding|conducted|system|singletechnology|technologies|fusion|discrete|sensor|position|indoor|higher|layout|values|update|around|system|integrated|meters|along|provides|positioning|accelerometer|derived|digital|navigation|perform|way|layout|sensors|filter|typical|along
+venue name:International Conference on Localization and GNSS
+venue id:2753963244
+venue type:C
+document type:Conference
+study fields:Compass|Accelerometer|Satellite system|Electronic engineering|Kalman filter|Real-time computing|Sensor fusion|GNSS applications|Global Positioning System|Engineering|Radio navigation
+references:1608826770|2010379927|2033276313|2094495973|2105006295|2105243443|2143243918
+
+
+id:2152303844
+title:Adaptive mobile tracking in unknown non-line-of-sight conditions with application to digital TV networks
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2619361577|
+author name:Robert Piché
+author organization:Tampere University of Technol
+author id:1958539309|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+]
+abstract:rbpf|small|tv|optimal|nlos|use|approximate|network|accuracy|used|tracking|good|raoblackwellized|number|problem|sufficient|estimate|sight|scenarios|results|investigated|proposal|efficiency|using|static|method|posterior|opportunity|algorithm|signals|proposed|infer|improve|conditions|device|assumed|updated|applied|achieve|variance|show|mixed|error|distribution|extended|unknown|adaptive|effective|statistics|paper|scenario|parameter|studies|particle|particles|digital|kalman|mobile|inference|filter|performance|conditions|approximately|simulation|mean|lineofsight|nonlineofsight|gaussian
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Non-line-of-sight propagation|Computer vision|Extended Kalman filter|Bayesian inference|Computer science|Particle filter|Posterior probability|Gaussian|Artificial intelligence|Estimation theory|Sufficient statistic
+references:1483307070|1608659227|1972777157|1973213882|2041513204|2053702202|2057424925|2069678666|2079189568|2096116305|2104377048|2108141424|2110561346|2117632421|2119857453|2120350100|2124216931|2125921035|2127406017|2129139378|2134957651|2148613679|2157313081|2158919537|2160337655|2170484568|2171254182
+
+
+id:2183097636
+title:TOA Estimation for Positioning With DVB-T Signals in Outdoor Static Tests
+year:2015
+author information:[
+author name:Liang Chen
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:2619361577|
+author name:Olivier Julien
+author organization:Signal Processing and Navigation Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2599136459|
+author name:Paul Thevenon
+author organization:Signal Processing and Navigation Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2799337081|
+author name:Damien Serant
+author organization:Department of Navigation, Thales Alenia Space, Toulouse, France
+author id:2645837336|
+author name:Axel Garcia Pena
+author organization:Signal Processing and Navigation Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2148130255|
+author name:Heidi Kuusniemi
+author organization:Dept. of Navigation and Positioning, Finnish Geodetic Institute, Kirkkonummi, Finland
+author id:257295434|
+]
+abstract:measured|software|accuracy|envelop|tracking|path|dbhz|campaigns|context|evaluated|theoretical|defined|promising|positioning|receiver|toa|testing|opportunity|analysis|delay|system|field|estimation|difference|interval|appropriate|algorithms|global|networks|dvbt|france|within|television|emitters|performed|single|showed|first|ratio|standard|symbol
+venue name:IEEE Transactions on Broadcasting
+venue id:100142436
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Synchronization|Telecommunications|Software-defined radio|Computer science|Universal Software Radio Peripheral|Real-time computing|Electronic engineering|Radio frequency|Pilot signal|Orthogonal frequency-division multiplexing|Time of arrival
+references:1608659227|1972777157|2053702202|2068362300|2079189568|2096116305|2100459091|2110284724|2119857453|2126133815|2134957651|2137012645|2152303844|2154621370|2157313081|2158919537
+
+
+id:2186651731
+title:Monocular visual SLAM for tactical situational awareness
+year:2015
+author information:[
+author name:Laura Ruotsalainen
+author organization:Finnish Geospatial Research Institute, Kirkkonummi, Finland
+author id:2919921989|
+author name:Simo Grohn
+author organization:Department of Navigation and Positioning, Finnish Geospatial Research Institute FGI, Kirkkonummi, Finland
+author id:2226650622|
+author name:Martti Kirkko-Jaakkola
+author organization:Finnish Geospatial Research Institute, Kirkkonummi, Finland
+author id:229249833|
+author name:Liang Chen
+author organization:Department of Navigation and Positioning, Finnish Geospatial Research Institute, Masala, Finland
+author id:2619361577|
+author name:Robert Guinness
+author organization:Department of Navigation and Positioning, Finnish Geospatial Research Institute FGI, Kirkkonummi, Finland
+author id:1970460526|
+author name:Heidi Kuusniemi
+author organization:Department of Navigation and Positioning, Finnish Geospatial Research Institute FGI, Kirkkonummi, Finland
+author id:257295434|
+]
+abstract:odometry|accurate|called|obstacles|awareness|observed|reliable|number|camera|visual|whereas|knowledge|tactical|based|using|reduced|monocular|size|perception|stereo|indoor|environment|algorithms|providing|images|aim|utilizing|overcome|two|unknown|systems|situational|indoors|camera|key|limits|kalman|slam|filter|absolute|able|challenging|information|features|infrastructurefree|environments|use|mapping|features|awareness|solution|major|shortage|military|implement|feasible|simultaneous|results|weight|especially|concept|show|scale|previously|provides|localization|make|requirements|complicating|implementation|performing|technology|existing|form|due|translation|applications
+venue name:International Conference on Indoor Positioning and Indoor Navigation
+venue id:2623833764
+venue type:C
+document type:Conference
+study fields:Computer vision|Visual odometry|Visualization|Situation awareness|Kalman filter|Artificial intelligence|Engineering|Monocular|Simultaneous localization and mapping|Economic shortage|Visual perception
+references:194230875|612478963|1652188528|1972671602|1977159816|1987648924|2021930164|2070716745|2073491077|2085261163|2110357983|2118428504|2124386111|2143769815|2146881125|2150064935|2152671441|2167805166|2185732470
+
+
+id:2198480218
+title:Constraint Kalman filter for indoor bluetooth localization
+year:2015
+author information:[
+author name:Liang Chen
+author organization:NLS Finnish Geospatial Research Institute FGI, Masala, FI-02400, Finland
+author id:2619361577|
+author name:Heidi Kuusniemi
+author organization:NLS Finnish Geospatial Research Institute FGI, Masala, FI-02400, Finland
+author id:257295434|
+author name:Yuwei Chen
+author organization:Finnish Geospatial Research Institute
+author id:2231287226|
+author name:Jingbin Liu
+author organization:Finnish Geospatial Research Institute
+author id:2473714099|
+author name:Ling Pei
+author organization:Shanghai JiaoTong University
+author id:2142037866|
+author name:Laura Ruotsalainen
+author organization:NLS Finnish Geospatial Research Institute FGI, Masala, FI-02400, Finland
+author id:2919921989|
+author name:Ruizhi Chen
+author organization:University Corpus Christi
+author id:2115965901|
+]
+abstract:localization|incorporates|strength|accurate|selfdeveloped|accuracy|prior|property|fingerprint|model|state|evaluated|directly|applied|signal|fingerprinting|based|method|introducing|bayesian|conducted|received|indicators|system|fingerprints|lack|estimation|tests|proposed|field|indoor|demonstrate|framework|statistical|bluetooth|providing|hidden|sequential|update|unknown|paper|due|positioning|studies|derived|ckf|effectiveness|kalman|motion|within|estimated|solution|constrained|formulated|filter|rssi|variable|formula|information|analytic|measurements|represent
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Extended Kalman filter|Computer science|Algorithm|Fingerprint|Kalman filter|Hidden variable theory|Sequential estimation|Bluetooth|Bayesian probability|Positioning system|Embedded system
+references:1608826770|2018253980|2080661738|2141225005|2144041533
+
+
+id:2522792133
+title:Analysis on the TOA Tracking With DVB-T Signals for Positioning
+year:2016
+author information:[
+author name:Liang Chen
+author organization:Department of Navigation and Positioning, Finnish Geospatial Research Institute, Masala, Finland
+author id:2619361577|
+author name:Paul Thevenon
+author organization:SIGNAV Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2799337081|
+author name:Gonzalo Seco-Granados
+author organization:Department of Telecommunications and Systems Engineering, School of Engineering, Universitat Autnoma de Barcelona, Bellaterra, Spain
+author id:2024069987|
+author name:Olivier Julien
+author organization:SIGNAV Laboratory, École Nationale de L’Aviation Civile, Toulouse, France
+author id:2599136459|
+author name:Heidi Kuusniemi
+author organization:Finnish Geodetic Institute, Finland
+author id:257295434|
+]
+abstract:standard|equivalent|slightly|theoretical|unsmoothed|accuracy|used|nonlinear|tracking|high|shows|loop|despite|ratio|context|locked|different|signal|results|theoretical|promising|approximation|positioning|lower|toa|smoothed|opportunity|european|analysis|estimation|inequality|signals|delay|asymptotic|letter|signalnoise|errors|theory|larger|ubiquitous|itlb|computed|analysis|arrival|dll|achieve|video|informationtheoretic|dvbt|analyzes|derived|digital|broadcastingterrestrial|effectiveness|bandwidth|television|bound|verified|also|increase|lead|filter|due|able|wireless|time|errors
+venue name:IEEE Transactions on Broadcasting
+venue id:100142436
+venue type:J
+document type:Journal
+study fields:Telecommunications|Upper and lower bounds|Computer science|DVB-T|Control theory|Delay-locked loop|Signal-to-noise ratio|Electronic engineering|Bandwidth (signal processing)|Digital Video Broadcasting|Orthogonal frequency-division multiplexing|Time of arrival
+references:1608659227|1972777157|2004828687|2079189568|2110284724|2119857453|2152303844|2154621370|2157313081|2158919537|2183097636
+
+
+id:2617679377
+title:An Improved Compressive Sensing and Received Signal Strength-Based Target Localization Algorithm with Unknown Target Population for Wireless Local Area Networks
+year:2017
+author information:[
+author name:Jun Yan
+author organization:Nanjing University of Posts  Telecommun
+author id:2716285409|
+author name:Kegen Yu
+author organization:Wuhan University
+author id:2304832444|
+author name:Ruizhi Chen
+author organization:Wuhan University
+author id:2753680937|
+author name:Liang Chen
+author organization:Wuhan University
+author id:2763903235|
+]
+abstract:localization|strength|achieves|accuracy|threshold|residual|approach|grids|employed|reestimated|fine|coarse|twophase|signal|greater|results|thresholdbased|using|dealing|compared|received|population|chosen|estimation|proposed|sparse|improve|formulating|among|effect|refined|position|demonstrate|algorithms|components|improved|rule|partitioned|best|recovery|technique|error|matrix|measurement|unknown|candidate|paper|vector|hence|grids|sensing|detection|determine|leastsquares|compressive|target|error|simulation|grid|partitioning|population|iteratively|minimum|significantly|dimensions
+venue name:Sensors
+venue id:101949793
+venue type:J
+document type:Journal
+study fields:Residual|Population|Wireless|Matrix (mathematics)|Algorithm|Electronic engineering|Wi-Fi|Engineering|RSS|Compressed sensing|Grid
+references:1608659227|1986931325|2005362966|2011482625|2011502582|2021608177|2028214191|2041513204|2044831755|2069678666|2072489003|2080661738|2090702298|2091107418|2092769955|2101038653|2112668603|2117668287|2120234055|2127271355|2128963015|2134041135|2135111961|2142908542|2144723957|2156477559|2167696602|2183097636|2522792133
+
+
+id:2622402939
+title:Joint Wireless Positioning and Emitter Identification in DVB-T Single Frequency Networks
+year:2017
+author information:[
+author name:Liang Chen
+author organization:and Remote Sensing Wuhan University Wuhan
+author id:2763903235|
+author name:Lie-Liang Yang
+author organization:University
+author id:2148064855|
+author name:Jun Yan
+author organization:Nanjing University of Posts  Telecommun
+author id:2716285409|
+author name:Ruizhi Chen
+author organization:Wuhan University
+author id:2753680937|
+]
+abstract:accurate|sfns|tested|maximization|recognized|occurs|three|navigation|problem|identification|promising|algorithm|comes|based|positioning|receiver|received|resulting|broadcasting|networks|achieve|dvbt|sfn|cramerrao|robust|problem|within|television|emitters|single|standard|joint|existence|used|frequency|employed|unable|transmission|terrestrial|method|feasible|consider|signal|five|results|european|signals|tests|proposed|know|emitter|confusion|dtv|show|digital|video|expectation|arrivalbased|network|effective|positioning|studies|emitters|digital|identify|relying|approaches|emassisted|performance|error|simulation|due|achieved|wireless|time|bound|methodology
+venue name:IEEE Transactions on Broadcasting
+venue id:100142436
+venue type:J
+document type:Journal
+study fields:Hybrid positioning system|Single-frequency network|Telecommunications|Wireless|Common emitter|DVB-T|Computer science|Electronic engineering|Digital Video Broadcasting|Orthogonal frequency-division multiplexing|Time of arrival
+references:1972777157|2053702202|2079189568|2080961717|2126133815|2133353795|2157313081|2158919537|2168298782|2183097636|2522792133
+
+
+id:2769094067
+title:Hybrid Kernel Based Machine Learning Using Received Signal Strength Measurements for Indoor Localization
+year:2018
+author information:[
+author name:Jun Yan
+author organization:Nanjing University of Posts  Telecommun
+author id:2716285409|
+author name:Lin Zhao
+author organization:Nanjing University of Posts and Telecommunications
+author id:2769695754|
+author name:Jian Tang
+author organization:Wuhan University
+author id:2617471975|
+author name:Yuwei Chen
+author organization:Department of Remote Sensing and Photogrammetry, Finnish Geospatial Research Institute, NLS, Finland
+author id:2231287226|
+author name:Ruizhi Chen
+author organization:Wuhan University
+author id:2753680937|
+author name:Liang Chen
+author organization:and Remote Sensing Wuhan University Wuhan
+author id:2763903235|
+]
+abstract:localization|strength|data|accurate|measurementposition|without|learningbased|function|adding|csupport|signal|utilized|algorithm|obtain|new|based|compared|preprocessing|iterative|received|crossvalidation|indicators|analysis|classification|regressing|fingerprints|chosen|estimation|hybrid|system|tests|estimation|field|proposed|techniques|achieve|indoor|position|measurementlabel|kernelbased|show|technique|learning|training|result|offline|extra|vector|dramatically|ability|set|kernel|approaches|increase|target|computation|selforganizing|rssi|existing|proposed|corresponding|regression|online|approach|subset|techniques
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Training set|Pattern recognition|Data analysis|Computer science|Hybrid kernel|Electronic engineering|Signal strength|Multispectral pattern recognition|Localization system|Artificial intelligence|Computation complexity
+references:1965347874|2007146523|2015725852|2112019442|2118585731|2135394914|2139410361|2153635508|2170102584|2198571464|2326347197|2517587710
+
+
+id:1488075530
+title:A hierarchical training and identification method using Gaussian process models for face recognition in videos
+year:2015
+author information:[
+author name:Negar Hassanpour
+author organization:University of Northern British Columbia
+author id:2776902272|
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+]
+abstract:called|extracted|tracking|approach|three|identification|sequence|classifier|utilized|guide|gallery|reduce|based|frames|models|sampling|lighting|aimed|propose|samples|benchmark|enriches|easrs|provide|generalization|binary|specialization|conditions|video|scheme|identification|datasets|rejects|low|noise|noise|decisions|poses|compared|may|abstract|procedure|noisy|designing|wrong|face|information|subject|recognition|available|process|developing|process|used|different|train|evaluation|demonstrates|alleviating|sequence|publicly|expressions|affected|done|important|sequence|effect|ensemble|useful|sources|provided|training|capable|learning|ensemble|video|representatives|representation|head|paper|similarity|facial|process|identify|gp|label|complemented|structure|probe|better|performance|due|various|gaussian|stateoftheart|reducing|significantly
+venue name:IEEE International Conference on Automatic Face  Gesture Recognition
+venue id:2755241531
+venue type:C
+document type:Conference
+study fields:Facial recognition system|Sampling process|Pattern recognition|Noise measurement|Computer science|Speech recognition|Facial expression|Artificial intelligence|Gaussian process|Classifier (linguistics)|Facial motion capture|Binary number
+references:1503398984|1556074820|1746819321|1814598697|1820849028|1929887928|1964470356|1977774297|1996939238|2000771160|2022398315|2084944189|2117138194|2120453412|2122691893|2134849720|2137401668|2138820335|2139047213|2140539195|2144093206|2150600350|2151103935|2161969291|2162813111|2163352848|2435338979|2911964244
+
+
+id:1543603119
+title:A unified framework for improving the accuracy of all holistic face identification algorithms
+year:2010
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+author name:Naoyuki Tokuda
+author organization:R  D Center, SunFlare Company, Shinjuku-ku, Tokyo, Japan 160-0004
+author id:2893025229|
+]
+abstract:standard|experiments|show|accuracy|used|developed|challenging|newly|identification|provides|demonstrated|human|results|embedded|stability|algorithms|databases|applying|process|holistic|baseline|benchmark|enhanced|electoral|face|improving|extensive|framework|college|reconstructing|significantly
+venue name:Artificial Intelligence Review
+venue id:122814990
+venue type:J
+document type:Journal
+study fields:Data mining|Facial recognition system|Computer science|Algorithm|Electoral college|Artificial intelligence|Machine learning
+references:1545641654|1979750001|2042145505|2061485277|2097021277|2098947662|2103365034|2104813487|2106253207|2112765477|2119635426|2158051493|2167144347|2167999447
+
+
+id:1889440347
+title:Stability analysis of voting schemes on a continuous model
+year:2000
+author information:[
+author name:Liang Chen
+author organization:Utsunomiya University
+author id:2973901008|
+author name:N. Tokuda
+author organization:
+author id:2984224560|
+]
+abstract:smaller|sized|allowed|voting|developed|improved|white|concentrated|continuous|model|presence|stability|always|image|demonstrates|robustness|analysis|reinforced|discretemodelbased|processing|larger|regions|regional|reconfirms|divided|extended|long|result|conclusion|regions|noise|national|socalled|previous|application
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Continuous modelling|Data mining|Voting|Computer science|Image processing|White noise|Robustness (computer science)|Decision theory|Divided regions
+references:2008737418|2042294241|2124087378
+
+
+id:1964850962
+title:A new scheme for an automatic generation of multi-variable fuzzy systems
+year:2001
+author information:[
+author name:Liang Chen
+author organization:Utsunomiya University
+author id:2419924165|
+author name:Naoyuki Tokuda
+author organization:Utsunomiya University
+author id:2118491544|
+author name:Xiangdong Zhang
+author organization:Fudan University
+author id:2527355099|
+author name:Yongbao He
+author organization:Fudan University
+author id:2892752316|
+]
+abstract:cluster|principle|functions|use|multicpu|rules|independence|nonlinear|extracted|compute|output|cluster|claim|multivariable|computational|new|given|using|method|reduced|resulting||system|input|system|processing|present|appropriate|complexity|solving|inference|independent|taking|automatically|decompose|show|back|function|generating|membership|integrated|eight|computing|parallel|fuzzy|variables|set|original|sets|decomposed|abstract|advantage|multiple|verified|say|sample|single|associated|variable|sets|novel|first
+venue name:Fuzzy Sets and Systems
+venue id:169411308
+venue type:J
+document type:Journal
+study fields:Defuzzification|Fuzzy classification|Fuzzy set operations|Algorithm|Fuzzy set|Fuzzy associative matrix|Type-2 fuzzy sets and systems|Fuzzy number|Membership function|Mathematics
+references:177891611|406738437|1581455389|2002525323|2062706881|2076579537|2161029193
+
+
+id:1994710936
+title:A Simple High Accuracy Approach for Face Recognition
+year:2007
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2973885089|
+author name:N. Tokuda
+author organization:SunFlare Company, Shinjuku Hirose Bldg, Yotsuya 4-7, Shinjuku-ku, Tokyo, Japan 160-0004, Email: tokuda_n@sunflare.co.jp
+author id:2780479215|
+]
+abstract:college|remarkably|electoral|recognition|feret|algorithm|expected|significant|pca|traditional|reached|adopting|theory|higher|applied|breakthrough|experiments|direct|show|effective|paper|known|rate|indicates|embedding|popular|vote|algorithms|recognition|face|stable|datasets|strategy|simply
+venue name:IEEE International Conference on Cognitive Informatics
+venue id:2755026231
+venue type:C
+document type:Conference
+study fields:Facial recognition system|Principal component analysis face recognition|Embedding|Pattern recognition|FERET|Computer science|Electoral college|Artificial intelligence|Principal component analysis|Machine learning
+references:1545641654|1979750001|1997011019|2033419168|2042145505|2061485277|2103365034|2112765477|2119635426|2134072810|2155535585|2158051493|2521603329
+
+
+id:2016325519
+title:A new differential LSI space-based probabilistic document classifier
+year:2003
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+author name:Naoyuki Tokuda
+author organization:SunFlare Company, Shinjuku Hirose Bldg, Yotsuya 4-7, Shinjuku-ku, Tokyo, Japan 160-0004
+author id:2118491544|
+author name:Akira Nagai
+author organization:Utsunomiya University
+author id:2654210970|
+]
+abstract:projections|calculation|small|use|improves|using|simple|developed|introduced|experiment|classifier|capturing|documents|new|lsi|method|large|introducing|adaptability|classification|spaces|vectors|posteriori|latent|unique|spaces|demonstrate|spacebased|semantic|extradocument|document|concept|differential|example|effective|database|performance|distances|characteristics|probabilistic|advantage|combined|dlsi|intra
+venue name:Information Processing Letters
+venue id:147953040
+venue type:J
+document type:Patent
+study fields:Document classification|Data mining|Latent semantic indexing|Computer science|Natural language|Probabilistic logic|Classifier (linguistics)|Probabilistic classification
+references:116908793|1982114217|2027875450|2040058125|2076008912|2097089247|2101210369|2119572012|2143784448
+
+
+id:2042145505
+title:Robustness of regional matching scheme over global matching scheme
+year:2003
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+author name:Naoyuki Tokuda
+author organization:Utsunomiya University
+author id:2118491544|
+]
+abstract:establishing|gablor|experimental|approach|conjecture|problem|twocandidate|imagery|represented|presence|using|convincing|robustness|schemes|analysis|extraction|two|former|whiteblack|extend|decisionmaking|occlusion|theory|flag|direct|localized|global|local|matching|imagery|result|valid|dimensionreducing|transforms|noise|demonstrated|analyzing|robust|decision|involve|component|overturns|validity|pixelbypixel|accommodating|practically|transforms|recognition|voting|remains|verifications|features|concentrated|counting|image|clutter|level|pose|typically|important|simplified|effect|higher|regional|capable|simpler|conclusion|principal|supporting|vote|facial|process|processes|also|stable|typical|latter
+venue name:Artificial Intelligence
+venue id:196139623
+venue type:J
+document type:Journal
+study fields:Facial recognition system|Discrete mathematics|Direct method|Voting|Clutter|Robustness (computer science)|Artificial intelligence|Imagery analysis|Conjecture|Mathematics|Principal component analysis|Machine learning
+references:2100961486|2138584058
+
+
+id:2061485277
+title:Capacity analysis for a two-level decoupled Hamming network for associative memory under a noisy environment
+year:2007
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+author name:Naoyuki Tokuda
+author organization:SunFlare R  D Center, Shinjuku Hirose Bldg, Yotsuya 4-7, Shinjuku-ku, Tokyo 160-0004, Japan
+author id:2118491544|
+author name:Akira Nagai
+author organization:Utsunomiya University
+author id:2654210970|
+]
+abstract:smaller|senses|practically|high|ikeda|concentrated|associative|capacity|model|addition|hardware|efficiency|conclude|decoupled|analysis|easy|twolevel|et|hamming|possesses|effect|therefore|substantially|much|higher|since|neural|memory|middlesized|singlelevel|network|capacity|uniform|random|noise|noise|memory|elegant|established|computationally|caused|implementation|windows|advantages|performance|detailed|prevalent
+venue name:Neural Networks
+venue id:123019304
+venue type:J
+document type:Journal
+study fields:Hamming code|Background noise|Content-addressable memory|Computer science|Random noise|Algorithm|Hamming distance|Artificial neural network
+references:1997011019|1997089197|1999259225|2064120704|2103365034|2112765477|2115909066|2152958328|2153382583|2172001722
+
+
+id:2112021728
+title:Is High Resolution Representation More Effective for Content Based Image Classification
+year:2006
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2982334860|
+author name:N. Tokuda
+author organization:E-mail: lchen@ieee.org
+author id:2118491544|
+author name:A. Nagai
+author organization:
+author id:2654210970|
+author name:Xiaoyu Chen
+author organization:
+author id:2715616060|
+]
+abstract:recognition|simple|remains|resolution|approach|high|shows|model|gabor|image|based|involves|lower|schemes|classification|analysis|even|relatively|neural|believe|pictures|matching|conclusion|valid|principal|paper|rate|low|transforms|process|component|pictures|complicated|mathematical
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Computer science|Image matching|Image representation|Artificial intelligence|Contextual image classification|Artificial neural network|Image resolution|Machine learning|Principal component analysis
+references:2005562683|2110410904
+
+
+id:2115555550
+title:Two-level decoupled Hamming network for associative memory under noisy environment
+year:2005
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2892580729|
+author name:N. Tokuda
+author organization:
+author id:2118491544|
+author name:A. Nagai
+author organization:
+author id:2654210970|
+]
+abstract:practice|simple|shows|concentrated|associative|model|based|compared|level|lower|decoupled|analysis|twolevel|hamming|possesses|substantially|memory|increased|network|capacity|uniform|random|proved|noise|noise|introducing|efficient|deteriorated|single|actually|detailed|prevalent
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Hamming code|Content-addressable memory|Computer science|Random noise|Algorithm|Theoretical computer science|Electronic engineering|Content-addressable storage|Associative processing
+references:1997089197|2103365034|2112765477|2130305844|2152958328
+
+
+id:2137188358
+title:An efficient algorithm for automatically generating multivariable fuzzy systems by Fourier series method
+year:2002
+author information:[
+author name:Liang Chen
+author organization:British Columbia University
+author id:2894158920|
+author name:N. Tokuda
+author organization:
+author id:2973996712|
+]
+abstract:cluster|functions|readily|theorems|extracted|variables|required|moderate|algorithm|method|analysis|resulting|input|system|set|completely|appropriate|implicit|wider|inference|independent|automatically|range|proving|two|specified|composition|processes|power|demonstrated|variables|set|robust|sets|within|decomposed|implementing|exploiting|sample|computation|single|series|requiring|validity|exploiting|first|precision|available|rules|developed|function|directly|new|given|ensure|need|constructive|system|expansion|relevant|basic|present|covering|back|generating|decomposition|capable|membership|error|simpler|integrated|fourier|construction|applications|fuzzy|processes|original|cost|constructed|multivariable|bound|parneufuz|stable
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Fuzzy classification|Control theory|Computer science|Fuzzy set operations|Fuzzy set|Artificial intelligence|Adaptive neuro fuzzy inference system|Fuzzy associative matrix|Fuzzy number|Mathematical optimization|Defuzzification|Fuzzy logic|Algorithm|Machine learning
+references:177891611|1524864392|1581455389|1964850962|2002041997|2116308743|2161029193
+
+
+id:1485670664
+title:Video Popularity Dynamics and Its Implication for Replication
+year:2015
+author information:[
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Chunfeng Yang
+author organization:Chinese Universityof Hong Kong
+author id:2237381698|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:provider|reason|popular|optimal|maintain|catalog|quickly|videos|advance|analyzing|number|lfu|per|knowledge|based|large|pass|probability|fairly|offline|videos|handle|propose|glory|system|study|access|affect|kinds|distribution|facts|measurement|offline|known|popularity|based|benchmark|close|regular|replication|observation|low|services|days|operation|levels|replaying|strategy|access|data|main|used|caching|view|continuous|videoondemand|quite|different|results|day|given|new|tracedriven|strategies|typically|finding|servers|users|important|arrival|provided|changes|show|appears|mixed|video|content|network|design|hence|types|understood|apply|also|performance|due|service|assuming|online|well|achieved|time|strategy|user
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Resource management|Video processing|Strategy|FIFO (computing and electronics)|Computer science|Popularity|Server|Service provider|Video tracking|Multimedia
+references:1963903779|1969878926|1974066983|1977606842|1999230823|2024176568|2041161771|2045079727|2048412925|2070366435|2080318890|2084771439|2095581635|2112056172|2118519969|2129679208|2144256475|2154851929|2163609156
+
+
+id:1549679984
+title:Analyzing streaming performance in crowdsourcing-based video service systems
+year:2015
+author information:[
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Mi Jing
+author organization:Xunlei Network Technology Company
+author id:2692290055|
+author name:Zhong Ming
+author organization:Shenzhen University
+author id:2660363779|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:agent|results|accuracy|vod|supply|platforms|number|would|create|uploading|model|cash|large|like|compared|conducted|crowdsourcingbased|users|stable|miniservers|rewarded|analyze|internet|much|acting|systems|analytical|video|distribution|content|streaming|composed|stochastic|live|compared|validate|crowdsourcingbased|normal|thunder|cost|bandwidth|devices|agents|performance|simulation|service|earn|novel
+venue name:Workshop on Local and Metropolitan Area Networks
+venue id:2735450524
+venue type:C
+document type:Conference
+study fields:Thunder|Crowdsourcing|Computer science|Upload|Server|Computer network|Bandwidth (signal processing)|Stochastic modelling|Multimedia|Cash|The Internet
+references:1491709127|1974422606|2008722325|2031623767|2047412069|2082544029|2118268795|2124990550|2126402853|2136345600|2147383119|2170950596
+
+
+id:1969878926
+title:Video Browsing - A Study of User Behavior in Online VoD Services
+year:2013
+author information:[
+author name:Liang Chen
+author organization:Chinese University of Hong Kong
+author id:2949384090|
+author name:Yipeng Zhou
+author organization:Chinese University of Hong Kong
+author id:2096849978|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:big|repeats|nowadays|focus|videos|viewing|number|understanding|formulation|model|order|browsing|based|sessions|al|completion|analysis|demand||version|distributions|quality|million|partial|video|purely|study|times|portion|seek|lot|isolate|systems|occasionally|stochastic|behavior|side|one|distribution|possible|abstract|uncovers|help|closed|sessionsin|reports|perfect|internet|vod|main|experience|transitions|good|engineered|major|leave|repeating|consider|us|traffic|streamed|new|practice|queueing|towards|finding|users|et|longer|proposed|leads|effect|internet|position|collect|parameters|session|qoe|part|video|watching|content|network|random|spend|observations|client|views|player|process|configure|impairments|manage|special|conduct|form|detailed|service|online|short|time|user|wu
+venue name:International Conference on Computer Communications and Networks
+venue id:1137850760
+venue type:C
+document type:Conference
+study fields:Video browsing|Client-side|Computer science|Computer network|Service provider|PEVQ|Queueing theory|Quality of experience|Multimedia|Internet traffic|The Internet
+references:1963903779|1972863258|1980169651|1991389995|2110424938|2144256475|2162266953|2163609156
+
+
+id:1981488358
+title:A study of user behavior in online VoD services
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2949384090|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:big|repeats|considered|nowadays|videos|sessions|approach|viewing|evaluation|number|introduced|formulation|understanding|model|order|browsing|based|sessions|evaluation|conclude|completion|analysis|quality|million|partial|video|study|times|popularity|portion|seek|lot|isolate|systems|occasionally|behavior|gives|side|al|abstract|one|distribution|possible|closer|help|closed|reports|perfect|internet|use|vod|main|simple|experience|transitions|good|videoondemand|engineered|view|major|leave|repeating|consider|results|us|traffic|streamed|new|queueing|count|conducted|finding|users|et|longer|measure|leads|effect|internet|position|collect|session|qoe|part|video|watching|content|network|random|similarity|spend|client|views|player|process|subjective|alternative|configure|impairments|manage|special|form|application|detailed|service|online|short|time|user|wu
+venue name:Computer Communications
+venue id:115004586
+venue type:J
+document type:Journal
+study fields:Client-side|Video player|Computer science|Popularity|Computer network|Service provider|Queueing theory|Quality of experience|Multimedia|Internet traffic|The Internet
+references:1963903779|1972863258|1980169651|1991389995|2110424938|2144256475|2158542147|2162266953
+
+
+id:1999230823
+title:Fake View Analytics in Online Video Services
+year:2014
+author information:[
+author name:Liang Chen
+author organization:Shenzhen University and Department of Information Engineering
+author id:2949384090|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:extent|maintain|use|questions|paper|vod|robot|view|incentive|videoondemand|create|count|often|significant|develop|important|stop|invariably|become|algorithms|study|financial|show|detect|video|artificially|content|current|views|currency|views|effectiveness|problem|services|various|service|online|fake|online|providers
+venue name:Network and Operating System Support for Digital Audio and Video
+venue id:1134913378
+venue type:C
+document type:Conference
+study fields:World Wide Web|Internet privacy|Incentive|Botnet|Computer science|Service provider|Online video|Robot|Analytics|Currency
+references:1968439359|1969878926|1985987493|2085533912|2109885200|2122646361|2128824222|2133473417|2144936818|2162240407|2168508162
+
+
+id:2013592483
+title:Smart Streaming for Online Video Services
+year:2015
+author information:[
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2949384090|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:mostly|viewing|concern|accessing|far|playback|evaluated|based|using|load|quality|downloading|system|much|authors|server|frequently|requests|smart|segments|streaming|known|systems|experimentation|behavior|bandwidth|may|exploiting|prototype|fast|quit|complete|use|used|serve|developed|downloading|exceed|avoiding|predicted|waste|given|studying|http|often|significant|downloaded|users|proposed|requests|improve|overall|departure|technique|video|rate|bandwidth|since|behavior|cost|implementation|peak|predictability|improvement|service|providers|online|progressive|achieved|well|strategy|file|user|significantly
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Resource management|Service quality|Real Time Streaming Protocol|Computer science|Upload|Server|Computer network|Service provider|Bandwidth (signal processing)|Online video|Multimedia
+references:1963903779|1969878926|1972191802|1980169651|2020189063|2050316560|2070153724|2077544013|2079646068|2104233902|2122136421|2126156165|2127034683|2132454267|2134618125|2141708177|2144256475|2150878918|2155086778|2156133547|2158542147|2171121044|2187772488|2402202069|2951350170
+
+
+id:2013732327
+title:Turbocharged Video Distribution via P2P
+year:2015
+author information:[
+author name:Chunfeng Yang
+author organization:Shenzhen University
+author id:2953018339|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Tom Z. J. Fu
+author organization:Advanced Digital Sciences Center
+author id:2083891144|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:simulation|reasoning|peers|completing|without|depending|whereas|backoftheenvelop|peers|analysis|propose|benefit|former|system|examples|provide|starting|video|providing|effectiveness|compare|experiments|distribution|two|example|streaming|file|systems|offered|close|validate|performance|replication|include|set|implementing|combining|produce|single|pplive|novel|commercial|meshbased|vod|simple|networking|good|download|downloading|videoondemand|different|users|designs|show|video|design|prototype|streaming|types|original|practical|satisfying|environment|various|service|latter|user|subset
+venue name:IEEE Transactions on Circuits and Systems for Video Technology
+venue id:115173108
+venue type:J
+document type:Journal
+study fields:BitTorrent tracker|Algorithm design|Computer science|Upload|Distribution system|Server|Download|Computer network|Bandwidth (signal processing)|BitTorrent
+references:1967216298|1969226481|1997525214|2003807909|2010859647|2028320915|2080721364|2089040526|2095198692|2110499194|2118268795|2126402853|2130021034|2134502143|2140067728|2142457209|2142773006|2147657151|2153196247|2154959614|2166245380|2170048175|2172032393
+
+
+id:2047412069
+title:Thunder crystal: a novel crowdsourcing-based content distribution platform
+year:2015
+author information:[
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Mi Jing
+author organization:Xunlei Network Technology Company
+author id:2692290055|
+author name:Richard T. B. Ma
+author organization:Nat. University of Singapore
+author id:2167904096|
+]
+abstract:upload|cdn|companies|far|capacity|crowdsourcingbased|efficiency|efficiently|service|thousands|utilizes|traditional|system|evaluate|study|times|methods|distribution|amplify|capacity|rebated|distribute|behavior|close|thunder|bandwidth|agents|lots|first|deploying|able|novel|agent|buy|observe|edge|unavoidably|implement|motivated|resource|heavily|especially|content|keep|principles|internet|present|contribute|video|storage|content|network|servers|spend|design|end|consumes|lieu|studied|agents|efficiency|money|well|online|cash|time|user|providers
+venue name:Network and Operating System Support for Digital Audio and Video
+venue id:1134913378
+venue type:C
+document type:Conference
+study fields:Thunder|End user|Computer science|Crowdsourcing|Upload|Server|Computer network|Bandwidth (signal processing)|Agent behavior|The Internet
+references:1974422606|2008722325|2014532779|2024176568|2031623767|2070876461|2118268795|2124990550|2126402853|2130384722|2136345600|2147383119
+
+
+id:2094094754
+title:Batching for Smart Home: Leveraging delay-insensitive workload in cloud storage
+year:2015
+author information:[
+author name:Suiming Guo
+author organization:The Chinese University of Hong Kong
+author id:2230025417|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Guoqiang Zhang
+author organization:Xunlei (Thunder) Networking Technologies, China
+author id:2623996928|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:upper|server|overwhelms|introduced|problem|smooth|model|resort|reduce|based|bst|large|expected|understand|service|propose|delay|evaluate|trading|average|study|intradatacenter|scheme|specified|file|scenario|policies|intradatacenter|keeping|could|smart|batching|simulations|single|mathematical|strategy|commercial|minutes|observe|cloud|high|edge|aggregating|downloading|scheduling|implement|different|significantly|traffic|delivering|tracedriven|volume|measure|chunkbased|requests|files|managing|necessity|cards|show|chunk|capable|storage|interface|content|network|servers|public|load|delaying|home|delayinsensitive|original|bound|multiple|peak|approximately|service
+venue name:Communication Systems and Networks
+venue id:1164390529
+venue type:C
+document type:Conference
+study fields:Scheduling (computing)|Computer science|Upload|Server|Service system|Computer network|Home automation|Real-time computing|Cloud storage|The Internet|Distributed computing|Network interface
+references:1488805037|1986697120|2029467255|2050945375|2065619953|2099602864|2119565742|2119631914|2144256475|2151657298|2153704625|2156133547|2158542147|2159136631
+
+
+id:2094871756
+title:Analysis and Detection of Fake Views in Online Video Services
+year:2015
+author information:[
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:extent|maintain|use|questions|vod|robot|viewsq|view|incentive|create|quite|count|often|significant|develop|important|stop|providersq|article|invariably|become|algorithms|study|financial|show|detect|video|artificially|content|effective|current|views|currency|views|problem|efficientlyq|services|various|service|online|fake|online|providers
+venue name:ACM Transactions on Multimedia Computing, Communications, and Applications
+venue id:19610489
+venue type:J
+document type:Journal
+study fields:Internet privacy|World Wide Web|Incentive|Botnet|Computer science|Service provider|Online video|Robot|Currency
+references:1968439359|1985987493|1999230823|2085533912|2109885200|2121511513|2122646361|2127273221|2128824222|2131389289|2133473417|2140519269|2144936818|2153517517|2162240407|2168508162
+
+
+id:2468481776
+title:Social Group Based Video Recommendation Addressing the Cold-Start Problem
+year:2016
+author information:[
+author name:Chunfeng Yang
+author organization:Chinese Universityof Hong Kong
+author id:2237381698|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Xiaopeng Zhang
+author organization:Precise Recommendation Center, Tencent Inc., Shenzhen, China
+author id:2520293188|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:socialgroupbased|tencent|osns|reach|tested|improves|recommendation|videos|stateoftheart|occurs|approach|viewing|problem|friends|diverse|promising|algorithm|cold|abundant|compared|videos|collaborating|propose|capitalize|utilize|become|larger|recommend|networks|two|personalized|viewed|set|problem|may|within|produce|newitem|information|ranking|essential|discuss|newuser|resolve|good|recommendations|either|members|implemented|quite|needs|insufficient|history|friends|users|system|lack|candidates|proposed|video|relatively|one|recommendation|clickthrough|part|affiliated|video|videos|candidate|common|hence|practical|social|considerably|start|multiple|groups|also|service|richer|online|consists|recommends|services|user
+venue name:Knowledge Discovery and Data Mining
+venue id:1130985203
+venue type:C
+document type:Conference
+study fields:Social group|Data mining|World Wide Web|Social network|Cold start|Ranking|Computer science|Service system|Online video|Multimedia|Cold start (automotive)
+references:1682184030|1994389483|2003605635|2018571751|2031305127|2039613841|2040000633|2040367556|2055132753|2057932305|2084527756|2094858374|2100235918|2101409192|2116206254|2126539515|2135598826|2144088685|2160755014
+
+
+id:2502987861
+title:Social-group-based ranking algorithms for cold-start video recommendation
+year:2016
+author information:[
+author name:Chunfeng Yang
+author organization:Chinese Universityof Hong Kong
+author id:2237381698|
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Xiaopeng Zhang
+author organization:Tencent Inc
+author id:2520293188|
+author name:Dah Ming Chiu
+author organization:Chinese Universityof Hong Kong
+author id:2144653979|
+]
+abstract:socialgroupbased|tencent|osns|reach|tested|improves|recommendation|videos|stateoftheart|occurs|approach|viewing|problem|friends|friend|diverse|promising|algorithm|cold|abundant|compared|videos|collaborating|propose|capitalize|utilize|become|larger|recommend|networks|two|personalized|viewed|set|problem|may|within|produce|newitem|information|ranking|essential|discuss|newuser|resolve|good|recommendations|either|members|implemented|quite|needs|history|insufficient|history|friends|users|system|lack|candidates|proposed|video|relatively|recommendation|clickthrough|part|affiliated|video|videos|candidate|common|hence|practical|social|considerably|start|multiple|groups|also|service|richer|online|consists|recommends|services|user
+venue name:Journal of data science
+venue id:2764553900
+venue type:J
+document type:Journal
+study fields:Social group|Recommender system|Learning to rank|World Wide Web|Social network|Ranking|Computer science|Service system|Online video|Multimedia|Cold start (automotive)
+references:1485337621|1682184030|1760548574|1965971975|1994389483|2003605635|2018571751|2031305127|2039613841|2040000633|2040367556|2054141820|2055132753|2057932305|2071283884|2082945558|2084527756|2094858374|2100235918|2100493403|2101409192|2116206254|2126539515|2135598826|2144088685|2149084727|2160755014|2171960770|2468481776
+
+
+id:2558608709
+title:Performance Analysis of Thunder Crystal: A Crowdsourcing-Based Video Distribution Platform
+year:2018
+author information:[
+author name:Yipeng Zhou
+author organization:Shenzhen University
+author id:2096849978|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2714252513|
+author name:Mi Jing
+author organization:Shenzhen Startups, Shenzhen, China
+author id:2692290055|
+author name:Zhong Ming
+author organization:Shenzhen University
+author id:2660363779|
+author name:Yuedong Xu
+author organization:Fudan University
+author id:2158604089|
+]
+abstract:slightly|tencent|differentiated|results|upload|simulation|accuracy|videos|different|number|problem|evaluated|crowdsourcingbased|qualityofservice|assigning|based|using|large|proportional|service|renting|heavy|traditional|traffic|system|analyze|requirement|boost|evaluate|degrades|deliver|networks|cash|distribution|streaming|power|validate|replication|performance|resources|thunder|address|business|bandwidth|fluctuating|model|peertopeer|agents|framework|cannot|online|novel|supported|synchronized|theoretical|challenging|research|inelastic|downloading|scheduling|implemented|videoondemand|crystal|overlay|proposes|pay|conducted|users|delivering|rewarded|video|internet|crystal|request|critical|determines|competitiveness|storage|video|content|random|previously|paper|designed|delivery|allocation|highdefinition|bargaining|studied|consumption|although|existing|performance|due|providers|online|hd|strategy|simply
+venue name:IEEE Transactions on Circuits and Systems for Video Technology
+venue id:115173108
+venue type:J
+document type:Journal
+study fields:Thunder|Computer science|Bandwidth allocation|Crowdsourcing|Server|Upload|Computer network|Quality of service|Artificial intelligence|The Internet|Computer vision|Multimedia|Cloud computing
+references:1491709127|1549679984|1968030132|1968989207|1974422606|1976378945|1999042751|2003433510|2005727744|2008722325|2022334019|2024933913|2025518782|2031623767|2042908504|2044885272|2047412069|2050222294|2055376552|2055972993|2074768989|2082544029|2089040526|2090958693|2110499194|2118268795|2124990550|2126402853|2136345600|2147383119|2154959614|2160401368|2166245380
+
+
+id:2770085455
+title:On Carrier Sensing Accuracy and Range Scaling Laws in Nakagami Fading Channels
+year:2017
+author information:[
+author name:Yue Wang
+author organization:Central University of Finance  Econ
+author id:2734782063|
+author name:Liang Chen
+author organization:Shenzhen University
+author id:2803777065|
+author name:Li Zhang
+author organization:Beijing University of Technology
+author id:2769012445|
+author name:Haifeng Li
+author organization:Central University of Finance  Econ
+author id:2304062060|
+author name:Huaihu Cao
+author organization:Central University of Finance  Econ
+author id:2115915889|
+author name:Jianming Zhu
+author organization:University of Finance  Econ
+author id:2662735525|
+]
+abstract:reveal|optimal|theoretical|channel|depresses|accuracy|maximize|newly|accessing|transmission|property|harms|results|similar|laws|static|dominating|probability|interference|adjusted|nakagami|fading|solely|carrier|channels|determined|therefore|sir|average|study|prove|hidden|show|range|optimally|define|exposed|make|derived|sensing|scaling|mitigate|terminal|interference|channel|pathloss|carrier|extensive|detailed|unified|severe|threshold|channels
+venue name:Wireless Communications and Mobile Computing
+venue id:235346
+venue type:J
+document type:Journal
+study fields:Topology|Signal-to-interference ratio|Nakagami fading channels|Computer science|Fading|Computer network|Communication channel|Interference (wave propagation)|Fading distribution|Statistics|Scaling law|Channel state information
+references:1977433894|1981610211|1989659920|2069810732|2117035673|2119220232|2132987440|2154542753
+
+
+id:2918201812
+title:Mobile Social Data Learning for User-Centric Location Prediction With Application in Mobile Edge Service Migration
+year:2019
+author information:[
+author name:Qiong Wu
+author organization:Sun Yat-sen University
+author id:2916405132|
+author name:Xu Chen
+author organization:Sun Yat-sen University
+author id:2609056785|
+author name:Zhi Zhou
+author organization:Sun Yat-sen University
+author id:2436692341|
+author name:Liang Chen
+author organization:Tencent, Shenzhen, China
+author id:2916651156|
+]
+abstract:select|advertising|recommendations|approach|different|without|costefficient|realworld|balance|leveraging|model|algorithm|using|propose|correlations|benefit|quality|attracted|bridge|predictionbased|much|wechat|study|city|privacy|lazy|methods|experiments|smart|local|personalized|tradeoff|offline|promote|entropy|popularity|precise|compared|accordingly|proliferation|many|great|userspecific|extensive|classic|able|unified|unprecedented|information|performs|manner|data|use|several|research|relieff|features|edge|shows|locationbased|mec|significant|graph|enhanced|measure|prediction|involving|framework|latency|show|effort|learning|network|computing|considerable|prediction|similarity|define|behavior|applications|factor|nonmigration|cost|social|apply|mobile|also|significance|better|existing|conduct|service|migration|online|usercentric|well|location|locations|significantly|integrates|amortizing
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Factor graph|Data mining|Social network|Service quality|Computer science|Mobile edge computing|Smart city|Online and offline|Global Positioning System|User-centered design|Distributed computing
+references:1503398984|1673310716|1962496800|1964457389|1982300822|2013551812|2025652426|2043330589|2046592845|2107622755|2111418154|2120294885|2130597747|2140535046|2604304011|2785650425|2802854212|2892636405|2917915102
+
+
+id:2922014656
+title:WeChat Toxic Article Detection: A Data-Driven Machine Learning Approach
+year:2018
+author information:[
+author name:Yunpeng Weng
+author organization:Sun Yat-sen University
+author id:2921788921|
+author name:Muhong Wu
+author organization:Sun Yat-sen University
+author id:2920970557|
+author name:Xu Chen
+author organization:Sun Yat-sen University
+author id:2609056785|
+author name:Qiong Wu
+author organization:Sun Yat-sen University
+author id:2988799711|
+author name:Lingnan He
+author organization:Guangdong Key Laboratory for Big Data Analysis and Simulation of Public Opinion, Guangzhou, China
+author id:2921130804|
+author name:Liang Chen
+author organization:Tencent, Shenzhen, China
+author id:2916651156|
+]
+abstract:named|realworld|problem|striking|model|text|public|based|using|work|impact|methods|propose|perspective|attracted|analyze|utilize|difference|diffusion|wechat|study|achieve|experiments|kinds|datasets|networks|two|gain|popularity|dire|empirically|behavior|detection|outstanding|may|uneasily|holistic|extensive|framework|classic|extensively|closed|chinese|information|open|manner|matlstm|moments|tremendous|research|exemplified|visible|amounts|xmatl|consequences|widespread|different|toxic|new|capture|article|enhanced|proposed|improve|tackle|systematically|demonstrate|largest|detect|platform|paper|interest|wm|design|studies|normal|process|characteristics|identify|social|effectively|automatic|spread|wechat|performance|conduct|well|information|articles|existing
+venue name:Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+venue id:2754583030
+venue type:C
+document type:Conference
+study fields:Social network|Data-driven|Computer science|Popularity|Feature extraction|Artificial intelligence|Machine learning
+references:1546111015|1614298861|2051405935|2057026632|2076618162|2090448847|2164082612|2295598076|2522095151|2562607067|2577888896|2797652359
+
+
+id:2976588536
+title:Information Cascades over Diffusion-Restricted Social Network: A Data-Driven Analysis
+year:2019
+author information:[
+author name:Bo Zhang
+author organization:Sun Yat-sen University
+author id:2975873056|
+author name:Qiong Wu
+author organization:Sun Yat-sen University
+author id:2916405132|
+author name:Xu Chen
+author organization:Sun Yat-sen University
+author id:2609056785|
+author name:Liang Chen
+author organization:Tencent, Shenzhen, China
+author id:2916651156|
+]
+abstract:advertising|cascades|problem|structure|understanding|based|work|reshares|spreading|correlation|attracted|analyze|viral|much|diffusion|study|wechat|strong|diffusionrestricted|networks|seen|result|detection|empirically|popular|embedded|cascades|many|great|marketing|extensively|chinese|exists|information|open|political|remains|moments|tremendous|research|exemplified|rumor|suggests|amounts|feasible|cascade|differs|less|interest|exploited|tackle|systematically|demonstrate|largest|importance|twitter|privacy|scale|modeling|content|platform|network|paper|flows|wm|studies|predict|early|understood|webpages|social|rich|wechat|better|existing|form|attention|growth|user|pays|applications
+venue name:Conference on Computer Communications Workshops
+venue id:2622149892
+venue type:C
+document type:Conference
+study fields:Data science|Viral marketing|Social network|Data-driven|Web page|Computer science|Rumor|Information cascade|Cascade
+references:863049760|1976811884|1996263819|2076718192|2080290417|2104933073|2126902368|2171410332|2606418518|2612174832|2740317552|2962721744
+

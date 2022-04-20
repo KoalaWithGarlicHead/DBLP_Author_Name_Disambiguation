@@ -1,0 +1,20 @@
+0 Guangdong University of Tech
+1 Guangdong Polytechnic Normal University
+2 Guangzhou University
+3 Waseda University
+4 The Graduate University for Advanced Studies
+5 Grad. University for Adv. Studies
+6 Nat. Institute of Inf., Tokyo, Japan
+7 National Institute of Informatics/the Graduate University for Advanced Studies
+8 corg_nameeWaseda University
+9 WASEDA UNIVERISTY
+10 Global Information and Telecommunication Institute
+11 Shizuoka University
+12 University of Sci. and Tech. of China
+13 Hefei University of Technology
+14 ShangHai University
+15 Shandong University
+16 GuiZhou University
+17 University of Macau
+18 UMacau Zhuhai Research Institute, China
+19 North China University of Technol

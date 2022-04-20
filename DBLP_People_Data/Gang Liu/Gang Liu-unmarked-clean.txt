@@ -1,0 +1,2557 @@
+
+id:192324892
+title:A novel feature extraction strategy for multi-stream robust emotion identification.
+year:2010
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Yun Lei
+author organization:University of Texas at Dallas
+author id:2103830195|
+author name:John H. L. Hansen
+author organization:Electrical Engineering
+author id:2125659135|
+]
+abstract:delta|approach|offer|evaluation|identification|sdc|pitch|cepstral|dependent|temporal|using|suprasegmental|robustness|sensitive|baseline|extraction|system|provide|much|feature|known|noise|explore|fusing|noisy|emotion|conditions|speech|information|combined|minimum|shifted|features|performs|use|approximate|recognition|language|used|incorporate|developed|features|find|berlin|originally|less|real|proposed|scales|speaker|frontend|critical|speech|additional|discriminative|investigate|pmvdr|effective|database|perceptual|applications|clean|variation|outperforms|better|variance|response|distortionless|also|well|information
+venue name:Conference of the International Speech Communication Association
+venue id:1177287137
+venue type:C
+document type:Conference
+study fields:Mel-frequency cepstrum|Minimum-variance unbiased estimator|Pattern recognition|Computer science|Cepstrum|Feature extraction|Robustness (computer science)|Speech recognition|Language identification|Artificial intelligence|Perception|Discriminative model
+references:74556043|175750906|2032254851|2063656732|2072328708|2096503735|2103651164|2104403658|2135934764|2144600569|2158943324|2167854178
+
+
+id:1490357683
+title:Dialect identification: Impact of differences between read versus spontaneous speech
+year:2010
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Yun Lei
+author organization:University of Texas at Dallas
+author id:2103830195|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:phoneme|reflected|spontaneous|identification|gained|terms|classification|examining|model|respectively|natural|extraction|substantial|propose|field|speakertospeaker|rate|word|automatic|relative|systems|traits|differences|feature|processing|performance|efficient|systematic|speech|novel|clues|dialect|community|recognition|language|clearly|cues|space|observe|assessment|find|consider|different|obtain|visible|read|need|acoustic|often|neglected|effects|addressed|spaces|useful|conversations|dialects|distinct|traits|interest|design|dialect|spans|characteristics|recently|prosodic|also|improvement|normally
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Pronunciation|Data modeling|Speech processing|Computer science|Speech recognition|Feature extraction|Hidden Markov model
+references:8933666|2021142154|2063656732|2146194791
+
+
+id:1563120900
+title:Weighted training for speech under Lombard Effect for speaker recognition
+year:2015
+author information:[
+author name:Muhammad Muneeb Saleem
+author organization:University of Texas at Dallas
+author id:2439019471|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:John H.L. Hansen
+author organization:University of Texas
+author id:2125659135|
+]
+abstract:modeling|achieves|varying|influence|high|identification|confirming|ivector|speakers|classifier|presence|weighted|validation|based|using|proposes|neutral|lombard|baseline|classification|highaccuracy|produced|effects|eer|especially|proposed|exploited|speaker|detecting|effect|relative|study|deep|systems|neural|independent|kinds|training|proven|networks|network|causing|varying|noise|effectiveness|types|detection|robust|recognition|improvement|model|accuracies|performance|effect|speech|various|severe|achieved|levels|novel
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Training set|Speaker identification|Pattern recognition|Computer science|Speech recognition|Speaker recognition|Artificial intelligence|Baseline system|Classifier (linguistics)|Artificial neural network|Deep neural networks|Lombard effect
+references:324573446|1993882792|2012472509|2037786411|2091825929|2099767163|2106820503|2117486215|2121892718|2136922672|2142193238|2150769028|2160815625|2340176088|2404022339|2406312423|2888441252
+
+
+id:1998569203
+title:Utilization of unlabeled development data for speaker verification
+year:2014
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Chengzhu Yu
+author organization:University of Texas at Dallas
+author id:2108375142|
+author name:Navid Shokouhi
+author organization:University of Texas at Dallas
+author id:2072555714|
+author name:Abhinav Misra
+author organization:University of Texas at Dallas
+author id:2723108993|
+author name:Hua Xing
+author organization:University of Texas at Dallas
+author id:2226014931|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:modeling|ivectors|gains|required|investigates|model|respectively|mapping|efficiency|large|method|compared|baseline|analysis|system|undesired|cases|obtained|relative|study|utilizing|two|proves|systems|identity|plda|mechanism|performance|linear|efficient|probabilistic|stateoftheart|many|clustering|information|space|separate|resolve|data|available|corpus|solution|unlabeled|method|potential|verification|offers|development|imposter|labeled|significant|onto|proposed|speaker|discriminant|cosine|distance|sources|public|provides|universal|effectiveness|variabilities|cost|effectively|approaches|improvement|versus|superior|challenge
+venue name:Spoken Language Technology Workshop
+venue id:1196016004
+venue type:C
+document type:Conference
+study fields:Probabilistic linear discriminant analysis|I vector|Speaker verification|Pattern recognition|Computer science|Cosine Distance|Speech recognition|Speaker recognition|Artificial intelligence|Speaker diarisation|Baseline system|Cluster analysis
+references:192324892|651157033|1481676178|1540327379|1585610988|1999033484|2002341000|2012472509|2034626437|2037786411|2131562924|2142827986|2150769028|2156088115|2159736522|2181594395|2360384684|2395750323|2403004610|2406312423|2887979278|2941061067
+
+
+id:2012472509
+title:An investigation on back-end for speaker recognition in multi-session enrollment
+year:2013
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Taufiq Hasan
+author organization:University of Texas at Dallas
+author id:2100849293|
+author name:Hynek Boril
+author organization:University of Texas at Dallas
+author id:1022995310|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:modeling|optimal|recognition|several|construct|gains|objective|improved|backend|classifiers|emphasis|different|averaged|obtain|respectively|development|using|individual|utilization|backend|system|multisession|system|eer|proposed|speaker|obtained|present|frontend|relative|framework|study|effectiveness|configuration|explores|validates|part|sre|discriminative|ivector|across|backends|demonstrated|highly|compared|robust|fusing|data|improvement|mindcf|single|framework|performance|various|organization|fused|consistent|nist|information|submission|strategy|significantly
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:System framework|Pattern recognition|Computer science|Speech recognition|NIST|Speaker recognition|Speaker diarisation|Artificial intelligence|Statistical classification|Discriminative model|Machine learning
+references:1993482042|2041823554|2069883713|2102910419|2117486215|2118585731|2121812409|2123768812|2129066450|2129741985|2150769028|2159736522|2162315642|2170088868|2395750323|2396983800|2397634864|2406312423
+
+
+id:2034626437
+title:An investigation into back-end advancements for speaker recognition in multi-session and noisy enrollment scenarios
+year:2014
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:optimal|modeling|construct|stateoftheart|complementary|ivector|diverse|diversifying|case|tasks|algorithm|based|compared|work|utilization|resulting|advancement|subsystems|competitive|study|two|subsystem|advancements|systems|established|robust|address|set|explore|data|lowdimensional|noisy|performed|enrollments|confirm|framework|exploring|results|organization|nist|objectives|information|novel|proposing|data|reasonable|recognition|corpus|solution|presented|emphasis|verification|computational|evaluation|development|individual|solutions|cost|backend|intrinsic|sid|fusion|multisession|core|task|proposed|speaker|final|parts|overall|framework|configuration|discriminative|investigate|represents|backends|extrinsic|algorithms|highly|aims|recognition|also|grand|enrollment|performance|achieved|comprehensive
+venue name:IEEE Transactions on Audio, Speech, and Language Processing
+venue id:199497470
+venue type:J
+document type:Journal
+study fields:Speaker verification|Pattern recognition|Computer science|Speech recognition|Speaker recognition|NIST|Speaker diarisation|Artificial intelligence|Statistical classification|Discriminative model|Machine learning
+references:98988881|146072112|192324892|200975091|651157033|1490357683|1501506202|1533303231|1536816303|1574170747|1574185228|1916834241|1971641696|1993482042|1996758056|2003200396|2012472509|2037363404|2041823554|2062208970|2069883713|2070176749|2072328708|2086228340|2090716422|2096569194|2102910419|2106405099|2112582577|2114541077|2117486215|2118585731|2121061347|2121092028|2121812409|2123768812|2128041025|2129066450|2129191766|2129741985|2129785530|2131562924|2135668224|2137333306|2139037446|2146168894|2146320039|2146635662|2147147599|2150769028|2154278880|2159736522|2161710584|2162315642|2162501025|2168482760|2170088868|2296538559|2395619215|2395750323|2396822996|2397634864|2398362606|2403328552|2406312423|2406884287|2917534502|2917756095
+
+
+id:2037786411
+title:Uncertainty propagation in front end factor analysis for noise robust speaker recognition
+year:2014
+author information:[
+author name:Chengzhu Yu
+author organization:University of Texas at Dallas
+author id:2108375142|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Seongjun Hahm
+author organization:University of Texas at Dallas
+author id:2532340753|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:snrs|practically|recognition|stateoftheart|incorporate|used|features|shows|ivector|corpora|different|calculated|uncertainties|verification|knowledge|based|evaluation|using|oracle|evaluation|introducing|robustness|methods|significant|extraction|system|propagation|proposed|yoho|speaker|obtained|evaluate|recognition|framework|prove|uncertainty|artificially|confirmed|splice|noise|noise|jointgmm|speaker|explore|observation|estimated|clean|framework|speech|assuming|associated|nist
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Front and back ends|Speaker verification|Propagation of uncertainty|Pattern recognition|Computer science|Oracle|Speech recognition|Robustness (computer science)|Speaker recognition system|Speaker recognition|NIST|Artificial intelligence
+references:46095808|182365161|1035726117|1540327379|2012472509|2013969331|2046069883|2063291689|2090716422|2102910419|2110402487|2111093880|2121415728|2129379984|2150769028|2159736522|2164432048|2168959749|2295897503|2395659169|2398865593|2404397191|2406312423
+
+
+id:2102910419
+title:Robust feature front-end for speaker identification
+year:2012
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Yun Lei
+author organization:University of Texas at Dallas
+author id:2103830195|
+author name:John H.L. Hansen
+author organization:University of Texas
+author id:2125659135|
+]
+abstract:considered|delta|channel|evaluation|identification|sdc|employed|diverse|presence|cepstral|temporal|knowledge|based|give|successfully|method|compared|extraction|traditional|system|algorithm|study|one|another|identification|channelmismatched|across|feature|noise|mismatch|speaker|address|sid|union|noisy|conditions|minimum|shifted|adverse|novel|used|incorporate|sustained|pmvdrsdc|significantly|always|new|acoustic|sid|important|longer|yoho|improve|speaker|frontend|additional|show|contribute|pmvdr|database|perceptual|diversified|robust|also|openset|improvement|performance|variance|response|distortionless|challenge|presents
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Front and back ends|Minimum-variance unbiased estimator|Mel-frequency cepstrum|Noise measurement|Pattern recognition|Computer science|Cepstrum|Speech recognition|Robustness (computer science)|Feature extraction|Speaker recognition|Artificial intelligence
+references:1536018579|1569592550|2051195460|2063656732|2121178298|2144600569|2154354834|2397634864
+
+
+id:2162315642
+title:A fast speaker verification with universal background support data selection
+year:2012
+author information:[
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Jun-Won Suh
+author organization:University of Texas at Dallas
+author id:2130416860|
+author name:John H.L. Hansen
+author organization:University of Texas
+author id:2125659135|
+]
+abstract:modeling|optimal|evaluation|number|embed|per|knowledge|based|using|method|compared|way|constructed|selection|examples|supportvector|selection|guarantee|superplane|svm|balanced|derive|taken|vector|popular|set|decision|within|consistent|data|generally|fast|machine|cannot|dataset|unseen|data|searching|frequency|necessitate|verification|offers|imposter|development|constructing|informative|often|significant|system|proposed|background|speaker|support|crucial|searching|discriminative|speaker|integrated|parameter|studies|universal|derived|process|subspace|apply|speakers|improvement|generalizes|enrollment|expensive|target|better|performance|detailed|previous|avoid
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Speaker verification|Data modeling|Subspace topology|Pattern recognition|Computer science|Support vector machine|Speech recognition|Speaker recognition|NIST|Artificial intelligence|Covariance matrix|Discriminative model
+references:100766887|1902670937|2113578100|2129785530|2139212933|2150769028
+
+
+id:2171679232
+title:Crowd++: unsupervised speaker count with smartphones
+year:2013
+author information:[
+author name:Chenren Xu
+author organization:Rutgers University
+author id:2166215285|
+author name:Sugang Li
+author organization:Rutgers University
+author id:2228030177|
+author name:Gang Liu
+author organization:UT Dallas, Richardson, NJ, USA
+author id:2308252433|
+author name:Yanyong Zhang
+author organization:Rutgers University
+author id:2143548513|
+author name:Emiliano Miluzzo
+author organization:ATT Labs Research, Florham Park, NJ, USA
+author id:629700729|
+author name:Yih-Farn Chen
+author organization:ATT Labs, Florham Park, NJ, USA
+author id:2162669475|
+author name:Jun Li
+author organization:Rutgers University
+author id:2559429647|
+author name:Bernhard Firner
+author organization:Rutgers University
+author id:40566493|
+]
+abstract:exercised|smartphone|called|occurs|evaluation|number|wellbeing|estimate|hardware|based|smartphones|excellent|transparently|inference|personal|accurately|analysis|classification|system|environments|unsupervised|average|inference|talking|believe|derive|transparent|segments|smartphones|smartphones|audio|place|participants|implications|possible|many|people|model|machine|certain|first|manner|findings|several|used|research|speakers|microphone|different|results||dedicated|including|particular|profound|take|offtheshelf|external|demonstrate|intervention|involving|assessment|distance|needed|show|learning|error|captured|applications|human|sensing|social|mobile|approaches|cumbersome|supervised|step|time|user
+venue name:Ubiquitous Computing
+venue id:1171345118
+venue type:C
+document type:Conference
+study fields:Mobile sensing|Inference|Computer science|Supervised learning|Human–computer interaction|Unsupervised learning|Artificial intelligence|Personal wellbeing|Multimedia|Machine learning|Microphone
+references:99811769|192324892|1560013842|1563235770|1574170747|1751091532|1962925405|1965308036|2036946260|2039506494|2075840228|2081074144|2115483887|2119599673|2123175289|2129421456|2135431242|2137075158|2140596092|2141585940|2142057670|2142216726|2148108980|2161897659|2162125266|2394562624|2404022339
+
+
+id:2233435981
+title:Unsupervised accent classification for deep data fusion of accent and language information
+year:2016
+author information:[
+author name:John H.L. Hansen
+author organization:University of Texas
+author id:2125659135|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+]
+abstract:modeling|frequencyinverse|document|approach|variation|offer|improved|subsystems|grammar|experiment|gained|ivector|classifier|leveraging|usually|text|ngram|respectively|based|lexical|using|natural|compared|gmm|impacts|baseline|classification|substantial|propose|studies|feasibility|latent|traditional|system|selection|explored|analysis|processing|boost|word|automatic|relative|traits|methods|identification|sparsity|two|ways|nlp|audiotext|validate|performance|address|textual|classification|speech|series|discriminative|nist|cannot|frequency|information|combined|comparable|novel|dialect|community|use|semantic|corpus|language|mixture|employed|shows|shown|solution|selfcollected|results|vowels|including|acoustic|modeled|term|system|rhythmical|improving|achieving|proposed|techniques|final|dialects|training|investigate|modeling|content|phonetic|interest|due|provides|dialect|factor|recently|approaches|improvement|differ|realization|superior|logistic|performance|due|various|regression|tfidf|fused|gaussian|significantly
+venue name:Speech Communication
+venue id:128025751
+venue type:J
+document type:Journal
+study fields:Prosody|Speech processing|tf–idf|Computer science|Speech recognition|Natural language processing|Artificial intelligence|Classifier (linguistics)|Latent semantic analysis|Discriminative model|Vocabulary|Semantics
+references:22861983|124356247|191155385|192324892|252777880|308095034|645179519|1531550467|1642316760|1892978018|1936725236|1971825156|1978394996|1998569203|2025929295|2037786411|2038567424|2056749925|2069620976|2071401855|2094709280|2101066392|2104212264|2104457544|2106284094|2115691907|2124322817|2125168896|2125986061|2129120544|2130721836|2133803203|2134318785|2137498753|2141695706|2144211451|2146591867|2147152072|2148913638|2149353989|2149609556|2150769028|2160815625|2161106747|2162501025|2166183437|2170348535|2172287020|2184188583|2186645306|2187642891|2293441309|2340176088|2396385162|2403004610|2403870012|2404022339|2407501792|2408021097|2941061067
+
+
+id:2291299091
+title:An i-Vector PLDA based gender identification approach for severely distorted and multilingual DARPA RATS data
+year:2015
+author information:[
+author name:Shivesh Ranjan
+author organization:University of Texas at Dallas
+author id:2292002529|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:accuracy|adaptation|approach|offer|identification|ivector|equal|model|severely|discriminant|based|using|large|method|rate|gmmubm|extraction|utilizes|even|analysis|unsupervised|domain|consistently|automatic|relative|study|testutterances|gender|scheme|transcription|achieve|formulate|portion|testsets|fisher|testsegment|plda|multilingual|compared|languages|genderidentification|training|data|mismatch|able|novel|improvements|heldout|data|genderlabeled|several|achieves|corpus|degradation|used|employed|compute|shown|presented|unlabeled|offers|utterances|created|kind|proposes|adapt|labeled|identification|significant|backend|distorted|proposed|darparats|present|parameters|little|fe|testutterances|scores|rats|training|duration|derived|outofdomain|outperform|probabilistic|error|also|improvement|linear|english|compensation|strategy|reduction
+venue name:IEEE Automatic Speech Recognition and Understanding Workshop
+venue id:2606697348
+venue type:C
+document type:Conference
+study fields:Probabilistic linear discriminant analysis|I vector|Training set|Compensation strategy|Pattern recognition|Computer science|Domain adaptation|Word error rate|Speech recognition|Artificial intelligence|Labeled data
+references:129176699|192324892|1968652492|1996601463|2034626437|2041823554|2044291182|2059372649|2116801843|2121415728|2121812409|2129456397|2136879537|2143694533|2150769028|2168966732|2181594395|2360384684|2395750323|2408021097|2887979278
+
+
+id:2396385162
+title:I-vector based physical task stress detection with different fusion strategies
+year:2015
+author information:[
+author name:Chunlei Zhang
+author organization:University of Texas at Dallas
+author id:2617070000|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Chengzhu Yu
+author organization:University of Texas at Dallas
+author id:2108375142|
+author name:John H. L. Hansen
+author organization:Electrical Engineering
+author id:2125659135|
+]
+abstract:employ|accuracy|stateoftheart|nonlinear|complementary|physical|score|introduced|model|investigated|algorithm|based|using|method|two|boost|obtained|relative|systems|study|fusion|fact|two|experiments|corpus|gain|feature|inspired|detection|subsequent|believed|scorelevel|validate|utscope|stress|linear|may|ivector|variabilities|strategies|subjects|fusing|produce|generally|framework|speech|mfccs|influence|features|processsing|different|level|fusion|effects|task|production|used|detecting|demonstrate|vital|since|production|speech|additional|detect|ivectors|hypothesis|total|common|previously|since|physical|human|derived|degrade|variabilities|ivectors|teocbautoenv|performing|alternative|technology|formulated|factors|performance|achieved|presents
+venue name:Conference of the International Speech Communication Association
+venue id:1177287137
+venue type:C
+document type:Conference
+study fields:I vector|AdaBoost|Pattern recognition|Computer science|Fusion|Speech recognition|Nonlinear operators|Artificial intelligence|Feature based|Speech production|Speech technology
+references:7326553|9547545|1533324333|1988790447|2003851021|2021925338|2034626437|2037786411|2038262340|2072328708|2121415728|2122022287|2123861288|2143694533|2150769028|2184421965|2186645306|2403004610|2408021097
+
+
+id:2398371757
+title:Frequency offset correction in single sideband (SSB) speech by deep neural network for speaker verification
+year:2015
+author information:[
+author name:Hua Xing
+author organization:University of Texas at Dallas
+author id:2226014931|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:John H. L. Hansen
+author organization:Electrical Engineering
+author id:2125659135|
+]
+abstract:focus|type|nonlinear|evaluation|loss|sda|problem|drift|order|based|using|propose|system|unique|interval|relative|denoising|signals|based|estimating|communication|performance|mismatch|drifted|step|produce|single|framework|accuracy|speech|mismatch|first|autoencoder|recognition|twostep|index|influence|frequency|shows|major|method|communication|results|signal|verification|offset|experimental|estimation|eer|proposed|improve|speaker|demonstrate|stacked|neural|speech|network|represents|paper|value|considers|ssb|previous|determine|estimated|improvement|compensated|carrier|performance|sideband|multilayered
+venue name:Conference of the International Speech Communication Association
+venue id:1177287137
+venue type:C
+document type:Conference
+study fields:Demodulation|Computer science|Frequency offset|Communications system|Modulation|Speech recognition|Speaker recognition|Artificial neural network|Compatible sideband transmission|Offset (computer science)
+references:128628490|1522162858|1563120900|2012472509|2025768430|2031210760|2031722966|2034626437|2039057510|2109761419|2126436628|2160815625|2165784196|2887979278|2941061067
+
+
+id:2405524873
+title:Joint information from nonlinear and linear features for spoofing detection: An i-vector/DNN based approach
+year:2016
+author information:[
+author name:Chunlei Zhang
+author organization:University of Texas at Dallas
+author id:2617070000|
+author name:Shivesh Ranjan
+author organization:University of Texas at Dallas
+author id:2292002529|
+author name:Mahesh Kumar Nandwana
+author organization:University of Texas at Dallas
+author id:2231665849|
+author name:Qian Zhang
+author organization:University of Texas at Dallas
+author id:2424976890|
+author name:Abhinav Misra
+author organization:University of Texas at Dallas
+author id:2723108993|
+author name:Gang Liu
+author organization:University of Texas at Dallas
+author id:2308252433|
+author name:Finnian Kelly
+author organization:University of Texas at Dallas
+author id:2191833443|
+author name:John H. L. Hansen
+author organization:University of Texas at Dallas
+author id:2125659135|
+]
+abstract:dnn|scatterings|utterancelevel|approach|terms|classifier|recent|investigated|using|successfully|method|analysis|two|scoring|years|even|obtained|formed|asvspoof|relative|minimum|betweenclass|framelevel|band|envelope|experiments|feature|energy|systems|concatenating|distortionless|compared|detection|linear|asv|combining|teager|framework|progress|autocorrelation|essential|ratio|attacks|speechproductionmotivated|corpus|remains|critical|used|attacks|singlefeature|nonlinear|maximizing|significant|backend|spoofing|system|eer|proposed|speaker|withinclass|operator|show|recording|ivector|discriminative|best|pmvdr|variance|cepstralbased|perceptual|teocbautoenv|automatic|also|detects|approaches|improvement|followed|sustaining|response|proposed|achieved|gaussian
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Minimum-variance unbiased estimator|Pattern recognition|Spoofing attack|Energy operator|Critical band|Computer science|Cepstrum|Feature extraction|Speech recognition|Artificial intelligence|Discriminative model|Autocorrelation
+references:167195097|1507099578|1538611796|1661756259|2011376672|2012472509|2034626437|2063656732|2118978333|2121415728|2123861288|2133420453|2141074280|2148143831|2150769028|2170088868|2176804518|2293407848|2296529392|2396385162|2400513881|2401315748|2404022339|2548055032
+
+
+id:1176693206
+title:Decomposition tree: a spatio-temporal indexing method for movement big data
+year:2015
+author information:[
+author name:Zhenwen He
+author organization:China University of Geosciences
+author id:2076888826|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Zufang Zheng
+author organization:China University of Geosci
+author id:2477499450|
+author name:Yiping Tian
+author organization:China University of Geosciences
+author id:2962717863|
+]
+abstract:big|objects|focus|without|evolves|complex|moving|databases|based|method|propose|bitshifting|studies|science|developing|dtree|access|methods|range|research|known|movement|indexing|efficient|structures|data|forefront|answer|overlapping|stored|severe|efficiently|information|movement|space|novel|data|dimensional|use|decomposition|integer|space|research|importance|high|geographic|time|generated|hierarchical|competitors|tree|nodes|results|kind|experimental|query|tree|difficult|encoding|inner|problems|virtual|critical|show|best|treelike|database|parallel|process|cost|wide|social|multidimensional|queries|also|octree|superior|performance|suitable
+venue name:Cluster Computing
+venue id:106148199
+venue type:J
+document type:Journal
+study fields:Integer|Geographic information system|Data mining|Access method|Computer science|Search engine indexing|Theoretical computer science|Big data|Octree|Encoding (memory)|Quadtree
+references:131606651|1608245294|1852053568|1905489744|1966192292|1995900572|2017382022|2027450468|2034840791|2056487692|2064540673|2101429492|2118269922|2119368079|2121446380|2127397734|2133675752|2146726073|2149173084|2151135734|2154797012|2155713641|2165569992|2168358369|2636233190|2901608006
+
+
+id:1965573020
+title:A SKOS-based multilingual thesaurus of geological time scale for interoperability of online geological maps
+year:2011
+author information:[
+author name:Xiaogang Ma
+author organization:University of Twente
+author id:2153882111|
+author name:Emmanuel John M. Carranza
+author organization:University of Twente
+author id:2098751335|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+author name:Freek D. Van Der Meer
+author organization:University of Twente
+author id:2169649554|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+]
+abstract:gts|accuracy|collected|geological|accessing|translations|terms|retrieval|translations|model|skos|using|recognitions|terms|system|web|among|programs|map|encoded|usefulness|functional|organization|methods|functionality|hindered|extended|simple|linguistic|proved|maps|term|multilingual|set|languages|model|geoscience|services|results|represent|ordinal|interoperability|seven|recognizing|alleviate|developed|knowledge|hierarchical|barriers|implemented|making|maps|test|alleviating|multilingual|less|improving|skosbased|benefits|studied|records|scale|proper|system|javascript|programs|thesauri|pilot|thesaurus|structure|barriers|characteristicoriented|online|time
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Web Map Service|Data mining|Ontology|World Wide Web|Information retrieval|Interoperability|Computer science|Semantic Web|Simple Knowledge Organization System|Geologic map|JavaScript
+references:77689030|1535786933|1660390307|1978022086|1979977307|2001234250|2003012803|2010267600|2010595692|2023659337|2027421379|2031685401|2037043843|2049074573|2052061796|2064045168|2077293009|2083255214|2086893832|2090520692|2095236054|2100417155|2100877292|2108599449|2111266624|2111306015|2118325596|2133109597|2133821701|2147032551|2147558260|2157422183|2158606791|2165261022|2170302917|2589372920
+
+
+id:1976105724
+title:Massive 3D spatial data storage model based on file system
+year:2010
+author information:[
+author name:Ka Sun
+author organization:China University of Geosciences
+author id:2127967484|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Yingying Li
+author organization:China University of Geosciences
+author id:2362683856|
+author name:Pinqian Wang
+author organization:China University of Geosciences
+author id:2230794730|
+]
+abstract:explosive|thought|called|objects|quickly|whole|program|relationships|realtime|supplies|model|spatial|needed|write|order|lod|models|using|successfully|edited|topology|contract|index|classified|analysis|former|rewrite|system|included|become|object|semantic|layer|breakthrough|speed|characters|inserted|file|feature|national|acquisition|attribute|relationship|gvp|performance|robust|crated|incremental|massive|multithread|stored|progress|geometry|information|combined|dispatch|data|separate|using|project|research|loaded|features|later|continue|different|files|dispatching|query|collection|core|spatial|improve|support|memory|rather|applied|concept|divided|classes|according|storage|representation|abstracted|paper|indexes|parallel|end|physical|class|designed|built|satisfy|china|rich|also|technology|better|management|realizes|growth|objects
+venue name:International Conference on Geoinformatics
+venue id:2622999185
+venue type:C
+document type:Conference
+study fields:Spatial analysis|Geographic information system|Data mining|Data modeling|File system|Computer science|Data acquisition|Storage model|Object-based spatial database|Spatial database|Database
+references:2115713191|2130026741
+
+
+id:1988919727
+title:An effective cache management algorithm of three-dimensional spatial data engine
+year:2010
+author information:[
+author name:Pinqian Wang
+author organization:China University of Geosciences
+author id:2230794730|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Zhenwen He
+author organization:China University of Geosciences
+author id:2076888826|
+author name:Ka Sun
+author organization:China University of Geosciences
+author id:2127967484|
+]
+abstract:buffering|competition|type|approach|three|analyzing|would|spatial|algorithm|wuhan|based|cache|considering|module|pool|planning|system|processing|algorithm|object|algorithms|access|criterion|objectoriented|proved|capability|based|could|querying|reduced|traditional|combined|certain|incidence|statistics|data|used|good|frequency|hit|high|threedimensional|function|basically|implemented|described|new|resource|adjusted|query|condition|proposed|improve|effect|multilevel|substitution|applied|subalgorithms|duration|correspondingly|database|paper|engine|pattern|dispatch|characteristics|resources|structure|comprehensively|urban|management
+venue name:International Conference on Geoinformatics
+venue id:2622999185
+venue type:C
+document type:Conference
+study fields:Data mining|Cache-oblivious algorithm|Cache invalidation|Cache pollution|Computer science|Least frequently used|Cache|Algorithm|Cache algorithms|Cache coloring|Smart Cache
+references:1974817122|2003549201|2040402865
+
+
+id:2014364435
+title:Constraint solving approach based on Differential Evolution Algorithm for geo-visualization variant design method
+year:2010
+author information:[
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2764598144|
+author name:Kunqi Liu
+author organization:Shijiazhuang University Of Economics
+author id:2159323526|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2764401042|
+]
+abstract:geovisualization|reuse|modeling|software|consistency|put|building|introduced|disadvantages|optimization|model|generation|based|still|method|models|analysis|easy|former|system|flexible|current|theory|relative|case|result|indicates|get|evolution|based|kernel|procedure|deleting|cannot|constraint|entity|visualization|rapid|graphics|mainly|solution|maintenance|function|variant|method|comparison|discussed|modification|algorithm|synthetic|proposed|geometric|designs|support|solving|parametric|concept|forward|representation|platform|effective|public|paper|design|studies|geospatial|dea|differential|effectively|better|environment|various|typical|information|maintenance
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Data visualization|Mathematical optimization|Algorithm design|Computer science|Visualization|Evolutionary computation|Function model|Electronic design automation|Solid modeling|Artificial intelligence|Parametric design|Machine learning
+references:1972509988|1975117747|1991279019|1996071850|2010175934|2020028331|2023759104|2040074592|2058913614|2067333680|2132233302|2163228670
+
+
+id:2021425715
+title:Dispatch strategy on massive 3D spatial data in geological space
+year:2010
+author information:[
+author name:Ka Sun
+author organization:China University of Geosciences
+author id:2127967484|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+author name:Jing Li
+author organization:China University of Geosciences
+author id:2674967253|
+author name:Pinqian Wang
+author organization:China University of Geosciences
+author id:2230794730|
+]
+abstract:application|called|trend|objects|therefore|program|consistency|geological|preparation|introduced|inevitably|drawing|spatial|investigated|algorithm|based|cache|successfully|dom|multithreading|surface|meanwhile|pool|index|analysis|provide|underground|following|difference|interval|items|become|object|methods|concurrent|existed|inserted|get|national|mechanism|regular|efficient|connection|makes|started|data|trigger|great|lead|already|sharp|filter|massive|stored|assist|information|operation|first|adopted|new|visualization|dispatch|data|added|several|project|used|space|loaded|retrieves|sufficient|create|inherent|connections|dispatching|development|ensure|query|finally|lack|spatial|solve|ground|replacement|multithread|memory|applied|aspects|according|storage|delete|database|parallel|unstructured|client|dispatch|characteristics|process|traverses|built|china|technology|increase|predispatch|better|existing|performance|threedimensional|management|strategy|strategy|maintenance
+venue name:International Conference on Geoinformatics
+venue id:2622999185
+venue type:C
+document type:Conference
+study fields:Spatial analysis|Data mining|Data structure|Data visualization|Connection pool|External Data Representation|Computer science|Cache|Database|Spatial database|Spatial data infrastructure
+references:1849252796|2051314392|2115713191|2130026741
+
+
+id:2052061796
+title:Development of a controlled vocabulary for semantic interoperability of mineral exploration geodata for mining projects
+year:2010
+author information:[
+author name:Xiaogang Ma
+author organization:China University of Geosciences
+author id:2153882111|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+author name:Emmanuel John M. Carranza
+author organization:University of Twente
+author id:2098751335|
+author name:Ernst M. Schetselaar
+author organization:Geological Survey of Canada, 615 Booth Street, Ottawa, ON, Canada K1A 0E9
+author id:1731862470|
+author name:Freek D. van der Meer
+author organization:University of Twente
+author id:2169649554|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Xinqing Wang
+author organization:China University of Geosciences
+author id:2691441067|
+author name:Xialin Zhang
+author organization:China University of Geosciences
+author id:2868930662|
+]
+abstract:metadata|projects|concern|professional|properly|terms|hinder|order|knowledge|databases|similar|geosciences|propose|standards|concepts|taxonomies|among|domain|extramural|geodata|schema|wider|study|achieve|focuses|coding|vocabulary|national|projects|underpinning|set|efficient|makes|domain|reconciliation|conceptual|controlled|inconsistent|reuse|organization|organized|terminologies|use|semantic|project|developing|used|developed|heterogeneous|shows|mineral|different|group|exploration|interoperability|often|mining|discussed|reconcile|group|schemas|sources|proper|representation|integrated|database|interoperable|related|extensible|allows|china|also|structure|proposed|various|interrelationships|longterm|applications
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Data mining|World Wide Web|Organizational structure|Reuse|Computer science|Interoperability|Controlled vocabulary|Semantic interoperability|Mineral exploration|Schema (psychology)|Underpinning
+references:1494001761|1570247188|1599658260|1838409447|1993539737|2000714020|2003012803|2042756410|2077155146|2079136830|2108599449|2113553966|2133109597|2147032551|2158606791|2160632926|2589372920
+
+
+id:2074289871
+title:Research and application of geological hazard domain ontology
+year:2010
+author information:[
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Yanni Wang
+author organization:China University of Geosciences
+author id:2488928757|
+author name:Chonglong Wu
+author organization:China University of Geosci
+author id:2120374293|
+]
+abstract:metadata|expert|reasoning|construct|three|geological|professional|introduced|problem|hazard|four|meaning|model|formalized|knowledge|using|issue|method|abundant|implication|standards|stanford|traditional|system|dictionary|concepts|among|domain|integration|concepts|processing|semantic|complexity|role|access|toplevel|industry|capacity|hazards|inquiry|get|share|relationship|based|key|isomer|implied|set|decision|describes|owl|single|efficiently|integration|sevenstep|information|logic|isomer|standard|data|resolve|express|used|developed|layers|quite|method|isomerous|ontology|realize|group|geohazard|making|difficult|interoperability|basis|sharing|inner|establish|three|system|area|university|improve|carry|ontology|applied|link|occur|representation|interoperability|general|protege|gorges|common|related|structural|plays|heterogenous|also|exactly|specific|differ|ontology|application|due|build|management|syntax|suitable
+venue name:International Conference on Geoinformatics
+venue id:2622999185
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Ontology-based data integration|Data mining|Ontology alignment|Process ontology|Computer science|Ontology Inference Layer|OWL-S|Suggested Upper Merged Ontology|Upper ontology
+references:1553976193|1838409447|2050592694
+
+
+id:2102668277
+title:Spatial index technology for multi-scale and large scale spatial data
+year:2010
+author information:[
+author name:Yuanyuan Liu
+author organization:China University of Geosciences
+author id:2703401877|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Zhenwen He
+author organization:China University of Geosciences
+author id:2076888826|
+]
+abstract:named|number|balance|realtime|deletion|retrieval|complex|model|spatial|lod|reduce|efficiency|large|compared|considering|index|rendering|aboveground|utilizes|underground|object|large|prescheduling|distribution|relationships|targets|r|search|management|rtrees|texture|low|data|great|single|considering|complicated|organization|elements|stagnation|information|combined|entity|data|used|space|features|bifurcation|threedimensional|scheduling|different|new|image|pronounced|especially|tree|spending|improve|effect|scenes|insertion|multilevel|tree|scale|content|rtree|uneven|designed|satisfy|bound|also|increase|skd|structure|efficiency|application|management|restricted|information|scale|time
+venue name:International Conference on Geoinformatics
+venue id:2622999185
+venue type:C
+document type:Conference
+study fields:Spatial analysis|Data mining|Data modeling|Geographic information system|R-tree|Computer science|Tree structure|Rendering (computer graphics)|Spatial database|Spatial distribution
+references:2106642566|2118269922
+
+
+id:2610582230
+title:Fractal generator for efficient production of random planar patterns and symbols in digital mapping
+year:2017
+author information:[
+author name:Qiyu Chen
+author organization:China University of Geosciences
+author id:2643635618|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Xiaogang Ma
+author organization:University of Idaho
+author id:2153882111|
+author name:Xinchuan Li
+author organization:China University of Geosci
+author id:2575379610|
+author name:Zhenwen He
+author organization:China University of Geosciences
+author id:2076888826|
+]
+abstract:software|configurations|favorable|ongoing|iterated|simulate|case|ran|crossbedding|generation|symbols|still|mapping|planar|shape|method|work|schemes|adapted|standards|system|fractal|theory|reused|algorithms|uses|two|flexibility|compared|morphological|abstract|analyzed|randomness|many|constrained|conditions|geometry|randomly|first|addressing|used|platforms|features|presented|boundaries|method|generate|challenge|offers|already|solutions|patterns|trough|develop|systems|variated|mapping|marshland|deployed|generating|symbols|cartographic|random|function|paper|studies|pattern|designed|digital|allows|characteristics|requirements|practical|patterns|implementation|standards|automatic|also|various
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Iterated function system|Computer science|Digital mapping|Fractal|Theoretical computer science|Software|Planar|Randomness
+references:49653347|1964502221|1989198892|1999296013|2011652530|2028553761|2045981991|2052061796|2110042160|2157435392|2274796965|2289300779
+
+
+id:2734657367
+title:Fitness with diversity information for selection of evolutionary algorithms
+year:2017
+author information:[
+author name:Yang Li
+author organization:China University of Geosciences
+author id:2735313665|
+author name:Chengjun Li
+author organization:China University of Geosci
+author id:2735417268|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2734569660|
+author name:Wei Long
+author organization:China University of Geosciences
+author id:2736114607|
+]
+abstract:nine|diversity|bring|used|representation|exploitation|reflect|problem|balance|fitness|balance|different|results|defined|us|based|using|exploration|practice|experimental|solutions|widely|worse|computation|field|selection|proposed|algorithms|statistical|scheme|colony|achieve|diversity|experiments|show|executed|case|algorithms|cases|chromosome|one|go|improvement|better|twentyfive|evolutionary|significantly|open
+venue name:International Joint Conference on Neural Network
+venue id:1140449422
+venue type:C
+document type:Conference
+study fields:Memetic algorithm|Interactive evolutionary computation|Evolutionary algorithm|Human-based evolutionary computation|Computer science|Evolutionary computation|Genetic representation|Artificial intelligence|Evolutionary programming|Evolutionary music|Machine learning
+references:1426176629|1595159159|1644767244|1967963645|1968075052|1979895392|2013449471|2028569720|2066628421|2077194953|2104456211|2113865612|2117336417|2132530542|2137042221|2150413047|2160137448|2166348281
+
+
+id:2806224262
+title:A virtual globe-based integration and visualization framework for aboveground and underground 3D spatial objects
+year:2018
+author information:[
+author name:Qiyu Chen
+author organization:China University of Geosciences
+author id:2643635618|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Xiaogang Ma
+author organization:University of Idaho
+author id:2153882111|
+author name:Zhong Yao
+author organization:China University of Geosciences
+author id:2807057226|
+author name:Yiping Tian
+author organization:China University of Geosciences
+author id:2962717863|
+author name:Hongling Wang
+author organization:China University of Geosciences
+author id:2807216554|
+]
+abstract:triangulated|terrains|tested|objects|globe|fuzhou|approach|geological|scene|improved|terms|network|visual|spatial|terrain|models|based|still|using|efficiency|issue|surface|models|coordinate|visualized|aboveground|system|field|provide|underground|integration|intermediate|detail|environment|works|city|achieve|overcome|engine|hot|layer|verify|strategies|unify|analyzed|structures|visualizing|prototype|integrate|landforms|framework|massive|entities|unified|cutting|cannot|information|validity|visualization|data|paper|used|developed|openscenegraph|mainly|research|scheduling|worldwide|eastern|coordinate|commonly|system|proposed|focused|irregular|largescale|coastal|little|virtual|globebased|technical|applied|spherical|according|digital|osgearth|platform|integrated|construction|improved|characteristics|aims|virtual|technology|existing|geoinformatics|organizations|challenge
+venue name:Earth Science Informatics
+venue id:198914822
+venue type:J
+document type:Journal
+study fields:Spatial analysis|Coordinate system|Data mining|Globe|Geoinformatics|Digital Earth|Computer science|Visualization|Terrain|Triangulated irregular network
+references:1966883898|1977332347|1984101434|1988729683|2015544772|2029653657|2033239109|2038496508|2052895636|2066154943|2079211050|2080849813|2088583529|2094734126|2107762392|2137522560|2346397042|2611034401
+
+
+id:2885796256
+title:An automatic variogram modeling method with high reliability fitness and estimates
+year:2018
+author information:[
+author name:Zhanglin Li
+author organization:China University of Geosciences
+author id:2705052228|
+author name:Xialin Zhang
+author organization:China University of Geosciences
+author id:2868930662|
+author name:Keith C. Clarke
+author organization:University of California
+author id:2172250303|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Rui Zhu
+author organization:University
+author id:2235161475|
+]
+abstract:measured|application|modeling|accuracy|experimental|favorable|nonlinear|without|fit|problem|optimization|case|goodness|models|using|parameters|method|way|methods|traditional|flexible|difference|consideration|simultaneously|sensitivity|conditions|succeeded|study|kriging|variograms|classical|variogrambased|two|seek|compared|genetic|variograms|highquality|approaches|abstract|subgoals|model|automated|tended|framework|powerful|associated|showed|severe|prevalent|dataset|first|standard|theoretical|data|optimize|designated|fitness|sufficient|implemented|results|estimates|treated|test|commonly|solutions|geostatistical|proposes|crossvalidation|chosen|proposed|effect|variogram|errors|critical|applied|values|modeling|candidate|producing|paper|public|result|designed|considers|process|overlook|interpolation|performance|typical|ones|step|fitting
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Kriging|Data mining|Variogram|Geoinformatics|Computer science|Interpolation|Nonlinear optimization problem|Goodness of fit|Genetic algorithm|Geostatistics
+references:1639032689|1994213926|2045800165|2283415954|2613294278
+
+
+id:2950307698
+title:GeoBeam: A distributed computing framework for spatial data
+year:2019
+author information:[
+author name:Zhenwen He
+author organization:China University of Geosciences
+author id:2076888826|
+author name:Gang Liu
+author organization:China University of Geosciences
+author id:2618853429|
+author name:Xiaogang Ma
+author organization:University of Idaho
+author id:2153882111|
+author name:Qiyu Chen
+author organization:China University of Geosciences
+author id:2643635618|
+]
+abstract:big|cluster|named|diskbased|focus|cluster|platformindependent|understanding|spatial|still|natural|distributed|efficiently|geobeam|underlying|intelligence|analyze|unique|driven|processing|shield|range|flink|research|feature|transforms|urgent|means|efficient|abstracts|abstract|data|store|geoscience|framework|fast|operations|spark|phenomena|dataset|data|rapid|platforms|solution|details|results|infrastructure|development|memorybased|experimental|query|sciences|develop|collection|important|gis|improve|background|basic|largescale|support|frame|artificial|crossplatform|technical|show|indispensable|earth|effective|computing|operations|geospatial|paper|encapsulated|provides|process|interfaces|technology|geobeam|largescale|quantitative|various|challenge
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Geospatial analysis|Spatial analysis|Data mining|Spark (mathematics)|Computer science|Range query (data structures)|Feature Dataset|Big data|Distributed computing
+references:1505133516|1568832590|1978924650|2044105912|2050576295|2089617543|2098994245|2101441084|2113250622|2114270519|2115583184|2117074936|2118269922|2151135734|2157092487|2169893912|2173213060|2247317079|2295338537|2481416449|2496526049|2548613432|2755691714|2795343691|2897711619
+
+
+id:1988371017
+title:Energy-efficient resource allocation in shared full-duplex relaying cellular networks
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:Victor C. M. Leung
+author organization:The University of British
+author id:688402840|
+]
+abstract:three|maximize|problem|optimization|advances|enable|combinatorial|band|energy|efficiency|efficiently|cancellation|spectrum|simultaneously|networks|account|shared|study|deal|methods|relaying|nonconvex|fdr|selfinterference|stochastic|multiaccess|deployment|receive|multiuser|efficient|networklevel|scheme|selfinterference|joint|use|simple|residual|frequency|high|transmission|presented|intersection|consider|unlike|results|sectors|dinkelbach|resource|cell|discrete|proposed|involved|techniques|solve|interference|show|deployed|mixed|recent|since|effectiveness|allocation|practical|relay|transmit|fullduplex|formulated|efficiency|existing|simulation|strategy|taking
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Resource management|Mathematical optimization|Stochastic optimization|Computer science|Efficient energy use|Resource allocation|Spectral efficiency|Cellular network|Relay|Duplex (telecommunications)
+references:1990784032|1993709531|2021927305|2024516306|2027104620|2038980338|2044286123|2054364847|2091502075|2098126478|2098857789|2099692390|2106827777|2153639779|2171879683|2510929909
+
+
+id:1990784032
+title:Energy-efficient resource allocation in full-duplex relaying networks
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Yi Li
+author organization:Beijing University of Posts  Telecom
+author id:2601725939|
+author name:Renchao Xie
+author organization:China Unicom, Beijing, China
+author id:2097241436|
+]
+abstract:joint|perfect|simulation|three|analyzed|high|problem|advances|loop|enable|presented|intersection|subgame|band|consider|unlike|results|energy|algorithm|obtain|efficiency|sectors|resource|game|interplays|iterative|sharing|cell|cancellation|proposed|spectrum|techniques|cellular|simultaneously|interference|shared|study|systems|game|relaying|show|deployed|recent|fdr|aspect|ofdma|power|effectiveness|receive|allocation|stackelberg|bandwidth|discussed|transmit|solution|fullduplex|formulated|efficiency|existing|energyefficient|stage|equilibrium|threestage
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Max-min fairness|Computer science|Single antenna interference cancellation|Computer network|Subgame perfect equilibrium|Resource allocation|Game theory|Spectral efficiency|Stackelberg competition|Duplex (telecommunications)
+references:1993709531|2014631750|2024516306|2038980338|2044286123|2044835969|2098857789|2099692390|2102757434|2126087318|2143927285|2153639779|2162941916|2171001244|2510929909
+
+
+id:2017225969
+title:Distributed resource allocation in full-duplex relaying networks with wireless virtualization
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:Victor C M Leung
+author organization:University of British Columbia
+author id:688402840|
+]
+abstract:wireless|extensive|solved|frequency|high|problem|optimization|advances|enable|presented|combinatorial|band|recent|computational|virtualization|method|resource|involves|distributed|efficiently|develop|propose|cancellation|transfer|proposed|spectrum|techniques|attracted|simultaneously|networks|algorithm|admmbased|scheme|relaying|complexity|mixed|network|lot|nonconvex|fdr|convex|verify|multipliers|direction|effectiveness|receive|allocation|original|efficient|transmit|scheme|fullduplex|formulated|selfinterference|simulations|recently|efficiency|alternating|virtualized|interests
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Virtualization|Resource management|Wireless network|Computer science|Computer network|Resource allocation|Spectral efficiency|Convex optimization|Optimization problem|Computational complexity theory|Distributed computing
+references:1978645034|1990784032|2044286123|2044677122|2049516452|2080555506|2090060441|2091502075|2105547551|2106749358|2106827777|2164278908|2171879683|2510929909|2764009914
+
+
+id:2027104620
+title:Sum rate maximization antenna selection via discrete stochastic approximation in MIMO two-way AF relay with imperfect CSI
+year:2012
+author information:[
+author name:Gang Liu
+author organization:Ministry of Education University of Posts and Telecommunications
+author id:2629852613|
+author name:Hong Ji
+author organization:Ministry of Education University of Posts and Telecommunications
+author id:2168253663|
+author name:Yi Li
+author organization:Ministry of Education University of Posts and Telecommunications
+author id:2601725939|
+author name:Xiaoliang Zhang
+author organization:Beijing University of Posts and Telecommunications
+author id:2682021872|
+]
+abstract:antenna|optimal|channel|maximize|imperfect|optimization|assumption|mimo|state|memo|case|promising|algorithm|based|af|considering|lower|attention|additive|theorem|selection|correlation|attracted|analyze|rate|obtained|algorithms|deal|prove|utilizing|relaying|sum|matter|derive|search|systems|noise|stochastic|set|efficient|csi|available|possible|great|extensive|twoway|spectral|perfect|theoretical|observe|transmission|shown|exhaustive|obtain|difficult|technology|employing|estimation|discrete|proposed|improve|effect|worst|assume|analysis|convergence|best|error|numerical|rate|csi|relay|bound|also|performance|uncorrelated|converges|existing
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Relay channel|Mathematical optimization|Stochastic optimization|3G MIMO|Computer science|Selection algorithm|MIMO|Algorithm|Real-time computing|Stochastic approximation|Relay|Channel state information
+references:1988103042|2015009949|2021927305|2097802085|2103622604|2106929598|2108282849|2109827463|2113026489|2121413637|2125969801|2170738062|2264889195
+
+
+id:2029288522
+title:MMSE-based transceiver design in multi-user MIMO relay systems with channel correlation and estimation errors
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Yi Li
+author organization:Beijing University of Posts  Telecom
+author id:2601725939|
+author name:Rui Wang
+author organization:Beijing University of Posts and Telecom
+author id:2665939504|
+]
+abstract:formulated|optimal|transceiver|simulation|upper|channel|meansquare|mse|developed|given|problem|multipleinputmultipleoutput|optimize|optimization|presented|multiuser|mimo|unlike|results|algorithm|order|receiver|illustrate|iterative|attention|propose|structurized|expressions|jointly|estimation|take|correlation|proposed|attracted|solve|errors|systems|bistep|matrix|error|numerical|search|transform|systems|design|minimizes|algorithms|effectiveness|closedform|expression|original|multiuser|relay|bound|solution|great|suboptimal|existing|minimum
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Relay channel|Multi-user MIMO|Iterative method|Control theory|Matrix (mathematics)|Computer science|Upper and lower bounds|MIMO|Optimization problem|Relay
+references:1979162659|2004222718|2011646763|2027104620|2032278718|2038980338|2044835969|2058661360|2097591962|2102757434|2106801259|2113026489|2120406684|2124541995|2136877591|2163754837|2171159551
+
+
+id:2083058703
+title:In-Band Full-Duplex Relaying: A Surve
+year:2015
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:Victor C. M. Leung
+author organization:University of British
+author id:688402840|
+author name:Xi Li
+author organization:Beijing University of Posts and Telecom
+author id:2569499439|
+]
+abstract:modeling|channel|issues|advances|enable|inband|band|promising|remain|cancellation|provide|spectrum|etc|simultaneously|device|works|relaying|merits|challenges|broader|key|receive|enabling|explore|integrate|selfinterference|fdr|informationtheoretical|discuss|several|smallsize|research|frequency|high|widespread|including|resource|already|technology|significant|done|important|addressed|techniques|survey|interference|challenges|aspects|recent|related|design|brief|identify|transmit|also|technology|fullduplex|efficiency|performance|application|perspectives|typical|wireless
+venue name:IEEE Communications Surveys and Tutorials
+venue id:23688054
+venue type:J
+document type:Journal
+study fields:Resource management|Synchronization|Wireless|Telecommunications|Software deployment|Frequency band|Computer science|Computer network|Communication channel|Spectral efficiency|Duplex (telecommunications)
+references:1480597717|1502107493|1536342864|1554966033|1618533984|1642875199|1644377443|1789540779|1866358532|1971306755|1976289279|1976463688|1979333874|1982210147|1983507931|1985928197|1987200492|1987613451|1988388653|1990924600|1991317769|1993724237|1994125924|1995419695|1997031802|2004856670|2007674530|2012412667|2014631750|2015106463|2017225969|2017717477|2019360484|2023422003|2024516306|2024607354|2026871614|2027104620|2031990115|2033092269|2036128170|2037669879|2038691876|2038925533|2042193402|2043585573|2044286123|2044835969|2046273361|2046678528|2046862788|2049516452|2051919491|2054364847|2059176623|2059394772|2059599536|2069328383|2069398569|2073994710|2077071801|2078325625|2078449661|2080555506|2080688104|2082083832|2084857715|2085768017|2087716122|2088272790|2088654965|2091078284|2095043632|2095220967|2096095814|2097742702|2098116328|2099692390|2099857870|2101909544|2102757434|2105547551|2106543408|2108051184|2108206358|2108282849|2108795776|2109827463|2110219637|2111060346|2111929409|2112125542|2112507588|2113487482|2115568273|2116752793|2117604960|2118040894|2119588643|2120860811|2120949321|2122125652|2123581316|2124262937|2124735779|2125374378|2127511005|2128938148|2129918574|2130688207|2130883091|2131459146|2134053781|2135828503|2136512896|2136928846|2138336382|2139015614|2140956787|2144543107|2148861839|2148963518|2149098813|2149194340|2151210657|2152121970|2152146451|2153639779|2154617760|2160030828|2160466112|2161479888|2161991543|2164221296|2166284335|2167447263|2168078104|2168705505|2169520477|2202426288|2220931522|2342920167|2510929909|2545232960|2545344770|2764009914
+
+
+id:2182302733
+title:In-band full-duplex relaying for 5G cellular networks with wireless virtualization
+year:2015
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecommunications
+author id:2168253663|
+author name:Victor C. M. Leung
+author organization:University of British
+author id:688402840|
+author name:Xi Li
+author organization:Beijing University of Posts  Telecommunications
+author id:2569499439|
+]
+abstract:coexist|frequency|radio|high|advances|enable|inband|presented|band|results|promising|give|virtualization|resource|sharing|propose|technologies|cancellation|proposed|spectrum|techniques|cellular|survey|simultaneously|networks|present|basic|virtual|show|network|recent|fdr|operators|enables|architecture|brief|effectiveness|receive|enabling|abstraction|transmit|multiple|mobile|resources|scheme|selfinterference|efficiency|simulation|management|infrastructure|service|wireless|first|providers
+venue name:IEEE Network
+venue id:186584794
+venue type:J
+document type:Journal
+study fields:Radio resource management|Virtualization|Fixed wireless|Wireless network|Key distribution in wireless sensor networks|Computer science|Computer network|Wireless WAN|Wi-Fi array|Wireless sensor network
+references:1985276827|2007674530|2043585573|2049516452|2060898162|2090060441|2099692390|2125374378|2134053781|2138336382|2152121970|2160030828|2164278908
+
+
+id:2236026958
+title:Distributed Virtual Resource Allocation in Small-Cell Networks With Full-Duplex Self-Backhauls and Virtualization
+year:2016
+author information:[
+author name:Lei Chen
+author organization:Nanjing University of Posts Telecommunications
+author id:2629994248|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecommunications
+author id:2168253663|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2629852613|
+author name:Victor C. M. Leung
+author organization:University of British
+author id:688402840|
+]
+abstract:extensive|provider|selfbackhauls|considered|configurations|suffer|dynamics|problem|optimization|inband|combinatorial|promising|method|high|distributed|nextgeneration|propose|system|attracted|virtualresourceallocation|algorithm|complexity|scheme|formulate|networks|cells|two|multipliers|subproblem|emerging|architecture|problem|may|efficient|subproblems|scheme|great|simulations|first|wireless|small|selfbackhauls|issues|solved|centralized|second|academia|outdated|communication|different|another|computational|virtualization|communications|conducted|achieving|transfer|proposed|solve|fd|nonconvex|signaling|show|mixed|scalability|network|effective|due|convex|since|divide|direction|smallcell|effectiveness|industry|original|introduce|technology|fullduplex|way|formulated|alternating|virtualized|infrastructure|attention|wireless
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Virtualization|Wireless network|Computer science|Network architecture|Computer network|Distributed algorithm|Convex optimization|Optimization problem|Computational complexity theory|Scalability|Distributed computing
+references:1978645034|1997204636|2005108639|2009505753|2010630450|2011581446|2029091717|2034651337|2044677122|2049516452|2060898162|2067630960|2068859574|2069656065|2074489373|2080555506|2083058703|2090060441|2094726973|2095043632|2102757434|2106749358|2109159967|2127279091|2134053781|2141393937|2146620778|2158510188|2164278908|2169432814|2396667490
+
+
+id:2288279585
+title:Distributed Resource Allocation for Virtualized Small Cell Networks with Full Duplex Self-Backhauls
+year:2014
+author information:[
+author name:Lei Chen
+author organization:Beijing University of Posts  Telecomm
+author id:2629994248|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecom
+author id:2168253663|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2629852613|
+author name:Victor C. M. Leung
+author organization:University of British
+author id:688402840|
+]
+abstract:extensive|provider|selfbackhauls|considered|configurations|suffer|dynamics|problem|optimization|inband|combinatorial|promising|generation|method|high|distributed|propose|system|attracted|algorithm|complexity|scheme|achieve|formulate|networks|cells|cell|two|nonconvex|multipliers|subproblem|emerging|architecture|problem|may|efficient|subproblems|scheme|great|simulations|first|wireless|small|selfbackhauls|issues|duplex|solved|centralized|second|academia|outdated|backhauls|communication|different|another|computational|virtualization|resource|communications|conducted|transfer|proposed|solve|fd|full|next|virtual|signaling|show|mixed|scalability|network|effective|due|convex|since|divide|direction|effectiveness|allocation|industry|original|self|introduce|attentions|technology|way|formulated|alternating|virtualized|infrastructure|wireless
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Virtualization|Wireless network|Computer science|Computer network|Real-time computing|Resource allocation|Distributed algorithm|Small cell|Optimization problem|Convex optimization|Computational complexity theory|Distributed computing
+references:2005108639|2010630450|2038980338|2045051323|2049516452|2069656065|2080555506|2083058703|2090060441|2094726973|2095043632|2102757434|2106749358|2136530738|2141393937|2164278908|2169432814
+
+
+id:2342640788
+title:Distributed Resource Allocation in Virtualized Full-Duplex Relaying Networks
+year:2016
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecommunications
+author id:2168253663|
+author name:Victor C. M. Leung
+author organization:The University of British
+author id:688402840|
+]
+abstract:extensive|considered|constraints|virtualization|different|problem|optimization|advances|enable|combinatorial|band|recent|algorithm|method|distributed|propose|allocate|spectrum|networks|simultaneously|account|complexity|components|works|one|relaying|formulate|networks|fdr|multipliers|demonstrated|key|architecture|receive|problem|efficient|one|scheme|selfinterference|simulations|advantages|regarded|future|able|efficiently|requirements|exploit|first|residual|developed|frequency|high|presented|computational|virtualization|resource|involves|significant|proposed|techniques|solve|virtual|nonconvex|idea|show|mixed|network|transform|cancelation|convex|since|direction|effectiveness|allocation|requirements|original|introduce|transmit|resources|fullduplex|formulated|efficiency|existing|alternating|management|virtualized|due|various|challenge|wireless|taking
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Virtualization|Resource management|Wireless network|Computer science|Computer network|Resource allocation|Spectral efficiency|Optimization problem|Convex optimization|Computational complexity theory|Distributed computing
+references:1571428298|1978645034|1982545958|1990784032|1993709531|2000326002|2010630450|2017225969|2027104620|2031092768|2031921235|2038957884|2038980338|2043585573|2044286123|2044677122|2049516452|2066678607|2076103333|2080555506|2083058703|2088272790|2090060441|2098857789|2099692390|2116169759|2123966196|2129573153|2131980718|2146620778|2153639779|2156077514|2161272050|2166402704|2171879683|2276629685|2276802311|2397015810|2397393040|2403669838|2520446561|2546205194|2764009914
+
+
+id:2344710327
+title:Virtual Resource Management in Green Cellular Networks With Shared Full-Duplex Relaying and Wireless Virtualization: A Game-Based Approach
+year:2016
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2629852613|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Hong Ji
+author organization:Beijing University of Posts  Telecommunications
+author id:2168253663|
+author name:Victor C. M. Leung
+author organization:The University of British
+author id:688402840|
+]
+abstract:problem|advances|enable|band|algorithm|interplays|provide|spectrum|attracted|cellular|simultaneously|networks|relaying|energyaware|industry|lot|management|fdr|receive|stackelberg|solution|scheme|stage|perfect|analyzed|high|academia|loop|presented|subgame|results|obtain|virtualization|resource|game|iterative|proposed|techniques|interference|benefits|virtual|game|idea|show|network|recent|cancelation|effectiveness|process|introduce|transmit|fullduplex|formulated|efficiency|simulation|management|attention|wireless|equilibrium|threestage
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Resource management|Virtualization|Wireless network|Wireless|Computer science|Computer network|Subgame perfect equilibrium|Resource allocation|Game theory|Stackelberg competition
+references:1978645034|1982545958|1990784032|1993709531|2000326002|2014631750|2019048245|2024516306|2028210397|2044286123|2049516452|2054364847|2080555506|2083058703|2098857789|2099692390|2100667358|2102757434|2120440922|2123966196|2126087318|2143927285|2153639779|2164278908|2171001244|2276629685|2276802311|2520446561|2764009914
+
+
+id:2491860059
+title:Energy-efficient resource allocation in HetNets with full duplex and D2D communications
+year:2016
+author information:[
+author name:Tiantian Chen
+author organization:Southwest Jiaotong University
+author id:2506211492|
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zheng Ma
+author organization:SouthWest JiaoTong University
+author id:2965724156|
+author name:Pingzhi Fan
+author organization:SouthWest JiaoTong University
+author id:2016189893|
+]
+abstract:considered|configurations|objective|problem|optimization|advances|enable|transmitting|recent|order|researches|fullduplex|sbss|propose|fd|cancellation|system|attracted|works|formulate|networks|lot|communications|systems|power|problem|scheme|simulations|extensive|maximum|interests|minimum|constraints|hetnet|use|heterogeneous|communication|different|programming|resource|communications|conducted|hetnets|users|proposed|techniques|solve|interference|fd|link|show|function|investigate|total|transform|rate|liner|effectiveness|allocation|consumption|although|fullduplex|recently|existing|jointly|energyefficiency
+venue name:Wireless and Optical Communications Conference
+venue id:1174359516
+venue type:C
+document type:Conference
+study fields:Wireless|Computer science|Single antenna interference cancellation|Computer network|Communications system|Electronic engineering|Resource allocation|Energy efficient resource allocation|Heterogeneous network|Optimization problem|Duplex (telecommunications)
+references:1793086066|1969281101|1992513362|1994004937|1994125924|2043937055|2078325625|2130171753|2136375880|2139795912|2140656373|2166402704|2236026958
+
+
+id:2604437453
+title:Modeling and Analysis of Non-Orthogonal MBMS Transmission in Heterogeneous Networks
+year:2017
+author information:[
+author name:Zhengquan Zhang
+author organization:Southwest Jiaotong University
+author id:2295556555|
+author name:Zheng Ma
+author organization:SouthWest JiaoTong University
+author id:2106122300|
+author name:Ming Xiao
+author organization:Royal Institute of Technology, KTH
+author id:2233759308|
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Pingzhi Fan
+author organization:SouthWest JiaoTong University
+author id:2016189893|
+]
+abstract:geometry|synchronous|number|order|using|schemes|spectrum|domain|analyze|served|distributes|tier|average|study|achieve|transmission|sum|multirate|orthogonal|stochastic|everincreasing|power|mechanism|based|signaltointerferenceplusnoise|emerging|multimedia|efficient|multimedia|requirements|ratio|pointtomultipoint|multiservice|developed|heterogeneous|radio|mode|transmission|enhancements|results|communications|nonorthogonal|tractable|expressions|users|demonstrate|present|one|analytical|media|investigate|content|rate|asynchronous|highly|mbms|coverage|derived|satisfy|multiple|resources|better|superior|performance|application|service|demands|applications
+venue name:IEEE Journal on Selected Areas in Communications
+venue id:90422530
+venue type:J
+document type:Journal
+study fields:Stochastic geometry|Asynchronous communication|Multimedia Broadcast Multicast Service|Broadcasting|Power domains|Computer science|Computer network|Real-time computing|Heterogeneous network|Unicast|Multicast
+references:1690504809|1922937245|1958281780|1967449502|1991312775|2018583728|2034420299|2054692642|2061104896|2070400842|2148622067|2149170915|2150166076|2218793854|2233021649|2235361857|2256188983|2277419020|2287831847|2294228416|2295367015|2339070281|2343463506|2514685251|2537771783|2542659798|2551126468|2566155463|2567242272|2588151259|2593306067|2964241829
+
+
+id:2735661607
+title:Cross-Layer Power Allocation in Nonorthogonal Multiple Access Systems for Statistical QoS Provisioning
+year:2017
+author information:[
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zheng Ma
+author organization:SouthWest JiaoTong University
+author id:2106122300|
+author name:Xianhao Chen
+author organization:Southwest Jiaotong University
+author id:2735063602|
+author name:Zhiguo Ding
+author organization:Lancaster University
+author id:2121277316|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+author name:Pingzhi Fan
+author organization:SouthWest JiaoTong University
+author id:2016189893|
+]
+abstract:constraints|optimal|considered|upper|datalink|different|problem|quasiconcave|solution|optimization|terms|exhaustive|capacity|different|results|algorithm|based|ensure|issue|schemes|propose|quality|noma|requested|delay|proposed|converge|algorithm|fixed|powerdomain|obtained|theory|systems|statistical|access|critical|scheme|nonorthogonal|formulate|show|crosslayer|layer|effective|layers|desired|qos|search|systems|stochastic|hence|power|physical|allocation|may|apply|multiple|physicaldatalink|requirement|services|formulated|outperforms|existing|simulation|service|able|timedivision|bisectionbased|power
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Resource management|Base station|Wireless network|Stochastic optimization|Brute-force search|Computer science|Data link layer|Computer network|Quality of service|Physical layer
+references:1922937245|2054692642|2064574696|2065365556|2115632051|2123893388|2131164410|2142791416|2148622067|2152078090|2310071424|2475994254|2509451176|2515756451|2733598240
+
+
+id:2765094238
+title:Hybrid Half-Duplex/Full-Duplex Cooperative Non-Orthogonal Multiple Access With Transmit Power Adaptation
+year:2018
+author information:[
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Xianhao Chen
+author organization:Southwest Jiaotong University
+author id:2735063602|
+author name:Zhiguo Ding
+author organization:Lancaster University
+author id:2121277316|
+author name:Zheng Ma
+author organization:SouthWest JiaoTong University
+author id:2106122300|
+author name:F. Richard Yu
+author organization:Carleton University
+author id:2118594919|
+]
+abstract:optimal|switches|allocation|convert|users|maximize|problem|quasiconcave|optimization|even|investigated|order|respectively|based|still|issue
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:High-definition video|Noma|Mathematical optimization|Transmitter power output|Wireless|Computer network|Optimization problem|Mathematics|Relay|Duplex (telecommunications)|Performance improvement
+references:1668816244|1922937245|1958281780|2046862788|2049516452|2065365556|2083058703|2084872270|2088272790|2099692390|2111097777|2142022446|2142791416|2152121970|2153639779|2188659504|2277419020|2282129282|2287831847|2291451879|2310071424|2507790150|2510173137|2515756451|2522880951|2733598240|2783146959|2783814811|2964123890
+
+
+id:2898160352
+title:Optimal Power Allocations for Non-Orthogonal Multiple Access Over 5G Full/Half-Duplex Relaying Mobile Wireless Networks
+year:2019
+author information:[
+author name:Xianhao Chen
+author organization:Southwest Jiaotong University
+author id:2735063602|
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zheng Ma
+author organization:Department of Information Science and Engineering, KTH Royal Institute of Technology, Stockholm, Sweden
+author id:2965724156|
+author name:Xi Zhang
+author organization:Texas AM University
+author id:2105027195|
+author name:Weiqiang Xu
+author organization:Zhejiang University
+author id:2107785279|
+author name:Pingzhi Fan
+author organization:SouthWest JiaoTong University
+author id:2016189893|
+]
+abstract:optimal|considered|channel|nearby|investigates|objective|far|state|based|schemes|dynamically|node|operate|system|rate|rn|assumed|switching|study|statistical|systems|access|scheme|relaying|direct|instantaneous|derive|cdrtnoma|fdr|systems|power|based|demonstrating|performance|scheme|simulations|information|minimum|coordinated|halfduplex|mode|either|transmission|optimize|dynamic|dedicated|maximizing|nonorthogonal|hybrid|proposed|quasiconcavity|fixed|problems|policies|show|communicates|paper|hdr|achievable|station|mode|csi|enhance|closedform|allocation|relay|multiple|also|fullduplex|formulated|performance|communicating|designed|user|significantly|base|longterm
+venue name:IEEE Transactions on Wireless Communications
+venue id:63459445
+venue type:J
+document type:Journal
+study fields:Resource management|Base station|Wireless|Single antenna interference cancellation|Computer network|Dynamic demand|Relay|Mathematics|Duplex (telecommunications)|Channel state information
+references:1668816244|1958281780|2042519026|2049516452|2065365556|2083058703|2084498548|2086456844|2086559523|2142791416|2152121970|2153639779|2171327552|2185882774|2310071424|2413850816|2510173137|2515756451|2522880951|2574228330|2579217754|2594728692|2735344404|2735661607|2749161783|2765094238|2783146959|2783814811|2792730202|2963336322|2964044470|2964123890
+
+
+id:2911591982
+title:Optimal Power Allocations for Relay-assisted NOMA-based 5G V2X Broadcast/Multicast Communications
+year:2018
+author information:[
+author name:Zhiqing Wang
+author organization:Southwest Jiaotong University
+author id:2911991871|
+author name:Jiewen Hu
+author organization:Southwest Jiaotong University
+author id:2914906139|
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zheng Ma
+author organization:SouthWest JiaoTong University
+author id:2106122300|
+]
+abstract:latency|considered|different|maximize|division|problem|attentions|algorithm|reduce|based|method|schemes|propose|benefit|broadcasting|attracted|access|bisection|scheme|two|vehicle|communications|power|outperforms|services|scheme|congestion|minimum|achieves|nonorthogonal|solution|shown|results|traffic|obtain|new|fractional|significant|respect|proposed|fixed|demonstrate|suboptimal|problems|ease|concave|purpose|compelling|optimized|show|investigate|rate|provides|achievable|convex|fairness|hence|vehicletoeverything|allocation|multiple|transmit|obviously|procedure|improvement|formulated|nomabased|existing|performance|simulation|neither|time
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Noma|Broadcasting|Transmitter power output|Computer science|Computer network|Linear programming|Multicast|Time division multiple access|Relay|Performance improvement
+references:1922937245|1958281780|2014050847|2027563534|2051943016|2065365556|2088272790|2098105074|2142791416|2148622067|2515756451|2734589605|2765094238|2964067911
+
+
+id:2932296344
+title:Cooperative NOMA Broadcasting/Multicasting for Low-Latency and High-Reliability 5G Cellular V2X Communications
+year:2019
+author information:[
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zhiqing Wang
+author organization:Southwest Jiaotong University
+author id:2911991871|
+author name:Jiewen Hu
+author organization:Southwest Jiaotong University
+author id:2914906139|
+author name:Zhiguo Ding
+author organization:Manchester University
+author id:2121277316|
+author name:Pingzhi Fan
+author organization:SouthWest JiaoTong University
+author id:2016189893|
+]
+abstract:latency|optimal|sufficiently|considered|channel|users|different|maximize|division|poor|even|fully|promising|algorithm|reduce|based|efficiency|method|schemes|propose|quality|avoided|noma|spectrum|networks|conditions|relayassisted|access|numerical|scheme|achieve|guarantee|networks|two|orthogonal|low|evolution|power|compared|mitigate|though|services|scheme|selfinterference|lowlatency|severe|efficiently|cannot|bisectionbased|congestion|minimum|quasiconcave|data|halfduplex|transmission|solution|shown|problems|results|traffic|concave|obtain|new|solutions|fractional|fdrnoma|term|technology|significant|users|respect|dense|nonoma|suppressed|proposed|improve|long|fixed|demonstrate|lte|suboptimal|problems|optimized|investigate|rate|provides|achievable|since|vehicletoeverything|highreliability|allocation|outperform|limited|multiple|transmit|resources|obviously|improvement|fullduplex|formulated|better|existing|performance|service|neither|achieved|time
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Broadcasting|Noma|Transmitter power output|Computer science|Quality of service|Computer network|Latency (engineering)|Multicast|Time division multiple access|Distributed computing|Performance improvement
+references:1922937245|1958281780|2014050847|2027563534|2049516452|2051943016|2083058703|2086559523|2088272790|2098105074|2142791416|2145286644|2148622067|2153639779|2469547856|2515756451|2594728692|2734589605|2735661607|2765094238|2770100404|2783529473|2808204808|2911591982|2962962622|2964067911
+
+
+id:2947202623
+title:When Full Duplex Wireless Meets Non-Orthogonal Multiple Access: Opportunities and Challenges.
+year:2019
+author information:[
+author name:Xianhao Chen
+author organization:
+author id:2735063602|
+author name:Gang Liu
+author organization:Southwest Jiaotong University
+author id:2629852613|
+author name:Zheng Ma
+author organization:
+author id:2106122300|
+author name:Xi Zhang
+author organization:
+author id:2105027195|
+author name:Pingzhi Fan
+author organization:
+author id:2016189893|
+author name:Shanzhi Chen
+author organization:
+author id:2947941684|
+author name:F. Richard Yu
+author organization:
+author id:2118594919|
+]
+abstract:simulation|scenarios|via|advance|identified|block|recent|promising|based|efficiency|stations|noma|system|spectrum|domain|simultaneously|become|systems|access|networks|two|research|systems|power|emerging|enabling|receive|discussed|great|opportunities|selfinterference|future|superiority|novel|several|duplex|enhancement|nonorthogonal|research|radio|centralized|presented|feasible|communication|protocols|results|connectivity|combination|resource|illustrate|users|article|stimulate|core|proposed|demonstrate|support|fd|full|code|challenges|provided|policies|technique|investigate|cancelation|provides|radios|allocation|aims|multiple|transmit|technologies|also|technology|proposed|application|typical|wireless|base
+venue name:arXiv: Information Theory
+venue id:2595047959
+venue type:J
+document type:Repository
+study fields:Base station|Noma|Mathematical optimization|Wireless|Computer network|Emerging technologies|Spectral efficiency|Radio access technology|Multiplexing|Mathematics|Duplex (telecommunications)
+references:2083058703|2151278498|2500307208|2507790150|2510173137|2522880951|2616098774|2793899835|2796268222|2802495557|2803750062|2962967525|2963155284|2963336322
+
+
+id:1680868705
+title:Robust lyric search based on weighted syllable confusion matrix
+year:2012
+author information:[
+author name:Baoxiang Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2225613475|
+author name:Fengxiang Chang
+author organization:Beijing University of Posts and Telecommunications
+author id:2227500655|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2404625549|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:recognition|network|experimental|used|hit|music|dynamic|weighted|results|programming|based|method|syllable|edit|distance|proposes|acoustic|often|solve|confusion|distance|computed|string|show|retrieval|matrix|increases|search|public|paper|rate|lyrics|derived|heard|compared|sources|robust|listeners|problem|apply|automatic|wscm|matching|conventional|lyric|speech|music|songs|unfamiliar|speech|information|mishear
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Hit rate|String searching algorithm|Edit distance|Dynamic programming|Music information retrieval|Confusion matrix|Computer science|Speech recognition|Syllable|Lyrics
+references:1493959490
+
+
+id:1815045248
+title:Model-Based Feature Compensation for Robust Speech Recognition
+year:2006
+author information:[
+author name:Haifeng Shen
+author organization:Beijing University of Posts and Telecommunications
+author id:2104512194|
+author name:Qunxia Li
+author organization:University of Science and Technology Beijing
+author id:2170125751|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2694495852|
+]
+abstract:recognition|experimental|approach|without|employed|employs|hmmbased|model|results|based|give|models|using|taylor|proposes|refine|significant|employing|statistical|approximation|achieve|modelbased|show|best|paper|feature|passes|noise|vector|together|gmmbased|compared|performance|robust|initial|pass|multiple|makes|combines|clean|improvement|model|compensation|better|speech|series|compensation|approach|combined|novel
+venue name:Fundamenta Informaticae
+venue id:39012697
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Expectation–maximization algorithm|Feature (computer vision)|Speech recognition|Feature (machine learning)|Statistical model|Artificial intelligence|Feature compensation|Hidden Markov model|Mathematics|Taylor series
+references:1494084492|1502096019|1520939885|1573570773|1920183217|1952617154|2059736174|2100969003|2126597753|2147824816|2150660184|2160246131
+
+
+id:1971891705
+title:Local alignment for query by humming
+year:2013
+author information:[
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2674354024|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2463390808|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2667531173|
+author name:Chunguang Li
+author organization:Beijing University of Posts  Telecommun
+author id:2159528455|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+]
+abstract:query|considered|accuracy|whole|music|retrieval|similar|propose|humming|ie|algorithms|subsequence|taking|two|local|extended|qbh|verify|based|popular|database|framework|regarded|songs|scaling|clip|corpus|find|results|significantly|searches|new|experimental|query|users|ending|task|especially|improve|retrieve|assume|alignment|dynamic|beginning|mirexqbh|part|show|best|time|database|common|allows|effectiveness|previous|identify|match|subsequence|linear|fragment|account
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Query optimization|Query expansion|Dynamic time warping|Information retrieval|Computer science|Sargable|Web query classification|Query by humming|Smith–Waterman algorithm|Subsequence
+references:1524410362|1999818211|2003485950|2006672970|2014706029|2027518030|2028836612|2036757957|2038678505|2051028153|2065169802|2116867711|2128109801|2129345382|2142669986|2151155792|2162006472
+
+
+id:2003485950
+title:Query by Humming by Using Locality Sensitive Hashing Based on Combination of Pitch and Note
+year:2012
+author information:[
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2674354024|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2463390808|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2667531173|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+author name:Yueming Lu
+author organization:Beijing University of Posts  Telecommun
+author id:2655537120|
+]
+abstract:query|called|midi|construct|stateoftheart|approach|music|problem|retrieval|fragments|rank|phase|similar|using|method|locality|index|sensitive|humming|extracts|automatically|executed|retrieval|two|experiments|recursive|current|compared|notebased|plsh|information|combined|novel|improvements|hashing|screen|used|corpus|challenging|presented|method|indexes|candidates|results|combination|obtain|searches|surviving|query|conducted|list|vectors|nlsh|files|relatively|alignment|unsolved|mirexqbh|show|technique|reciprocal|pitchbased|candidate|database|paper|indexes|construction|contentbased|due|mean|errors
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Locality-sensitive hashing|Music information retrieval|Pattern recognition|Computer science|MIDI|Speech recognition|Query by humming|Mean reciprocal rank|Hum|Artificial intelligence|Recursion
+references:1504427473|2027518030|2051028153|2122608951|2129345382|2138755125|2142669986|2151155792|2155751921|2162006472
+
+
+id:2036500567
+title:Novel Confidence Feature Extraction Algorithm Based on Latent Topic Similarity
+year:2010
+author information:[
+author name:Wei Chen
+author organization:Nanjing University Of Posts  Telecommunications
+author id:2694931543|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2697745106|
+author name:Shinichiro Omachi
+author organization:Tohoku university
+author id:2014607665|
+author name:Masako Omachi
+author organization:Tohoku Bunka Gakuen University
+author id:2082288162|
+author name:Yujing Guo
+author organization:Beijing University of Posts and Telecommunications
+author id:2104313389|
+]
+abstract:complementary|extracted|number|context|understanding|knowledge|algorithm|based|using|extraction|decoding|latent|obtained|word|independent|experiments|distribution|two|worth|result|increases|proved|feature|firstly|annotation|one|highlevel|single|distributions|similarities|classification|speech|information|combined|novel|recognition|good|mainly|features|dirichlet|different|combination|always|researching|extract|proposed|improve|effect|topic|sources|show|similarity|human|derived|allocation|effectively|confidence|recognition|statistically|proposed|performance|adopts|information|determining
+venue name:IEICE Transactions on Information and Systems
+venue id:2486202937
+venue type:J
+document type:Journal
+study fields:Latent Dirichlet allocation|Annotation|Feature extraction algorithm|Pattern recognition|Computer science|Feature (computer vision)|Speech recognition|Artificial intelligence|Topic model|Decoding methods|Independence (probability theory)
+references:57204544|130146388|170853248|1508594724|1569082251|1573706017|1719099009|1815080316|1880262756|1991594791|2034537249|2051746592|2096610504|2113500964|2134659216|2141262313|2159382562|2594610113
+
+
+id:2036757957
+title:A query by humming system based on locality sensitive hashing indexes
+year:2013
+author information:[
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts and Telecommunications
+author id:2463390808|
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2404625549|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:named|accurate|quickly|experimental|stateoftheart|approach|building|imperfect|music|problem|rank|filtering|algorithm|song|based|still|issue|large|locality|index|sensitive|accurately|wanted|humming|become|algorithms|increased|scheme|achieve|respectively|hot|retrieval|recursive|current|qbh|transposition|key|compared|scaling|set|linear|efficient|notebased|clip|hashing|screen|developed|challenging|find|method|humming|results|realize|area|lsh|query|system|twolevel|candidates|proposed|nlsh|topic|tackle|present|alignment|implements|boundary|locate|provided|searching|show|scale|technique|reciprocal|pitchbased|transposition|effective|database|candidate|paper|recently|practical|lacking|although|superior|build|mean|uses|presents
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Computer science|Query by humming|Hum|Artificial intelligence|Recursion|Locality-sensitive hashing|Mathematical optimization|Music information retrieval|Pattern recognition|Linear scale|Filter (signal processing)|Speech recognition|Mean reciprocal rank
+references:1524410362|1972662507|2003485950|2007431733|2016535804|2027518030|2028836612|2033485987|2051028153|2065143787|2066834853|2074668987|2104208555|2113613324|2122608951|2128109801|2129345382|2129672212|2133169093|2142669986|2151155792|2155751921|2162006472
+
+
+id:2037000447
+title:Speech Recognition error correction by using combinational measures
+year:2012
+author information:[
+author name:Baoxiang Li
+author organization:Beijing University of Posts and Telecommunications
+author id:2225613475|
+author name:Fengxiang Chang
+author organization:Beijing University of Posts and Telecommunications
+author id:2227500655|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+]
+abstract:postprocessing|called|correct|recognition|reranking|syntactic|score|character|neighbors|continuous|results|algorithm|combination|reduce|based|consideration|film|list|propose|corrects|candidates|measure|mutual|creating|score|misrecognition|force|recognizer|knowledge|present|activation|correction|word|errors|semantic|sophisticated|experiments|show|technique|error|viability|linguistic|trigram|candidate|rate|correcting|ability|mandarin|derived|means|effectively|confidence|recognition|speech|information|novel|first|taking
+venue name:IEEE International Conference on Network Infrastructure and Digital Content
+venue id:2755320226
+venue type:C
+document type:Conference
+study fields:Combinatorial mathematics|Computer science|Trigram|Word error rate|Speech recognition|Error detection and correction|Mutual information|Natural language processing|Artificial intelligence|Syntax|Mandarin Chinese
+references:131034424|170508173|246243662|1989705153|2114858359|2128967750
+
+
+id:2041896956
+title:Two-stage model-based feature compensation for robust speech recognition
+year:2012
+author information:[
+author name:Haifeng Shen
+author organization:Beijing University of Posts and Telecommunications
+author id:2104512194|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2694495852|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:modeling|advanced|recognition|approach|shows|generated|hmmbased|model|combination|respectively|using|pass|gmm|experimental|acoustic|conducted|sequentially|modeled|significant|telecommunications|european|system|estimation|posteriori|following|hidden|modelbased|two|multipledecoding|result|paper|feature|institute|mixture|parameter|firstly|together|compared|gmmbased|robust|markov|initial|strategies|hmm|twostage|approaches|clean|improvement|formulated|standards|compensation|environment|criterion|speech|maximum|achieved|gaussian|compensation|combined|approach|presents
+venue name:Computing
+venue id:35593046
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Recognition system|Speech recognition|Artificial intelligence|Estimation theory|Maximum a posteriori estimation|Feature compensation|Hidden Markov model|Mixture model|Mathematics|Acoustic model
+references:46648223|101328856|1494084492|1502096019|1520939885|1573570773|1590724174|1684909592|1932317594|1952617154|1970961184|1992576854|2018519656|2036815535|2059736174|2093985521|2096465519|2100969003|2101670196|2102804087|2108672476|2124514464|2126597753|2147824816|2150660184|2151125621|2160246131
+
+
+id:2042196414
+title:UBM Based Speaker Selection and Model Re-Estimation for Speaker Adaptation
+year:2006
+author information:[
+author name:Jian Wang
+author organization:Beijing University of Post  Telecommun
+author id:2629297084|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2694495852|
+author name:Jianjun Lei
+author organization:Beijing University of Posts  Telecommun
+author id:2657466490|
+]
+abstract:big|speakerindependent|issues|likelihood|recognition|adaptation|shown|model|evaluated|utilized|promising|still|large|achieved|baseline|adapted|respect|take|system|selection|likelihood|background|speaker|reestimation|relative|representation|gain|vocabulary|mixture|get|task|based|universal|performance|cross|technology|computation|singlepass|speech|selection|conditioned|gaussian|strategy|represent|ratio
+venue name:IEEE International Conference on Cognitive Informatics
+venue id:2755026231
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Speech recognition|Probability distribution|Speaker recognition|Speaker diarisation|Gaussian process|Artificial intelligence|Loudspeaker|Hidden Markov model|Vocabulary|Mixture model
+references:136723611|167743276|280873630|2041823554|2100969003|2131118559|2146871184|2165880886
+
+
+id:2051028153
+title:A Music Retrieval System Using Melody and Lyric
+year:2012
+author information:[
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2463390808|
+author name:Qiang Wang
+author organization:Beijing University of Posts  Telecommun
+author id:2404625549|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2667531173|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+author name:Yueming Lu
+author organization:Beijing University of Posts  Telecommun
+author id:2655537120|
+]
+abstract:support|experimental|preselected|music|retrieval|four|rank|vector|based|using|distinguish|singing|schemes|classification|dynamically|melody|system|humming|much|algorithms|systems|respectively|machine|matching|key|efficient|queries|characterize|lyric|novel|scores|using|recognition|used|challenging|employed|adding|results|combine|commonly|kind|query|proposes|users|system|fusion|convenient|proposed|show|reciprocal|error|paper|lyrics|rates|realizing|existing|developers|build|mean|achieved|reduction
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Support vector machine|Speech recognition|Mean reciprocal rank|Singing|Hum|Artificial intelligence|Natural language processing|Lyrics|Pattern matching|Word processing
+references:86310152|2003485950|2007431733|2027518030|2087347434|2122608951|2151155792|2159934994|2181860161
+
+
+id:2062144582
+title:Optimization of Filter Combination for Query by Humming
+year:2015
+author information:[
+author name:Qiang Wang
+author organization:China Electronics Technology Group Corporation No. 38 Research Institute, Hefei, China
+author id:2712331325|
+author name:Zhiyuan Guo
+author organization:China Electronics Technology Group Corporation No. 38 Research Institute, Hefei, China
+author id:2463390808|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+]
+abstract:optimal|developers|midi|experimental|number|sacrificing|query|balance|retrieval|hundreds|evaluated|strict|needed|filtering|algorithm|reduce|method|thousands|devise|feasibility|melody|contains|system|adopt|humming|greatly|methods|least|qbh|fourlevel|situations|within|strike|filter|multimedia|accuracy|meet|information|first|levels|use|threshold|filters|optimize|greedy|accelerate|method|dynamic|consider|results|programming|combination|group|files|need|filter|query|real|sort|system|efforts|proposed|demonstrate|present|largescale|applied|crucial|speed|indexbased|effective|database|total|paper|design|make|experience|requirements|process|practical|cost|effectively|confidence|also|although|filters|response|time|user|methodology|presents
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Dynamic programming|Data mining|Music information retrieval|Query expansion|Computer science|sort|Multimedia information retrieval|Filter (signal processing)|Greedy algorithm|Query by humming
+references:2007431733|2027518030|2038678505|2057745663|2116867711|2117548007|2129672212|2133169093|2142669986|2155751921|2159934994|2162006472
+
+
+id:2065169802
+title:Boundary-expanding locality sensitive hashing
+year:2012
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2404625549|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts and Telecommunications
+author id:2463390808|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667531173|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:functions|called|number|neighbors|introduced|tables|optimization|near|algorithm|databases|large|probability|index|require|sensitive|bucket|provide|hash|achieve|retrieval|two|experiments|increases|search|factor|table|audio|map|indexing|may|computation|lots|fast|sides|data|resolve|hashing|fewer|points|acceleration|time|drawback|method|us|lsh|needs|obtain|new|locality|buckets|conducted|significant|less|collision|proposed|mapped|largescale|higher|boundary|boundaryexpanding|show|technique|best|point|expanded|paper|parameter|construction|multiple|adjacent|also|structure|efficiency|presents
+venue name:International Symposium on Chinese Spoken Language Processing
+venue id:1191598575
+venue type:C
+document type:Conference
+study fields:Primary clustering|Locality-sensitive hashing|Double hashing|Computer science|Rolling hash|Theoretical computer science|Hash function|Dynamic perfect hashing|Linear hashing|Hash table
+references:2038276547|2059139185|2104208555|2129345382|2144265691|2147717514|2155751921|2160831612|2162006472|2397770138
+
+
+id:2069456591
+title:Mixed environment compensation based on maximum a posteriori estimation for robust speech recognition
+year:2009
+author information:[
+author name:Haifeng Shen
+author organization:Beijing University of Posts and Telecommunications
+author id:2104512194|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2694495852|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:noise|together|recognition|experimental|problem|fine|modified|model|dynamic|results|algorithm|obtain|static|robustness|acoustic|real|significant|sequence|system|environments|observed|speech|show|fundamental|technique|mixed|paper|feature|match|improvement|model|target|compensated|environment|performance|speech|well|compensation|combined|presents
+venue name:Artificial Intelligence Review
+venue id:122814990
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Computer science|Speech recognition|Robustness (computer science)|Artificial intelligence|Maximum a posteriori estimation|Feature compensation|Compensation algorithm|Acoustic model|Performance improvement
+references:1494084492|1502096019|1520939885|1565227122|1573570773|1815045248|1920183217|1952617154|2126597753
+
+
+id:2070585611
+title:An Improved Pruning Method Based on the Number of States Possessed by Hypotheses
+year:2012
+author information:[
+author name:Junyao Shao
+author organization:Beijing University of Posts  Telecommun
+author id:2228924256|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2667531173|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2463390808|
+author name:Baoxiang Li
+author organization:Beijing University of Posts  Telecommun
+author id:2225613475|
+author name:Yueming Lu
+author organization:Beijing University of Posts  Telecommun
+author id:2655537120|
+]
+abstract:pruning|neglects|bad|frames|prefix|states|several|improved|number|score|path|state|similar|method|possessed|possess|analysis|rankings|proposed|improve|partial|little|hypotheses|behind|fact|scores|ahead|part|least|range|states|hypothesis|asr|paper|low|deduce|discards|according|chance|could|effectively|say|right|many|performance|conventional|speech|ranking|discarded|certain|hypothesis|account|presents|taking
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Ranking|Computer science|Tree (data structure)|Artificial intelligence|Trie|Machine learning|Pruning
+references:16977944|104222852|2043422002|2056492762|2094719441|2147768505|2149298150
+
+
+id:2114887563
+title:Combining Log-Spectral Domain Compensation with MVA Feature Post-Processing for Robust Speech Recognition
+year:2006
+author information:[
+author name:Jianjun Lei
+author organization:University of Posts and Telecommunications
+author id:2657466490|
+author name:Jian Wang
+author organization:Beijing University of Posts and Telecommunications
+author id:2629297084|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2694495852|
+author name:Haifeng Shen
+author organization:Beijing University of Posts and Telecommunications
+author id:2104512194|
+]
+abstract:environments|recognition|residual|used|approach|continuous|implemented|model|evaluated|results|new|using|approximation|experimental|robustness|degraded|approximated|signals|improve|domain|mva|present|environment|systems|deal|postprocessing|scheme|speech|show|exhibits|database|considerable|feature|task|logspectral|combining|noisy|clean|recorded|linear|compensated|environment|performance|speech|mismatch|statistical|compensation|improvements
+venue name:Information Hiding
+venue id:1175805213
+venue type:C
+document type:Conference
+study fields:Speech enhancement|Linear approximation|Noise reduction|Noise|Speech processing|Residual|Pattern recognition|Computer science|Speech recognition|Robustness (computer science)|Artificial intelligence|Cepstral analysis
+references:1488775899|1974387177|2010023285|2045036776|2080921589|2097837111|2126597753
+
+
+id:2129345382
+title:Entropy based locality sensitive hashing
+year:2012
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2404625549|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts and Telecommunications
+author id:2463390808|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667531173|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:functions|accurate|hashing|approximate|using|consuming|good|nearest|research|lsh|points|problem|amounts|solution|poor|results|always|based|new|mapping|large|method|locality|experimental|proposes|adjusted|sensitive|distributions|especially|proposed|nearest|mapped|parameters|hash|scheme|values|show|distribution|entropy|paper|provides|get|performance|set|recently|also|data|distribution|neighbor|better|pstable|approximately|maximum|time
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Locality-sensitive hashing|Pattern recognition|Double hashing|Computer science|Universal hashing|Hash function|K-independent hashing|Artificial intelligence|Dynamic perfect hashing|Hash table|Maximum entropy probability distribution
+references:15066456|1502916507|1980911747|2038276547|2055839530|2059139185|2122056984|2147717514|2155751921|2160831612|2162006472|2170037597|2397770138
+
+
+id:2129906792
+title:Research on Confusion Network Algorithm Based on Minimum Bayes Risk Decision Rule
+year:2007
+author information:[
+author name:Bin Wu
+author organization:Beijing University of Posts  Commun
+author id:2464938123|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2673755444|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+]
+abstract:recognition|experimental|works|improved|continuous|results|order|algorithm|obtain|generation|based|using|large|method|lower|decoding|proposed|word|confusion|map|wer|wer|one|show|error|two|characteristic|network|result|vocabulary|rate|prevenient|transformed|mbr|according|algorithms|mandarin|bayes|speech|lattice|yields|minimum|strategy
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Speech coding|Computer science|Artificial intelligence|Bayes theorem|Decision rule|Confusion|Pattern recognition|Word error rate|Speech recognition|Decoding methods|Vocabulary|Mandarin Chinese|Machine learning
+references:1528470941|2114863652|2163117539|2594610113
+
+
+id:2141327721
+title:A Research on Mixture Splitting for CHMM Based on DBC
+year:2009
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667550859|
+author name:Wei Chen
+author organization:
+author id:2718070574|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+]
+abstract:states|mainly|mixtures|number|split|four|easily|state|algorithm|splitting|based|using|method|finally|em|includes|classification|affected|chosen|estimation|proposed|determined|secondly|confusion|boundary|experiments|classical|according|show|effective|mixture|parameter|firstly|every|direction|concerning|decision|markov|initial|could|hmm|hmm|distribution|thirdly|mean|describe|incremented|closest
+venue name:Journal of Computers
+venue id:77894049
+venue type:J
+document type:Journal
+study fields:Confusion|Pattern recognition|Expectation–maximization algorithm|Computer science|Artificial intelligence|Estimation theory|dBc|Hidden Markov model|Decision boundary|Machine learning
+references:2161482971
+
+
+id:2141561661
+title:A Study of Neighborhood Competing Models Based Verification Method
+year:2007
+author information:[
+author name:Chengli Sun
+author organization:Beijing University of Posts  Telecommun
+author id:2125726215|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2663387305|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+]
+abstract:recognition|experimental|lrt|problem|model|results|verification|competing|actual|uv|new|models|using|method|test|garbage|includes|utterance|important|input|likelihood|proposed|viewpoint|neighborhood|present|conditions|word|explicitly|role|portion|neighboring|capability|noise|tradition|enhance|address|robust|determine|approaches|clean|intelligent|outperforms|performance|conditions|speech|mismatch|online|information|information|comparable|comparing|ratio
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Garbage|Likelihood-ratio test|Computer science|Utterance|Speech recognition|Artificial intelligence|Machine learning
+references:2034537249|2111581792|2134659216|2137833003|2151941172|2158510078
+
+
+id:2152274019
+title:A new method for model selection in speech recognition
+year:2008
+author information:[
+author name:Yahui Wu
+author organization:Beijing University of Posts  Telecommun
+author id:2557605153|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2677343878|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2714462620|
+]
+abstract:cluster|mpe|criteria|mle|accuracy|used|model|directly|order|new|based|method|models|acoustic|weight|propose|selection|proposed|following|demonstrate|besides|trained|experiments|training|get|training|also|model|better|performance|calculation|information|intravariance|intervariance|ratio
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Model selection|Maximum likelihood|Speech recognition|Artificial intelligence|Hidden Markov model|Acoustic model
+references:2003123121|2111479622|2150907703|2154887136|2158289097
+
+
+id:2155751921
+title:Structural fingerprint based hierarchical filtering in song identification
+year:2011
+author information:[
+author name:Qiang Wang
+author organization:Nanjing University of Posts  Telecommunications
+author id:2674354024|
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2667531173|
+author name:Zhiyuan Guo
+author organization:Beijing University of Posts and Telecommunications
+author id:2463390808|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecomuunictions
+author id:2101091369|
+author name:Xiaoyu Chen
+author organization:Beijing University of Posts and Telecommunications
+author id:2420430947|
+]
+abstract:clips|accuracy|approach|research|focus|second|filters|identification|hierarchical|fingerprint|filtering|algorithm|song|generation|based|method|conducted|proposed|automatic|achieve|searching|show|two|experiments|long|database|structural|low|snr|set|selective|efficient|one|enough|fast|songs|consists|information|stateoftheart|comparable|novel
+venue name:International Conference on Multimedia and Expo
+venue id:1126322613
+venue type:C
+document type:Conference
+study fields:Computer vision|Search algorithm|Pattern recognition|Fingerprint recognition|Computer science|Filter (signal processing)|Robustness (computer science)|Collision|Feature extraction|Fingerprint|Artificial intelligence
+references:83334756|122994913|2047411082|2074613057|2076694837|2104160358|2146874154
+
+
+id:2156018637
+title:A confusion network based confidence measure for active learning in speech recognition
+year:2008
+author information:[
+author name:Wei Chen
+author organization:Beijing University of Posts  Telecommun
+author id:2694931543|
+author name:Gang Liu
+author organization:Beijing University of Posts  Telecom
+author id:2667550859|
+author name:Jun Guo
+author organization:Beijing University of Posts  Telecommun
+author id:2101091369|
+]
+abstract:inspects|modeling|select|data|modeling|recognition|used|tremendous|preparation|selects|newly|number|unlabeled|method|usually|using|efficiency|acoustic|labeled|costly|active|informative|samples|annotates|measure|examples|proposed|selection|improve|confusion|criterion|trained|scheme|computed|importance|achieve|experiments|show|update|training|learning|random|timeconsuming|systems|transcribed|adds|compared|concerning|set|confidence|sample|model|intensively|speech|corresponding|aiming|adopts|speech|maximum|reducing|reduction|iteratively|certain
+venue name:International conference natural language processing
+venue id:2898139291
+venue type:C
+document type:Conference
+study fields:Data modeling|Confusion|Active learning|Semi-supervised learning|Pattern recognition|Computer science|Speech recognition|Sampling (statistics)|Artificial intelligence|Labeled data|Hidden Markov model|Acoustic model
+references:148466211|1513874326|1540371244|1553262910|1815080316|2095629250|2110817634|2151023586|2169027522|2594610113
+
+
+id:2401678270
+title:A Two-Phase Model for Retweet Number Prediction
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Beijing University of Posts and Telecommunications
+author id:2628653512|
+author name:Chuan Shi
+author organization:Beijing University of Posts and Communications
+author id:2252461150|
+author name:Qing Chen
+author organization:China Mobile Communications Corp
+author id:2302791540|
+author name:Bin Wu
+author organization:University
+author id:2464938123|
+author name:Jiayin Qi
+author organization:University of Posts and Telecommunications
+author id:2685815201|
+]
+abstract:extensive|microblog|without|number|problem|complex|retweet|model|usually|classifies|twophase|models|classification|accurately|propose|weibo|traditional|onephase|become|methods|achieve|experiments|retweeted|weibo|feature|share|popular|retweet|many|framework|regarded|market|cannot|information|dataset|first|precision|several|tweets|sina|influence|extraction|consider|category|surge|contemporary|real|important|measure|prediction|basic|show|general|times|predict|performances|social|retweeting|tweet|way|spread|better|regression|information
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Regression|Computer science|Feature extraction|Artificial intelligence|Regression problems|Machine learning
+references:1499517307|2001653897|2026318959|2051322528|2093123876|2097343308|2147520184|2265862919
+
+
+id:66352275
+title:Meaningful Object Segmentation From SAR Images via a Multiscale Nonlocal Active Contour Model
+year:2016
+author information:[
+author name:Gui-Song Xia
+author organization:State Key Lab. for Inf. Eng. in Surveying, Mapping  Remote Sensing (LIESMARS), Wuhan, China
+author id:2116128023|
+author name:Gang Liu
+author organization:Lab. Traitement et Commun. de lInf., Telecom ParisTech, Paris, France
+author id:2307477559|
+author name:Wen Yang
+author organization:Wuhan University
+author id:2129002502|
+author name:Liangpei Zhang
+author organization:State Key Lab. for Inf. Eng. in Surveying, Mapping  Remote Sensing (LIESMARS), Wuhan, China
+author id:2099831346|
+]
+abstract:accurate|results|formulize|problem|model|whereas|presence|longstanding|based|images|devoted|efficiency|surface|dealing|method|made|patches|simulated|active|backscattering|heavy|feasibility|processing|multiscale|integrating|images|works|achieve|overcome|intensities|two|local|variations|segmentation|precise|suppress|procedure|exploiting|contour|sensors|aperture|radar|segmentations|minimum|novel|first|used|inside|challenging|pairs|different|results|image|experimental|real|synthetic|effects|achieving|proposed|outside|demonstrate|speckle|sar|investigations|speed|interactions|nonlocal|paper|regions|tremendous|falling|types|yet|also|segmented|intensity|due|avoid|strategy|principle|properties|presents
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Active contour model|Computer vision|Scale-space segmentation|Speckle pattern|Segmentation|Synthetic aperture radar|Remote sensing|Segmentation-based object categorization|Image segmentation|Artificial intelligence|Speckle noise|Mathematics
+references:1598056146|1853286284|1951160674|1974141535|1978102639|1979331265|1979968728|1989135034|2017399967|2032213320|2037163072|2048611331|2067194272|2076063977|2077282160|2077567018|2083609718|2085845644|2089858150|2097073572|2098152234|2098777834|2101178628|2104095591|2110764636|2112891016|2113726946|2115922709|2117400053|2130706954|2131120753|2137993841|2142026865|2144851790|2146123543|2146950091|2149184914|2165734775|2165754343|2611684114
+
+
+id:1413143527
+title:Dynamic texture recognition by aggregating spatial and temporal features via ensemble SVMs
+year:2016
+author information:[
+author name:Feng Yang
+author organization:Collaborative Innovation Center of Geospatial Technology, Wuhan 430079, China
+author id:2950820334|
+author name:Gui-Song Xia
+author organization:Collaborative Innovation Center of Geospatial Technology, Wuhan 430079, China
+author id:2116128023|
+author name:Gang Liu
+author organization:CNRS LTCI, Telecom ParisTech, Paris 75013, France
+author id:2307477559|
+author name:Liangpei Zhang
+author organization:Collaborative Innovation Center of Geospatial Technology, Wuhan 430079, China
+author id:2099831346|
+author name:Xin Huang
+author organization:Collaborative Innovation Center of Geospatial Technology, Wuhan 430079, China
+author id:2323680369|
+]
+abstract:stack|modeling|achievements|regularities|videorelated|stateoftheart|approach|via|scene|dynamics|problem|model|exhibit|spatial|temporal|order|images|frames|considering|system|simultaneously|spatiotemporal|role|fact|depict|scheme|svm|two|unlike|reported|linear|texture|many|domain|single|difficulties|exploit|randomly|naive|addresses|textures|recognition|several|achieves|process|main|simple|dts|incorporate|used|tremendous|challenging|cues|dt|features|bypassing|aggregating|dynamic|different|results|combine|offers|static|important|difficulty|sequence|vision|extract|task|refers|proposed|scenes|architecture|experimented|frame|aspects|show|modelingthis|description|ensemble|video|augmentation|aggregate|general|paper|common|lies|performances|selecting|dts|plays|recently|recognition|also|followed|way|datasets|time
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Computer vision|Pattern recognition|Computer science|Support vector machine|Exploit|Artificial intelligence|Texture recognition|Machine learning
+references:1480106457|1534477342|1545093576|1559496097|1560120246|1566135517|1583531441|1971877752|1976566382|1978563198|1992480575|1994906459|2006656585|2016053056|2027922120|2029458478|2029656981|2033366399|2048790245|2058879167|2061736157|2071524685|2072072671|2082255918|2082265779|2090425484|2096127742|2098667639|2104978738|2105795585|2111587247|2114618801|2117032601|2121452312|2125697180|2127541232|2127575804|2136705357|2138570191|2139916508|2141546307|2141705618|2141859737|2143865185|2146966357|2147238549|2153635508|2155806188|2157691228|2158271210|2158879235|2160144769|2162762921|2162915993|2163352848|2167383966|2168173974|2168781359|2182080041|2912155302
+
+
+id:1987255631
+title:A perception-inspired building index for automatic built-up area detection in high-resolution satellite images
+year:2013
+author information:[
+author name:Gang Liu
+author organization:Wuhan University
+author id:2307477559|
+author name:Gui-Song Xia
+author organization:Wuhan University
+author id:2116128023|
+author name:Xin Huang
+author organization:Wuhan University
+author id:2323680369|
+author name:Wen Yang
+author organization:Wuhan University
+author id:2129002502|
+author name:Liangpei Zhang
+author organization:Wuhan University
+author id:2099831346|
+]
+abstract:measured|big|called|areas|stateoftheart|remote|saliency|approach|building|measures|problem|corner|usually|evaluated|presence|images|thus|method|index|extraction|propose|junctions|perception|contrast|images|independent|result|corners|demonstrated|together|highresolution|structures|perceptioninspired|associated|first|junction|addresses|achieves|ikonos|builtup|used|compute|view|results|new|image|including|significant|contained|proposed|detect|point|detector|paper|quickbird|structural|manmade|acontrario|perceptual|satellite|applications|sensing|practical|geometrical|relying|automatic|argue|significance|due|index|detected|scale
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Computer vision|Object detection|Satellite|Built-up area|Computer science|Salience (neuroscience)|Remote sensing|Artificial intelligence|Perception|Detector|Satellite image|Corner detector
+references:1590523220|2038359773|2049916020|2085665642|2105548357|2108597246|2113199901|2131438174|2141371127|2157284958|2913455019
+
+
+id:2064022862
+title:Car detection from high-resolution aerial imagery using multiple features
+year:2012
+author information:[
+author name:Wen Shao
+author organization:Wuhan University
+author id:2127306429|
+author name:Wen Yang
+author organization:Wuhan University
+author id:2129002502|
+author name:Gang Liu
+author organization:Wuhan University
+author id:2307477559|
+author name:Jie Liu
+author organization:Wuhan University
+author id:2630065010|
+]
+abstract:employ|contextual|histogram|interactive|stateoftheart|complementary|approach|scene|via|vaihingen|histogram|suppression|diverse|recent|utilized|images|efficiency|large|negatives|method|local|refine|propose|years|cars|bootstrapping|adopt|attracted|occlusions|oriented|gradients|finally|complexity|achieve|imagery|nonmaximum|vector|demonstrated|pattern|detection|robust|highresolution|detecting|kernel|change|procedure|performed|framework|machine|challenging|information|dataset|first|detections|eliminating|incorporate|aerial|intersection|exhaustive|greedy|results|computational|detections|image|experimental|runtime|particular|real|task|proposed|subsequently|scenes|binary|repetitive|collect|support|training|effective|search|car|opponent|hard|make|illumination|multiple|performance|various|attention|taking
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Histogram|Object detection|Computer vision|Pattern recognition|Brute-force search|Computer science|Local binary patterns|Support vector machine|Greedy algorithm|Histogram of oriented gradients|Artificial intelligence
+references:1992794557|2013039598|2066690519|2107775979|2134380836|2140793580|2161969291|2162762921|2163352848
+
+
+id:2067194272
+title:SAR image segmentation via non-local active contours
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Wuhan University
+author id:2307477559|
+author name:Gui-Song Xia
+author organization:Wuhan University
+author id:2116128023|
+author name:Wen Yang
+author organization:Wuhan University
+author id:2129002502|
+author name:Nan Xue
+author organization:Wuhan University
+author id:2152671532|
+]
+abstract:principle|region|formulize|experimental|used|nonlocal|inside|pairs|via|patch|features|problem|method|model|calculate|results|defined|image|method|level|compared|segmentation|patches|finally|active|less|sensitive|feasibility|proposed|outside|comparisons|processing|statistical|integrating|sar|idea|show|local|interactions|computing|partition|paper|feature|similarity|segmentation|minimize|effectiveness|set|initial|relying|energy|segmented|approaches|requirement|contour|model|existing|presents
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Sar image segmentation|Scale-space segmentation|Computer science|Remote sensing|Segmentation-based object categorization|Image segmentation|Artificial intelligence|Active contour model|Computer vision|Pattern recognition|Level set method|Image texture|Segmentation
+references:1598056146|1853286284|1951160674|2083609718|2089858150|2098777834|2101178628|2104095591|2137993841|2144851790|2146123543
+
+
+id:2111587247
+title:Texture Analysis with Shape Co-occurrence Patterns
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Wuhan University
+author id:2307477559|
+author name:Gui-Song Xia
+author organization:Wuhan University
+author id:2116128023|
+author name:Wen Yang
+author organization:Wuhan University
+author id:2129002502|
+author name:Liangpei Zhang
+author organization:Wuhan University
+author id:2099831346|
+]
+abstract:modeling|stateoftheart|relationships|shapes|retrieval|represented|model|databases|efficiency|method|thus|shape|investigating|robustness|analysis|classification|resulting|distributions|attributes|explicit|flexible|contrast|conditions|strong|depict|experiments|cooccurrence|variations|ability|inherits|set|learn|texture|characterize|associated|report|first|bagofwords|textures|use|several|features|high|method|results|image|patterns|finally|tree|imaging|establish|tool|shapebased|proposed|converted|demonstrate|analysis|aspects|tree|scops|paper|shapes|provides|learned|geometrical|also|way|existing|various|time|presents
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Computer vision|Texture compression|Pattern recognition|Bidirectional texture function|Computer science|Image texture|Co-occurrence|Tree of shapes|Robustness (computer science)|Artificial intelligence|Texture filtering|Shape analysis (digital geometry)
+references:1484228140|1515999713|1539437305|1978563198|2014801693|2035308043|2068990809|2108082645|2111815479|2117311720|2126833203|2127006916|2128057924|2152222383|2157691228|2163352848|2167383966|2182080041
+
+
+id:2565626003
+title:Unsupervised change detection between multi-sensor high resolution satellite images
+year:2016
+author information:[
+author name:Gang Liu
+author organization:Telecom-Paristech, Paris, France
+author id:2307477559|
+author name:Julie Delon
+author organization:MAP 5, CNRS, Université Paris Descartes, Sorbonne Paris Cité, 75006, Paris, France
+author id:2134856846|
+author name:Yann Gousseau
+author organization:Telecom-Paristech, Paris, France
+author id:345400052|
+author name:Florence Tupin
+author organization:LTCI, Telecom-ParisTech, Paris, France
+author id:1546765399|
+]
+abstract:use|several|used|remote|align|resolution|procedures|challenging|pairs|setting|thanks|high|locally|shown|different|acquired|image|images|efficiency|method|need|local|changes|grouping|whose|thresholds|even|unsupervised|final|present|statistical|images|angles|satellites|changes|isolated|two|local|descriptors|provides|thanks|sensing|detection|identify|change|automatic|coregistration|performed|sensors|framework|urban|able|well|contrario|complete|incidence|novel
+venue name:European Signal Processing Conference
+venue id:2756071452
+venue type:C
+document type:Conference
+study fields:Computer vision|Satellite|Change detection|Image sensor|Computer science|Robustness (computer science)|Artificial intelligence|Image resolution
+references:1585532467|1592617197|1993725860|1997534118|2008624061|2011911870|2041463265|2073134030|2085477622|2086576628|2105548357|2127396267|2129601604|2134962551|2138055993|2151103935|2153864221|2160544350|2161001197|2161161768|2913455019
+
+
+id:2593496609
+title:Texture Characterization Using Shape Co-Occurrence Patterns
+year:2017
+author information:[
+author name:Gui-Song Xia
+author organization:Wuhan University
+author id:2116128023|
+author name:Gang Liu
+author organization:LTCI - TÉLÉcOM ParisTech - University of Paris-Saclay
+author id:2915343291|
+author name:Xiang Bai
+author organization:Huazhong University of Science and Tech
+author id:2168860362|
+author name:Liangpei Zhang
+author organization:Wuhan University
+author id:2099831346|
+]
+abstract:approach|scene|relationships|problem|four|understanding|represented|investigated|based|using|images|efficiency|shape|robustness|radiometric|attributes|explicit|flexible|among|contrast|conditions|strong|methods|highorder|pattern|kinds|texture|experiments|coding|cooccurrence|variations|ability|inherits|key|sets|texture|vector|associated|approach|characterization|first|statistics|encode|textures|data|several|used|compute|codewords|high|hierarchical|consider|different|image|given|patterns|tree|capture|imaging|three|tool|shapebased|proposed|demonstrate|present|analysis|aspects|tree|learning|best|representation|shapes|provides|geometrical|learned|recognition|patterns|also|way|existing|various|typical|descriptive|time
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Computer vision|Active shape model|Texture compression|Pattern recognition|Image texture|Level set|Robustness (computer science)|Feature extraction|Artificial intelligence|Texture filtering|Mathematics|Shape analysis (digital geometry)
+references:437896048|819977924|1484228140|1528111013|1539437305|1566135517|1861233026|1909952827|1965953026|1978563198|1980038761|1984309565|1993655741|2003517382|2005876975|2014801693|2042132570|2044465660|2047643928|2053544201|2068990809|2082265779|2083866943|2090087753|2108082645|2108598243|2111815479|2126833203|2127006916|2128057924|2129771860|2139702096|2144170305|2152222383|2153635508|2153786187|2154209944|2157691228|2161106546|2161917943|2162915993|2163352848|2167383966|2171098702|2560354825|2949902569
+
+
+id:2902615807
+title:Deep Multitask Gaze Estimation with a Constrained Landmark-Gaze Model
+year:2018
+author information:[
+author name:Yu Yu
+author organization:IDIAP Research Institute
+author id:2963796673|
+author name:Gang Liu
+author organization:Idiap Research Institute
+author id:2307477559|
+author name:Jean-Marc Odobez
+author organization:IDIAP
+author id:1595715809|
+]
+abstract:localization|modeling|irrelevant|accurate|stateoftheart|resolution|without|variation|relation|clgm|visual|model|inferring|tasks|based|images|iris|multitask|dealing|method|relating|impact|way|propose|jointly|resulting|eye|cue|rely|following|competitive|implicit|explicitly|regions|methods|experiments|endtoend|normalization|datasets|two|ones|estimator|low|variations|behavior|free|mismatches|cropping|learn|robust|may|training|directions|one|data|abstract|constrained|model|thorough|framework|model|information|combined|dataset|indicator|contributions|joint|data|achieves|accounting|challenging|cues|decomposing|deterministically|constrained|plain|landmark|potential|results|image|landmarkgaze|pose|positions|real|decoder|important|estimation|synthetic|improving|task|proposed|gaze|decouples|geometric|demonstrate|parameters|deep|analysis|scale|learning|training|network|recent|head|relies|public|provides|human|direction|amount|social|limited|introduce|label|regression|interaction|translation|easier|locations
+venue name:European Conference on Computer Vision
+venue id:1124077590
+venue type:C
+document type:Conference
+study fields:Sensory cue|Computer vision|Normalization (statistics)|Regression|Gaze|Computer science|Synthetic data|Artificial intelligence|Deep learning|Landmark|Estimator
+references:1896424170|1946259682|1955369839|1977821862|1982091553|1995694455|2011652428|2017107803|2027879843|2035477961|2040336280|2042906110|2056257735|2074840634|2077869260|2087681821|2087862817|2136773441|2139196511|2155591525|2167020116|2244783700|2286954337|2290180618|2299591120|2397023066|2399858921|2468114283|2519247488|2548595117|2548780814|2549401308|2557669140|2583387051|2607909683|2624871570|2731384148|2756166059|2778268008|2796850409|2799164693|2802295602|2884915206|2963709863|2963877604
+
+
+id:2962898540
+title:Texture synthesis through convolutional neural networks and spectrum constraints
+year:2016
+author information:[
+author name:Gang Liu
+author organization:Telecom-ParisTech, LTCI CNRS, 46 Rue Barrault, 75013, France
+author id:2307477559|
+author name:Yann Gousseau
+author organization:Telecom-ParisTech, LTCI CNRS, 46 Rue Barrault, 75013, France
+author id:345400052|
+author name:Gui-Song Xia
+author organization:Wuhan University
+author id:2116128023|
+]
+abstract:quasiperiodic|results|use|coherent|stateofthe|constraints|features|synthesis|optimization|fine|presented|recent|case|computational|images|using|making|method|large|cost|significant|done|spectrum|even|conditioning|contrast|statistical|cnn|depict|images|neural|experiments|show|scale|cnns|networks|local|paper|fourier|extra|ability|inherits|compared|synthesis|convolutional|art|previous|learned|texture|structures|clear|relying|approaches|improvement|constrained|existing|regarded|various|yields|time|presents
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Convolution|Convolutional neural network|Computer science|Feature extraction|Artificial intelligence|Constrained optimization problem|Fourier spectrum|Texture synthesis
+references:1686810756|1909952827|1936878994|1981782146|2005126631|2040172205|2041971124|2065301447|2078790577|2116013899|2125027853|2127006916|2140207570|2161693169|2182080041|2232702494|2415655786|2952226636|2963173190|2964193438
+
+
+id:1998820179
+title:A New Quality Map for 2-D Phase Unwrapping Based on Gray Level Co-Occurrence Matrix
+year:2014
+author information:[
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:YunKai Deng
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Runpu Chen
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2164650606|
+author name:Yunfeng Shao
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2463028176|
+author name:Zhihui Yuan
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2104110308|
+]
+abstract:play|called|data|used|analyzing|features|modified|wrapped|weighted|generate|results|exploited|algorithm|phase|new|based|image|statistic|maps|method|level|simulated|real|obtaining|glcm|quality|useful|much|algorithms|minimumnorm|role|images|crucial|experiments|classical|show|technique|generating|matrix|ones|cooccurrence|gray|secondorder|unwrapping|maps|definition|make|according|compared|performance|characteristics|problem|texture|qualityguide|better|proposed|exploring|conventional|absolute|information|suitable|statistics
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Absolute phase|Computer vision|Statistic|Co-occurrence matrix|Synthetic aperture radar|Matrix (mathematics)|Remote sensing|Coherence (physics)|Artificial intelligence|Gray level|Mathematics
+references:2044465660|2055689483|2117438495|2130204909|2158755508|2161661683
+
+
+id:2008355673
+title:Double-Channel Bistatic SAR System With Spaceborne Illuminator for 2-D and 3-D SAR Remote Sensing
+year:2013
+author information:[
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Yunkai Deng
+author organization:Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Zhimin Zhang
+author organization:Institute of Electron., Beijing, China
+author id:2169277385|
+author name:Yunfeng Shao
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2463028176|
+author name:Jixiang Hou
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2224555178|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Xiayi Wu
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2332506321|
+]
+abstract:advanced|experiment|complex|bistatic|validation|phase|based|images|system|stereo|sensitivity|illuminator|much|images|monostatic|differences|remotesensing|acquire|targets|characteristic|monotatic|based|detection|aperture|radar|fast|novel|techniques|radargrammetry|available|recognition|used|implemented|results|acquired|image|test|imaging|system|synthetic|hybrid|proposed|scattering|demonstrate|facilitate|sar|behaviors|doublechannel|spaceborne|highlight|airborne|paper|applications|microwave|timedomain|better|synchronization|time|presents
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Radar engineering details|Computer vision|Synthetic aperture radar|Data acquisition|Remote sensing|Phase synchronization|Communication channel|Bistatic radar|Artificial intelligence|Synchronization algorithm|Passive radar|Mathematics
+references:1983689175|2025969570|2035962965|2047941860|2100123951|2100486279|2110800338|2132261386|2137316814|2139184374|2151264810|2170883821|2172080481
+
+
+id:2008382864
+title:Fast Backprojection Algorithm for Bistatic SAR Imaging
+year:2013
+author information:[
+author name:Yun Feng Shao
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2815750133|
+author name:R. Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Yun Kai Deng
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Y. Liu
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2572281051|
+author name:Runpu Chen
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2164650606|
+author name:Gang Liu
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2627578575|
+author name:O. Loffeld
+author organization:Siegen University
+author id:61798749|
+]
+abstract:simulation|channel|echo|azimuth|used|graphics|imaging|implemented|bistatic|backprojection|signal|algorithm|computational|reduce|phase|approximation|receiver|method|compress|satelliteorbit|raw|real|secondary|synthetic|unit|proposed|involved|effect|processing|ground|matched|correction|complexity|applied|range|measurement|fbpa|precision|requirements|caused|verified|data|recorded|filter|aperture|radar|fast|synchronization|signal
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Computer science|Synthetic aperture radar|Remote sensing|Artificial intelligence|Matched filter|Computer vision|Radar imaging|Synchronization|Side looking airborne radar|Synchronization Channel|Algorithm|Inverse synthetic aperture radar|Bistatic radar
+references:1983393650|1997262047|2043964752|2109896001|2151264810|2166520308
+
+
+id:2011468523
+title:Interferometric Phase Denoising by Pyramid Nonlocal Means Filter
+year:2013
+author information:[
+author name:Runpu Chen
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2164650606|
+author name:Weidong Yu
+author organization:Institute of Electron., Beijing, China
+author id:2673811415|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Yunfeng Shao
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2463028176|
+]
+abstract:data|reach|whole|influence|nonlocal|balance|biggest|drawback|modified|details|flow|algorithm|order|phase|similar|image|images|proposes|steps|iterative|methods|significant|preserve|real|utilizes|synthetic|traditional|following|letter|processing|preserving|nl|algorithms|taking|crucial|experiments|recursive|denoising|denoising|feature|invented|validate|means|characteristics|interferometric|texture|structures|image|outperforms|wipe|filter|interferometric|aperture|radar|traditional|step
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Noise reduction|Computer vision|Radar imaging|Interferometric synthetic aperture radar|Iterative method|Non-local means|Image texture|Synthetic aperture radar|Remote sensing|Inverse synthetic aperture radar|Artificial intelligence|Mathematics
+references:1592287264|2097073572|2099008772|2110764636|2117009774|2130754596|2136396015|2137901785|2144176946|2152657318|2157141307
+
+
+id:2045126741
+title:Multichannel InSAR DEM Reconstruction Through Improved Closed-Form Robust Chinese Remainder Theorem
+year:2013
+author information:[
+author name:Zhihui Yuan
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2104110308|
+author name:Yunkai Deng
+author organization:Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Fei Li
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2672151055|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Xiaolei Han
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2763078130|
+]
+abstract:reconstruction|proper|reference|multifrequency|profiles|presented|method|terrain|weighted|filtering|results|us|height|phase|based|multichannel|method|experimental|robustness|reconstruct|exist|synthetic|theorem|traditional|selection|improve|solve|produces|statistical|multibaseline|prove|differential|get|result|highly|allows|effectiveness|closedform|interferograms|characteristics|robust|problem|interferometric|interferogram|one|insar|also|exploiting|special|better|modify|aperture|radar|interferometric|mean|chinese|reconstruction|sloped|information|combined|discontinuous|remainder|novel|adopted
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Computer vision|Radar imaging|Interferometric synthetic aperture radar|Chinese remainder theorem|Synthetic aperture radar|Remote sensing|Remainder|Robustness (computer science)|Inverse synthetic aperture radar|Artificial intelligence|Mathematics
+references:2007926043|2042465044|2098757647|2116928628|2125267343|2141300959|2152185946|2155616886|2168596497
+
+
+id:2058751804
+title:Pyramid non-local mean filter for interferometric phase denoising
+year:2012
+author information:[
+author name:Runpu Chen
+author organization:Department of Space Microwave Remote Sensing System, Institute of Electronics, Chinese Academy of Sciences, Beijing 100190, China
+author id:2164650606|
+author name:Weidong Yu
+author organization:INSTITUTE OF ELECTRONICS CHINESE ACADEMY OF SCIENCES
+author id:2673811415|
+author name:Yunkai Deng
+author organization:Chinese Academy of Sciences Institute of Electronics Beijing China
+author id:2106627761|
+author name:Robert Wang
+author organization:Chinese Academy of Sciences Institute of Electronics Beijing China
+author id:2917633195|
+author name:Gang Liu
+author organization:Department of Space Microwave Remote Sensing, Institute of Electronics, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2627578575|
+author name:Yunfeng Shao
+author organization:Department of Space Microwave Remote Sensing System, Institute of Electronics, Chinese Academy of Sciences, Beijing 100190, China
+author id:2463028176|
+]
+abstract:data|whole|flow|features|nonlocal|nonlocal|balance|biggest|find|drawback|modified|details|filtering|algorithm|order|phase|similar|image|proposes|steps|iterative|methods|preserve|real|utilizes|synthetic|traditional|effect|following|solve|processing|consideration|preserving|algorithms|taking|sar|crucial|experiments|recursive|denoising|paper|noise|invented|validate|problem|interferometric|texture|structures|image|great|outperforms|wipe|filter|interferometric|performance|mean|traditional|step|time
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Noise reduction|Computer vision|Radar imaging|Median filter|Computer science|Image texture|Non-local means|Iterative method|Synthetic aperture radar|Remote sensing|Filter (signal processing)|Artificial intelligence
+references:1592287264|2097073572|2099008772|2110764636|2117009774|2130754596|2136396015|2144176946|2152657318|2157141307
+
+
+id:2059947603
+title:Error Analysis of Bistatic SAR Imaging and Stereoscopy Bistatic SAR
+year:2013
+author information:[
+author name:Yunfeng Shao
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2463028176|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Yun Kai Deng
+author organization:Spaceborne Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Yue Liu
+author organization:Spaceborne Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2572281051|
+author name:Runpu Chen
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2164650606|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Timo Balz
+author organization:Wuhan University
+author id:1160624271|
+author name:Otmar Loffeld
+author organization:University of Siegen
+author id:61798749|
+]
+abstract:slightly|theoretical|precision|echo|experimental|influence|scene|analyzed|analyses|transmission|serious|quite|bistatic|model|advantages|results|transmitter|height|simulations|images|using|receiver|seriously|real|imaging|quality|estimation|synthetic|system|proposed|flexible|obtained|position|useful|degrades|analysis|configuration|sar|line|affect|error|sar|measurement|satisfactory|causes|verify|digital|elevation|length|trigger|many|dem|aperture|radar|synchronization|geometry|stereoscopy|design
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Computer vision|Transmitter|Radar imaging|Stereoscopy|Synthetic aperture radar|Length measurement|Remote sensing|Bistatic radar|Artificial intelligence|Passive radar|Mathematics|Observational error
+references:1983393650|1999963988|2043964752|2059543856|2096793484|2109896001|2119058657|2137316814|2141255630|2147894345|2151264810|2166520308|2170659359|2172080481
+
+
+id:2061078528
+title:Digital Elevation Model Reconstruction in Multichannel Spaceborne/Stationary SAR Interferometry
+year:2014
+author information:[
+author name:Yun Feng Shao
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2815750133|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Yun Kai Deng
+author organization:Spaceborne Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Yue Liu
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2572281051|
+author name:Runpu Chen
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2164650606|
+author name:Gang Liu
+author organization:Grad. University of Chinese Acad. of Sci
+author id:2627578575|
+author name:Timo Balz
+author organization:Wuhan University
+author id:1160624271|
+author name:Otmar Loffeld
+author organization:University of Siegen
+author id:61798749|
+]
+abstract:placed|reflected|echo|acts|approach|three|number|problem|experiment|bistatic|proof|order|height|phase|based|multichannel|large|method|propose|estimation|map|experimental|multibaseline|buildings|low|angle|verify|unwrapping|transmitter|disconnection|receive|initial|highresolution|aperture|radar|maximum|approach|spotlight|ratio|use|several|mode|presented|results|baselines|iterative|look|estimation|synthetic|posteriori|proposed|channels|solve|ground|demonstrate|configuration|sar|receivers|working|derived|highly|carried|effectiveness|signaltonoise|limited|interferometry|heights|typical|well|waveform
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Radar engineering details|Radar|Radar imaging|Synthetic aperture radar|Side looking airborne radar|Remote sensing|Inverse synthetic aperture radar|Bistatic radar|3D radar|Mathematics
+references:1977587250|2067977206|2082872258|2102710768|2109623104|2130204909|2132233458|2136223995|2141300959|2151264810|2158901733|2168596497
+
+
+id:2073608344
+title:Integrated Denoising and Unwrapping of InSAR Phase Based on Markov Random Fields
+year:2013
+author information:[
+author name:Runpu Chen
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2164650606|
+author name:Weidong Yu
+author organization:Institute of Electron., Beijing, China
+author id:2673811415|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Yunfeng Shao
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2463028176|
+]
+abstract:bring|approximations|without|via|observed|problem|inevitably|property|estimate|model|flow|defined|algorithm|knowledge|energy|phase|based|efficiency|simulated|informationinduced|traditional|value|processing|algorithm|mrf|taking|methods|experiments|priori|minimized|two|ones|denoising|noise|verify|unwrapping|relationship|phases|reconstructed|set|necessary|markov|following|single|interferometric|aperture|radar|elements|treat|data|several|used|upon|function|inferred|unwrapping|wrapped|always|obtain|hold|including|comparison|commonly|conducted|steps|successive|estimation|synthetic|observations|refers|proposed|true|fields|according|recovery|error|integrated|random|localindependence|extra|end|presumptions|rest|built|separated|unwrapped|structure|proposed|variable|step
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Noise reduction|Computer vision|Random variable|Markov process|Random field|Interferometric synthetic aperture radar|Synthetic aperture radar|Remote sensing|A priori and a posteriori|Markov chain|Artificial intelligence|Mathematics
+references:2007926043|2099008772|2099990809|2103071976|2117009774|2118353118|2118442249|2121947440|2122020906|2130204909|2132387013|2132861185|2144176946|2152657318|2155616886|2157141307|2158755508
+
+
+id:2079794553
+title:Multichannel InSAR DEM reconstruction through closed-form robust Chinese remainder theorem
+year:2012
+author information:[
+author name:Zhihui Yuan
+author organization:Department of Space Microwave Remote Sensing, Institute of Electronics, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2104110308|
+author name:Fei Li
+author organization:Department of Space Microwave Remote Sensing, Institute of Electronics, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2763031989|
+author name:Yunkai Deng
+author organization:Chinese Academy of Sciences Institute of Electronics Beijing China
+author id:2106627761|
+author name:Robert Wang
+author organization:Chinese Academy of Sciences Institute of Electronics Beijing China
+author id:2917633195|
+author name:Gang Liu
+author organization:Department of Space Microwave Remote Sensing, Institute of Electronics, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2627578575|
+]
+abstract:reconstruction|simulation|number|problem|multifrequency|profiles|model|terrain|results|acquired|us|height|based|new|using|multichannel|method|large|robustness|reconstruct|collection|exist|estimation|synthetic|theorem|traditional|proposed|likelihood|improve|solve|demonstrate|present|statistical|multibaseline|independent|methods|differential|highly|allows|digital|elevation|closedform|robust|enough|interferometric|dem|better|aperture|radar|performance|reconstruction|chinese|maximum|interferograms|sloped|uses|discontinuous|remainder
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Computer vision|Radar imaging|Interferometric synthetic aperture radar|Computer science|Synthetic aperture radar|Chinese remainder theorem|Remote sensing|Remainder|Inverse synthetic aperture radar|Robustness (computer science)|Digital elevation model|Artificial intelligence
+references:2042465044|2125267343|2141300959|2152185946|2165180801|2168596497|2170618847
+
+
+id:2090339259
+title:A Modification to the Complex-Valued MRF Modeling Filter of Interferometric SAR Phase
+year:2015
+author information:[
+author name:Hongyu Li
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2574051653|
+author name:Hongjun Song
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2306814766|
+author name:Robert Wang
+author organization:Institute of Electron., Beijing, China
+author id:2917633195|
+author name:Hui Wang
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2634997773|
+author name:Gang Liu
+author organization:Dept. of Space Microwave Remote Sensing, Institute of Electron., Beijing, China
+author id:2627578575|
+author name:Runpu Chen
+author organization:Space Microwave Remote Sensing Syst. Dept., Institute of Electron., Beijing, China
+author id:2164650606|
+author name:Xinglin Li
+author organization:Dept. of Space Microwave Remote Sensing Syst., Institute of Electron., Beijing, China
+author id:2161053252|
+author name:Yunkai Deng
+author organization:Institute of Electron., Beijing, China
+author id:2106627761|
+author name:Timo Balz
+author organization:Wuhan University
+author id:1160624271|
+]
+abstract:cmrf|modeling|data|residues|jumps|used|employed|reference|neighbors|phase|preserved|estimate|modified|method|model|filtering|weighted|phase|still|parameters|simulated|real|propose|estimation|synthetic|field|improve|leads|letter|solve|insufficient|simultaneously|divided|values|experiments|focuses|update|two|blocks|random|adaptive|parameter|map|validate|original|incorrect|markov|interferogram|aforementioned|neighbor|performed|residue|wrong|filter|aperture|radar|interferometric|performance|complexvalued|reduction|overlapped
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Pulse-Doppler radar|Computer vision|Radar imaging|Interferometric synthetic aperture radar|Synthetic aperture radar|Markov random field|Remote sensing|Filter (signal processing)|Inverse synthetic aperture radar|Artificial intelligence|Speckle noise|Mathematics
+references:2025530153|2096879042|2118353118|2131822952|2144176946|2156323486|2159200266|2169093991|2171699268
+

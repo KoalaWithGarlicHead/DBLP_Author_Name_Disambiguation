@@ -1,0 +1,2359 @@
+
+id:1604575892
+title:Software as a Service: An Integration Perspective
+year:2007
+author information:[
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+author name:Kuo Zhang
+author organization:IBM, China Research Lab
+author id:2638594963|
+author name:Shyh-Kwei Chen
+author organization:IBM T.J Watson Research Lab
+author id:2656484475|
+author name:Xin Zhang
+author organization:IBM, China Research Lab
+author id:2506263177|
+author name:Haiqi Liang
+author organization:IBM, China Research Lab
+author id:2145406405|
+]
+abstract:software|delivered|years|required|model|usually|recent|essence|gaining|practitioner|work|saas|way|come|contains|web|analyze|unique|integration|charged|much|become|tooling|logics|functional|extension|industry|modeldriven|key|address|business|one|makes|gaps|integrate|considering|framework|unified|summarize|approach|supported|data|lifecycle|features|academic|though|peruse|patterns|finally|gaps|runtime|adoptions|software|internet|facilitate|deployed|description|point|common|successful|integration|requirements|nonfunctional|introduce|service|subscriber|technology|momentum|existing|application|service|applications
+venue name:International Conference on Service Oriented Computing
+venue id:1158589615
+venue type:C
+document type:Conference
+study fields:Customer relationship management|Data mining|World Wide Web|Software engineering|Computer science|Service-level agreement|Software as a service|Software|Web service|Business data|The Internet
+references:32724943|1489479057|1629720397|2060773906|2120876973|2128025394|2154903633|2156658434
+
+
+id:1976891797
+title:Deliver Bioinformatics Services in Public Cloud: Challenges and Research Framework
+year:2011
+author information:[
+author name:Xi Sun
+author organization:IBM Res., Beijing, China
+author id:2290269111|
+author name:Liya Fan
+author organization:IBM
+author id:2170148525|
+author name:Linlin Yan
+author organization:Peking University
+author id:2477776035|
+author name:Lei Kong
+author organization:Peking University
+author id:2635971502|
+author name:Yang Ding
+author organization:Peking University
+author id:2636444642|
+author name:Changjie Guo
+author organization:IBM Res., Beijing, China
+author id:2661404100|
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+]
+abstract:projects|areas|researches|extremely|ongoing|domainspecific|based|propose|interdisciplinary|field|web|science|biological|environment|complexity|project|top|biologists|emerging|key|deployment|participants|computationally|business|one|solution|combines|tentative|services|many|lab|great|single|framework|deploying|information|summarize|first|discuss|data|several|developing|bioinformatic|research|drug|adhoc|analyses|cloud|brings|shown|bioinformatics|potential|computational|infrastructure|delivering|new|including|exploration|bench|already|often|done|technologies|efforts|techniques|bioinformatics|consumed|largest|private|technical|challenges|development|interactions|public|related|consumers|bioinformaticians|identify|introduce|also|although|intensive|existing|restricted|various|demands|applications
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Data science|Data mining|World Wide Web|Software deployment|Computer science|Information technology|Cloud computing security|Bioinformatics|Conceptual framework|Cloud computing
+references:1239375374|1510543252|1596333319|2009175282|2059276386|2119565742|2136290019|2137653635|2137966698|2173213060|2611927968
+
+
+id:1996472247
+title:A Non-intrusive Multi-tenant Database Software for Large Scale SaaS Application
+year:2011
+author information:[
+author name:Bo Gao
+author organization:IBM Research China Beijing, China
+author id:2308805936|
+author name:Wen Hao An
+author organization:IBM, China Research Lab, Beijing, China
+author id:2302988031|
+author name:Xi Sun
+author organization:IBM Research China Beijing, China
+author id:2290269111|
+author name:Zhi Hu Wang
+author organization:IBM Research China Beijing, China
+author id:2107982827|
+author name:Liya Fan
+author organization:IBM Research China Beijing, China
+author id:2170148525|
+author name:Chang Jie Guo
+author organization:IBM, Beijing
+author id:2150304549|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+]
+abstract:scalable|research|building|multitenant|optimization|different|potential|nonintrusive|development|identifies|compared|multitenant|saas|nonintrusive|propose|traditional|analyze|software|drive|greatly|characteristic|effective|total|database|challenges|paper|consumers|supporting|applications|key|requirements|cost|address|discussed|implementation|service|also|approaches|gaps|describes|designing|considerations|framework|performance|ownership|service|providers|scenario|migration|accelerates|novel|applications
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Data mining|Database tuning|Computer science|Total cost of ownership|Multitenancy|Software as a service|Software architecture|Database|Scalability|Cloud computing
+references:2043508455|2088306184|2117649838|2130972576|2137966698|2144702296
+
+
+id:2033165602
+title:BPEL4WS unit testing: framework and implementation
+year:2005
+author information:[
+author name:Zhongjie Li
+author organization:IBM China Res. Lab., China
+author id:2781073156|
+author name:Wei Sun
+author organization:IBM China Res. Lab., China
+author id:2530302537|
+author name:Zhong Bo Jiang
+author organization:IBM China Res. Lab., China
+author id:2147065756|
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+]
+abstract:illustrates|correct|language|whole|unit|experience|approach|building|research|standardsbased|lifecycle|reliable|terms|lack|offers|new|still|development|test|testing|proposes|includes|affected|quality|unit|web|flexible|topic|adopting|support|greatly|schema|tooling|critical|improved|guarantee|yet|example|paper|composition|design|orchestrating|debugging|processes|outline|creation|execution|process|processes|industry|business|implementation|multiple|services|efficiency|framework|management|approach|services
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Application lifecycle management|Test Management Approach|Business process|Computer science|Unit testing|Test design|Business Process Execution Language|Web service|Test strategy|Database
+references:1567629682|2059131026|2143271276|2154897437
+
+
+id:2041848781
+title:Towards Delivering Analytical Solutions in Cloud: Business Models and Technical Challenges
+year:2011
+author information:[
+author name:Xi Sun
+author organization:IBM Research China Beijing, China
+author id:2290269111|
+author name:Bo Gao
+author organization:IBM Research China Beijing, China
+author id:2308805936|
+author name:Yuzhou Zhang
+author organization:IBM Research China Beijing, China
+author id:2161683002|
+author name:Wenhao An
+author organization:IBM Research China Beijing, China
+author id:2095964394|
+author name:Heng Cao
+author organization:IBM Research China Beijing, China
+author id:2642783106|
+author name:Changjie Guo
+author organization:IBM Research China Beijing, China
+author id:2293700335|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+]
+abstract:play|increasingly|software|analytical|conducting|issues|required|analytical|complex|model|usually|hardware|models|models|service|propose|provide|environment|role|enterprise|deliver|modern|costly|key|deployment|decision|business|efficient|initial|incremental|summarize|supported|engagement|consumers|occasional|manageable|analytics|cloud|high|solution|business|potential|computational|new|solutions|addressed|ondemand|since|configuration|analytical|technical|costeffective|idea|solutions|hard|designed|delivery|cost|onpremises|identify|resources|also|requirement|performance|due|well|suitable|providers|customer
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:New business development|Artifact-centric business process model|Business case|Business analytics|Software engineering|Computer science|Knowledge management|Risk analysis (engineering)|Business model|Business process modeling|Business intelligence|Cloud computing
+references:1510543252|1548445892|1604575892|2109647623|2109703169|2119625792|2122465391|2130972576|2137966698|2157793635|2160040660|2169075700
+
+
+id:2055615358
+title:A Policy Framework for Collaborative Web Service Customization
+year:2006
+author information:[
+author name:Haiqi Liang
+author organization:IBM China Res. Lab., Beijing
+author id:2145406405|
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+author name:Zhongbo Jiang
+author organization:IBM China Res. Lab., Beijing
+author id:2850244866|
+]
+abstract:declare|approach|introduced|directives|complex|usually|defined|case|consumer|based|large|proposes|presented|accordingly|facilitating|apparent|accompanied|especially|granularity|functional|study|customization|serves|customizable|policies|structuralized|nonfunctional|requests|softwareasservice|paper|web|provider|declaring|scope|policies|supporting|make|consumer|policy|process|within|raised|specification|consumption|services|many|specific|programatical|wspolicy|way|framework|meet|capabilities|service|collaboration|requirements
+venue name:Service Oriented Software Engineering
+venue id:1135185882
+venue type:C
+document type:Conference
+study fields:Service design|World Wide Web|Service level objective|Computer science|Differentiated service|Service provider|Service level requirement|Web service|WS-Policy|Service delivery framework
+references:1492575550|1552113525|2060773906
+
+
+id:2059131026
+title:A Graph-Search Based Approach to BPEL4WS Test Generation
+year:2006
+author information:[
+author name:Yuan Yuan
+author organization:IBM, China
+author id:2586784736|
+author name:Zhongjie Li
+author organization:IBM, China
+author id:2973932322|
+author name:Wei Sun
+author organization:IBM
+author id:2677914530|
+]
+abstract:semantics|bfg|data|graphsearch|graphical|several|process|program|approach|defines|features|path|execution|generated|raise|method|programming|verification|case|business|based|using|test|kind|proposes|traversing||testing|graph|web|paths|deals|cases|finally|extension|solving|challenges|cfg|concurrent|language|paper|languages|effectively|bpel|model|concurrency|flow|special|services|constraint|combined|complete|represent
+venue name:International Conference on Software Engineering Advances
+venue id:1200099006
+venue type:C
+document type:Conference
+study fields:Programming language|Control flow graph|Computer science|Theoretical computer science|Concurrency semantics|Business Process Execution Language|Test case|Test data|Graphical model|Concurrent computing|Service-oriented architecture
+references:2043292640|2089148440|2911625174
+
+
+id:2101410884
+title:Practical Application of FDC in Software Service Pricing
+year:2006
+author information:[
+author name:Yan Zheng
+author organization:Tsinghua University
+author id:2648113237|
+author name:Rongzeng Cao
+author organization:IBM, China Research Lab
+author id:2991146771|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+author name:Kuo Zhang
+author organization:IBM, China Research Lab
+author id:2982318189|
+author name:Zhongbo Jiang
+author organization:IBM, China Research Lab
+author id:2982697798|
+]
+abstract:software|data|simple|industry|used|described|cost|retail|generalized|paper|price|modified|establishment|discrimination|feasible|thirddegree|process|practical|method|practice|proposes|service|analysis|service|distributed|fully|strategy|scm|pricing|involving
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Target costing|Data collection|Service (systems architecture)|Computer science|Retail industry|Knowledge management|Operations research|Price discrimination|Variable pricing|Supply chain management|Marketing
+references:2025094765
+
+
+id:2104157205
+title:An Effective Heuristic for On-line Tenant Placement Problem in SaaS
+year:2010
+author information:[
+author name:Yi Zhang
+author organization:Southeast University
+author id:2719058457|
+author name:Zhihu Wang
+author organization:IBM Research China Beijing, China
+author id:2690749293|
+author name:Bo Gao
+author organization:IBM Research China Beijing, China
+author id:2308805936|
+author name:Changjie Guo
+author organization:IBM Research China Beijing, China
+author id:2293700335|
+author name:Wei Sun
+author organization:Southeast University
+author id:2798510367|
+author name:Xiaoping Li
+author organization:University
+author id:2142831385|
+]
+abstract:called|simulation|sla|experimental|issues|without|maximize|number|multitenant|model|calculate|order|efficiency|multitenancy|algorithm|complexity|achieve|pattern|focuses|industry|optimally|customers|place|based|key|robust|explore|one|heuristic|online|violating|massive|databases|requirements|novel|supported|paper|needing|solved|good|high|placement|results|given|resource|onboarding|otpp|real|sharing|economies|estimation|proposed|software|fixed|problem|support|instances|show|total|tenant|paper|effectiveness|tenants|characteristics|aims|service|consumption|application
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Resource consumption|Heuristic|Computer science|Server|Software as a service|Software architecture|Operating system|Database|Economies of scale|Distributed computing
+references:1513424136|2080222368|2130972576|2137966698
+
+
+id:2110259346
+title:A Pattern-Based Design Approach for Subscription Management of Software as a Service
+year:2009
+author information:[
+author name:Zhongbo Jiang
+author organization:IBM China Res. Lab., Beijing
+author id:2850244866|
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+author name:Kai Tang
+author organization:Res. Lab., IBM China, Beijing, China
+author id:2240493336|
+author name:Jane L. Snowdon
+author organization:T. J. Watson Res. Center, IBM, Yorktown Heights, NY, USA
+author id:2136688868|
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+]
+abstract:software|therefore|approach|relationships|introduced|offering|model|case|models|partnership|method|made|saas|patternbased|analysis|propose|dependencies|web|appropriate|complexity|study|subscription|business|one|empower|partner|entities|elements|plan|first|supported|reselling|paper|saas|presented|consider|different|delivering|package|patterns|capture|mutual|involved|overall|software|usagebased|demonstrate|critical|subscription|decompose|according|provider|design|client|end|derived|offerings|effectiveness|subscribe|nature|appropriately|charging|multiple|crossselling|service|structure|application|management|service|various|interaction|essentially|services|design|existing
+venue name:IEEE Congress on Services
+venue id:2755267605
+venue type:C
+document type:Conference
+study fields:Service design|World Wide Web|Service level objective|Business service provider|Computer science|Differentiated service|Software as a service|Service level requirement|Application service provider|Service delivery framework|Process management
+references:2076994167|2117649838|2118109257|2119265078|2137966698|2160280759
+
+
+id:2112244512
+title:A Model-Driven Framework for Enabling Self-Service Configuration of Business Services
+year:2008
+author information:[
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+author name:Pei Sun
+author organization:IBM China Res. Lab., Beijing
+author id:2710143982|
+author name:Ying Huang
+author organization:Watson Res. Lab., IBM, Yorktown Heights, NY
+author id:2665354993|
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+]
+abstract:differentiations|modes|approach|selfservice|enable|options|model|diverse|validation|reduce|based|propose|delivery|adopt|become|shared|turned|one|minimized|across|modeldriven|customers|key|business|lifecycle|discussed|one|unify|combines|services|many|automated|framework|meet|associated|efficiently|wizard|operation|adopted|novel|paper|offerings|rulebased|lifecycle|features|networkdelivered|technologies|parameters|ease|configuration|configuration|platform|effective|operations|common|end|offerings|highly|successful|effectiveness|delivery|costs|requirements|multiple|perform|costs|configure|approaches|technology|seeking|management|service|various|providers|infrastructure|automate|attention|challenge|automated|providers
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Service design|Service level objective|Enhanced Telecom Operations Map|Computer science|Service system|Knowledge management|Service provider|Differentiated service|Service level requirement|Service delivery framework|Database|Process management
+references:1497013399|1520316986|1596716486|1975571519|2026696172|2084201414|2114809327|2152612442|2163213750
+
+
+id:2113331580
+title:Research on Tenant Placement Based on Business Relations
+year:2010
+author information:[
+author name:Kai Tang
+author organization:IBM Research China Beijing, China
+author id:2240493336|
+author name:Zhong Bo Jiang
+author organization:IBM Research China Beijing, China
+author id:2147065756|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+author name:Xin Zhang
+author organization:IBM Research China Beijing, China
+author id:2506263177|
+author name:Wei Shan Dong
+author organization:IBM Research China Beijing, China
+author id:2097253510|
+]
+abstract:data|several|process|lifecycle|problem|balance|optimize|presented|operation|host|method|model|tenant|algorithm|based|workload|crosstenant|resource|multitenancy|multitenancy|saas|presented|capture|utilization|becomes|formal|estimation|softwareasaservice|placement|basic|server|access|critical|comes|characteristic|factors|result|database|servers|paper|supporting|according|minimize|center|affects|workload|framework|suggestions|discuss|determinant
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Data mining|Data modeling|Computer science|Workload|Server|Multitenancy|Software as a service|Resource allocation|Database server|Data access|Database
+references:1513424136|2038345112|2081158994|2088306184|2110259346|2121852392|2137966698|2144702296
+
+
+id:2117649838
+title:Software as a Service: Configuration and Customization Perspectives
+year:2008
+author information:[
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+author name:Chang Jie Guo
+author organization:IBM China Res. Lab., China
+author id:2698610690|
+author name:Pei Sun
+author organization:IBM China Res. Lab., Beijing
+author id:2710143982|
+author name:Hui Su
+author organization:IBM China Res. Lab., China
+author id:2127534966|
+]
+abstract:big|software|variants|changing|issues|without|enable|model|usually|plan|customer|based|still|multitenancy|saas|economy|easy|benefit|web|unique|difference|evaluate|clients|customization|competency|subscription|get|customers|architecture|business|explore|strategies|many|great|help|framework|ask|self|clarify|customization|serve|source|developed|function|vendors|though|needs|individual|need|sharing|take|software|code|configuration|challenges|according|functionalities|due|provides|standardized|designed|highly|delivery|amount|capabilities|application|service|infrastructure|well|scale|strategy|methodology
+venue name:IEEE Congress on Services
+venue id:2755267605
+venue type:C
+document type:Conference
+study fields:Mass customization|Software engineering|Service (systems architecture)|Application sharing|Computer science|Knowledge management|Software as a service|Software|Web application|Web service|Personalization
+references:2137966698
+
+
+id:2118193716
+title:A Policy-Driven Approach for Software-as-Services Customization
+year:2007
+author information:[
+author name:Kuo Zhang
+author organization:Peking University Peking
+author id:2652451381|
+author name:Xin Zhang
+author organization:Peking University
+author id:2661502731|
+author name:Wei Sun
+author organization:Peking University
+author id:2530302537|
+author name:Haiqi Liang
+author organization:Peking University Peking
+author id:2918685600|
+author name:Ying Huang
+author organization:Peking University
+author id:2684340157|
+author name:Liangzhao Zeng
+author organization:Peking University Peking
+author id:2171257868|
+author name:Xuanzhe Liu
+author organization:Peking University
+author id:2126677274|
+]
+abstract:software|usage|designtime|approach|issues|billing|number|complex|specifically|case|reduce|based|compared|going|traditional|concepts|web|etc|following|unique|environment|tooling|deal|study|customization|eliminate|manual|result|distinctive|verify|emerging|policy|include|soa|could|services|leveraged|framework|ownership|extensively|handled|approach|novel|adhoc|new|sas|runtime|software|proposed|software|benefits|issue|provided|total|supporting|effectiveness|delivery|cost|technologies|consumption|realized|also|application|service|significantly|pricing
+venue name:Congress on Evolutionary Computation
+venue id:1200052134
+venue type:C
+document type:Conference
+study fields:Mass customization|Computer science|Software|Artificial intelligence|Application software|The Internet|Personalization|Software engineering|Total cost of ownership|Web service|Service-oriented architecture|Database|Machine learning
+references:32724943|121678118|1492575550|1552113525|2060773906|2108312234|2139146203
+
+
+id:2118482323
+title:A Dynamic Resource Allocation Algorithm for Database-as-a-Service
+year:2011
+author information:[
+author name:Jie Zhu
+author organization:Southeast University
+author id:2584241210|
+author name:Bo Gao
+author organization:IBM Research China Beijing, China
+author id:2308805936|
+author name:Zhihu Wang
+author organization:IBM Research China Beijing, China
+author id:2690749293|
+author name:Berthold Reinwald
+author organization:IBM USA
+author id:1980638931|
+author name:Changjie Guo
+author organization:IBM Research China Beijing, China
+author id:2293700335|
+author name:Xiaoping Li
+author organization:University
+author id:2142831385|
+author name:Wei Sun
+author organization:IBM
+author id:2798510367|
+]
+abstract:introduces|dichotomy|sla|periodically|entire|tolerating|maximize|number|problem|price|model|tenant|algorithm|still|efficiency|burstiness|large|dbaas|active|utilization|propose|population|experiments|consume|across|low|share|violations|minimize|resources|problem|workload|framework|constraint|runs|conceptually|databaseasaservice|residual|optimize|modified|dynamic|avoiding|predicted|resource|level|agreements|synthetic|proposed|demonstrate|performed|additional|according|point|provider|behavior|unbounded|fairness|effectiveness|tenants|allocation|subscribe|resources|reallocates|service|knapsack|risk|assign
+venue name:International Conference on Web Services
+venue id:1202201565
+venue type:C
+document type:Conference
+study fields:Resource management|Population|Service level|Computer science|Multitenancy|Burstiness|Resource allocation|Knapsack problem|Dynamic priority scheduling|Distributed computing
+references:2086362629|2088306184|2099404265|2100779981|2137966698|2146787480|2168704265
+
+
+id:2120146528
+title:Towards Service Composition Based on Mashup
+year:2007
+author information:[
+author name:Xuanzhe Liu
+author organization:Peking University
+author id:2126677274|
+author name:Yi Hui
+author organization:IBM, China Research Lab, Beijing, China
+author id:2714025695|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+author name:Haiqi Liang
+author organization:IBM, China Research Lab
+author id:2918685600|
+]
+abstract:developers|facilitates|composite|model|case|ad|compared|composition|propose|extend|traditional|web|flexible|compose|analyze|hoc|study|industry|two|current|web|composition|free|soa|topics|makes|draw|services|academia|easyofuse|entirely|bpei|help|component|mashup|contributions|data|retrieved|simplifies|upon|wish|mashup|discusses|attracts|create|hallmark|new|given|illustrate|users|external|refers|leverage|sources|mashup|content|paper|provides|task|consumers|allows|interesting|also|technology|way|service|well|services|applications
+venue name:IEEE Congress on Services
+venue id:2755267605
+venue type:C
+document type:Conference
+study fields:Mashup|Architecture|World Wide Web|Object-oriented programming|Computer science|Web 2.0|Web application|Software architecture|Web service|Service-oriented architecture
+references:2133986878
+
+
+id:2130972576
+title:A Study and Performance Evaluation of the Multi-Tenant Data Tier Design Patterns for Service Oriented Computing
+year:2008
+author information:[
+author name:Zhi Hu Wang
+author organization:IBM China Res. Lab., Beijing
+author id:2107982827|
+author name:Chang Jie Guo
+author organization:IBM China Res. Lab., China
+author id:2150304549|
+author name:Bo Gao
+author organization:IBM China Res. Lab., Beijing
+author id:2308805936|
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+author name:Zhen Zhang
+author organization:IBM China Res. Lab., Beijing
+author id:2530447974|
+author name:Wen Hao An
+author organization:IBM China Res. Lab., Beijing
+author id:2302988031|
+]
+abstract:scalable|provider|data|usage|secure|mainly|via|multitenant|optimization|different|potential|tier|identifies|models|multitenancy|patterns|multitenancy|isolation|economy|simulations|technologies|especially|etc|software|oriented|drive|evaluate|leverage|study|customization|experiments|aspects|scale|best|scalability|computing|total|security|paper|tier|design|key|consumer|characteristics|cost|aims|explore|business|one|implementation|service|also|approaches|practices|performance|ownership|build|corresponding|service|series|summarizes|first
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Software engineering|Computer science|Total cost of ownership|Multitenancy|Software design pattern|Software as a service|Software architecture|Service-oriented architecture|Personalization|Scalability
+references:1599307916|2137966698|2144702296|2159667548
+
+
+id:2133545832
+title:Applying Pattern Approach for Solution Architecture Design: A Case Study in Retail Solution
+year:2008
+author information:[
+author name:Xin Zhang
+author organization:IBM, China Research Lab
+author id:2506263177|
+author name:Zhongjie Li
+author organization:IBM, China Research Lab
+author id:2781073156|
+author name:Wei Sun
+author organization:IBM
+author id:2530302537|
+author name:Zhongbo Jiang
+author organization:IBM, China Research Lab
+author id:2850244866|
+author name:J. Adams
+author organization:IBM, China Research Lab
+author id:2974659780|
+author name:P. Verschueren
+author organization:IBM, China Research Lab
+author id:2973480797|
+]
+abstract:preverified|software|several|ebusiness|far|wellorganized|engineering|different|investigated|case|knowledge|phase|still|architecture|already|patterns|widely|capture|real|principles|systematically|architecture|reuse|framework|study|critical|pattern|fundamental|retail|layered|lot|across|structural|ibm|organize|behavioral|provides|design|among|phases|architecture|applying|highquality|apply|effectively|introduce|lacking|solution|also|although|satisfaction|designing|framework|application|report|architectural|design|methodology|essential
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Applications architecture|Software engineering|Computer science|Structural pattern|Interaction design pattern|Solution architecture|Software design pattern|Reference architecture|Enterprise architecture framework|Architectural pattern
+references:2082897112|2140922909
+
+
+id:2137966698
+title:A Framework for Native Multi-Tenancy Application Development and Management
+year:2007
+author information:[
+author name:Chang Jie Guo
+author organization:IBM, Beijing
+author id:2150304549|
+author name:Wei Sun
+author organization:IBM
+author id:2798510367|
+author name:Ying Huang
+author organization:IBM T.J. Watson research center
+author id:2973430159|
+author name:Zhi Hu Wang
+author organization:IBM China Research Laboratory, Beijing
+author id:2107982827|
+author name:Bo Gao
+author organization:Wang
+author id:2308805936|
+]
+abstract:multitenant|identified|leveraging|margin|large|multitenancy|efficiently|tenant|quality|provide|etc|among|simultaneously|safeguard|clients|achieve|explores|pattern|guarantee|serving|native|share|key|hand|set|one|services|many|people|help|framework|future|economic|essential|administration|research|points|high|implement|potential|already|multitenancy|real|experiences|volume|principles|parts|present|support|higher|challenges|aspects|network|paper|common|due|design|profit|isolations|delivery|tenants|applying|requirements|competencies|technology|requirement|approaches|better|application|service|achieved|scale
+venue name:Congress on Evolutionary Computation
+venue id:1200052134
+venue type:C
+document type:Conference
+study fields:Service quality|Computer science|Outsourcing|Multitenancy|Quality of service|Profit margin|Risk analysis (engineering)|Artificial intelligence|Application software|Software quality|Machine learning|Service-oriented architecture
+references:1688809187|2100844052
+
+
+id:2145011047
+title:BPEL4WS Unit Testing: Test Case Generation Using a Concurrent Path Analysis Approach
+year:2006
+author information:[
+author name:J. Yan
+author organization:Institute of Software Chinese Acad. of Sci., Beijing
+author id:2628341349|
+author name:Zhongjie Li
+author organization:IBM, China Research Lab
+author id:2973932322|
+author name:Yuan Yuan
+author organization:IBM, China
+author id:2586784736|
+author name:Wei Sun
+author organization:IBM
+author id:2677914530|
+author name:Jian Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2528421270|
+]
+abstract:criteria|tested|extended|program|constraints|path|number|complex|applied|case|reduce|based|method|testing|traditional|graph|xcfg|cases|experiments|finally|solvers|extension|concurrent|current|business|languages|efficient|could|modularized|bpel|bonus|possible|many|flow|constraint|combined|novel|first|represent|generates|sound|rived|language|express|used|presented|feasible|adaption|generate|solver|test|applicable|paths|proposed|paths|techniques|solve|analysis|con|behaviors|sequential|de|control|paper|process|also|form|various|uses|presents
+venue name:International Symposium on Software Reliability Engineering
+venue id:1157832733
+venue type:C
+document type:Conference
+study fields:Automatic test pattern generation|Test Management Approach|Control flow graph|Computer science|Unit testing|Algorithm|White-box testing|Real-time computing|Test case|Basis path testing|Reliability engineering|Test data generation
+references:1587303597|1602672367|2033165602|2043292640|2083944725|2088192118|2099645986|2101512909|2147109705|2159765571|2911625174
+
+
+id:2160040660
+title:Design Aspects of Software as a Service to Enable E-Business through Cloud Platform
+year:2010
+author information:[
+author name:Wei Sun
+author organization:IBM Res., Beijing, China
+author id:2530302537|
+author name:ChangJie Guo
+author organization:Res. Lab., IBM China, Beijing, China
+author id:2661404100|
+author name:Zhongbo Jiang
+author organization:IBM China Res. Lab., Beijing
+author id:2850244866|
+author name:Xin Zhang
+author organization:IBM Res. China, China
+author id:2506263177|
+author name:Ning Duan
+author organization:Res. Lab., IBM China, Beijing, China
+author id:2150641102|
+author name:Ying Huang
+author organization:IBM China Res. Lab., Beijing
+author id:2579413441|
+author name:Yue Da Xiong
+author organization:Res. Lab., IBM China, Beijing, China
+author id:2230852968|
+]
+abstract:leading|run|supply|building|research|reference|growing|number|accounting|enable|different|guide|development|solutions|saas|patterns|perspectives|however|real|provide|etc|software|demonstrate|environment|leverage|technical|ebusiness|aspects|platform|effective|capability|adoption|paper|related|design|studies|relationship|value|architecture|enabling|chain|implications|business|industries|could|studied|sample|summarized|services|manage|instantiated|form|corresponding|activities|cloud|typical|operation|finance|customer|applications
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Customer relationship management|Electronic business|Business process|Reference model|Computer science|Knowledge management|Software as a service|Software|Supply chain management|Marketing|Process management|Cloud computing
+references:2077200369|2104157205|2110259346|2117649838|2145961871|2151464340|2162305756
+
+
+id:1569297152
+title:Blind Image Watermark Analysis Using Feature Fusion and Neural Network Classifier
+year:2008
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:copyright|nonwatermarked|used|construct|procedures|watermarked|characteristics|whether|rbf|based|images|watermark|method|past|made|kind|effective|develop|schemes|analysis|recognize|intrinsic|propose|watermarking|fusion|efforts|proposed|techniques|used|multiscale|classify|blind|statistical|images|numerical|scheme|neural|methods|show|protection|matter|networks|two|general|feature|embedding|designed|digital|authentication|detection|characteristics|specific|great|describes|simulations|multimedia|corresponding
+venue name:International Symposium on Neural Networks
+venue id:1161424158
+venue type:C
+document type:Conference
+study fields:Computer vision|Feature fusion|Digital watermarking|Authentication|Pattern recognition|Neural network classifier|Computer science|Watermark|Artificial intelligence|Artificial neural network|Watermark embedding
+references:2080348090|2116166670|2116467012|2153615901|2155447586
+
+
+id:1995134417
+title:Blind image watermark analysis using higher order statistics
+year:2010
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:copyright|products|called|nonwatermarked|support|experimental|watermarked|symmetrical|order|based|images|watermark|method|past|made|effective|propose|watermarking|statistical|images|numerical|scheme|methods|protection|matter|two|local|vector|embedding|detection|great|describes|steganalysis|existence|used|characteristics|differentiate|autocorrelations|results|verification|image|kind|develop|intrinsic|discrete|efforts|proposed|techniques|used|wavelet|higher|classify|show|detect|content|general|transform|designed|digital|characteristics|specific|corresponding|watermarking|machines
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Frequency domain|Computer vision|Digital watermarking|Computer science|Higher-order statistics|Support vector machine|Image processing|Watermark|Artificial intelligence|Discrete wavelet transform|Steganalysis
+references:2020273020|2028931872|2089361008|2116166670|2116467012|2153615901|2153715559|2155447586
+
+
+id:2004180787
+title:Digital image splicing detection based on approximate run length
+year:2011
+author information:[
+author name:Zhongwei He
+author organization:Sun Yat-sen University
+author id:2492753620|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:accuracy|image|approach|integrity|experiment|splicing|severely|dwt|based|images|using|methods|images|scheme|achieve|fundamental|matrix|vector|compared|detection|reconstructed|authenticity|gradient|great|predicterror|machine|threatens|features|approximate|fewer|run|features|importance|edge|high|calculated|results|computational|obtain|image|less|histogram|length|proposed|exploited|improve|relatively|demonstrate|support|classify|applied|spliced|detect|common|along|artifact|cost|constructed|length|specific|direction|authentic
+venue name:Pattern Recognition Letters
+venue id:151820558
+venue type:J
+document type:Journal
+study fields:Histogram|Computer vision|Image gradient|Feature detection (computer vision)|Pattern recognition|Edge detection|Characteristic function (probability theory)|Computer science|Matrix (mathematics)|Support vector machine|Digital image|Artificial intelligence
+references:1536019179|1544446329|1598042417|1728778629|2061395358|2080403050|2104116677|2130602271|2131499030|2144113691|2145015841|2153635508|2167663652
+
+
+id:2010867994
+title:Secure Binary Image Steganography Based on Minimizing the Distortion on the Texture
+year:2015
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2755076076|
+author name:Wei Sun
+author organization:Sun-Yat Sen University
+author id:2719266572|
+]
+abstract:stateoftheart|without|cover|visual|capacity|distortion|developed|images|testing|superpixels|quality|binary|flipping|scrambled|dividing|statistical|scheme|syndrometrellis|achieve|sum|local|measurement|statistics|vector|embedding|based|demonstrated|distortions|crmiltp|minimize|texture|steganographic|one|steganalyzers|degrading|first|pixel|describe|data|generates|simple|secure|employed|consider|weighted|results|image|experimental|patterns|presented|extract|measure|proposed|techniques|distortion|code|according|changes|show|security|human|pixel|designed|aims|practical|constructed|mirroringinvariant|corresponding|well|attacked
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Steganography|Computer vision|Embedding|Pattern recognition|Computer science|Image texture|Human visual system model|Binary image|Image quality|Pixel|Artificial intelligence|Distortion
+references:103335665|1512190422|1534147215|1568107467|1786559196|1806317803|1955882805|1979088303|2001358514|2001375358|2015865004|2024256921|2031928283|2048398911|2086881506|2096171208|2101307524|2112215040|2114072031|2120293227|2130667149|2133722030|2134527668|2137642015|2142798152|2146837576|2152215057|2160699771|2163352848|2169552486|2542290803
+
+
+id:2024161964
+title:Revealing digital fakery using multiresolution decomposition and higher order statistics
+year:2011
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2792521946|
+author name:Fu-Lai Chung
+author organization:Hong Kong Polytech University
+author id:2469582652|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:forgeries|extracted|without|advance|evidence|model|order|images|using|natural|easy|processing|obtained|complexity|statistical|images|scheme|differences|experiments|local|valid|computer|known|multiresolution|decreased|vector|demonstrating|detection|product|computation|believable|fake|first|clues|graphics|used|features|differentiate|digitization|leave|autocorrelations|create|directly|photographic|inner|longer|proposed|support|higher|records|show|decomposition|fakery|integrated|computing|features|digital|artificial|proposed|machines
+venue name:Engineering Applications of Artificial Intelligence
+venue id:900972176
+venue type:J
+document type:Journal
+study fields:Computer vision|Digitization|Digital forensics|Computer science|Support vector machine|Higher-order statistics|Image analysis|Digital image|Artificial intelligence|Computer graphics|Machine learning|Computation complexity
+references:1515615411|1533211791|1536019179|1544446329|1592017742|1728778629|2010931541|2028931872|2047450400|2080403050|2081698350|2099013489|2104116677|2108217176|2113267006|2114980280|2130602271|2155180118|2168792050
+
+
+id:2031113561
+title:Watermark-based digital fake image detection
+year:2010
+author information:[
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2673103155|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2722371595|
+]
+abstract:becoming|considered|extracted|introduced|whether|different|trueness|results|order|image|based|images|watermark|method|encouraging|real|experimental|preprocessing|altered|longer|proposed|one|events|locate|examine|show|guarantee|recording|detect|area|valid|digital|detection|original|also|popular|performance|able|fake
+venue name:Journal of Computer Applications in Technology
+venue id:119870768
+venue type:J
+document type:Journal
+study fields:Computer vision|Digital watermarking|Electronic security|Image sensor|Image detection|Digital image|Watermark|Artificial intelligence|Engineering
+references:1515615411|1728778629|2010428781|2064933152|2130602271
+
+
+id:2052331844
+title:Novel robust image watermarking based on subsampling and DWT
+year:2012
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:frames|achieves|used|construct|blockwised|dwt|watermarked|good|subimage|collusion|experiment|subimages|results|dwt|image|based|repeatedly|using|watermark|satisfied|robustness|subsampling|watermarking|distortions|sequence|segment|correlation|proposed|domain|geometric|processing|demonstrate|scheme|jpeg|video|technique|distribution|random|computing|paper|common|firstly|embedded|digital|robust|linear|subsampling|also|detected|gaussian|operation|presents|attacks
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Computer vision|Digital watermarking|Pattern recognition|Computer science|Image processing|Robustness (computer science)|Watermark|Digital image watermarking|Gaussian|Artificial intelligence|Jpeg compression
+references:1556802020|1567800375|1973110771|1987406538|1994399628|2008210931|2037059691|2039222099|2094235786|2095948462|2101923235|2102645811|2103320971|2106426828|2110623466|2113183384|2113654250|2116467012|2125671325|2129686661|2133907445|2134395079|2151686053|2158518777|2159430622|2160921333|2166212353
+
+
+id:2068656974
+title:Binary image steganalysis based on pixel mesh Markov transition matrix
+year:2015
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing 100093, China
+author id:2955649905|
+]
+abstract:reliably|meshesthe|stego|textural|experimental|stateoftheart|developed|approach|measures|shrinking|presented|raises|spatial|simulate|results|image|based|consistencythe|method|already|steganalytic|reliably|consistency|proposed|steganography|among|binary|final|binary|obtained|formed|distortion|systems|scheme|according|detect|matrix|feature|systems|meshes|dependence|embedding|pixel|demonstrating|mesh|dimensionalityreduced|pmmtm|detection|set|practical|markov|texture|effectively|structures|detects|requirement|domain|structure|transition|performance|organized|well
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Steganography|Computer vision|Embedding|Pattern recognition|Stochastic matrix|Binary image|Markov chain|Pixel|Artificial intelligence|Steganalysis|Distortion|Mathematics
+references:103335665|1541591257|1565541031|1567885397|1969171557|1979088303|2001358514|2001375358|2009130368|2015865004|2015958747|2037956730|2044465660|2048398911|2076342172|2101166552|2101307524|2106663508|2112215040|2120587770|2123170991|2130667149|2132549764|2133722030|2134527668|2137642015|2139438093|2142798152|2146837576|2153635508|2285039347|2542290803|2543610564
+
+
+id:2077774758
+title:Novel steganographic method based on generalized K-distance N-dimensional pixel matching
+year:2015
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+]
+abstract:stateoftheart|cover|generalized|optimization|developed|algorithm|kddistance|efficiency|codeword|compared|models|achieved|quality|contrast|adopting|embeds|relative|larger|statistical|k|scheme|matchingbased|k|choosing|n|matching|capacity|security|table|vector|embedding|table|steganographic|namely|combining|comparable|performs|dimensional|contentfree|reference|high|optimize|function|minkowski|digit|image|ndimensional|orderd|successive|proposed|used|distortion|concept|benefited|nearly|provides|iteration|pixel|assignment|length|arbitrary|bary|maximal|approaches|distancemeasured|better|contentbased|proposed|suitable|strategy
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Steganography|Embedding|Pattern recognition|Computer science|Image quality|Minkowski space|Pixel|Code word|Artificial intelligence|Distortion|Reference table
+references:1528207269|1568107467|1577368389|1955882805|2001351602|2009130368|2015958747|2019485468|2028383827|2036190666|2041560266|2065135852|2106663508|2118296934|2122361019|2124664712|2151346626|2158320630|2542290803
+
+
+id:2085095116
+title:Region duplication detection based on Harris corner points and step sector statistics
+year:2013
+author information:[
+author name:Likai Chen
+author organization:Sun Yat-sen University
+author id:2151458143|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Jiangqun Ni
+author organization:Sun Yat-Sen University
+author id:2920284227|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Jiwu Huang
+author organization:University
+author id:2152485540|
+]
+abstract:forgeries|detected|corner|algorithm|based|using|images|method|work|blockmatching|matched|circle|regions|methods|two|feature|detection|robust|may|vector|harris|operation|novel|statistics|represent|small|forged|reveal|transformations|several|simple|developed|points|exhaustive|sector|results|image|experimental|degradations|duplicate|gone|important|pixels|proposed|transformations|region|region|bestbinfirst|show|description|around|point|effective|general|transform|interest|regions|coefficients|digital|geometrical|effectively|also|duplication|existing|forensics|proposed|step
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Corner detection|Feature detection (computer vision)|Best bin first|Digital image|Artificial intelligence|Circle of a sphere|Digital image forensics|Computer vision|Feature vector|Pattern recognition|Pixel|Statistics|Mathematics
+references:1728778629|2002443812|2007847421|2037801532|2041506154|2096077837|2111308925|2119605622|2119952502|2127424286|2137405310|2151103935|2153361333|2153809950
+
+
+id:2089818991
+title:Digital image splicing detection based on Markov features in DCT and DWT domain
+year:2012
+author information:[
+author name:Zhongwei He
+author organization:Sun Yat-sen University
+author id:2492753620|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Jiwu Huang
+author organization:University
+author id:2152485540|
+]
+abstract:fulfill|stateoftheart|image|approach|three|experiment|block|splicing|intrablock|dwt|based|images|using|method|dependency|probability|tampering|methods|correlation|selection|among|svmrfe|domain|interblock|fundamental|kinds|across|feature|vector|detection|al|dimensionalityreduced|need|markov|vector|great|transition|characterize|machine|used|features|generated|shi|results|computational|image|manageable|making|orientations|capture|et|task|proposed|dct|exploited|scales|wavelet|final|demonstrate|support|trust|classify|spliced|detect|expanded|common|coefficients|matrices|digital|artifact|outperform|recover|original|cost|constructed|also|specific|authentic|coefficients
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Feature vector|Feature detection (computer vision)|Pattern recognition|Feature selection|Markov chain|Support vector machine|Digital image|Discrete wavelet transform|Artificial intelligence|Mathematics|Wavelet
+references:162379618|1539647921|1544446329|1598042417|1728778629|1985729543|2004180787|2022692239|2024161964|2061395358|2080403050|2100156281|2104116677|2105086310|2113267006|2133743319|2137405310|2143426320|2144113691|2145015841|2153635508|2158162781|2158972589|2162963619|2167663652|2169439181
+
+
+id:2102645811
+title:Robust watermarking based on DWT and nonnegative matrix factorization
+year:2009
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:nmf|good|meaningful|dwt|image|using|watermark|factorized|watermarking|discrete|sequence|physically|proposed|following|wavelet|experiments|blind|scheme|achieve|decomposition|matrix|subband|paper|multiresolution|transformed|demonstrated|embedded|digital|robust|original|pseudorandom|nonnegative|also|factorization|domain|transformation|coefficients|gaussian|novel|presents
+venue name:Computers  Electrical Engineering
+venue id:121340289
+venue type:J
+document type:Journal
+study fields:Digital watermarking|Pattern recognition|Computer science|Digital image watermarking|Robustness (computer science)|Watermark|Gaussian|Non-negative matrix factorization|Factorization|Artificial intelligence|Wavelet
+references:1993395332|2017288758|2100493539|2116467012|2130855892|2135029798|2142621404|2146913572|2170503660
+
+
+id:2169713051
+title:Enriched Gabor Feature Based PCA for Face Recognition with One Training Image per Person
+year:2009
+author information:[
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hongtao Lu
+author organization:Jiao Tong University
+author id:2009627569|
+]
+abstract:use|insensitive|recognition|used|enriched|feret|per|gabor|generate|results|algorithm|based|image|images|making|using|experiment|widely
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Gabor wavelet|Computer science|Artificial intelligence|Contextual image classification|Wavelet transform|Computer vision|Facial recognition system|Feature vector|Pattern recognition|Three-dimensional face recognition|FERET database|Principal component analysis|Machine learning
+references:1605720786|1994297893|1997011019|2001947174|2035782554|2070343473|2085207288|2095189186|2095757522|2108211877|2113341759|2121647436|2165731615
+
+
+id:2198856134
+title:Robust image watermarking based on Tucker decomposition and Adaptive-Lattice Quantization Index Modulation
+year:2016
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Jiwu Huang
+author organization:Shenzhen University
+author id:2152485540|
+author name:Yun-Qing Shi
+author organization:New Jersey Institute of Tech., Newark, NJ, USA
+author id:2259538074|
+]
+abstract:distortionrobustness|considered|stateoftheart|bit|watermarked|without|adaptivelattice|slice|distortion|order|using|watermark|method|structural|robustness|quality|watermarking|adopting|obtained|scheme|computed|two|tradeoff|similarity|modulation|inspired|vector|embedding|minimizing|demonstrated|embedded|compared|robust|abstract|one|image|td|watermarks|degrading|frontal|strength|decomposition|index|good|high|attacks|host|results|image|experimental|core|proposed|improve|coarsest|carry|parameters|tucker|blind|provided|quantization|according|decomposition|representation|common|rate|provides|perceptual|optimal|control|schemes|tensor|lattice|contentbased|approximately|stable|coefficients|alqim|properties
+venue name:Signal Processing-image Communication
+venue id:38090728
+venue type:J
+document type:Journal
+study fields:Digital watermarking|Embedding|Tensor|Computer science|Perceptual Distortion|Image quality|Robustness (computer science)|Watermark|Theoretical computer science|Tucker decomposition
+references:1246381107|1496191571|1506345702|1577368389|1993144094|2008045962|2013912476|2068685839|2099633994|2101199037|2103320971|2105473101|2106154558|2107465879|2108726356|2111233756|2111992817|2122621581|2127915997|2127962607|2129344187|2131559909|2132712171|2133665775|2137394636|2140129132|2147015321|2157410860|2161949547|2164654926|2168725090
+
+
+id:2285039347
+title:High Capacity Data Hiding Scheme for Binary Images Based on Minimizing Flipping Distortion
+year:2013
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2755076076|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2719266572|
+]
+abstract:measured|cluster|data|considered|stego|good|hiding|high|connectivity|presented|visual|distortion|results|image|postprocesses|images|experimental|handle|quality|pixels|proposed|possesses|binary|systematically|flipping|demonstrate|evaluate|distortion|boundary|scheme|unexpected|function|contexts|embedding|capacity|preprocesses|low|minimizes
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Steganography|Computer vision|Embedding|Computer science|Binary image|Distortion function|Information hiding|Theoretical computer science|Pixel|Artificial intelligence|Distortion
+references:2001358514|2015865004|2112215040|2120293227|2130667149|2133722030|2134527668|2154026545|2543610564
+
+
+id:2398760969
+title:Steganography Based on High-Dimensional Reference Table
+year:2014
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2755076076|
+author name:Lu Dai
+author organization:Sun Yat-sen University
+author id:2303026159|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2719266572|
+]
+abstract:dimensional|distancebased|reference|cover|high|optimize|employs|search|euclidean|embed|similar|mapping|efficiency|images|maps|codeword|achieved|steganography|tablebased|algorithm|proposed|set|neighborhood|distortion|relative|higher|notational|appropriate|scheme|values|show|video|choosing|experiments|capacity|grayscale|due|provides|causes|vector|embedding|compared|effectiveness|set|approaches|introduce|arbitrary|scheme|onebyone|elements|suitable|strategy
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Computer vision|Steganography|Search algorithm|Embedding|Computer science|Euclidean distance|Information hiding|Algorithm|Artificial intelligence|Reference table|Distortion|Grayscale
+references:22271197|1568107467|1760530029|1855479288|1955882805|1981864489|1984914622|2006711727|2009130368|2019485468|2020806646|2028383827|2045254342|2065135852|2069994443|2096050104|2106663508|2118296934|2123170991|2151346626|2158320630|2542290803|2576355915
+
+
+id:2399691699
+title:Content-Adaptive Residual for Steganalysis
+year:2014
+author information:[
+author name:Xu Lin
+author organization:Sun Yat-sen University
+author id:2652842904|
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2755076076|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2719266572|
+]
+abstract:hugo|textural|residual|collected|used|three|good|areas|employs|lsb|calculate|spatial|different|image|method|testing|finally|yielded|steganalytic|proposed|steganography|detecting|predictors|algorithms|contentadaptive|concept|show|kinds|experiments|grayscale|effective|cooccurrence|paper|feature|reported|matrices|pixel|performances|popular|responded|set|steganographic|lowdimensional|segmented|domain|residuals|yields|first|features|presents
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Computer vision|Content adaptive|Residual|Steganography|Computer science|Matrix (mathematics)|Feature set|Artificial intelligence|Pixel|Steganalysis|Grayscale
+references:22271197|29798142|1497964309|1955882805|2009130368|2012300482|2041651059|2076312302|2106663508|2124664712|2151346626|2153635508|2158320630|2161022751|2164027883|2542290803
+
+
+id:2418157418
+title:Blind Watermarking Based on Adaptive Lattice Quantization Index Modulation
+year:2015
+author information:[
+author name:Bingwen Feng
+author organization:Sun Yat-sen University
+author id:2109805521|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2719266572|
+author name:Zhuoqian Liang
+author organization:Jinan University
+author id:2695408473|
+author name:Juan Liu
+author organization:Jinan University
+author id:2685676750|
+]
+abstract:acceptable|strength|index|compensative|required|without|loss|host|signal|results|element|compared|experimental|adapt|proposes|robustness|weight|handle|encoder|maintaining|tool|important|proposed|level|demonstrate|weightedmeansquared|distortion|blind|superiority|quantization|according|lqim|global|fidelity|error|tradeoff|robustness|local|measurement|adaptive|paper|modulation|provides|perceptual|term|embedding|value|minimizes|characteristics|set|scheme|lattice|decoder|better|watermarking|associated|traditional|certain
+venue name:International Workshop on Digital Watermarking
+venue id:1200343872
+venue type:C
+document type:Conference
+study fields:Computer vision|Digital watermarking|Fidelity|Embedding|Computer science|Perceptual Distortion|Algorithm|Robustness (computer science)|Encoder|Artificial intelligence|Distortion|Signal element
+references:1506345702|1577368389|1983088650|2008045962|2107465879|2109315325|2111233756|2111992817|2122621581|2127962607|2129344187|2129353155|2132712171|2133665775|2140129132|2147015321|2150318848|2155905926|2160921333|2164654926|2170151472
+
+
+id:2527571981
+title:Keypoint-based copy-move detection scheme by adopting MSCRs and improved feature matching
+year:2017
+author information:[
+author name:Jingwei Li
+author organization:Sun Yat-sen University
+author id:2562555704|
+author name:Fan Yang
+author organization:Sun Yat-sen University
+author id:2705115300|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+]
+abstract:cluster|copied|existence|stateoftheart|developed|improved|features|find|hierarchical|zernike|estimate|represented|results|algorithm|based|image|similar|method|considering|experimental|groups|extract|proposed|especially|bestmatching|maximally|level|region|detector|deal|regions|color|scheme|applied|detect|multiplecopied|matching|duplicated|effective|copymove|indicate|matrices|based|pixel|detection|copymove|problem|multiple|image|moments|transformation|n|forgery|outperforms|confirm|stable|located|strategy|techniques
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Hierarchical clustering|Computer vision|Pattern recognition|Computer science|Effective method|Matrix (mathematics)|Zernike polynomials|Feature matching|Artificial intelligence|Pixel|Transformation matrix|Detector
+references:1480376833|1627400044|1716591209|2005107673|2032117087|2085261163|2086407934|2119605622|2124404372|2137405310|2149073238|2151103935|2153361333|2162963619|2177274842
+
+
+id:2738390194
+title:Region duplication detection based on image segmentation and keypoint contexts
+year:2018
+author information:[
+author name:Cong Lin
+author organization:Guangdong University of Finance and Economics
+author id:2738969073|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Jinhua Zeng
+author organization:Ministry of Justice
+author id:2739228446|
+author name:Tianhua Xu
+author organization:Beijing Jiaotong University
+author id:2738991395|
+author name:Jian-Huang Lai
+author organization:University
+author id:2736983123|
+]
+abstract:experimental|stateoftheart|affine|challenging|patch|tried|keypoint|supplementary|results|based|image|using|method|patches|includes|keypoints|patches|estimation|proposed|even|matched|region|much|primary|achieve|methods|divided|contexts|matrix|contexts|blocks|nonoverlapped|feature|public|segmentation|keypoint|indicate|performances|detection|within|clustered|estimated|transformation|slic|pair|duplication|better|conditions|various|approach|comprehensive|novel
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Digital image forensics|Affine transformation|Computer vision|Pattern recognition|Computer science|Image segmentation|Artificial intelligence|Transformation matrix|Gene duplication
+references:1480376833|1586681179|1677409904|1987535593|2022436565|2052950171|2066941820|2085261163|2086407934|2118246710|2119605622|2137405310|2149073238|2151103935|2153361333|2162963619
+
+
+id:2902214225
+title:Copy-move forgery detection using combined features and transitive matching
+year:2019
+author information:[
+author name:Cong Lin
+author organization:Guangdong University of Finance and Economics
+author id:2738969073|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Xinchao Huang
+author organization:Sun Yat-sen University
+author id:2902208343|
+author name:Ke Liu
+author organization:Sun Yat-sen University
+author id:2902459156|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hanhui Lin
+author organization:Guangdong University of Finance and Economics
+author id:2902080165|
+author name:Zhiyuan Tan
+author organization:Napier University
+author id:2109650618|
+]
+abstract:experimental|affine|branch|extracted|approach|filtering|transitive|based|using|things|input|tremendously|liop|much|tampered|regions|scheme|achieve|mbd|matching|lot|segmentation|multimedia|detection|copymove|image|filter|multimedia|forensics|forgery|located|combined|novel|attacks|sift|necessary|transformations|used|research|growing|features|results|image|patches|important|proposed|improve|transformations|internet|demonstrate|iot|duplicated|copymove|database|public|relationship|big|false|estimated|matches|data|easily|better|forensics|proposed|various
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Affine transformation|Scale-invariant feature transform|Computer vision|Pattern recognition|Computer science|Internet of Things|Filter (signal processing)|Image segmentation|Forgery detection|Artificial intelligence|Multimedia big data|Transitive relation
+references:1570958768|1586681179|1677409904|1866695859|1897808256|1951271844|1963511194|1986274507|1987535593|2010589404|2010867994|2020322477|2022436565|2039945310|2043910920|2048077185|2052950171|2066941820|2068656974|2077774758|2085095116|2085261163|2086407934|2111308925|2114583230|2118246710|2119605622|2137405310|2149073238|2149854013|2151103935|2153361333|2162963619|2163096995|2171086515|2198856134|2338665915|2347050905|2433307521|2482226224|2495944923|2500204927|2518768218|2527571981|2541166978|2553201531|2561582794|2563363534|2567356819|2567787942|2575237940|2588545744|2589597964|2606210793|2609880341|2618448645|2621486162|2734795148|2738390194|2746816686|2764289073|2781513756|2789731659|2793291280|2800786267|2805954585|2807243302|2807884885|2913429812
+
+
+id:2908061658
+title:Defocus blur detection based on multiscale SVD fusion in gradient domain
+year:2019
+author information:[
+author name:Huimei Xiao
+author organization:Sun Yat-sen University
+author id:2907246850|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Ruipeng Li
+author organization:Sun Yat-sen University
+author id:2907189234|
+author name:Nan Zhong
+author organization:South China Agricultural University
+author id:2907749848|
+author name:Yuileong Yeung
+author organization:Sun Yat-sen University
+author id:2807489171|
+author name:Junjia Chen
+author organization:Sun Yat-sen University
+author id:2907419963|
+author name:Fei Xue
+author organization:Sun Yat-sen University
+author id:2906907926|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+]
+abstract:cluster|region|stateoftheart|without|knowledge|reduce|based|still|images|parameters|method|misjudged|methods|subbands|singular|multiscale|svd|regions|overcome|blur|texture|inspired|positives|camera|map|detection|abstract|observation|could|sharp|extensive|depth|metric|drastically|combined|operation|novel|postprocessing|multiscale|prior|segment|satisfactory|different|results|selected|image|test|experimental|degree|meanshift|estimation|fusion|difficulty|chances|proposed|demonstrate|region|full|challenges|applied|values|detect|smooth|fuses|false|distinguished|defocus|outperforms|proposed|performance
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Singular value decomposition|Computer vision|Singular value|Pattern recognition|Fusion|Artificial intelligence|Fuse (electrical)|Standard test image|Mathematics|False positive paradox
+references:316509865|848445526|1963819101|1978598038|1999671454|2022686119|2061042245|2067191022|2102817897|2134856340|2134963900|2138088051|2143789285|2167977504|2174865879|2236864879|2292934097|2320852756|2395965399|2433307521|2464298522|2482226224|2561582794|2564196066|2587922897|2738390194|2781513756|2791383351|2793291280|2800786267|2805954585|2832441265|2884411449
+
+
+id:2918314880
+title:Region duplication detection based on hybrid feature and evaluative clustering
+year:2019
+author information:[
+author name:Cong Lin
+author organization:Sun Yat-sen University
+author id:2738969073|
+author name:Wei Lu
+author organization:Sun Yat-sen University
+author id:2580721055|
+author name:Xinchao Huang
+author organization:Sun Yat-sen University
+author id:2902208343|
+author name:Ke Liu
+author organization:Sun Yat-sen University
+author id:2902459156|
+author name:Wei Sun
+author organization:Sun Yat-sen University
+author id:2557349608|
+author name:Hanhui Lin
+author organization:Guangdong University of Finance and Economics
+author id:2902080165|
+]
+abstract:word|forgeries|stateoftheart|affine|extracted|conceal|evaluative|based|grouped|evaluation|methods|received|easy|input|validating|contents|exact|matched|level|tampered|regions|scheme|methods|categorized|two|matching|feature|indicate|detection|authenticity|photo|image|inaccuracy|transformation|filter|forensics|matching|conditions|unified|handled|clustering|operation|novel|strategy|main|used|results|described|image|commonly|experimental|separately|suspicious|keypoints|software|concern|keypointbased|hybrid|proposed|improve|descriptors|transformations|region|region|rough|divided|digital|duplicating|overemphasize|public|pixel|digital|aims|wide|estimated|bag|editing|duplication|outperforms|various|clustering
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Digital image forensics|Affine transformation|Computer vision|Pattern recognition|Computer science|Digital image|Software|Pixel|Artificial intelligence|Cluster analysis|Photo editing
+references:848445526|1480376833|1490753124|1519594923|1570958768|1586681179|1677409904|1900636165|1963943170|1987535593|1993120651|2005107673|2010867994|2018377917|2022436565|2024161964|2041506154|2043910920|2046686077|2052950171|2076734571|2080592425|2085095116|2085261163|2086407934|2089818991|2090267299|2093512257|2096077837|2111308925|2118246710|2119605622|2119747362|2132610780|2137405310|2149073238|2151103935|2162963619|2169013230|2171086515|2172188317|2177274842|2296056180|2296583276|2322790632|2329582438|2433307521|2482226224|2495944923|2527571981|2528657340|2541166978|2551235116|2561582794|2565792304|2567787942|2588545744|2606210793|2615001069|2618448645|2635249468|2734795148|2738390194|2741391294|2741927843|2750558369|2781513756|2793291280|2795164731|2800786267|2805954585|2807243302|2807884885|2832441265|2884411449|2892277327|2897180259|2902214225|2911098213|2913429812
+
+
+id:1996249157
+title:Cross-Layer QoS Optimization of Wireless Sensor Network for Smart Grid
+year:2014
+author information:[
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+]
+abstract:latency|considered|channel|experimental|remote|introduced|problem|optimization|terms|network|controlling|promising|algorithm|still|estimator|electrical|mac|quality|traditional|environments|traffic|allocate|field|enhanced|among|distribution|evaluating|link|algorithms|study|achieve|grid|reliability|experiments|endtoend|harsh|result|routing|phy|necessary|smart|advantages|performances|showed|wireless|used|manner|challenging|preferable|protocol|solution|grid|function|communication|nwk|comparison|significant|contentions|proposed|improve|sensor|critical|purpose|link|crosslayer|prevent|protocol|paper|qos|quality|applying|zigbee|outperform|original|studied|service|resources|technologies|technology|cooperated|wsn|nodes|performance|due|crosslayers|disorderly|optimization|wireless|comprehensive|multiobject|presents
+venue name:International Journal of Distributed Sensor Networks
+venue id:64417657
+venue type:J
+document type:Journal
+study fields:Wireless|Smart grid|Computer science|Latency (engineering)|Computer network|Quality of service|Communication channel|Physical layer|Wireless sensor network|Distributed computing|Estimator
+references:151114874|1508084509|1864938698|1963538514|1965372967|1972217247|1974808273|1998944191|2023109216|2034832589|2041248965|2042289640|2060946017|2061989301|2068655591|2084372065|2085093677|2089884510|2094272457|2096599888|2101963262|2102258543|2106564850|2107609298|2110679217|2114089854|2128815505|2132476525|2137243960|2141964508|2144775386|2150039965|2157506790|2160695204|2161724087|2162053441|2165677640|2166735191|2168073257
+
+
+id:2179483580
+title:A localization method with dynamic weight argument based on Gaussian mixed Model
+year:2015
+author information:[
+author name:Liangfeng Chen
+author organization:Institute of Intelligent Machines, Chinese Academy of Sciences Hefei 230031, China
+author id:2800529787|
+author name:Xiaofeng Li
+author organization:Institute of Intelligent Machines, Chinese Academy of Sciences Hefei 230031, China
+author id:2652037235|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+]
+abstract:localization|wireless|wcl|argument|simulation|accuracy|collected|mine|offline|improved|network|dynamic|results|based|large|method|already|received|weight|decrease|enlarging|provide|proposed|improve|effect|simultaneously|fixed|simultaneously|argument|errors|sensor|average|statistical|scheme|distance|indication|gmm|classical|proper|mixed|measurement|prevent|signal|weighted|paper|localization|emphasize|center|set|improving|rssi|due|decreases|model|maximum|gaussian|attributes|errors|describe|strength
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Distance measurement|Received signal strength indication|Control theory|Automation|Mixed model|Gaussian|Wireless sensor network|Mathematics
+references:1981398505|2081661131|2094159870|2094972040|2113678645|2165611760
+
+
+id:2295391650
+title:A Dynamic State Estimation of Power System Harmonics Using Distributed Related Kalman Filter
+year:2015
+author information:[
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Chanjuan Zhao
+author organization:HeFei University of Technology
+author id:2310919550|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+author name:Chenghui Zhu
+author organization:HeFei University of Technology
+author id:2696835945|
+author name:Daoming Mu
+author organization:HeFei University of Technology
+author id:2140939079|
+author name:Liangfeng Chen
+author organization:Hefei Institutes of Physical Science, Chinese Academy of Sciences
+author id:2143490875|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+]
+abstract:bus|measuring|accurate|introduced|dynamic|state|communication|results|order|algorithm|given|based|comparison|method|filter|simulated|presented|distributed|less|system|estimation|fusion|node|system|correlation|proposed|improve|among|coefficient|processing|values|show|related|power|harmonic|measurements|kalman|variables|estimated|calculating|neighbor|filter|better|antidisturbance|performance|filtering|nodes|proposed|conventional|suitable
+venue name:International Conference on Algorithms and Architectures for Parallel Processing
+venue id:1120750887
+venue type:C
+document type:Conference
+study fields:Correlation coefficient|Alpha beta filter|Extended Kalman filter|Fast Kalman filter|Control theory|Computer science|Parallel computing|Electric power system|Harmonic|Kalman filter|Invariant extended Kalman filter
+references:2153344006
+
+
+id:2424065099
+title:Fingerprint and Assistant Nodes Based Wi-Fi Localization in Complex Indoor Environment
+year:2016
+author information:[
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Wei Li
+author organization:University of Technology
+author id:2640990706|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+author name:Zhi Liu
+author organization:Waseda University
+author id:2590208263|
+]
+abstract:localization|measured|nlos|would|complex|fingerprint|based|large|method|received|propose|node|rss|system|thereby|attracted|timeofflight|indoor|conditions|appropriate|sequences|experiments|unknown|result|adaptive|low|noise|kalman|robust|wifi|mitigate|services|lead|filter|extensive|accuracy|collaboration|increasing|nonlineofsight|information|strength|used|signal|nodes|selected|development|circumstances|researchers|fingerprints|estimation|improve|demonstrate|errors|multipath|around|elaborately|auxiliary|positioning|similarity|colored|distances|outperform|assistant|ranging|nodes|error|performance|counterparts|attention|location|reducing
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Non-line-of-sight propagation|Computer vision|Computer science|Fingerprint recognition|Location-based service|Fingerprint|Kalman filter|Ranging|Artificial intelligence|RSS
+references:1444409635|1524566240|1536651138|1542900829|1546350490|1893431417|1968099658|1970486124|1973466238|1982482322|1993774615|2006023663|2008047900|2037094434|2059147177|2064024734|2079850979|2108422006|2118228023|2129088323|2132952395|2135153024|2162164723|2170102584|2204949160|2255265279|2278572312
+
+
+id:2468107173
+title:A Correlation-Based Energy Balanced Probabilistic Flooding Algorithm in Wireless Sensor Network
+year:2016
+author information:[
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Huihui Rong
+author organization:Hefei University of Technol
+author id:2485349424|
+author name:Wei Sun
+author organization:Hefei University of Technol
+author id:2427749136|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+]
+abstract:reveal|data|residual|decide|issues|research|transmission|saves|neighbors|whether|nodes|energy|algorithm|efficiency|need|acknowledgements|flooding|explicit|addressed|achieving|correlation|acks|proposed|sensor|implicit|packet|scheme|reliability|link|focuses|exploits|aggregate|aware|correlationbased|costly|algorithms|carried|cases|probabilistic|tracks|target|retransmit|existing|balancing|proposed|simulation
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Key distribution in wireless sensor networks|Data transmission|Computer science|Efficient energy use|Network packet|Computer network|Exploit|Real-time computing|Probabilistic logic|Flooding algorithm|Wireless sensor network
+references:1978432953|1982227954|1993934995|2004831172|2012600624|2020815733|2032087901|2043686474|2078986985|2086976333|2111577338|2114674709|2118995842|2148046401
+
+
+id:2524972019
+title:Fingerprint in the Air: Using the RSS Data for Uniqueness Identification
+year:2016
+author information:[
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Hailong Fan
+author organization:HeFei University of Technology
+author id:2549616360|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+author name:Xiaoyan Wang
+author organization:Ibaraki University
+author id:2311646005|
+author name:Zhi Liu
+author organization:Waseda University
+author id:2590208263|
+]
+abstract:nowadays|collected|improved|identification|problem|premise|near|calculate|judge|recent|algorithm|reduce|using|years|rss|rf|device|complexity|algorithms|perfectly|methods|experiments|bioassisted|valid|systems|warping|problem|keeping|one|face|series|naive|reasonable|recognition|used|compute|presented|dynamic|entrance|results|computational|always|cost|widely|difficult|modeled|series|fingerprints|use|longer|proposed|gait|person|carry|indoor|show|detect|deployed|robustness|security|paper|similarity|asynchronous|studies|simulation|uniqueness|wireless|time|attendance|simply
+venue name:International Conference on Parallel Processing
+venue id:1155899826
+venue type:C
+document type:Conference
+study fields:Spectral clustering|Data mining|Dynamic time warping|Computer science|Robustness (computer science)|Artificial intelligence|Parameter identification problem|Distributed computing|Uniqueness|Fingerprint|RSS|Machine learning|Computational complexity theory
+references:1966554111|1975036395|1989115430|2067977124|2099302229|2116685941|2144994235|2167292325|2947437599
+
+
+id:2546865734
+title:Research on MAC layer communication performance model of wireless sensor networks for intelligent transportation
+year:2016
+author information:[
+author name:Zhong Chu
+author organization:Hefei University
+author id:2668103380|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2646293119|
+]
+abstract:standard|application|simulation|channel|access|used|conducting|matlab|research|unslotted|analyzing|communication|mems|model|state|applied|communication|results|respectively|models|development|method|qualnet|simulated|media|contention|real|analysis|mac|important|collision|node|delay|sensor|become|average|mathematics|mathematics|networks|layer|effective|control|rate|indicate|based|mechanism|built|wsns|intelligent|transportation|channel|performance|corresponding|quantitative|wireless|communicating
+venue name:International Conference on Automation and Computing
+venue id:2623639103
+venue type:C
+document type:Conference
+study fields:Key distribution in wireless sensor networks|Media access control|Computer science|Communication channel|Computer network|Real-time computing|QualNet|Goodput|Throughput|Intelligent transportation system|Wireless sensor network
+references:1978244374|2029993978|2101067867|2130470770|2150854834
+
+
+id:2600289584
+title:QoS Modeling of Wireless Sensor Networks in Smart Distribution Grid Communication
+year:2017
+author information:[
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+author name:Ruju Fang
+author organization:Hefei University of Technology
+author id:2529594138|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+]
+abstract:modeling|simulation|channel|competition|three|communication|sdg|model|order|based|method|priority|analysis|monitoring|quality|system|provide|analyze|access|guarantee|respectively|networks|distribution|smart|low|power|mechanism|according|chain|middle|markov|data|transition|model|meet|grid|cannot|qualities|data|priority|developed|delay|mode|protocol|high|threedimensional|buffer|throughput|communication|different|results|ieee|described|article|enhanced|collision|proposed|state|sensor|divided|show|medium|integrated|network|effective|qos|paper|rate|specification|provides|unfair|requirements|types|wsns|control|existing|superior|nodes|wsn|performance|multitype|service|conform|queues|wireless|suitable|time|sdg|presents
+venue name:Wireless Personal Communications
+venue id:49967189
+venue type:J
+document type:Journal
+study fields:Throughput (business)|Key distribution in wireless sensor networks|Computer science|Electric power system|Communication channel|Communications system|Quality of service|Computer network|Real-time computing|Access control|Wireless sensor network|Distributed computing
+references:2011284636|2035111035|2068655591|2102123511|2106515455|2129609617|2135505702|2137243960|2159013099|2165677640
+
+
+id:2732548057
+title:WNN-LQE: Wavelet-Neural-Network-Based Link Quality Estimation for Smart Grid WSNs
+year:2017
+author information:[
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Wei Lu
+author organization:Hefei University of Technology
+author id:2731776080|
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Liangfeng Chen
+author organization:Hefei Institutes of Physical Science, Chinese Academy of Sciences
+author id:2143490875|
+author name:Daoming Mu
+author organization:HeFei University of Technology
+author id:2140939079|
+author name:Xiaojing Yuan
+author organization:Houston University
+author id:2104666524|
+]
+abstract:experimental|stateoftheart|nonlinear|grids|via|protocols|algorithm|mapping|separately|monitoring|packet|quality|input|provide|timevarying|algorithm|obtained|methods|reliability|networks|two|smart|wnnlqe|satisfies|snr|wnn|waveletneuralnetworkbased|estimating|limits|lqe|decomposed|many|produce|closes|model|nonstationary|component|grid|validity|essential|ratio|wireless|realtime|metric|used|comparative|radio|features|prr|describing|whether|presented|function|dynamic|links|communication|results|estimates|ensure|need|proposes|estimation|improving|proposed|sensor|prr|demonstrate|part|part|link|numerical|random|paper|qos|gap|probabilityguaranteed|transformed|grids|reception|effectiveness|requirements|signaltonoise|standards|estimated|wsns|control|specific|guarantees|processed|wsn|currently|approximately|service|neither|suitable|determining
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Monitoring and control|Wavelet neural network|Nonlinear system|Smart grid|Computer science|Signal-to-noise ratio|Quality of service|Computer network|Real-time computing|Radio Link Protocol|Wireless sensor network
+references:1582880497|1864938698|1973632373|2006447203|2037928371|2042420160|2085093677|2113384697|2114089854|2117122370|2127472116|2128815505|2136016236|2160695204|2162053441|2263162082|2296377540|2302001636|2411960493|2436464847|2522646747
+
+
+id:2751785399
+title:End-to-End Data Delivery Reliability Model for Estimating and Optimizing the Link Quality of Industrial WSNs
+year:2018
+author information:[
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Xiaojing Yuan
+author organization:Houston University
+author id:2104666524|
+author name:Jianping Wang
+author organization:Hefei University Of Technol
+author id:2645063468|
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Liangfeng Chen
+author organization:Hefei Institutes of Physical Science, Chinese Academy of Sciences
+author id:2143490875|
+author name:Daoming Mu
+author organization:HeFei University of Technology
+author id:2140939079|
+]
+abstract:feasible|focus|approach|without|evaluation|path|loss|realworld|optimization|estimate|optimizing|model|rss|strict|case|using|mapping|goal|parameters|smoothed|lower|received|monitoring|packet|accurately|quality|practitioners|traditional|qualified|rf|note|starting|study|providing|affect|one|reliability|experiments|endtoend|harsh|networks|distribution|lognormal|lowerbound|realistically|scenario|noise|noise|estimating|deployment|networklevel|suggest|many|performed|designing|framework|industries|report|maximum|example|describe|requirements|wsns|certain|represent|data|strength|use|developing|main|used|mainly|radio|suggests|optimize|solution|presented|function|capturing|modified|communication|signal|new|ensure|solutions|engineering|develop|estimation|measure|success|background|improve|sensor|worst|demonstrate|present|parameters|distance|challenges|rather|link|deployed|network|random|computing|paper|alphastable|reception|value|delivery|applying|satisfy|bound|transmit|wsns|technologies|control|satisfying|also|approaches|factors|industrial|wsn|performance|nodes|application|infrastructure|wireless|comprehensive|existing
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Key distribution in wireless sensor networks|Wireless|Transmitter power output|End-to-end principle|Computer science|Signal-to-noise ratio|Path loss|Radio Link Protocol|Wireless sensor network|Reliability engineering
+references:1976688311|1983995505|1996249157|2000938488|2003762772|2026183942|2039170718|2041248965|2049950845|2083668462|2085093677|2090550844|2097714893|2099811111|2114089854|2117185709|2117862384|2125969840|2127472116|2128815505|2128971491|2134931138|2137243960|2160695204|2162053441|2169458211|2340981203|2593637804|2732548057
+
+
+id:2890708200
+title:Joint Mode Selection and Resource Allocation for Scalable Video Multicast in Hybrid Cellular and D2D Network
+year:2018
+author information:[
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+author name:Ransheng Feng
+author organization:HeFei University of Technology
+author id:2890737047|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Liangfeng Chen
+author organization:Hefei Institutes of Physical Science, Chinese Academy of Sciences
+author id:2143490875|
+author name:Xiaobing Xu
+author organization:Hefei University of Technology
+author id:2890264678|
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+]
+abstract:maximize|number|problem|realtime|model|algorithm|generation|respectively|based|subscriber|layer|traditional|system|selection|cellular|networks|appropriate|providing|access|scheme|quality|proven|networks|two|capacity|coding|adaptive|communications|power|mechanism|alongside|address|efficient|one|heuristic|combines|heterogeneity|mcs|first|scalable|joint|modulation|mode|greedy|throughput|communication|results|resource|widely|users|hybrid|proposed|improve|solve|overall|interference|present|next|scalable|show|mixed|video|network|paper|divide|experience|allocation|capabilities|studied|blocks|effectively|nphard|mobile|technology|increase|multicast|formulated|better|form|simulation|wireless|user|assign
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Link adaptation|Computer science|Computer network|Greedy algorithm|Resource allocation|Cellular network|Multicast|Throughput|Video quality|Distributed computing|Scalable Video Coding
+references:1527886356|1544971848|1567802099|1702614258|1904511102|1978072274|1991544509|1993021082|1994925277|2003930941|2010579371|2026634333|2046530511|2047317276|2064592256|2066106876|2073051369|2076807755|2128628369|2135647107|2138580126|2167182300|2210177522|2324448079|2364314042|2530229243|2808250661
+
+
+id:2918569595
+title:Wavelet Transform DC-GAN for Diversity Promoted Fingerprint Construction in Indoor Localization
+year:2018
+author information:[
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Heng Qu
+author organization:Hefei University of Technology
+author id:2797893887|
+author name:Zhi Liu
+author organization:Shizuoka University
+author id:2915639371|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Xun Shao
+author organization:Kitami Institute of Technology, Japan
+author id:2918434934|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+]
+abstract:localization|generative|adversarial|data|accuracy|convert|reference|wavelet|improved|time|generated|complex|network|fingerprint|acquired|significantly|needs|phase|based|using|maps|channel|mainstream|reduced|significant|deep|system|extend|system|proposed|state|wavelet|indoor|increased|convergence|crucial|training|information|extended|database|transform|diversity|feature|positioning|construction|manpower|based|sampled|human|consumes|convolutional|process|transformfeature|wifi|requirement|enough|many|accelerated|model|currently|effort
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Pattern recognition|Computer science|Real-time computing|Fingerprint|Localization system|Artificial intelligence|Fingerprint database|Complex wavelet transform|Wavelet|Channel state information|Wavelet transform
+references:1546350490|1773149500|2043874598|2044846595|2051376734|2089695767|2099471712|2100989187|2134671728|2173520492|2294748733|2309512289|2389383564|2424065099|2743104312|2797375411
+
+
+id:2986299744
+title:An Energy Efficient Uplink Scheduling and Resource Allocation for M2M Communications in SC-FDMA Based LTE-A Networks
+year:2019
+author information:[
+author name:Qiyue Li
+author organization:Hefei University of Technol
+author id:2145416415|
+author name:Yuling Ge
+author organization:HeFei University of Technology
+author id:2941699173|
+author name:Yangzhao Yang
+author organization:China Academy of Electronics and Information Technology
+author id:2940691948|
+author name:Yadong Zhu
+author organization:HeFei University of Technology
+author id:2940693054|
+author name:Wei Sun
+author organization:Hefei University of Technology
+author id:2427749136|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+]
+abstract:highdatarate|optimal|advanced|maintain|packets|number|problem|realtime|experiment|optimization|uplink|glover|diverse|usually|qualityofservice|promising|energy|algorithm|efficiency|large|devices|depends|require|propose|provide|linearization|cellular|access|scheme|formulate|global|networks|modulationandcoding|long|low|term|power|charnescooper|linear|problem|efficient|ltea|transformation|machinetomachine|future|polynomial|maximum|features|constraints|joint|scheme|data|several|network|transmission|things|expressed|counterparts|different|directly|results|programming|resource|dropping|fractional|originally|comparing|technologies|core|achieving|channels|mixedinteger|internet|lte|since|equipped|optimized|nondeterministic|show|investigate|network|numerical|paper|standardized|supporting|hard|designed|ratios|sensing|types|allocation|limited|reporting|evolution|technology|lowdatarate|sensors|infrastructure|typical|wireless|services
+venue name:Mobile Networks and Applications
+venue id:192894947
+venue type:J
+document type:Journal
+study fields:Wireless|Efficient energy use|Computer science|Power control|Network packet|Computer network|Resource allocation|Cellular network|Distributed computing|LTE Advanced|Telecommunications link
+references:1977139194|1979258026|1981014844|2037698864|2042768148|2069776524|2077717186|2100818996|2110767187|2112589271|2117650401|2132247362|2141411458|2148895884|2152088446|2154791876|2157711415|2169141867|2171203705|2283866494|2525369707|2566222168|2751785399|2766846808|2786403027|2791790290|2808726992|2890708200
+
+
+id:2797375411
+title:AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System
+year:2018
+author information:[
+author name:Qiyue Li
+author organization:University of Sci. and Tech. of China
+author id:2971919625|
+author name:Heng Qu
+author organization:Hefei University of Technology
+author id:2797893887|
+author name:Zhi Liu
+author organization:Hefei University of Technology
+author id:2972191072|
+author name:Nana Zhou
+author organization:HeFei University of Technology
+author id:2798195253|
+author name:Wei Sun
+author organization:Dalian University of Technol
+author id:2971817548|
+author name:Jie Li
+author organization:Xian University of Technology
+author id:2988381581|
+]
+abstract:localization|generative|adversarial|data|using|accuracy|collected|convert|feature|points|reference|improved|time|network|fingerprint|significantly|needs|amplitude|phase|based|using|maps|mainstream|reduced|significant|deep|system|extend|system|proposed|indoor|increased|convergence|crucial|training|extended|database|amplitude|diversity|feature|positioning|csi|construction|manpower|based|human|consumes|convolutional|process|wifi|requirement|enough|many|sample|model|currently|effort
+venue name:arXiv: Networking and Internet Architecture
+venue id:2597137192
+venue type:J
+document type:Repository
+study fields:Convergence (routing)|Generative adversarial network|Pattern recognition|Computer science|Fingerprint|Localization system|Artificial intelligence|Fingerprint database|Amplitude|Distributed computing
+references:1538343039|1546350490|1773149500|1979261109|2044846595|2051376734|2063138782|2064081294|2089695767|2099471712|2100916320|2100989187|2108121869|2118055871|2134671728|2155051889|2172093107|2173520492|2240192984|2294748733|2309512289|2314731887|2317874219|2389383564|2424065099|2492689404|2558891025|2567101557|2587903431|2735883025|2743104312|2744660192|2746975772|2751785399|2766483522|2792312025|2792367815|2794819957|2802468127|2904843110
+
+
+id:117709256
+title:Customer Threshold Strategies in Observable Queues with Partial Information of Service Time
+year:2012
+author information:[
+author name:Wei Sun
+author organization:YanShan University
+author id:2669478506|
+author name:Shiyong Li
+author organization:YanShan University
+author id:2720193993|
+]
+abstract:principle|optimal|available|decide|arriving|number|whether|find|estimate|join|different|respectively|based|using|instants|need|numerically|less|thresholds|one|partial|joining|arrival|given|queue|distribution|riskneutral|riskaverse|general|moments|entropy|paper|profitmaximizing|systems|process|balk|decision|socially|one|balking|also|concerns|service|observable|maximum|information|time|equilibrium
+venue name:international conference on Information Computing and Applications
+venue id:2756048078
+venue type:C
+document type:Conference
+study fields:Balk|Mathematical optimization|Observable|Computer science|Queue|Real-time computing|Principle of maximum entropy|Decision process|Profit maximization|Service time
+references:1994957131|2037156377|2072879692|2115574292
+
+
+id:829948382
+title:Resource allocation for multi-class services in multipath networks
+year:2015
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2677590391|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Naishuo Tian
+author organization:Yanshan University
+author id:2123045443|
+]
+abstract:parallelly|increasingly|optimal|intrinsically|recognized|nonconcave|utilities|packets|objective|particle|improved|problem|optimization|obtained|model|algorithm|using|propose|examples|analyze|conditions|reliability|utility|global|networks|promote|multiclass|firstly|verify|share|approaches|could|optimum|heuristic|services|lead|multimedia|bandwidthhungry|elastic|discuss|data|available|source|used|inelastic|swarm|transmission|sufficient|links|results|obtain|given|resource|solutions|difficult|paths|improve|carry|present|nonconvex|multipath|destination|optimization|numerical|paper|common|rate|applications|allocation|multiple|fault|also|pair|existing|performance|optimization
+venue name:Performance Evaluation
+venue id:45003570
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Particle swarm optimization|Mathematical optimization|Heuristic (computer science)|Computer science|Network packet|Fault tolerance|Resource allocation|Optimization problem|Sigmoid function|Distributed computing
+references:1968776806|1986490170|2005489357|2007487553|2017035174|2019501122|2034538170|2037710455|2038022922|2040188938|2058677708|2070110160|2070317877|2075434761|2079947402|2086226555|2097502344|2103621877|2110829111|2112947567|2120344179|2120944800|2123893388|2140162097|2152830410|2156568423|2158893758|2159743267|2163634514|2169245194|2173655337
+
+
+id:1938411494
+title:Optimal resource allocation for heterogeneous traffic in multipath networks
+year:2016
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2111620319|
+author name:Wei Sun
+author organization:YanShan University
+author id:2652233757|
+author name:Changchun Hua
+author organization:Yanshan University
+author id:2154066330|
+]
+abstract:networks|equivalent|optimal|intrinsically|john|allocation|packets|nonconvex|problem|realtime|optimization|wiley|flow|order|algorithm|examples|issue|schemes|packet|analysis|multipath|conditions|evaluate|much|achieve|formulate|networks|increases|variety|sourcedestination|witnessed|address|problem|bandwidth|karushkuhntucker|elastic|controllable|voice|theoretical|approximate|available|source|heterogeneous|copyright|inelastic|solution|presented|throughput|consider|primaldual|traffic|obtain|approximation|resource|illustrate|difficult|focused|present|send|allow|multipath|convergence|destination|numerical|pairs|ltd|convex|allocation|original|aforementioned|multiple|control|satisfying|increase|rates|strictly|converges|performance|investigation|injection
+venue name:International Journal of Communication Systems
+venue id:175310385
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Convergence (routing)|Packet injection|Mathematical optimization|Computer science|Network packet|Computer network|Resource allocation|Bandwidth (signal processing)|Throughput|Optimization problem|Distributed computing
+references:1521211128|1968776806|1969648546|1973202346|1986490170|2007487553|2017035174|2019501122|2034538170|2035652501|2038022922|2040188938|2070110160|2075074567|2075434761|2079947402|2097502344|2103621877|2110829111|2112820013|2112947567|2123893388|2140162097|2158893758|2159743267|2161624011|2171099784
+
+
+id:2000837780
+title:Equilibrium balking strategies of customers in Markovian queues with two-stage working vacations
+year:2014
+author information:[
+author name:Wei Sun
+author organization:YanShan University
+author id:2646534142|
+author name:Shiyong Li
+author organization:YanShan University
+author id:2699271289|
+author name:Quan-Lin Li
+author organization:Yanshan University
+author id:2639164311|
+]
+abstract:smaller|precision|type|welfare|observe|markovian|unique|starts|different|per|probabilities|respectively|numerically|lowrate|unobservable|becomes|successive|system|vacations|vacations|server|joining|two|necessarily|states|singleserver|paper|provides|get|busy|studies|working|vacation|behavior|based|maintains|social|rates|balking|twostage|positive|state|queues|service|observable|equilibrium|time|strategy|levels|partially|taking|discuss
+venue name:Applied Mathematics and Computation
+venue id:50372074
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Observable|Queue|System information|Unit of time|Markovian queues|Unobservable|Mathematics
+references:1985237154|1994306340|1995788339|2011245215|2020995839|2057190599|2071385742|2071673430|2072879692|2086009015|2090255546|2127427157|2128319050
+
+
+id:2007487553
+title:Fair resource allocation and stability for communication networks with multipath routing
+year:2014
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2111620319|
+author name:Wei Sun
+author organization:YanShan University
+author id:2652233757|
+author name:Changchun Hua
+author organization:Yanshan University
+author id:2154066330|
+]
+abstract:increasingly|optimal|c|usage|delayed|fair|investigates|problem|model|presence|flow|order|algorithm|subproblems|thus|depends|windowbased|multipath|concepts|algorithm|obtained|interpreted|conditions|endtoend|utility|networks|local|sourcedestination|ratebased|mechanism|maximisation|bandwidth|bandwidthhungry|economic|novel|data|several|roundtrip|presented|sufficient|view|different|stability|traffic|cater|resource|users|achieving|proposed|paths|improve|solve|since|allow|multipath|point|network|load|paper|derived|fairness|applying|allocation|lagrangian|implementation|control|pair|efficiency|balancing|performance|well|information|applications|formulates
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Max-min fairness|Mathematical optimization|Multipath routing|Telecommunications network|Computer science|Network utility|Bandwidth (signal processing)|Resource allocation|Flow control (data)|Distributed computing
+references:1585188069|2002454316|2007473867|2011222041|2013174072|2027513165|2037710455|2053507305|2058677708|2070110160|2074823107|2075434761|2094182944|2095089806|2097306413|2097502344|2103621877|2117264435|2118442492|2125993456|2126956578|2130301482|2133627939|2140162097|2145393623|2156390226|2158893758|2161615677|2240331120
+
+
+id:2025768762
+title:Fair rate allocation for flows in concurrent multipath communications
+year:2014
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2630421502|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2107167049|
+]
+abstract:increasingly|optimal|allowed|simulation|reasonable|improves|maximization|source|fair|packets|transmission|problem|optimization|view|model|promotes|reliability|results|order|algorithm|obtain|give|subproblems|depends|decentralized|propose|software|proposed|interpretation|exact|carry|present|times|multipath|convergence|achieve|concurrent|destination|utility|point|local|security|rate|flows|sourcedestination|allocation|expression|within|multiple|optimum|confirm|bandwidthhungry|performance|simulation|information|economic|novel
+venue name:Telecommunication Systems
+venue id:145894672
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Multipath propagation|Architecture|Network utility maximization|Computer science|Transmission security|Network packet|Computer network|Utility maximization problem|Real-time computing|Software
+references:1989809547|1995404435|2002454316|2011222041|2013174072|2015782999|2027513165|2037710455|2038022922|2053507305|2058677708|2070110160|2072697263|2075434761|2094182944|2097502344|2103621877|2105733767|2118442492|2125993456|2126956578|2140162097|2158893758|2161615677|2161624011|2240331120
+
+
+id:2037156377
+title:Equilibrium and optimal strategies to join a queue with partial information on service times
+year:2011
+author information:[
+author name:Pengfei Guo
+author organization:Hong Kong Polytechnic University
+author id:2671912218|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Yulan Wang
+author organization:Hong Kong Polytech. University
+author id:2712982153|
+]
+abstract:principle|range|reveal|optimal|entropymaximization|maximization|decide|welfare|find|join|obtain|makers|adopt|beneficial|partial|full|study|waiting|queue|expectation|distribution|moments|convey|customers|based|profit|balk|encourages|cost|decision|socially|strategies|maximization|service|well|information|equilibrium|time|queue|customer
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Balk|Mathematical optimization|Benefice|Entropy maximization|Queue|Operations research|Queueing theory|Profit maximization|Perfect information|Mathematics|Operations management|Maximization
+references:1992236404|1994957131|1995875735|2019377880|2041404167|2057163646|2065004605|2065602300|2112564785|2115574292|2127503699|2135996859
+
+
+id:2071673430
+title:Pricing and setup/closedown policies in unobservable queues with strategic customers
+year:2012
+author information:[
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Yulan Wang
+author organization:Hong Kong Polytech. University
+author id:2692352427|
+author name:Naishuo Tian
+author organization:Yanshan University
+author id:2688977127|
+]
+abstract:optimal|arriving|three|soon|markovian|price|maximizes|starts|respectively|obtain|need|queueing|numerically|unobservable|system|welfare|adopt|served|following|comparisons|assume|arrives|appropriate|study|derive|paper|systems|motivate|finishes|customers|make|closedown|measures|types|profit|socially|strategies|social|balking|maximal|control|also|skippable|interruptible|finishes|performance|service|various|setup|well|time|equilibrium|insusceptible|pricing|customer
+venue name:A Quarterly Journal of Operations Research
+venue id:151317046
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Markov process|Queue|Queueing theory|Profit maximization|Unobservable|Mathematics
+references:1982796583|1994306340|1997173722|2020995839|2037156377|2062493567|2072879692|2086009015|2127427157|2128319050|2138202719
+
+
+id:2072879692
+title:Equilibrium threshold strategies in observable queueing systems with setup/closedown times
+year:2010
+author information:[
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Pengfei Guo
+author organization:Hong Kong Polytechnic University
+author id:2671912218|
+author name:Naishuo Tian
+author organization:Yanshan University
+author id:2695877809|
+]
+abstract:reactivates|without|via|far|fully|work|exhaustively|thresholds|system|served|following|analyze|experiments|arrives|server|providing|systems|times|immediately|two|derive|systems|policies|customers|behavior|case|strategies|started|interruptible|observable|almost|threshold|arriving|time|stationary|consider|needs|illustrate|queueing|shuts|assume|since|benefits|numerical|paper|closedown|considers|types|social|also|finishes|concerning|service|setup|time|equilibrium|insusceptible|customer
+venue name:Central European Journal of Operations Research
+venue id:161053114
+venue type:J
+document type:Journal
+study fields:Economics|Mathematical optimization|Observable|Continuous-time Markov chain|Social benefits|Queueing theory|Stationary distribution|Queueing system|Operations management
+references:88949835|1594360068|1886160976|1975576865|2005098937|2037914639|2088774682|2110564123|2120380181|2127427157
+
+
+id:2151184568
+title:Effect of informatio
+year:2014
+author information:[
+author name:Wei Sun
+author organization:YanShan University
+author id:2652233757|
+author name:Shiyong Li
+author organization:YanShan University
+author id:2111620319|
+]
+abstract:server|analyse|reflected|three|number|enable|assumption|profits|realised|unobservable|benefit|quality|system|concealing|nvalue|comparisons|choices|much|server|uncertainty|variability|known|may|possible|n|information|behaviour|n|values|concerned|observe|find|consider|different|us|obtain|strategies|queueing|revealing|effect|customers|parameters|waiting|values|random|singleserver|paper|parameter|make|types|cost|increase|service|various|variable|pricing|presents
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Random variable|Service quality|Queue|Queueing theory|Queueing system|Pricing strategies|Unobservable|Mathematics|Profit (economics)
+references:1994306340|1994957131|2020995839|2037156377|2072879692|2074116066|2125556229|2127427157|2127503699|2128319050|2128863673|2145373778
+
+
+id:2221725597
+title:Optimal Congestion Control and Routing for Multipath Networks with Random Losses
+year:2015
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2630421502|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Yaming Zhang
+author organization:YanShan University
+author id:2171469558|
+author name:Yehua Chen
+author organization:YanShan University
+author id:2703424614|
+]
+abstract:forms|optimal|approximate|maximization|roundtrip|losses|shown|presented|sufficient|links|consider|stability|order|algorithm|obtain|schemes|develop|decentralized|packet|windowflow|delays|delays|present|conditions|discrete|errors|multipath|globally|absence|primal|utility|networks|local|network|relaxed|routing|paper|related|noncongestion|mechanism|problem|caused|optimum|control|model|stable|continuoustime|time|congestion
+venue name:Informatica (lithuanian Academy of Sciences)
+venue id:57195646
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Multipath routing|Mathematical optimization|Network utility maximization|Computer science|Network packet|Network congestion|Distributed computing
+references:1753916202|1938411494|1982576298|2002454316|2007473867|2011222041|2025768762|2027513165|2034538170|2037710455|2053507305|2069499077|2070110160|2075434761|2094182944|2103357518|2103621877|2117264435|2118442492|2126956578|2130301482|2158893758|2161615677|2174430759
+
+
+id:2240331120
+title:An Optimal Rate Control and Routing Scheme for Multipath Networks
+year:2011
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2630421502|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Yaming Zhang
+author organization:YanShan University
+author id:2171469558|
+author name:Hongke Zhang
+author organization:Beijing Jiaotong University
+author id:2630965526|
+]
+abstract:optimal|maximization|constraints|objective|routes|presented|view|evaluated|problems|different|primaldual|flow|order|algorithm|realize|obtain|subproblems|maximizing|windowbased|distributed|schemes|aggregated|users|deduced|convenient|paths|adopting|concepts|interpreted|since|scheme|multipath|link|endtoend|utility|networks|two|point|network|capacity|routing|paper|rate|considers|fairness|lagrangian|practical|implementation|control|also|scheme|formulated|simulations|performance|user|economic|novel
+venue name:International Journal of Computers Communications  Control
+venue id:147751515
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Mathematical optimization|Multipath routing|Network utility maximization|Lagrangian|Computer science|Computer network|Flow control (data)|Utility maximization|Distributed computing
+references:2002454316|2011222041|2037710455|2053507305|2075434761|2094182944|2096476648|2117264435|2118442492|2125993456|2126956578|2158893758|2161615677
+
+
+id:2290490058
+title:A mechanism for resource pricing and fairness in peer-to-peer networks
+year:2016
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2660732129|
+author name:Wei Sun
+author organization:YanShan University
+author id:2663787526|
+]
+abstract:provider|thought|optimal|server|peers|fair|acts|offer|incentive|problem|optimization|model|filtering|customer|cooperation|order|algorithm|based|method|allocate|pricebased|receives|role|scheme|times|achieve|formulate|utility|requests|networks|encourage|offered|peer|customers|efficient|within|optimum|peertopeer|sends|confirm|regarded|serviced|lowpass|novel|first|reasonable|available|network|fosters|download|method|results|realize|resource|important|achieving|proposed|customers|files|present|since|convergence|investigate|allocates|provider|client|fairness|applying|allocation|lagrangian|resources|obtains|simulation|service
+venue name:Electronic Commerce Research
+venue id:205929853
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Max-min fairness|Peer-to-peer|Incentive|Computer science|Download|Computer network|Service provider|Resource allocation|Optimization problem|Marketing
+references:1971300516|1975659873|2007487553|2009489631|2010135694|2025768762|2047060751|2047703815|2053507305|2058677708|2058965472|2060623037|2062011073|2062369528|2066856097|2076171020|2104565120|2107617105|2121621358|2126956578|2139265934|2142297442|2158893758|2165299102
+
+
+id:2524602014
+title:A Scheme of Resource Allocation and Stability for Peer-to-Peer File-Sharing Networks
+year:2016
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2693352495|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Cheng-Guo E
+author organization:Yanshan University
+author id:392727710|
+author name:Lina Shi
+author organization:Yanshan University
+author id:2524938375|
+]
+abstract:optimal|reasonable|simulation|peers|maximization|offer|problem|optimization|easily|view|attain|filesharing|results|stability|order|realize|algorithm|give|based|subproblems|resource|cooperate|decentralized|sharing|propose|software|provide|proposed|interpretation|pricebased|exact|present|scheme|times|costeffective|unfairness|convergence|achieve|fundamental|utility|networks|point|lyapunov|effective|incentives|abstractpeertopeer|deployable|paper|pricing|deduce|allocation|expression|within|theory|optimum|also|way|confirm|face|framework|regarded|simulation|content|pricing|economic|novel|applications|discuss
+venue name:International Journal of Applied Mathematics and Computer Science
+venue id:117679522
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Architecture|Mathematical optimization|Incentive|Lyapunov stability|Utility maximization problem|Software|Resource allocation|Peer to peer file sharing|Mathematics|Distributed computing
+references:275606765|829948382|1591313703|1974869019|1975659873|1991444483|1994934642|2007487553|2015782999|2016016107|2039314133|2047060751|2047703815|2058677708|2060605312|2060623037|2062011073|2072910845|2076171020|2083208948|2084308023|2086103916|2121621358|2129001195|2138577441|2139265934|2145538068|2158893758|2218631846|2290490058|2395578669|2611980201
+
+
+id:2808925734
+title:Reliability Analysis for Multipath Communications in Mobile Cloud Computing Architectures
+year:2018
+author information:[
+author name:Shiyong Li
+author organization:YanShan University
+author id:2630421502|
+author name:Wei Sun
+author organization:YanShan University
+author id:2305904115|
+author name:Yaming Zhang
+author organization:YanShan University
+author id:2171469558|
+author name:Haiou Liu
+author organization:Yanshan University
+author id:2304139658|
+]
+abstract:architectures|path|gained|model|recent|case|models|robustness|utilization|propose|years|delay|multihomed|utilize|much|achieve|reliability|one|concurrent|industry|two|communications|bandwidth|satisfaction|mcc|mobile|parallel|cannot|data|experience|cloud|transmission|split|academia|time|enrich|dynamic|communication|computing|results|traffic|new|given|static|illustrate|communications|failed|failure|paths|failure|support|full|little|multipath|investigate|numerical|computing|load|paper|applications|enhance|types|recover|advantage|mobile|multiple|fault|better|paid|attention|achieved|taking
+venue name:Wireless Communications and Mobile Computing
+venue id:235346
+venue type:J
+document type:Journal
+study fields:Multipath propagation|Mobile cloud computing|Multihoming|Load balancing (computing)|Computer science|Computer network|Robustness (computer science)|Mobile device|Fault tolerance|Cloud computing|Distributed computing
+references:275606765|829948382|1938411494|1968595085|1983906194|1990936602|1994995231|1996593602|2003207947|2007487553|2023256016|2023741329|2037167088|2038022922|2068300842|2077575729|2086782331|2104237724|2143488688|2218631846|2262390119|2290490058|2544746219|2606297994|2609824095|2611342823|2618129806|2736371850|2756401418|2765799539|2788276304|2790588927
+
+
+id:2496887485
+title:Modeling and finite-time tracking control for mobile manipulators with affine and holonomic constraints
+year:2016
+author information:[
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2925977767|
+author name:Yuqiang Wu
+author organization:Liaocheng University
+author id:2558718760|
+]
+abstract:constraints|closedloop|modeling|manipulators|simulation|remains|affine|tracking|output|zero|problem|controllers|dynamic|model|results|respectively|ensure|finite|reduced|system|converge|processing|force|obtained|errors|provided|focuses|paper|bounded|designed|holonomic|effectiveness|appropriately|mobile|control|confirm|finitetime|detailed|constraint|time|strategy
+venue name:Journal of Systems Science  Complexity
+venue id:45848134
+venue type:J
+document type:Journal
+study fields:Affine transformation|Mathematical optimization|Holonomic constraints|Control theory|Mathematics|Finite time|Bounded function
+references:1966081739|1979949341|1983931525|1984461808|1989696949|2010699465|2011357279|2046956237|2076333832|2093817182|2098467803|2108931365|2136952170|2140928350|2166402587
+
+
+id:2612441546
+title:Extended dissipative analysis of generalized Markovian switching neural networks with two delay components
+year:2017
+author information:[
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Guoliang Chen
+author organization:School of Automation, Beijing Institute of Technology, Beijing 100081, PR China
+author id:2612666112|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2682387941|
+]
+abstract:freematrixbased|delaydependent|considered|criteria|paper|dissipativity|improved|generalized|shown|markovian|terms|illustrate|methods|analysis|employing|inequality|delay|examples|solve|analyze|topic|obtained|switching|framework|components|functional|inequalities|numerical|neural|reciprocally|concept|h|networks|l|augmented|matrix|dissipative|two|extended|r|paper|convex|based|established|effectiveness|means|linear|components|abstract|passive|performance|unified|well|novel
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Applied mathematics|Pattern recognition|Control theory|Matrix (mathematics)|Dissipative system|Regular polygon|Markovian switching|Artificial intelligence|Artificial neural network|Mathematics
+references:1965587013|1971186708|1986582332|1988041926|2000465612|2009706090|2016562720|2025294956|2031673504|2037686415|2038641684|2042289076|2062503476|2067106531|2080067489|2092756130|2119275635|2120272661|2121615270|2145963278|2153027817|2184378000|2202057310|2218167451|2342840336|2344190494|2466139710|2492063646|2513215595
+
+
+id:2802499816
+title:Normalisation design for delayed singular Markovian jump systems based on system transformation technique
+year:2018
+author information:[
+author name:Guangming Zhuang
+author organization:Liaocheng University
+author id:2424877530|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Weihai Zhang
+author organization:Shandong University of Science  Technology
+author id:2163514153|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Qun Sun
+author organization:Liaocheng University
+author id:2769980558|
+]
+abstract:proportionalderivative|delaydependent|delayed|feedback|problem|markovian|terms|method|state|jump|constructing|including|cracking|system|examples|proposed|deals|timevarying|catalytic|singular|conditions|changed|usefulness|systems|inequalities|control|provided|utilised|augmented|matrix|normalisation|oil|paper|systems|verify|virtue|based|effectiveness|process|linear|sufficient|abstractthis|transformation|stabilisation|functional|simulation|modedependent
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Control theory|Matrix (mathematics)|Singular systems|Markovian jump|Mathematics
+references:1979900853|1984285111|2002726605|2009706090|2034707592|2045078195|2055104656|2102491056|2275985665|2301325126|2313622794|2342488082|2466139710|2485321538|2492063646|2509835289|2522991164|2553083547|2559942198|2579099521|2594267261|2599501144|2602458259|2612441546|2747905720|2761964096|2766886477|2769090091|2769661122|2769765238|2782158548|2782439591|2782562567|2790808302|2793846622
+
+
+id:2811385079
+title:Finite-time tracking control for stochastic nonlinear systems with full state constraints
+year:2018
+author information:[
+author name:Jing Zhang
+author organization:Liaocheng University
+author id:2883553410|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Guangming Zhuang
+author organization:Liaocheng University
+author id:2424877530|
+author name:Zhen Wang
+author organization:Henan University of science and technology
+author id:2649678536|
+]
+abstract:small|closedloop|compact|nonlinear|tracking|zero|problem|presented|state|results|violated|constructing|bounded|signals|system|proposed|converge|uncertainties|deals|set|neighborhood|demonstrate|tracking|scheme|parametric|barrier|tantype|error|lyapunov|states|adaptive|systems|stochastic|bounded|effectiveness|controller|constructed|abstract|control|constrained|simulation|finitetime|approach
+venue name:Applied Mathematics and Computation
+venue id:50372074
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Control theory|Nonlinear system|Control theory|Barrier lyapunov function|Compact space|Parametric statistics|Mathematics|Finite time|Tracking error|Bounded function
+references:1980842334|1987615627|2000055834|2000149165|2025049462|2025257680|2026964114|2049933349|2060535927|2074957607|2079025554|2094551465|2109151516|2166778519|2193245008|2285949792|2319773315|2334895298|2344184044|2471042570|2483537734|2608903392|2612441546|2758729690|2762220425|2765343112|2765519151|2765910425|2780728803|2789695292|2792607279
+
+
+id:2883820131
+title:Finite-Time Adaptive Fuzzy Control for Nonlinear Systems With Full State Constraints
+year:2019
+author information:[
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Jing Zhang
+author organization:Liaocheng University
+author id:2883553410|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Baoyong Zhang
+author organization:Nanjing University of Science  Technology
+author id:2121812423|
+author name:Zhen Wang
+author organization:Shaanxi University of Sci.  Technol
+author id:2649678536|
+]
+abstract:closedloop|simulation|approximate|used|nonlinear|tracking|constraints|required|output|reference|strictfeedback|problem|barrier|function|method|state|guarantees|results|bounded|functions|addressed|signals|system|proposed|demonstrate|full|systems|scheme|tantype|lyapunov|unknown|adaptive|systems|design|bounded|class|fuzzy|controller|backstepping|address|constructed|within|control|followed|strictly|proposed|finitetime|logic|validity
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Backstepping|Control theory|Nonlinear system|Computer science|Control theory|Fuzzy logic|Adaptive control|Control system|Fuzzy control system|Bounded function
+references:1635979774|1978956894|1982214011|2034707592|2050198849|2060535927|2062373349|2065905935|2079025554|2081006427|2081030163|2101036899|2129275525|2149083909|2153173318|2161470655|2193245008|2344184044|2344237528|2521856433|2529405793|2531086478|2560370148|2563423315|2603406422|2612441546|2614236825|2731789086|2758729690|2764049532|2765343112|2765519151|2765910425|2772388667|2780728803|2789695292
+
+
+id:2894217865
+title:Adaptive Fuzzy Control of Strict-Feedback Nonlinear Time-Delay Systems with Full-State Constraints
+year:2018
+author information:[
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Wenxing Yuan
+author organization:Liaocheng University
+author id:2808955801|
+author name:Yu Shao
+author organization:University of Science and Technology
+author id:2893495232|
+author name:Zongyao Sun
+author organization:Qufu Normal University
+author id:2122140218|
+author name:Junsheng Zhao
+author organization:Liaocheng University
+author id:2228840610|
+author name:Qun Sun
+author organization:Liaocheng University
+author id:2769980558|
+]
+abstract:small|constraints|delicate|addresses|functions|sufficiently|timedelay|main|nonlinear|tracking|constraints|design|output|strictfeedback|barrier|burdensome|operation|state|totally|properly|case|violated|based|given|package|issue|functionals|fullstate|benchmark|terms|system|selection|converge|neighborhood|demonstrate|errors|deal|novelty|provided|tantype|lyapunov|simpler|unknown|states|example|adaptive|paper|systems|procedures|design|construction|fuzzy|successful|allows|effectiveness|controller|original|identify|computations|control|scheme|avoid|adopted
+venue name:International Journal of Fuzzy Systems
+venue id:18792341
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Control theory|Mathematical optimization|Nonlinear system|Control theory|Fuzzy logic|Novelty|Fuzzy control system|Mathematics|Computation
+references:642919026|1897221034|1966556797|1980842334|1984287998|1986024064|2025257680|2065905935|2089684487|2093490906|2101036899|2130462650|2153173318|2193245008|2343036750|2379289466|2411793894|2491054843|2496887485|2522467183|2550108196|2568625502|2612441546|2664295321|2746361429|2758729690|2763094481|2789695292|2789864417|2790436143|2792247311|2811385079
+
+
+id:2895632869
+title:Adaptive Fuzzy Tracking Control of Flexible-Joint Robots With Full-State Constraints
+year:2019
+author information:[
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Shun-Feng Su
+author organization:National Taiwan University of Science and Tech
+author id:2237112505|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Van-Truong Nguyen
+author organization:National Taiwan University of Science and
+author id:2894863833|
+]
+abstract:small|reports|constraints|functions|sufficiently|used|nonlinear|tracking|constraints|without|computations|properly|output|barrier|burdensome|presented|operation|robots|state|totally|violated|still|successfully|ensure|comparison|method|system|converge|proposed|even|neighborhood|demonstrate|errors|full|study|deal|tantype|lyapunov|simpler|unknown|states|adaptive|paper|systems|valid|design|fuzzy|effectiveness|flexiblejoint|controller|identify|constructed|control|combining|schemes|simulations|backstepping|avoid|adopted|novel
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Lyapunov function|Backstepping|Control theory|Nonlinear system|Computer science|Adaptive system|Control theory|Fuzzy logic|Fuzzy control system|Robot
+references:1979654777|1984831821|1986024064|2005001458|2019538835|2028153280|2049933349|2054714783|2065905935|2101036899|2145438028|2158546495|2171574462|2188422583|2293923498|2306204307|2343238003|2344562701|2487171333|2522467183|2523356919|2563423315|2593843552|2601030518|2606135340|2612492575|2616685524|2733294185|2746297359|2746361429|2765910425|2769454729|2811385079|2883820131
+
+
+id:2900772461
+title:Adaptive Tracking Control for Mobile Manipulators with Stochastic Disturbances
+year:2019
+author information:[
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2927862477|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2988654366|
+author name:Yuqiang Wu
+author organization:Qufu Normal University
+author id:2699177604|
+]
+abstract:small|disturbances|manipulators|tracking|investigates|problem|shows|shown|controllers|dynamic|model|parameters|made|reduced|square|proposed|uncertainties|overparametrization|theory|errors|arbitrarily|appropriate|parametric|provided|statefeedback|guarantee|choosing|adaptive|paper|related|design|stochastic|studies|manipulator|based|designed|incorporating|overcomes|effectiveness|mobile|control|scheme|simulation|mean|suitable
+venue name:Journal of Systems Science  Complexity
+venue id:45848134
+venue type:J
+document type:Journal
+study fields:Mean square|Control theory|Control theory|Parametric statistics|Mathematics|Stochastic control|Mobile manipulator
+references:1966983059|1983931525|2002056129|2004030165|2006541295|2014729448|2022939375|2044555950|2083373693|2093817182|2096636372|2108931365|2119955255|2130087610|2145438028|2155947439|2287940679|2319773315|2496887485|2616685524|2736334925|2765928186
+
+
+id:2902533295
+title:Finite-Time Adaptive Fuzzy Tracking Control Design for Parallel Manipulators with Unbounded Uncertainties
+year:2019
+author information:[
+author name:Van-Truong Nguyen
+author organization:National Taiwan University of Science and
+author id:2894863833|
+author name:Chyi-Yeu Lin
+author organization:National Taiwan University of Sci.  Technol
+author id:2752243912|
+author name:Shun-Feng Su
+author organization:National Taiwan University of Science and Tech
+author id:2237112505|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+]
+abstract:closedloop|manipulators|simulation|stateoftheart|tracking|approach|output|nftsmc|knowledge|based|possess|methods|handle|require|system|uncertainties|much|scheme|fls|lyapunov|adaptive|dynamics|systems|nonsingular|performance|controller|theory|feedback|fast|advantages|finitetime|logic|adopted|sliding|several|rapid|clearly|robotic|mode|uncertainties|stability|converge|external|hybrid|proposed|higher|since|convergence|learning|parallel|nonlinearities|manipulator|unbounded|fuzzy|outperform|previous|disturbances|control|terminal|approaches|indeed|better|existing|ensured|evident|compensation
+venue name:International Journal of Fuzzy Systems
+venue id:18792341
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Lyapunov function|Parallel manipulator|Control theory|Control theory|Fuzzy logic|Robustness (computer science)|Invertible matrix|Terminal sliding mode|Mathematics
+references:1192773692|2046045373|2081299749|2129275525|2158546495|2312771923|2324564156|2343028562|2343067029|2344660126|2496887485|2500065849|2512395495|2517836063|2546578181|2564749174|2573736450|2586280710|2594498399|2606135340|2612441546|2621038831|2695358573|2731659850|2732068557|2743764890|2746106790|2749481129|2751297545|2751510101|2751915423|2753352472|2765928186|2776859894|2795350223|2883820131|2894217865
+
+
+id:2912988737
+title:Adaptive fuzzy asymptotically tracking control of full state constrained nonlinear system based on a novel Nussbaum-type function
+year:2019
+author information:[
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Guangming Zhuang
+author organization:Liaocheng University
+author id:2424877530|
+author name:Xia Huang
+author organization:Shandong University of Science and Technology
+author id:2725227754|
+author name:Hao Shen
+author organization:Anhui University of Technol
+author id:2659661688|
+]
+abstract:closedloop|functions|simulation|nonlinear|tracking|constraints|uncertain|output|problem|presented|operation|state|stability|violated|asymptotically|stability|compared|illustrate|analysis|system|proposed|effect|obtained|full|study|systems|convergence|guarantee|barrier|nussbaumtype|tantype|error|lyapunov|unknown|states|example|adaptive|based|class|fuzzy|effectiveness|controller|abstract|directions|theory|control|constrained|better|existing|carries|converges|backstepping|novel|supported|strategy
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Mathematical optimization|Backstepping|Control theory|Nonlinear system|Control theory|Fuzzy logic|Lyapunov stability|Control system|Mathematics|Tracking error
+references:1066744209|1983330313|1984831821|1986024064|2016507575|2049933349|2065905935|2094287485|2109151516|2193245008|2301325126|2342952057|2379289466|2400810967|2423050949|2468673050|2522467183|2560370148|2608903392|2612441546|2750236374|2753338162|2755051280|2758729690|2765910425|2767993796|2780728803|2781598313|2790808302|2791524775|2793846622|2794746350|2802741389|2803820553|2811385079|2883464943|2894217865
+
+
+id:2953667336
+title:Command filter-based finite-time adaptive fuzzy control for nonlinear systems with uncertain disturbance
+year:2019
+author information:[
+author name:Jing Zhang
+author organization:Liaocheng University
+author id:2883553410|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Zhen Wang
+author organization:Henan University of science and technology
+author id:2649678536|
+author name:Hao Shen
+author organization:Anhui University of Technol
+author id:2659661688|
+]
+abstract:small|closedloop|nonlinear|tracking|uncertain|employed|computations|zero|finitetime|problem|burdensome|presented|estimate|method|evaluated|filtering|resolves|using|package|avoids|eliminates|signals|system|converge|excessive|neighborhood|complexity|scheme|disturbance|error|unknown|example|adaptive|filterbased|systems|design|bounded|class|make|fuzzy|controller|constructed|abstract|control|also|command|explosion|compensation|logic|validity|strategy
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Control theory|Fuzzy logic|Filter (signal processing)|Fuzzy control system|Mathematics|Tracking error|Bounded function|Computation
+references:1970068620|1979517588|2005001458|2005595169|2040060055|2070536907|2082356457|2092707876|2096219490|2101036899|2102057409|2106783790|2110638818|2113562291|2129275525|2137824246|2168097327|2199324122|2404637401|2546546403|2748899561|2750236374|2753313310|2759872439|2763836835|2769090091|2769661122|2781598313|2789411207|2789695292|2792882341|2802415582|2802690764|2811385079|2912988737
+
+
+id:2972924554
+title:Adaptive Fuzzy Tracking Control of Stochastic Mechanical System with Input Saturation
+year:2019
+author information:[
+author name:Wen-Xing Yuan
+author organization:Liaocheng University
+author id:2808955801|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Zhen-Guo Liu
+author organization:Shanxi University
+author id:2973028026|
+author name:Feng-Xia Zhang
+author organization:Liaocheng University
+author id:2972670979|
+]
+abstract:disturbances|closedloop|functions|results|hyperbolic|simulation|paper|mechanical|nonlinear|tracking|saturation|generalized|using|ensure|issue|nonlinearity|probability|bounded|resulting|input|approximated|system|proposed|position|much|systems|respectively|unknown|states|adaptive|random|nondifferentiable|tangent|desired|systems|design|track|designed|fuzzy|smooth|effectiveness|controller|studied|verified|replaced|control|velocity|trajectory|target|possible|category|strategy|saturations
+venue name:International Journal of Fuzzy Systems
+venue id:18792341
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Saturation (chemistry)|Control theory|Fuzzy logic|Fuzzy control system|Trajectory|Mechanical system|Mathematics|Bounded function
+references:1966983059|2004030165|2014729448|2049933349|2101036899|2121570671|2145438028|2319860623|2338588725|2404015798|2496887485|2783622546|2883820131|2889879339|2892281448|2894217865|2895632869|2898073748|2905787690|2908657315|2912862712|2912988737|2926623850|2943895262|2944575527|2952399738|2953297110|2965553204
+
+
+id:2982368678
+title:Normalization and stabilization of neutral descriptor hybrid systems based on P-D feedback control
+year:2019
+author information:[
+author name:Guangming Zhuang
+author organization:Liaocheng University
+author id:2424877530|
+author name:Jianwei Xia
+author organization:Liaocheng University
+author id:2302546702|
+author name:Wei Sun
+author organization:Liaocheng University
+author id:2641975821|
+author name:Qian Ma
+author organization:Nanjing University of Science and Technology
+author id:2893912216|
+author name:Zhen Wang
+author organization:Henan University of science and technology
+author id:2649678536|
+author name:Yanqian Wang
+author organization:Qingdao University of Technology
+author id:2909928260|
+]
+abstract:equivalent|concerned|stabilization|proportionalderivative|delaydependent|delayed|descriptor|via|employed|feedback|output|problem|normalization|terms|controllers|method|state|stability|element|lyapunovkrasovskii|constructing|including|neutral|hybrid|system|examples|delays|timevarying|conditions|partial|usefulness|inequalities|circuit|provided|technique|matrix|paper|systems|design|verify|transformed|normal|linear|sufficient|abstract|designing|functional|simulation|validity|modedependent|injection
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Normalization (statistics)|Matrix (mathematics)|Control theory|Hybrid system|Partial element equivalent circuit|Mathematics
+references:841609590|2006145256|2009706090|2032626758|2057207675|2143407543|2155758774|2190354411|2468428634|2492063646|2528460815|2559942198|2588279938|2599501144|2605988318|2619229533|2767358489|2789570622|2789695292|2789878803|2791104388|2792247311|2795971477|2802499816|2810315583|2883820131|2884676600|2895337286|2912603160|2912988737|2921781997|2952399738|2955748800
+

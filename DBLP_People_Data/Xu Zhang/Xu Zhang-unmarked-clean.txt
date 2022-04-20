@@ -1,0 +1,2674 @@
+
+id:1972267441
+title:Multiscale Entropy Analysis of Different Spontaneous Motor Unit Discharge Patterns
+year:2013
+author information:[
+author name:Xu Zhang
+author organization:Sensory Motor Performance Program, Rehabilitation Institute of Chicago , Chicago, IL, USA
+author id:2907778380|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:P. E. Barkhaus
+author organization:Dept. of Neurology, Med. Coll. of Wisconsin, Milwaukee, WI, USA
+author id:2016144023|
+author name:Ping Zhou
+author organization:University of Sci.  Technol. of China
+author id:2508946459|
+]
+abstract:usage|empirical|spontaneous|nonlinear|electromyogram|observed|significant|number|facilitates|motoneuron|understanding|surface|compared|analysis|two|discern|among|difference|health|tonic|multiscale|motor|algorithms|study|explores|differences|multivariate|two|emg|characterizing|entropy|low|singlescale|signals|mse|may|p|spinal|novel|standard|findings|developed|mode|analyses|dynamic|different|emg|including|patterns|intrinsic|unit|signals|scales|relatively|repetitive|analysis|applied|contribute|scale|decomposition|imen|related|normal|baseline|recently|multiple|significance|application|various|properties
+venue name:IEEE Journal of Biomedical and Health Informatics
+venue id:2495854775
+venue type:J
+document type:Journal
+study fields:Multiscale entropy|Tonic (music)|Pattern recognition|Neurophysiology|Spontaneous muscle activity|Computer science|Multivariate empirical mode decomposition|Electromyography|Motor unit|Artificial intelligence|Motor unit action potential
+references:1971732569|2079409030|2091192187|2102729747|2118499503|2120390927|2147054076|2167595074|2169721303
+
+
+id:1973675169
+title:Interpreting sign components from accelerometer and sEMG data for automatic sign language recognition
+year:2011
+author information:[
+author name:Yun Li
+author organization:University of Science and Technology of China
+author id:2527607334|
+author name:Xiang Chen
+author organization:Department of Electronic Science and Technology, USTC, Hefei 230027, China
+author id:2806749766|
+author name:Xu Zhang
+author organization:Sensory Motor Performance Program, Rehabilitation Institute of Chicago , Chicago, IL, USA
+author id:2907778380|
+author name:Kongqiao Wang
+author organization:Nokia Res. Center, Beijing
+author id:2609004928|
+author name:Jihai Yang
+author organization:University of Science and Technology of China
+author id:2146197878|
+]
+abstract:interpreting|establishing|improves|sign|recognition|developing|language|experimental|identification|slr|preliminary|results|largevocabulary|based|using|surface|method|work|proposes|portable|electromyographic|system|feasibility|system|proposed|level|demonstrate|components|study|gesture|promote|constituent|accelerometer|effectiveness|acc|practical|automatic|data|way|realization|component|performance|sensors|aiming|semg
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Computer vision|Computer science|Accelerometer|Gesture|Gesture recognition|Speech recognition|Sign language|Artificial intelligence|Support vector machine classification
+references:2010692358|2068240346|2092452488|2096910120|2102729747|2106526692|2112382942|2147780311|2309147534
+
+
+id:1979003818
+title:Acceleration and electromyography (EMG) pattern analysis for children with cerebral palsy
+year:2012
+author information:[
+author name:Qian Wang
+author organization:University of Science and Technology of China
+author id:2609642856|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:De Wu
+author organization:the First Affiliated Hospital of Anhui Medical University
+author id:2236856878|
+author name:Lingling Qian
+author organization:the First Affiliated Hospital of Anhui Medical University
+author id:2548647777|
+author name:Xu Zhang
+author organization:Department of Electronic Science and Technology University of Science and Technology of China
+author id:2708101827|
+]
+abstract:functions|collected|experimental|stride|shanks|muscles|children|four|legs|palsy|whereas|utilized|extremity|using|method|abnormalities|lower|analysis|movement|abnormal|experiments|simultaneously|cerebral|cycle|two|indicating|signals|firstly|demonstrated|cp|acc|detection|cp|kinematic|td|framework|assess|electromyography|associated|able|information|adopted|reveal|acceleration|assessment|results|potential|emg|group|patterns|clinical|signals|extract|proposed|gait|activation|six|vertical|paper|muscle|recruited|therapy|also|control|processed|form|typical|presents
+venue name:International Conference on e-Health Networking, Applications and Services
+venue id:2623151190
+venue type:C
+document type:Conference
+study fields:Gait abnormality|Kinematics|Gait|STRIDE|Computer science|Cerebral palsy|Electromyography|Gait analysis|Acceleration|Physical medicine and rehabilitation
+references:2150383145
+
+
+id:1992889084
+title:Hand gesture recognition and virtual game control based on 3D accelerometer and EMG sensors
+year:2009
+author information:[
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2907778380|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Wen-hui Wang
+author organization:University of Science and Technology of China
+author id:2690239606|
+author name:Ji-hai Yang
+author organization:University of Science and Technology of China
+author id:2146197878|
+author name:Vuokko Lantz
+author organization:Nokia Research Center, Espoo, Finland
+author id:2092686959|
+author name:Kong-qiao Wang
+author organization:Nokia (China) Investment Co., Ltd., Beijing, China
+author id:2609004928|
+]
+abstract:multichannel|application|accuracy|electromyogram|gestures|facilitates|hidden|utilized|based|surface|method|natural|streams|recognize|utilizes|multistream|interaction|system|determined|models|evaluating|gestures|average|kinds|segments|signal|hand|acc|set|decision|markov|describes|controlled|consisting|cube|novel|recognition|used|meaningful|computers|continuous|signal|emg|realize|real|system|fusion|proposed|userfriendly|virtual|game|trained|gesture|paper|accelerometer|human|inputs|also|control|intelligent|sensors|performance|interaction|presents
+venue name:Intelligent User Interfaces
+venue id:1170221290
+venue type:C
+document type:Conference
+study fields:Computer vision|Decision fusion|Accelerometer|Gesture|Computer science|Gesture recognition|Virtual game|Speech recognition|Artificial intelligence|Hidden Markov model|Cube
+references:2026654389|2102134492|2106526692|2108101067|2119030380|2160897043|2168392347
+
+
+id:2007719959
+title:Electromyography-Based Locomotion Pattern Recognition and Personal Positioning Toward Improved Context-Awareness Applications
+year:2013
+author information:[
+author name:Qian Wang
+author organization:University of Sci.  Tech. of China
+author id:2609642856|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Ruizhi Chen
+author organization:Texas AM University-Corpus Christi
+author id:2115965901|
+author name:Yuwei Chen
+author organization:Dept. of Navig.  Positioning, Finnish Geodetic Institute, Masala, Finland
+author id:2231287226|
+author name:Xu Zhang
+author organization:Sensory Motor Performance Program, Rehabilitation Institute of Chicago , Chicago, IL, USA
+author id:2907778380|
+]
+abstract:fulfill|results|reflected|accuracy|areas|experimental|whole|stride|attempt|four|context|estimate|model|navigation|models|using|personal|method|basement|made|simulated|robustness|degraded|feasibility|traditional|system|field|constructions|attenuated|recognizes|obtained|role|achieve|locomotion|pattern|dead|global|proven|test|yield|within|emgbased|multisensor|electromyography|locations|motions|combined|novel|available|recognition|used|gps|inside|awareness|solution|reckoning|employs|different|signal|results|emg|new|including|patterns|adapting|less|important|length|unit|task|signals|proposed|improve|buildings|playing|demonstrate|position|mightily|distance|pedestrian|according|detect|investigate|constructs|error|effective|rate|positioning|walking|muscle|pdr|digital|sensing|pilot|practical|patterns|length|satisfying|deviation|technology|sensors|urban|corresponding|activities|well|step
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Computer vision|Compass|Pattern recognition|STRIDE|Computer science|Accelerometer|Word error rate|Positioning technology|Sensor fusion|Dead reckoning|Global Positioning System|Artificial intelligence
+references:1507216665|1572643890|1666243891|2004826416|2025241052|2032481801|2032826168|2035298159|2036796028|2047698863|2099741294|2101335795|2102205543|2106526692|2106951868|2108225567|2110685331|2119350939|2128121198|2132980678|2134041135|2135720347
+
+
+id:2016071976
+title:A Sign-Component-Based Framework for Chinese Sign Language Recognition Using Accelerometer and sEMG Data
+year:2012
+author information:[
+author name:Yun Li
+author organization:University of Sci.  Tech. of China
+author id:2527607334|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Xu Zhang
+author organization:Rehabilitation Institute of Chicago; Chicago IL USA
+author id:2907778380|
+author name:Kongqiao Wang
+author organization:Multimedia Technol. Lab., Nokia (China) Investment Co., Ltd., Beijing, China
+author id:2609004928|
+author name:Z. J. Wang
+author organization:University of British Columbia
+author id:2152512331|
+]
+abstract:interpreting|recognized|accuracy|extracted|three|improved|slr|promising|sentence|using|surface|method|preprocessing|portable|electromyographic|classification|propose|feasibility|system|subwords|level|components|systems|likelihoods|sentences|identification|vocabulary|based|hand|compared|acc|decision|implementing|namely|fusing|performed|component|framework|segments|aiming|chinese|semg|learned|data|sign|recognition|developing|language|clearly|features|continuous|classifiers|largevocabulary|modeled|important|sequence|especially|proposed|beneficial|overall|demonstrate|basic|seems|show|gesture|signs|constituent|accelerometer|divide|previous|automatic|superior|performance|corresponding|subword
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Chinese Sign Language|Data segment|Pattern recognition|Gesture|Computer science|Gesture recognition|Feature extraction|Speech recognition|Preprocessor|Sign language|Artificial intelligence|Hidden Markov model
+references:1589033891|2010692358|2055532432|2068240346|2070176749|2092452488|2096813265|2096910120|2102729747|2106526692|2108225567|2112382942|2125834953|2134033472|2146221819|2147289866|2150506149|2152528000|2167582671|2168162876|2171373074|2309147534|2536822842
+
+
+id:2032826168
+title:A novel pedestrian dead reckoning algorithm using wearable EMG sensors to measure walking strides
+year:2010
+author information:[
+author name:Qian Wang
+author organization:University of Science and Technology of China
+author id:2609642856|
+author name:Xu Zhang
+author organization:Department of Electronic Science and Technology University of Science and Technology of China
+author id:2907778380|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Ruizhi Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2115965901|
+author name:Wei Chen
+author organization:University of Electronic Science and Technology of China
+author id:2661213908|
+author name:Yuwei Chen
+author organization:Finnish Geodetic Institute, Finland
+author id:2231287226|
+]
+abstract:tester|experimental|extracted|contractions|via|measures|reflect|would|classifier|model|compass|utilized|investigated|based|using|wearable|method|work|steps|electrical|raw|personal|lowcost|classified|degraded|feasibility|environments|field|pdr|indoor|male|statistical|activity|dead|kinds|occurrence|two|entropy|systems|indicate|validate|robust|heading|markov|emgbased|available|data|biomedical|sample|model|considering|standing|electromyography|exploit|comparable|novel|calculation|practicability|fed|use|several|developing|gps|features|solution|generated|presented|reckoning|signal|twoaxis|results|emg|kind|capture|conducted|includes|establish|suited|signals|measure|tests|position|demonstrate|parameters|hidden|opensky|optimized|paper|walking|muscle|studies|human|pdr|digital|effectiveness|potentials|characteristics|pilot|length|kinematics|also|consecutive|sensors|performance|urban|activities|well|pedestrian|step|avoid|selfcontained|canyons|normally
+venue name:Ubiquitous Positioning, Indoor Navigation, and Location Based Service
+venue id:2754939321
+venue type:C
+document type:Conference
+study fields:Computer vision|Kinematics|Sample entropy|Compass|Wearable computer|Dead reckoning|Global Positioning System|Artificial intelligence|Engineering|GPS signals|Hidden Markov model
+references:1560013842|2102729747|2106526692|2129316790|2152528000|2168392347
+
+
+id:2047698863
+title:High-Density Myoelectric Pattern Recognition Toward Improved Stroke Rehabilitation
+year:2012
+author information:[
+author name:Xu Zhang
+author organization:Sensory Motor Performance Program, Rehabilitation Institute of Chicago , Chicago, IL, USA
+author id:2907778380|
+author name:Ping Zhou
+author organization:Sensory Motor Performance Program, Rehabilitation Institute of Chicago , Chicago, IL, USA
+author id:2508946459|
+]
+abstract:patternrecognition|extracted|electromyogram|improved|tried|muscles|thus|survivors|tasks|using|subject|surface|devices|classification|substantial|intention|assisted|system|algorithms|motor|functional|study|surface|indicating|systems|patternrecognitionbased|movements|detection|may|myoelectric|subjects|people|series|aiming|information|movement|techniques|developing|used|developed|implemented|different|paretic|emg|hemiparetic|affected|signals|channels|infer|techniques|rarely|comprised|involving|limb|potentially|facilitate|assessed|recording|movements|highdensity|rehabilitation|intended|myoelectric|designed|high|identify|performing|perform|control|recorded|stroke|accuracies|disabilities
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Functional movement|Rehabilitation|Thumb|Computer science|Physical therapy|High density|Stroke|Electromyography|Motor control|Biomechanics|Physical medicine and rehabilitation
+references:1974097586|2065004162|2070176749|2096813265|2106526692|2108225567|2120969571|2133530044|2134408600|2153635508|2165619603|2165880886|2168162876|2168436483|2171373074
+
+
+id:2068240346
+title:Automatic recognition of sign language subwords based on portable accelerometer and EMG sensors
+year:2010
+author information:[
+author name:Yun Li
+author organization:University of Science and Technology of China
+author id:2527607334|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Jianxun Tian
+author organization:University of Science and Technology of China
+author id:2229666819|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2907778380|
+author name:Kongqiao Wang
+author organization:Nokia Res. Center, Beijing
+author id:2609004928|
+author name:Jihai Yang
+author organization:University of Science and Technology of China
+author id:2146197878|
+]
+abstract:multichannel|recognition|sign|developing|language|used|good|slr|facilitates|presented|slr|communication|humancomputer|results|combination|based|development|worn|surface|method|devices|experimental|multimodal|portable|basis|recognize|classification|fusion|feasibility|input|system|proposed|multisensor|subwords|forearm|level|demonstrate|recognizer|gesturebased|study|serves|frequently|automatically|deaf|effective|promote|hearing|interfaces|practical|automatic|also|realization|sensors|electromyography|interaction|accelerometers|chinese|sign|information|subword|strategy
+venue name:International Conference on Multimodal Interfaces
+venue id:1131590914
+venue type:C
+document type:Conference
+study fields:Chinese Sign Language|Computer vision|Computer science|Gesture|Accelerometer|Gesture recognition|Speech recognition|Sign language|Artificial intelligence|Information fusion|Input device
+references:1992889084|2026654389|2088260303|2092452488|2096813265|2096910120|2102729747|2106526692|2108825131|2112382942|2119030380|2131472500|2146221819|2152528000|2160897043|2167582671|2168162876|2168392347
+
+
+id:2087455143
+title:A Hand Gesture Recognition Framework and Wearable Gesture-Based Interaction Prototype for Mobile Devices
+year:2014
+author information:[
+author name:Zhiyuan Lu
+author organization:University of Sci. and Tech. of China
+author id:2797610895|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Qiang Li
+author organization:Southwest University
+author id:2651047923|
+author name:Xu Zhang
+author organization:University of Sci.  Technol. Beijing
+author id:2708101827|
+author name:Ping Zhou
+author organization:University of Sci.  Technol. of China
+author id:2508946459|
+]
+abstract:accuracy|program|gestures|improved|realtime|four|classifier|utilized|manipulate|algorithm|wearable|using|worn|surface|testing|electromyographic|interaction|phone|even|device|threeaxis|average|utility|semg|two|personalized|ones|segmentation|linear|within|suggest|positive|prototype|framework|results|timewarping|instruction|able|novel|features|developed|experience|predefined|userdependent|acceleration|dynamic|realize|new|including|demonstrates|ms|includes|fusion|testing|signals|proposed|sensor|gesturebased|framework|questionnaire|gesture|along|accelerometer|algorithmic|responded|sensing|process|recognition|bayes|mobile|performance|application|userindependent|interaction|user|scorebased
+venue name:IEEE Transactions on Human-Machine Systems
+venue id:2476799526
+venue type:J
+document type:Journal
+study fields:Computer vision|User experience design|Accelerometer|Wearable computer|Computer science|Gesture|Gesture recognition|Sensor fusion|Mobile device|Artificial intelligence|Mobile phone
+references:1967969808|1985976263|2009107851|2016071976|2039260438|2066991356|2102134492|2102205543|2106268430|2108184014|2108225567|2129114382|2133935915|2141964067|2147780311|2152528000|2177319272
+
+
+id:2108225567
+title:A Framework for Hand Gesture Recognition Based on Accelerometer and EMG Sensors
+year:2011
+author information:[
+author name:Xu Zhang
+author organization:University of Sci.  Tech. of China
+author id:2907778380|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Yun Li
+author organization:University of Sci.  Tech. of China
+author id:2527607334|
+author name:V. Lantz
+author organization:Multimodal Interaction, Nokia Research Center, Tampere, Finland
+author id:2092686959|
+author name:Kongqiao Wang
+author organization:Nokia Res. Center, Beijing
+author id:2609004928|
+author name:Jihai Yang
+author organization:University of Sci.  Tech. of China
+author id:2146197878|
+]
+abstract:play|results|interactive|experimental|decisionlevel|complementary|commands|gestures|slr|realtime|facilitates|cube|ten|utilized|based|models|using|multichannel|natural|classification|interaction|system|evaluate|threeaxis|sentences|automatically|kinds|functionality|segments|signals|get|examined|hand|acc|decision|markov|subjects|words|sensors|userspecific|framework|classification|electromyography|chinese|information|recognition|sign|language|points|meaningful|continuous|implemented|results|emg|tree|fusion|proposed|final|demonstrate|gesturebased|framework|virtual|game|hidden|gesture|paper|language|accelerometer|end|csl|effectiveness|multistream|built|start|control|also|intelligent|intensity|sensors|performance|userindependent|detected|sign|presents
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Chinese Sign Language|Decision tree|Computer science|Accelerometer|Gesture|Gesture recognition|Speech recognition|Sign language|Hidden Markov model|Information fusion
+references:3856460|1560013842|1984867864|2026654389|2055532432|2082397949|2092452488|2096813265|2098400987|2098562545|2102134492|2102205543|2102729747|2106526692|2119030380|2129316790|2131472500|2146221819|2150444217|2152528000|2160897043|2164450870|2167582671|2168162876|2168392347|2309147534|2536822842
+
+
+id:2167582671
+title:Hand Gesture Recognition Research Based on Surface EMG Sensors and 2D-accelerometers
+year:2007
+author information:[
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Xu Zhang
+author organization:University of Sci.  Technol. Beijing
+author id:2907778380|
+author name:Zhang-Yan Zhao
+author organization:University of Sci.  Technol. of China
+author id:2599514080|
+author name:Ji-Hai Yang
+author organization:University of Sci.  Technol. of China
+author id:2146197878|
+author name:V. Lantz
+author organization:Interaction CTC, Interacting in Smart Environments, Nokia Research Center, Helsinki, Finland, Vuokko.Lantz@nokia.com
+author id:2092686959|
+author name:Kong-Qiao Wang
+author organization:Visual Interaction Systems, Nokia Research Center, SRC Beijing, PRC, Kongqiao.Wang@nokia.com
+author id:2609004928|
+]
+abstract:data|recognition|run|used|wrist|gestures|different|results|emg|combination|wearable|using|separately|surface|experimental|tests|solely|techniques|sensor|obtained|collect|recognition|subsets|gestures|compare|show|detect|experiments|gesture|computer|accelerometer|designed|hand|compared|finger|sensing|interfaces|recognition|multiple|realizing|data|improvement|accuracies|sensors|performance|various|accelerometers|semg|achieved|multidof|information|synchronously|combined|movement
+venue name:International Symposium on Wearable Computers
+venue id:2538182508
+venue type:C
+document type:Conference
+study fields:Computer vision|Wearable computer|Accelerometer|Gesture|Computer science|Gesture recognition|Speech recognition|Artificial intelligence
+references:92925486|2092102206|2096631686|2152000601
+
+
+id:2234502898
+title:Random Forest-Based Recognition of Isolated Sign Language Subwords Using Data from Accelerometers and Surface Electromyographic Sensors
+year:2016
+author information:[
+author name:Ruiliang Su
+author organization:University of Sci. and Tech. of China
+author id:2332508171|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Shuai Cao
+author organization:University of Science  Tech of China
+author id:2297532530|
+author name:Xu Zhang
+author organization:University of Sci.  Tech. of China
+author id:2708101827|
+]
+abstract:accurate|bad|accuracy|experimental|improved|slr|classifier|nonverbal|forests|using|wearable|worn|surface|method|devices|work|impact|portable|recognize|classification|samples|subwords|reached|obtained|average|study|systems|proportion|frequently|demonstrated|hearingimpaired|robust|set|decision|forests|sensors|single|consisting|framework|recordings|electromyography|chinese|accelerometers|validity|adopted|forestbased|community|samples|almost|recognition|sign|language|used|amongst|emgaccbased|communication|results|offers|widely|proposes|tree|list|proposed|arms|subwords|training|resisting|error|random|paper|rate|csl|practical|previous|realizing|pair|way|superior|performance|sign|base
+venue name:Sensors
+venue id:101949793
+venue type:J
+document type:Journal
+study fields:Chinese Sign Language|Decision tree|Accelerometer|Wearable computer|Word error rate|Speech recognition|Sign language|Engineering|Random forest|Classifier (linguistics)
+references:127523710|1534552923|1928643227|1990653740|2010692358|2016071976|2024502389|2068240346|2096910120|2102729747|2106526692|2108225567|2118244636|2131308039|2143587161|2152988638|2162298316|2167582671|2309147534|2536822842|2911964244|2912934387
+
+
+id:2332036028
+title:Complexity Analysis of Surface EMG for Overcoming ECG Interference toward Proportional Myoelectric Control
+year:2016
+author information:[
+author name:Xu Zhang
+author organization:University of Sci.  Tech. of China
+author id:2708101827|
+author name:Xiaoting Ren
+author organization:University of Sci. and Tech. of China
+author id:2477561930|
+author name:Xiaoping Gao
+author organization:Anhui Medical University
+author id:2542653509|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+author name:Ping Zhou
+author organization:Physical Medicine  Rehabilitation
+author id:2797019960|
+]
+abstract:called|approach|users|degrees|investigates|muscles|interference|presence|using|surface|evaluation|proportional|analysis|toward|estimation|correlation|sampen|prosthesis|contaminated|sensitivity|become|study|taking|consequently|amputated|nonfunctional|measurement|surface|nerves|amplitude|entropy|low|targeted|robust|particularly|torso|subjects|ecg|sample|electromyographic|machine|showed|reinnervation|novel|data|residual|used|body|high|barrier|different|results|signal|emg|involves|level|often|significant|estimation|important|signals|interference|facilitate|neural|interface|electrocardiography|transferring|muscle|myoelectric|amputee|applying|implementation|control|intensity|performance|pectoralis|tmr|ablebodied|compromise
+venue name:Entropy
+venue id:195231649
+venue type:J
+document type:Journal
+study fields:EMG amplitude|Biomedical engineering|Torso|Mathematical optimization|Sample entropy|Proportional control|Proportional myoelectric control|Speech recognition|Interference (wave propagation)|Mathematics
+references:2079409030|2102729747|2106526692|2168436483
+
+
+id:2347535004
+title:Fatiguing Effects on the Multi-Scale Entropy of Surface Electromyography in Children with Cerebral Palsy
+year:2016
+author information:[
+author name:Tong Hong
+author organization:University of Sci. and Tech. of China
+author id:2711675953|
+author name:Xu Zhang
+author organization:University of Sci.  Tech. of China
+author id:2708101827|
+author name:Hongjun Ma
+author organization:
+author id:2523106009|
+author name:Yan Chen
+author organization:
+author id:2672106365|
+author name:Xiang Chen
+author organization:University of Sci.  Tech. of China
+author id:2806749766|
+]
+abstract:functions|increased|upper|empirical|objective|adaptively|observed|loss|fatigue|reflect|neuromuscular|children|four|complex|palsy|tasks|resultant|fiber|surface|multiscale|eighteen|investigative|underlying|slope|following|difference|fatiguing|cerebral|sixteen|larger|motor|study|indicated|curve|participated|experiments|confirmed|two|result|entropy|found|conduction|neuropathological|mse|compared|may|multiscale|possible|cp|performed|sample|children|td|appear|help|assess|electromyography|increasing|firing|cyclic|first|reveal|subject|findings|trapezius|analyses|mode|generated|calculated|emg|development|individual|level|palsy|occur|groups|degree|less|significant|intrinsic|decrease|tool|muscles|effects|unit|signals|applied|changes|decomposition|investigate|declining|lifting|provides|muscle|induced|limb|original|selective|rates|mfcv|calculating|experimentally|velocity|recorded|increase|impairments|factors|typical|synchronization|well|significantly|signal|account
+venue name:Entropy
+venue id:195231649
+venue type:J
+document type:Journal
+study fields:Upper limb|Sample entropy|Nerve conduction velocity|Simulation|Electromyography|Cerebral palsy|Motor unit|Muscle fatigue|Physical medicine and rehabilitation|Statistics|Mathematics
+references:1972267441|2079409030|2090446678|2094681201|2098395403|2132984323
+
+
+id:2376579142
+title:Chinese Sign Language Recognition Based on an Optimized Tree-Structure Framework
+year:2017
+author information:[
+author name:Xidong Yang
+author organization:University of Science and Technology of China
+author id:2339249644|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Xiang Cao
+author organization:University of Science and Technology of China
+author id:2548320082|
+author name:Shengjing Wei
+author organization:University of Science and Technology of China
+author id:2340052517|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+]
+abstract:three|evaluated|order|respectively|based|surface|testing|classification|combinations|system|subwords|explored|among|obtained|conditions|components|study|participated|experiments|kinds|two|fuse|hand|set|could|subjects|gyroscope|sensors|single|userspecific|consisting|framework|electromyography|chinese|information|first|recognition|paper|sign|seven|language|gyro|abilities|eight|implemented|different|pairedsensor|largevocabulary|threesensor|test|lay|treestructure|basis|proposed|overall|optimized|subwords|best|language|common|accelerometer|csl|effectively|recognition|implementation|target|accuracies|sensors|performance|userindependent|sign|subword
+venue name:IEEE Journal of Biomedical and Health Informatics
+venue id:2495854775
+venue type:J
+document type:Journal
+study fields:Chinese Sign Language|Gyroscope|Computer science|Gesture recognition|Artificial intelligence|Tree structure|Fuse (electrical)|Computer vision|Recognition system|Pattern recognition|Accelerometer|Speech recognition|Sign language
+references:1906868929|1928643227|2005829528|2016071976|2022327534|2026162488|2031461964|2066991356|2068240346|2074970257|2084969428|2087455143|2089778131|2092102206|2102729747|2108225567|2112382942|2125402361|2131308039|2156329326|2167582671|2309147534|2342090483
+
+
+id:2429704857
+title:Multiscale Two-Directional Two-Dimensional Principal Component Analysis and Its Application to High-Dimensional Biomedical Signal Classification
+year:2016
+author information:[
+author name:Hong-Bo Xie
+author organization:Queensland University of Technology
+author id:2302456923|
+author name:Ping Zhou
+author organization:University Of Texas Health Science Center
+author id:2797019960|
+author name:Tianruo Guo
+author organization:University of New South Walescbr /e
+author id:2151202408|
+author name:Bellie Sivakumar
+author organization:University of New South Walescbr /e
+author id:1927873718|
+author name:Xu Zhang
+author organization:University of Sci.  Tech. of China
+author id:2708101827|
+author name:Socrates Dokos
+author organization:University of New South Wales
+author id:2140162114|
+]
+abstract:increasingly|illustrates|dimensionality|approach|number|experiment|usually|spatial|reduce|using|efficiency|method|analysis|extraction|size|correlation|among|curse|registration|multiscale|ultrasound|operates|permitted|feature|signals|hand|problem|efficient|pca|biomedical|sample|single|component|powerful|recordings|results|electromyography|information|channels|first|essential|small|incorporate|multiscale|second|high|wtpca|presented|signal|emg|twodirectional|applicable|pca|vectors|signals|proposed|techniques|scales|wavelet|present|doppler|classify|analysis|rather|recording|movements|principal|effective|transform|subband|array|transformed|matrices|steady|incorporating|effectiveness|highdimensional|characteristics|constructed|improvement|recorded|followed|stroke|conventional|due|various|coefficients|step|physiological
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Signal processing|Sparse PCA|Spatial correlation|Dimensionality reduction|Pattern recognition|Computer science|Feature extraction|Artificial intelligence|Time–frequency analysis|Principal component analysis|Wavelet transform
+references:114029666|1541521713|1974192990|1974885452|2000827064|2008241367|2021775914|2022474458|2024633000|2026131661|2036854813|2047698863|2062227078|2092102206|2102544846|2105217829|2130773597|2480327711
+
+
+id:2460055594
+title:A Prototype of Reflection Pulse Oximeter Designed for Mobile Healthcare
+year:2016
+author information:[
+author name:Zhiyuan Lu
+author organization:University of Science and Technology of China
+author id:2797610895|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Zhongfei Dong
+author organization:University of Science and Technology of China
+author id:2318045962|
+author name:Zhangyan Zhao
+author organization:University of Science and Technology of China
+author id:2599514080|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+]
+abstract:introduces|oximeter|oximeter|hr|cover|offer|improved|cover|revealed|filtering|validation|based|miniaturized|method|light|handheld|difference|device|appropriate|circuit|scheme|achieve|experiments|overcome|clinical|tests|ambient|smart|measurement|adaptive|flat|healthcare|embedding|embedded|paired|detection|novel|caused|simplification|prototype|p|fast|calibrate|comparable|chopper|arterial|influence|oxygen|including|reflection|test|trough|significant|heart|modules|estimation|clinical|convenient|proposed|amplifier|sensor|facilitate|back|interferences|network|effective|paper|rate|design|photoplethysmogram|applications|designed|carried|implementation|mobile|also|devices|home|proposed|performance|pulse
+venue name:IEEE Journal of Biomedical and Health Informatics
+venue id:2495854775
+venue type:J
+document type:Journal
+study fields:Computer science|Pulse (signal processing)|Artificial intelligence|Computer hardware|Chopper|Amplifier|Computer vision|Photoplethysmogram|Internal medicine|Cardiology|Filter (signal processing)|Mobile device|Calibration
+references:1977188327|1988320258|2008691940|2014248633|2056016955|2060642847|2091375372|2103675325|2114046591|2119983029|2131496831|2133554450|2144193487|2146479207|2146587431|2150597948|2152651228|2158319938|2167597278
+
+
+id:2528715854
+title:Real-Time Control of an Exoskeleton Hand Robot with Myoelectric Pattern Recognition
+year:2017
+author information:[
+author name:Zhiyuan Lu
+author organization:University of Texas Health Science Center
+author id:2797610895|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+author name:Kay Yu Tong
+author organization:The Chinese University of Hong Kong
+author id:2559768536|
+author name:Ping Zhou
+author organization:University Of Texas Health Science Center
+author id:2797019960|
+]
+abstract:exoskeleton|advanced|tested|accuracy|approach|rehabilitation|realtime|four|injury|using|sessions|surface|subjects|intention|intact|system|drives|recognizes|motion|intentiondriven|study|scheme|participated|one|pattern|two|eight|exoskeleton|hand|processing|subjects||meet|visits|spinal|electromyography|motions|assist|data|subject|recognition|developed|individuals|second|lag|transmission|neurologically|different|acquired|including|robotassisted|cord|signals|channels|overall|forearm|training|rehabilitation|effective|total|accomplish|provides|intended|myoelectric|six|control|detects|also|neurological|approximately|third|sci|challenge|user|presents
+venue name:International Journal of Neural Systems
+venue id:197665576
+venue type:J
+document type:Journal
+study fields:Spinal cord injury|Rehabilitation|Pattern recognition|Computer science|Real-time Control System|Electromyography|Exoskeleton Device|Forearm|Exoskeleton|Artificial intelligence|Robot
+references:1974230805|2043212614|2045521464|2047698863|2066459718|2076024315|2087455143|2106526692|2115123877|2165619603|2168162876|2169599337|2196564534|2217430106
+
+
+id:2614556472
+title:Myoelectric Pattern Recognition Based on Muscle Synergies for Simultaneous Control of Dexterous Finger Movements
+year:2017
+author information:[
+author name:Shenquan Zhang
+author organization:University of Science  Technology of
+author id:2614735966|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+author name:Shuai Cao
+author organization:University of Science  Technology of
+author id:2297532530|
+author name:Xiaoping Gao
+author organization:Anhui Medical University
+author id:2542653509|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Ping Zhou
+author organization:Guangdong Work Injury Rehabilitation Center, Guangzhou, China
+author id:2797019960|
+]
+abstract:synergy|sufficiently|patternrecognition|outperforming|accuracy|three|approach|degrees|muscles|experiment|complex|fully|tasks|exhibited|based|motor|natural|devices|decoding|subjects|feasibility|intact|explored|evaluate|motor|study|simultaneous|pattern|two|dof|routine|freedom|dexterous|demonstrated|movements|hand|finger|involve|great|p|framework|movement|novel|task|data|recognition|robotic|high|neurologically|solution|dofs|incorporated|discrimination|feasible|paretic|potential|always|offers|including|difficulty|proposed|especially|daily|discriminating|assessed|neural|sequential|training|life|muscle|myoelectric|designed|prosthetic|implementation|multiple|yet|control|also|stroke|performance|conventional|due|activities|information|strategy|presents
+venue name:IEEE Transactions on Human-Machine Systems
+venue id:2476799526
+venue type:J
+document type:Journal
+study fields:Neural control|Computer vision|Pattern recognition|Computer science|Electromyography|Motor control|Feature extraction|Sequential control|Artificial intelligence|Decoding methods|Multiple degrees of freedom
+references:1977607443|2007719959|2047698863|2097292795|2106526692|2108225567|2113190957|2143940489|2161419360|2165619603|2528715854
+
+
+id:2898675160
+title:Myoelectric Pattern Recognition for Controlling a Robotic Hand: A Feasibility Study in Stroke
+year:2019
+author information:[
+author name:Zhiyuan Lu
+author organization:Department of Physical Medicine and RehabilitationUniversity of Texas Health Science Center at Houston
+author id:2797610895|
+author name:Kai-yu Tong
+author organization:Department of Biomedical EngineeringChinese University of Hong Kong
+author id:2033685918|
+author name:Xu Zhang
+author organization:Biomedical Engineering ProgramUniversity of Science and Technology of China
+author id:2708101827|
+author name:Sheng Li
+author organization:Department of Physical Medicine and RehabilitationUniversity of Texas Health Science Center at Houston
+author id:2518970718|
+author name:Ping Zhou
+author organization:University Of Texas Health Science Center
+author id:2797019960|
+]
+abstract:tested|accuracy|electromyogram|investigates|observed|realtime|controlling|validation|successfully|using|devices|classification|analysis|subjects|feasibility|handout|correlation|average|study|control|differences|pattern|experiments|two|eight|offline|exoskeleton|hand|performance|side|patients|decreased|myoelectric|subjects|performed|humanmachine|suggest|performed|assess|hand|reveal|subject|findings|recognition|robotic|chv|feasible|paretic|different|individual|patterns|improving|prostheses|signals|used|individually|forearm|applied|interface|robotassisted|rehabilitation|random|myoelectric|value|applying|characteristics|six|motion|apply|cross|clear|control|also|specific|stroke|dexterity|mean|achieved|online|significantly|chronological
+venue name:IEEE Transactions on Biomedical Engineering
+venue id:5240358
+venue type:J
+document type:Journal
+study fields:Mean value|Robotic hand|Pattern recognition|Computer science|Stroke|Electromyography|Exoskeleton|Artificial intelligence|Cross-validation
+references:1815774045|1985976263|2002499457|2022327534|2032246760|2043175102|2047698863|2053207636|2076024315|2087455143|2089876405|2108225567|2111046820|2111135417|2115123877|2152093652|2153635508|2170034570|2493474345|2528715854|2735653450
+
+
+id:2979819390
+title:Visualized Evidences for Detecting Novelty in Myoelectric Pattern Recognition using 3D Convolutional Neural Networks
+year:2019
+author information:[
+author name:Le Wu
+author organization:University of Science  Technology of China
+author id:2979520607|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Xun Chen
+author organization:University of Science and Technology of China
+author id:2581048850|
+]
+abstract:muscular|straightforward|big|placed|considered|tsne|extracting|degrees|mpr|electromyogram|interference|enable|around|evaluated|distance|based|using|issue|method|surface|visualized|tdistributed|outlier|untargeted|baseline|classification|accurately|yielded|propose|traditional|timevarying|arrays|account|cnn|activity|given|pattern|embedding|confirmed|two|scattered|characterizing|stream|inspired|unlearnt|dexterous|taken|targeted|extensors|convolutional|characterized|detection|subjects|neighbor|regarded|classification|recordings|showed|spatialtemporal|information|novel|small|data|strength|findings|recognition|stochastic|features|concentrated|sufficient|flexors|method|results|potential|stability|emg|patterns|mahalanobis|task|outperformed|proposed|interference|forearm|demonstrate|discriminating|neural|novelty|applied|technique|affecting|video|error|highdensity|interferences|network|electrode|common|rate|reject|averaged|discriminate|applications|myoelectric|applying|wide|advantage|patterns|performing|multiple|separated|control|although|recorded|motions|processed|performance|milestone|conventional
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Computer vision|Novelty detection|Pattern recognition|Convolutional neural network|Computer science|Word error rate|Outlier|Mahalanobis distance|Feature extraction|Artificial intelligence|Novelty
+references:1522301498|1825675169|2047698863|2106526692|2117172213|2165619603|2170034570|2170128511
+
+
+id:2979946862
+title:Heterogeneity Counts More than Power for HD-sEMG-Based Joint Force Estimation
+year:2019
+author information:[
+author name:Cong Zhang
+author organization:University of Science  Technology of
+author id:2884359082|
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2708101827|
+]
+abstract:elbow|otsu|hdsemg|tested|collected|areas|neuromuscular|muscles|filtered|model|tasks|reduce|using|surface|work|heterogeneitybased|analysis|extraction|input|utilize|following|force|obtained|components|aim|methods|technique|brachialis|according|compared|flexion|decomposed|heterogeneity|component|electromyography|polynomial|future|information|lowpass|first|mooreneighbor|joint|powerbased|several|works|signal|biceps|selected|obtain|tracing|maps|isometric|weight|estimation|signals|proposed|improve|covering|error|highdensity|principal|built|brachii|control|segmented|conventional|synchronously|significantly|signal|fitting|activated
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Computer vision|Biceps|Elbow|Polynomial|Computer science|Brachialis|Electromyography|Artificial intelligence|Isometric exercise|Tracing|Principal component analysis
+references:1975138793|2119391976|2735747032
+
+
+id:2991591790
+title:Quantitative assessment of lower limbs gross motor function in children with cerebral palsy based on surface EMG and inertial sensors
+year:2019
+author information:[
+author name:Xiang Chen
+author organization:University of Science  Technology of
+author id:2806749766|
+author name:Qi Wu
+author organization:University of Electronic Science and Technology of China
+author id:2990712730|
+author name:Lu Tang
+author organization:University of Science and Technology of China
+author id:2646646008|
+author name:Shuai Cao
+author organization:University of Science  Technology of
+author id:2297532530|
+author name:Xu Zhang
+author organization:Department of Electronic Science and Technology University of Science and Technology of China
+author id:2708101827|
+author name:Xun Chen
+author organization:University of Science and Technology of China
+author id:2581048850|
+]
+abstract:modes|selfdeveloped|accuracy|experimental|objective|evaluation|score|problem|children|crossborder|palsy|tasks|based|method|surface|compared|lower|analysis|two|feasibility|explored|determined|obtained|cerebral|motor|algorithms|integrating|taking|two|measurement|study|detection|acquisition|according|participants|detection|jumping|cp|children|framework|electromyography|series|semg|adopted|beam|recruited|data|translated|used|assessment|presented|function|method|different|results|potential|electrodes|including|static|gross|practice|capture|equipment|conducted|clinical|proposed|acquisition|limbs|adults|scale|function|units|platform|kicking|laser|lifting|value|effectiveness|sensing|motion|advantage|perform|verified|groups|inertial|alternating|sensors|application|quantitative|healthy
+venue name:Medical  Biological Engineering  Computing
+venue id:46300952
+venue type:J
+document type:Journal
+study fields:Computer vision|Motion detection|Jumping|Gait|Electromyography|Cerebral palsy|Artificial intelligence|Inertial measurement unit|Motion analysis|Mathematics|Gross motor skill
+references:1576730730|1967942900|1986560378|1998976375|2002204150|2035580247|2093071643|2102205543|2103413029|2104033295|2108225567|2139362983|2164711546|2213087239|2888594293
+
+
+id:2003934876
+title:A Priori Error Estimates for Some Discontinuous Galerkin Immersed Finite Element Methods
+year:2015
+author information:[
+author name:Tao Lin
+author organization:Virginia TEch
+author id:2159727435|
+author name:Qing Yang
+author organization:Shandong Normal University
+author id:2439122404|
+author name:Xu Zhang
+author organization:Purdue University
+author id:2957002600|
+]
+abstract:dg|functions|ifes|features|shows|formulation|refinement|problems|results|estimates|element|energy|combination|using|finite|methods|galerkin|estimation|norm|converge|demonstrate|elliptic|meshdependent|numerical|convergence|penalty|methods|provided|priori|error|interface|derive|local|interior|cartesian|optimally|secondorder|class|mesh|allows|problem|structure|classic|dgife|immersed|discontinuous
+venue name:Journal of Scientific Computing
+venue id:151550017
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Discontinuous Galerkin method|Mathematical optimization|Mathematical analysis|Local mesh refinement|A priori and a posteriori|Finite element method|Cartesian mesh|Mathematics
+references:1983731750|1997235068|1997612340|2001660127|2007809587|2058625005|2070135540|2099193593|2130350269|2963195654
+
+
+id:2006368881
+title:A locking-free immersed finite element method for planar elasticity interface problems
+year:2013
+author information:[
+author name:Tao Lin
+author organization:Department of Mathematics, Virginia Tech, United States
+author id:2159727435|
+author name:Dongwoo Sheen
+author organization:Seoul National University
+author id:2090639494|
+author name:Xu Zhang
+author organization:Department of Mathematics, Virginia Tech, Blacksburg, VA 24061, USA
+author id:2957002600|
+]
+abstract:functions|geometry|configurations|nontrivial|developed|materials|space|observed|solution|presented|displacement|meshes|element|new|based|approximation|method|planar|finite|proposes|applicable|article|galerkin|even|materials|demonstrate|problems|solving|numerical|compressible|elasticity|experiments|nearly|ife|interface|capability|optimally|structured|optimal|nonconforming|robust|abstract|arbitrary|incompressible|converges|material|locations|immersed|space
+venue name:Journal of Computational Physics
+venue id:148709879
+venue type:J
+document type:Journal
+study fields:Compressibility|Mathematical optimization|Polygon mesh|Mathematical analysis|Galerkin method|Finite element method|Planar|Cartesian mesh|Elasticity (economics)|Mathematics|Cartesian coordinate system
+references:95684949|1575849776|1977313776|1978517265|1997612340|2009673783|2099193593|2145870001
+
+
+id:2015847664
+title:Parameter extension for combined hybrid finite element methods and application to plate bending problems
+year:2010
+author information:[
+author name:Guozhu Yu
+author organization:Sichuan University
+author id:2695412081|
+author name:Xiaoping Xie
+author organization:Sichuan University
+author id:2624742487|
+author name:Xu Zhang
+author organization:Department of Mathematics, Virginia Tech, Blacksburg, VA 24061, USA
+author id:2957002600|
+]
+abstract:principle|used|approach|solution|modified|adjusting|problems|weighted|element|combination|energy|actual|resultant|method|models|finite|originally|schemes|discussed|important|stabilized|bending|discrete|hybrid|proposed|interval|average|extension|role|variational|scheme|convergence|show|plate|error|extended|parameter|rectangular|based|relationship|plays|expression|limited|abstract|advantage|performed|improvement|computation|form|uniqueness|combined|chfe|choice|discretization|novel
+venue name:Applied Mathematics and Computation
+venue id:50372074
+venue type:J
+document type:Journal
+study fields:Uniqueness|Discretization|Mathematical optimization|Mathematical analysis|Galerkin method|Finite element method|Plate theory|Numerical analysis|Mathematics|Computation|Bending of plates
+references:1984217711
+
+
+id:2145870001
+title:Linear and bilinear immersed finite elements for planar elasticity interface problems
+year:2012
+author information:[
+author name:Tao Lin
+author organization:Department of Mathematics, Virginia Tech, United States
+author id:2159727435|
+author name:Xu Zhang
+author organization:Department of Mathematics, Virginia Tech, Blacksburg, VA 24061, USA
+author id:2957002600|
+]
+abstract:functions|optimal|unisolvent|features|problem|element|approximation|including|planar|method|finite|solutions|assembling|applicable|guaranteed|less|discussed|analysis|article|system|galerkin|produced|functions|proposed|examples|converge|spaces|demonstrate|problems|requires|algebraic|larger|basic|solving|numerical|bilinear|methods|elasticity|provided|ife|interface|cartesian|numerical|norms|optimally|meshes|indicates|structured|class|linear|also|immersed|time|comparable|discuss
+venue name:Journal of Computational and Applied Mathematics
+venue id:165473669
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Polygon mesh|Algebraic number|Mathematical analysis|Galerkin method|Finite element method|Planar|Elasticity (economics)|Mathematics|Bilinear interpolation|Cartesian coordinate system
+references:1575849776|1978517265|1997612340|2009673783|2013540016|2069881201|2099193593
+
+
+id:2192585930
+title:Nonconforming immersed finite element spaces for elliptic interface problems
+year:2017
+author information:[
+author name:Ruchi Guo
+author organization:Virginia TEch
+author id:2795901822|
+author name:Tao Lin
+author organization:Department of Mathematics, Virginia Tech, United States
+author id:2159727435|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+]
+abstract:invertibility|functions|optimal|use|existence|degrees|introduced|either|enable|subelements|defined|us|element|group|actual|approximation|shape|polynomials|finite|develop|expansion|spaces|spaces|triangular|zou|study|approximation|prove|line|show|ife|piecewise|interface|two|chen|freedom|mesh|capability|identities|known|systems|rectangular|nonconforming|multiedge|abstract|separated|framework|uniqueness|unified|elements|well|immersed|integralvalue
+venue name:Computers  Mathematics With Applications
+venue id:73535193
+venue type:J
+document type:Journal
+study fields:Uniqueness|Mathematical optimization|Chen|Polynomial|Mathematical analysis|Finite element method|Mathematics|Piecewise|Triangle mesh
+references:1575849776|1997612340|2006368881|2016896593|2024162932|2058625005|2064932267|2093973639|2099193593|2145870001|2765258338|2963195654|2963959289
+
+
+id:2215837845
+title:Discontinuous Galerkin immersed finite element methods for parabolic interface problems
+year:2016
+author information:[
+author name:Qing Yang
+author organization:Shandong Normal University
+author id:2439122404|
+author name:Xu Zhang
+author organization:Purdue University
+author id:2957002600|
+]
+abstract:functions|theoretical|results|convergence|penalty|methods|experiments|provided|interface|interior|employed|analyzed|parabolic|typical|numerical|presented|problems|optimal|fully|element|validate|using|finite|schemes|galerkin|discrete|proved|solve|semidiscrete|immersed|discontinuous
+venue name:Journal of Computational and Applied Mathematics
+venue id:165473669
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Discontinuous Galerkin method|Mathematical optimization|Mathematical analysis|Finite element method|Mathematics|Parabola
+references:1514658588|1983731750|1997235068|1997612340|2003934876|2006368881|2016896593|2057460380|2070135540|2093973639|2099193593|2130350269|2145870001|2963195654
+
+
+id:2265372622
+title:Superconvergence of immersed finite element methods for interface problems
+year:2017
+author information:[
+author name:Waixiang Cao
+author organization:Beijing Computational Science Research Center
+author id:2718604993|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+author name:Zhimin Zhang
+author organization:Wayne State University
+author id:2295725814|
+]
+abstract:standard|dimensional|occurs|without|generalized|aligned|discontinuity|element|jump|polynomials|finite|solutions|roots|orthogonality|disappears|interface|coefficient|elliptic|study|methods|classical|show|global|phenomenon|interface|regularity|superconvergence|orthogonal|desired|due|low|unless|mesh|resolved|problem|satisfy|one|partition|conditions|requiring|inherit|immersed|properties
+venue name:Advances in Computational Mathematics
+venue id:57050787
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Orthogonal polynomials|Mathematical analysis|Discontinuity (linguistics)|Superconvergence|Extended finite element method|Orthogonality|Finite element method|Partition (number theory)|Mathematics|Mixed finite element method
+references:118329571|808122538|1514658588|1873489324|1981510480|1986550841|1997612340|2003934876|2006368881|2013540016|2016896593|2029214106|2033255950|2044190355|2049351608|2063440323|2082890708|2093156044|2097739195|2099193593|2963195654
+
+
+id:2344278613
+title:Immersed finite element methods for unbounded interface problems with periodic structures
+year:2016
+author information:[
+author name:Yong Cao
+author organization:Department of Mechanical Engineering and Automation, Harbin Institute of Technology Shenzhen Graduate School
+author id:2650206844|
+author name:Yuchuan Chu
+author organization:Department of Mechanical Engineering and Automation, Harbin Institute of Technology (Shenzhen), Shenzhen, Guangdong, 518055, PR China
+author id:2149540861|
+author name:Xiaoshi Zhang
+author organization:Department of Natural Sciences  Humanities, Harbin Institute of Technology, Shenzhen Graduate School, Shenzhen, Guangdong 518055, PR China
+author id:2708171902|
+author name:Xu Zhang
+author organization:Purdue University
+author id:2957002600|
+]
+abstract:particleincell|simulation|solved|desirable|materials|periodic|features|problem|method|maintained|element|new|large|method|like|arise|finite|often|efficiently|engineering|develop|stiffness|simulations|system|field|examples|even|solve|demonstrate|problems|involving|boundary|numerical|methods|periodic|infinite|provided|ife|interface|physics|matrix|tools|symmetric|cope|cartesian|physical|unbounded|linear|efficient|multiple|structures|positive|many|domain|structure|simulations|appear|modify|plasma|interface|immersed|applications
+venue name:Journal of Computational and Applied Mathematics
+venue id:165473669
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Linear system|Mathematical analysis|Matrix (mathematics)|Positive-definite matrix|Finite element method|Periodic boundary conditions|Stiffness matrix|Cartesian mesh|Periodic graph (geometry)|Mathematics
+references:1997612340|2003934876|2006368881|2016896593|2021663752|2048256066|2069881201|2145870001|2963195654|2963959289
+
+
+id:2623323780
+title:An improved immersed finite element particle-in-cell method for plasma simulation
+year:2017
+author information:[
+author name:Jinwei Bai
+author organization:Department of Mechanical Engineering  Automation, Harbin Institute of Technology(Shenzhen), Shenzhen, Guangdong 518055, PR China
+author id:2622554551|
+author name:Yong Cao
+author organization:Department of Mechanical Engineering and Automation, Harbin Institute of Technology Shenzhen Graduate School
+author id:2650206844|
+author name:Yuchuan Chu
+author organization:Department of Mechanical Engineering and Automation, Harbin Institute of Technology (Shenzhen), Shenzhen, Guangdong, 518055, PR China
+author id:2149540861|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+]
+abstract:particleincell|introduces|simulation|desirable|used|developed|improved|newly|features|complex|method|moderate|computational|element|combination|new|ensure|method|cost|finite|widely|tool|noisereduction|enhanced|conservation|field|examples|adopt|demonstrate|problems|solving|enhances|numerical|methods|provided|ife|technique|penalized|interface|two|cartesian|effective|capability|paper|provides|efficient|abstract|introduce|electric|aspects|pic|interpolation|performance|accuracy|charge|immersed|plasma|partially
+venue name:Computers  Mathematics With Applications
+venue id:73535193
+venue type:J
+document type:Journal
+study fields:Particle-in-cell|Mathematical optimization|Polygon mesh|Electric field|Interpolation|Finite element method|Solver|Plasma|Mathematics|Cartesian coordinate system
+references:1997612340|2003934876|2006368881|2021663752|2048256066|2145870001|2344278613|2409838862|2963195654
+
+
+id:2744618963
+title:Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems
+year:2017
+author information:[
+author name:Waixiang Cao
+author organization:Beijing Normal University
+author id:2718604993|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+author name:Zhimin Zhang
+author organization:Wayne State University
+author id:2295725814|
+author name:Qingsong Zou
+author organization:Beijing Normal University
+author id:2130576256|
+]
+abstract:standard|optimal|theoretical|points|high|generalized|solution|problems|results|order|element|including|finite|methods|roots|volume|superconvergent|element|examples|ifvm|ifvm|diffusion|prove|numerical|analysis|convergence|methods|provided|show|interface|gauss|superconvergence|flux|onedimensional|lobatto|class|mesh|introduce|rates|raised|also|consistent|confirm|immersed
+venue name:Journal of Scientific Computing
+venue id:151550017
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Mathematical optimization|Gauss|Polynomial|Mathematical analysis|Superconvergence|Flux|Finite volume method|Mathematics
+references:118329571|808122538|1873489324|1981510480|1986550841|1997612340|2003934876|2006368881|2021411519|2023963475|2029214106|2033130775|2033255950|2045504032|2049351608|2058625005|2070135540|2082890708|2085540192|2093156044|2107736107|2192585930|2215837845|2265372622|2963195654
+
+
+id:2963850169
+title:A Nonconforming Immersed Finite Element Method for Elliptic Interface Problems
+year:2019
+author information:[
+author name:Tao Lin
+author organization:Virginia TEch
+author id:2159727435|
+author name:Dongwoo Sheen
+author organization:Seoul National University
+author id:2090639494|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+]
+abstract:standard|stabilization|developed|space|degrees|without|employed|reflect|results|element|estimates|energy|jump|new|based|method|finite
+venue name:Journal of Scientific Computing
+venue id:151550017
+venue type:J
+document type:Journal
+study fields:Classification of discontinuities|Mathematical analysis|Galerkin method|Finite element method|Cartesian mesh|Mathematics
+references:1575849776|1997612340|2003934876|2006368881|2016896593|2024162932|2063027987|2064932267|2093973639|2192585930|2265372622|2963195654|2963959289
+
+
+id:2963935992
+title:An immersed weak Galerkin method for elliptic interface problems
+year:2019
+author information:[
+author name:Lin Mu
+author organization:Oak Ridge National Laboratory
+author id:2156867893|
+author name:Xu Zhang
+author organization:Mississippi State University
+author id:2957002600|
+]
+abstract:geometry|existence|nontrivial|used|solution|method|aligned|problems|results|meshes|energy|method|require|analysis|interface|galerkin|norm|proposed|provide|demonstrate|present|elliptic|solving|numerical|show|interface|error|weak|cartesian|uniform|numerical|secondorder|reported|abstract|interfacial|performance|uniqueness|immersed
+venue name:Journal of Computational and Applied Mathematics
+venue id:165473669
+venue type:J
+document type:Journal
+study fields:Uniqueness|Polygon mesh|Mathematical analysis|Galerkin method|Mathematics|Cartesian coordinate system
+references:1966480196|1997235068|1997612340|2003934876|2006368881|2017533067|2039955529|2052275102|2058625005|2093012115|2115423556|2130350269|2145870001|2192585930|2265372622|2512307835|2744618963|2783398594|2963195654
+
+
+id:2987883181
+title:Residual-Based a Posteriori Error Estimation for Immersed Finite Element Methods
+year:2019
+author information:[
+author name:Cuiyu He
+author organization:University College
+author id:2980791692|
+author name:Xu Zhang
+author organization:Oklahoma State University
+author id:2957002600|
+]
+abstract:contrast|reliable|estimate|constants|problems|results|utilized|element|efficiency|method|finite|interface|respect|estimation|posteriori|analyze|coefficient|elliptic|solving|numerical|independent|reliability|penalized|error|interface|naturally|proved|paper|interfaceunfitted|meshes|indicate|robust|efficient|introduce|location|immersed|residualbased|partially
+venue name:Journal of Scientific Computing
+venue id:151550017
+venue type:J
+document type:Journal
+study fields:Residual|Applied mathematics|Polygon mesh|Mathematical analysis|A priori and a posteriori|Finite element method|Mathematics
+references:1966480196|1997612340|2003934876|2020854958|2039709713|2063027987|2076725930|2096545304|2130350269|2265372622|2512307835|2589552012|2744618963|2963172733|2963195654|2963850169
+
+
+id:2009777652
+title:NetClust: A Framework for Scalable and Pareto-Optimal Media Server Placement
+year:2013
+author information:[
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2682062249|
+author name:Tongyu Zhan
+author organization:Tsinghua University
+author id:2060854000|
+author name:Ying Zhang
+author organization:Ericsson Research, USA
+author id:2937538776|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Dapeng Oliver Wu
+author organization:University of Florida
+author id:2973240197|
+]
+abstract:select|called|optimal|entire|constraints|realworld|contribution|algorithm|reduce|based|thus|lower|pool|quality|traditional|delay|system|selection|optimizationbased|networks|placement|simultaneously|evaluate|server|algorithms|clients|overcome|tradeoff|global|distribution|matching|capacity|netclust|takes|key|latest|deployment|compared|strategies|workloads|gathering|prototype|effective|multimedia|framework|information|kmeansclusteringbased|topological|novel|small|scalable|internet|paper|achieves|developed|solution|feasible|results|offers|new|coordinate|experimental|servers|obtaining|candidates|proposed|focused|demonstrate|largescale|critical|technique|deployed|media|primarily|unavailability|network|paper|optimizes|studies|client|cost|practical|identify|advantage|lowefficiency|performance|due|service|providers|adopts|locations|location|services|existing
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Client|Server farm|Computer science|Server|Computer network|Internet Authentication Service|Scalability|The Internet|Application server|Client–server model
+references:71185953|1496814404|1524343171|1560271974|1602302837|1854155592|1995845616|2009217060|2012198968|2013892720|2013991076|2017008045|2078545456|2099350947|2104042270|2110609173|2125374545|2130557213|2134529269|2149707865|2151633447|2153319198|2155342207|2159692093|2164994758|2167776925
+
+
+id:2302785920
+title:Three-dimensional geographic routing in wireless mobile ad hoc and sensor networks
+year:2016
+author information:[
+author name:Haojun Huang
+author organization:Wuhan University
+author id:2097437353|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Yan Luo
+author organization:Massachusetts University
+author id:2285835411|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2682062249|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Qilin Fan
+author organization:Tsinghua University
+author id:2232139317|
+]
+abstract:numerous|considered|scalability|approach|issues|specifically|geographic|based|ad|past|work|distributed|networks|hoc|compare|study|networks|criteria|valid|routing|research|current|compared|opportunities|designing|extensively|space|first|open|research|geographic|prior|surprisingly|protocols|different|attractive|illustrate|difficulty|longer|proposed|focused|principles|sensor|analysis|point|studies|designed|categorize|effectiveness|mobile|due|wireless|ocean|comprehensive
+venue name:IEEE Network
+venue id:186584794
+venue type:J
+document type:Journal
+study fields:Link-state routing protocol|Ad hoc On-Demand Distance Vector Routing|Dynamic Source Routing|Computer science|Computer network|Adaptive quality of service multi-hop routing|Ad hoc wireless distribution service|Wireless Routing Protocol|Optimized Link State Routing Protocol|Geographic routing|Distributed computing
+references:1978591194|1994886879|2001441766|2044421179|2053560092|2089372485|2096041501|2096504358|2110560466|2122181843|2149510577|2152948207|2160912862|2180324989
+
+
+id:2500450119
+title:Wearable indoor localisation approach in Internet of Things
+year:2016
+author information:[
+author name:Haojun Huang
+author organization:Wuhan University
+author id:2097437353|
+author name:Jianguo Zhou
+author organization:University
+author id:2628529194|
+author name:Wei Li
+author organization:Wuhan University
+author id:2721104412|
+author name:Juanbao Zhang
+author organization:Zhongyuan University of Technology
+author id:2554999814|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2646827135|
+author name:Guolin Hou
+author organization:Science and Technology on Near-surface Detection Laboratory, Wuxi, China
+author id:2558624063|
+]
+abstract:iot|focus|accuracy|approach|required|realworld|localisation|experiment|displacement|moving|wearable|issue|thus|devices|things|lower|schemes|propose|note|indoor|authors|healthcare|vector|healthcare|mechanism|embedded|emerging|estimating|detection|accuracy|realise|locations|unprecedented|emerges|essential|necessary|achieves|used|research|directly|results|important|proposed|exploited|improve|person|prediction|internet|demonstrate|error|speed|iot|smarter|guarantee|walking|designed|previous|localisation|mobile|speeds|approaches|increase|target|outdoor|various|work|applications
+venue name:IET networks
+venue id:2754941121
+venue type:C
+document type:Conference
+study fields:Wearable computer|Computer science|Internet of Things|Real-time computing|Wearable technology
+references:1581621714|1582667805|1678262632|1989651117|2006805041|2009463128|2012197287|2016410620|2067097216|2087623846|2100796177|2104100120|2114217245|2130137998|2145957138|2158528164|2166221222|2171550868|2240141800|2290009247|2293823404
+
+
+id:2514431540
+title:Edge Provisioning with Flexible Server Placement
+year:2017
+author information:[
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2682062249|
+author name:Hongqiang H. Liu
+author organization:Mobility and Networking Research Group, Microsoft Research, Redmond, WA
+author id:2206180634|
+author name:Yan Luo
+author organization:Massachusetts University
+author id:2285835411|
+author name:Chen Tian
+author organization:Nanjing University
+author id:2121207983|
+author name:Shuoyao Zhao
+author organization:Tsinghua University
+author id:2567627410|
+author name:Feng Li
+author organization:Tsinghua University
+author id:2687442129|
+]
+abstract:scales|increasingly|unforeseen|usage
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Coordinate system|Edge computing|Computer science|Server|Computer network|Real-time computing|Provisioning|Fault tolerance|Network data|Geographic coordinate conversion|Cloud computing|Distributed computing
+references:51997014|71185953|1518340120|1646289414|1973264045|1976986662|1990825535|2009777652|2010410498|2012198968|2013451793|2013892720|2027402472|2043407077|2074393111|2094299866|2117897639|2128008490|2132051999|2132987358|2133311553|2137033465|2141934596|2149917827|2151633447|2153319198|2154601295|2155342207|2157404363|2159662633|2159692093|2167776925|2170063609|2274072851|2481666560
+
+
+id:2607894752
+title:Tradeoffs Between Cost and Performance for CDN Provisioning Based on Coordinate Transformation
+year:2017
+author information:[
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2682062249|
+author name:Shuoyao Zhao
+author organization:Tsinghua University
+author id:2567627410|
+author name:Yan Luo
+author organization:Massachusetts University
+author id:2285835411|
+author name:Chen Tian
+author organization:Nanjing University
+author id:2121207983|
+author name:Vyas Sekar
+author organization:Carnegie Mellon University
+author id:2293201185|
+]
+abstract:delivered|cdn|without|interdomain|offer|sacrificing|embed|trends|phase|flexibly|tuning|large|countrywide|volumes|underlying|analysis||system|traffic|networks|placement|evaluate|enabler|server|average|access|roll|priori|tools|operators|elevated|reduces|expectations|mechanism|key|emerging|deployment|characterized|set|necessary|decision|workload|opportunities|qualityofexperience|help|multimedia|increasing|describe|entrant|reveal|data|use|sites|incumbent|faster|coarse|limit|serious|different|scenarios|results|given|new|fidelity|tradeoffs|workflow|knobs|experiences|take|disc|deployment|solve|systematically|present|support|internet|problems|critical|show|media|investigate|conversations|content|speed|whatif|network|candidate|servers|design|provisioning|delivery|applying|converged|characteristics|practical|cases|advantage|coordinatebased|affects|approaches|existing|service|providers|well|locations|user|significantly
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:User expectations|Use case|Computer science|Decision support system|Server|Computer network|Provisioning|Workflow|Access network|The Internet
+references:1575053380|1824518693|1990825535|2009777652|2012198968|2013892720|2035097365|2040534455|2042908504|2045399304|2060656154|2074393111|2078639032|2094299866|2115819049|2117897639|2122111042|2123491545|2126210439|2128008490|2132051999|2132987358|2139041001|2149707865|2149917827|2153319198|2154601295|2155342207|2159692093|2167776925|2170063609|2235494793|2276285412|2481666560
+
+
+id:2736107462
+title:Coordinate-Assisted Routing Approach to Bypass Routing Holes in Wireless Sensor Networks
+year:2017
+author information:[
+author name:Haojun Huang
+author organization:Wuhan University
+author id:2097437353|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2682062249|
+author name:Weixing Zhu
+author organization:PLA University of Sci.  Technol
+author id:2734373426|
+author name:Yulei Wu
+author organization:University of Exeter
+author id:2131941319|
+]
+abstract:forming|leading|whole|issues|approach|realworld|problem|terms|holes|geographic|sessions|thus|detail|optimality|packet|crossing|propose|traditional|route|delay|delivery|facebased|relative|planarizing|networks|routing|referring|outline|topologydependent|variety|free|based|emerging|performance|address|suffers|closer|face|future|exploit|first|becoming|data|environments|use|eliminating|philosophy|geographic|solution|planarize|links|protocols|avoiding|communication|representative|results|offers|area|attractive|including|coordinate|illustrate|often|failure|employing|achieving|addressed|proposed|buildings|survey|departure|basic|suboptimal|preserving|since|properties|behind|idea|show|paradigms|network|prerequisites|tend|cagr|design|route|direction|applying|delivery|recover|radical|wsns|control|factors|hole|existing|superior|nodes|simulation|various|location|passing
+venue name:IEEE Communications Magazine
+venue id:158797327
+venue type:J
+document type:Journal
+study fields:Equal-cost multi-path routing|Link-state routing protocol|Multipath routing|Dynamic Source Routing|Computer science|Static routing|Policy-based routing|Computer network|Geographic routing|Zone Routing Protocol|Distributed computing
+references:1789008473|2027935533|2042921523|2044421179|2067627652|2086824628|2090654145|2100999140|2101963262|2126492614|2138576486|2145352040|2156098211|2160912862|2166067271
+
+
+id:2749209560
+title:EMGR: Energy-efficient multicast geographic routing in wireless sensor networks
+year:2017
+author information:[
+author name:Haojun Huang
+author organization:Wuhan University
+author id:2097437353|
+author name:Junbao Zhang
+author organization:Zhongyuan University of Technol
+author id:2665577695|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+author name:Benshun Yi
+author organization:Wuhan University
+author id:2748405304|
+author name:Qilin Fan
+author organization:Tsinghua University
+author id:2232139317|
+author name:Feng Li
+author organization:Tsinghua University
+author id:2746713960|
+]
+abstract:networks|select|fulfill|conservation|simulation|approach|adaptively|improved|protocols|terms|case|guide|energy|based|issue|topology|destinations|resource|packet|propose|node|benefit|node|route|formed|role|achieve|energyaware|messages|global|multicast|routing|communications|low|compared|address|set|efficient|abstract|analytic|exploiting|single|energyefficient|metric|information|wsns|wireless|scalable|powered|use|energyoptimal|achieves|source|challenging|protocol|high|geographic|employs|quite|results|computational|needs|goal|often|towards|sent|important|emgr|proposed|success|forwarders|sensor|demonstrate|sensor|next|common|delivery|plays|batteries|recently|relay|multiple|recharging|wsns|control|requirement|message|conserve|instead|multicast|existing|nodes|performance|application|location|applications|closest
+venue name:Computer Networks
+venue id:63392143
+venue type:J
+document type:Journal
+study fields:Protocol Independent Multicast|Source-specific multicast|Inter-domain|Computer science|Xcast|Computer network|Pragmatic General Multicast|Distance Vector Multicast Routing Protocol|Multicast|Distributed computing|IP multicast
+references:1789008473|1973078712|1981118980|1991569090|2001909640|2006069853|2008911217|2035771809|2044421179|2077179237|2078911057|2082492299|2089153919|2090654145|2092193162|2095386900|2098219839|2100999140|2101963262|2107250588|2111122252|2111296679|2112798413|2122117190|2123115882|2123858980|2138576486|2149170882|2160912862|2240141800|2302785920|2508656992
+
+
+id:2754701120
+title:UMCR: User Interaction-Driven Mobile Content Retrieval
+year:2017
+author information:[
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Wei Wang
+author organization:University
+author id:2756128979|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+author name:Yongqiang Lyu
+author organization:Tsinghua University
+author id:2710686494|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Dongchao Guo
+author organization:Tsinghua University
+author id:2734584783|
+]
+abstract:extracting|videos|path|locator|balance|engines|diverse|text|traversal|recent|events|tasks|umcr|based|still|method|compared|distributed|optional|handle|efficiently|deep|analysis|propose|contains|system|crawler|package|dpi|much|scheme|serves|cutoff|retrieval|experiments|measurement|search|challenges|diversity|current|web|key|together|compared|ser|c|address|interactiondriven|combines|digging|etrieval|many|r|component|depth|u|information|faces|first|adopted|strategy|indices|uniform|tremendous|scheduling|implement|throughput|obtain|termination|static|obile|resource|traversing|inspection|difficult|capture|real|lack|task|improve|demonstrate|largescale|uipt|legacy|determines|content|scalability|retrieving|interactions|scheduler|times|metrics|responsible|designed|experienced|coverage|literature|infrastructural|assignment|mobile|arbitrary|although|grand|efficiency|performance|application|due|various|ecosystems|ontent|interaction|well|growth|content|user|applications
+venue name:ACM Transactions on Intelligent Systems and Technology
+venue id:2492086750
+venue type:J
+document type:Journal
+study fields:Mobile computing|Data mining|Mobile search|Computer science|Scheduling (computing)|Mobile database|Real-time computing|Cellular network|Web content|Web crawler|Distributed computing|Scalability
+references:1510634602|1951599591|2000273502|2091932246|2097987085|2110961887|2120136770|2126446220|2164170598|2170188121
+
+
+id:2767761285
+title:Energy-Aware Dual-Path Geographic Routing to Bypass Routing Holes in Wireless Sensor Networks
+year:2018
+author information:[
+author name:Haojun Huang
+author organization:China University of Geosci
+author id:2097437353|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Junbao Zhang
+author organization:Zhongyuan University of Technol
+author id:2665577695|
+author name:Yulei Wu
+author organization:University of Exeter
+author id:2131941319|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+]
+abstract:considered|obstacles|shift|focus|delivered|scenarios|approach|issues|dualpath|packets|adaptively|path|holes|energy|moderate|geographic|thus|topology|lower|detour|packet|propose|utilizes|dynamically|resulting|extend|route|delay|encountering|provide|much|energyaware|guarantee|global|networks|two|local|exploits|routing|variety|free|holes|compared|side|suffers|one|data|closer|energyefficient|nodedisjoint|anchor|cannot|sides|information|improvements|addressing|data|environments|residual|manner|protocol|geographic|threedimensional|ratio|balance|protocols|communication|results|area|attractive|applicable|often|failure|longer|achieving|proposed|buildings|sensor|demonstrate|suboptimal|since|higher|exhibits|recovery|network|tend|resourceconstrained|along|load|make|direction|delivery|characteristics|recover|wsns|edgr|consumption|instead|hole|better|existing|nodes|performance|simulation|various|wireless|location|passing|walk
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Equal-cost multi-path routing|Link-state routing protocol|Multipath routing|Dynamic Source Routing|Static routing|Policy-based routing|Computer science|Computer network|Wireless Routing Protocol|Geographic routing|Distributed computing
+references:1484350648|1965232091|1978632975|1981118980|1987998798|2001441766|2006069853|2027935533|2044421179|2053560092|2067627652|2077179237|2079507438|2082492299|2089153919|2089372485|2090654145|2092193162|2095386900|2101963262|2110159784|2122117190|2123115882|2123858980|2138576486|2156689181|2160745122|2160912862|2165983440|2166067271|2166576909
+
+
+id:2895958544
+title:Resource Provisioning in the Edge for IoT Applications With Multilevel Services
+year:2019
+author information:[
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+author name:Haojun Huang
+author organization:China University of Geosci
+author id:2097437353|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Dapeng Oliver Wu
+author organization:University of Florida
+author id:2973240197|
+author name:Geyong Min
+author organization:Exeter University
+author id:2133814358|
+author name:Zhan Ma
+author organization:Nanjing University
+author id:2156827177|
+]
+abstract:placed|functions|called|type|number|problem|optimization|complex|adms|centers|algorithm|reduce|based|satisfied|things|distributed|require|demand|begin|works|aim|delaysensitive|formulate|experiments|measurement|capacity|prevalence|across|low|supports|place|poses|minimizing|sp|deployment|ordered|offload|heuristic|services|many|comparable|data|subject|deploy|edge|high|time|ratio|geographically|vms|ams|real|fill|sequence|overall|internet|demonstrate|virtual|challenges|multilevel|scale|deployed|best|iot|network|computingintensive|design|fulfil|costs|requirements|cost|workflowbased|determine|studied|grand|efficiency|existing|application|simulation|micro|service|infrastructure|machines|limitations|user|providers|applications
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Software deployment|Virtual machine|Type of service|Computer science|Heuristic (computer science)|Computer network|Service provider|Provisioning|Workflow|Optimization problem|Distributed computing
+references:1502450072|1578960134|1723877813|1994043290|2019269619|2056412352|2100247928|2123491545|2144776482|2170756028|2511401065|2514431540|2531498697|2744588164|2779736036|2782105028|2785821779|2792888413|2794245731|2805430140
+
+
+id:2944480962
+title:Resource Reservation and Request Routing for a Cloud-Based Content Delivery Network
+year:2019
+author information:[
+author name:Qilin Fan
+author organization:ChongQing University
+author id:2944622603|
+author name:Yuming Jiang
+author organization:Norwegian University of Science and Technology
+author id:2944265621|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Yongqiang Lyu
+author organization:Tsinghua University
+author id:2710686494|
+author name:Haojun Huang
+author organization:China University of Geosci
+author id:2097437353|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+]
+abstract:optimal|simulation|cdn|issues|approach|without|problem|optimization|reservation|model|promising|algorithm|constitute|provide|flexible|geographical|deal|formulate|experiments|tradeoff|networks|investments|routing|diversity|cloudbased|systems|redirect|business|explore|fluctuating|heuristic|contentdistributionasaservice|rental|advantages|exploiting|dispersion|alternative|cloud|payasyougo|solution|dynamic|realize|traffic|resource|develop|maintaining|addressed|content|requests|demonstrate|request|critical|costeffective|best|clouds|investigate|installing|content|infrastructures|design|prices|algorithms|effectiveness|delivery|cost|built|nature|resources|demands|due|online|user
+venue name:Service Oriented Software Engineering
+venue id:1135185882
+venue type:C
+document type:Conference
+study fields:Reservation|Content delivery network|Heuristic|User experience design|Computer science|Heuristic (computer science)|Server|Optimization problem|Cloud computing|Distributed computing
+references:2009217060|2024195151|2035097365|2056412352|2083766832|2122173183|2140360362|2144776482|2383413053|2554703520|2793255553
+
+
+id:2944745641
+title:Caching Salon: From Classical to Learning-Based Approaches
+year:2019
+author information:[
+author name:Yangchao Zhao
+author organization:Nanjing University
+author id:2944233644|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+author name:Kai Yang
+author organization:Nanjing University
+author id:2943943123|
+author name:Qilin Fan
+author organization:ChongQing University
+author id:2944622603|
+author name:Dongchao Guo
+author organization:Tsinghua University
+author id:2734584783|
+author name:Yongqiang Lyu
+author organization:Tsinghua University
+author id:2710686494|
+author name:Hao Yin
+author organization:Tsinghua University
+author id:2168937206|
+author name:Zhan Ma
+author organization:Nanjing University
+author id:2156827177|
+]
+abstract:objects|proximity|review|network|recent|reduce|based|carefully|researchers|years|trying|server|methods|save|classical|popular|close|key|explore|strategies|many|great|field|parties|summarize|first|open|ratio|discuss|issues|used|caching|placing|learningbased|frequency|wish|reference|hit|successes|potential|traffic|always|qualityofexperience|development|content|improve|requests|try|origin|size|content|point|load|design|studies|enhance|costs|also|technology|approaches|delivery|interested|providers
+venue name:Service Oriented Software Engineering
+venue id:1135185882
+venue type:C
+document type:Conference
+study fields:Content delivery network|Content delivery|Computer science|Hit ratio|Server|Quality of experience|Salon|Multimedia|Distributed computing
+references:1860107648|1972458861|1972738071|1974561310|1978690967|2000042664|2051818334|2054308357|2060585552|2064675550|2068445498|2089059149|2104674076|2112053513|2130942839|2131806537|2135598826|2144256475|2144570882|2144572570|2145339207|2145834990|2158261262|2164278908|2173248099|2215378786|2311055650|2406213739|2491602136|2592755103|2604771015|2607894752|2624186268|2759910885|2793808430|2833256931|2887882300|2963805280
+
+
+id:2951827840
+title:T-Gaming: A Cost-Efficient Cloud Gaming System at Scale
+year:2019
+author information:[
+author name:Hao Chen
+author organization:Shanghai JiaoTong University
+author id:2700369325|
+author name:Xu Zhang
+author organization:Nanjing University
+author id:2682062249|
+author name:Yiling Xu
+author organization:Shanghai Jiao Tong University Shanghai
+author id:2250192271|
+author name:Ju Ren
+author organization:Central South University
+author id:2952520236|
+author name:Jingtao Fan
+author organization:Tsinghua University
+author id:2951667142|
+author name:Zhan Ma
+author organization:Nanjing University
+author id:2156827177|
+author name:Wenjun Zhang
+author organization:Shanghai University
+author id:2580785532|
+]
+abstract:play|called|improves|convenience|stateoftheart|anywhere|percent|without|via|suffer|realtime|despite|games|visual|reality|per|hardware|reduce|based|still|compared|utilizes|quality|system|prioritized|evaluate|average|works|gpus|highend|adaptive|resorting|streaming|feature|systems|reduces|popular|key|deployment|enables|qoe|gaming|highquality|cg|bandwidth|could|anytime|noticeable|onthefly|prototype|framework|adopted|internet|experience|gpu|cloud|unsatisfied|high|last|implement|intensive|virtualization|test|ultimate|cost|widely|proposes|real|encoding|expense|users|offtheshelf|efforts|transparent|improve|world|deep|normalized|qoe|abundance|learning|video|percent|network|pursue|paper|proprietary|reinforcement|human|consumer|allows|cost|tgaming|mobile|multiple|degradation|consumption|also|technology|devices|expensive|existing|performance|cloud|adopts|energyconstrained|reduction|gaming|user
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Virtualization|Software deployment|Computer science|Computer network|Mobile device|Quality of experience|Cloud gaming|Cost reduction|Cost efficiency|The Internet|Distributed computing
+references:1484686476|1974657716|1976944900|1984712701|2050621158|2054839470|2055165550|2062042873|2074160381|2103376474|2129120341|2146395539|2155027007|2175325787|2185395384|2185838390|2187895331|2189380805|2211996548|2293238486|2397506972|2399399754|2402144811|2404206924|2469644385|2482797934|2490243894|2507174453|2510227756|2540285146|2604521415|2744628735|2751899584|2755981968|2786870941|2792169409|2798791651|2798807298|2798857366|2799074129|2799108379|2802214001|2946021051|2963191323|2963342032|2964043796
+
+
+id:2007768439
+title:Adaptive output feedback control for a class of large-scale nonlinear time-delay systems
+year:2015
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2677508958|
+author name:Yan Lin
+author organization:Beihang University
+author id:2693538901|
+]
+abstract:addresses|stabilization|timedelay|nonlinear|required|output|feedback|priori|problem|developed|stability|knowledge|new|given|lyapunovkrasovskii|illustrate|delay|system|proposed|timevarying|largescale|systems|memoryless|global|example|adaptive|proved|numerical|paper|known|precise|class|effectiveness|controller|achieved|approach
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Nonlinear system|Feedback controller|Nonlinear control|Control theory|Feedback linearization|A priori and a posteriori|Control engineering|Adaptive control|Mathematics
+references:1967633750|1971756594|2014729448|2029494602|2040738659|2050973868|2056397347|2091919425|2102844581|2106543879|2115607130|2116932815|2124240834|2131086551|2141046429|2160917764|2168693278
+
+
+id:2023090978
+title:Nonlinear decentralized control of large-scale systems with strong interconnections
+year:2014
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2677508958|
+author name:Yan Lin
+author organization:Beihang University
+author id:2693538901|
+]
+abstract:addresses|stabilization|functions|states|developing|nonlinear|feedback|introduced|problem|function|method|state|new|given|successfully|method|illustrate|decentralized|system|proposed|bounds|largescale|appropriate|strong|novelty|interconnections|recursive|lyapunov|example|general|numerical|paper|systems|integral|design|class|carried|effectiveness|controller|product|constructed|interconnections|form|step
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Product integral|Nonlinear system|Decentralised system|Full state feedback|Control theory|Control engineering|Novelty|Recursion|Mathematics
+references:2005124709|2006008515|2029494602|2067637271|2086298643|2097450628|2100998971|2106543879|2115607130|2120320446|2137123803|2139677833|2155592899|2160164109
+
+
+id:2044003689
+title:A New Approach to Global Asymptotic Tracking for a Class of Low-Triangular Nonlinear Systems via Output Feedback
+year:2012
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2705040519|
+author name:Yan Lin
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2894067575|
+]
+abstract:simplifies|nonlinear|tracking|repeated|approach|output|feedback|zero|derivatives|observer|problem|depending|loop|dynamic|stability|new|using|avoids|guaranteed|propose|system|greatly|systems|instead|technique|global|error|gain|states|proved|design|nonlinearities|controller|class|scaling|controller|address|change|lowtriangular|procedure|converges|linearlike|backstepping|closed|exponentially|novel
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Control theory|Backstepping|Loop gain|Nonlinear control|Control theory|Feedback linearization|Feedback passivation|Minor loop feedback|Mathematics|Tracking error
+references:1967964192|2115763826|2124240834|2134847786|2141046429|2142399352|2159130301
+
+
+id:2055440613
+title:Adaptive Control of Nonlinear Time-Delay Systems With Application to a Two-Stage Chemical Reactor
+year:2015
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2705040519|
+author name:Yan Lin
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2894067575|
+]
+abstract:manner|use|timedelay|developed|nonlinear|approach|global|feedback|problem|solution|shown|function|dynamic|state|strict|longstanding|new|lyapunovkrasovskii|law|introducing|system|chosen|constructed|system|proposed|chemical|demonstrate|appropriate|note|explicitly|gainbased|memoryless|reactor|global|lyapunov|recursive|unknown|adaptive|general|feature|key|controller|problem|twostage|scheme|help|regulation|application|backstepping|achieved|approach|first|novel
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Lyapunov function|Mathematical optimization|Backstepping|Nonlinear system|Control theory|Full state feedback|Lyapunov redesign|Adaptive control|Chemical reactor|Mathematics|Recursion
+references:1967633750|1990157314|2017754071|2034656287|2096219490|2105369742|2115607130|2116932815|2119388622|2120529903|2132179668|2152236204|2164478659|2176197160
+
+
+id:2067867281
+title:Global output feedback stabilisation of nonlinear systems with a unifying linear controller structure
+year:2014
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2629910285|
+author name:Yan Lin
+author organization:Beihang University
+author id:2894067575|
+]
+abstract:functions|considered|states|nonlinear|uncertain|assumptions|output|feedback|observer|introduced|problem|stability|new|laws|compared|achieved|system|flexible|triangular|coupled|allow|systems|dynamic|analysis|applied|technique|global|investigate|dilationbased|extended|bounding|gain|proved|adaptive|paper|systems|zerodynamics|low|feedforward|nonlinearities|design|class|scaling|controller|linear|previous|unifying|structure|stabilisation|form
+venue name:International Journal of Control
+venue id:88061139
+venue type:J
+document type:Journal
+study fields:Control theory|Feedforward systems|Mathematical optimization|Nonlinear system|Dilation (morphology)|Nonlinear control|Control theory|Control engineering|Observer (quantum physics)|Scaling|Mathematics|Bounding overwatch
+references:1985794720|2067713152|2076672705|2087163503|2092991598|2115392117|2115763826|2124240834|2141046429|2151747037|2155096372|2156759262
+
+
+id:2077539089
+title:Global stabilization of high-order nonlinear time-delay systems by state feedback
+year:2014
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2697615288|
+author name:Yan Lin
+author organization:Beihang University
+author id:2653617292|
+]
+abstract:stabilization|regulated|upper|developing|timedelay|nonlinear|feedback|timedelay|problem|loop|academic|dynamic|consider|state|knowledge|given|illustrate|functionals|signals|examples|proposed|appropriate|explicitly|independent|gainbased|globally|highorder|origin|global|states|proved|systems|precise|bounded|physical|class|controller|constructed|abstract|scheme|help|backstepping|closed|required|novel|applications
+venue name:Systems  Control Letters
+venue id:56603566
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Backstepping|Nonlinear system|Full state feedback|Upper and lower bounds|Control theory|Mathematics|Bounded function
+references:2050973868|2065439008|2105369742|2115607130|2120529903|2146588488|2164478659|2168693278
+
+
+id:2288423019
+title:Nonsmooth control of time-delay nonlinear systems by dynamic state feedback
+year:2015
+author information:[
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2677508958|
+author name:Wei Lin
+author organization:Case Western Reserve University
+author id:2439977597|
+author name:Yan Lin
+author organization:Beihang University
+author id:2224876991|
+]
+abstract:closedloop|regulated|using|developing|timedelay|nonlinear|uncertain|via|feedback|problem|shown|byproduct|presented|method|dynamic|state|boundedness|based|similar|lyapunovkrasovskii|mild|compensator|maintaining|two|system|system|examples|proposed|conditions|involving|appropriate|study|systems|prove|controllers|origin|global|nonsmooth|regularity|gain|states|adaptive|parameterized|systems|nonlinearities|design|nonlinearly|class|validate|effectiveness|constructed|control|also|regulation|time
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Parameterized complexity|Nonlinear system|Computer science|Control theory|Nonlinear dynamical systems|Adaptive control|Uncertain systems
+references:1988098342|2006541295|2055440613|2077539089|2100325750|2105369742|2115607130|2129662737|2133507355|2161450707|2164478659|2167175335|2566235947
+
+
+id:2470902844
+title:Global state feedback stabilisation for a class of high-order nonlinear systems with quantised input and state
+year:2017
+author information:[
+author name:Guangqi Li
+author organization:Beijing University of Aeronautics and Astronautics
+author id:2135110288|
+author name:Yan Lin
+author organization:Beihang University
+author id:2693538901|
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2098944283|
+]
+abstract:addressing|closedloop|domination|quantisers|functions|nonlinear|approach|feedback|problem|terms|state|sector|combination|asymptotically|quantised|polynomialtype|bounded|homogeneous|stable|input|system|proposed|loworder|guideline|rate|parameters|aim|computed|globally|highorder|global|proved|multiplied|systems|class|derived|selecting|controller|constructed|bound|incremental|stabilisation|state
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Control theory|Homogeneous|Mathematics|Bounded function|Stability theory
+references:757063362|1999516751|2002723775|2005314286|2006940338|2026324833|2032228895|2045649918|2070222864|2122161467|2127572167|2142231721|2149872612|2154590552|2155024125|2162282221|2163910870|2167175335|2206626388
+
+
+id:2508232993
+title:Decentralised output feedback for a class of nonlinear systems via quantised sampled-data control
+year:2017
+author information:[
+author name:Xiaowei Yu
+author organization:Beijing University of Aeronautics and Astronautics
+author id:2716426486|
+author name:Yan Lin
+author organization:Beihang University
+author id:2693538901|
+author name:Xu Zhang
+author organization:Beijing University of Aeronaut.  Astronaut
+author id:2098944283|
+]
+abstract:interconnected|systems|instead|global|nonlinear|jump|choosing|example|output|sampleddata|proved|decentralised|sudden|design|method|class|sampled|stability|effectiveness|given|controller|achieved|illustrate|observerbased|quantised|quantise|system|proposed|quantising|suitable|avoid
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Control theory|Control engineering|Data control|Observer (quantum physics)|Jump|Mathematics
+references:2002723775|2023090978|2029494602|2055474837|2081851800|2092494579|2122161467|2122747351|2155024125|2163910870|2344718138
+
+
+id:2524880106
+title:Nonsmooth Feedback Control of Time-Delay Nonlinear Systems: A Dynamic Gain Based Approach
+year:2017
+author information:[
+author name:Xu Zhang
+author organization:Beihang University
+author id:2677508958|
+author name:Wei Lin
+author organization:Dongguan University of Technology
+author id:2439977597|
+author name:Yan Lin
+author organization:School of Automation Beihang University Beijing China
+author id:2693538901|
+]
+abstract:addresses|closedloop|regulated|developing|timedelay|nonlinear|feedback|problem|shown|method|dynamic|state|boundedness|based|given|lyapunovkrasovskii|illustrate|compensator|maintaining|system|benchmark|condition|system|proposed|appropriate|note|systems|technical|origin|global|nonsmooth|gain|states|example|design|controller|class|effectiveness|constructed|control|help|smoothness
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Nonlinear system|Nonlinear control|Control theory|Feedback linearization|Adaptive control|Smoothness|Feedback passivation|Variable structure control|Mathematics|Sliding mode control
+references:1963629795|1988098342|2022076727|2054276583|2077539089|2105369742|2106454663|2115607130|2120529903|2133507355|2134020191|2161450707|2164478659|2167175335|2288423019|2566235947
+
+
+id:2799574880
+title:Adaptive control of time-delay cascade systems with unknown parameters by partial state feedback
+year:2018
+author information:[
+author name:Xu Zhang
+author organization:Beihang University
+author id:2677508958|
+author name:Wei Lin
+author organization:Dongguan University of Technology
+author id:2439977597|
+author name:Yan Lin
+author organization:Beihang University
+author id:2693538901|
+]
+abstract:closedloop|domination|parameterization|regulated|timedelay|main|nonlinear|changing|supply|feedback|shows|contribution|employs|dynamic|state|boundedness|development|constructing|cascade|maintaining|system|condition|system|rate|partial|prove|scheme|gainbased|achieve|classes|origin|technique|global|states|isslike|adaptive|paper|systems|design|zerodynamics|together|control|possible|regulation|suitable|certain
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Control theory|Cascade|Adaptive control|Nonlinear parameterization|Partial state feedback|Mathematics
+references:1963629795|1988098342|2068928510|2077539089|2100325750|2105369742|2106454663|2133507355|2134020191|2161450707|2164478659|2167175335|2400848186|2524880106|2582124224
+
+
+id:2804691186
+title:Iterative Changing Supply Rate
+year:2019
+author information:[
+author name:Xu Zhang
+author organization:Beihang University
+author id:2677508958|
+author name:Wei Lin
+author organization:Dongguan University of Technology
+author id:2439977597|
+author name:Yan Lin
+author organization:School of Automation Beihang University Beijing China
+author id:2693538901|
+]
+abstract:effectively|closedloop|domination|stabilization|parameterization|regulated|timedelay|nonlinear|changing|supply|global|feedback|solution|lowertriangular|dynamic|state|boundedness|algorithm|cascade|achieved|iterative|develop|system|leads|consideration|present|partial|assumed|aid|controllers|gainbased|origin|technique|states|adaptive|isslike|systems|construction|zerodynamics|together|satisfy|studied|advantage|rates|control|form|conditions|inversedynamics|handled|delayfree|strategy|certain|taking
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Nonlinear system|Adaptive system|Control theory|Iterative method|Cascade|Nonlinear parameterization|Partial state feedback|Mathematics
+references:1988098342|2006862199|2068928510|2100325750|2106454663|2115607130|2130835473|2134020191|2161450707|2524880106|2582124224|2799574880
+
+
+id:2914554635
+title:Universal Adaptive Control via Output Feedback for Nonlinear Systems with Parametric and Measurement Uncertainty
+year:2018
+author information:[
+author name:Xu Zhang
+author organization:Beihang University
+author id:2677508958|
+author name:Wei Lin
+author organization:Case Western Reserve University
+author id:2439977597|
+author name:Chunjiang Qian
+author organization:Texas University
+author id:2343504544|
+]
+abstract:closedloop|using|sign|achieves|nussbaum|construct|nonlinear|required|uncertain|via|output|feedback|priori|observer|problem|structure|lowertriangular|state|dependent|boundedness|equations|philosophy|linearly|system|dynamicgain|system|contrast|plant|parameters|assumed|scheme|idea|global|unknown|adaptive|known|systems|parameter|nonlinearly|virtue|class|value|universal|unmeasured|studied|control|controlled|existing|regulation|first
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Nonlinear system|Computer science|Control theory|Nonlinear observer|A priori and a posteriori|Measurement uncertainty|Parametric statistics|Adaptive control|Nussbaum function
+references:2016639990|2073613353|2125600247|2141046429|2156759262|2764035534
+
+
+id:2000214534
+title:A Flexible Electrode Array for Acute In-Vitro Stimulating on Animal
+year:2009
+author information:[
+author name:Kai Guo
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2531673431|
+author name:WeiHua Pei
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2396820939|
+author name:Xu Zhang
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2626523402|
+author name:ShuJing Wang
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2136082890|
+author name:Lin Zhu
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2670720783|
+author name:Qiang Gui
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2112628500|
+author name:HongDa Chen
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2135191554|
+author name:Yu Wang
+author organization:LanZhou University
+author id:2671346416|
+]
+abstract:academy|laboratory|state|china|chinese|integrated|key
+venue name:BioMedical Engineering and Informatics
+venue id:1178831173
+venue type:C
+document type:Conference
+study fields:Computer vision|Nanotechnology|Electrode array|Computer science|Suprachoroidal space|Nerve cells|Optics|Chinese academy of sciences|Artificial intelligence|Retinal Prosthesis|Electrical stimulations
+references:2295233784
+
+
+id:2005295824
+title:CMOS image sensor with optimal video sampling scheme
+year:2012
+author information:[
+author name:Ning Guan
+author organization:Chinese Academy of Science
+author id:2228067428|
+author name:Xu Zhang
+author organization:Chinese Academy of Science
+author id:2626523402|
+author name:Bo Liu
+author organization:Chinese Academy of Science
+author id:2692023154|
+author name:Zan Dong
+author organization:Chinese Academy of Science
+author id:2144699206|
+author name:BeiJu Huang
+author organization:Chinese Academy of Science
+author id:2130212758|
+author name:Yun Gui
+author organization:Chinese Academy of Science
+author id:2158249228|
+author name:JianQiang Han
+author organization:Chinese Academy of Science
+author id:2228184150|
+author name:Yuan Wang
+author organization:Chinese Academy of Science
+author id:2649604557|
+author name:ZanYun Zhang
+author organization:Chinese Academy of Science
+author id:2924130469|
+author name:HongDa Chen
+author organization:Chinese Academy of Science
+author id:2135191554|
+]
+abstract:plane|optimal|timevarying|process|whole|changing|resolution|improved|threedimensional|spatial|temporal|image|sampling|pixels|focal|reserved|multifield|sensor|fields|theory|pins|proves|multidimensional|cmos|optimally|control|provides|assembled|ability|factor|based|designed|clusters|illumination|separated|scheme|prototype|array|corresponding|signal
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Computer vision|Image sensor|Cardinal point|Deinterlacing|Sampling (statistics)|Artificial intelligence|Pixel|Multidimensional sampling|Temporal resolution|Image resolution|Mathematics
+references:2002422940|2103618033|2108083714|2113188450|2118665230|2154674735
+
+
+id:2028950778
+title:A fast computable delay model for subthreshold circuit
+year:2012
+author information:[
+author name:Ming Liu
+author organization:Tsinghua University
+author id:2796530788|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2626523402|
+author name:Hong Chen
+author organization:Tsinghua University
+author id:2604752061|
+author name:Chun Zhang
+author organization:Tsinghua University
+author id:2144557749|
+author name:Zhihua Wang
+author organization:Tsinghua University
+author id:2216523791|
+]
+abstract:used|variation|high|extremely|solution|optimize|inverterchain|model|calculate|different|calculated|results|promising|hspice|proposes|require|impacts|less|computable|easy|powerstringent|delay|analyze|parameters|requires|circuit|quickly|error|speed|characteristic|circuit|current|paper|predict|verify|indicate|designed|compared|normal|process|domain|voltage|fast|ultralowpower|subthreshold|design|applications|essential
+venue name:Canadian Conference on Electrical and Computer Engineering
+venue id:1199804331
+venue type:C
+document type:Conference
+study fields:Errors-in-variables models|Load modeling|Simulation|Computer science|Voltage|Electronic engineering|Solid modeling|Subthreshold conduction|Low-power electronics
+references:2079677144|2111372718|2121147609|2127290348|2132807423|2151015077|2153378565
+
+
+id:2031377088
+title:Low-power SoC design for Ligament Balance Measuring System in Total Knee Arthroplasty
+year:2011
+author information:[
+author name:Ming Liu
+author organization:Tsinghua University
+author id:2796530788|
+author name:Hong Chen
+author organization:Tsinghua University
+author id:2604752061|
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2626523402|
+author name:Chun Zhang
+author organization:Tsinghua University
+author id:2144557749|
+author name:Hanjun Jiang
+author organization:Tsinghua University
+author id:2148746584|
+author name:Zhihua Wang
+author organization:Tsinghua University
+author id:2216523791|
+]
+abstract:modes|systemonchip|whole|output|reduce|monitoring|operate|system|rf|force|device|knee|circuit|aided|power|demonstrated|chip|arthroplasty|single|future|ligament|data|paper|used|body|test|presented|surgical|signal|results|given|static|filter|experimental|includes|tests|conditioning|frontend|balance|support|since|line|show|system|also|minimal|paper|idle|design|designed|digital|lowpower|wide|consumption|fifo|procedure|voltage|clock|measuring|total|well|wireless|wakeup|work
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Signal conditioning|System on a chip|FIFO (computing and electronics)|Data transmission|Computer science|Microprocessor|Electronic engineering|Chip|Integrated circuit design|Low-power electronics
+references:2123110715|2158036662|2162296466
+
+
+id:2043103153
+title:A Wide Measurement Range and Fast Update Rate Integrated Interface for Capacitive Sensors Array
+year:2014
+author information:[
+author name:Xu Zhang
+author organization:Institute of Semicond., Beijing, China
+author id:2626523402|
+author name:Ming Liu
+author organization:State Key Lab. on Integrated Optoelectron., Institute of Semicond., Beijing, China
+author id:2143070281|
+author name:Bo Wang
+author organization:State Key Lab. on Integrated Optoelectron., Institute of Semicond., Beijing, China
+author id:2641269289|
+author name:Hong Chen
+author organization:Tsinghua University
+author id:2604752061|
+author name:Zhihua Wang
+author organization:Tsinghua University
+author id:2216523791|
+]
+abstract:measured|reuse|multisteps|converter|capacitancetodigital|capacitancetovoltage|hardware|capacitance|method|sampling|distributed|active|input|discharging|interval|circuit|converter|range|nonuniform|current|low|v|power|voltagetopulses|chip|supply|prototype|absolute|maximum|converter|fabricated|dynamic|quantization|area|ms|presented|proposed|extends|frontend|applied|technique|indirectly|cmos|array|pf|capacitive|designed|conversion|process|charging|consumption|voltage|voltagetodigital|sensors|pulse|consists|short|design|applications
+venue name:IEEE Transactions on Circuits and Systems
+venue id:185806230
+venue type:J
+document type:Journal
+study fields:Dynamic range|Capacitance|Voltage|CMOS|Capacitive sensing|Chip|Electronic engineering|Multiplexer|Quantization (signal processing)|Electrical engineering|Mathematics
+references:2056184138|2128027883|2134489758|2164545387
+
+
+id:2050305756
+title:Implantable CMOS neuro-stimulus chip for visual prosthesis
+year:2011
+author information:[
+author name:Xu Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2626523402|
+author name:WeiHua Pei
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2396820939|
+author name:BeiJu Huang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2130212758|
+author name:ShuJing Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2136082890|
+author name:Ning Guan
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2228067428|
+author name:Kai Guo
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2531673431|
+author name:Yu Wang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2927456048|
+author name:Qiang Gui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2112628500|
+author name:Jin Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2668550221|
+author name:Kai Wang
+author organization:Peking University
+author id:2646014408|
+author name:HuiJuan Wu
+author organization:People′s Hospital of Peking University
+author id:2207037358|
+author name:XiaoXin Li
+author organization:People′s Hospital of Peking University
+author id:2907862709|
+author name:Kai Li
+author organization:Peking University
+author id:2694082527|
+author name:HongDa Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+]
+abstract:anesthetized|biphasic|photoreceptor|implanting|tissue|resolution|visual|successfully|safety|nwell|outer|metal|remaining|onchip|cancellation|light|flexible|prosthesis|mixsignal|neural|retinal|degenerated|functionality|eyes|current|dual|v|demonstrated|optic|chip|charge|electrode|trigger|prototype|supply|site|oxide|responses|senses|converting|paper|onboard|used|degeneration|fabricated|stimulates|presented|layers|discharge|photodiode|nerve|cortex|evoked|patients|affected|modules|neurostimulus|pixels|blind|interface|electrode|cmos|retina|pixel|designed|illumination|rabbits|stimulus|imitates|voltage|healthy|pulse|pulses|incident|integrates
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Visual cortex|Control theory|Retina|Visual prosthesis|CMOS|Chip|Pulse generator|Optoelectronics|Mathematics|Electrode|Photodiode
+references:2103193270
+
+
+id:2094620427
+title:Real-time multi-channel system for neural spikes acquisition and detection
+year:2012
+author information:[
+author name:Li Huang
+author organization:Institute of Semiconductors, Chinese Academy of Science, Beijing 100083, China
+author id:2669745010|
+author name:Xu Zhang
+author organization:Chinese Academy of Science
+author id:2626523402|
+author name:Ning Guan
+author organization:Chinese Academy of Science
+author id:2228067428|
+author name:Sanyuan Chen
+author organization:Institute of Semiconductors, Chinese Academy of Science, Beijing 100083, China
+author id:2524608276|
+author name:Yun Gui
+author organization:Chinese Academy of Science
+author id:2158249228|
+author name:Weihua Pei
+author organization:Institute of Semiconductors, Chinese Academy of Science, Beijing 100083, China
+author id:2396820939|
+author name:Hongda Chen
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2135191554|
+]
+abstract:multichannel|incorporates|closedloop|saline|selfdesigned|paper|channel|accuracy|used|spike|screen|realtime|presented|function|converters|signal|results|system|signals|channels|spikes|even|stimulating|inspect|freemoving|neural|recording|detect|head|acquisition|applications|digital|detection|original|display|verified|micromachined|specific|biomedical|environment|silicon|pc|stage|processor|analogtodigital|longterm
+venue name:IEEE International NEWCAS Conference
+venue id:2755031506
+venue type:C
+document type:Conference
+study fields:Neurophysiology|Digital signal processor|Brain–computer interface|Data acquisition|Communication channel|Converters|Electronic engineering|Engineering|Computer hardware|Microelectrode|Amplifier
+references:2121570266|2159318368|2177464813|2188894591
+
+
+id:2102743981
+title:Low power integrated circuits for wireless neural recording applications
+year:2008
+author information:[
+author name:Xu Zhang
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2626523402|
+author name:Weihua Pei
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2396820939|
+author name:Qiang Gui
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2112628500|
+author name:Hongda Chen
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2135191554|
+]
+abstract:inductive|transmitted|extracted|supply|regulator|circuitry|circuits|transmitter|receiver|received||hz|except|bridge|obtained|fullwave|mhz|circuit|transmission|operated|gain|composed|v|ask|power|db|coils|bandwidth|within|prototype|transcutaneous|dissipation|preamplifier|power|date|data|mw|main|used|mm|presented|kbps|group|microsystem|clock|external|transfer|signals|amplifiers|acquisition|amplifier|khz|neural|fm|link|recording|recovery|integrated|frequency|detector|total|designed|bps|built|limited|mw|transmit|consumption|equipments|pair|command|voltage|carrier|wireless
+venue name:Asia Pacific Conference on Circuits and Systems
+venue id:1133691915
+venue type:C
+document type:Conference
+study fields:Wireless power transfer|FM transmitter|Preamplifier|Clock recovery|Computer science|Electronic engineering|Electrical engineering|Integrated circuit|Voltage regulator|Amplifier|Low-power electronics
+references:2098477238|2100630709|2111743409|2124877677|2129003354|2150634592|2155465285|2169601079|2177464813
+
+
+id:2106515215
+title:Design of Portable Multi-Channel EEG Signal Acquisition System
+year:2009
+author information:[
+author name:Lin Zhu
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2670720783|
+author name:Haifeng Chen
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2714905232|
+author name:Xu Zhang
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2626523402|
+author name:Kai Guo
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2531673431|
+author name:Shujing Wang
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2136082890|
+author name:Yu Wang
+author organization:State Key Lab. on Integrated Optoelectron., Chinese Acad. of Sci., Beijing, China
+author id:2927456048|
+author name:Weihua Pei
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2396820939|
+author name:Hongda Chen
+author organization:State Key Lab on Integrated Optoelectron., Chinese Acad. of Sci., Beijing
+author id:2135191554|
+]
+abstract:multichannel|transmitted|builtin|would|instrumentation|circuits|electrical|bci|efficiently|portable|benefit|system|provide|etc|even|activity|digitized|operated|battery|gain|sd|computer|acquisition|bandwidth|could|operational|msp|brain|stored|mcu|use|converter|paper|high|dynamic|implement|signal|results|insights|eeg|experimental|amplified|diagnosis|clinical|signals|involved|amplifiers|port|amplifier|waveforms|card|wired|memory|aspects|show|recording|storage|activity|integrated|scalp|designed|electroencephalography|lowpower|recorded|pc|serial
+venue name:BioMedical Engineering and Informatics
+venue id:1178831173
+venue type:C
+document type:Conference
+study fields:Computer science|Data acquisition|Brain–computer interface|Serial port|Instrumentation amplifier|Analog-to-digital converter|Computer hardware|Operational amplifier|Electroencephalography|Amplifier
+references:2098477238|2131566416|2159318368
+
+
+id:2128027883
+title:A wide dynamic range and fast update rate integrated interface for capacitive sensors array
+year:2012
+author information:[
+author name:Xu Zhang
+author organization:Tsinghua University
+author id:2626523402|
+author name:Ming Liu
+author organization:Tsinghua University
+author id:2796530788|
+author name:Hong Chen
+author organization:Tsinghua University
+author id:2604752061|
+author name:Chun Zhang
+author organization:Tsinghua University
+author id:2144557749|
+author name:Zhihua Wang
+author organization:Tsinghua University
+author id:2216523791|
+]
+abstract:measured|application|converter|multisteps|supply|fabricated|output|method|dynamic|capacitancetodigital|quantization|area|presented|active|proportional|clock|input|charges|operate|produces|frontend|voltagepulses|circuit|range|update|battery|capacitancevoltage|cmos|convertor|array|rate|design|singleline|capacitive|power|operating|conversion|chip|process|lowpower|wide|indirectly|consumption|converts|pulsesformed|capacitor|voltage|single|sensors|consists|maximum|novel
+venue name:International Symposium on Circuits and Systems
+venue id:1192710900
+venue type:C
+document type:Conference
+study fields:Wide dynamic range|Capacitor|Computer science|Capacitive sensing|CMOS|Electronic engineering|Integrated circuit design|Capacitive power supply|Integrated injection logic|Electrical engineering|Low-power electronics
+references:2164545387
+
+
+id:2188894591
+title:A low-noise fully-differential CMOS preamplifier for neural recording applications
+year:2012
+author information:[
+author name:Xu Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2626523402|
+author name:WeiHua Pei
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2396820939|
+author name:BeiJu Huang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2130212758|
+author name:Ning Guan
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2228067428|
+author name:HongDa Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+]
+abstract:measured|upper|inputreferred|amplifying|action|bandpass|topology|nwell|lower|metal|lowest|hz|field|capacitivefeedback|methods|cutoff|local|gain|noise|v|noise|power|db|chip|supply|prototype|oxide|located|preamplifier|describe|discuss|dc|paper|process|main|frequency|fabricated|presented|different|dissipation|midband|configured|capacitivecoupled|adjusted|achieving|adopted|proposed|spikes|passband|khz|neural|sources|recording|mixed|integrated|cmos|bands|khz|designed|potentials|extracellular|fullydifferential
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Passband|Preamplifier|Telecommunications|Band-pass filter|Control theory|Noise figure|CMOS|Noise temperature|Chip|Effective input noise temperature|Optoelectronics|Mathematics
+references:2096218699|2115190198|2130316372|2131829381|2152963787|2155870083|2159318368|2161272185|2177464813
+
+
+id:2204818998
+title:Novel wavelet neural network algorithm for continuous and noninvasive dynamic estimation of blood pressure from photoplethysmography
+year:2016
+author information:[
+author name:Peng Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2679779461|
+author name:Ming Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2143070281|
+author name:Xu Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2626523402|
+author name:Xiaohui Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2187214087|
+author name:Bo Pang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2646877640|
+author name:Zhaolin Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2460411866|
+author name:Hongda Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+]
+abstract:improves|intensive|daubechies|investigates|deviations|photoplethysmography|national|irbp|inhomogeneous|calculate|algorithm|reduce|respectively|based|resilient|monitoring|whose|care|node|diastolic|correlation|algorithm|medical|waveform|american|complete|ppg|bp|layer|association|noninvasive|variety|satisfies|instrumentation|validate|reconstructed|contain|blood|accuracy|multiparameter|novel|standard|network|capitalizes|used|mmhg|prior|continuous|function|implemented|dynamic|unlike|nodes|computational|bp|actual|proposes|weight|pressure|estimation|signals|extract|systolic|proposed|improve|wavelet|waveforms|parameters|neural|hidden|convergence|optimized|complexity|speed|network|paper|patient|captured|sbp|deviation|structure|intelligent|standards|backpropagation|reconstruction|physiological|advancement
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Photoplethysmogram|Algorithm|Robustness (computer science)|Daubechies wavelet|Artificial neural network|Intensive care|Standard deviation|Rprop|Mathematics|Computational complexity theory
+references:1971735090|1973388972|1977164864|1985193018|1989626687|2043103153|2049780021|2050305756|2081808304|2088204643|2098386213|2130441379|2137226063|2137983211|2166116275|2168700895|2188894591|2259391037|2260467064|2293747114
+
+
+id:2259391037
+title:A low-complexity ECG processing algorithm based on the Haar wavelet transform for portable health-care devices
+year:2014
+author information:[
+author name:Peng Li
+author organization:Chinese Academy of Science
+author id:2679779461|
+author name:Ming Liu
+author organization:Chinese Academy of Science
+author id:2143070281|
+author name:Xu Zhang
+author organization:Chinese Academy of Science
+author id:2626523402|
+author name:HongDa Chen
+author organization:Chinese Academy of Science
+author id:2135191554|
+]
+abstract:shift|reliable|arithmetic|accuracy|number|lessen|introduced|fully|algorithm|addition|qt|hwt|lower|haar|portable|accurately|analysis|samples|input|electrocardiogram|processing|sensitivity|complexity|criterion|methods|mitbih|ppm|n|healthcare|qrs|satisfies|indicates|maxima|without|multiplication|modulus|limits|validate|detection|ecg|positive|arrhythmia|calculated|complete|delineation|novel|standard|correct|paper|achieves|annotations|simple|hwt|antijamming|high|find|presented|implement|results|computational|new|ppm|test|multiplier|evaluated|positions|modification|chosen|mmpd|rigorous|proposed|improve|wavelet|coefficient|prediction|position|ecg|complexity|scale|transform|candidate|database|operations|paper|cse|designed|digital|peaks|process|determine|deviation|peak|devices|pair|structure|processed|performance|detailed|mean|stable|consists|location|waveform|time|presents
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Waveform|Algorithm|Multiplier (economics)|Multiplication|Time shifting|QRS complex|Haar wavelet|Standard deviation|Mathematics|Computational complexity theory
+references:1971513336|1973388972|1974222734|1985193018|2043103153|2048150589|2049780021|2050305756|2127510558|2143698637|2152606053|2168700895|2170839606|2188894591
+
+
+id:2339812930
+title:High precision intelligent flexible grasping front-end with CMOS interface for robots application
+year:2016
+author information:[
+author name:Xiaohui Hu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2187214087|
+author name:Xu Zhang
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2626523402|
+author name:Ming Liu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2143070281|
+author name:Yuanfang Chen
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2105288881|
+author name:Peng Li
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2679779461|
+author name:Jialin Liu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2605315955|
+author name:Zhaolin Yao
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2460411866|
+author name:Weihua Pei
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2396820939|
+author name:Chun Zhang
+author organization:Tsinghua University
+author id:2144557749|
+author name:Hongda Chen
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2135191554|
+]
+abstract:shunt|shunting|highprecision|chargedischarge|robot|utilized|using|capacitance|goal|method|shunted|input|effects|flexible|matched|sensitivity|primary|frontend|twoport|achieve|parasitic|n|increases|dual|noise|performance|grasping|chip|detection|within|microneedle|prototype|capacitor|bidirectional|fabricated|saturation|readout|signal|offset|technology|sensitivity|conditioning|overall|sensor|frontend|compatibility|sensor|chip|tactile|optimized|part|determines|exhibits|interface|error|integrated|cmos|paper|array|pf|capacitive|assembled|value|conversion|ensures|custom|sandwich|increase|attenuating|intelligent|structure|voltage|repeatability|better|performance|capacitors|array|detected|reducing|presents
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Front and back ends|Capacitor|Input offset voltage|Control theory|Capacitive sensing|Chip|CMOS|Electro-optical sensor|Electrical engineering|Mathematics|Tactile sensor|Embedded system
+references:1993764819|2019164399|2043103153|2066111465|2115606883|2123623965|2126358124|2158333529|2259391037|2260467064
+
+
+id:2580117653
+title:A 410-nW efficient QRS processor for mobile ECG monitoring in 0.18-μm CMOS
+year:2016
+author information:[
+author name:Peng Li
+author organization:Tsinghua University
+author id:2762493280|
+author name:Hanjun Jiang
+author organization:Tsinghua University
+author id:2148746584|
+author name:Wendi Yang
+author organization:Tsinghua University
+author id:2162603626|
+author name:Ming Liu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2143070281|
+author name:Xu Zhang
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2626523402|
+author name:Xiaohui Hu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2187214087|
+author name:Bo Pang
+author organization:(Institute of Semiconductors, Chinese Academy of Sciences, Beijing, China)
+author id:2646877640|
+author name:Zhaolin Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2460411866|
+author name:Hongda Chen
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2135191554|
+]
+abstract:realtime|continuous|algorithm|order|reduce|respectively|based|databases|validated|nwell|proposes|lower|nw|processor|modification|improve|wavelet|prediction|position|sensitivity|much|optimized|monitoring|harr|mitbih|transform|cmos|r|qrs|paper|low|v|power|fabricated|detection|chip|previous|efficient|mobile|ecg|consumption|positive|fir|structure|voltage|filter|proposed|arrhythmia|designed|work
+venue name:Biomedical Circuits and Systems Conference
+venue id:2624314910
+venue type:C
+document type:Conference
+study fields:Computer science|Voltage|Electronic engineering|Chip|CMOS|QRS complex|Finite impulse response|Power consumption|Wavelet transform
+references:1971513336|1974222734|2048150589|2143698637|2259391037
+
+
+id:2582899744
+title:An adaptive impedance tracking frontend for inductively powered body sensor nodes
+year:2016
+author information:[
+author name:Zhaolin Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2460411866|
+author name:Xu Zhang
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2626523402|
+author name:Ming Liu
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2143070281|
+author name:Xurui Mao
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2155948348|
+author name:Peng Li
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2679779461|
+author name:Xiaohui Hu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2187214087|
+author name:Bo Pang
+author organization:State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors Chinese Academy of Sciences Beijing China
+author id:2646877640|
+author name:Weihua Pei
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2396820939|
+author name:Hongda Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+]
+abstract:application|powered|maintain|impedance|body|tracking|nearby|adaptively|frequency|output|manufacture|experiment|deformation|energy|resonant|coil|demonstrates|inductively|receiver|presented|metal|resonance|node|system|sensor|boost|fixed|networks|matching|network|homogeneity|digitally|adaptive|tunable|amplitude|array|influences|end|human|compared|onbody|implementing|effectively|match|capacitor|hsarvester|rectifier|front|significantly|novel
+venue name:Biomedical Circuits and Systems Conference
+venue id:2624314910
+venue type:C
+document type:Conference
+study fields:Sensor node|Rectifier|Capacitor|Computer science|Impedance matching|Electrical impedance|Electronic engineering|Electromagnetic coil|Impedance bridging|Input impedance|Electrical engineering
+references:1964552591|2125991437|2155931805|2174187647|2316782363
+
+
+id:2583001767
+title:Advanced EMD method using variance characterization for PPG with motion artifact
+year:2016
+author information:[
+author name:Bo Pang
+author organization:State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors Chinese Academy of Sciences Beijing China
+author id:2646877640|
+author name:Ming Liu
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2143070281|
+author name:Xu Zhang
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2626523402|
+author name:Peng Li
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2679779461|
+author name:Zhaolin Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2460411866|
+author name:Xiaohui Hu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2187214087|
+author name:Hongda Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+author name:Qi Gong
+author organization:South China University of Technology
+author id:2580150774|
+]
+abstract:accurate|data|advanced|heavilycorrupted|decomposition|timefrequency|frequency|shows|largely|signal|reduce|ii|based|corrupted|period|using|method|empirical|proposes|methods|analysis|extrema|picking|important|estimation|domain|physiobank|processing|rate|hardly|waveform|relative|average|ppg|part|error|wave|rebuilt|result|computing|found|paper|mimic|rate|signals|clusters|motion|costs|detection|decreased|mode|wearing|database|devices|artifact|help|variance|pulse|photoplethysmography|reduction|characterization
+venue name:Biomedical Circuits and Systems Conference
+venue id:2624314910
+venue type:C
+document type:Conference
+study fields:Frequency domain|Signal processing|Computer vision|Photoplethysmogram|Computer science|Waveform|Error detection and correction|Maxima and minima|Artificial intelligence|Approximation error|Hilbert–Huang transform
+references:2046616467|2053277433|2103675325|2182575266|2294589404
+
+
+id:2751634106
+title:A 410-nW Efficient QRS Processor for Mobile ECG Monitoring in 0.18-μm CMOS
+year:2017
+author information:[
+author name:Peng Li
+author organization:(Institute of Semiconductors, Chinese Academy of Sciences, Beijing, China)
+author id:2679779461|
+author name:Xu Zhang
+author organization:State Key Laboratory on Integrated Optoelectronics,Institute of Semiconductors,Chinese Academy of Sciences
+author id:2626523402|
+author name:Ming Liu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2143070281|
+author name:Xiaohui Hu
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2187214087|
+author name:Bo Pang
+author organization:(Institute of Semiconductors, Chinese Academy of Sciences, Beijing, China)
+author id:2646877640|
+author name:Zhaolin Yao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2460411866|
+author name:Hanjun Jiang
+author organization:Tsinghua University
+author id:2148746584|
+author name:Hongda Chen
+author organization:Institute of Semiconductors, Academy of Sciences, Beijing, China
+author id:2135191554|
+]
+abstract:accuracy|raw|none|output|number|identification|realtime|rpm|state|order|reduce|respectively|preprocessing|nwell|haar|sensitive|processor|precisely|machine|contains|delay|simultaneously|eliminate|mitbih|r|qrs|low|maxima|v|power|modulus|detection|chip|robust|decision|sets|efficient|ecg|positive|supply|filter|arrhythmia|data|threshold|mother|continuous|function|implemented|results|validated|including|multiplier|proposes|nw|positions|modification|modules|signals|improve|used|wavelet|prediction|position|detector|mmpi|locate|optimized|monitoring|scale|choose|rpm|cmos|transform|candidate|paper|provides|designed|fabricated|digital|processes|mobile|automatic|consumption|peak|pair|fir|structure|voltage|wt|coefficients|time
+venue name:IEEE Transactions on Biomedical Circuits and Systems
+venue id:80299757
+venue type:J
+document type:Journal
+study fields:Computer science|CMOS|Multiplier (economics)|Chip|Electronic engineering|QRS complex|Finite impulse response|Detector|Wavelet transform|Wavelet
+references:1581427173|1969483883|1971513336|1974222734|2048150589|2049780021|2127510558|2143698637|2152606053|2204818998|2259391037|2260467064|2580117653
+
+
+id:2770618476
+title:A novel approach framework based on statistics for reconstruction and heartrate estimation from PPG with heavy motion artifacts
+year:2018
+author information:[
+author name:Bo Pang
+author organization:University of Chinese Academy of Sciences
+author id:2646877640|
+author name:Ming Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2143070281|
+author name:Xu Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2626523402|
+author name:Peng Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2679779461|
+author name:Hongda Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2135191554|
+]
+abstract:select|called|advanced|reconstruction|simulation|tested|empirical|type|resolution|gains|artifact|photoplethysmography|temporal|order|respectively|ii|based|wearable|method|heartrate|quartiles|analysis|estimation|domain|physiobank|singular|harr|waveform|slices|average|operates|one|adaptive|mimic|reported|precise|may|cumulant|randomness|database|distribution|framework|first|series|absolute|characterization|standard|timefrequency|mode|serious|different|signal|results|proposes|format|preprocessing|important|filtration|proposed|wavelet|show|decomposition|error|transform|paper|value|make|components|motion|deviation|specific|variance|challenge|time|applications
+venue name:Science in China Series F: Information Sciences
+venue id:91852382
+venue type:J
+document type:Journal
+study fields:Time domain|Singular value decomposition|Pattern recognition|Higher-order statistics|Discrete wavelet transform|Artificial intelligence|Statistics|Standard deviation|Mathematics|Signal reconstruction|Hilbert–Huang transform|Wavelet transform
+references:1925569585|2004884583|2005741801|2008510355|2053277433|2063424275|2108502280|2120390927|2146842127|2151713296|2259391037|2583001767|2594804265
+
+
+id:1632501432
+title:A distributed in-network caching scheme for P2P-like content chunk delivery
+year:2015
+author information:[
+author name:Xu Zhang
+author organization:University of Surrey
+author id:2525701847|
+author name:Ning Wang
+author organization:Surrey University
+author id:2559111775|
+author name:Vassilios G. Vassilakis
+author organization:University of Surrey
+author id:228380971|
+author name:Michael P. Howarth
+author organization:University of Surrey
+author id:2151563322|
+]
+abstract:extensive|results|objects|analyse|focus|improved|context|specifically|fully|order|reduce|based|efficiency|distributed|underlying|propose|distances|benefit|side|decisionmaking|intermediate|toward|evaluate|neighbouring|achieve|experiments|emerged|distribution|quantitatively|peer|cached|popularity|decisions|takes|nearby|validate|innetwork|holistic|scheme|peertopeer|framework|performances|information|innetwork|logic|operation|networking|developed|caching|coordination|router|protocol|traffic|making|conducted|modelling|improving|proposed|analytical|chunk|content|network|duplicated|informationcentric|load|routers|allows|recently|also|service|avoid|aiming|efficiencies|account
+venue name:Computer Networks
+venue id:63392143
+venue type:J
+document type:Journal
+study fields:Traffic load|Cache|Computer science|Popularity|Computer network|False sharing|Information-centric networking|Router|Inline caching|Distributed computing
+references:1606764134|1810116042|1810232920|1973075905|1987151567|1994237420|2003186577|2008047660|2014952121|2018682510|2021135634|2041542784|2048124060|2057946214|2058851319|2062744407|2069646874|2083766832|2089982944|2096396357|2096411785|2107582728|2110499194|2111180164|2116451128|2126609747|2131806537|2134582584|2135610854|2137322884|2137555563|2152490180|2153813407|2163351238|2168903090|2171494065|2280500481|2298455126|2299447028|2963445511
+
+
+id:2010673091
+title:A hybrid peer selection scheme for enhanced network and application performances
+year:2013
+author information:[
+author name:Xu Zhang
+author organization:University of Surrey
+author id:2525701847|
+author name:Ning Wang
+author organization:Surrey University
+author id:2559111775|
+author name:M. Howarth
+author organization:Surrey University
+author id:2151563322|
+]
+abstract:desirable|approach|wherein|noncooperative|leveraging|based|efficiency|volumes|analysis|interisp|cooperative|traditional|selections|selection|multidomain|consideration|scheme|achieve|quality|retain|networks|two|peer|mechanism|according|mitigate|business|isp|holistic|combines|peertopeer|possible|able|congestion|strategy|environments|fewer|coexist|localityaware|concentrated|peering|links|traffic|offers|interconnected|modelling|hybrid|proposed|perceived|critical|analytical|pure|interdomain|network|incentives|paper|relationship|effectively|perform|schemes|expensive|better|alleviated|performance|due|service|well|risk|aiming|maintenance|presents
+venue name:Consumer Communications and Networking Conference
+venue id:1136042413
+venue type:C
+document type:Conference
+study fields:Incentive|Service quality|Computer science|Peer to peer computing|Computer network|Quality of service|Business relationship management|Peering|Distributed computing
+references:1968757366|1987497363|1990243420|1993574942|2028254247|2100027342|2107550912|2110980583|2120126835|2120955848|2125890410|2133762163|2141938573|2155638714|2166289093|2169047226|2287083528|2399443897
+
+
+id:2160296730
+title:Model-Driven Dependability Analysis of Virtualization Systems
+year:2009
+author information:[
+author name:Xu Zhang
+author organization:University of Science  Technology of
+author id:2661062591|
+author name:Chuang Lin
+author organization:
+author id:2697182948|
+author name:Xiangzhen Kong
+author organization:
+author id:2653955434|
+]
+abstract:mostly|backup|focus|years|without|number|problem|model|researches|including|virtualization|dependability|satisfied|proposes|dependabilities|system|especially|field|failure|analyze|topic|maintainability|evaluating|conditions|current|became|repair|virtual|solving|technical|methods|numeric|availability|hot|quantitatively|technics|paper|systems|rate|get|hypervisor|verify|relationship|gives|enhancing|characteristics|components|markov|recently|dependability|many|specific|evolve|attributes|describe|account|taking
+venue name:Annual ACIS International Conference on Computer and Information Science
+venue id:2755365417
+venue type:C
+document type:Conference
+study fields:Virtualization|Dependability|Virtual machine|Computer science|Hypervisor|Software maintenance|Operating system|Maintainability|Maintenance engineering|Backup|Reliability engineering
+references:47175211|141121412|1641762327|2114488210|2122480895|2136290019|2142892618|2145071552|2155750598|2166004296|2293069947
+
+
+id:2612703696
+title:A cooperation-driven ICN-based caching scheme for mobile content chunk delivery at RAN
+year:2017
+author information:[
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2740087493|
+author name:Yue Cao
+author organization:Northumbria University
+author id:2721602137|
+]
+abstract:enodebs|resolve|objects|access|caching|via|growing|terms|network|context|dynamic|evaluated|fully|order|traffic|reduce|tension|cache|efficiency|individual|distributed|propose|substantial|cooperative|proposed|etc|improve|availability|access|backhaul|scheme|operates|scarcity|show|content|capacity|adaptive|diversity|paper|popularity|redundancy|enodebs|allows|decision|bandwidth|within|mobile|radio|distribution|continuously|improvement|great|way|icnbased|extensive|performance|well|logic|reduction|aiming|demands|account|taking
+venue name:International Conference on Wireless Communications and Mobile Computing
+venue id:1131534676
+venue type:C
+document type:Conference
+study fields:Scarcity|Decision table|Backhaul (telecommunications)|Computer science|Cache|Computer network|False sharing|Redundancy (engineering)|Bandwidth (signal processing)|Radio access network|Distributed computing
+references:1596958800|1632501432|1976986662|1989231055|1993284846|2006890895|2009708702|2014952121|2045260235|2070537518|2081646413|2083766832|2085554698|2086658401|2089214485|2096220631|2107248536|2113474442|2125620840|2132946504|2137555563|2156737568|2168903090|2346606088|2963445511
+
+
+id:2624220861
+title:Applying DTN routing for reservation-driven EV Charging management in smart cities
+year:2017
+author information:[
+author name:Yue Cao
+author organization:Northumbria University
+author id:2721602137|
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2792980830|
+author name:Ran Wang
+author organization:Nanjing University of Aeronaut.  Astronaut
+author id:2690215420|
+author name:Linyu Peng
+author organization:Waseda University
+author id:2653122115|
+author name:Nauman Aslam
+author organization:Northumbria University
+author id:2208131919|
+author name:Xiaomin Chen
+author organization:Northumbria University
+author id:2303150324|
+]
+abstract:css|focus|vehicles|costefficient|trip|road|terms|reservation|anticipated|addition|compared|overhead|expected|csselection|station|feasibility|cellular|intermediate|account|hoc|status|study|brought|ad|networking|city|battery|long|local|tolerant|promisingly|flexibility|scenario|popularity|helsinki|duration|minimize|alternatively|may|decision|traditionally|increasing|report|certain|comparable|becoming|city|experience|onthemove|mainly|realistic|css|communication|results|evaluation|making|including|volume|ev|achieving|costefficiency|waiting|arrival|needed|show|primarily|network|duration|total|influences|vehicletovehicle|reporting|experience|certainly|applying|charging|evs|networks|limited|electric|charging|vehicular|manage|concerning|performance|urban|reservations|management|due|service|time|aiming|taking
+venue name:International Conference on Wireless Communications and Mobile Computing
+venue id:1131534676
+venue type:C
+document type:Conference
+study fields:Reservation|Telecommunications|Delay-tolerant networking|Charging station|Computer science|Electric vehicle|Computer network|Vehicular communication systems|Cellular network|Wireless ad hoc network|Online charging system
+references:1632501432|1902551521|2002048403|2006890895|2021497904|2090064571|2109420311|2118207746|2132071810|2336586432|2527678568|2528038511|2600317785
+
+
+id:2782958211
+title:Towards autonomy: Cost-effective scheduling for long-range autonomous valet parking (LAVP)
+year:2018
+author information:[
+author name:Muhammad Khalid
+author organization:Northumbria University
+author id:2791076748|
+author name:Yue Cao
+author organization:Northumbria University
+author id:2721602137|
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2792980830|
+author name:Chong Han
+author organization:University of Surrey
+author id:2988774973|
+author name:Linyu Peng
+author organization:Waseda University
+author id:2653122115|
+author name:Nauman Aslam
+author organization:Northumbria University
+author id:2208131919|
+author name:Naveed Ahmad
+author organization:University of Peshawar
+author id:2920447028|
+]
+abstract:parking|developments|placed|simulation|reflected|vehicles|road|safety|public|guide|order|still|simulation|work|considering|analysis|system|even|happening|parks|current|industries|mobility|scheme|continuous|city|range|lavp|accommodate|scenario|costly|autonomous|socalled|helsinki|basis|increasing|controllable|fuel|numbers|used|points|reference|shows|time|scheduling|entrance|results|traffic|ensure|journey|solutions|introducing|proposes|less|driving|car|outside|daily|avp|benefits|lavp|effective|paper|public|car|positioning|congestions|avs|highly|limited|longrange|advantage|places|consumption|also|short|usercentric|interested|avoid|longterm
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Job shop scheduling|Computer science|Scheduling (computing)|Autonomy|Computer network|Operations research|Fuel efficiency
+references:1923584835|2008300660|2021497904|2120956215|2126043280|2513079571|2527678568|2575335471|2606853459
+
+
+id:2790661630
+title:Mobile Edge Computing for Big-Data-Enabled Electric Vehicle Charging
+year:2018
+author information:[
+author name:Yue Cao
+author organization:University of Surrey
+author id:2721602137|
+author name:Houbing Song
+author organization:University of Virginia
+author id:2628445528|
+author name:Omprakash Kaiwartya
+author organization:Northumbria University
+author id:2305379528|
+author name:Bingpeng Zhou
+author organization:Southwest Jiaotong University
+author id:2792633237|
+author name:Yuan Zhuang
+author organization:Southeast University
+author id:2284386003|
+author name:Yang Cao
+author organization:Huazhong University of Sci.  Tech
+author id:2269289792|
+author name:Xu Zhang
+author organization:University of Surrey
+author id:2989136805|
+]
+abstract:big|css|facilitates|terms|enable|case|efficiency|transportation|decentralized|monitoring|propose|planning|system|drivers|server|study|mecbased|mobilityaware|disseminate|availability|smart|charging|popularity|key|aggregation|could|one|opportunistically|cs|encountered|data|alleviate|onthemove|repeated|analytics|cloud|shows|css|implement|communication|predicted|traffic|mec|mining|evs|ev|driving|datadriven|internet|collect|benefits|optimized|line|interact|computing|servers|predict|environmentfriendly|gc|big|move|evs|charging|pollution|concerning|mecbased|longterm
+venue name:IEEE Communications Magazine
+venue id:158797327
+venue type:J
+document type:Journal
+study fields:Smart grid|Computer science|Decentralized computing|Server|Computer network|Service provider|Mobile edge computing|Dissemination|Analytics|Big data|Distributed computing
+references:2014223748|2062789233|2090064571|2090861152|2144335970|2294587650|2313191255|2346606088|2594560857
+
+
+id:2802806016
+title:A Trajectory-Driven Opportunistic Routing Protocol for VCPS
+year:2018
+author information:[
+author name:Yue Cao
+author organization:Beihang University
+author id:2721602137|
+author name:Omprakash Kaiwartya
+author organization:Beihang University
+author id:2305379528|
+author name:Nauman Aslam
+author organization:Beihang University
+author id:2965950397|
+author name:Chong Han
+author organization:PureLifi, Edinburgh, U.K
+author id:2106150170|
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2989136805|
+author name:Yuan Zhuang
+author organization:Wuhan University
+author id:2284386003|
+author name:Mehrdad Dianati
+author organization:University of Warwick
+author id:1992959074|
+]
+abstract:selects|evaluation|reliable|navigation|road|safety|severely|promising|based|efficiency|overhead|lower|propose|node|system|provide|intermediate|vehicular|performance|much|systems|mobility|works|criterion|utilizing|overhead|networks|vehicle|routing|systems|vcps|trajectory|efficient|could|trajectorydriven|transportation|help|exploring|tdor|information|cyberphysical|comparable|ratio|tolerant|data|intermittent|achieves|onboard|gps|high|protocol|geographic|ratio|consider|communication|nodes|results|connectivity|traffic|wellknown|solutions|affected|sparse|proximity|unfavorable|nexthop|applied|selections|destination|show|primarily|network|due|opportunistic|designed|delivery|capabilities|aims|immune|relay|message|intelligent|outperforms|existing|due|lowtransmission
+venue name:IEEE Transactions on Aerospace and Electronic Systems
+venue id:193624734
+venue type:J
+document type:Journal
+study fields:Data transmission|Navigation system|Computer network|Electronic engineering|Message delivery|Global Positioning System|Intelligent transportation system|Relay|Trajectory|Mathematics|Routing protocol
+references:1882451095|1980974075|2006890895|2010634640|2038513913|2046790196|2052701631|2060001348|2100691825|2101963262|2126389265|2129849999|2140881359|2144447514|2149713648|2149959815|2156803816|2277355417|2336586432|2567547968
+
+
+id:2886551234
+title:Reservation Based Electric Vehicle Charging Using Battery Switch
+year:2018
+author information:[
+author name:Yue Cao
+author organization:Computer and Information Sciences
+author id:2721602137|
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2989136805|
+author name:William Liu
+author organization:Auckland University of Technol
+author id:2309421668|
+author name:Yang Cao
+author organization:Huazhong University of Science  Technology
+author id:2269289792|
+author name:Luca Chiaraviglio
+author organization:University of Rome
+author id:1965977894|
+author name:Jinsong Wu
+author organization:Universidad de chile
+author id:2112524484|
+author name:Ghanim Putrus
+author organization:Maths Physics and Electrical Engineering
+author id:2191414484|
+]
+abstract:increasingly|css|cycling|different|vehicles|number|problem|terms|enable|reservation|popularization|anticipated|happen|based|still|considering|expected|facilitating|propose|benefit|provide|spot|switched|plans|become|scheme|city|queue|battery|hot|minimized|smart|long|scenario|helsinki|plugin|enabling|alternatively|may|refresh|cs|fast|results|alleviate|research|growing|realistic|css|maintained|potential|coordinate|minutes|important|ev|higher|tens|next|availability|waiting|arrival|show|cities|switch|running|switchable|procure|characteristics|batteries|advantage|electric|charging|also|technology|reservations|management|due|service|well|time
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Reservation|Electric vehicle|Computer science|Queue|Cascading Style Sheets|Computer network|Battery (electricity)|Electrical engineering
+references:1902551521|1983057780|2002048403|2021497904|2090064571|2109420311|2346606088|2560835312|2600317785|2609729060|2613846252
+
+
+id:2945448871
+title:MEGEE: Mobile Edge computer Geared v2x for E-mobility Ecosystem
+year:2019
+author information:[
+author name:Yue Cao
+author organization:Lancaster University
+author id:2721602137|
+author name:Celimuge Wu
+author organization:Japan
+author id:2945492206|
+author name:Xu Zhang
+author organization:Zhejiang University
+author id:2989136805|
+author name:William Liu
+author organization:Auckland University of Technol
+author id:2309421668|
+author name:Linyu Peng
+author organization:Waseda University
+author id:2653122115|
+author name:Muhammad Khalid
+author organization:Northumbria University
+author id:2791076748|
+]
+abstract:css|emobility|vehicles|concern|anycasting|based|considering|expected|decentralized|propose|saving|functioned|status|networking|achieve|computing|tolerant|computer|communications|close|enables|aggregation|geared|mobile|performed|efficiently|information|essential|emobility|centralized|cloud|css|ecosystem|dynamic|offers|new|making|cost|mec|mining|significant|servers|stations|leads|architecture|internet|arrival|show|megee|predict|studies|introduction|charging|processes|evs|studied|electric|charging|alternative|vehicular|control|performance|conventional|reservations|timely|time|edge
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Reservation|Delay-tolerant networking|Computer science|Cascading Style Sheets|Server|Computer network|Mobile edge computing|Cellular network|Cloud computing|The Internet
+references:2006890895|2021497904|2046790196|2090064571|2090861152|2117220860|2497701847|2509527900
+

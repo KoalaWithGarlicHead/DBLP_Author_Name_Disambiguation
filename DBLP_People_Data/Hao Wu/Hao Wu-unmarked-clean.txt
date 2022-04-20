@@ -1,0 +1,3096 @@
+
+id:12481093
+title:A Novel Mobility Model for Mobile Ad Hoc Networks
+year:2013
+author information:[
+author name:Cheng Li
+author organization:Beijing Jiaotong University
+author id:2429371452|
+author name:Zhangdui Zhong
+author organization:Beijing Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Beijing Jiaotong University
+author id:2638465631|
+author name:Lei Xiong
+author organization:Beijing Jiaotong University
+author id:2678108244|
+]
+abstract:small|named|attracting|mobility|paper|reference|property|leave|model|enter|moving|results|models|ad|method|compared|already|propose|intelligence|node|traditional|proposed|even|another|attracted|hoc|group|mobility|probability|show|generating|investigate|networks|point|speed|inertia|attracting|direction|means|may|discussed|one|mobile|also|distribution|variation|intelligent|nodes|simulation|model|inhomogeneity|novel
+venue name:International Wireless Internet Conference
+venue id:1168876913
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Computer science|Computer network|Mobility model|Optimized Link State Routing Protocol|Vehicular ad hoc network|Distributed computing
+references:1497763074|1966415263|2098608071|2123715210|2131241306|2133520751|2136102209|2155685934
+
+
+id:1901036591
+title:Analysis for interference-based capacity of vehicular ad hoc networks
+year:2014
+author information:[
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+author name:Jian Yu
+author organization:Beijing Jiatong University
+author id:2699891394|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+]
+abstract:changing|entire|number|estimate|capacity|guidelines|model|ad|vanets|intervehicle|probability|expected|vanet|analysis|quality|provide|unique|vehicular|obtained|hoc|mobility|pattern|believe|networks|characteristic|capacity|feature|intelligent|lawbased|power|based|deployment|scaling|representing|scenario|series|future|cannot|constraint|describe|network|used|view|implement|different|communication|directly|results|signal|actual|new|interferencebased|already|goes|finally|finished|leads|vanets|carfollowing|interference|vital|useful|interfering|transportation|system|network|general|total|paper|design|make|derived|requirements|characteristics|raised|affects|although|pair|performance|nodes|various|service|applications
+venue name:International Conference on Connected Vehicles and Expo
+venue id:2755916645
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Computer network|Node (networking)|Quality of service|Vehicular communication systems|Interference (wave propagation)|Intelligent transportation system|Wireless ad hoc network|Engineering|Vehicular ad hoc network
+references:1968837630|1971252987|1976663126|1977353034|1995933347|2003805782|2018557093|2040474428|2122458441|2133685514|2133737477|2135356058|2135898570|2136424997|2137775453|2145977546|2161645465|2163714326
+
+
+id:1966472944
+title:A New Stable Clustering Scheme for Highly Mobile Ad Hoc Networks
+year:2010
+author information:[
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Dongmei Zhao
+author organization:McMaster University
+author id:1970403569|
+]
+abstract:joins|cluster|addresses|channel|used|nearby|number|loss|problem|cluster|estimate|shifts|connection|affiliations|signal|results|order|reduce|ad|received|maintaining|fading|node|proposed|provide|networks|hoc|doppler|relative|average|longest|scheme|show|affiliations|speed|cope|head|paper|predict|mobility|every|designed|highly|compared|disconnection|previous|initial|strategies|caused|mobile|estimated|schemes|stay|help|simulation|associated|clustering|time|members
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Mobile radio|Joins|Computer science|Fading|Communication channel|Computer network|Prediction algorithms|Wireless ad hoc network|Cluster analysis|Distributed computing
+references:1503347814|2109754121|2121598748|2130398181|2137775453|2145417574|2145872061
+
+
+id:1977353034
+title:Interference-Based Capacity Analysis for Vehicular Ad Hoc Networks
+year:2015
+author information:[
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+author name:Jianping Pan
+author organization:Victoria University
+author id:2128973172|
+author name:Lin Cai
+author organization:Victoria University
+author id:2103197331|
+author name:Jian Yu
+author organization:Beijing Jiatong University
+author id:2699891394|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+]
+abstract:networks|use|reasonable|network|decay|entire|describing|capacity|model|dynamic|directly|communication|hoc|results|signal|actual|interferencebased|intervehicle|probability|finally|conducted|tractable|analysis|easy|asymptotic|strongly|leads|letter|vanets|obtained|interference|ad|applied|interfering|link|overcome|capacity|abstracted|network|studies|stochastic|lawbased|power|based|derived|estimating|worstcase|carried|scaling|characteristics|change|vehicular|affects|although|carfollowing|classic|scenario|series|represent
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Drawback|Communication link|Fading|Computer science|Computer network|Interference (wave propagation)|Wireless ad hoc network|Probability density function|Scaling law
+references:1583669230|1967177818|1976658287|2011293901|2032294805|2045484183|2135898570|2137775453|2161645465
+
+
+id:2056658234
+title:A Modified Inhomogeneity Measure in Spatial Distribution
+year:2013
+author information:[
+author name:Cheng Li
+author organization:Xian Jiaotong University
+author id:2429371452|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Lei Xiong
+author organization:Xian Jiaotong University
+author id:2678108244|
+]
+abstract:measured|accurate|used|euclidean|modified|spatial|different|results|investigated|fits|norm|traditional|measure|proposed|perception|sparse|value|compare|distance|example|measure|taken|value|human|compared|verified|enough|distribution|instead|better|simulation|absolute|showed|inhomogeneity|adopted
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Mathematical optimization|Computer science|Absolute value|Euclidean distance|Computer network|Algorithm|Probability distribution|Spatial distribution
+references:1966415263|2115675029|2131241306|2141838173|2146104761|2153799035|2158305426
+
+
+id:2059698674
+title:Multi-hop Connected Probability Based on Dependence among Consecutive Links in VANETs
+year:2013
+author information:[
+author name:Muchen Wu
+author organization:Beijing Jiaotong University
+author id:2223252751|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+]
+abstract:results|simulation|without|improved|path|connectivity|road|connection|majority|model|evaluated|dependent|algorithm|similar|based|using|distinguish|issue|work|probability|consideration|aimed|analysis|propose|traditional|contains|correlation|among|deals|intermediate|appearing|hoc|authors|relative|mobility|geographical|ad|independent|assumption|simultaneous|multihop|least|distribution|two|derive|vehicle|dependence|change|mobile|connected|essential|use|several|lifetime|vehicle|research|influence|identical|reference|leaves|dynamic|links|directly|potential|obtain|constructing|concentrates|comparing|vanets|distance|link|links|make|highly|incorporating|networks|vehicular|also|instead|consecutive|performance|assuming|moves|well|wireless|location|vehicles|taking
+venue name:Innovative Mobile and Internet Services in Ubiquitous Computing
+venue id:1177469577
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Wireless network|Computer science|Computer security|Computer network|Mobility model|Ad hoc wireless distribution service|Optimized Link State Routing Protocol|Wireless ad hoc network|Vehicular ad hoc network|Dedicated short-range communications
+references:1986218188|2076962527|2096390862|2097769346|2105081458|2117258296|2122178280|2134245553|2161127063
+
+
+id:2064634389
+title:An Energy Efficient Clustering Scheme for Mobile Ad Hoc Networks
+year:2010
+author information:[
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Dongmei Zhao
+author organization:McMaster University
+author id:1970403569|
+]
+abstract:cluster|performs|scheme|called|data|use|residual|used|nearby|whether|members|estimate|dynamic|needed|calculated|results|distance|energy|threshold|ad|head|estimation|proposes|less|maintaining|algorithm|node|proposed|efficient|networks|hoc|relative|mobility|distance|scheme|show|algorithm|transmission|accomplish|weighted|paper|energy|offduty|broadcasting|member|designed|previous|initial|mobile|trigger|clustering|better|help|simulation|reclustering|distributed|clustering|location|determining|suitable|strategy|operation
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:k-medians clustering|Canopy clustering algorithm|CURE data clustering algorithm|Data stream clustering|Correlation clustering|Computer science|Computer network|FLAME clustering|Constrained clustering|Cluster analysis
+references:1520197017|1966472944|2086976228|2104846640|2112237623|2115446399|2130150979|2140786816|2163533836
+
+
+id:2088554670
+title:Signal-to-interference-ratio based capacity analysis for vehicular ad hoc networks
+year:2014
+author information:[
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+author name:Jian Yu
+author organization:Beijing Jiatong University
+author id:2699891394|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+]
+abstract:changing|entire|number|estimate|capacity|guidelines|model|ad|vanets|intervehicle|probability|expected|vanet|analysis|quality|provide|unique|vehicular|obtained|hoc|mobility|pattern|believe|networks|characteristic|capacity|feature|intelligent|lawbased|power|based|deployment|scaling|representing|considering|scenario|series|future|cannot|describe|network|used|different|communication|directly|results|signal|actual|new|interferencebased|already|goes|finally|finished|constrain|interfered|posed|leads|vanets|carfollowing|worst|interference|vital|useful|transportation|system|network|general|total|paper|design|make|derived|requirements|characteristics|affects|although|pair|performance|nodes|service|various|applications
+venue name:International Conference on Intelligent Transportation Systems
+venue id:2623670486
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Computer network|Ad hoc wireless distribution service|Optimized Link State Routing Protocol|Vehicular communication systems|Engineering|Stochastic geometry models of wireless networks|Wireless ad hoc network|Intelligent transportation system|Vehicular ad hoc network
+references:1968837630|1971252987|1995933347|2003805782|2018557093|2122458441|2133685514|2133737477|2135356058|2136424997|2137775453|2145977546|2161645465|2163714326
+
+
+id:2092735183
+title:Effect of fading channel on link duration in Vehicular Ad Hoc Networks
+year:2013
+author information:[
+author name:Miao Hu
+author organization:Beijing Jiaotong University
+author id:2138575301|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Minming Ni
+author organization:Beijing Jiaotong University
+author id:2145958232|
+]
+abstract:networks|joint|considered|simulation|states|paper|several|channel|accuracy|transmission|complex|property|theoretically|modified|model|different|hoc|signal|results|defined|breaking|based|intervehicle|probability|dynamically|fading|effects|propagation|proposed|obtained|changed|mobility|virtual|ad|distance|analytical|influenced|link|partitioned|range|movements|matrix|vehicle|segments|duration|random|numerical|pathloss|verify|derived|situations|compared|markov|studied|vehicular|also|possible|transition|model|nonoverlapping|fluctuations|describe|revised|work
+venue name:Wireless Communications and Networking Conference
+venue id:1163279258
+venue type:C
+document type:Conference
+study fields:Markov process|Stochastic matrix|Markov model|Fading|Computer science|Computer network|Wireless ad hoc network|Fading distribution|Radio propagation|Channel state information
+references:2007662129|2107308460|2112759983|2117711429|2126476773|2127198770|2155686864|2160742791|2161127063
+
+
+id:2126769434
+title:A Cluster-Head Selection and Update Algorithm for Ad Hoc Networks
+year:2010
+author information:[
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+author name:Lajos Hanzo
+author organization:University
+author id:703410400|
+]
+abstract:outperforming|benchmarkers|three|number|protocol|terms|id|different|investigated|qualityofservice|algorithm|group|ad|typebased|carefully|reduced|deemed|algorithm|lowest|higher|node|selection|hence|clusterchange|considered|hoc|events|belong|update|capable|updates|firefighters|network|weighted|scenario|demonstrated|clusterhead|designed|clusterforming|rescue|paramedics|may|clustering|abovementioned|outperforms|performance|nodes|communicating|novel
+venue name:Global Communications Conference
+venue id:1131420910
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Pattern clustering|Computer science|Computer network|Algorithm|Quality of service|Adaptive quality of service multi-hop routing|Ad hoc wireless distribution service|Optimized Link State Routing Protocol|Wireless ad hoc network|Cluster analysis|Distributed computing
+references:1979323074|1988102139|2086976228|2097635163|2101678493|2107345572|2150210051|2163533836
+
+
+id:2766292363
+title:Analysis of Safety Messages Delivery in Vehicular Networks With Interconnected Roadside Units
+year:2017
+author information:[
+author name:Bin Pan
+author organization:Beijing Jiaotong University
+author id:2765905106|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2991240432|
+]
+abstract:smaller|simulation|occurs|safety|decelerating|interrsu|model|respectively|roadside|distance|considering|impact|opposite|delay|rsu|adopt|delays|analyze|messages|vehicular|average|messages|networks|two|accident|scenario|analyzes|verify|mechanism|gives|deployment|forward|suggestion|delay|neighbor|maximum|mathematical|interconnected|bidirectional|correct|whether|highway|different|accurate|mechanisms|results|obtain|given|need|comparing|develop|sparse|parameters|location|timeconstraint|critical|analytical|vehicles|units|general|paper|direction|delivery|determine|rsus|perform|guidance|location
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Software deployment|Computer science|Computer network|Quality of service|Vehicular communication systems|Vehicular ad hoc network|Distributed computing
+references:1982731565|2030064374|2034614500|2067931092|2071536164|2084409547|2089275285|2103393399|2121149727|2124063321|2130272391|2132987094|2144211846|2146479416|2265339577
+
+
+id:2800824532
+title:QoS-Aware Full-Duplex Concurrent Scheduling for Millimeter Wave Wireless Backhaul Networks
+year:2018
+author information:[
+author name:Weiguang Ding
+author organization:Beijing Jiaotong University
+author id:2799847744|
+author name:Yong Niu
+author organization:State Key Laboratory of Rail Traffic Control and Safety Beijing Jiaotong University
+author id:2952141662|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2800977940|
+author name:Yong Li
+author organization:Tsinghua University
+author id:2249689289|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+]
+abstract:extensive|introduces|stateoftheart|transmitted|maximize|number|problem|terms|fully|algorithm|qosaware|satisfied|contention|propose|quality|system|appropriate|achieve|concurrent|satisfied|scenario|si|based|compared|densely|multiuser|makes|selfinterference|simulations|considering|small|use|network|residual|millimeterwave|high|scheduling|throughput|communication|development|level|proposed|ghz|considered|interference|demonstrate|fd|full|backhaul|deployed|slot|cancelation|paper|qos|flows|considers|ensures|requirements|limited|also|schemes|technology|fullduplex|rates|possible|superior|cells|performance|service|condition|wireless|time
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Job shop scheduling|Wireless|Scheduling (computing)|Computer science|Computer network|Quality of service|Radio frequency|Interference (wave propagation)|Throughput|Duplex (telecommunications)|Distributed computing
+references:1511153158|1531742154|1981661761|2008689146|2009505753|2042822440|2049516452|2058707124|2086372483|2106341192|2118060203|2128938148|2234862916|2261663070|2427477319|2501770904|2545232960|2602287167|2741082453|2963903846
+
+
+id:2903435041
+title:Connectivity Analysis in Vehicular Networks with Slight Traffic Interference
+year:2018
+author information:[
+author name:Bin Pan
+author organization:Beijing Jiaotong University
+author id:2902272485|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2800977940|
+]
+abstract:inform|accurate|simulation|scenarios|entire|nearby|three|flow|connectivity|road|accident|model|block|order|reduce|pass|impact|effective|monte|propose|slow|analyze|value|experiments|vehicular|networks|two|accident|vehicle|speed|analyzes|smallscale|close|key|performance|means|necessary|congestion|return|several|highway|communication|results|us|traffic|including|develop|sparse|safe|interference|helps|location|parameters|analytical|rather|arrival|vehicles|network|paper|divide|make|normal|slight|length|verified|carlo|urban
+venue name:Wireless Communications and Mobile Computing
+venue id:235346
+venue type:J
+document type:Journal
+study fields:Network connectivity|Monte Carlo method|Traffic flow|Computer science|Real-time computing|Traffic accident|Interference (wave propagation)|Vehicular ad hoc network|Distributed computing
+references:2033985223|2056739816|2085212689|2098427433|2108498890|2110499865|2114140395|2117711429|2132987094|2144806447|2168790602|2461609381
+
+
+id:2904295648
+title:Vehicle Intersection Collision Monitoring Algorithm Based on VANETs and Uncertain Trajectories
+year:2018
+author information:[
+author name:Hongwei Ding
+author organization:State Key Laboratory of Rail Traffic Control and Safety Beijing Jiaotong University
+author id:2803532314|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2572635124|
+author name:Lan Dong
+author organization:Beijing Jiaotong university
+author id:2803781632|
+author name:Zejun Li
+author organization:Beijing jiaotong University
+author id:2803442935|
+]
+abstract:memory|answers|accuracy|approach|uncertain|required|safety|utilized|order|algorithm|reduce|based|efficiency|nearoptimal|accurately|monitoring|system|must|algorithm|experiments|networks|two|vehicle|architecture|lstm|one|considering|extensive|future|able|approach|adopted|longshort|approximate|lateral|intersection|communication|potential|recurrent|traffic|computational|ensure|level|occur|widely|conducted|significant|term|accidents|users|important|driving|collision|improving|achieving|especially|proposed|vanets|prediction|frequently|longitudinal|deep|stacked|neural|trajectories|divided|show|assistance|network|aware|provides|predict|costs|efficacy|proposed|form|locations|vehicles|user|applications
+venue name:International Conference on Intelligent Transportation Systems
+venue id:2623670486
+venue type:C
+document type:Conference
+study fields:Driving safety|Architecture|Algorithm|Recurrent neural network|Collision|Engineering
+references:1810943226|1998968879|2064675550|2091392553|2424778531|2465597433|2564701384|2734413633|2735275921|2741066535|2772499873|2782774414|2951188428
+
+
+id:2907304237
+title:Relay-Assisted and QoS Aware Scheduling to Overcome Blockage in mmWave Backhaul Networks
+year:2019
+author information:[
+author name:Yong Niu
+author organization:Beijing Jiaotong University
+author id:2120226096|
+author name:Weiguang Ding
+author organization:Beijing Jiaotong University
+author id:2799847744|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2800977940|
+author name:Yong Li
+author organization:Tsinghua University
+author id:2249689289|
+author name:Xinlei Chen
+author organization:Carnegie Mellon University
+author id:2701335785|
+author name:Bo Ai
+author organization:Beijing Jiaotong University
+author id:1983088207|
+author name:Zhangdui Zhong
+author organization:Jiaotong University
+author id:2019662662|
+]
+abstract:extensive|optimal|called|soon|millimeter|maximize|selects|number|problem|nonrepeating|easily|blockage|investigated|guide|raqs|algorithm|still|impact|completed|propose|quality|blockage|selection|algorithm|much|relayassisted|scheme|achieve|relays|overcome|concurrent|exploits|satisfied|blocked|scenario|compared|densely|forward|backhauling|simulations|selection|small|data|transmissions|mmwave|high|transmission|scheduling|throughput|results|challenge|ensure|widely|significant|exploited|used|raqs|helps|backhaul|link|according|show|investigate|wave|network|aware|qos|flows|parameter|requirements|practical|satisfy|effectively|relay|rates|satisfying|schemes|also|increase|possible|cells|service|consists|wireless
+venue name:IEEE Transactions on Vehicular Technology
+venue id:10936095
+venue type:J
+document type:Journal
+study fields:Qos aware|Backhaul (telecommunications)|Computer science|Scheduling (computing)|Selection algorithm|Quality of service|Computer network|Exploit|Throughput|Relay
+references:1511153158|1531742154|1971215677|1997920321|2040921991|2042822440|2084592718|2086372483|2113568028|2145417574|2147235461|2151467697|2165073164|2234862916|2268956143|2501770904|2757460353|2769544239|2770109518|2789947301|2903209582
+
+
+id:2947825277
+title:Coalition Game-Based Computation Resource Allocation for Wireless Blockchain Networks
+year:2019
+author information:[
+author name:Ning Zhao
+author organization:State Key Laboratory of Rail Traffic Control and Safety Beijing Jiaotong University
+author id:2947667880|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2800977940|
+author name:Yali Chen
+author organization:Beijing Jiaotong University
+author id:2947114090|
+]
+abstract:reaches|reach|simulation|obstacles|competition|maximize|problem|terms|pow|tasks|algorithm|promising|viewpoint|still|devices|nearoptimal|optimality|consideration|schemes|propose|miners|system|among|theory|environment|nashstable|prove|formulate|consensus|utility|sum|formation|networks|partition|low|coalition|mechanism|proofofwork|offload|computation|consensus|lots|fast|regarded|first|ratio|data|process|used|edge|imds|gamebased|solution|pbn|nodes|results|computational|imd|individual|resource|widely|finally|mec|public|mining|enormous|users|take|proposed|blockchain|rewarded|overall|internet|demonstrate|since|limited|allow|wired|game|convergence|complexity|deployed|reaching|network|computing|rate|computationconsuming|profit|allocation|mobile|solo|technology|although|outperforms|imds|converges|application|wireless|bitcoin
+venue name:IEEE Internet of Things Journal
+venue id:2480266640
+venue type:J
+document type:Journal
+study fields:Resource management|Edge computing|Wireless|Computer science|Computer network|Mobile device|Mobile edge computing|Resource allocation|Computational complexity theory|Distributed computing|Computation
+references:2023822502|2063699457|2089633275|2115728676|2126087831|2127172809|2129763443|2195475747|2234639732|2263365646|2292021756|2320374547|2596636257|2596916221|2619984247|2751350604|2789827290|2793346081|2796465757|2797816609|2848707805|2884963646|2885170672|2887000081|2888442703|2890075093|2891855426|2963929166
+
+
+id:2950129454
+title:Consortium Blockchain-Based Secure Software Defined Vehicular Network
+year:2019
+author information:[
+author name:Ning Zhao
+author organization:State Key Laboratory of Rail Traffic Control and Safety Beijing Jiaotong University
+author id:2947667880|
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2800977940|
+author name:Xiaonan Zhao
+author organization:Beijing Jiaotong university
+author id:2949219042|
+]
+abstract:plane|blockchain|called|software|considered|period|simulation|focus|convert|issues|three|put|different|problem|shorten|balance|safety|estimate|capacity|model|sdn|recent|defined|flow|promising|algorithm|based|still|researches|efficiency|mapping|ad|meanwhile|multicommodity|decentralized|confirmation|underlying|provide|defects|algorithm|vehicular|obtained|hoc|evaluate|access|methods|networks|deteriorates|indicate|architecture|performance|forward|could|heuristic|services|abstract|many|designing|considering|consensus|regarded|emerge|fake|requirements|certain|first|joint|consortium|use|solved|networking|tremendous|associate|high|stateinart|time|layers|modified|credibility|assigns|different|communication|potential|results|tolerance|new|development|need|resource|byzantine|constitutes|system|proposed|prediction|multiplepath|internet|trust|next|virtual|softwaredefined|paradigm|mass|vehicles|deployed|degree|network|malicious|security|load|value|designed|enhance|requirements|allocation|proofofstake|practical|previous|rsus|effectively|resources|fault|control|calculating|technology|increase|intelligent|sdvn|better|proposed|performance|management|provided|vehicles
+venue name:Mobile Networks and Applications
+venue id:192894947
+venue type:J
+document type:Journal
+study fields:Virtual network|Load balancing (computing)|Computer science|Heuristic (computer science)|Computer network|Byzantine fault tolerance|Resource allocation|Internet access|Vehicular ad hoc network|Network performance|Distributed computing
+references:2008103466|2035869080|2067269806|2114902045|2125560635|2126087831|2142547489|2268459722|2314452538|2345604657|2491112519|2527749660|2592922084|2735365211|2735401850|2766896817|2803109435|2897988018
+
+
+id:1978477450
+title:Model Reduction Based Set-Membership Filtering with Linear State Equality Constraints
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2654435997|
+author name:Wei Wang
+author organization:University
+author id:2608364242|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2149954867|
+]
+abstract:setmembership|simulation|constraints|space|problem|shown|model|state|algorithm|computational|reduce|based|load|two|estimation|system|proposed|examples|considered|algorithm|full|recursive|numerical|verify|equality|enhance|linear|existing|proposed|performance|discretetime|conservativeness|reduction
+venue name:IEEE Transactions on Aerospace and Electronic Systems
+venue id:193624734
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Recursion (computer science)|Linear system|Control theory|Filter (signal processing)|Numerical analysis|Filtering theory|Numerical stability|Mathematics
+references:1896002532|2025090775|2080295783|2116826317|2131752723|2139813482
+
+
+id:1990456199
+title:State estimation for Markovian Jump Linear System using quantized measurements
+year:2012
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2644558363|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2149954867|
+]
+abstract:use|inputs|investigates|mode|problem|markovian|presented|state|directly|moving|knowledge|using|method|probability|sampling|handle|monte|systems|estimation|proposed|solve|therefore|considered|interval|full|statistical|jumping|methods|estimators|show|distribution|measurement|unknown|example|paper|get|mode|possibility|measurements|considers|effectiveness|problem|mjlss|advantage|one|estimated|makes|carlo|jump|linear|better|horizon|existing|performance|regarded|simulation|quantized|instant|measurements
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Monte Carlo method in statistical physics|Applied mathematics|Mathematical optimization|Monte Carlo method|Linear system|Hybrid Monte Carlo|Probability distribution|Quantization (signal processing)|Monte Carlo molecular modeling|Mathematics|Estimator
+references:1965221027|1975330208|2042512542|2055213544|2062974796|2103447777|2122161467|2129764375|2131786117|2146581562|2154828437|2158175133|2169967661
+
+
+id:2020799571
+title:State estimation for Markovian Jump Linear Systems with bounded disturbances
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2654435997|
+author name:Wei Wang
+author organization:University
+author id:2608364242|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2149954867|
+author name:Zidong Wang
+author organization:Tsinghua University
+author id:2104171312|
+]
+abstract:setmembership|modes|optimal|approximate|problem|shown|markovian|find|presented|estimate|minkowski|state|expressed|calculate|presence|probabilities|defined|algorithm|computational|reduce|based|method|introducing|posterior|bounded|systems|lebesgue|estimation|polytopes|system|proposed|overall|algorithm|complexity|jumping|smallest|sum|investigate|point|similarity|polyhedral|relationship|class|set|disturbances|multiple|estimated|consistent|possible|union|jump|linear|help|polytopes|provided|first
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Point estimation|Mathematical optimization|Jumping|Control theory|Lebesgue measure|Posterior probability|Polytope|Minkowski addition|Mathematics|Computational complexity theory|Bounded function
+references:1896002532|1973117121|1975194246|1985093013|1992584347|2047903364|2055213544|2059284285|2071855385|2075023395|2088047720|2094486441|2102022978|2115981198|2120815912|2125514280|2129482594|2131786117|2143646641|2169967661|2170398694|2611147814
+
+
+id:2087935581
+title:Lower bounds in parameter estimation based on quantized measurements
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2654435997|
+author name:Wei Wang
+author organization:University
+author id:2629593076|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2149954867|
+]
+abstract:lower|named|considered|simulation|bound|explanation|noises|uncertainties|results|quantization|respectively|based|eec|need|lower|presented|squares|raw|bounds|weissweinstein|estimation|explicit|illustrated|proposed|bounds|qwwlb|adopting|calculations|obtained|present|regions|provided|show|covariance|kinds|investigate|error|qwwlb|weinstein|uniform|systems|parameter|cramerrao|class|close|measurements|qcrlb|linear|deriving|various|mean|quantized|well|gaussian|measurements|minimum|extending
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Cramér–Rao bound|Mathematical optimization|Linear system|Upper and lower bounds|Control theory|Gaussian|Estimation theory|Quantization (signal processing)|Gaussian noise|Mathematics|Covariance
+references:1703137584|1975330208|1983890061|2040832208|2044959905|2075554752|2104130465|2131786117|2146581562|2148477638|2156351790|2170021087
+
+
+id:2088957232
+title:Robust state estimation for linear systems with parametric uncertainties and quantised measurements
+year:2015
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2654435997|
+author name:Wei Wang
+author organization:University
+author id:2629593076|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2149954867|
+]
+abstract:functions|optimal|regularised|residual|uncertain|norm|problem|addressed|thus|estimator|incorporated|presented|state|uncertainties|results|algorithm|obtain|closely|parameters|need|probability|quantised|iterative|bounded|estimation|system|proposed|uncertainties|bounds|minimise|statistical|parametric|provided|deterministic|show|expectation|random|related|estimator|systems|based|measurements|worstcase|effectiveness|variables|linear|robust|density|solution|possible|simulation|information|design
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Residual|Mathematical optimization|Random variable|Linear system|Iterative method|Control theory|Robust statistics|Parametric statistics|Probability density function|Mathematics|Estimator
+references:1703137584|1975330208|1985093013|2012504174|2018063792|2052744842|2099313166|2128472572|2131786117|2146581562|2156257299|2162719021
+
+
+id:2120815912
+title:State estimation for networked systems: an extended IMM algorithm
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2706428722|
+author name:Hao Ye
+author organization:Tsinghua University
+author id:2656705826|
+]
+abstract:interacting|three|without|dropouts|problem|contribution|markovian|state|temporal|jump|algorithm|models|method|simulation|probability|handle|packet|system|correlation|delays|assumed|ie|much|extension|kinds|measurement|extended|nss|systems|modelled|takes|modifying|established|linear|markov|approaches|observation|possible|single|filter|channels|adopted|standard|data|achieves|used|mode|investigated|transmission|mjls|uncertainties|another|widely|imm|capture|particular|article|estimation|proposed|networked|mjls|ns|timestamps|updates|network|missing|effectiveness|process|characteristics|nature|advantage|multiple|verified|filters|follow|herein|special|better|existing|proposed|performance|strategy
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Markovian jump linear systems|Markov process|Control theory|Probability estimation|Network packet|Algorithm|Communication channel|Timestamp|Mathematics|Multiple Models
+references:206558677|1964787902|1968219400|2007696946|2023915291|2034993842|2035501838|2047474857|2065363913|2067071738|2071070644|2077672991|2081802666|2098624018|2098643386|2103715948|2110240006|2110606567|2117511248|2117915735|2121813417|2133893543|2140355755|2146237093|2152898444|2158727791|2164522996|2165777968|2166736144
+
+
+id:2782571023
+title:Multi-source fusion-based security detection method for heterogeneous networks
+year:2018
+author information:[
+author name:Hao Wu
+author organization:CNCERT/CC, China
+author id:2783560864|
+author name:Zhonghua Wang
+author organization:Research institute, CNCERT/CC, Beijing, 100029, China
+author id:2783395158|
+]
+abstract:thought|optimal|results|whole|nonzerosum|model|types|using|method|considering|theoretic|analysis|exist|must|valuable|numerical|scheme|formulate|nash|local|exploits|indicates|attack|get|firstly|decisions|ddos|rational|validate|established|detection|strategies|abstract|theory|launch|simulations|intrusion|maximum|example|defender|calculation|concerned|theoretical|existence|solved|threshold|heterogeneous|investigated|happens|shows|shown|attacks|whether|presented|always|multisource|payoffs|resource|strategies|profiles|iterative|confrontation|try|game|best|also|network|conclusion|general|security|make|fusionbased|allocated|allocation|fusionbased|limited|attacker|resources|despite|nodes|equilibrium|strategy|incident|humans
+venue name:Computers  Security
+venue id:12529635
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Denial-of-service attack|Computer science|Iterative method|Computer security|Fusion|Exploit|Resource allocation|Heterogeneous network|Nash equilibrium|Multi-source
+references:433644524|1964439345|1968439359|1977538586|1989556229|2015228223|2019981562|2021782674|2039442723|2042097996|2050955150|2053225008|2062757535|2067064328|2070586534|2074623901|2097488792|2105013775|2107239999|2108765971|2108977520|2118595571|2129897750|2132645110|2137429790|2142889610|2142960677|2160502705|2162938499|2342559881|2476002244|2557746379|2588787044|2952995943
+
+
+id:2784241349
+title:A Game Theory Based Collaborative Security Detection Method for Internet of Things Systems
+year:2018
+author information:[
+author name:Hao Wu
+author organization:CNCERT/CC, China
+author id:2654435997|
+author name:Wei Wang
+author organization:BeiHang University
+author id:2608364242|
+]
+abstract:calculation|manner|theoretical|results|existence|developed|entire|objective|analyzed|equilibrium|number|protocol|incomplete|presented|implement|model|quantitative|results|investigated|utilized|based|models|method|collaborative|considering|finite|things|sharing|analysis|confrontation|attacker|consensus|fusion|internet|iterations|systems|game|achieve|infinite|provided|protection|learning|nash|iot|security|equilibriums|attack|iteration|verify|ddos|relationship|detection|cases|determine|also|consensus|framework|simulation|uniqueness|maximum|information|equilibrium|complete|defender
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Uniqueness|Computer vision|Finite set|Denial-of-service attack|Computer science|Internet of Things|Theoretical computer science|Artificial intelligence|Game theory|Nash equilibrium|Information sharing
+references:1561047780|1964439345|1969747160|1989556229|1998960699|2032987408|2039427951|2042097996|2047399268|2053225008|2062757535|2063688797|2065577175|2065643612|2067064328|2074623901|2074796812|2104924323|2105934885|2108977520|2114557042|2116520617|2118595571|2125309241|2129897750|2132814903|2137429790|2142889610|2160502705|2160643434|2164256494|2407898405|2523827785|2565835371|2586432806|2621443519|2734858986
+
+
+id:2801962073
+title:Game theoretical security detection strategy for networked systems
+year:2018
+author information:[
+author name:Hao Wu
+author organization:CNCERT/CC, China
+author id:2801826055|
+author name:Wei Wang
+author organization:BeiHang University
+author id:2429112953|
+author name:Changyun Wen
+author organization:Nanyang Technol. University
+author id:2096567806|
+author name:Zhengguo Li
+author organization:Robotics Department Institute for Infocomm Research, Singapore
+author id:2148913006|
+]
+abstract:optimal|strategic|results|considered|approach|reflect|thus|model|silence|based|method|players|sampling|methods|analysis|execute|provide|allocate|examples|conditions|actions|ie|larger|complexity|systems|numerical|nash|two|convexity|recursive|defense|attack|firstly|decisions|validate|detection|robust|necessary|strategies|abstract|determined|information|complete|first|defender|calculation|theoretical|existence|rigorously|heterogeneous|unit|second|analyzed|incomplete|presented|whether|sufficient|continuous|results|verification|cautiously|computational|kernels|given|ensure|comparison|bayesian|restrictions|important|proposed|keep|networked|players|game|provided|units|network|relaxed|security|equilibriums|make|limited|effectively|perform|attacker|resources|twostage|intensity|existing|assets|information|equilibrium|tends
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Convexity|Sampling (statistics)|Artificial intelligence|Nash equilibrium|Machine learning|Recursion|Complete information|Mathematics|Bayesian probability|Computational complexity theory
+references:433644524|1964439345|1977538586|1989556229|1993446335|1994947552|1996077944|1998960699|2021782674|2039404515|2042097996|2047399268|2053225008|2058673328|2060484139|2062757535|2067064328|2074623901|2076823611|2105013775|2108977520|2110713969|2112295843|2118595571|2120839938|2129897750|2132645110|2132814903|2137429790|2142889610|2160502705|2169918431|2245796072|2317207298|2533722491|2811125079|2952995943
+
+
+id:2912178240
+title:Distributed Adaptive Consensus Tracking Control of Uncertain High-order Nonlinear Systems under Directed Graph Condition
+year:2018
+author information:[
+author name:Jiang Long
+author organization:Beihang University
+author id:2908025259|
+author name:Wei Wang
+author organization:BeiHang University
+author id:2608364242|
+author name:Jing Zhou
+author organization:University of Agder
+author id:2275961986|
+author name:Hao Wu
+author organization:CNCERT/CC, China
+author id:2914654424|
+]
+abstract:closedloop|inputs|subsystem|nonlinear|tracking|subsystems|uncertain|without|output|status|reference|introduced|problem|shown|presented|uniformly|assumption|communication|totally|needed|signal|results|based|subjected|laws|achieved|distributed|linearly|bounded|external|longer|signals|timevarying|exchange|parameters|access|scheme|globally|highorder|direct|estimators|investigate|local|unknown|adaptive|desired|systems|parameterized|class|designed|directed|disturbances|control|fashion|consensus|existing|corresponding|backstepping|information|operation|novel
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Backstepping|Mathematical optimization|Parameterized complexity|Nonlinear system|Computer science|Control theory|Directed graph|Uniform boundedness|Adaptive control|Trajectory|Estimator
+references:1982469113|2015566209|2045161112|2065632630|2080817687|2099175737|2104708700|2107396783|2117516628|2125668987|2143121414|2157187992|2167040191|2172498959|2463211364|2576168630
+
+
+id:198044439
+title:Personalized Recommendation via Relevance Propagation on Social Tagging Graph
+year:2014
+author information:[
+author name:Huiming Li
+author organization:Yunnan University
+author id:2436547184|
+author name:Hao Li
+author organization:Yunnan University
+author id:2984301876|
+author name:Zimu Zhang
+author organization:Yunnan University
+author id:2424757698|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+]
+abstract:tagging|recommendation|express|collected|used|relation|find|graph|model|results|based|experimental|profile|profiles|modeled|real|relevance|users|tags|candidates|propagation|proposed|systems|show|merits|datasets|media|two|personalized|random|paper|interest|systems|spreads|social|userresourcetag|resources|recommended|approach|novel|walk|presents
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Recommender system|Graph|Data mining|Social media|User profile|Information retrieval|Random walk|Computer science
+references:3614407|46938732|1549014378|1964066675|1976320242|1989868324|2002231541|2036536766|2055252587|2066636486|2067473587|2079335968|2092902234|2100235918|2102775690|2138621811
+
+
+id:1904490791
+title:Personalized QoS Prediction of Cloud Services via Learning Neighborhood-Based Model
+year:2015
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Jun He
+author organization:Nanjing University of Information Science  Technology
+author id:2474931629|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:stateoftheart|approach|different|cloud|worldscale|optimization|estimate|different|filtering|results|models|collaborative|experimental|proposes|distributed|methods|baseline|users|intelligence|formal|invocation|improve|used|prediction|largescale|qosspecific|components|records|methods|achieve|show|overcome|global|exploits|network|paper|neighborhoodbased|web|validate|allows|performance|set|efficient|learned|predictive|heuristic|services|existing|superior|advantages|framework|performance|difficulties|service|qosprediction|consists|dataset|taking
+venue name:Collaborative Computing
+venue id:1181194180
+venue type:C
+document type:Conference
+study fields:Data mining|Heuristic|Collaborative filtering|Global optimization|Computer science|Quality of service|Exploit|Web service|Collaborative intelligence|Distributed computing|Cloud computing
+references:2006404195|2014318101|2030239032|2047109571|2054341076|2060836686|2089419957|2091381870|2104185402|2114821336|2119462974|2121710227|2135029798|2137245235|2140597141|2162983389
+
+
+id:1959061617
+title:Representing and processing lineages over uncertain data based on the Bayesian network
+year:2015
+author information:[
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Weiyi Liu
+author organization:Yunnan University
+author id:2916253211|
+author name:Yunlei Zhu
+author organization:Yunnan University
+author id:2098657080|
+]
+abstract:lineage|called|graphical|focus|semantics|uncertain|model|dag|boolean|probabilities|algorithm|give|based|models|efficiency|method|inferences|probability|methods|gibbssamplingbased|propose|node|functionbased|adopt|starting|exact|intermediate|processing|plans|starting|tuples|inference|guarantee|bn|unsafe|uncertainty|acyclic|popular|table|processing|expression|probabilistic|inferences|one|representing|data|queries|generally|framework|discuss|conditional|data|variableeliminationbased|inputs|formulas|approximate|spj|compute|evolution|lineages|expressed|results|planswe|obtain|tracing|theoretically|experimental|query|bayesian|expressions|obtaining|important|equivalently|safe|support|production|origin|show|equivalently|representation|processing|network|effective|transform|graphs|lbnbased|effectiveness|directed|process|constructed|theoreticallywe|corresponding|formulae|conditioned|consists|suitable|abbreviated|properties
+venue name:Applied Soft Computing
+venue id:140556538
+venue type:J
+document type:Journal
+study fields:Tuple|Uncertain data|Approximate inference|Directed acyclic graph|Bayesian network|Artificial intelligence|Graphical model|Probabilistic logic|Machine learning|Mathematics|Conditional probability table
+references:1591433113|1969965125|2003053387|2049488596|2058817992|2059296613|2063191945|2075259377|2078686663|2090761873|2093149131|2093976733|2096219859|2104791905|2109912197|2114157818|2118370002|2120825705|2125806118|2126185296|2126880670|2137536943|2146327344|2155094138|2159080219|2161123625|2164331768|2169600045|2170353829|2170653744|2262040027|2395476279|2803681287
+
+
+id:1968699032
+title:Towards recommendation to trust-based user groups in social tagging systems
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yu Hua
+author organization:Yunnan University
+author id:2302916732|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:tagging|use|recommendation|welfare|trustbased|maximize|would|experiment|aggregating|function|estimate|rank|consider|group|based|individual|preference|community|relevance|users|hybrid|combsum|especially|proposed|effect|present|useful|lastfm|group|systems|achieve|experiments|aggregation|relations|aggregate|common|combanz|systems|similarity|recommender|according|preferences|resources|strategies|social|groups|satisfaction|model|better|various|discovery|initially|detected|essentially|suitable|trustable|user|members|delicious
+venue name:Fuzzy Systems and Knowledge Discovery
+venue id:1181068974
+venue type:C
+document type:Conference
+study fields:Recommender system|Social relation|World Wide Web|Computer science|Cultural diversity|Social welfare function
+references:96341436|172843222|1677573912|1980300263|1996864262|2003605635|2021674147|2028751185|2036536766|2060494110|2069153192|2086095199|2134008243|2153578526|2172118809
+
+
+id:1981003081
+title:Enhancing Context-Aware Recommendation via a Unified Graph Model
+year:2014
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Xiaoxin Liu
+author organization:Yunnan University
+author id:2167072869|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+]
+abstract:contextual|incorporates|postprocessing|use|recommendation|experimental|recommendations|graph|estimate|model|specifically|results|dependent|order|advantageous|given|development|way|rwr|propose|graph|relevance|quality|proposed|contextaware|items|basic|methods|two|effective|designed|enhance|context|strategies|target|filter|conditions|unified|assist|information|user
+venue name:The Internet of Things
+venue id:1168863100
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Graph|Contextual information|Information retrieval|Computer science|Computer network|Context model|Ubiquitous computing|Semantics|Graph model
+references:26083285|1560147776|1576240472|1965284750|1989868324|2018741445|2041145894|2042281163|2047109571|2125280397|2142672922
+
+
+id:1984123657
+title:Structure Learning of Bayesian Network with Latent Variables by Weight-Induced Refinement
+year:2014
+author information:[
+author name:Chao He
+author organization:Yunnan University
+author id:2231066615|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Weiyi Liu
+author organization:Yunnan University
+author id:2916253211|
+]
+abstract:straightforward|lvs|existence|focus|lv|incorporate|variables|uncertain|without|observed|number|relationships|realistic|concise|cliquebased|method|inferring|results|knowledge|based|experimental|bayesian|lvs|weight|finding|unobservable|propose|feasibility|latent|adjust|consistently|theory|algorithms|challenges|line|concept|show|learning|bn|network|provides|parameter|missing|define|value|variables|determine|learn|learned|e|introduce|representing|data|eclique|structure|ecliques|framework|regard|information|determining
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Information theory|Data mining|Clique|Computer science|Structure learning|Latent variable|Bayesian network|Artificial intelligence|Missing data|Unobservable|Machine learning
+references:36593897|76486676|159599920|201409579|1505105018|1566045017|1801737117|1967733025|1975442866|2022139518|2071080800|2082603400|2103160678|2137099275|2170112109|2170653744|2397866408|2884843966
+
+
+id:1989868324
+title:On improving aggregate recommendation diversity and novelty in folksonomy-based social systems
+year:2014
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Xiaohui Cui
+author organization:Wuhan University
+author id:2570540401|
+author name:Jun He
+author organization:Nanjing University of Information Science  Technology
+author id:2474931629|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:recommendation|accuracy|users|issues|nonpersonalized|balance|advances|diverse|model|specifically|reduce|based|solid|method|made|folksonomy|impact|compromises|reduced|overload|perspective|size|among|niche|metrics|obtained|relative|become|complexity|systems|utility|facing|methoddiversityaware|two|personalized|exploits|diversity|found|systems|popularity|vector|many|key|elegant|according|compared|address|arisen|pagerank|unfortunately|combines|services|many|lead|pagerank|accuracy|meet|userresource|increasing|unified|information|ranking|dappr|novel|benefit|simple|recommendations|influence|improvements|personalized|generate|results|folksonomybased|individual|need|resource|often|users|respect|efforts|hybrid|proposed|adjust|internet|useful|resourcetag|technical|media|aggregate|graphs|ubiquitous|factor|recommender|designed|algorithms|processes|requirements|social|introduce|resources|yet|bipartite|also|better|balancing|existing|performance|yields|well|challenge|applications
+venue name:Ubiquitous Computing
+venue id:1171345118
+venue type:C
+document type:Conference
+study fields:Recommender system|PageRank|Information overload|Information retrieval|Ranking|Computer science|Exploit|Folksonomy|Ubiquitous computing|Novelty
+references:29625609|1601541158|1774663064|1943444950|1964066675|1965406039|1967787801|1970814671|1971040550|1975917757|1976320242|1980730196|2004115230|2032936278|2036536766|2048279536|2055252587|2066636486|2083697754|2092902234|2096171686|2102775690|2103384206|2124168655|2127113848|2141081215|2144807535|2153578526|2155912844|2159155347|2161984370
+
+
+id:1991133769
+title:Resource availability-aware advance reservation for parallel jobs with deadlines
+year:2014
+author information:[
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Bin Shen
+author organization:School of Electrical and Information Engineering, Wuhan Institute of Technology,Wuhan,China
+author id:2430809030|
+]
+abstract:slotbased|advance|sizes|reservation|exclusive|defined|investigated|algorithm|impact|dynamically|lowest|quality|system|allocate|highest|interval|metrics|slowdown|algorithms|average|systems|access|guarantee|search|flexibility|systems|deadline
+venue name:The Journal of Supercomputing
+venue id:32326811
+venue type:J
+document type:Journal
+study fields:Reservation|Data structure|Suite|Scheduling (computing)|Computer science|Parallel computing|Multiprocessing|Acceptance rate|Earliest deadline first scheduling|Dynamic priority scheduling|Distributed computing
+references:1489899996|1502230532|1513326124|1516619776|1543328822|1575276008|1603731243|1855881530|1966447823|1988129581|2006465142|2010601834|2022892419|2032070071|2044563694|2052282949|2053757876|2058295748|2061048015|2075023749|2097868515|2101857347|2104453649|2111259717|2113332724|2115264714|2116367722|2120954353|2130580270|2140895681|2146302074
+
+
+id:1993843058
+title:Sparse Signal Recovery from Fixed Low-Rank Subspace via Compressive Measurement
+year:2013
+author information:[
+author name:Jun He
+author organization:
+author id:2474931629|
+author name:Ming-Wei Gao
+author organization:
+author id:2251223545|
+author name:Lei Zhang
+author organization:Yunnan University
+author id:2664832282|
+author name:Hao Wu
+author organization:Nanjing University of Information Science  Technology
+author id:2712558460|
+]
+abstract:performs|data|cosamp|evaluates|sensing|spanned|lowrank|variant|directly|truly|signal|results|algorithm|given|corrupted|successfully|simulated|ordinary|dense|separation|proposed|sparse|fixed|designs|full|recovering|works|instead|part|additional|show|investigate|video|measurement|paper|noise|firstly|structured|vector|sensing|subspace|recover|could|compressive|better|separating|performance|v|u|gaussian
+venue name:Algorithms
+venue id:190629608
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Subspace topology|Computer science|Sparse approximation|Signal recovery|Greedy algorithm|Artificial intelligence|Gaussian noise|Compressed sensing|Machine learning
+references:1608074891|1609746247|1736339626|2044670824|2071284784|2075780128|2096642693|2098012923|2143701678|2145096794|2145856765|2164278908|2296616510
+
+
+id:2006873596
+title:RWR-Based Resources Recommendation on Weighted and Clustered Folksonomy Graph
+year:2014
+author information:[
+author name:Zongzhan Kang
+author organization:Yunnan University
+author id:2122585648|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+]
+abstract:neglects|recommendation|accuracy|users|problem|model|rwrbased|thus|collaborative|folksonomy|preference|sparsity|difference|assigned|recommending|implicit|enhances|differences|proved|inspired|indicate|ability|compared|mitigate|one|unweighted|model|framework|information|dataset|performs|data|inside|importance|last|random|awareness|results|new|resource|experimental|restarts|rwr|weights|users|graph|improve|solve|present|useful|walk|applied|fm|twofold|show|effective|paper|tag|original|social|edges|resources|clustering|significantly|presents
+venue name:International Conference on e-Business Engineering
+venue id:1151115230
+venue type:C
+document type:Conference
+study fields:Data mining|Graph|Information retrieval|Random walk|Computer science|Folksonomy|Cluster analysis|Recommendation model
+references:46938732|1964066675|1971040550|1975153704|1976320242|1985554184|1989868324|2036536766|2055252587|2060972747|2079335968|2083697754|2100235918|2124168655|2144807535|2153578526
+
+
+id:2010518262
+title:Scientific impact at the topic level: A case study in computational linguistics
+year:2010
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Jun He
+author organization:Nanjing University of Information Science  Technology
+author id:2474931629|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:measured|scientific|corpus|granular|score|inc|conferences|wiley|academic|view|model|algorithm|computational|promising|including|method|created|impact|biased|propose|toward|measure|latent|topic|useful|relative|eigenfactor|linguistics|importance|scientific|show|global|experiments|views|topiclevel|considers|apply|topics|pagerank|multiple|model|impact|assess|tef|entities|metric|well|entity
+venue name:Journal of the Association for Information Science and Technology
+venue id:80113298
+venue type:J
+document type:Journal
+study fields:PageRank|Information retrieval|Computer science|Computational linguistics|Eigenfactor|Bibliometrics|Granularity|Topic model|Impact factor
+references:1539510218|1880262756|1969666528|1970779429|1972830890|1990649839|1992037052|2005706022|2022322548|2024289364|2040906208|2066636486|2097027133|2098162425|2101599977|2101746535|2107743791|2107972503|2108159812|2124168655|2125493559|2131409840|2132040345|2146341620|2150340219|2153252192|2168201538
+
+
+id:2010601834
+title:Fragment Aware Scheduling for Advance Reservations in Multiprocessor Systems
+year:2012
+author information:[
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Enwei Zhou
+author organization:Yunnan University
+author id:2709292160|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Bin Shen
+author organization:Sch. of Electr.  Inf. Eng., Wuhan Institute of Technol., Wuhan, China
+author id:2430809030|
+]
+abstract:focus|followingup|put|jobs|split|would|continuous|scheduling|reservation|fragments|best|generate|defined|combination|reduce|based|resource|worst|rate|utilization||produced|task|acceptance|proposed|improve|rate|multiprocessor|designs|job|slowdown|algorithms|average|forward|best|two|experiments|proved|rate|provides|ability|based|relationship|performance|idle|studied|analyzed|resources|heuristic|realized|also|technology|fit|occupation|performance|pe|properties
+venue name:Cyber-Enabled Distributed Computing and Knowledge Discovery
+venue id:1131680737
+venue type:C
+document type:Conference
+study fields:Reservation|Resource management|Heuristic|Fair-share scheduling|Computer science|Scheduling (computing)|Multiprocessing|Real-time computing|Schedule|Best, worst and average case
+references:155370122|1561805388|1988129581|2032070071|2061048015|2104453649|2135287375|2157564323|2160544331
+
+
+id:2031999643
+title:Item recommendation in collaborative tagging systems via heuristic data fusion
+year:2015
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Zongzhan Kang
+author organization:Yunnan University
+author id:2122585648|
+author name:Xiaoxin Liu
+author organization:Yunnan University
+author id:2167072869|
+author name:Hao Li
+author organization:Yunnan University
+author id:2984301876|
+]
+abstract:functions|accuracy|without|evaluation|filtering|models|thus|models|notably|profile|overload|quality|tags|profiling|flexible|userbased|obtained|formed|items|components|examine|maybe|recommend|datasets|diversity|systems|based|popular|key|sets|one|heuristic|combining|services|exploiting|increasing|information|represent|depending|evidence|separate|using|recommendations|good|helpful|results|need|users|fusion|improving|systematically|useful|principles|little|lastfm|recommendation|novelty|random|similarity|effectiveness|components|improvement|significantly|scorebased|tagging|recommendation|experimental|stateoftheart|issues|three|put|loss|experiment|four|model|similar|item|interdiversity|method|itembased|collaborative|collaborative|rankbased|classified|traditional|combinations|recommending|systems|methods|kinds|respectively|representations|web|categories|linear|robust|forward|fusing|suggest|lead|walks|accuracy|assess|summarize|first|data|use|findings|several|used|consider|tag|different|selected|combine|combination|including|profiles|chosen|relevant|hybrid|task|proposed|improve|topic|basic|according|citeulike|items|algorithmic|nonrelevant|recommender|social|also|performance|various
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Data mining|Information overload|Profiling (computer programming)|Computer science|Artificial intelligence|Recommender system|Heuristic|Collaborative filtering|Information retrieval|Sensor fusion|Novelty|Topic model|Machine learning
+references:8870360|15568148|61098458|198044439|281665770|1481216242|1542664738|1567956804|1880262756|1943444950|1964066675|1971040550|1976320242|1978394996|1985554184|1988686126|1989868324|2001537781|2018426558|2025604321|2030319410|2036140203|2036536766|2042024605|2049455633|2051834357|2055252587|2060494110|2060972747|2064173066|2064637959|2069078812|2074424102|2078396654|2083697754|2084457609|2087743880|2100235918|2102775690|2117311203|2127533570|2136583886|2142144955|2143483926|2144807535|2146081744|2153252192|2153578526|2165612380|2171960770
+
+
+id:2033180428
+title:Heuristics to allocate high-performance cloudlets for computation offloading in mobile ad hoc clouds
+year:2015
+author information:[
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Bin Shen
+author organization:School of Electrical and Information Engineering, Wuhan Institute of Technology,Wuhan,China
+author id:2430809030|
+]
+abstract:simulation|offloading|problem|computationintensive|enable|tasks|investigated|energy|based|ad|method|devices|expected|dynamically|environments|among|standpoint|experiments|must|metrics|account|hoc|consumption|appropriate|average|complexity|independent|foraging|save|focuses|slowdown|tradeoff|heuristics|taken|map|performance|completion|set|decision|offload|heuristic|choice|environments|arriving|cloud|systemcentric|scheduling|different|nodes|results|experimental|batch|respect|important|proposed|improve|overall|seems|waiting|show|best|cyber|resourceconstrained|computing|paper|validated|performances|execution|networkbased|mobile|perform|performance|online|usercentric|time|comprehensive|mctcomm|applications
+venue name:The Journal of Supercomputing
+venue id:32326811
+venue type:J
+document type:Journal
+study fields:Mobile cloud computing|Mobile ad hoc network|Job shop scheduling|Computer science|Parallel computing|Computer network|Computation offloading|Heuristics|Job scheduler|Cyber foraging|Distributed computing|Cloud computing
+references:1539689205|1746637951|1903036498|1943005004|1969042385|1973880217|1991373388|1995064917|2015597701|2025397485|2028828583|2034146987|2035309464|2035843595|2040099976|2047122805|2056163839|2077422038|2078782914|2088692353|2090609496|2091333543|2095884403|2099262152|2101788345|2132609161|2132932625|2135099885|2136330951|2141823645|2148135143|2152324831|2158613049|2160747726|2164484388|2197766147
+
+
+id:2050024584
+title:Detecting academic experts by topic-sensitive link analysis
+year:2009
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Jiang Yu
+author organization:Yunnan University
+author id:2601684434|
+]
+abstract:play|expert|named|reasoning|areas|relation|realworld|problem|retrieval|model|order|based|considering|probability|attention|propose|authorities|latent|flexible|attracted|metrics|much|coauthorship|authors|schema|recommending|integrating|methods|experiments|practices|achievements|association|networks|questions|problem|strategies|topics|draw|many|model|field|accuracy|ranking|experts|concerned|data|several|main|research|academic|bias|dirichlet|needs|topicsensitive|query|develop|finding|important|candidates|measure|proposed|infer|techniques|improve|judging|topic|solving|idea|roles|show|effective|algorithmcombined|allocation|copagerank|citation|social|recently|versatile|special|existing|suitable|interested|applications
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:Data science|Latent Dirichlet allocation|Social network|Special needs|Ranking|Computer science|Link analysis|Citation|Database schema|Artificial intelligence|Topic model|Machine learning
+references:1498257742|1539510218|1539585011|1547561528|1588022898|1880262756|1969666528|1970461679|2066636486|2101599977|2108160760|2110896767|2124168655|2126024570|2126226055|2132613313|2143561480|2149563795|2168190036|2185093343
+
+
+id:2079695690
+title:Scholar search-oriented author disambiguation
+year:2012
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+]
+abstract:criteria|recognized|stateoftheart|without|problem|pairwise|still|using|method|work|propose|unsupervised|attracted|improvement|coauthorship|algorithms|deal|components|classical|linkage|citations|blocked|according|training|makes|step|many|combined|returned|dataset|first|research|name|second|features|ambiguity|brings|find|hierarchical|method|different|test|need|significant|scholar|disambiguate|twosteps|improve|name|problems|challenges|best|search|disambiguation|end|distances|citation|blocks|attentions|merged|citations|approaches|room|outperforms|proposed|performance|various|agglomerative|clustering|user
+venue name:Fuzzy Systems and Knowledge Discovery
+venue id:1181068974
+venue type:C
+document type:Conference
+study fields:Hierarchical clustering|Pairwise comparison|Information retrieval|End user|Computer science|Hierarchical clustering of networks|Citation analysis|Artificial intelligence|Cluster analysis|Brown clustering|Ambiguity|Machine learning
+references:1490467549|1536860849|1585742040|1592086497|1592339834|1846215264|1964879903|1972837706|1990976049|1992419399|1999431036|2007172042|2010518262|2026499502|2039599657|2050024584|2056826404|2118382442|2120623936|2134737843|2162337786
+
+
+id:2083697754
+title:Personalized recommendation via rank aggregation in social tagging systems
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yu Hua
+author organization:Yunnan University
+author id:2302916732|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:tagging|results|optimal|dataset|recommendation|accuracy|approach|introduced|optimize|experiment|rank|different|filtering|based|models|solid|method|collaborative|recommenders|hybrid|proposed|adjust|principles|userbased|basic|lastfm|submodels|systems|superiority|methods|achieve|aggregation|personalized|paper|make|cf|social|approaches|socialbased|produce|leveraged|integrate|better|form|graphbased|specially|exploit|first|presents
+venue name:Fuzzy Systems and Knowledge Discovery
+venue id:1181068974
+venue type:C
+document type:Conference
+study fields:Recommender system|Graph|Collaborative filtering|Information retrieval|Computer science|Exploit|Artificial intelligence|Machine learning|Recommender systems collaborative filtering
+references:3614407|1549014378|1567956804|1964066675|1976320242|2036536766|2050024584|2055252587|2060494110|2102775690|2171960770
+
+
+id:2093945069
+title:Enhancing citation recommendation with various evidences
+year:2012
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yu Hua
+author organization:Yunnan University
+author id:2302916732|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+]
+abstract:metadata|recommendation|improved|measures|introduced|retrieval|evidence|model|using|researchers|preference|preference|propose|wellchosen|system|provide|set|valuable|become|citations|established|address|problem|suggest|integrate|meet|information|cocitation|available|reputation|tremendous|reranked|retrieves|publication|results|challenge|needs|bibliographic|users|system|important|relevant|task|proposed|experimented|corpusacl|show|candidate|paper|evidences|digital|amount|citation|target|special|treats|selfcitation|various|anthology|time|significantly
+venue name:Fuzzy Systems and Knowledge Discovery
+venue id:1181068974
+venue type:C
+document type:Conference
+study fields:Recommender system|Metadata|World Wide Web|Information needs|Information retrieval|Computer science|Citation|Citation analysis|Time preference|Digital library|Reputation
+references:1517178547|1568131066|1848279521|1985554184|1995326326|2005207065|2010518262|2050024584|2086511124|2116655493|2142574815|2146936057|2164686581|2165611133|2167304379
+
+
+id:2098372322
+title:Hidden Topic Analysis Based Formal Framework for Finding Experts in Metadata Corpus
+year:2009
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Jiang Yu
+author organization:Yunnan University
+author id:2601684434|
+]
+abstract:expert|metadata|considered|improves|empirical|ambiguous|approach|query|retrieval|estimate|rank|model|catch|knowledge|based|models|method|thus|lower|analysis|attention|propose|relevance|attracted|mentions|level|much|semantic|methods|document|finding|association|capability|wordtopicdocument|demonstrated|efficient|lacks|queries|model|cooccurrences|topical|documents|corpus|language|prior|candidates|results|worddocument|kind|query|capture|less|finding|candidates|ranks|proposed|topic|hidden|candidate|hence|supporting|documentbased|recently|effectively|instead|treats|performance|ranking|favor|various
+venue name:Annual ACIS International Conference on Computer and Information Science
+venue id:2755365417
+venue type:C
+document type:Conference
+study fields:Resource management|Metadata|Formal language|Information retrieval|Semantic association|Ranking|Computer science|Computational linguistics|Natural language processing|Artificial intelligence|Topic analysis|Language model
+references:1498257742|1547561528|1588022898|1880262756|1967573127|1970461679|2042980227|2043252224|2066636486|2093390569|2122333127|2126226055|2143561480|2148473175|2149563795|2539387822
+
+
+id:2102825701
+title:Scheduling of a Relaxed Backfill Strategy with Multiple Reservations
+year:2010
+author information:[
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Ying Li
+author organization:Kunming University of Science
+author id:2701446548|
+author name:Min He
+author organization:Yunnan University
+author id:2659798247|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Jundong Yang
+author organization:Yunnan University
+author id:2098895716|
+]
+abstract:depend|accuracy|different|without|number|loss|reservation|strict|investigated|using|relaxation|utilization|avoidance|execute|former|traditional|system|reserved|flexible|larger|traces|average|nonbackfilling|works|starvation|restrict|slowdown|known|protect|mechanism|chain|could|jobs|suggest|satisfaction|simulations|generally|reservations|efficiently|maximum|reactions|relaxbased|queue|small|arriving|scheduling|backfill|results|raising|new|already|experimental|relaxing|traces|runtime|real|utilization|proposed|backfilling|job|support|allow|waiting|back|relaxed|effective|times|paper|load|parallel|supporting|performances|successful|effectiveness|multiple|start|resources|increase|existing|backfilling|reservations|although|well|latter|time|reducing|user
+venue name:Parallel and Distributed Computing: Applications and Technologies
+venue id:1169828999
+venue type:C
+document type:Conference
+study fields:Reservation|Grid computing|Fair-share scheduling|Scheduling (computing)|Computer science|Queue|Real-time computing|Queueing theory|Job scheduler|Dynamic priority scheduling|Distributed computing
+references:1493147916|1524327605|1531403850|1590595127|2112168774|2123837970|2135151050|2160544331
+
+
+id:2174033688
+title:Computation Offloading Management for Vehicular Ad Hoc Cloud
+year:2014
+author information:[
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Zhi Liu
+author organization:Yunnan University
+author id:2438898306|
+author name:Haixia Liu
+author organization:Yunnan University
+author id:2439878551|
+]
+abstract:tries|simulation|offloading|research|put|via|cloud|shown|time|four|implement|hoc|investigated|combine|shorter|ad|including|method|resource|whose|outperformed|task|proposed|selection|among|networks|registration|experiments|vehicular|hoc|higher|functional|components|ad|one|interconnecting|vehicles|networks|multiattributed|capacity|computing|partition|paper|rate|surrogate|performances|considers|completion|strategies|forward|mobile|multiple|vehicular|computation|framework|application|wireless|strategy
+venue name:International Conference on Algorithms and Architectures for Parallel Processing
+venue id:1120750887
+venue type:C
+document type:Conference
+study fields:Mobile ad hoc network|Mobile cloud computing|Resource management|Computer science|Computer network|Ad hoc wireless distribution service|Computation offloading|Wireless ad hoc network|Vehicular ad hoc network|Distributed computing|Cloud computing
+references:1966836595|1970672897|1984924886|2004912701|2005869756|2047322484|2056163839|2104237724|2126043280|2141823645|2143488688
+
+
+id:2254094533
+title:Collaborative Topic Regression with social trust ensemble for recommendation in social media systems
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Yijian Pei
+author organization:Yunnan University
+author id:2144342715|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Yiji Zhao
+author organization:Yunnan University
+author id:2478666720|
+author name:Fan Dong
+author organization:Yunnan University
+author id:2559710625|
+]
+abstract:modeling|recommendation|recommendations|stateoftheart|dissemination|model|filtering|item|collaborative|volumes|propose|overload|jointly|extend|provide|latent|contents|among|adopting|items|providing|aim|evergrowing|methods|experiments|focuses|datasets|matrix|experiments|factorization|systems|decisions|term|social|robust|mitigate|probabilistic|favors|exploiting|accuracy|media|trusted|information|communities|incorporates|reveal|findings|recommendations|huge|communication|results|enlighten|making|development|attractive|empirical|suppose|affected|users|relevant|topic|parameters|useful|trust|lastfm|tastes|additional|show|estimated|learning|media|paper|engine|ratings|predict|topic|recommender|make|aims|social|regression|also|approaches|compound|informationsea|factors|better|multisourced|corresponding|well|user|delicious
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Recommender system|Data mining|Information overload|Social network|Social media|Regression|Computer science|Matrix decomposition|Artificial intelligence|Topic model|Social trust|Machine learning
+references:1503138458|1586466971|1880262756|1966743391|1989868324|2025605741|2030808931|2031999643|2036536766|2047534799|2049455633|2054141820|2064637959|2064975810|2080567541|2084527756|2087451531|2093219534|2100235918|2100755716|2101409192|2119825970|2135790056|2137245235|2144487656|2144807535|2153578526|2153908334|2160774044|2164195112|2949976336
+
+
+id:2521609604
+title:A data-intensive approach for discovering user similarities in social behavioral interactions based on the bayesian network
+year:2017
+author information:[
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Xiaodong Fu
+author organization:Kunming University of Science
+author id:2924855283|
+author name:Juan Xu
+author organization:Yunnan University
+author id:2494738052|
+author name:Zidu Yin
+author organization:Yunnan University
+author id:2487965974|
+author name:Weiyi Liu
+author organization:Yunnan University
+author id:2916253211|
+]
+abstract:depend|called|closeness|graphical|underling|experimental|users|approach|degrees|structure|ubns|terms|algorithm|give|efficiency|method|distributed|propose|adopt|applicability|similarities|direct|bn|two|mapreducebased|file|dependence|relationship|popular|means|product|discovering|probabilistic|guaranteeing|inferences|combining|similarities|framework|massive|describe|topological|measuring|upon|method|discovering|results|connections|constructing|indirect|theoretically|bayesian|degree|basis|establish|users|system|important|measure|largescale|user|idea|show|ubn|media|network|behavioral|similarity|dataintensive|effectiveness|social|also|evolution|understanding|structure|storing|perspectives|user|abbreviated|properties
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Probabilistic inference|Distributed File System|Social media|Closeness|Computer science|Bayesian network|Artificial intelligence|Graphical model|Probabilistic logic|Machine learning
+references:90762875|163760944|1547561528|1950723769|1969202669|1973556323|1973783844|1977789176|1980452149|1981140110|1990361999|1994226161|2003274231|2013410060|2032165954|2044072332|2055094320|2057608478|2073235443|2083922799|2102127289|2104599107|2114797768|2121987009|2125104964|2128891547|2142144955|2157355837|2159080219|2164195254|2166563909|2170112109|2181144303|2188934299
+
+
+id:2530568282
+title:Modeling User Preference from Rating Data Based on the Bayesian Network with a Latent Variable
+year:2016
+author information:[
+author name:Renshang Gao
+author organization:Yunnan University
+author id:2571466469|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Xiaodong Fu
+author organization:Kunming University of Science
+author id:2924855283|
+]
+abstract:upbn|embased|graphical|construct|observed|fit|relationships|enable|property|algorithm|give|efficiency|probability|preference|variable|distributions|latent|likelihood|adopt|among|algorithm|criteria|bn|personalized|behavior|implied|set|initial|learn|representing|framework|expectationmaximization|maximum|information|constraint|describe|first|wrt|data|conditional|rating|incomplete|method|results|given|constraintbased|experimental|bayesian|em|basis|estimation|parameters|cpds|show|information|modeling|network|related|structural|define|effectiveness|applying|structure|variable|services|user
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Information system|Data mining|Bayesian information criterion|Conditional probability|Computer science|Latent variable model|Maximum likelihood|Latent class model|Latent variable|Bayesian network|Artificial intelligence|Machine learning
+references:154270830|1511986666|1523680690|1566045017|1586023015|1806220264|1880262756|1990361999|2010486392|2051149661|2057763140|2103160678|2110325612|2112733287|2137245235|2143075689|2160750656
+
+
+id:2539387822
+title:Topic-Sensitive Link-Ranking Approach for Academic Expert Recruiting
+year:2008
+author information:[
+author name:Hao Wu
+author organization:Sch. of Inf. Sci.  Eng., Kunming
+author id:2712558460|
+author name:Hao Li
+author organization:Yunnan University
+author id:2984301876|
+author name:Xuejie Zhang
+author organization:Sch. of Inf. Sci.  Eng., Kunming
+author id:2698993592|
+author name:Shaowen Yao
+author organization:Yunnan University
+author id:2629320472|
+]
+abstract:play|expert|modeling|reasoning|relation|realworld|problem|retrieval|recruiting|model|algorithm|instruct|considering|probability|profile|attention|propose|authorities|latent|flexible|attracted|suit|much|coauthorship|authors|schema|recommending|methods|experiments|practices|association|networks|specified|derive|problem|strategies|topics|many|entirely|model|field|accuracy|experts|measuring|concerned|data|documents|several|main|research|academic|bias|dirichlet|researcherspsila|area|studying|topicsensitive|author|develop|finding|basis|important|candidates|proposed|infer|requests|techniques|improve|judging|authorspsila|idea|roles|show|effective|supporting|requirements|allocation|copagerank|citation|social|recently|versatile|special|existing|achievement|interested|applications
+venue name:International Multi-Symposiums on Computer and Computational Sciences
+venue id:2754895623
+venue type:C
+document type:Conference
+study fields:Resource management|Data science|Latent Dirichlet allocation|Social network|Ranking|Information retrieval|Computer science|Citation|Database schema|Probability distribution|Cognition
+references:1498257742|1539585011|1547561528|1588022898|1880262756|1969666528|1970461679|2066636486|2101599977|2108160760|2124168655|2126226055|2132613313|2143561480|2161938622|2168190036
+
+
+id:2539391377
+title:Deviation-based neighborhood model for context-aware QoS prediction of cloud and IoT services
+year:2017
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Ching-Hsien Hsu
+author organization:Chung Hua University
+author id:2107136678|
+author name:Yiji Zhao
+author organization:Beijing Jiaotong University
+author id:2478666720|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Guoying Zhang
+author organization:Beijing Jiaotong University
+author id:2531677870|
+]
+abstract:contextual|deviationbased|accurate|results|crowd|stateoftheart|users|different|deviations|optimization|estimate|strengthen|model|filtering|models|using|issue|parameters|models|collaborative|collaborative|methods|baseline|finegrained|propose|quality|intelligence|qosspecific|appropriate|systems|methods|achieve|overcome|global|hot|personalized|naturally|neighborhoodbased|grown|ability|gives|predicting|efficient|founded|heuristic|services|component|advantages|framework|difficulties|assist|information|exploit|predictions|novel|first|addressing|principle|adjustments|internet|used|optimizationthe|second|obtain|ensure|experimental|ideas|users|contributes|formal|proposed|techniques|contextaware|prediction|neighborhood|demonstrate|largescale|going|technique|iot|qos|paper|servicesthe|adjustments|recommender|selecting|allows|recently|twotier|better|explosion|existing|superior|performance|service|cloud|borrowing|location|taking|presents
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Recommender system|Data mining|Heuristic|Collaborative filtering|Global optimization|Computer science|Quality of service|Exploit|The Internet|Cloud computing
+references:155854392|1529703297|1558424403|1605574989|1984255960|2006404195|2014318101|2023050858|2028656035|2030239032|2047109571|2054141820|2054341076|2060017308|2060836686|2070809583|2076507624|2089321307|2089419957|2091381870|2096762662|2099866409|2104185402|2114821336|2119264846|2119462974|2121710227|2123476762|2135029798|2137245235|2140597141|2161182042|2162983389|2166212577|2169970157|2171960770|2405923393|2525763397|2951408756
+
+
+id:2557299842
+title:Non-negative multiple matrix factorization with social similarity for recommender systems
+year:2016
+author information:[
+author name:Guoying Zhang
+author organization:Yunnan University
+author id:2531677870|
+author name:Min He
+author organization:Yunnan University
+author id:2659798247|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Guanghui Cai
+author organization:Yunnan University
+author id:2037552863|
+author name:Jianhong Ge
+author organization:Yunnan University
+author id:2601202517|
+]
+abstract:comparatively|usersresources|reflected|recommendation|accuracy|users|relationships|problem|identification|different|results|filtering|issue|method|tagsresources|considering|experimental|collaborative|methods|analysis|basis|propose|tags|measure|proposed|improve|tackle|lastfm|systems|link|show|recommend|datasets|networks|matrix|nonnegative|similarity|recommender|performances|every|key|compared|measures|art|social|multiple|analyzed|also|factorization|similarities|online|information|user|significantly|delicious
+venue name:International Conference on Big Data
+venue id:2623113034
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Collaborative filtering|Social network|Information retrieval|Similarity measure|Computer science|Matrix decomposition|Information science|Artificial intelligence|Machine learning
+references:192994201|203769318|1874742113|1956559956|1968699032|1971040550|1985554184|1996320586|2008345648|2019724387|2025737586|2036536766|2083922799|2136664839|2137958601|2141673451|2147952642|2151498529|2158698691|2165320068|2420733993
+
+
+id:2738639449
+title:Collaborative QoS prediction with context-sensitive matrix factorization
+year:2017
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Bo Li
+author organization:Yunnan University
+author id:2303228327|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Ching-Hsien Hsu
+author organization:Foshan University
+author id:2107136678|
+]
+abstract:contextual|play|contextsensitive|approach|robust|problem|matrixfactorization|csmf|models|still|issue|collaborative|collaborative|considering|propose|quality|explicit|become|appropriate|algorithms|complexity|implicit|systems|role|methods|hot|personalized|userstoservices|address|abstract|services|data|thestateofart|accuracy|metric|assist|data|internet|use|incorporate|challenging|results|realize|environmenttoenvironment|obtain|experimental|ideas|users|proposed|contextaware|prediction|assessment|full|crucial|show|interactions|general|effective|qos|prediction|recommender|make|selecting|factors|outperforms|explosion|existing|service|borrowing|significantly
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Recommender system|Computer science|Internet of Things|Matrix decomposition|Quality of service|Cloud computing|Distributed computing|The Internet
+references:155854392|1157343470|1529703297|1556761127|1558424403|1605574989|1837982953|1896793984|2006404195|2014318101|2028656035|2030239032|2047109571|2054141820|2054341076|2060017308|2060836686|2089419957|2091381870|2104185402|2119264846|2119462974|2121710227|2123476762|2135029798|2137245235|2140597141|2161182042|2162983389|2167191085|2169970157|2183679353|2295633004|2478999276|2538013747|2539391377|2951408756
+
+
+id:2754943476
+title:Content Embedding Regularized Matrix Factorization for Recommender Systems
+year:2017
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Zhengxin Zhang
+author organization:Yunnan University
+author id:2755650395|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Ruichao Zhu
+author organization:Yunnan University
+author id:2756236454|
+]
+abstract:accurate|numerous|improves|accuracy|recommendation|recommendations|stateoftheart|problem|understanding|cermf|generation|models|item|issue|models|made|sparsity|latent|explored|simultaneously|items|works|independent|utilizing|achieve|matrix|networks|representations|factorization|regularized|proved|dual|embedding|compared|address|regularize|factorization|exploiting|textual|information|exploit|open|embeddings|data|documents|remains|used|alleviate|recommendations|dramatically|generate|results|experimental|users|efforts|proposed|issue|neural|description|content|items|indepth|convolution|recommender|effectiveness|effectively|performing|go|impressive|adopts
+venue name:International Congress on Big Data
+venue id:2626150945
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Artificial intelligence|Probabilistic logic|Artificial neural network|Kernel (linear algebra)|Recommender system|Embedding|Convolution|Matrix decomposition|Feature extraction|Database|Machine learning
+references:1720514416|1880262756|1904365287|2025605741|2031999643|2050113838|2054141820|2099866409|2101409192|2114079787|2135790056|2137245235|2153579005|2157881433|2158899491|2253995343|2339258924|2509893387|2515144511|2557283755|2575006718
+
+
+id:2760433623
+title:Markov-network based latent link analysis for community detection in social behavioral interactions
+year:2018
+author information:[
+author name:Weiyi Liu
+author organization:Yunnan University
+author id:2134386712|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2116143136|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Xiaodong Fu
+author organization:Kunming University of Science
+author id:2182100491|
+author name:Zhijian Zhang
+author organization:Yunnan University
+author id:2563421205|
+author name:Weipeng Huang
+author organization:Yunnan University
+author id:2495475705|
+]
+abstract:objects|paper|construct|without|links|iamn|results|inherent|algorithm|discover|efficiency|method|experimental|particular|analysis|community|mn|propose|latent|concepts|proposed|adopt|among|networks|starting|interactions|critical|analysis|link|frequent|show|detect|itemassociation|media|itemset|network|interactions|behavioral|perspective|itemsets|relationship|establishes|incorporating|effectiveness|detection|implied|constructed|social|markov|structures|kclique|neighbor|framework|application|regard|typical|topological|knearest|represent|discuss|communities
+venue name:Applied Intelligence
+venue id:74726891
+venue type:J
+document type:Journal
+study fields:Social media|Social network|Social objects|Link analysis|Computer science|Social network analysis|Markov chain|Artificial intelligence|Machine learning
+references:299101407|1937286904|1970240724|1977713568|1983932453|1987605703|2012324430|2034331023|2046112356|2049297549|2064695611|2073235443|2110893883|2111002549|2126920781|2127048411|2148606196|2170653744|2229809859|2257860769|2259473527|2263120765|2497752945|2521609604
+
+
+id:2766931195
+title:Performance Measurement and Configuration Optimization of Virtual Machines Based on the Bayesian Network
+year:2017
+author information:[
+author name:Jia Hao
+author organization:Yunnan University
+author id:2765418128|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Juan Wang
+author organization:Yunnan University
+author id:2765717829|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+]
+abstract:called|approach|uncertain|cloud|relationships|optimization|time|host|well|computing|vms|results|based|method|resource|experimental|bayesian|reasonably|utilization|significant|accurately|propose|users|measure|allocate|among|improve|vm|virtual|configuration|according|show|probabilities|network|design|minimize|requirements|linear|cost|iaas|resources|performance|form|meet|achieved|machines|describe|providers|properties
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Virtual machine|Computer science|Bayesian network|Performance measurement|Linear programming|Cloud computing|Distributed computing
+references:1983690667|1988620903|1988797755|1990361999|2038053785|2098611419|2098985499|2173556363|2536888212|2562891015
+
+
+id:2782259251
+title:Dual-regularized matrix factorization with deep neural networks for recommender systems
+year:2018
+author information:[
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Zhengxin Zhang
+author organization:Yunnan University
+author id:2755650395|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Binbin Zhang
+author organization:Yunnan University
+author id:2704964635|
+author name:Jun He
+author organization:Nanjing University of Information Science  Technology
+author id:2474931629|
+author name:Liangchen Sun
+author organization:Yunnan University
+author id:2781678695|
+]
+abstract:accurate|improves|accuracy|recommendations|problem|understanding|model|algorithm|gated|generation|models|item|issue|models|made|sparsity|distributed|propose|latent|contents|explored|items|deal|components|works|independent|utilizing|methods|matrix|networks|representations|factorization|proved|multilayered|recall|convolutional|topn|abstract|regularize|many|factorization|textual|model|single|dualregularized|information|exploit|open|drmf|data|documents|drmf|regularization|rating|remains|serve|alleviate|recurrent|generate|results|new|dualway|experimental|users|efforts|proposed|prediction|parameters|deep|issue|neural|description|generating|learning|content|network|items|indepth|recommender|effectiveness|effectively|impressive|better|corresponding|adopts|achieved|strategy|significantly|stacking
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Recommender system|Data mining|Computer science|Convolutional neural network|Matrix decomposition|Recurrent neural network|Exploit|Regularization (mathematics)|Artificial intelligence|Artificial neural network|Deep neural networks|Machine learning
+references:1536678703|1600744878|1720514416|1880262756|1951853661|1985554184|2025605741|2030808931|2031999643|2037351199|2050113838|2054141820|2057763140|2095705004|2099866409|2101409192|2114079787|2135790056|2137245235|2146338426|2150886314|2158899491|2249579858|2250539671|2250966211|2253995343|2294501066|2341865734|2398365891|2509893387|2515144511|2519400179|2557283755|2558751478|2575006718|2736230012|2741359394|2754943476|2756320093|2762460055|2949547296|2950133940|2950316093|2950635152
+
+
+id:2799467615
+title:Adaptive and Parallel Data Acquisition from Online Big Graphs
+year:2018
+author information:[
+author name:Zidu Yin
+author organization:Yunnan University
+author id:2487965974|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2116143136|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Yingjie Su
+author organization:Yunnan University
+author id:2800002626|
+]
+abstract:big|data|upon|challenging|approach|branch|obgs|implemented|method|results|knowledge|quasi|algorithm|give|efficiency|like|experimental|sampling|ideas|collection|monte|acquisition|dynamically|propose|contents|web|adopt|obgs|critical|analysis|methods|show|structures|global|networks|unknown|effective|adaptive|graphs|parallel|acquisition|linked|effectiveness|social|bound|carlo|spark|massive|evolving|due|infrastructure|online|webscale|topological|properties|applications
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Data mining|Data collection|Social network|Spark (mathematics)|Web page|Computer science|Data acquisition|Quasi-Monte Carlo method|Theoretical computer science|Sampling (statistics)|Web application
+references:1546168389|1968416669|2032966023|2060851473|2270933783|2301021574|2510026128|2527064941|2578808029|2949745824
+
+
+id:2944156218
+title:Spatio-temporal context-aware collaborative QoS prediction
+year:2019
+author information:[
+author name:Qimin Zhou
+author organization:Yunnan University
+author id:2944259800|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2712558460|
+author name:Kun Yue
+author organization:Yunnan university
+author id:2921307414|
+author name:Ching-Hsien Hsu
+author organization:National Chung‐Cheng University
+author id:2107136678|
+]
+abstract:evaluation|introduced|enable|complex|strengthen|spatial|temporal|case|generation|models|give|still|thus|models|collaborative|considering|impact|layer|reduced|baseline|propose|mae|invocation|web|utilize|spatiotemporal|appropriate|fusion|methods|achieve|automatically|networks|two|experiments|layer|invocations|secondorder|feature|taken|term|embedding|mechanism|expression|particularly|efficient|abstract|forecasting|assist|dataset|exponential|use|process|contexts|features|hierarchical|mechanisms|us|realize|comparison|rmse|attention|reasonably|weights|users|fusion|proposed|sparse|contextaware|prediction|demonstrate|firstorder|largescale|technical|neural|discriminative|training|error|userside|qualityofservices|qos|explanations|interpretability|serviceside|make|universal|selecting|effectiveness|characteristics|original|multiple|improvement|intuitive|suggested|performance|application|various|service|interaction|challenge|attention|growth|time|services|significantly|account|assign
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Interpretability|Computer science|Quality of service|Mean squared error|Artificial intelligence|Predictive modelling|Web service|Artificial neural network|Discriminative model|Machine learning|Performance improvement|Distributed computing
+references:1837982953|1980321478|2014318101|2024373430|2030239032|2054141820|2060836686|2073178357|2091381870|2104185402|2114821336|2119462974|2133564696|2161182042|2162983389|2279773298|2295633004|2295739661|2473015933|2538013747|2548570154|2738639449|2740098507|2740885325|2741249238|2753415590|2755858125|2768015900|2950635152
+
+
+id:2977249323
+title:Social Regularized Collaborative Metric Learning
+year:2019
+author information:[
+author name:Zhengxin Zhang
+author organization:Yunnan University
+author id:2805986637|
+author name:Qimin Zhou
+author organization:Yunnan University
+author id:2805085403|
+author name:Hua Zhao
+author organization:Yunnan University
+author id:2978551013|
+author name:Hao Wu
+author organization:Yunnan University
+author id:2979672709|
+]
+abstract:extensive|recommendation|accuracy|recommendations|defines|loss|measures|itemitem|model|based|models|similar|item|method|collaborative|collaborative|items|experiments|sparsity|matrix|cope|recall|social|preferences|gradient|factorization|integrate|closer|descent|component|metric|hobbies|information|space|techniques|open|first|encode|joint|data|regularization|rating|remains|space|learning|given|function|comparison|learns|optimized|reconstruct|users|measure|improve|present|regularized|issue|recommendation|distance|challenges|show|learning|constructs|srcml|rate|similarity|recommender|social|also|useruser|superior|performance|achieved|metric|user|integrates
+venue name:High Performance Computing and Communications
+venue id:1148948064
+venue type:C
+document type:Conference
+study fields:Recommender system|Social preferences|ENCODE|Gradient descent|Computer science|Matrix decomposition|Metric (mathematics)|Regularization (mathematics)|Artificial intelligence|Metric space|Machine learning|Distributed computing
+references:1522301498|1770617812|1985554184|1991055526|2009205701|2025605741|2054141820|2064643102|2093219534|2100755716|2101409192|2102765684|2106053110|2119825970|2140310134|2144487656|2153908334|2203714058|2254094533|2766434566|2782259251|2783565819|2963403868
+
+
+id:1680796032
+title:Periodic resource integration
+year:2015
+author information:[
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Chunhui Guo
+author organization:Illinois Institute of Technology
+author id:2469428965|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:equivalent|period|upper|empirical|none|problem|realtime|drawn|tasks|splitting|give|method|issue|lower|analysis|resource|community|jointly|years|integration|bounds|resourcesprovided|developed|study|increased|periodic|pattern|focuses|occurrence|two|capacity|unknown|emerging|together|fixedpattern|within|scheduling|integrate|nonsplittable|resourceprovided|theoretical|available|research|subcategory|sufficient|scheduling|always|last|resource|real|develop|task|fixed|present|support|instead|schedulability|provided|integrated|paper|studies|task|practical|multiple|arbitrary|resources|attention|time
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Job shop scheduling|Computer science|Scheduling (computing)|Real-time computing|Real systems|Periodic graph (geometry)|Resource integration|Empirical research|Distributed computing
+references:1582433831|1975489240|2005838647|2007233634|2014554712|2051607127|2065124096|2065398381|2074119815|2085630704|2097759096|2097874914|2109039029|2109488193|2121607363|2143508547|2157605676|2161022036|2166592660|2167972204|2170600460|2313175617
+
+
+id:1928413950
+title:Schedulability Analysis for Real-Time Task Set on Resource with Performance Degradation and Periodic Rejuvenation
+year:2015
+author information:[
+author name:Xiayu Hua
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2164263775|
+author name:Chunhui Guo
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2469428965|
+author name:Hao Wu
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2403652775|
+author name:Douglas Lautner
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:1996118787|
+author name:Shangping Ren
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2159811858|
+]
+abstract:software|eradicate|periodically|entire|issues|three|supply|realtime|assumption|model|longstanding|rejuvenation|rate|impact|bounds|utilization|ever|rejuvenated|bounds|become|degrades|complexity|systems|study|increased|periodic|literature|computer|world|known|address|set|change|tightness|aging|constant|lifetime|questions|degradation|hold|analyses|time|function|scheduling|first|rejuvenation|resource|deadline|real|monotonic|task|assume|schedulability|computing|related|realtask|cost|earliest|experimentally|performance|due|referred
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Monotonic function|Computer science|Scheduling (computing)|Rejuvenation|Degradation (geology)|Real-time computing|Software aging|Earliest deadline first scheduling|Periodic graph (geometry)|Distributed computing
+references:1501066815|1676851535|2004220906|2008992410|2014554712|2059759450|2060667981|2084597192|2086748818|2096611465|2097874914|2108730429|2109039029|2109192777|2109488193|2109550196|2119477620|2121784623|2130181800|2133982498|2139177908|2161022036|2168134754|2170600460|2406062413|2912459328
+
+
+id:2020771764
+title:Resource Minimization for Real-Time Applications Using Computer Clouds
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+]
+abstract:dagbased|called|upper|experimental|deadlines|number|problem|realtime|finds|slack|scheduling|msmd|results|tasks|algorithm|reduce|give|using|ensure|resource|lower|develop|less|span|minimization|bounds|deadline|algorithms|distance|needed|endtoend|show|guarantee|clouds|existed|computer|minimal|schedules|based|deadline|make|computers|allocated|compared|minimize|address|literature|resources|heuristic|satisfaction|minimized|application|time|minimum|first|applications|span
+venue name:IEEE/ACM International Conference Utility and Cloud Computing
+venue id:2898324166
+venue type:C
+document type:Conference
+study fields:Computer science|Scheduling (computing)|Heuristic (computer science)|Real-time computing|Least slack time scheduling|Minification|Resource allocation|Minimisation (psychology)|Schedule|Cloud computing|Distributed computing
+references:2018198861|2083518825|2092333800|2096949818|2112943392|2117706453|2148652008|2149294210|2167384564
+
+
+id:2024649806
+title:Enhancing throughput of the Hadoop Distributed File System for interaction-intensive tasks
+year:2014
+author information:[
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:accessing|negligible|tasks|hardware|algorithm|large|issue|hadoop|distributed|system|size|throughput|bulk|commodity|average|access|frequently|experiments|increases|standalone|file|analyzes|ability|together|architecture|interactionintensive|set|accessed|problem|abstract|decreases|distributed|associated|sets|small|data|run|degradation|used|high|shown|dramatically|throughput|decrease|enhanced|proposed|relatively|files|file|purpose|cause|storage|system|general|operations|paper|along|provides|designed|overcomes|allocation|hdfs|performance|suitable|handling|user|applications|presents
+venue name:Journal of Parallel and Distributed Computing
+venue id:157146593
+venue type:J
+document type:Journal
+study fields:Distributed File System|Data set|General purpose|Computer science|Cache|Parallel computing|Degradation Problem|Allocation algorithm|Throughput|Commodity hardware|Operating system|Distributed computing
+references:11077074|1577668191|1660433879|2045177066|2081109058|2103128343|2110528713|2118947072|2119738171|2123066915
+
+
+id:2030460158
+title:Automatic Cloud Bursting under FermiCloud
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+author name:Gabriele Garzoglio
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:25894833|
+author name:Steven Timm
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2671144859|
+author name:Gerard Bernabeu
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2537609737|
+author name:Hyun Woo Kimy
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2226820137|
+author name:Keith Chadwick
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2126148120|
+author name:Haengjin Jang
+author organization:Nat. Institute of Supercomput.  Networking, Korea Institute of Sci.  Technol. Inf., Daejeon, South Korea
+author id:2112631292|
+author name:Seo-Young Noh
+author organization:Nat. Institute of Supercomput.  Networking, Korea Institute of Sci.  Technol. Inf., Daejeon, South Korea
+author id:2141024856|
+]
+abstract:introduces|focus|laboratory|institution|changing|building|structure|shorten|contributions|serviceoriented|national|balance|accomplishments|needed|preliminary|recent|algorithm|promising|reduce|depends|distributed|community|dynamically|demand|renting|traditional|illinois|automatic|increased|reconfigured|fermi|allocated|prototyping|experiments|two|capacity|computer|energy|institute|cloudbased|accommodate|fermicloud|emerging|federation|business|operational|physics|computation|meet|grid|elastic|commercial|joint|use|project|upon|supercomputers|research|cloud|areas|automation|shown|technology|dynamic|needs|new|resource|need|domains|opened|balancer|scientists|support|bursting|facilitate|private|technical|challenges|studied|elasticity|scientific|science|clouds|computing|provisioned|paper|load|applications|clusters|korea|allows|high|costs|process|decides|resources|also|technology|increase|technology|existing|hep|demands|currently|infrastructure|response|cloud|borrowing|time|accelerator|applications|presents
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Computer science|Provisioning|Real-time computing|Resource allocation|Utility computing|Cloud computing security|Service-oriented architecture|Grid|Cloud testing|Cloud computing|Distributed computing
+references:1559174456|1625721985|1983908819|2036880373|2141782735|2151329337|2157188908
+
+
+id:2032518629
+title:Modeling the Virtual Machine Launching Overhead under Fermicloud
+year:2014
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+author name:Gabriele Garzoglio
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:25894833|
+author name:Steven Timm
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2671144859|
+author name:Gerard Bernabeu
+author organization:Fermi Nat. Accel. Lab., Batavia, IL, USA
+author id:2537609737|
+author name:Seo-Young Noh
+author organization:Nat. Institute of Supercomput.  Networking, Korea Institute of Sci.  Technol. Inf., Daejeon, South Korea
+author id:2141024856|
+]
+abstract:decide|laboratory|national|model|needed|utilized|launched|guide|based|overhead|module|utilization|system|obtained|fermi|automatically|one|decisions|enables|operational|launch|efficiently|data|available|developing|process|main|developed|launching|cloud|reference|workflows|computational|resource|optimized|develop|clouds|vm|varies|bursting|bursting|private|virtual|challenges|scientific|public|paper|physical|make|constant|effectively|judicious|resources|performance|cloud|uses|machines|time|accelerator
+venue name:Cluster Computing and the Grid
+venue id:1179731308
+venue type:C
+document type:Conference
+study fields:Fermi Gamma-ray Space Telescope|Resource management|Booting|Virtual machine|Reference model|Computer science|Launched|Real-time computing|Workflow|Operating system|Cloud computing|Distributed computing
+references:2030460158|2036880373|2045287414|2083518825|2122802010|2141782735|2144387805|2144636394|2157147632|2405068176
+
+
+id:2044203887
+title:Enhancing Throughput of Hadoop Distributed File System for Interaction-Intensive Tasks
+year:2014
+author information:[
+author name:Xiayu Hua
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2164263775|
+author name:Hao Wu
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2403652775|
+author name:Shangping Ren
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2159811858|
+]
+abstract:small|data|degradation|accessed|accessing|shown|dramatically|throughput|negligible|tasks|algorithm|issue|large|hadoop|decrease|enhanced|size|proposed|files|relatively|frequently|file|average|cause|storage|experiments|system|paper|along|analyzes|together|architecture|overcomes|allocation|interactionintensive|set|problem|hdfs|increase|performance|distributed|associated|handling|presents
+venue name:Parallel, Distributed and Network-Based Processing
+venue id:1135705775
+venue type:C
+document type:Conference
+study fields:Distributed File System|Architecture|Cache|Computer science|Degradation Problem|Parallel computing|Allocation algorithm|Distributed database|Throughput|Operating system|Memory architecture|Distributed computing
+references:11077074|1577668191|1660433879|2045177066|2081109058|2103128343|2110528713|2118947072|2119738171|2123066915
+
+
+id:2063510879
+title:Resource and Instance Hour Minimization for Deadline Constrained DAG Applications Using Computer Clouds
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+]
+abstract:application|called|upper|experimental|ihm|decided|number|problem|finds|slack|applied|tasks|algorithm|reduce|give|lower|execute|autoscaling|bounds|execution|deadline|makespan|algorithms|turned|endtoend|guarantee|computer|deadline|based|minimizes|compared|address|heuristic|satisfaction|constrained|machine|complete|operation|minimum|first|instance|dbus|deadlines|directedacyclicgraphbased|qosbase|scheduling|msmd|vms|results|ensure|resource|heft|develop|less|proposed|minimization|clouds|vm|virtual|distance|instances|applied|needed|show|deployed|clouds|moheft|percent|total|minimal|hour|schedules|allocated|execution|hours|determine|literature|effectively|resources|minimized|schedule|application|time|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Job shop scheduling|Virtual machine|Scheduling (computing)|Heuristic (computer science)|Computer science|Parallel computing|Real-time computing|Minification|Schedule|Least slack time scheduling|Distributed computing|Cloud computing
+references:1738767047|1903036498|1970168772|1999875337|2009839239|2018198861|2028111074|2028351695|2030460158|2066248324|2068739318|2092333800|2096949818|2105908337|2112943392|2116358491|2128525985|2142243927|2149294210|2150186085|2151975141|2153657167|2167384564|2176044726
+
+
+id:2132191774
+title:A policy management framework for trusted crossdomain collaboration
+year:2009
+author information:[
+author name:Zhengping Wu
+author organization:University of Bridgeport
+author id:2686476568|
+author name:Hao Wu
+author organization:University of Bridgeport
+author id:2684614553|
+author name:Yuanyao Liu
+author organization:University of Bridgeport
+author id:2116033948|
+]
+abstract:policybased|merits|construct|enterprises|heterogeneous|implemented|different|needed|promising|needs|new|enforcement|domains|handle|collaborating|convenient|illustrated|provide|environment|trust|crossdomain|policies|security|web|since|designed|policy|innovation|execution|services|crossdomain|way|manage|environment|framework|application|trusted|management|collaboration|architectural
+venue name:Collaborative Computing
+venue id:1181194180
+venue type:C
+document type:Conference
+study fields:Policy-based management|Computer science|Collaborative software|Knowledge management|Innovation management|Policy enforcement|Web service|Vocabulary
+references:1485726454|1847527721|1988422114|1999788552|2041694048|2048550985|2098964654|2100023242|2105651716|2156334978
+
+
+id:2181735581
+title:Access Control and Resource Allocation for Peer-to-Peer Video Streaming Based on Fuzzy Logic
+year:2010
+author information:[
+author name:Zhengping Wu
+author organization:University of Bridgeport
+author id:2698886914|
+author name:Hao Wu
+author organization:University of Bridgeport
+author id:2403652775|
+]
+abstract:introduces|reasoning|videos|rules|source|experience|online|videoondemand|mechanisms|new|development|still|endusers|using|individual|resource|preference|technologies|tvs|formal|decisionmaking|adjust|following|designs|access|reliability|video|watching|adaptive|streaming|paper|provides|definition|mechanism|live|fuzzy|allocation|control|concerns|people|peertopeer|fast|framework|preferences|logic|user|novel
+venue name:Winter Simulation Conference
+venue id:1149327232
+venue type:C
+document type:Conference
+study fields:Trust relationship|Peer-to-peer|Simulation|Computer science|Video streaming|Fuzzy logic|Resource allocation|Access control|Adaptive control|Multimedia
+references:1505128236|1510126708|1978944206|1985109665|2081334300|2126080135|2126402853
+
+
+id:2313175617
+title:Best-Harmonically-Fit Periodic Task Assignment Algorithm on Multiple Periodic Resources
+year:2016
+author information:[
+author name:Chunhui Guo
+author organization:Illinois Institute of Technology
+author id:2469428965|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Douglas Lautner
+author organization:Computer Science Department, Chicago, IL
+author id:1996118787|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:optimal|experimental|processors|periodically|approach|different|problem|realtime|context|tasks|fully|utilized|algorithm|still|utilization|analysis|bestfit|provide|processing|set|algorithm|decades|periodic|bestharmonicallyfit|capacity|found|indicates|based|harmonic|worstfit|resources|set|heuristic|firstfit|community|available|good|research|whether|exhaustive|results|always|dedicated|new|given|resource|comparing|formal|task|fixed|present|problems|higher|bhf|show|best|percent|lower|rate|provides|every|algorithms|amount|assignment|studied|multiple|also|approaches|better|existing|performance|mean|decreasing|time|assign
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Scheduling (computing)|Computer science|Real-time computing|Harmonic analysis|Distributed computing|Resource management|Mathematical optimization|Heuristic|Brute-force search|Algorithm|Harmonic|Assignment problem|Periodic graph (geometry)
+references:1608622666|1979955079|1993893662|2007233634|2008166752|2014554712|2034862998|2054998117|2074119815|2097759096|2097874914|2101300711|2109039029|2109488193|2121784623|2131726714|2135466952|2135559191|2140201057|2141440050|2142375808|2143508547|2157605676|2166592660|2167972204|2170148670|2170600460|2543632133
+
+
+id:2318073945
+title:A Reference Model for Virtual Machine Launching Overhead
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology, 10 W 31st street, 013, Chicago, IL
+author id:2403652775|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology, 10 W 31st street, 013, Chicago, IL
+author id:2159811858|
+author name:Gabriele Garzoglio
+author organization:Fermi National Accelerator Laboratory
+author id:25894833|
+author name:Steven Timm
+author organization:Fermi National Accelerator Laboratory, Batavia. IL
+author id:2671144859|
+author name:Gerard Bernabeu
+author organization:Fermi National Accelerator Laboratory, Batavia. IL
+author id:2537609737|
+author name:Keith Chadwick
+author organization:Fermi National Accelerator Laboratory
+author id:2126148120|
+author name:Seo-Young Noh
+author organization:KOREA INSTITUTE OF SCIENCE  TECHNOLOGY INFORMATION
+author id:2141024856|
+]
+abstract:measured|empirical|decide|laboratory|fermicloud|national|model|communities|needed|utilized|launched|based|overhead|module|system|obtained|device|algorithms|compare|fermi|automatically|one|fermicloud|decisions|indicate|key|enables|minimize|efficient|topics|one|operational|launch|efficiently|first|data|developing|cpu|main|developed|launching|research|cloud|reference|accurate|calculated|results|resource|optimized|develop|vm|varies|bursting|private|virtual|challenges|scientific|values|waste|clouds|computing|public|physical|designed|make|constant|allocation|process|cost|apply|effectively|judicious|resources|performance|guidance|cloud|well|machines|time|accelerator
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Resource management|Virtualization|Virtual machine|Reference model|Computer science|Server|Real-time computing|Bandwidth (signal processing)|Workflow|Operating system|Cloud computing
+references:1625721985|1983908819|2030460158|2032518629|2036880373|2045287414|2077733196|2083518825|2122802010|2125262761|2141782735|2144387805|2144636394|2157147632|2405068176
+
+
+id:2406062413
+title:Maximize System Reliability for Long Lasting and Continuous Applications
+year:2015
+author information:[
+author name:Chunhui Guo
+author organization:Illinois Institute of Technology
+author id:2469428965|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+author name:Jerzy M. Nogiec
+author organization:Fermi National Accelerator Laboratory
+author id:2474181030|
+]
+abstract:software|optimal|theoretical|use|empirical|faults|maximize|transmission|safety|continuous|maximizes|rejuvenation|reliability|period|level|preventive|take|effects|studies|transient|analyze|consideration|mathematically|systems|faulttolerance|critical|reliability|technique|proactive|network|result|caused|verified|aging
+venue name:World Conference on Information Systems and Technologies
+venue id:2754803852
+venue type:C
+document type:Conference
+study fields:Life-critical system|Computer science|Software rejuvenation|Software aging|Empirical research|Reliability engineering
+references:1676851535|1951687984|1969657871|1987991317|1994438562|2011904392|2102485511|2109192777|2143189463|2162128646|2185757956|2543454739|2543672760
+
+
+id:2518296955
+title:Schedulability Analysis for Real-Time Task Set on Resource with Performance Degradation and Dual-Level Periodic Rejuvenations
+year:2017
+author information:[
+author name:Xiayu Hua
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2164263775|
+author name:Chunhui Guo
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2469428965|
+author name:Hao Wu
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2403652775|
+author name:Douglas Lautner
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:1996118787|
+author name:Shangping Ren
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2159811858|
+]
+abstract:architectures|increasingly|use|degradation|supply|realtime|time|scheduling|model|first|rejuvenation|resource|rate|deadline|often|utilization|monotonic|becomes|formal|warm|system|task|bounds|assume|become|countermeasures|study|uallevels|schedulability|periodic|pattern|cold|computing|eriodic|researches|known|hard|policies|set|softwares|rejuvenations|change|specification|earliest|p|performance|erformance|time|evident|referred
+venue name:IEEE Transactions on Computers
+venue id:157670870
+venue type:J
+document type:Journal
+study fields:Monotonic function|Scheduling (computing)|Computer science|Parallel computing|Software rejuvenation|Formal specification|Real-time operating system|Real-time computing|Software|Software aging|Earliest deadline first scheduling
+references:19830081|1501066815|1676851535|1969657871|2004220906|2014554712|2029008279|2035602304|2085197597|2086748818|2095924635|2097874914|2102485511|2109039029|2109192777|2109488193|2109550196|2121784623|2127784167|2130181800|2132397295|2133982498|2139177908|2140991542|2161022036|2161180422|2167972204|2168134754|2170600460|2179308249|2539624485
+
+
+id:2285867554
+title:Creative and high-quality image composition based on a new criterion
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2677077999|
+author name:Yueli Li
+author organization:Hebei Agricultural University
+author id:2581741693|
+author name:Zhenjiang Miao
+author organization:Beijing Jiaotong University
+author id:2138155036|
+author name:Yuqi Wang
+author organization:Beijing Jiaotong University
+author id:2424828817|
+author name:Runsheng Zhu
+author organization:Beijing Jiaotong University
+author id:2340344942|
+author name:Rongfang Bie
+author organization:Beijing Jiaotong University
+author id:2511532922|
+author name:Yi Wang
+author organization:Carnegie Mellon University
+author id:2311189379|
+]
+abstract:results|focus|image|ignoring|without|wavelet|introduced|composite|rationalityin|utilized|based|seamless|images|unrealistic|thus|method|large|multiscale|compositions|traditional|field|domain|semantic|criterion|achieve|methods|experiments|pyramids|computer|feature|composition|valid|compared|compositionsone|processing|highquality|texture|could|gradient|experimentation|consistent|showed|obvious|quite|compositing|used|features|realistic|results|generate|new|image|semantically|ensure|typically|created|widely|presented|produced|especially|techniques|wavelet|basic|boundaries|inconsistent|facilitate|primarily|candidate|database|paper|alpha|rationality|also|target|existing|superior|pyramid|handling|methodology
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Computer vision|Scale-invariant feature transform|Joint probability distribution|Pattern recognition|Computer science|Alpha matting|Artificial intelligence|Pyramid|Compositing|Brightness|Wavelet|Semantic matching
+references:1551774182|1755572302|1841033533|1974573780|1988091915|1997488488|1998197760|2001933992|2004025832|2011953641|2023182471|2061818168|2064966839|2068623560|2069934462|2070604790|2073895861|2078790577|2102024628|2110764733|2129112648|2141015396|2141957843|2144526807|2146022472|2147821504|2153709524|2156053375|2162915993|2164147879|2164736477|2169415915|2293703294|2536626143|2541822344
+
+
+id:2335021186
+title:A new sampling algorithm for high-quality image matting
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Xian Jiaotong University
+author id:2677077999|
+author name:Yueli Li
+author organization:Hebei Agricultural University
+author id:2581741693|
+author name:Zhenjiang Miao
+author organization:Beijing Jiaotong University
+author id:2138155036|
+author name:Yuqi Wang
+author organization:Beijing Jiaotong University
+author id:2424828817|
+author name:Runsheng Zhu
+author organization:Beijing Jiaotong University
+author id:2340344942|
+author name:Rongfang Bie
+author organization:Beijing Jiaotong University
+author id:2511532922|
+author name:Rui Lie
+author organization:Beijing Jiaotong University
+author id:2513668357|
+]
+abstract:results|sharping|accuracy|foreground|facilitated|image|nearby|improved|relationships|would|estimate|model|mattingin|utilized|wls|reduce|based|similar|images|method|convincing|sampling|distant|extraction|easy|samples|quality|innovative|even|pixelsa|current|evaluate|criterion|methods|utilizing|experiments|example|valid|foregrounds|demonstrated|means|sharpen|could|matting|multiscale|model|filter|field|backgrounds|information|sampling|samples|use|used|weightedleast|pixels|high|similara|function|quite|boundaries|consider|results|new|image|color|presented|check|overlooking|regarding|important|pixels|especially|background|useful|boundary|squares|color|provided|searching|technique|decomposition|video|prevent|effective|random|candidate|database|effectiveness|cost|effectively|overlook|editing|manage|edgepreserving|achieved|information|avoid|significantly
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Computer vision|Pattern recognition|Video editing|Artificial intelligence|Sampling (statistics)|Pixel|Image database|Mathematics
+references:1995096157|2001002651|2007640671|2013019220|2023182471|2034132756|2035773017|2047522473|2077604257|2078286138|2081208755|2086809533|2096474340|2099244020|2103334940|2103917701|2119391667|2125637308|2132732065|2141957843|2149860324|2150134853|2157887643|2160956336|2169040970|2293194425|2293703294|2296558186|2541775796
+
+
+id:2521703710
+title:Optimized learning instance-based image retrieval
+year:2017
+author information:[
+author name:Yueli Li
+author organization:Hebei Agricultural University
+author id:2581741693|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2670972138|
+author name:Chenyun Zhang
+author organization:Standards  Metrology Research Institute of CARS, Beijing, China
+author id:2555713418|
+author name:Zhenjiang Miao
+author organization:Beijing Jiaotong University
+author id:2138155036|
+author name:Yuqi Wang
+author organization:Beijing Jiaotong University
+author id:2424828817|
+author name:Jiajing Wang
+author organization:No.1 Senior Middle School of Wendeng District, Weihai, China
+author id:2549127759|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2677077999|
+]
+abstract:select|optimal|descriptor|image|scene|improved|number|optimization|retrieval|euclidean|spatial|kmeans|images|using|large|method|handle|propose|quality|field|even|algorithm|object|images|methods|experiments|quality|selected|two|matching|computer|highquality|one|model|results|supported|instance|adequate|use|recognition|vision|lowquality|method|implement|different|add|image|often|check|decrease|instances|proposed|improve|classify|distance|instances|optimized|show|technique|learning|mistaken|burden|computing|database|effectiveness|process|gist|groups|also|pyramid|clustering
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Computer vision|Instance-based learning|Pattern recognition|Computer science|Euclidean distance|Image retrieval|Instance selection|Artificial intelligence|Pyramid|Image database|Cluster analysis
+references:1524408959|1563686443|1594957066|1606858007|1677182931|1865725639|1988091915|2011430131|2017374496|2023182471|2028684662|2036924016|2061774526|2066690519|2087347434|2098479385|2108598243|2110764733|2115733720|2120419212|2122457239|2128154306|2134270519|2143668817|2148780922|2150295085|2151103935|2154683974|2159128898|2161050705|2162915993|2164736477|2166473218|2294130536|2536626143|2541822344|2618530766|2949117887
+
+
+id:2789374419
+title:Dynamic Modeling of Failure Events in Preventative Pipe Maintenance
+year:2018
+author information:[
+author name:Chao Zhang
+author organization:University of Science and Technology
+author id:2794451963|
+author name:Hao Wu
+author organization:University of Science and Technology
+author id:2648639476|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Rashid Mehmood
+author organization:Beijing Normal University
+author id:2307487920|
+author name:Anton Kos
+author organization:University of Ljubljana
+author id:2122699478|
+]
+abstract:stateoftheart|scenarios|supply|different|covariants|model|types|exhibit|pinpoint|temporal|based|thus|past|work|profile|rankingbased|preventative|system|processbased|city|achieve|global|sequences|era|event|agency|operational|pipespecific|urbanization|triggering|framework|incorporates|data|use|proactively|achieves|network|commissioned|importance|pipe|different|including|individual|metropolitan|typically|water|becomes|effects|especially|failure|prediction|vital|ubiquitous|critical|applied|deployed|indispensable|point|platform|network|wisdom|urban|paper|common|mutualexciting|attracting|prediction|pipes|process|aims|industry|wide|previous|generic|industrial|performance|urbanscale|adopts|attention|clustering|maintenance
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Pipeline transport|Ranking|Computer science|Water supply network|Risk analysis (engineering)|System dynamics|Water resources|Metropolitan area|Preventive maintenance|Maintenance engineering|Distributed computing
+references:1122957942|1972882261|1974132866|1976526581|1981384948|2047995569|2058951790|2066178851|2072136246|2101645017|2107890099|2158698691|2252784747|2295897189|2429914308|2571789045
+
+
+id:2791707925
+title:End-to-end learning for image-based air quality level estimation
+year:2018
+author information:[
+author name:Chao Zhang
+author organization:Beijing Normal University
+author id:2122831842|
+author name:Junchi Yan
+author organization:IBM
+author id:2151026072|
+author name:Changsheng Li
+author organization:University of Electronic Science and Technology of China
+author id:2571986204|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2648639476|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+]
+abstract:accurate|dataset|imagebased|pollution|complementary|three|realworld|introduced|problem|devises|far|estimate|classifier|based|using|still|images|environmental|method|made|past|devised|expected|air|quality|solved|sensorbased|cnn|images|methods|fundamental|air|truth|layer|ability|convolutional|linear|agency|rectified|namely|model|single|several|first|open|levels|ordinal|cauchit|official|function|variant|results|obtain|indirect|last|protection|like|experimental|adjusted|estimation|important|efforts|improve|ground|comprised|demonstrate|activation|collect|neural|classifier|ensemble|discriminative|network|effective|negative|paper|design|effectiveness|social|expensive|corresponding|stable|decades
+venue name:Machine Vision Applications
+venue id:1155500043
+venue type:C
+document type:Conference
+study fields:Rectifier (neural networks)|Pattern recognition|Convolutional neural network|Ordinal number|Computer science|Image processing|Ground truth|Air quality index|Artificial intelligence|Classifier (linguistics)|Discriminative model
+references:172072979|1665214252|1677182931|1777628566|1803059841|1981036287|2023182471|2056149869|2056207324|2056930182|2066334462|2069682406|2069870183|2095705004|2099015219|2100002341|2107878631|2112076978|2132852291|2137002202|2142014428|2142470670|2147800946|2155893237|2176412452|2214352687|2244486986|2293009534|2433936995|2523989733|2526479943|2586196357|2602319784|2604909019|2613718673|2618530766|2765823242|2788262396|2911964244|2912934387
+
+
+id:2802278363
+title:Multi-sensor Golf Swing Classification Using Deep CNN
+year:2018
+author information:[
+author name:Libin Jiao
+author organization:Beijing Normal University
+author id:2286694793|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2648639476|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Anton Umek
+author organization:University of Ljubljana
+author id:2197285574|
+author name:Anton Kos
+author organization:University of Ljubljana
+author id:2122699478|
+]
+abstract:gage|focus|welltrained|accuracy|years|professional|realworld|terms|classifier|orthogonally|model|recent|knowledge|based|method|classification|indicators|multisensor|evaluate|two|experiments|smart|research|golf|signals|vector|embedded|convolutional|discovering|set|necessary|explore|abstract|great|equipments|swing|affixed|machine|data|fed|used|body|club|method|results|strain|including|test|surge|cnnbased|furthermore|success|support|players|deep|neural|show|amateur|investigate|network|common|accelerometer|collects|sports|satisfy|interesting|requirement|outperforms|sensors|performance|sensory|corresponding|achieved|well|sport|integrates
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Computer vision|Amateur sports|Accelerometer|Convolutional neural network|Computer science|Support vector machine|Artificial intelligence|Data classification|Classifier (linguistics)|Machine learning|Swing|Test set
+references:1092616133|1677182931|1937957337|1999079801|2023182471|2061774526|2099471712|2117539524|2163605009|2176950688|2285867554|2517514380|2564157749|2596124575|2963420272
+
+
+id:2807755424
+title:Cancer-Drug Interaction Network Construction and Drug Target Prediction Based on Multi-source Data
+year:2018
+author information:[
+author name:Chuyang Li
+author organization:Beijing Normal University
+author id:2807961024|
+author name:Guangzhi Zhang
+author organization:Beijing Normal University
+author id:2168148080|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2692644173|
+author name:Yuqi Yang
+author organization:Beijing Normal University
+author id:2801882870|
+author name:Jiguo Yu
+author organization:Qufu Normal University
+author id:2134009954|
+author name:Xianlin Ma
+author organization:Beijing Rehabilitation Hospital of Capital Medical University
+author id:2518131875|
+]
+abstract:cdi|completing|construct|potential|continually|three|sequencing|recent|limitations|databases|based|biology|method|gene|analysis|years|correlation|analysis|cancers|biological|algorithm|methods|kinds|datasets|availability|networks|targets|products|known|proteins|walks|established|detection|approaches|efficient|cancergene|one|many|tendencies|great|biomedical|integrate|single|genome|progress|data|use|drug|shows|random|method|finish|international|potential|results|predicted|authoritative|multisource|like|interaction|cytoscape|cosmic|strengths|prediction|anticancer|network|along|drugbank|related|molecular|rationality|human|make|highly|topologically|disease|visualizations|constructed|networkbased|calculating|opening|cancerdrug|target|comprehensively|drugtarget|personalrank|verifies|cancer
+venue name:Wireless Algorithms, Systems, and Applications
+venue id:1140917629
+venue type:C
+document type:Conference
+study fields:HUGO Gene Nomenclature Committee|Data mining|Proteomics|UniProt|Computer science|Drug target|Interaction network|Network construction|Network analysis|DrugBank|Distributed computing
+references:1965887320|2000264668|2005394998|2052652433|2082032299|2165863045|2233021161|2285867554|2335021186|2609303402
+
+
+id:2810444900
+title:Joint entropy based learning model for image retrieval
+year:2018
+author information:[
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2692644173|
+author name:Yueli Li
+author organization:Hebei Agricultural University
+author id:2581741693|
+author name:Xiaohan Bi
+author organization:Beijing Jiaotong University
+author id:2811134901|
+author name:Linna Zhang
+author organization:Guizhou University
+author id:2809815863|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2670972138|
+author name:Yingzhuo Wang
+author organization:Wendeng Technician College of WeiHai, China
+author id:2811098697|
+]
+abstract:watershed|accuracy|improved|number|preselected|problem|retrieval|model|optimizing|hundreds|reduce|based|images|using|large|thousands|quality|computation|even|much|increased|superiority|experiments|distribution|retrieval|obviously|computer|entropy|segmentation|highquality|sufficient|abstract|could|one|classic|aiming|supported|effectively|joint|rapid|source|used|useless|method|obtain|image|development|need|existence|difficult|instances|proposed|keep|retrieve|deep|instances|show|technique|learning|mistaken|computing|database|human|possibility|normal|process|built|also|target|special|reducing
+venue name:Journal of Visual Communication and Image Representation
+venue id:105424869
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Normal conditions|Image retrieval|Artificial intelligence|Joint entropy|Deep learning|Mathematics|Computation
+references:1498369939|1592671787|1596717185|1993959163|2017374496|2023182471|2061774526|2109255472|2110764733|2118286367|2121069620|2130660124|2136922672|2146532890|2156994346|2169415915|2176950688|2285867554|2335021186|2521703710
+
+
+id:2884381854
+title:Sparse coding based few learning instances for image retrieval
+year:2019
+author information:[
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2692644173|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Junqi Guo
+author organization:Beijing Normal University
+author id:2123499493|
+author name:Xin Meng
+author organization:Electric Power Planning  Engineering Institute
+author id:2759388669|
+author name:Shenling Wang
+author organization:Beijing Normal University
+author id:2141431848|
+]
+abstract:big|wastes|experimental|improved|number|appeared|retrieval|wasted|model|recent|reduce|based|images|using|large|thousands|resource|years|quality|selection|much|become|superiority|classical|knn|retrieval|coding|computer|modern|highquality|set|problem|could|one|model|accuracy|combined|abovementioned|supported|instance|used|meaningful|different|directly|results|image|widely|crossvalidation|contributes|instances|proposed|sparse|techniques|solve|fields|preserving|distance|instances|optimized|show|learning|life|retrieving|database|computing|hundreds|human|process|previous|effectively|resources|also|occupies|target|build|time|reduction|significantly
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Neural coding|Computer science|Image retrieval|Artificial intelligence|Machine learning
+references:189596042|1592671787|1606858007|1686810756|1849277567|1963611305|1967427473|1972679354|1981505368|1982554717|1993959163|2001121074|2008732654|2013221123|2017374496|2054103873|2061774526|2076291620|2097018403|2097117768|2097290407|2100124084|2110764733|2119605622|2123432324|2130660124|2131864940|2134270519|2136922672|2151103935|2152657434|2154506590|2157788863|2161969291|2162915993|2165966284|2172174689|2176950688|2179352600|2185528074|2203189669|2407346711|2521703710|2554234430|2594439983|2618530766|2759518055|2963125676
+
+
+id:2899199137
+title:Weighted-learning-instance-based retrieval model using instance distance
+year:2019
+author information:[
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2692644173|
+author name:Yueli Li
+author organization:Hebei Agricultural University
+author id:2581741693|
+author name:Jie Xiong
+author organization:Beijing University of Tech
+author id:2899394316|
+author name:Xiaohan Bi
+author organization:Beijing Jiaotong University
+author id:2811134901|
+author name:Linna Zhang
+author organization:Guizhou University
+author id:2809815863|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Junqi Guo
+author organization:Beijing Normal University
+author id:2123499493|
+]
+abstract:results|depend|experimental|number|optimization|retrieval|model|reduce|based|images|large|robustness|quality|exist|innovative|millions|circumstances|fields|wasting|quality|adequate|reduces|resources|highquality|could|lead|model|classic|advantages|calculation|requiring|highquality|aiming|combined|instance|use|used|reference|high|shows|sufficient|function|different|directly|results|calculated|selected|image|level|widely|weight|significant|weights|maintaining|weightedlearninginstancebased|remarkable|improving|instances|proposed|techniques|retrieve|support|full|deep|distance|instances|contribute|show|learning|computing|database|construction|definition|human|make|highly|effectiveness|cost|previous|constructed|effectively|aforementioned|remarkably|target|build|various|significantly
+venue name:Machine Vision Applications
+venue id:1155500043
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Neural coding|Image retrieval|Robustness (computer science)|Artificial intelligence|Deep learning|Machine learning
+references:237627875|1498369939|1566018662|1592671787|1963611305|1989684337|1993959163|2011430131|2017374496|2017999054|2023182471|2025768430|2027922120|2050699972|2061774526|2066690519|2076291620|2093265755|2097018403|2108598243|2109255472|2110764733|2118286367|2121069620|2123432324|2128154306|2134126205|2136922672|2146532890|2150714001|2151103935|2153635508|2154683974|2155195660|2161443453|2162915993|2171896402|2172174689|2176950688|2185528074|2195015743|2203189669|2218318129|2220622620|2335021186|2358876993|2461725797|2521703710|2554234430|2559917342|2562989287|2588232350|2612135493|2615981376|2737725206|2748472880|2757028014|2759518055|2763683025|2765985332|2773771410|2783231089|2810444900|2914032801|2963125676
+
+
+id:2900505000
+title:Text Recovery via Deep CNN-BiLSTM Recognition and Bayesian Inference
+year:2018
+author information:[
+author name:Libin Jiao
+author organization:Beijing Normal University
+author id:2286694793|
+author name:Hao Wu
+author organization:University of Science and Technology
+author id:2648639476|
+author name:Haodi Wang
+author organization:Beijing Normal University
+author id:2901296431|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+]
+abstract:instance|instance|focus|recognized|selfdescribed|image|synthesize|employed|horizontal|character|enable|inferred|context|text|results|image|semantically|images|coordinate|natural|bayesian|posterior|propose|text|latent|recovered|obtained|position|demonstrate|cnnbilstm|statistical|images|methods|probability|pretrained|concurrent|recovery|experiments|inpainting|candidate|missing|predict|holes|architecture|synthesis|process|corrupt|recover|histogram|estimated|image|procedure|possible|filling|corresponding|able|cannot|detected|first|essential
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Pattern recognition|Computer science|Recurrent neural network|Feature extraction|Inpainting|Posterior probability|Artificial intelligence|Image restoration|Image histogram|Distributed computing|Bayesian probability
+references:1686810756|1763426478|1905882502|1924619199|1993120651|2064675550|2066792529|2097117768|2099471712|2105038642|2110485445|2125389028|2127141656|2163605009|2173520492|2176950688|2194187530|2194775991|2275363859|2295130376|2331128040|2408279554|2519818067|2549139847|2550553598|2550673061|2552465644|2557414982|2558834163|2564755245|2575842049|2581485081|2593414223|2603777577|2604721644|2605076167|2605135824|2605982830|2607151106|2607579284|2625940279|2738588019|2739761758|2747107070|2798365772|2801693445|2949117887|2953054324|2962897020|2963270367|2963420272|2963446712|2963800363
+
+
+id:2901936680
+title:Multi-scale semantic image inpainting with residual learning and GAN
+year:2019
+author information:[
+author name:Libin Jiao
+author organization:Beijing Normal University
+author id:2286694793|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2648639476|
+author name:Haodi Wang
+author organization:Beijing Normal University
+author id:2901296431|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+]
+abstract:illustrates|seamlessly|areas|image|crash|realworld|suffer|context|based|seamless|method|encoder|illustrated|latent|discrepancy|smooths|extracts|boost|bridge|semantic|study|images|inference|superiority|methods|experiments|concurrent|skip|representations|loss|inpainting|ability|demonstrated|convolutional|abstract|predictions|model|context|stabilize|compressed|dataset|acceptable|correct|multilayer|backward|net|connections|combination|area|image|semantically|learns|decoder|fill|predicts|estimation|propagation|therefore|arbitrarily|seamlessly|convergence|generator|capable|learning|paste|restoring|missing|effectiveness|aims|corrupt|recover|original|representations|effectively|manifest|qualitatively|consecutive|performance|detailed|reconstruction|significantly|merges
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Convergence (routing)|Residual|Pattern recognition|Backward propagation|Inference|Inpainting|Artificial intelligence|Encoder|Mathematics
+references:54257720|935139217|1521064364|1522301498|1850742715|1924619199|1949096787|1950594372|1977581467|1991867157|1998042868|2049237558|2064076387|2099471712|2125389028|2133665775|2149669120|2150081556|2160558632|2163935418|2173520492|2196707239|2200594420|2248556341|2259643685|2273348943|2302243225|2342877626|2408279554|2434741482|2511730936|2523714292|2552465644|2557414982|2580360036|2581485081|2593414223|2599765304|2605135824|2608015370|2611605760|2618530766|2887745158|2949128343|2949650786|2950179405|2950689937|2951523806|2951939904|2951997238|2952139859|2952186574|2952226636|2952865063|2953250761|2953318193|2953328958|2962793481|2963800363
+
+
+id:2913480775
+title:New Inpainting Algorithm Based on Simplified Context Encoders and Multi-Scale Adversarial Network
+year:2019
+author information:[
+author name:Haodi Wang
+author organization:Beijing Normal University
+author id:2901296431|
+author name:Libin Jiao
+author organization:Beijing Normal University
+author id:2286694793|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2648639476|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+]
+abstract:vague|dataset|via|loss|usually|based|method|models|multiscale|encoders|encoders|inpainting|etc|detail|tailing|algorithms|achieve|global|networks|existed|local|pictures|proved|feature|context|address|abstract|analysing|extent|combining|consisting|comparing|inpainting|use|faster|blurry|incomplete|continue|function|adversarial|huge|results|guarantees|train|add|image|reconstruct|article|consistency|refers|simplified|therefore|altogether|deep|neural|learning|video|redundant|network|generative|effective|construction|ensures|convolutional|amount|streetview|discriminator|recalculate|better|performance|time|strategy|reducing|paris
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Discriminator|Computer science|Effective method|Convolutional neural network|Algorithm|Inpainting|Artificial intelligence|Encoder|Generative grammar|Deep learning|Machine learning|Adversarial system
+references:1975460922|2099471712|2102443333|2117539524|2163605009|2434741482
+
+
+id:2914662794
+title:Sentiment Analysis of Weibo Comment Texts Based on Extended Vocabulary and Convolutional Neural Network
+year:2019
+author information:[
+author name:Xiaoyilei Yang
+author organization:Beijing Normal University
+author id:2915064880|
+author name:Shuaijing Xu
+author organization:Beijing Normal University
+author id:2787376090|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2648639476|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+]
+abstract:embeddings|big|data|use|wiki|network|accuracy|put|high|optimization|generate|train|realize|based|method|personal|mining|thousands|classification|weibo|expand|pooling|set|regulation|day|word|sentiment|neural|enterprise|forward|according|content|layer|network|proved|effective|related|public|era|systems|statement|convolution|term|recommender|every|analyzing|conducive|subjective|set|original|may|decision|social|sentencelevel|abstract|emotional|length|opinion|activities|chinese|information|comment
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Recommender system|Social network|Information retrieval|Sentiment analysis|Convolutional neural network|Computer science|Pooling|Artificial intelligence|Vocabulary|Big data|Machine learning|The Internet
+references:1614298861|1832693441|1987425720|2108646579|2963083845
+
+
+id:2914868848
+title:Semi-supervised Power Iteration Clustering
+year:2019
+author information:[
+author name:Yuqi Yang
+author organization:Beijing Normal University
+author id:2801882870|
+author name:Rongfang Bie
+author organization:Beijing Normal University
+author id:2129064422|
+author name:Hao Wu
+author organization:Beijing Normal University
+author id:2692644173|
+author name:Shuaijing Xu
+author organization:Beijing Normal University
+author id:2787376090|
+author name:Liangchi Li
+author organization:Beijing Normal University
+author id:2801402189|
+]
+abstract:adjacency|accuracy|changing|constraints|would|pairwise|largely|even|algorithm|based|still|semisupervised|depends|traditional|selection|spectral|partial|affinity|complexity|superiority|methods|experiments|focuses|datasets|matrix|obviously|power|validate|though|initial|abstract|could|one|many|performed|computation|several|aiming|reduction|power|standard|spectral|added|several|research|high|semisupervised|new|matrix|built|graph|synthetic|proposed|problems|part|iteration|learning|speed|random|supervision|iteration|algorithms|distances|process|opposed|cost|significance|modify|restricted|various|clustering
+venue name:Procedia Computer Science
+venue id:120348307
+venue type:J
+document type:Journal
+study fields:Adjacency matrix|Pairwise comparison|Spectral clustering|Data mining|Spic|Computer science|Algorithm|Spectral method|Cluster analysis|Power iteration|Speedup
+references:2036483645|2116810533|2121947440|2342408547
+
+
+id:1987976322
+title:A novel caching scheme for the backbone of Named data networking
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Jun Li
+author organization:Tsinghua University
+author id:2692986575|
+author name:Tian Pan
+author organization:Tsinghua University
+author id:2638387036|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+]
+abstract:explosive|role|objective|dissemination|energy|based|dissemination|cache|everywhere|demand|geant|obtained|placement|access|networking|scheme|achieve|popularity|global|local|low|copies|popularity|ndn|backbone|poses|emerging|compared|named|exponentially|backbones|address|scheme|popularitybased|increasing|coordinated|contentoriented|eliminating|available|achieves|network|used|caching|guided|growing|abilene|hit|random|weighted|calculated|results|traffic|attractive|test|widely|significant|publicly|important|intradomain|especially|proposed|internet|present|higher|cache|benefits|latency|show|aggregation|around|content|redundant|network|interdomain|load|rate|leaving|plays|cost|data|efficiency|simulation|due|challenge|growth|strategy
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Computer science|Efficient energy use|Cache|Latency (engineering)|Popularity|Computer network|Smart Cache|Backbone network|Internet traffic|The Internet
+references:1810232920|2040402865|2083766832|2096411785|2107582728|2112342233|2126540423|2136795155|2165766008|2168903090
+
+
+id:1994783589
+title:Energy-Efficient In-Network Caching for Content-Centric Networking
+year:2013
+author information:[
+author name:Jun Li
+author organization:Tsinghua University
+author id:2692986575|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+]
+abstract:saved|objective|number|optimization|terms|model|energy|reduce|using|cache|issue|work|everywhere|average|access|networking|scheme|save|distribution|local|copies|minimizing|policy|efficient|popularitybased|information|aging|innetwork|first|used|experience|caching|translate|router|hit|find|contentcentric|coordination|results|traffic|widely|develop|significant|improve|architecture|internet|helps|little|implements|show|hops|content|network|leaving|rate|studies|advantage|relying|service|energy|consumption|provider|simulation|apc|build|response|optimization|user
+venue name:IEEE Communications Letters
+venue id:147316732
+venue type:J
+document type:Journal
+study fields:Architecture|Efficient energy use|Computer science|Popularity|Computer network|Real-time computing|Internet service provider|Content centric networking|Router|Energy consumption|Energy minimization
+references:1601808494|1810116042|1970722330|1986697120|1993484402|2078426348|2089982944|2106252206|2112053513|2117053637|2122547141
+
+
+id:2067497668
+title:LOOP: Layer-based overlay and optimized polymerization for multiple virtual tables
+year:2013
+author information:[
+author name:Zhian Mi
+author organization:Tsinghua University
+author id:2224931271|
+author name:Tong Yang
+author organization:Tsinghua University
+author id:2170020785|
+author name:Jianyuan Lu
+author organization:Tsinghua University
+author id:2099765016|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Yi Wang
+author organization:Tsinghua University
+author id:2632416129|
+author name:Tian Pan
+author organization:Tsinghua University
+author id:2638387036|
+author name:Haoyu Song
+author organization:Huawei Technology, USA
+author id:2164390023|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+]
+abstract:highspeed|favorable|offer|number|realworld|network|per|overlay|generalpurpose|testing|thousands|propose|coexist|millions|networks|traces|independent|coexistence|one|experiments|routing|optimized|fibs|indicates|second|supports|key|efficient|incremental|single|fast|advantages|deleting|meet|routers|barely|update|internet|loop|intensifies|achieves|cpu|run|second|router|interrupt|dynamic|inserting|regardless|needs|ideal|virtualization|virtual|challenges|configuration|show|scale|update|updates|pure|scalability|speed|total|parallel|incrementally|physical|layerbased|routers|allows|lookups|lookup|requirements|multiple|perform|polymerization|threads|thread|compacts|prefixes|performance|well|services
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Virtualization|Convergence (routing)|Computer science|Static routing|Computer network|Routing domain|Router|Network virtualization|Overlay network|Routing protocol|Distributed computing
+references:1968801809|2060898162|2089289218|2089827622|2108190694|2111695485|2116417859|2121545378|2128826666|2142360228|2144591544|2169009675|2612041499
+
+
+id:2080411348
+title:Tracking millions of flows in high speed networks for application identification
+year:2012
+author information:[
+author name:Tian Pan
+author organization:Tsinghua University
+author id:2638387036|
+author name:Xiaoyu Guo
+author organization:Tsinghua University
+author id:2532778019|
+author name:Chenhui Zhang
+author organization:Tsinghua University
+author id:2659937773|
+author name:Junchen Jiang
+author organization:Tsinghua University
+author id:2676234963|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Bin Liuy
+author organization:Tsinghua University
+author id:2255|
+]
+abstract:accurate|fpga|maintain|reach|bring|focus|tracking|put|identification|experiment|raises|least|gigabits|embed|catch|exhibit|flow|temporal|fully|still|cache|using|large|evaluation|locality|packet|saving|system|utilize|throughput|millions|rate|card|explicitly|increased|differentiation|achieve|given|endtoend|concurrent|global|local|modern|feature|accommodate|trend|backbone|power|table|policy|enables|processing|smallsized|address|one|spacetime|great|exploiting|prototype|fast|information|usage|fewer|manner|inside|alleviate|research|router|high|hit|fixedallocated|solution|adaptive|frequently|implemented|throughput|results|challenge|another|traffic|including|resource|heavytailedness|changes|efforts|achieving|improve|therefore|internet|burst|replacement|elephant|tens|costeffective|line|penalty|show|functionalities|flows|organize|rate|design|studies|track|routers|evicted|existing|performance|application|due|oblivious|achieved|later|required|routerassisted|applications
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Hit rate|Line card|Locality of reference|Computer science|Cache|Network packet|Computer network|Quality of service|Real-time computing|Throughput|Router
+references:1979194036|1980088630|2042227350|2052207834|2054526607|2054553185|2065889189|2097980166|2110860124|2124632616|2134006796|2152748561|2160233634|2171018119
+
+
+id:2082694738
+title:Popularity-driven coordinated caching in named data networking
+year:2012
+author information:[
+author name:Jun Li
+author organization:Tsinghua University
+author id:2692986575|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+author name:Jianyuan Lu
+author organization:Tsinghua University
+author id:2099765016|
+author name:Yi Wang
+author organization:Tsinghua University
+author id:2632416129|
+author name:Xin Wang
+author organization:New York State University
+author id:2577182873|
+author name:Yanyong Zhang
+author organization:Rutgers University
+author id:2143548513|
+author name:Lijun Dong
+author organization:Rutgers University
+author id:2101777218|
+]
+abstract:optimal|placement|issues|without|objective|path|number|builtin|optimization|terms|enable|promises|cache|work|layer|impact|schemes|dynamically|enroute|interisp|light|evaluate|much|average|algorithms|access|networking|aim|caches|achieve|formulate|overhead|pattern|global|distribution|layer|capability|popularity|ndn|place|minimizing|named|thoroughly|efficient|optimum|fashion|closer|future|requiring|first|scalable|replica|several|used|caching|coordination|different|results|traffic|infrastructure|obtain|widely|reasonably|develop|important|proposed|solve|demonstrate|problems|popularitydriven|show|scale|hops|content|network|effective|design|performances|outperform|replicas|service|data|specific|special|better|performance|application|simulation|objectives
+venue name:Architectures for Networking and Communications Systems
+venue id:1137827009
+venue type:C
+document type:Conference
+study fields:Application layer|Computer science|CPU cache|Network layer|Computer network|Cache algorithms|Real-time computing|Network topology|False sharing|Inline caching|Scalability|Distributed computing
+references:1566625110|1585038871|1601808494|1810116042|2014952121|2089982944|2093375622|2096411785|2112280895|2116451128|2134582584|2136795155|2165766008|2166120235
+
+
+id:2113749139
+title:EMC: The Effective Multi-Path Caching Scheme for Named Data Networking
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Jun Li
+author organization:Tsinghua University
+author id:2692986575|
+author name:Yi Wang
+author organization:Tsinghua University
+author id:2632416129|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+]
+abstract:latency|extensive|named|simulation|objective|builtin|saves|lightweight|terms|preliminary|gateways|promising|gateways|still|everywhere|interisp|multipath|substantially|primary|access|networking|scheme|routing|scenario|copies|ndn|named|efficient|isp|probability|distribution|intraisp|popularitybased|effective|future|namebased|coordinated|multipath|scalable|paper|used|caching|research|observe|emc|results|traffic|widely|develop|proposed|especially|internet|demonstrate|paradigm|content|effective|leaving|indepth|recently|studied|multiple|data|outperforms|caching|due|well|time|reducing|strategy|significantly
+venue name:International Conference on Computer Communications and Networks
+venue id:1137850760
+venue type:C
+document type:Conference
+study fields:Multipath propagation|Multi path|Latency (engineering)|Computer science|Content based networking|Popularity|Computer network|Internetworking|The Internet|Distributed computing|Scalability
+references:1566625110|1973075905|2026210582|2040402865|2048124060|2064850301|2082694738|2096411785|2107582728|2118373627|2126540423|2165766008|2168903090|2171610528
+
+
+id:2171610528
+title:Effective Caching Schemes for Minimizing Inter-ISP Traffic in Named Data Networking
+year:2012
+author information:[
+author name:Jun Li
+author organization:Tsinghua University
+author id:2692986575|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2439249424|
+author name:Jianyuan Lu
+author organization:Tsinghua University
+author id:2099765016|
+]
+abstract:simulation|evolved|usage|maximize|number|dissemination|model|savings|cache|work|everywhere|schemes|dynamically|interisp|savings|feasibility|system|placement|algorithms|average|access|networking|focuses|range|hostoriented|providers|copies|spanning|ndn|key|develops|architecture|named|address|set|dominant|efficient|simulations|hops|innetwork|comprehensive|coordinated|contentoriented|values|used|caching|good|research|results|traffic|new|widely|becomes|proposed|topic|internet|position|architecture|demonstrate|present|according|show|forwarding|content|network|along|leaving|design|parameter|designed|outperform|determine|wide|service|data|special|path|due|services
+venue name:International Conference on Parallel and Distributed Systems
+venue id:1136783206
+venue type:C
+document type:Conference
+study fields:Architecture|Computer science|Content based networking|Cache|Computer network|False sharing|Cache algorithms|Internet architecture|Network model|Distributed computing|The Internet
+references:1601808494|1810116042|1986697120|2083766832|2089982944|2093375622|2096411785|2112280895|2117053637|2122547141|2159669612|2166120235
+
+
+id:2505539509
+title:CASE: Cache-assisted stretchable estimator for high speed per-flow measurement
+year:2016
+author information:[
+author name:Yang Li
+author organization:Tsinghua University
+author id:2640050415|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Tian Pan
+author organization:Tsinghua University
+author id:2638387036|
+author name:Huichen Dai
+author organization:Tsinghua University
+author id:2158642152|
+author name:Jianyuan Lu
+author organization:Tsinghua University
+author id:2099765016|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2708900489|
+]
+abstract:elaborate|extensive|occupation|accurate|advanced|required|fit|thanks|evaluation|path|realworld|extremely|record|proof|strict|accesses|flow|happen|cache|using|meets|thus|large|counters|excellent|sampling|finegrained|case|traffic|provide|relative|algorithms|achieve|experiments|extensively|onchip|distribution|measurement|derive|speed|perflow|continues|indicate|wirespeed|committed|explore|break|approaches|great|fast|sram|rigidly|meanwhile|information|statistics|mathematical|small|proposing|rapid|numbers|heavytailed|high|perflow|throughput|results|new|stretchable|traces|conducted|bounded|efforts|entries|cacheassisted|uncached|internet|present|memory|line|error|speed|network|rate|design|make|previous|studied|management|uses|bound|offchip
+venue name:IEEE International Conference Computer and Communications
+venue id:2898298985
+venue type:C
+document type:Conference
+study fields:Cache|Computer science|Real-time computing|Universal memory|Static random-access memory|Throughput|Network management|Computer engineering|Approximation error|Internet traffic|Estimator
+references:1495100589|1608999459|1965406800|1990280406|1994663326|2042227350|2059739152|2074529643|2077439570|2080411348|2085174050|2097803799|2101583649|2108909367|2109891720|2111474907|2111661342|2120518995|2123205020|2123610111|2125472096|2134562942|2139053115|2142889610|2152748561|2155746806|2169636627|2778355023
+
+
+id:2512330551
+title:NDN-NIC: Name-based Filtering on Network Interface Card
+year:2016
+author information:[
+author name:Junxiao Shi
+author organization:University of Arizona
+author id:2154321184|
+author name:Teng Liang
+author organization:University of Arizona
+author id:2522387949|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2708900489|
+author name:Beichuan Zhang
+author organization:University of Arizona
+author id:2345815135|
+]
+abstract:software|usage|delivered|collected|packets|number|tables|tolerance|tackles|hundreds|filtering|reduce|based|addresses|using|large|overhead|received|packet|propose|resulting|bloom|card|shared|mobility|networking|overhead|requests|onchip|current|native|sending|ndn|positives|minimizing|minimize|named|particularly|ndnnic|store|simulations|filter|names|media|namebased|data|use|using|cpu|main|research|limit|mechanisms|traffic|given|traces|significant|fits|adjust|name|support|since|benefits|tens|request|rulesets|cards|memory|destination|show|media|interface|content|network|running|paper|design|consumers|department|amount|limited|go|false|fault|data|filters|instead|specific|prefixes|various|well
+venue name:Conference on Information-Centric Networking
+venue id:2625826859
+venue type:C
+document type:Conference
+study fields:Bloom filter|Central processing unit|CPU time|Computer science|Network packet|Computer network|Fault tolerance|Multicast|Network interface controller|Operating system|Network interface|Distributed computing
+references:1967630610|1993284846|2001783277|2003827355|2014952121|2050200658|2057981078|2070595899|2110769762|2123845384|2126540423|2135179798|2136451165|2140070224|2142269587|2155903900
+
+
+id:2523435878
+title:RBC-CC: RBC-Based Cascade Caching Scheme for Content-Centric Networking
+year:2017
+author information:[
+author name:Jun Li
+author organization:Zhejiang University
+author id:2643608055|
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2708900489|
+author name:Zhaoxi Fang
+author organization:Zhejiang Wanli University
+author id:2164310366|
+author name:Shaozhong Zhang
+author organization:Zhejiang Wanli University
+author id:2707129030|
+author name:Jiong Shi
+author organization:Zhejiang Wanli University
+author id:2690626503|
+]
+abstract:largely|terms|promising|cache|impact|come|analysis|demand|interisp|population|betweenness|saving|traffic|average|effectiveness|access|networking|scheme|least|popularity|costly|popular|architecture|performance|centrality|routing|thorough|exploiting|contentcentric|future|increasing|hops|performs|featured|internet|caching|good|results|stability|traffic|develop|evictions|regarding|incurs|proposed|demonstrate|present|challenges|concept|hops|content|scalability|conclusion|rate|outperform|approaches|ccn|simulation|rbccc|response|online|well|reducing|aiming|significantly
+venue name:Journal of Network and Systems Management
+venue id:67072002
+venue type:J
+document type:Journal
+study fields:Population|Cache|Computer science|CPU cache|Computer network|False sharing|Betweenness centrality|Content centric networking|Smart Cache|Scalability|Distributed computing
+references:810499642|1545276580|1601808494|1810116042|1905899854|1953091317|1963591592|1979170440|1985355206|1987151567|1993484402|2001414591|2003186577|2004127822|2033937551|2045828497|2047251584|2047576351|2053693417|2055858842|2069646874|2088186434|2089982944|2093375622|2104114005|2106252206|2112280895|2133961349|2145834990|2163020588|2295672029
+
+
+id:2537402418
+title:Tube caching: An effective caching scheme in Content-Centric Networking
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2559275043|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2708900489|
+author name:Yang Li
+author organization:Tsinghua University
+author id:2640050415|
+author name:Huichen Dai
+author organization:Tsinghua University
+author id:2158642152|
+author name:Weiyi Zhang
+author organization:ATT Labs Research, United States of America
+author id:2100365665|
+author name:Yi Wang
+author organization:Tsinghua University
+author id:2632416129|
+]
+abstract:tube|scheme|called|forwarding|benefit|proven|across|energyrelated|distribute|preliminary|investigated|based|cache|allocation|within|isp|effective|propose|dynamically|ccn|single|caching|contents|paths|replacement|problems
+venue name:International Workshop on Quality of Service
+venue id:1135145953
+venue type:C
+document type:Conference
+study fields:Wavelength-division multiplexing|Logic gate|Cache|Computer science|Computer network|Real-time computing|Content centric networking|Smart Cache|Energy consumption
+references:2014952121|2020154694|2142928069
+
+
+id:2619082591
+title:On Incremental Deployment of Named Data Networking in Local Area Networks
+year:2017
+author information:[
+author name:Hao Wu
+author organization:Tsinghua University
+author id:2721636600|
+author name:Junxiao Shi
+author organization:University of Arizona
+author id:2154321184|
+author name:Yaxuan Wang
+author organization:Beijing University of Posts and Telecommunications
+author id:2562043977|
+author name:Yilun Wang
+author organization:Tsinghua university
+author id:2620165830|
+author name:Gong Zhang
+author organization:Huawei Future Network Theory Lab
+author id:2684561779|
+author name:Yi Wang
+author organization:Huawei Future Network Theory Lab
+author id:2632416129|
+author name:Bin Liu
+author organization:Tsinghua University
+author id:2708900489|
+author name:Beichuan Zhang
+author organization:University of Arizona
+author id:2345815135|
+]
+abstract:switches|ipbased|three|issues|enable|shorter|compared|considering|hosts|ip|propose|effciency|traditional|system|dualstack|placement|datacentric|requires|networking|examine|utilizing|traffc|functionality|local|example|heuristics|scenario|ndn|popular|deployment|ipbased|named|ndnenabled|resiliency|incremental|equipments|meet|prevalent|environments|almost|resilience|developed|mainly|growing|optimize|solutions|area|introducing|real|maintaining|take|hybrid|involved|improve|ethernet|present|support|technical|careful|investigate|network|design|applications|process|switches|data|also|layout|ndn|assuming|decades|time|reducing|demands|applications|taking
+venue name:Architectures for Networking and Communications Systems
+venue id:1137827009
+venue type:C
+document type:Conference
+study fields:Software deployment|Computer science|Computer network|Network architecture|Systems design|Internet protocol suite|Real-time computing|Ethernet|Heuristics|Local area network|Distributed computing|The Internet
+references:1981086836|1985839701|1994783589|2014952121|2042539274|2072845328|2082694738|2096411785|2104643391|2110769762|2113749139|2136795155|2155903900|2506302433|2512330551|2523435878|2783634327
+
+
+id:8015682
+title:An Exploration of Tie-Breaking for Microblog Retrieval
+year:2014
+author information:[
+author name:Yue Wang
+author organization:University of Delaware
+author id:2289959438|
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:optimal|focus|microblog|tweets|approach|number|retrieval|huge|different|potential|results|models|new|based|studying|track|might|experiment|ir|propose|users|relevant|traditional|proposed|improve|trec|microblog|access|methods|achieve|show|tiebreaking|posted|top|signals|since|enables|performance|problem|social|recently|multiple|combining|way|existing|performance|media|tiebreaking|information|choice|comparable|runs
+venue name:European Conference on Information Retrieval
+venue id:1180513217
+venue type:C
+document type:Conference
+study fields:World Wide Web|Social media|Information retrieval|Computer science|Microblogging
+references:34560801|51843182|1806107381|1928047241|1979133071|2011769604|2013236067|2099868020|2282414926|2296285930
+
+
+id:347029704
+title:Concept Detection and Using Concept in adhoc of Microblog Search.
+year:2012
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:
+author id:2630047567|
+]
+abstract:used|tweets|query|pages|represented|keyword|temporal|needs|based|goal|last|query|separately|comparing|weighting|expansion|adhoc|relevant|system|concepts|trec|microblog|methods|experiments|additional|wikipedia|detect|task|baseline|satisfy|abstract|queries|showed|report|short|information|return|improvements
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Data mining|Weighting|Social media|Information needs|Query expansion|Information retrieval|Computer science|Microblogging
+references:2398452718
+
+
+id:1965325952
+title:VIRLab: a web-based virtual lab for learning and studying information retrieval models
+year:2014
+author information:[
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Peilin Yang
+author organization:University of Delaware
+author id:2143931322|
+author name:ChengXiang Zhai
+author organization:Illinois University
+author id:2152766206|
+]
+abstract:retrieval|straightforward|functions|data|interactive|experimental|evaluation|features|retrieval|engines|model|unlike|based|settings|promoting|models|ir|analysis|easy|tool|improving|system|simplified|laboratory|unique|virtual|study|comparisons|line|teaching|information|interface|result|search|productivity|provides|parameter|lines|pairwise|make|webbased|enables|process|sets|virlab|implementation|multiple|operational|command|controlled|existing|help|well|describe|novel
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Virtual Laboratory|Multiple data|Search engine|Virtual lab|Information retrieval|Computer science|Web application
+references:2006996936|2134557008
+
+
+id:2011769604
+title:Tie Breaker: A Novel Way of Combining Retrieval Signals
+year:2013
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:functions|empirical|retrieval|complex|rank|state|based|closely|ad|method|made|way|easy|propose|relevance|traditional|eliminates|unique|microblog|hoc|achieve|document|one|derivations|derive|term|elegant|enables|art|robust|break|one|combines|combining|suggest|deriving|complicated|information|strongest|choice|iteratively|comparable|novel|first|mathematical|scores|theoretical|documents|use|sound|main|simple|challenging|frequency|find|function|signal|results|others|including|need|empirical|capture|often|contributes|length|functions|signals|proposed|relatively|trec|collections|since|instead|rather|idea|show|interact|best|integrated|related|ties|observations|studies|effectiveness|inverse|outperform|apply|advantage|implementation|multiple|weaker|yet|although|seeking|way|prioritize|performance|ranking
+venue name:International Conference on the Theory of Information Retrieval
+venue id:2756630716
+venue type:C
+document type:Conference
+study fields:Divergence-from-randomness model|Data mining|Social media|tf–idf|Information retrieval|Ranking|Empirical evidence|Computer science|Microblogging|Circuit breaker|Term Discrimination|Empirical research
+references:8870360|1482214997|1999822363|2000569744|2005545412|2014415866|2043909051|2082359527|2093390569|2136542423|2162697159|2165612380
+
+
+id:2037946039
+title:Analytical Performance Modeling for Top-K Query Processing
+year:2014
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:pruning|modeling|accurate|three|fit|collections|easily|model|state|reduce|based|efficiency|using|goal|methods|runtime|accurately|propose|approximated|provide|processing|throughput|obtained|stage|complexity|systems|topk|eventually|statistics|feature|estimating|topk|processing|art|linear|could|one|systematic|framework|able|features|novel|discuss|retrieval|use|developed|compute|features|time|scheduling|dynamic|different|termlevel|results|selected|combination|might|experimental|query|capture|often|particular|develop|important|improve|varies|prediction|stepbystep|trec|largescale|useful|problems|identifying|critical|waiting|analytical|values|show|information|general|load|since|studies|predict|divide|identify|estimated|way|performance|online|previous|time|strategy
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Web query classification|Ranking (information retrieval)|Artificial intelligence|Query optimization|Query expansion|Information retrieval|Load balancing (computing)|Sargable|Spatial query|Online aggregation|Machine learning
+references:299870200|1482214997|1498324828|1970885105|1980344365|1982387198|1994915827|2025690557|2028083097|2032866865|2040852594|2048955106|2053448995|2065472179|2072156548|2073965851|2077789969|2091379987|2108079923|2119360906|2123006679|2137151464|2139230733|2141257014|2147028271|2150414292|2154610494|2168006621
+
+
+id:2082090956
+title:Document Prioritization for Scalable Query Processing
+year:2014
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:satisfaction|modes|query|accuracy|evaluation|number|loss|query|balance|terms|collections|engines|retrieval|narrow|based|still|efficiency|conjunctive|large|method|lower|priority|propose|terms|web|processing|matched|current|requires|larger|topk|achieve|k|two|search|key|compared|processing|decision|efficient|fastest|one|speedup|queries|able|efficiently|novel|discuss|documents|simple|mode|either|function|implement|directly|results|experimental|query|important|measure|proposed|disjunctive|modes|retrieve|basic|since|idea|importance|latency|tree|show|twitter|collection|effective|candidate|gap|marginal|ranked|effectiveness|process|aims|queries|length|affects|longer|prioritize|better|existing|performance|challenge|well|time
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Data mining|RDF query language|Query language|Query expansion|Information retrieval|Computer science|Sargable|Web query classification|Ranking (information retrieval)
+references:1482214997|1606874436|1970885105|1980344365|1982387198|2000431947|2007815473|2011769604|2019406253|2025690557|2040852594|2063694594|2065472179|2066667100|2072156548|2073965851|2076471773|2091379987|2094865458|2108079923|2108278040|2111046826|2112056172|2112914308|2122827145|2123006679|2125203709|2134557008|2137339254|2138662031|2139230733|2141257014|2149427297|2150414292|2154610494|2785025356
+
+
+id:2090000323
+title:An incremental approach to efficient pseudo-relevance feedback
+year:2013
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:adaptation|tworound|approach|without|feedback|newly|realworld|sacrificing|terms|collections|retrieval|hinder|leveraging|documents|reduce|using|efficiency|ir|methods|propose|submitted|processing|systems|study|effectiveness|methods|document|terabyte|two|search|pseudorelevance|set|initial|could|one|incremental|accuracy|first|documents|accumulators|retrieved|main|clearly|resumes|mainly|second|implemented|adjusting|results|selected|experimental|query|often|important|relevant|expand|proposed|improve|final|pseudorelevance|retrieve|round|trec|basic|reasons|scores|idea|needed|show|expanded|previously|factor|process|original|wide|instead|round|arguably|step|time|strategy
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Data mining|Relevance feedback|Information retrieval|Query expansion|Computer science|Terabyte|Web query classification|Ranking (information retrieval)
+references:1525341925|1964348731|1973520416|1980344365|1985986751|1989885825|1991193012|1991360400|2000672666|2002306339|2006106389|2018478052|2029533776|2032351178|2036181041|2043909051|2049653588|2052088591|2065472179|2065721358|2066667100|2100866419|2102563107|2104049510|2108079923|2119377856|2123006679|2125203709|2126782364|2138662031|2142769902|2151361488|2154610494|2158852037|2160484851|2169213601
+
+
+id:2113235062
+title:An early warning system for unrecognized drug side effects discovery
+year:2012
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2681776913|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+author name:Steven J. Stanhope
+author organization:University of Delaware
+author id:1377884205|
+]
+abstract:expedite|notifying|building|physicians|text|knowledge|discussing|based|diseases|quality|effects|system|delivery|chemical|web|demonstration|drugs|integrating|automatically|targets|healthcare|body|popularity|ingredients|healthcare|sources|side|may|drugs|could|gathered|possible|many|discovery|increasing|information|describe|adverse|novel|treat|internet|drug|warning|different|potential|discover|patients|important|effects|improving|efforts|improve|unexpectedly|show|interact|cause|interactions|related|intended|human|early|potentials|process|start|also|monitor|build|online|step|unrecognized|base
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Health care|World Wide Web|Social media|Computer science|Popularity|Knowledge base|Early warning system|Business process discovery|Drug|The Internet
+references:2134557008
+
+
+id:2133465274
+title:Wikimantic: Toward effective disambiguation and expansion of queries
+year:2014
+author information:[
+author name:Christopher Boston
+author organization:University of Delaware
+author id:2203789189|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+author name:Sandra Carberry
+author organization:University of Delaware
+author id:2096912654|
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Xitong Liu
+author organization:University of Delaware
+author id:2165030786|
+]
+abstract:documents|project|graphics|reference|terms|retrieval|implemented|context|evaluated|treated|method|individual|work|disambiguate|expansion|terms|sequence|expand|retrieve|larger|rather|part|wikipedia|search|paper|entities|particularly|determine|abstract|effectively|queries|words|augmenting|queries|exploiting|tweets|single|response|able|short|information|strategy|articles|user|methodology|disambiguating|entity|presents
+venue name:Data and Knowledge Engineering
+venue id:1168542559
+venue type:C
+document type:Conference
+study fields:Graphics|Data mining|Query expansion|Information retrieval|Computer science|Queries per second|Database
+references:7333970|155754185|413120383|1482214997|1515865104|1532325895|1548663377|1585620615|1596258944|1598867694|1896628871|1975422446|1979459060|1993692165|1996457856|2007585013|2013579020|2029844001|2032962903|2088407996|2090288396|2099061257|2100341149|2104583100|2105051853|2108650858|2111122424|2117829666|2123142779|2123985763|2131357087|2134557008|2144211451|2151048449|2295240344|2399079233|2406682228|2436001372|2439017901
+
+
+id:2395099512
+title:An Exploration of New Ranking Strategies for Medical Record Tracks.
+year:2011
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2225904997|
+author name:Hui Fang
+author organization:
+author id:2618399871|
+]
+abstract:query|documents|main|query|retrieval|assumption|combine|based|using|goal|track|propose|expansion|relevant|external|system|proximity|improve|medical|studied|experiments|according|visits|related|aspect|record|term|performance|contain|one|start|resources|also|disease|report|information|axiomatic|strategy|return
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Data mining|Ranking|Query expansion|Information retrieval|Computer science|Axiom|Medical record
+references:2162697159
+
+
+id:2768052477
+title:Improving Retrieval Effectiveness for Temporal-Constrained Top-K Query Processing
+year:2017
+author information:[
+author name:Hao Wu
+author organization:University
+author id:2767775232|
+author name:Kuang Lu
+author organization:University of Delaware
+author id:2767465961|
+author name:Xiaoming Li
+author organization:University of Delaware
+author id:2767428466|
+author name:Hui Fang
+author organization:University of Delaware
+author id:2618399871|
+]
+abstract:results|focus|constraints|three|without|loss|balance|would|temporal|goal|dissatisfied|require|propose|prioritization|processing|evaluate|become|study|topk|methods|document|retrieval|long|specified|across|search|systems|takes|minimizing|empirically|within|strike|queries|constrained|meet|results|constraint|returned|return|retrieval|used|constantly|temporally|time|limit|results|need|might|kind|query|often|degradations|significant|users|longer|proposed|techniques|trec|collections|show|technique|information|effective|unbalanced|servers|load|effectiveness|process|figure|interesting|efficiency|largescale|time
+venue name:Asia Information Retrieval Symposium
+venue id:1182750626
+venue type:C
+document type:Conference
+study fields:Web search query|Data mining|Query expansion|Information retrieval|Computer science|Server|Prioritization|Time limit
+references:1482214997|1980344365|1982387198|1994915827|2016078760|2037946039|2040852594|2065472179|2073965851|2075501215|2082090956|2089666999|2091379987|2094865458|2104839312|2108079923|2134195052|2139230733|2141257014|2149427297|2150414292|2154610494|2160305607|2168006621|2342091124
+

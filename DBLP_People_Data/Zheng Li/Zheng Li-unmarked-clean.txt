@@ -1,0 +1,2468 @@
+
+id:758815957
+title:On Cloud Spot Market: An Overview of the Research
+year:2014
+author information:[
+author name:Zheng Li
+author organization:Australian National University
+author id:2940449517|
+author name:Liam O’Brien
+author organization:Geoscience, Australia
+author id:2325040185|
+author name:Rajiv Ranjan
+author organization:CSIRO Computational Informatics
+author id:2005115202|
+author name:Shayne Flint
+author organization:Australian National University
+author id:2132927618|
+author name:Albert Y. Zomaya
+author organization:Sydney university
+author id:698114488|
+]
+abstract:straightforward|chapter|three|inevitably|price|usually|recent|investigated|researchers|understand|service|practitioners|reserved|spot|except|detail|amazon|sophisticated|facto|capacity|result|current|vendor|mechanism|spare|established|namely|summarized|disclose|help|market|organized|de|commercial|instance|launched|research|compute|marketdriven|unlike|described|history|market|relevant|purchased|ondemand|focused|since|behind|infrastructureasaservice|studies|consumers|backend|overview|identify|resources|auctioned|better|fixedprice|pricing|refer|providers|service|cloud|within|investigation|pricing
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Cloud resources|Spare part|Telecommunications|Spot contract|Computer science|Vendor|Distributed computing|Spot market|Cloud computing
+references:120372266|1498562056|1977660759|1987659801|1996526838|2004590586|2013275264|2039596445|2047902320|2061849602|2084603067|2088983345|2098812784|2099393515|2106698002|2111224333|2113139643|2116405180|2129210621|2139678181|2140953443|2147300694|2154693902|2160016350|2163563705|2169024569|2169551827
+
+
+id:820878789
+title:Towards Interdisciplinary Approach to SOA Implementations
+year:2011
+author information:[
+author name:Zheng Li
+author organization:(ANU)
+author id:2940449517|
+author name:He Zhang
+author organization:NICTA
+author id:2118256005|
+author name:Liam O’Brien
+author organization:CSIRO
+author id:2325040185|
+]
+abstract:comprehend|numerous|approach|building|identified|serviceoriented|four|preliminary|promising|goals|knowledge|organizational|still|investigating|interdisciplinary|presenting|valuable|theory|deal|systems|independent|reusability|soa|across|implementations|soa|explore|necessary|strategies|implementing|theory|inspire|organization|efficiently|environmentadaptable|emerges|use|research|view|employs|obstructing|area|architecture|serviceoriented|supplements|success|useful|support|technical|driven|challenges|applied|reaching|computing|paper|human|encourages|implementation|implementation|requirement|technology|concerns|efficiency|existing|various|organizations|treating
+venue name:International Conference on Evaluation of Novel Approaches to Software Engineering
+venue id:1173149485
+venue type:C
+document type:Conference
+study fields:Architecture|Systems engineering|Computer science|Organizational architecture|Implementation|Organizational theory|OASIS SOA Reference Model|Service-oriented architecture|Reusability
+references:1562843014|1847743228|1969224933|2009752323|2028628502|2028899288|2071644147|2097565277|2100127921|2111632938|2136277350
+
+
+id:1927787058
+title:CF4BDA: A Conceptual Framework for Big Data Analytics Applications in the Cloud
+year:2015
+author information:[
+author name:Qinghua Lu
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:1971717091|
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:Maria Kihl
+author organization:Lund University
+author id:469251081|
+author name:Liming Zhu
+author organization:Data61, Commonwealth Scientific and Industrial Research Organisation
+author id:2159138297|
+author name:Weishan Zhang
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:2152652428|
+]
+abstract:big|named|introduces|data|numerous|objects|cloud|research|analytics|cloud|lifecycle|evaluation|loss|view|optimize|context|reliability|preliminary|representative|guide|inevitable|still|researchers|made|work|engineering|quality|lack|efforts|practitioners|involved|studies|uncertainty|analyze|present|bda|building|usefulness|two|structured|applying|address|set|identify|implementing|perform|control|systematic|opportunities|way|conceptual|existing|help|performance|framework|application|applications
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Application engineering|Data science|Computer science|Context model|Analytics|Big data|Conceptual framework|Semantics|Cloud testing|Cloud computing
+references:1595687452|1974477293|1974648336|1980720402|1982363918|2002667482|2003829707|2006283938|2011023286|2021446094|2022273053|2027860831|2029324211|2030792561|2031728889|2035129552|2064349969|2077032037|2079756993|2082839002|2086392024|2092462284|2105234520|2110173188|2114267746|2114896543|2121977387|2125364593|2137738699|2155909634|2158056686|2160121678|2173213060|2333236502|2395310706|2740606709
+
+
+id:1974187036
+title:Object-oriented Sokoban solver: A serious game project for OOAD and AI education
+year:2014
+author information:[
+author name:Zheng Li
+author organization:School of Computer Science, ANU and NICTA, Canberra, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2325040185|
+author name:Shayne Flint
+author organization:Australian National University
+author id:2132927618|
+author name:Ramesh Sankaranarayana
+author organization:Australian National University
+author id:317343192|
+]
+abstract:education|projects|sokoban|materials|would|games|shared|using|researchers|work|investigating|scratch|analysis|intelligence|system|science|educators|shared|numerous|works|students|teaching|objectoriented|worth|literature|computer|encourage|viewed|reported|projects|may|could|one|following|learning|many|readytouse|considering|help|reuse|future|inspire|courses|available|project|used|areas|shows|post|documented|implement|different|courseware|solver|development|educational|individual|resource|proposes|apis|difficult|sharing|experiences|activities|relevant|materials|beneficial|supposed|playing|facilitate|game|purpose|crucial|platform|paper|exposes|design|identify|assignment|assistant|resources|also|realized|serious|artificial|corresponding|various|suitable|accumulating
+venue name:Frontiers in Education Conference
+venue id:2622795077
+venue type:C
+document type:Conference
+study fields:Game programming|Engineering management|Computer science|Video game development|Game design|Game design document|Solver|Game Developer|Documentation|Multimedia|Game development tool
+references:1965301000|1966978694|1991572458|2063517061|2146201388|2149718174
+
+
+id:1989908308
+title:Impact of Product Complexity on Actual Effort in Software Developments: An Empirical Investigation
+year:2014
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, NICTA  ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2727045277|
+author name:Ye Yang
+author organization:Institute of Software, Beijing, China
+author id:2100273499|
+]
+abstract:play|tries|projects|software|trend|dataset|approach|observed|counterintuitive|experiment|inevitably|weakening|reduce|models|capability|correlation|programmer|ie|mined|complexity|consequents|study|role|methods|given|association|respectively|phenomenon|two|result|increases|capability|study|noise|projects|witnessed|mine|product|particularly|namely|positive|data|conditions|effort|abovementioned|antecedent|constant|concerned|effort|seven|rules|main|experience|whether|modified|potential|actual|development|typically|doubt|particular|mining|conflicting|prediction|software|assume|applied|rule|effort|investigate|interactions|analyst|negative|pruning|influences|transformed|coincidence|human|organic|practical|increase|suggested|uses
+venue name:Australian Software Engineering Conference
+venue id:1148944599
+venue type:C
+document type:Conference
+study fields:Analysis effort method|Personal software process|Systems engineering|Software quality analyst|Computer science|Software metric|Empirical process (process control model)|Software construction|Software development|Software sizing
+references:239024017|1672881793|2004471480|2017891410|2057892407|2066459581|2081575303|2085532865|2097906042|2125120941|2128256997|2142827986|2145001598|2154774499|2170602715
+
+
+id:2001909887
+title:Early Observations on Performance of Google Compute Engine for Scientific Computing
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, NICTA  ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2325040185|
+author name:Rajiv Ranjan
+author organization:ICT Center, ANU, Canberra, ACT, Australia
+author id:2005115202|
+author name:Miranda Zhang
+author organization:Sch. of Comput. Sci., ANU, Canberra, ACT, Australia
+author id:2302947166|
+]
+abstract:benchmarking|claimed|evaluators|experimental|evaluation|encouraged|case|google|dealing|understand|require|benchmark|highperformance|supplement|science|suit|amazon|compare|methodology|gce|fundamental|emerged|capability|found|vmbased|based|compared|established|computationally|replicate|business|may|following|services|possible|academia|considering|single|help|advantages|capabilities|reveal|environments|available|analyses|problems|different|results|potential|computing|engine|intensive|new|evaluation|experiment|widely|accepted|real|disk|elementary|earlystage|support|little|solving|scientific|show|frequent|computing|public|parallel|ready|studies|threats|applying|recently|gce|yet|also|although|followed|better|performance|cloud|compute|suitable|strategy|applications
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Data science|Computer science|Computational science|Throughput|Benchmark (computing)|Benchmarking|Cloud computing
+references:307918303|1984483249|2035436728|2048878264|2091647805|2091765165|2100618668|2118579700|2130062566|2131646073|2140953443|2157456970|2158114234|2161796765|2283571372
+
+
+id:2010409848
+title:Facing Service-Oriented System Engineering challenges: An organizational perspective
+year:2010
+author information:[
+author name:Zheng Li
+author organization:NICTA and UNSW, School of CSE, Sydney, Australia
+author id:2311464621|
+author name:He Zhang
+author organization:NICTA
+author id:2118256005|
+author name:Liam OBrien
+author organization:NICTA and ANU, Research School of ISE, Canberra, Australia
+author id:2727045277|
+]
+abstract:numerous|areas|identified|inevitably|four|broad|usually|preliminary|goals|organizational|still|successfully|past|work|system|applicability|theory|achieve|reusability|industry|emerged|turn|scattered|challenges|current|necessary|soa|efficient|topics|one|many|opportunities|help|meet|organization|instance|suffering|sose|research|vitality|find|area|development|imply|solutions|constrain|important|relevant|topic|serviceoriented|justifies|facilitate|challenges|relieving|applied|effort|area|system|engineering|paper|scope|spoil|introduce|although|approaches|decreasing|efficiency|existing|corresponding|sose|treating
+venue name:Service-Oriented Computing and Applications
+venue id:1192551523
+venue type:C
+document type:Conference
+study fields:Computer science|Engineering management|Total quality management|Quality of service|Organizational architecture|Knowledge management|Service oriented systems|Organizational theory|Software architecture|Service-oriented architecture|Reusability|Distributed computing
+references:1969224933|2028899288|2097565277|2111632938|2127164543|2136277350
+
+
+id:2035436728
+title:On a Catalogue of Metrics for Evaluating Commercial Cloud Services
+year:2012
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:CSIRO eResearch, ANU, Canberra, ACT, Australia
+author id:2727045277|
+author name:He Zhang
+author organization:Sch. of CSE, UNSW, Sydney, NSW, Australia
+author id:2118256005|
+author name:Rainbow Cai
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2127832323|
+]
+abstract:practice|benchmarking|collected|discussion|continually|evaluation|using|computing|method|evaluation|considering|work|analysis|benchmark|selection|following|evaluating|metrics|role|given|facto|choosing|decision|services|systematic|systematic|future|increasing|adopted|essential|de|commercial|paper|used|research|features|shown|different|area|making|literature|prerequisite|significant|employing|catalogue|supplements|costbenefit|facilitate|best|review|arranged|implementations|amount|plays|constructed|also|existing|service|cloud|suitable|essentially|services|work
+venue name:Grid Computing
+venue id:1178622071
+venue type:C
+document type:Conference
+study fields:Computer science|Implementation|Software metric|Distributed database|Web service|Database|Benchmark (computing)|Benchmarking|Scalability|Cloud computing
+references:1496940124|1522199185|1562721074|1918699760|1974555555|1977367431|1985229168|1991662581|2007193518|2016590858|2028383826|2049791239|2080761795|2091647805|2091765165|2098533231|2099334191|2103128343|2104171511|2109768544|2118579700|2121884932|2126274497|2130062566|2131056547|2131646073|2132497824|2135575903|2136717145|2140953443|2141782735|2143805127|2147623910|2149318736|2155545841|2156165081|2157456970|2160402951|2160777802|2161983534|2163349370|2169328938|2171707251|2283571372|2407464957|2586514301
+
+
+id:2048878264
+title:CEEM: A Practical Methodology for Cloud Services Evaluation
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, NICTA  ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2325040185|
+author name:He Zhang
+author organization:University of East London
+author id:2118256005|
+]
+abstract:evaluators|experimental|required|evaluation|design|number|inevitably|guidelines|preliminary|guide|knowledge|google|still|preexperimental|convincing|evaluation|conclusions|benefit|traditional|following|methodology|appengine|evaluating|lessons|methodology|achieve|given|comes|direct|computing|experiments|specified|referring|customers|rational|established|may|services|domain|increasing|sound|available|results|python|evaluation|experiment|runtime|summarizing|real|experiences|lack|proposed|beneficial|crucial|show|candidate|computing|implementations|make|direction|cost|practical|performing|generic|existing|corresponding|service|cloud|suitable|borrowing|suggestions|services|providers|methodology|base
+venue name:World Congress on Services
+venue id:2621821323
+venue type:C
+document type:Conference
+study fields:Services computing|Data mining|Computer science|Knowledge-based systems|Implementation|Cost–benefit analysis|Knowledge base|Python (programming language)|Database|Benchmark (computing)|Cloud computing
+references:170143881|1918699760|1977367431|2003229135|2019548512|2026289525|2027568113|2035436728|2091765165|2104171511|2118579700|2121884932|2125364593|2131646073|2132497824|2136717145|2140953443|2147623910|2158114234|2159928435|2161796765|2162739315|2163349370|2407464957
+
+
+id:2091357070
+title:Towards understanding the runtime configuration management of do-it-yourself content delivery network applications over public clouds
+year:2014
+author information:[
+author name:Zheng Li
+author organization:Australian National University
+author id:2940449517|
+author name:Karan Mitra
+author organization:Lulca University of Technol
+author id:2237435652|
+author name:Miranda Zhang
+author organization:CSIRO Computational Informatics, Canberra, Australia
+author id:2302947166|
+author name:Rajiv Ranjan
+author organization:CSIRO Computational Informatics
+author id:2005115202|
+author name:Dimitrios Georgakopoulos
+author organization:CSIRO Computational Informatics
+author id:2252115663|
+author name:Albert Y. Zomaya
+author organization:Sydney university
+author id:698114488|
+author name:Liam O’Brien
+author organization:Geoscience, Australia
+author id:2325040185|
+author name:Shengtao Sun
+author organization:Yanshan University
+author id:2778951608|
+]
+abstract:big|education|shift|anywhere|without|evaluation|complex|understanding|agreements|generation|understand|propose|benchmark|clouds|feasibility|concepts|validating|anyone|driven|methodology|level|accessible|experiments|emerged|distribution|world|distribute|based|enables|enduser|abstract|one|distribution|store|many|contentdriven|multimedia|efficiently|data|several|manner|interactive|new|including|need|resource|domains|runtime|engineering|proposed|ondemand|owning|provision|vm|configurations|present|support|paradigm|configuration|classes|storage|content|computing|operations|servers|related|provisioned|infrastructures|public|applications|quantifying|service|expensive|factors|performance|conduct|cloud|methodology|applications
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Content delivery network|Computer science|Server|Provisioning|Configuration management|Multimedia|Big data|Interactive media|Personalization|Distributed computing|Cloud computing
+references:1522199185|1844577137|1918699760|1963612620|1987808887|2003202915|2019548512|2026289525|2034840791|2035436728|2048878264|2053820782|2063206201|2077827041|2091765165|2109538020|2118579700|2121651311|2121884932|2123500032|2125364593|2132497824|2135575903|2136717145|2140953443|2143805127|2149318736|2154026824|2154797012|2159928435|2161796765|2163349370|2406712097|2407464957
+
+
+id:2129489240
+title:A Qualitative Approach to Effort Judgment for Web Service Composition Based SOA Implementations
+year:2011
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, NICTA  ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Sch. of Comput. Sci., CSIRO, Canberra, ACT, Australia
+author id:2727045277|
+]
+abstract:increasingly|projects|numerous|construct|type|entire|effortoriented|viewing|wsc|problem|qualitative|borrows|narrow|algorithm|based|still|benefiting|classification|assisted|system|web|rules|become|mechanistic|eventually|availability|matrix|composition|perspective|implementations|together|set|soa|approaches|checklist|project|used|judgment|different|realize|divideandconquer|individual|practice|significant|estimation|wscs|judging|effortrelated|facilitate|scores|effort|paper|implementations|types|limited|wsc|implementation|qualitatively|approaches|generic|factors|service|various|strategy|assign
+venue name:Advanced Information Networking and Applications
+venue id:1187330200
+venue type:C
+document type:Conference
+study fields:Checklist|Web service composition|Computer science|Implementation|Divide and conquer algorithms|Web service|Service-oriented architecture|Distributed computing
+references:3258811|239024017|569171339|1518845114|1519970947|1522375637|1522428367|1526333779|1564775810|1584945970|1592382863|1600000119|1602569358|1659289657|1695350145|1880896921|1925139028|1962632332|1963833910|1969224933|1973711420|1977755853|1978656444|1981891763|1982619858|1994410397|1994661182|1998661875|2001440509|2009403983|2012024302|2021975707|2024880014|2026578398|2028628502|2032859875|2040728812|2043137938|2045891420|2052110318|2062047994|2064181934|2070402135|2074555942|2082969037|2084479370|2087692114|2092388154|2097094515|2097565277|2100127921|2103303016|2105362296|2111632938|2114937653|2116445209|2118373120|2118671900|2119583288|2124116645|2125809971|2125998891|2126385963|2126728257|2127164543|2127741023|2130153849|2133442842|2134102609|2134588905|2135452472|2135632737|2139142329|2139357103|2141197195|2142660860|2142856411|2146787075|2150751165|2151355086|2151511199|2151529977|2155969689|2157501505|2158114326|2162411541|2162483859|2162598472|2163040665|2165786725
+
+
+id:2131743800
+title:Circumstantial-evidence-based effort judgement for web service composition-based SOA implementations
+year:2012
+author information:[
+author name:Zheng Li
+author organization:Australian National University
+author id:2940449517|
+author name:Liam OBrien
+author organization:
+author id:2727045277|
+author name:He Zhang
+author organization:University of New South Wales
+author id:2118256005|
+]
+abstract:increasingly|practice|expert|projects|evidence|numerous|entire|effortoriented|forensic|viewing|wsc|suffer|problem|would|qualitative|supplementary|narrow|different|comparison|individual|method|proposes|divideandconquer|significant|wscbased|classification|attention|estimation|wscs|system|science|proposals|become|mechanistic|judgement|challenges|achieve|concept|circumstantialevidencebased|effort|project|worth|paper|web|composition|perspective|implementations|particularly|set|soa|may|identify|approaches|apply|wsc|implementation|approaches|generic||factors|considering|service|various|borrow|strategy
+venue name:International Journal of Space-Based and Situated Computing
+venue id:2764966908
+venue type:J
+document type:Journal
+study fields:Data science|Web service composition|Computer science|Judgement|Knowledge management|Implementation|Analogy|Divide and conquer algorithms|Circumstantial evidence|Service-oriented architecture
+references:239024017|1518845114|1562843014|1925139028|1963833910|1982619858|2009752323|2010409848|2026578398|2028628502|2071644147|2097094515|2103303016|2118671900|2126728257|2127164543|2129489240|2134679860|2141197195|2151355086|2151511199|2162411541|2165786725
+
+
+id:2140953443
+title:Towards a Taxonomy of Performance Evaluation of Commercial Cloud Services
+year:2012
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:CSIRO eResearch, ANU, Canberra, ACT, Australia
+author id:2727045277|
+author name:Rainbow Cai
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2127832323|
+author name:He Zhang
+author organization:Sch. of CSE, UNSW, Sydney, NSW, Australia
+author id:2118256005|
+]
+abstract:increasingly|introduces|taxonomy|supply|continually|required|evaluation|inevitably|arranging|communication|context|severely|promising|computing|evaluation|profile|comprehension|selection|cloudrelated|atomic|analyze|evaluating|become|numerous|experiments|evaluationrelated|two|seen|literature|confusing|implementations|composing|could|one|started|systematic|inaccurate|practices|help|elements|dimensions|commercial|employed|details|area|new|adapt|accepted|often|proposed|costbenefit|analysis|decomposition|general|computing|public|paper|along|provider|design|spoil|smooth|industry|constructed|standardize|existing|performance|corresponding|cloud|interfere|services|providers
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Data science|World Wide Web|Computer science|Implementation|Cloud provider|Cloud computing security|Throughput|Distributed database|Web service|Distributed computing|Cloud computing|Scalability
+references:1918699760|1977367431|2070921605|2080761795|2088961263|2091647805|2100618668|2104171511|2121884932|2131646073|2135575903|2143805127|2147623910|2149318736|2160402951|2161983534|2162411541
+
+
+id:2158114234
+title:A factor framework for experimental design for performance evaluation of commercial cloud services
+year:2012
+author information:[
+author name:Zheng Li
+author organization:School of CS NICTA and ANU Canberra, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Research School of CS CECS, ANU Canberra, Australia
+author id:2325040185|
+author name:He Zhang
+author organization:NICTA
+author id:2118256005|
+author name:Rainbow Cai
+author organization:Division of Information Information Services, ANU Canberra, Australia
+author id:2127832323|
+]
+abstract:commercial|modeling|called|concerned|evaluators|experimental|taxonomy|evaluation|would|stateofthepractice|capsules|new|evaluation|proposes|prerequisite|lack|take|selection|studies|beneficial|experiments|evaluating|costbenefit|parameters|seems|facilitate|role|given|crucial|experiments|turn|computing|diversity|candidate|intuitively|paper|design|customers|factor|based|direction|evaluations|plays|previous|services|systematic|approaches|people|designing|factors|existing|help|performance|framework|currently|service|cloud|suitable|randomly|services|providers|account
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Data science|Services computing|World Wide Web|Computer science|Cloud testing|Distributed computing|Design of experiments|Cloud computing
+references:622321019|1522199185|1562721074|1918699760|2028383826|2035436728|2080761795|2091647805|2100618668|2103128343|2104171511|2109768544|2121884932|2130062566|2140953443|2141782735|2143805127|2147623910|2160402951|2162411541|2407464957|2586514301
+
+
+id:2173264658
+title:Autonomic deployment decision making for big data analytics applications in the cloud
+year:2017
+author information:[
+author name:Qinghua Lu
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:1971717091|
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:Weishan Zhang
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:2152652428|
+author name:Laurence T. Yang
+author organization:St Xavier University
+author id:2662608040|
+]
+abstract:big|named|scalability|constraints|problem|terms|model|evaluated|algorithm|happen|still|using|specify|propose|bda|autonomic|functional|utility|accommodate|complicated|decisions|deployment|maximises|decision|jobs|information|constraint|open|novel|data|research|analytics|solution|implement|different|programming|given|making|proposes|runtime|changes|affected|proposed|overall|issue|cloud|critical|changes|redeployed|deciding|paper|design|studies|working|make|cost|satisfying|although|way|performance|application|various|cloud|suitable|applications
+venue name:Soft Computing
+venue id:1123077274
+venue type:C
+document type:Conference
+study fields:Middleware|Autonomic computing|Software deployment|Computer science|Artificial intelligence|Distributed computing|Constraint programming|Deployment diagram|Big data|Database|Machine learning|Cloud computing|Scalability
+references:99524523|1974477293|1974648336|1975480691|1990911977|2002667482|2003829707|2006283938|2030481825|2031728889|2035129552|2039723019|2044372531|2079756993|2082839002|2086392024|2092462284|2105234520|2108643692|2113376669|2114267746|2121977387|2126119258|2143201333|2159875930|2165065735|2169509722
+
+
+id:2173369691
+title:On a Feedback Control-Based Mechanism of Bidding for Cloud Spot Service
+year:2015
+author information:[
+author name:Zheng Li
+author organization:Department of Electrical and Information Technology
+author id:2311464621|
+author name:Maria Kihl
+author organization:Department of Electrical and Information Technology
+author id:469251081|
+author name:Anders Robertsson
+author organization:Department of Automatic Control
+author id:2110156996|
+]
+abstract:straightforward|considered|understand|constraints|building|feedback|gradually|upgraded|would|price|validation|reduce|using|issue|refine|economy|propose|system|reserved|supplement|spot|future|bids|trading|complexity|comparisons|tradeoff|result|current|unlike|based|mechanism|set|could|simulations|help|regulations|complicated|comparable|novel|fullfledged|bidding|use|tedious|historical|shows|marketdriven|time|controlbased|decisions|potential|five|new|static|strategies|conveniently|difficult|conducted|ecosystem|blackbox|significant|employing|market|take|external|ondemand|success|option|comprehensively|costeffective|according|trace|rate|consumers|rationality|make|human|fuzzy|applying|arccotangentfunctiontype|determine|previous|perform|control|although|intuitive|way|imitates|obtains|better|service|activities|cloud|suitable|time|errors|account
+venue name:IEEE International Conference on Cloud Computing Technology and Science
+venue id:1159170270
+venue type:C
+document type:Conference
+study fields:Spot contract|Computer science|Fuzzy logic|Stochastic process|Operations research|Adaptive control|Bidding|Cost accounting|System model|Distributed computing|Cloud computing
+references:120372266|202046373|1963910368|1987659801|2013275264|2024506190|2039596445|2061849602|2063241579|2088983345|2095808178|2098424235|2098812784|2099393515|2111224333|2116405180|2120964770|2169551827
+
+
+id:2177345046
+title:Spot Pricing in the Cloud Ecosystem: A Comparative Investigation
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:He Zhang
+author organization:Nanjing University
+author id:2118256005|
+author name:Liam O’Brien
+author organization:Geoscience, Australia
+author id:2325040185|
+author name:Shu Jiang
+author organization:Nanjing University
+author id:2564923250|
+author name:You Zhou
+author organization:Nanjing University
+author id:2431034474|
+author name:Maria Kihl
+author organization:Lund University
+author id:469251081|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+]
+abstract:spot|considered|empirical|discussions|delivered|building|identified|terms|review|four|slr|easily|enter|limitations|promising|still|method|indexed|researchers|work|understand|economy|community|analysis|practitioners|supplement|strongly|spot|primary|role|hesitating|scheme|experiments|literature|exploitation|deployable|electronic|reported|indicate|emerging|compared|advocates|summarized|systematic|domain|help|libraries|market|report|theories|fullfledged|evidence|findings|synthesize|employed|revenue|either|shows|major|marketdriven|academic|comparison|conflict|resource|conducted|ecosystem|significant|published|sustainability|lack|market|relevant|conflicting|spotprice|systematically|overall|fixed|costbenefit|seems|collect|benefits|facilitate|generation|investigate|studies|consumers|types|aims|practical|plays|relieve|aforementioned|perform|also|although|distinguished|better|fixedprice|favor|cloud|opinions|pricing|providers
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Revenue|Systematic review|Systems engineering|Software engineering|Computer science|Exploitation of natural resources|Information engineering|Sustainability|Environmental economics|Empirical research|Spot market|Cloud computing
+references:99159337|120372266|176621639|202046373|1463932917|1498562056|1504538138|1512532466|1552783944|1569944010|1590383004|1889449874|1968700631|1969939902|1974285066|1975516699|1977172269|1979846742|1992577150|1999535688|2006317133|2013275264|2024506190|2026751074|2030522107|2036585776|2039596445|2040678942|2063241579|2087111544|2088983345|2095808178|2098424235|2099393515|2111224333|2116131875|2116405180|2118328848|2120964770|2122108146|2125053293|2133933998|2137223492|2139678181|2150112621|2151020819|2154158105|2154755835|2155758559|2156036430|2160016350|2161796765|2162331430|2169024569|2169551827|2171107090|2487732989|2952050344
+
+
+id:2241665759
+title:Software Cost Estimation Framework for Service-Oriented Architecture Systems Using Divide-and-Conquer Approach
+year:2010
+author information:[
+author name:Zheng Li
+author organization:Sch. of Comput. Sci.  Eng., NICTA  UNSW, Sydney, NSW, Australia
+author id:2311464621|
+author name:Jacky Keung
+author organization:Sch. of Comput. Sci.  Eng., NICTA  UNSW, Sydney, NSW, Australia
+author id:2344878386|
+]
+abstract:modeling|software|separate|regulate|developing|building|research|defines|serviceoriented|four|complex|different|inadequate|based|development|divideandconquer|separately|architecture|dealing|work|satisfied|proposes|difficult|published|lack|software|estimation|traditional|estimation|directions|soabased|serviceoriented|metrics|sizing|switching|framework|complexity|systems|subproblems|given|according|development|effort|respectively|paper|due|cost|address|soa|within|implementation|also|approaches|requirement|help|framework|corresponding|future|organizations|simplify|novel|existing
+venue name:Service Oriented Software Engineering
+venue id:1135185882
+venue type:C
+document type:Conference
+study fields:Computer science|Real-time computing|Theoretical computer science|Cost estimate|Software|Software metric|Software architecture|Software measurement|Service-oriented architecture|Software sizing|Software development|Distributed computing
+references:2040728812|2087692114|2118671900|2119583288|2158205047|2162598472
+
+
+id:2309176924
+title:DoKnowMe: Towards a Domain Knowledge-driven Methodology for Performance Evaluation
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Lund University
+author id:2940449517|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2727045277|
+author name:Maria Kihl
+author organization:Lund University
+author id:469251081|
+]
+abstract:autoscaler|software|evaluators|focus|experimental|evaluation|four|plan|guide|validation|portions|knowledge|promising|domainspecific|distinguish|methodologies|distributed|indicators|propose|quality|even|systems|methodology|given|objectoriented|computer|science|inspired|key|validate|strategies|could|one|abstract|services|positive|domain|integrate|framework|logic|standard|use|predefined|adhoc|knowledgedriven|different|five|assurance|engineering|develop|replacing|lack|relevant|improve|name|software|domain|seems|concept|computing|common|scope|considers|effectiveness|also|specific|generic|doknowme|analogy|instantiated|performance|cloud|methodology
+venue name:Measurement and Modeling of Computer Systems
+venue id:1131589359
+venue type:C
+document type:Conference
+study fields:Software engineering|Domain knowledge|Computer science|Software quality assurance|Software|Information engineering|Analogy|Computing systems|Management science|Distributed computing|Cloud computing
+references:2035436728|2039723019|2040924693|2044917105|2049791239|2061040095|2070921605|2082256810|2088268898|2136403998|2152845574|2158114234|2161796765|2162739315|2407464957|2952050344
+
+
+id:2331240233
+title:MapReduce Job Optimization: A Mapping Study
+year:2015
+author information:[
+author name:Qinghua Lu
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:1971717091|
+author name:Liming Zhu
+author organization:NICTA
+author id:2159138297|
+author name:He Zhang
+author organization:Nanjing University
+author id:2118256005|
+author name:Dongyao Wu
+author organization:NICTA
+author id:2224495527|
+author name:Zheng Li
+author organization:Department of Electrical and Information Technology
+author id:2311464621|
+author name:Xiwei Xu
+author organization:NICTA
+author id:2463108459|
+]
+abstract:big|cluster|considered|optimization|guidelines|model|knowledge|based|still|mapping|identifies|work|understand|classified|opportunities|practitioners|become|study|current|maturity|implementations|compared|set|jobs|systematic|gaps|stage|concludes|characterization|standard|data|generates|research|mapreduce|communication|selected|taxonomically|need|solutions|widely|optimized|conducted|published|lack|especially|improve|job|framework|classify|crossdata|crucial|papers|analytics|paper|supporting|early|rack|aims|identify|attentions|also|efficiency|existing|optimization|paid|base
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Data science|Systematic review|Computer science|Implementation|Knowledge base|Big data
+references:2025045787|2044375292|2084722535|2110173188|2118328848|2128961774|2173213060
+
+
+id:2343467702
+title:On the Communication Variability Analysis of the NeCTAR Research Cloud System
+year:2018
+author information:[
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2325040185|
+author name:He Zhang
+author organization:Nanjing University
+author id:2118256005|
+author name:Muhammad Ali Babar
+author organization:University Adelaide
+author id:2168643441|
+author name:Albert Y. Zomaya
+author organization:Sydney university
+author id:698114488|
+author name:Lizhe Wang
+author organization:China University of Geoscience
+author id:2137263951|
+]
+abstract:vary|quickly|supply|decided|evaluation|national|still|work|evaluation|templates|understand|monitoring|resources|frequently|operated|research|consuming|methodologybased|current|repeatable|unlike|national|empirically|demonstrated|implementations|scholars|within|could|one|tools|procedure|services|nectar|australian|logic|complete|replicated|comparable|open|data|available|project|heterogeneous|repeated|research|mainly|employed|shows|throughput|communication|five|nodes|results|computational|evaluation|created|might|oneoff|experiment|equipment|focused|facilitate|cloud|comprehensively|costeffective|part|investigate|eresearch|network|implementations|since|studies|backend|hard|emphasize|infrastructural|resources|technologies|although|recorded|existing|performance|collaboration|infrastructure|cloud|services|significantly
+venue name:IEEE Systems Journal
+venue id:95999327
+venue type:J
+document type:Journal
+study fields:Data science|Virtualization|Computer science|Implementation|Nectar|Heterogeneous network|Throughput|Cloud testing|Benchmark (computing)|Cloud computing
+references:1918699760|1977367431|2016590858|2028383826|2035436728|2048878264|2080761795|2091647805|2091765165|2096452089|2100618668|2121884932|2125364593|2130062566|2131646073|2136717145|2140953443|2143805127|2156165081|2158114234|2160402951|2161946648|2586514301|2902245301|2952050344
+
+
+id:2354216949
+title:Using a Predator-Prey Model to Explain Variations of Cloud Spot Price
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:William Tärneberg
+author organization:Lund University
+author id:230475898|
+author name:Maria Kihl
+author organization:Lund University
+author id:469251081|
+author name:Anders Robertsson
+author organization:Lund University
+author id:2110156996|
+]
+abstract:straightforward|considered|simulation|invisible|type|approach|decided|would|largely|price|complex|understanding|model|enter|simulate|validation|promising|reduce|based|using|work|demand|reserved|spot|trading|traces|complexity|study|scheme|variations|inspired|resourceefficient|unlike|mechanism|regular|strategies|could|reverse|market|complicated|information|reveal|instance|findings|developed|suggests|shown|marketdriven|results|static|visible|resource|need|predatorprey|patterns|activities|respect|market|especially|ondemand|hesitate|basic|behind|costeffective|investigate|interactions|consumers|backend|make|practical|implementation|although|understanding|service|activities|cloud|essentially|pricing|providers|methodology
+venue name:International Conference on Cloud Computing and Services Science
+venue id:1139008316
+venue type:C
+document type:Conference
+study fields:Spot contract|Computer science|Reverse engineering|Information engineering|Distributed computing|Spot market|Cloud computing
+references:7528525|1877703047|1996526838|2013275264|2039596445|2044917105|2088520134|2095808178|2098812784|2106698002|2111224333|2113139643|2125053293|2160121678|2161629069|2163563705|2169551827|2177345046
+
+
+id:2528251263
+title:Evaluation of Data Mining Tools for Telecommunication Monitoring Data Using Design of Experiment
+year:2016
+author information:[
+author name:Samneet Singh
+author organization:citaliceConcordia Universityc/italice
+author id:2228635439|
+author name:Yan Liu
+author organization:citaliceConcordia Universityc/italice
+author id:2461102999|
+author name:Wayne Ding
+author organization:Ericsson Canada Inc
+author id:2528851179|
+author name:Zheng Li
+author organization:Department of Electrical and Information Technology
+author id:2641156516|
+]
+abstract:data|year|network|run|collected|replicating|trial|years|consist|evaluation|number|automation|experiment|qualitative|documented|context|per|workflows|tasks|workflow|frames|insights|mining|monitoring|analysis|tool|users|provide|following|principles|evaluate|requires|stations|average|facilitate|study|workflows|datasets|cell|two|tools|example|paper|systems|provides|design|observations|telecom|process|six|forecasting|one|perform|mobile|telecommunication|data|connected|tools|conduct|management|quantitative|clustering|time|presents|base
+venue name:International Congress on Big Data
+venue id:2626150945
+venue type:C
+document type:Conference
+study fields:Data mining|Base station|Telecommunications|Computer science|Automation|Cellular network|Cluster analysis|Workflow|Big data|Workflow management system|Database|Design of experiments
+references:622321019|2075653873|2077930480|2127282486|2136403998|2159928435|2309176924
+
+
+id:2537816025
+title:Building an Expert System for Evaluation of Commercial Cloud Services
+year:2012
+author information:[
+author name:Zheng Li
+author organization:Sch. of CS, NICTA  ANU, Canberra, ACT, Australia
+author id:2940449517|
+author name:Liam OBrien
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2727045277|
+author name:Rainbow Cai
+author organization:Div. of Inf. Inf. Services, ANU, Canberra, ACT, Australia
+author id:2127832323|
+author name:He Zhang
+author organization:NICTA
+author id:2118256005|
+]
+abstract:increasingly|commercial|expert|addresses|becoming|data|conceptually|makings|evaluation|inevitably|context|guidelines|sustainable|knowledge|obtain|give|new|using|computing|like|conveniently|proposes|analysis|experiences|users|reusable|traditional|efforts|system|evaluating|experiments|costbenefit|facilitate|challenges|computing|paper|validated|provider|customers|based|make|emerging|compared|industry|decision|supplied|implementing|useruncontrollable|services|rapidlychanging|commercial|crucial|appear|existing|exploring|cloud|able|suggestions|essentially|services|accumulated
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Data science|Services computing|World Wide Web|Mathematical optimization|Computer science|Expert system|Cost–benefit analysis|Cloud provider|Cloud computing security|Web service|Computing systems|Cloud computing
+references:1977367431|1991662581|2028383826|2035436728|2096352448|2126385963|2131646073|2132497824|2135575903|2147623910|2160777802|2162411541|2902245301
+
+
+id:2612008866
+title:Performance Overhead Comparison between Hypervisor and Container Based Virtualization
+year:2017
+author information:[
+author name:Zheng Li
+author organization:Department of Electrical and Information Technology
+author id:2311464621|
+author name:Maria Kihl
+author organization:Department of Electrical and Information Technology
+author id:469251081|
+author name:Qinghua Lu
+author organization:CHINA UNIVERSITY OF PETROLEUM
+author id:1971717091|
+author name:Jens A. Andersson
+author organization:Department of Electrical and Information Technology
+author id:2121824270|
+]
+abstract:container|vary|evaluation|would|docker|terms|exhibit|recent|promising|overhead|lower|understand|standalone|come|impacts|baseline|quality|featurebyfeature|difference|two|speed|receiving|current|popularity|case|particularly|could|lead|help|machine|basis|undoubtedly|alternative|transaction|overheads|use|findings|solution|starts|results|jobtojob|virtualization|resource|solutions|widely|basis|containers|higher|virtual|show|investigate|storage|fundamentally|negative|relies|related|qos|since|physical|contrary|every|containerbased|types|hypervisorbased|technologies|also|although|technology|performance|cloud|attention|along|services
+venue name:Advanced Information Networking and Applications
+venue id:1187330200
+venue type:C
+document type:Conference
+study fields:Virtualization|Storage virtualization|Service virtualization|Virtual machine|Computer science|Hypervisor|Computer network|Real-time computing|Full virtualization|Data virtualization|Hardware virtualization|Operating system|Embedded system
+references:1519061084|1623427068|1959671196|2023953679|2029835570|2056198910|2075174112|2104171511|2105534358|2106317613|2125187067|2140953443|2152845574|2158114234|2159928435|2309176924
+
+
+id:2734204574
+title:A Survey on Modeling Energy Consumption of Cloud Applications: Deconstructio
+year:2017
+author information:[
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:Selome Tesfatsion
+author organization:Umea university
+author id:2319217087|
+author name:Saeed Bastani
+author organization:Lund University
+author id:2267984249|
+author name:Ahmed Ali-Eldin
+author organization:Umea university
+author id:2052726972|
+author name:Erik Elmroth
+author organization:Umea University
+author id:231588280|
+author name:Maria Kihl
+author organization:Lund University
+author id:469251081|
+author name:Rajiv Ranjan
+author organization:Newcastle University
+author id:2005115202|
+]
+abstract:deconstructed|modeling|vary|objects|stateoftheart|approach|realworld|identified|would|terms|combinational|directly|usually|energy|models|environmental|dealing|investigating|understand|impacts|even|analyze|reality|valuable|consumption|complexity|influential|given|current|together|deployment|synthesizing|necessary|workload|possible|domain|heterogeneity|comprehending|help|future|unified|complicated|organized|debates|complete|reveal|observe|research|works|employed|overlaps|different|reflection|tradeoffs|widely|difficult|runtime|relevant|systematically|modeled|abstracting|facilitate|investigate|factors|computing|execution|processes|characteristics|abstraction|clear|multiple|consumption|rationalized|factors|notations|existing|environment|application|cloud|weave
+venue name:arXiv: Distributed, Parallel, and Cluster Computing
+venue id:2595101014
+venue type:J
+document type:Journal
+study fields:Data science|Energy current|Notation|Deconstruction|Abstraction|Workload|Computer science|Deployment environment|Energy consumption|Management science|Distributed computing|Cloud computing
+references:60808401|104604562|154489020|182605591|658207359|999812600|1558442576|1558643512|1577665009|1579549595|1594873468|1608597851|1818454553|1893110315|1940638606|1966769064|1975945238|1985031560|1985371230|1988864602|1989639150|1990263103|1991238593|1998344855|2003506144|2006569667|2007777261|2010302594|2012009317|2012423440|2014442324|2016726904|2022706374|2023380813|2025658534|2031577538|2032552610|2034146987|2042495650|2047412892|2053415010|2056510622|2057087550|2064124275|2065088268|2077422038|2077832573|2080017588|2083663918|2085429458|2085682657|2087214956|2088710327|2089227674|2101903803|2105101597|2109189940|2109558263|2110406346|2118374044|2118651798|2124146147|2125271310|2129636357|2131646073|2131770770|2132178883|2133933998|2134807578|2139469116|2142799634|2145901239|2145904766|2147083032|2147283277|2151587416|2152845574|2158114234|2160042899|2161796765|2163596240|2177343965|2274593150|2284351912|2285254901|2293868092|2294081625|2294773067|2296051921|2315342500|2555482609|2952050344
+
+
+id:2788361190
+title:A multi-layered performance analysis for cloud-based topic detection and tracking in Big Data applications
+year:2018
+author information:[
+author name:Meisong Wang
+author organization:Australian Nat. University
+author id:2144997406|
+author name:Prem Prakash Jayaraman
+author organization:Swinburne University
+author id:2024397489|
+author name:Ellis Solaiman
+author organization:Newcastle University
+author id:1058994220|
+author name:Lydia Y. Chen
+author organization:IBM Zurich Research Laboratory, Switzerland
+author id:2171217820|
+author name:Zheng Li
+author organization:Lund University
+author id:2311464621|
+author name:Song Jun
+author organization:Chinese University of Geosciences
+author id:2788362009|
+author name:Dimitrios Georgakopoulos
+author organization:Swinburne University
+author id:2948439120|
+author name:Rajiv Ranjan
+author organization:China University of Geoscience
+author id:2005115202|
+]
+abstract:occurrences|increasingly|via|realworld|landslides|events|fully|using|dealing|things|analysis|innovations|mission|boost|metrics|obtained|detection|access|datasets|proving|current|layers|key|detection|though|advent|fashion|component|exploit|technological|open|scalable|eager|research|investigated|brings|twitter|capturing|computational|area|commonly|prerequisite|enormous|employing|users|volume|beneficial|internet|demonstrate|parameters|novelty|importance|capable|vertical|earthquakes|related|applications|performances|early|effectiveness|big|evaluations|captures|identify|effectively|timely|within|referred|applications|multilayered|employ|big|platform|software|experimental|order|promising|generation|still|work|dependencies|examples|environment|tracking|layer|across|era|incidents|enables|include|efficient|health|powerful|first|date|data|use|main|cloud|influence|cloud|major|solution|internetbased|new|kind|establish|corporations|important|proposed|keep|effect|explaining|topic|present|events|critical|deployed|storage|platform|track|topic|mentioned|social|tdt|resources|also|velocity|specific|factors|performance|build|response|cloud|challenge
+venue name:Future Generation Computer Systems
+venue id:186357190
+venue type:J
+document type:Journal
+study fields:Computer science|Exploit|Software|Mission critical|Abstraction layer|Big data|The Internet|Scalability|Cloud computing|Distributed computing
+references:953373180|1839773088|1900288795|1966979133|1970685884|1979808859|1995621780|2002472616|2005747910|2014743842|2047860129|2074501444|2101845604|2118566694|2126547925|2154516810|2292751661|2525818841|2726369860
+
+
+id:2955831855
+title:A dataflow-driven approach to identifying microservices from monolithic applications
+year:2019
+author information:[
+author name:Shanshan Li
+author organization:Nanjing University
+author id:2602775986|
+author name:He Zhang
+author organization:Nanjing University
+author id:2118256005|
+author name:Zijia Jia
+author organization:Nanjing University
+author id:2942993120|
+author name:Zheng Li
+author organization:University of Concepción
+author id:2940449517|
+author name:Cheng Zhang
+author organization:Anhui University
+author id:2943138387|
+author name:Jiaqi Li
+author organization:Nanjing University
+author id:2955022659|
+author name:Qiuya Gao
+author organization:Nanjing University
+author id:2954704049|
+author name:Jidong Ge
+author organization:Nanjing University
+author id:2122182276|
+author name:Zhihao Shan
+author organization:Tencent Building, Zhongquyi Road, Hi-tech Park, Shenzhen, Guangdong, 518057, China
+author id:2968071956|
+]
+abstract:dfd|construct|approach|identified|extremely|identification|terms|case|sentence|closely|made|microserviceoriented|analysis|finegrained|propose|version|dependencies|comparisons|encapsulating|easytooperate|cargo|systems|study|role|tracking|cutter|emphasizes|methods|microservice|recommend|fourstep|microservices|deployable|smallscale|microservicebased|processdatastore|architecture|validate|address|business|decomposed|abstract|one|representing|procedure|datastores|performed|flow|decomposable|sets|approach|logic|diagrams|use|sound|developing|challenging|microservices|coupling|function|generate|results|individual|prerequisite|employing|modules|candidates|extract|rigorous|proposed|cohesion|rather|challenges|crucial|show|decomposition|dataflowdriven|system|candidate|related|metrics|monolith|semiautomatic|processes|support|capabilities|plays|identify|implementation|multiple|data|requirement|specific|conduct|typical|independently|clustering|api
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Systems engineering|Computer science|Tracking system|Business logic|Theoretical computer science|Dataflow|Microservices|Business requirements|Cluster analysis|Sentence|Data flow diagram
+references:39510776|1996289321|2031293658|2148518654|2156565939|2493466415|2493563799|2507164204|2519996271|2554214302|2563693940|2606932474|2610826779|2614311976|2750746471|2754403750|2793609214|2799310732|2888489501|2893989659
+
+
+id:2970224738
+title:In Method We Trust: Towards an Open Method Kit for Characterizing Spot Cloud Service Pricing
+year:2019
+author information:[
+author name:Zheng Li
+author organization:University of Concepción
+author id:2970048270|
+author name:Xuefei Li
+author organization:Nanjing                            University
+author id:2970789147|
+author name:Bing Li
+author organization:Nanjing                            University
+author id:2970698705|
+]
+abstract:increasingly|modeling|tendency|reach|quickly|maximization|decided|identified|interruptions|domainspecific|method|understand|methods|utilization|analysis|facilitating|psychologically|studies|spot|winwin|sophisticated|scheme|methods|distribution|two|tools|characterizing|employ|unlike|based|popular|situation|particularly|reproducibility|noteworthy|change|services|domain|people|barely|characterization|open|addressing|reports|becoming|data|practically|research|compute|cloud|revenue|act|marketdriven|time|dynamic|details|higherlevel|mechanisms|results|budget|group|including|develop|reusable|market|improve|beneficial|purposes|procurement|specified|fixed|crucial|scientific|policies|inherently|content|central|paper|kit|studies|make|types|previous|idle|resources|also|argue|opensource|openaccess|generic|ranging|various|service|optimization|typical|time|strategy|pricing
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Revenue maximization|Idle|Computer science|Operations research|Ranging|Procurement|Distributed computing|Cloud computing
+references:648339772|1504538138|1963910368|1979846742|1987659801|2082256810|2088520134|2099393515|2111224333|2163563705|2177345046|2258432161|2340154251|2354216949|2410519153
+
+
+id:2161796765
+title:On evaluating commercial Cloud services
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Australian National University
+author id:2940449517|
+author name:He Zhang
+author organization:Nanjing University
+author id:2118256005|
+author name:Liam OBrien
+author organization:Geoscience Australia, Canberra Australia
+author id:2325040185|
+author name:Rainbow Cai
+author organization:Australian National University
+author id:2952400462|
+author name:Shayne Flint
+author organization:Australian National University
+author id:2132927618|
+]
+abstract:increasingly|software|trend|collected|security|depicts|evaluation|identified|would|review|slr|model|knowledge|competing|method|evaluation|work|comprising|studies|evaluating|workiaas|theory|reused|become|study|aimto|chaotic|industry|turn|computing|literature|challenges|outline|current|customers|implementations|particularly|could|implementing|step|iaas|replaced|services|systematic|suggest|many|gaps|opportunities|practices|conceptual|future|cannot|exists|evidencebased|otherthe|commercial|evidence|data|findings|several|elasticity|necessary|dictionarylike|serve|synthesize|tremendous|research|employed|reference|stateofthepractice|different|topic|area|new|worldwide|engineering|experiences|servicesthe|highlightswe|relevant|important|relatively|overall|methodbased|confusion|collect|seems|facilitate|relieving|records|domaina|paas|provided|lessons|investigate|booming|backgroundcloud|gap|confirms|studies|conclusionsevaluation|applying|types|aims|six|practical|identify|previous|resultsthis|aforementioned|also|existing|cloud|step|essentially|suitable|services|work|providers|landscape|longterm
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Data science|Services computing|World Wide Web|Confusion|Systematic review|Systems engineering|Computer science|Implementation|Cloud computing security|Cloud computing
+references:7485291|10141861|85311372|168515287|330783293|1491657789|1497005429|1522199185|1562721074|1601834567|1602504012|1634741080|1759768274|1814497935|1838491060|1918699760|1964386935|1969486654|1970623666|1973329408|1974555555|1975516699|1975982060|1977367431|1978881840|1984483249|1985229168|1987856419|1991662581|1993949541|2007193518|2016590858|2021204974|2026289525|2027340193|2027568113|2028383826|2030522107|2030606624|2035436728|2040717637|2041693760|2049791239|2051650900|2053571556|2055908644|2058042440|2073594713|2078406269|2080761795|2091647805|2091765165|2096452089|2098533231|2099334191|2100618668|2103128343|2104171511|2104710565|2105160174|2106421914|2107894622|2109768544|2109779682|2114703465|2114814049|2118328848|2118579700|2119028650|2121762798|2121884932|2123141559|2125364593|2126274497|2130062566|2131056547|2131646073|2132497824|2133933998|2135575903|2136717145|2140483729|2140953443|2141181087|2141782735|2143805127|2145120402|2147623910|2149318736|2153304308|2154158105|2154535415|2155545841|2156165081|2157270375|2157456970|2158114234|2159662633|2159744495|2159773410|2160402951|2160777802|2161946648|2161983534|2162411541|2162739315|2163349370|2164304411|2166469995|2166790316|2167278738|2168076234|2168377806|2169247023|2169328938|2171707251|2179820856|2283571372|2294241743|2405068176|2407464957|2487732989|2586514301
+
+
+id:2165786725
+title:Effort-Oriented Classification Matrix of Web Service Composition
+year:2010
+author information:[
+author name:Zheng Li
+author organization:Sch. of CSE Sydney, NICTA, Sydney, NSW, Australia
+author id:2311464621|
+author name:Liam OBrien
+author organization:Sch. of CS, ANU, Canberra, ACT, Australia
+author id:2727045277|
+author name:Jacky Keung
+author organization:Sch. of CSE Sydney, NICTA, Sydney, NSW, Australia
+author id:2344878386|
+author name:Xiwei Xu
+author organization:Sch. of CSE Sydney, NICTA, Sydney, NSW, Australia
+author id:2463108459|
+]
+abstract:changing|effortoriented|unfolded|analyzing|serviceoriented|context|examining|tasks|attempts|work|classification|aimed|mission|traditional|web|dimension|focuses|matrix|research|current|composition|future|effort|objectives|used|contexts|classifications|research|influence|confused|besides|business|area|proposes|basis|becomes|technologies|estimation|next|facilitate|classify|technique|effort|effective|computing|related|paper|broadly|since|dimension|requirements|cost|satisfy|multiple|clear|approaches|technology|realization|rapidly|existing|environment|build|service|within|distinguishes
+venue name:International Conference on Internet and Web Applications and Services
+venue id:1164286107
+venue type:C
+document type:Conference
+study fields:World Wide Web|Computer science|Matrix (mathematics)|Semantic Web|Cost estimate|Web modeling|Web service|Service-oriented architecture|Database|WS-Policy|Semantics
+references:3258811|1505325300|1517867192|1518845114|1526333779|1564775810|1659289657|1880896921|1963833910|1982619858|2001440509|2012024302|2021975707|2026578398|2097094515|2103303016|2110762353|2114937653|2116445209|2118373120|2126728257|2130153849|2142660860|2148036356|2151355086|2157501505|2157667241
+
+
+id:133481394
+title:A Fine-Grained Parallel Multi-objective Test Case Prioritization on GPU
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Yi Bian
+author organization:Beijing University of Chemical
+author id:2500607232|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Jun Cheng
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2634678747|
+]
+abstract:gpu|fulfill|empirical|program|three|evaluation|prioritization|optimization|gpubased|speedup|moeas|easily|minimization|case|based|efficiency|using|achieved|efficiently|schemes|finegrained|prioritization|selection|binary|crossover|nonapplicability|achieve|matrix|eight|multiplication|address|may|one|computation|algorithms|suite|framework|maximum|novel|open|ordinal|used|source|gpu|evolutionary|fitness|implemented|benchmarks|results|including|test|level|widely|proposed|present|higher|sequential|show|representation|load|parallel|studies|transformed|multiobjective|execution|multiobjective|increase|industrial|demands|form|regression|challenge
+venue name:Symposium on Search Based Software Engineering
+venue id:1144017017
+venue type:C
+document type:Conference
+study fields:Crossover|Evolutionary algorithm|Computer science|CUDA|Parallel computing|Regression testing|Matrix multiplication|Optimization problem|Binary number|Computation
+references:1529278916|1536554415|1985153141|2014515160|2016331645|2016436718|2029500775|2040919914|2045028945|2045785696|2084154180|2085282582|2092382400|2099137702|2108157916|2110068396|2119861793|2120563984|2125502051|2126105956|2126599184|2159614205|2164866963|2169886135|2170771779
+
+
+id:1612292842
+title:Dependence Based Model-Healing
+year:2015
+author information:[
+author name:Yue Wang
+author organization:Beijing University of Chem. Technol
+author id:2642099763|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+]
+abstract:increasingly|functions|extended|selfadaptive|attempt|loss|dependence|strengthen|represented|model|usually|case|sense|analysis|propose|system|even|selfhealing|efsm|environment|recovering|study|modelbased|capacity|systems|intensifying|faults|ability|may|could|operational|extent|possible|many|lead|regarded|rules|used|retaining|higherlevel|potential|finite|illustrate|modelhealing|conducted|affected|becomes|functions|state|sinking|imperative|parts|repair|changes|technique|breakdown|reserve|requirements|abstraction|fault|intelligent|environment|restricted|machines|simply
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Data modeling|Abstraction|Unified Modeling Language|Computer science|Extended finite-state machine|Dependence analysis|Real-time computing|Finite-state machine|Software|Maintenance engineering
+references:1491850643|1546606300|1616001236|1631893911|1980611863|1983717508|2019091418|2041838121|2070248598|2076807040|2078015604|2086859508|2092307501|2097048655|2099662505|2107855694|2111228858|2115913298|2149679864|2152065066
+
+
+id:1621512913
+title:Control Dependence for Extended Finite State Machines
+year:2009
+author information:[
+author name:Kelly Androutsopoulos
+author organization:KIngs College London
+author id:1974945086|
+author name:David Clark
+author organization:KIngs College London
+author id:2409779132|
+author name:Mark Harman
+author organization:Kings College London London  United Kingdom
+author id:2150723893|
+author name:Zheng Li
+author organization:KIngs College London
+author id:2572910380|
+author name:Laurence Tratt
+author organization:Bournemouth University
+author id:1974919365|
+]
+abstract:clarify|comparatively|program|three|relationships|barrier|problem|state|results|though|termination|new|using|need|work|illustrate|introducing|respect|extends|examples|differences|another|following|survey|behaviour|dependence|little|primary|wider|slices|prove|challenges|nearly|one|machines|related|motivate|definition|older|subsumes|slicing|one|control|existing|weiser|currently|application|machine|decades|determining|presents
+venue name:Fundamental Approaches to Software Engineering
+venue id:1187615537
+venue type:C
+document type:Conference
+study fields:Program slicing|Programming language|Computer science|Slicing|Finite-state machine|Theoretical computer science|Reactive system
+references:1484700963|1503825793|1544529356|1546381996|1575308494|2019091418|2044529811|2057992103|2076807040|2086859508|2099529102|2107855694|2112448067|2124228276|2147880466|2159181605|2166014347|2194223632|2293624369|2640365788
+
+
+id:1658782945
+title:Epistatic Genetic Algorithm for Test Case Prioritization
+year:2015
+author information:[
+author name:Fang Yuan
+author organization:Beijing University of Chemical
+author id:2443620078|
+author name:Yi Bian
+author organization:Beijing University of Chemical
+author id:2500607232|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+]
+abstract:epistasis|convergence|empirical|used|effect|evaluation|defined|faster|test|fitness|search|employed|unlike|presence|case|algorithm|reduce|based|efficiency|including|test|widely|domains|encoding|two|prioritization|technologies|testing|epistatic|selection|proposed|improve|following|theory|higher|algorithms|crossover|affect|show|segment|case|operators|studies|popular|epistatic|permutation|genetic|execution|outperform|cost|cases|previous|twopoint|one|namely|produce|suite|application|regression|associated|represent
+venue name:Symposium on Search Based Software Engineering
+venue id:1144017017
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Crossover|Computer science|Permutation|Regression testing|Operator (computer programming)|Test case|Artificial intelligence|Machine learning|Genetic algorithm|Encoding (memory)
+references:19571631|133481394|1536554415|1553403542|1589975099|1977792854|1990771923|2014515160|2016343033|2092382400|2095710561|2101047206|2110068396|2120563984|2126105956|2138428785|2164866963|2167159964
+
+
+id:1660020474
+title:Regression Test Case Prioritisation for Guava
+year:2015
+author information:[
+author name:Yi Bian
+author organization:Beijing University of Chemical
+author id:2500607232|
+author name:Serkan Kirbas
+author organization:Brunel University
+author id:2300636755|
+author name:Mark Harman
+author organization:University College
+author id:2150723893|
+author name:Yue Jia
+author organization:University College
+author id:2158039923|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:searchbased|widelyused|used|three|approach|objective|execution|time|find|formulation|prioritisation|results|case|tension|package|test|involves|solutions|testing|require|collection|contains|prioritise|guava|cases|demonstrate|present|changed|covering|code|achieve|code|time|investigate|sequences|two|effective|previously|optimisation|value|include|guava|execution|cases|percentage|apply|statement|average|coverage|also|change|effective|existing|regression|additionally|objectives|base
+venue name:Symposium on Search Based Software Engineering
+venue id:1144017017
+venue type:C
+document type:Conference
+study fields:Computer science|Regression testing|Execution time|Test case|Artificial intelligence|Machine learning
+references:133481394|1975564929|1993551571|2002213621|2005195948|2014515160|2029500775|2046241805|2110068396|2115380655|2120563984|2126105956|2126599184|2170771779
+
+
+id:1935233338
+title:Faster mutation-based fault localization with a novel mutation execution strategy
+year:2015
+author information:[
+author name:Pei Gong
+author organization:Beijing University of Chemical Technology
+author id:2222838130|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:localization|incur|called|developers|mutants|empirical|accuracy|fault|program|faults|approach|required|via|improved|extremely|rank|reduce|give|probability|mutation|mutationbased|cases|optimizations|utilizing|executed|mutanttest|faults|keeping|entities|assist|fewer|tedious|faster|run|checking|brings|presented|huge|dynamic|ignored|test|cost|proposes|includes|finding|list|mutationbased|proposed|techniques|locate|analysis|additional|show|times|paper|studies|designed|execution|process|cost|cases|recently|fault|also|developers|time|strategy
+venue name:International Conference on Software Testing, Verification and Validation Workshops
+venue id:2622849096
+venue type:C
+document type:Conference
+study fields:Software debugging|Mutation testing|Computer science|Dynamic mutation|Test case|Distributed computing|Mutation
+references:1943458919|1950030762|1963679610|1971137495|1990785546|1992031231|1992862603|2010833880|2013055342|2028990673|2054751837|2075445701|2081137757|2091556188|2092799710|2101819268|2102742419|2112025128|2120280318|2125727889|2126941999|2127127795|2128049346|2135841285|2135937266|2151099659|2162406453|2170204382
+
+
+id:1985484800
+title:Search Based Combinatorial Testing
+year:2012
+author information:[
+author name:Changhai Nie
+author organization:Nanjing University
+author id:2156757301|
+author name:Huayao Wu
+author organization:Nanjing University
+author id:2162760824|
+author name:Yalan Liang
+author organization:Nanjing University
+author id:2714350561|
+author name:Hareton Leung
+author organization:Hong Kong Polytech. University
+author id:2892920766|
+author name:Fei-Ching Kuo
+author organization:Swinburne University of Technol
+author id:2157754903|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:named|software|variants|branch|mechanisms|particle|improved|problem|terms|broad|combinatorial|generation|based|successfully|sbct|work|testing|science|applicability|study|compare|genetic|believe|experiments|search|reversing|ability|key|performance|explore|within|change|many|used|developed|swarm|search|host|dramatically|including|finetuning|widely|engineering|algorithm|techniques|solve|colony|problems|covering|ranges|applied|configuration|ant|show|distinct|generating|generation|area|optimization|array|design|sbse|effectiveness|six|studied|existing|randomizing|performance|well
+venue name:Asia-Pacific Software Engineering Conference
+venue id:1134663949
+venue type:C
+document type:Conference
+study fields:Ant colony optimization algorithms|Data mining|Incremental heuristic search|Search algorithm|Computer science|Real-time computing|Artificial intelligence|Genetic algorithm|Particle swarm optimization|Beam search|Combinatorial search|Machine learning|Search-based software engineering
+references:1500365214|1977321274|1977575391|1978203195|1979922504|1984724035|2006822206|2025672288|2073859517|2075699551|2107729695|2115692759|2120210839|2123410350|2125520216|2128676540|2130505371|2157345034|2164783223|2171570823
+
+
+id:2005211990
+title:An empirical study of the relationship between the concepts expressed in source code and dependence
+year:2008
+author information:[
+author name:David Binkley
+author organization:Kings College London, CREST Centre, Department of Computer Science, Strand, London WC2R 2LS, United Kingdom
+author id:1918094245|
+author name:Nicolas Gold
+author organization:Kings College London, CREST, Department of Computer Science, Strand, London, United Kingdom
+author id:1996142595|
+author name:Mark Harman
+author organization:Kings College London London  United Kingdom
+author id:2150723893|
+author name:Zheng Li
+author organization:KIngs College London
+author id:2572910380|
+author name:Kiarash Mahdavi
+author organization:KIngs College London
+author id:2151384402|
+]
+abstract:addresses|smaller|questions|express|source|program|approach|research|observation|would|tighter|results|greater|programs|might|expected|degree|capture|finding|analysis|respect|concepts|cohesion|programs|dependence|semantic|code|code|experiments|contribute|show|decompose|statements|domainlevel|cohesion|paper|provides|dependence|relationship|ought|set|implications|explore|captures|manifest|positive|executable|computation|associated|concept|behaviour|informal|presents
+venue name:Australian Software Engineering Conference
+venue id:1148944599
+venue type:C
+document type:Conference
+study fields:Program slicing|Cohesion (chemistry)|Static program analysis|Programming language|Source code|Computer science|Theoretical computer science|KPI-driven code analysis|Program comprehension|Empirical research|Executable
+references:1594437224|1971546034|1982737166|1993126296|2019912855|2052424802|2057992103|2080973181|2106632739|2107967474|2111643214|2112459374|2116682334|2120538737|2124023550|2126875022|2127280681|2128990852|2134872829|2135988257|2141229427|2148484494|2158864412|2159436237|2293624369
+
+
+id:2022882436
+title:An alternative characterization of weak order dependence
+year:2010
+author information:[
+author name:Torben Amtoft
+author organization:Kansas State University
+author id:69801872|
+author name:Kelly Androutsopoulos
+author organization:KIngs College London
+author id:1974945086|
+author name:David Clark
+author organization:KIngs College London
+author id:2409779132|
+author name:Mark Harman
+author organization:Kings College London London  United Kingdom
+author id:2150723893|
+author name:Zheng Li
+author organization:KIngs College London
+author id:2572910380|
+]
+abstract:led|program|without|computations|introduced|terms|expressed|definitions|nodes|order|order|new|slicing|work|basis|analysis|reachable|node|important|weak|node|traditional|reactive|graph|converted|programs|allow|nonterminating|cfg|one|classical|show|necessarily|weak|recent|control|paper|dependence|generalize|definition|end|one|control|many|flow|nodes|forms
+venue name:Information Processing Letters
+venue id:147953040
+venue type:J
+document type:Journal
+study fields:Program slicing|Topology|Discrete mathematics|Graph|Information processing|Control flow graph|Control flow|Dependence analysis|Algorithm|Program analysis|Mathematics|Computation
+references:2008059658|2044529811|2049309502|2057992103|2061316037|2064885277|2076807040|2094944943|2129278597|2135988257|2144344516|2147088720|2162310108|2171200144|2293616642|2293624369
+
+
+id:2097048655
+title:A theoretical and empirical study of EFSM dependence
+year:2009
+author information:[
+author name:Kelly Androutsopoulos
+author organization:KIngs College London
+author id:1974945086|
+author name:Nicolas Gold
+author organization:Kings College London, CREST, Department of Computer Science, Strand, London, United Kingdom
+author id:1996142595|
+author name:Mark Harman
+author organization:Kings College London, CREST, Department of Computer Science, Strand, London, United Kingdom
+author id:2150723893|
+author name:Zheng Li
+author organization:Kings College London, CREST, Department of Computer Science, Strand, London, United Kingdom
+author id:2572910380|
+author name:Laurence Tratt
+author organization:Bournemouth University
+author id:1974919365|
+]
+abstract:software|data|theoretical|use|comparatively|findings|empirical|extended|several|program|maintainer|realworld|four|dependence|foundational|model|benchmarks|efsm|ten|underpins|results|programming|addition|wellknown|finite|using|including|thus|level|models|arising|notably|work|slicing|impact|widely|gather|analysis|comprehension|tool|tests|studies|correlation|state|little|statistical|prove|analysis|investigate|found|study|paper|provides|dependence|slicing|studied|introduce|many|concerning|formalize|activities|maintenance|machines|forms|properties
+venue name:International Conference on Software Maintenance
+venue id:1160919455
+venue type:C
+document type:Conference
+study fields:Program slicing|Data modeling|Computer science|Extended finite-state machine|Dependence analysis|Theoretical computer science|Finite-state machine|Software maintenance|Statistical hypothesis testing|Empirical research
+references:1484700963|1503825793|1546381996|1575308494|1616001236|1621512913|2008059658|2019091418|2057992103|2061972420|2076807040|2078761505|2083517400|2086859508|2094944943|2099529102|2106825621|2107855694|2107967474|2114198940|2116682334|2118349824|2138556999|2157532329|2162310108|2165750732|2171200144|2640365788
+
+
+id:2110517011
+title:Empirical Study on the Efficiency of Search Based Test Generation for EFSM Models
+year:2010
+author information:[
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Mark Harman
+author organization:Department of Computer Science, King’s College London, London, UK
+author id:2150723893|
+author name:Zheng Li
+author organization:Dept of Computer Science, Kings College London, London
+author id:2572910380|
+]
+abstract:software|sufficiently|empirical|extended|ftp|investigates|number|path|four|lpev|model|events|guide|generation|models|encouraging|efficiency|using|issue|models|considerable|work|testing|exist|system|correlation|provide|evaluating|conditions|formalisation|statistical|study|strong|increases|operators|nnev|event|relationship|close|variables|positive|transition|generally|automated|nneoc|exponential|data|source|used|shows|generated|feasible|efsm|results|raising|finite|test|level|experimental|widely|significant|finding|linearly|important|tests|paths|state|focused|code|according|lpev|numerical|paper|studies|predict|programs|effectiveness|applying|cost|length|equal|various|machines|properties|presents
+venue name:International Conference on Software Testing, Verification and Validation Workshops
+venue id:2622849096
+venue type:C
+document type:Conference
+study fields:Data modeling|Mathematical optimization|Source code|Computer science|Extended finite-state machine|Algorithm|Finite-state machine|Test data|Statistical hypothesis testing|Test data generation|Empirical research
+references:1482615628|1483912281|1516479896|1970565328|1972456053|1985378987|1986878240|2006027584|2060461359|2078410320|2078761505|2093775031|2097048655|2105394284|2107109381|2112944455|2114226943|2114869486|2115626531|2124300773|2126130789|2134691366|2139763472|2142266413|2155479111|2160282650|2169417364
+
+
+id:2111228858
+title:Model projection: simplifying models in response to restricting the environment
+year:2011
+author information:[
+author name:Kelly Androutsopoulos
+author organization:University College London
+author id:1974945086|
+author name:David Binkley
+author organization:Loyola University
+author id:1918094245|
+author name:David Clark
+author organization:University College
+author id:2409779132|
+author name:Nicolas Gold
+author organization:University College
+author id:1996142595|
+author name:Mark Harman
+author organization:University College
+author id:2150723893|
+author name:Kevin Lano
+author organization:Kings College London London  United Kingdom
+author id:426991758|
+author name:Zheng Li
+author organization:University College London  London
+author id:2572910380|
+]
+abstract:reuse|introduces|half|software|extended|empirical|three|number|facilitates|four|property|model|state|ten|models|efficiency|using|models|ever|applicability|environment|algorithms|study|prove|verification|operating|rests|many|model|results|increasing|model|paper|used|upon|transitions|designlevel|benchmarks|finite|development|including|widely|includes|engineering|activities|addressed|state|present|useful|critical|show|states|paper|related|specializing|projection|effectiveness|correct|original|introduce|studied|specification|also|specific|projection|industrial|third|typical|well|machines|applications
+venue name:International Conference on Software Engineering
+venue id:1174403976
+venue type:C
+document type:Conference
+study fields:Operating environment|Unified Modeling Language|Computer science|Reuse|Slicing|Correctness|Finite-state machine|Theoretical computer science|Software architecture|Empirical research
+references:1480442313|1510119905|1541666628|1544529356|1544950069|1575308494|1817451992|2013912904|2019091418|2056038097|2078761505|2086859508|2097048655|2106632739|2107855694|2116682334|2120348471|2120521925|2135274583|2140225592|2148893609|2293624369
+
+
+id:2112459374
+title:An Empirical Study of Executable Concept Slice Size
+year:2006
+author information:[
+author name:D. Binkley
+author organization:LOYOLA COLLEGE
+author id:1918094245|
+author name:N. Gold
+author organization:Kings college, London, United Kingdom
+author id:1996142595|
+author name:M. Harman
+author organization:Kings college, London, United Kingdom
+author id:2150723893|
+author name:Zheng Li
+author organization:KIngs College London
+author id:2572910380|
+author name:K. Mahdavi
+author organization:Kings college, London, United Kingdom
+author id:2151384402|
+]
+abstract:smaller|coherence|evidence|criteria|program|semantics|expressive|slice|executable|results|conceptbased|concept|level|slicing|slicing|size|slice|domain|extracts|applicability|slices|subprogram|providing|assignment|concept|show|specified|paper|effectiveness|allows|slicing|executability|captures|arbitrary|combines|highlevel|produce|executable|assess|investigation|program|presents
+venue name:Working Conference on Reverse Engineering
+venue id:1131743930
+venue type:C
+document type:Conference
+study fields:Program slicing|Programming language|Computer science|Reverse engineering|Slicing|Coherence (physics)|Theoretical computer science|Empirical research|Semantics|Executable
+references:1594437224|1971546034|1984846967|2019912855|2044529811|2052424802|2057992103|2080973181|2085674537|2106632739|2107967474|2110066339|2111643214|2124023550|2126875022|2128990852|2134872829|2137126136|2139805637|2141229427|2143177356|2147140044|2148484494|2155486898|2159436237|2164233915|2293624369
+
+
+id:2115913298
+title:Amorphous Slicing of Extended Finite State Machines
+year:2013
+author information:[
+author name:K. Androutsopoulos
+author organization:University College London
+author id:1974945086|
+author name:D. Clark
+author organization:University College London
+author id:2409779132|
+author name:M. Harman
+author organization:London University
+author id:2150723893|
+author name:R. M. Hierons
+author organization:Brunel University
+author id:689791922|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:L. Tratt
+author organization:King′s College London, London, UK
+author id:1974919365|
+]
+abstract:tool|smaller|introduces|software|dependencebased|use|comparatively|empirical|insensitive|program|three|slice|state|efsm|benchmarks|termination|including|compared|work|finite|slicing|widely|efsms|engineering|published|tool|size|demonstrate|useful|little|larger|algorithms|average|study|experiments|slicing|percent|extended|paper|previously|accompanying|slicing|set|studied|many|industrial|conduct|suitable|machines|time|first|applications
+venue name:IEEE Transactions on Software Engineering
+venue id:8351582
+venue type:J
+document type:Journal
+study fields:Program slicing|Approximation algorithm|Algorithm design|Unified Modeling Language|Computer science|Automaton|Slicing|Extended finite-state machine|Algorithm|Theoretical computer science|Real-time computing|Finite-state machine
+references:89725885|1484700963|1506151672|1544529356|1546381996|1551563240|1575308494|1583464938|1591416905|1621512913|1631893911|1817451992|1967889788|1983717508|1990220002|1999384668|2019091418|2038214281|2041838121|2043555680|2044529811|2048411372|2064885277|2070248598|2073971651|2076807040|2078015604|2078761505|2086859508|2097048655|2099529102|2107855694|2107967474|2118382442|2129395888|2133877380|2151226386|2152065066|2157341150|2162046779|2162310108|2162605804|2170509118|2171200144|2293624369|2296731238|2640365788|2741405962|2912608078
+
+
+id:2119194230
+title:Locating dependence structures using search-based slicing
+year:2008
+author information:[
+author name:Tao Jiang
+author organization:Kings College London, Strand, London WC2R 2LS, UK
+author id:2303926968|
+author name:Nicolas Gold
+author organization:Kings College London, Strand, London WC2R 2LS, UK
+author id:1996142595|
+author name:Mark Harman
+author organization:Kings College, London, UK
+author id:2150723893|
+author name:Zheng Li
+author organization:Kings College London, Strand, London WC2R 2LS, UK
+author id:2572910380|
+]
+abstract:searchbased|reports|introduces|slices|instance|software|concerned|empirical|program|approach|space|powerset|problem|random|search|algorithm|engineering|evaluate|locating|slices|study|covering|hill|c|applied|searching|decompose|result|overlap|paper|dependence|greedy|resultsimilarity|programs|minimize|slicing|set|problem|sets|structures|possible|interslice|performance|algorithms|formulates
+venue name:Information  Software Technology
+venue id:205010575
+venue type:J
+document type:Journal
+study fields:Program slicing|Random search|Hill climbing|Data mining|Computer science|Slicing|Greedy algorithm|Empirical research|Search-based software engineering
+references:1512285202|1529278916|1567387283|1584947061|1592447472|1593203335|1639032689|1698439592|1730627516|1749839816|1964795700|1979611815|1985403010|1997493115|2005985523|2012007091|2024425422|2025902616|2026802633|2027754909|2036838567|2041470132|2043584165|2045651560|2046387193|2046891621|2060208597|2064625489|2064885277|2076849260|2092382400|2096491586|2097347001|2106306381|2109943392|2111710182|2115808517|2118819356|2120538737|2120563984|2126875022|2127280681|2128698639|2130600926|2130877788|2133731789|2134198861|2134331592|2135964711|2136059071|2138756793|2141229427|2143177356|2147543646|2150487654|2154130651|2157532207|2159203651|2159721485|2159919030|2162310108|2169886135|2172105112|2293616642|2293624369|2808840423
+
+
+id:2123722398
+title:Assessing the impact of global variables on program dependence and dependence clusters
+year:2010
+author information:[
+author name:David Binkley
+author organization:Kings College London, Centre for Research on Evolution, Search and Testing (CREST) Strand, London WC2R 2LS, UK
+author id:1918094245|
+author name:Mark Harman
+author organization:Kings College, London, UK
+author id:2150723893|
+author name:Youssef Hassoun
+author organization:Kings College London, Centre for Research on Evolution, Search and Testing (CREST) Strand, London WC2R 2LS, UK
+author id:2168773232|
+author name:Syed Islam
+author organization:Kings College London, Centre for Research on Evolution, Search and Testing (CREST) Strand, London WC2R 2LS, UK
+author id:2987290748|
+author name:Zheng Li
+author organization:Kings College London, Strand, London WC2R 2LS, UK
+author id:2572910380|
+]
+abstract:reports|measuring|introduces|half|globals|empirical|simple|used|program|upon|approach|transformationbased|assessment|cluster|presence|particular|results|algorithm|impact|significant|analysis|solely|effect|programs|dependence|study|code|technique|global|general|ways|paper|responsible|dependence|lines|clusters|include|variables|quantity|identify|may|one|clusters|lead|consisting|characterize|application|detailed|variable|presents|quarter
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Program slicing|Cluster (physics)|Computer science|Real-time computing|Software|Empirical research|Source lines of code|Global variable
+references:116026253|1484019856|1499226144|1546381996|1594437224|1967889788|2004971560|2005211990|2008860182|2025554746|2025902616|2039539587|2044154068|2049309502|2069501081|2072243189|2076470013|2085674537|2104879512|2107967474|2112459374|2115808517|2116682334|2118349824|2119194230|2123523074|2125682153|2128709286|2133731789|2134198861|2135988257|2137126136|2138556999|2139608323|2140382894|2141229427|2150270953|2150479278|2153713016|2159721485|2160788164|2162310108|2170847442|2293616642
+
+
+id:2128709286
+title:Evaluating Key Statements Analysis
+year:2008
+author information:[
+author name:D. Binkley
+author organization:Dept of Computer Science, Kings College London, London
+author id:1918094245|
+author name:N. Gold
+author organization:Dept of Computer Science, Kings College London, London
+author id:1996142595|
+author name:M. Harman
+author organization:Dept of Computer Science, Kings College London, London
+author id:2150723893|
+author name:Zheng Li
+author organization:Dept of Computer Science, Kings College London, London
+author id:2572910380|
+author name:K. Mahdavi
+author organization:Dept of Computer Science, Kings College London, London
+author id:2151384402|
+]
+abstract:small|measuring|minor|programpsilas|using|empirical|good|three|variables|unit|points|high|shows|shown|function|percentage|understanding|based|large|impact|presented|capture|bieman|analysis|computation|core|effect|extracts|must|metrics|cohesion|starting|useful|key|higher|semantic|average|statistical|differences|function|statements|kinds|cohesive|point|principal|statement|drawn|key|highly|set|improvement|impact|form|corresponding|manipulating|investigation|ottpsilas|program
+venue name:Source Code Analysis and Manipulation
+venue id:1169089907
+venue type:C
+document type:Conference
+study fields:Cohesion (chemistry)|Program slicing|Data mining|Computer science|Theoretical computer science|Aerospace electronics|Artificial intelligence|Natural language processing|Software metric|Percentage point|Program comprehension|Statistical analysis
+references:1594437224|2030435654|2049309502|2080973181|2097347001|2106632739|2109986403|2116682334|2120704737|2141229427|2162046779|2162363818|2167116703|2293624369
+
+
+id:2152997261
+title:Efficient Identification of Linchpin Vertices in Dependence Clusters
+year:2013
+author information:[
+author name:David Binkley
+author organization:Loyola University
+author id:1918094245|
+author name:Nicolas Gold
+author organization:University College
+author id:1996142595|
+author name:Mark Harman
+author organization:University College
+author id:2150723893|
+author name:Syed Islam
+author organization:University College
+author id:2987290748|
+author name:Jens Krinke
+author organization:University College
+author id:1334672199|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:half|evidence|almost|findings|languages|empirical|source|hold|innovations|identification|would|raises|diverse|fragments|results|programming|algorithm|give|correctness|using|making|large|might|containing|collection|analysis|million|orders|programs|authors|primary|larger|study|code|prove|locate|code|impractical|range|predecessor|two|found|previously|dependence|linchpin|indicate|lines|clusters|together|process|question|introduce|also|clusters|possible|several|concerning|yields|efficiently|report|time|rise|reduction|properties|improvements
+venue name:ACM Transactions on Programming Languages and Systems
+venue id:41449414
+venue type:J
+document type:Journal
+study fields:Cluster (physics)|Programming language|Vertex (geometry)|Computer science|Source code|Correctness|Slicing|Algorithm|Theoretical computer science|Order of magnitude|Empirical research|Source lines of code
+references:1908775850|2026966005|2027929331|2044154068|2046499993|2046747375|2049309502|2061972420|2062199313|2065088439|2080573945|2080973181|2091141964|2104879512|2110066339|2111540240|2115808517|2123523074|2123722398|2123804192|2125682153|2127005966|2131417257|2132874107|2133731789|2134844793|2140584250|2141022621|2141229427|2142840915|2162310108|2168796312|2293624369
+
+
+id:2163227181
+title:Allowing Overlapping Boundaries in Source Code using a Search Based Approach to Concept Binding
+year:2006
+author information:[
+author name:Nicolas Gold
+author organization:KIngs College London
+author id:1996142595|
+author name:Mark Harman
+author organization:KIngs College London
+author id:2150723893|
+author name:Zheng Li
+author organization:KIngs College London
+author id:2572910380|
+author name:Kiarash Mahdavi
+author organization:KIngs College London
+author id:2151384402|
+]
+abstract:reports|commercial|previously|bindings|samplingbased|binding|program|source|approach|space|realworld|introduced|problem|shown|boundaries|climbing|results|order|algorithm|ii|involves|suitability|solutions|sampling|comprehension|overlap|concepts|proposed|techniques|produces|concepts|reformulated|programs|boundaries|allow|boundary|algorithms|hill|code|financial|one|concept|experiments|show|indicating|random|search|paper|taken|supporting|algorithms|genetic|enforced|exponentially|contain|may|problem|apply|cobol|sector|approaches|services|climber|better|nonoverlapping|hill|overlapping|space|significantly|presents
+venue name:International Conference on Software Maintenance
+venue id:1160919455
+venue type:C
+document type:Conference
+study fields:Random search|Hill climbing|Search algorithm|Computer science|Source code|Algorithm|Theoretical computer science|Search problem|Program comprehension|Genetic algorithm|Binding problem
+references:1508357244|1594437224|1606791384|1639032689|1965982049|1971546034|1975033347|1977004736|2028806953|2052592404|2088448861|2106632739|2110220994|2111250043|2124023550|2125116336|2128990852|2131507179|2293624369
+
+
+id:2266805014
+title:Test Generation for Programs with Binary Tree Structure as Input
+year:2015
+author information:[
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Qian Wang
+author organization:Xian University of Technology
+author id:2706664354|
+]
+abstract:experimental|program|trees|approach|constraints|number|would|promising|generation|based|using|pointer|shape|testing|effective|binary|creating|simultaneously|works|focuses|criteria|valid|search|modern|many|linked|necessary|structures|combines|data|associated|constraint|novel|techniques|data|generates|inputs|used|growing|test|presented|dynamic|generate|results|test|widely|proposes|presented|tree|difficult|respect|focused|creates|fields|dynamic|solving|string|values|show|numeric|proper|affecting|generating|generation|investigate|conclusion|paper|increases|shapes|arrive|studies|process|cost|cubic|satisfy|specific|structure|factors|performance
+venue name:International Journal of Software Engineering and Knowledge Engineering
+venue id:131442419
+venue type:J
+document type:Journal
+study fields:Tree traversal|Linked list|Computer science|Treap|Self-balancing binary search tree|Binary tree|Algorithm|Theoretical computer science|Binary search tree|Test data generation|Cartesian tree
+references:1801853287|1920006546|1977321274|1979345446|1985335248|1993760289|2008612269|2010639584|2020953101|2025304834|2026701697|2034086181|2043555292|2051798585|2069350550|2074273322|2094452104|2094720120|2095850105|2097444001|2098447642|2100760269|2101629181|2105896632|2110337982|2111255128|2114869486|2131290359|2133591107|2140687990|2145400374|2149695823|2157470592|2167895601|2273163240
+
+
+id:2520695682
+title:Reducing scheduling sequences of message-passing parallel programs
+year:2016
+author information:[
+author name:Dunwei Gong
+author organization:LanZhou University of Technology
+author id:2919554204|
+author name:Chen Zhang
+author organization:China University of Mining and Technology
+author id:2634113936|
+author name:Tian Tian
+author organization:ShanDong University
+author id:2582218058|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:equivalent|experimental|program|approach|without|relation|number|problem|shorten|reduce|based|using|efficiency|method|testing|determined|programs|greatly|evaluate|appropriate|messagepassing|affect|focuses|sequences|two|reduces|compared|one|shortens|randomly|novel|first|program|used|average|scheduling|results|various|selected|commonly|test|difficulty|sequence|statement|improving|proposed|improve|covering|applied|divided|classes|values|according|show|minimal|paper|indexes|parallel|statement|hence|value|programs|selecting|execution|approaches|increase|target|contained|performance|messagepassing|typical|time|reducing|comprehensive|presents
+venue name:Information  Software Technology
+venue id:205010575
+venue type:J
+document type:Journal
+study fields:Fixed-priority pre-emptive scheduling|Fair-share scheduling|Computer science|Deadline-monotonic scheduling|Parallel computing|Flow shop scheduling|Rate-monotonic scheduling|Dynamic priority scheduling|Earliest deadline first scheduling|Round-robin scheduling
+references:238437616|1512687743|1529671387|1531955077|1544640696|1585867330|1596400970|1964962870|1985315553|1987786739|1989065170|1999343420|2003881653|2005106442|2007631936|2014173381|2018912833|2019013398|2029121206|2042120213|2049633124|2102061396|2104537058|2127561529|2131613942|2141804465|2147088720|2153549009|2154295482|2154731982|2156588754|2157949437|2161957670|2169870841|2171326679
+
+
+id:2521467082
+title:Search Based Test Suite Minimization for Fault Detection and Localization: A Co-driven Method
+year:2016
+author information:[
+author name:Jingyao Geng
+author organization:Beijing University of Chemical
+author id:2659526939|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Junxia Guo
+author organization:Beijing University of Chemical
+author id:2306432149|
+]
+abstract:localization|software|fault|independence|faults|approach|required|high|balance|optimization|presented|ratio|usually|different|selected|goals|give|test|thus|method|empirical|proposes|important|testing|proposed|minimization|used|consideration|subsets|independent|locate|achieve|show|detect|restrict|two|paper|detection|studies|early|multiobjective|detection|processes|process|cases|goals|fault|automatic|adjacent|combining|suite|associated|information|reduction
+venue name:Symposium on Search Based Software Engineering
+venue id:1144017017
+venue type:C
+document type:Conference
+study fields:Test suite|Test suite minimization|Fault detection and isolation|Computer science|Test case|Artificial intelligence|Empirical research|Machine learning|restrict|Software testing
+references:99175238|120136667|1506010655|1971137495|2002960695|2010833880|2012380206|2014515160|2029500775|2050238751|2054864002|2070249305|2092382400|2092799710|2101819268|2111540240|2119136132|2120563984|2126105956|2137522044|2158586961|2165325822|2245429186
+
+
+id:2751165549
+title:An optimal mutation execution strategy for cost reduction of mutation-based fault localization
+year:2018
+author information:[
+author name:Yong Liu
+author organization:Beijing University of Chemical
+author id:2744654765|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+author name:Pei Gong
+author organization:Beijing University of Chemical Technology
+author id:2222838130|
+]
+abstract:localization|incur|software|optimal|developers|mutants|empirical|recognized|accuracy|fault|whole|faulty|program|faults|approach|required|via|improved|case|reduce|probability|lowest|mbfl|mutation|cases|theory|mbfl|become|utilizing|executed|giving|proved|mutanttest|timeconsuming|nondecreasing|statements|decreased|close|gives|keeping|abstract|one|entities|assist|ranking|minimum|quick|theoretical|fewer|tedious|run|compute|faster|brings|solution|discusses|huge|dynamic|ignored|test|cost|proposes|mutationbased|proposed|techniques|locating|additional|show|identifying|activity|minimal|failures|paper|dmes|debugging|studies|designed|execution|processes|process|cost|cases|original|identify|recently|fault|also|prioritize|uses|location|time|strategy
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Ranking|Software debugging|Mutation testing|Dynamic mutation|Optimal cost|Test case|Mathematics|Cost reduction|Empirical research|Distributed computing
+references:1529963211|1532772304|1677845387|1902133541|1935233338|1943458919|1950030762|1963679610|1971137495|1972328554|1989315326|1990785546|1992031231|1992862603|2002960695|2003948571|2008675462|2010833880|2028990673|2054751837|2058547057|2070249305|2070581427|2075117029|2075445701|2081137757|2091556188|2093451455|2096370414|2100320782|2101819268|2102742419|2112025128|2120280318|2125727889|2128049346|2135841285|2135937266|2151099659|2156357889|2162406453|2342997079|2343875716|2536479894|2620081107
+
+
+id:2809281541
+title:EFSM-Oriented Minimal Traces Set Generation Approach for Web Applications
+year:2018
+author information:[
+author name:Weiwei Wang
+author organization:Beijing University of Chem. Technol
+author id:2808755526|
+author name:Junxia Guo
+author organization:Beijing University of Chemical
+author id:2306432149|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+]
+abstract:select|criteria|focus|approach|three|sequencing|analyzing|integrity|model|guide|order|generation|models|based|dom|testing|efsmoriented|algorithm|conditions|evaluate|appropriate|modelling|js|two|web|relationship|behavior|empirically|set|prototype|elements|compensate|first|novel|represent|used|generated|adequacy|greedy|dynamic|implement|efsm|results|ignored|ensure|behaviors|traces|branches|modelling|respect|tool|proposed|improve|parameters|accurately|applied|crucial|changes|show|clientserver|states|abstracted|effective|minimal|javascript|define|applications|effectiveness|coverage|execution|clientside|applications
+venue name:Computer Software and Applications Conference
+venue id:1143160721
+venue type:C
+document type:Conference
+study fields:Approximation algorithm|Computer science|Information science|Extended finite-state machine|Real-time computing|Greedy algorithm|Theoretical computer science|Web application|Chemical technology|JavaScript
+references:614438062|1980157085|2026252407|2029775954|2034958218|2041694760|2051485057|2090907135|2121504314|2124081952|2125000816|2126130789|2126446220|2194917080|2405340297|2548758358|2570420616|2577042338
+
+
+id:2914760846
+title:A weighted fuzzy classification approach to identify and manipulate coincidental correct test cases for fault localization
+year:2019
+author information:[
+author name:Yong Liu
+author organization:Beijing University of Chemical
+author id:2744654765|
+author name:Meiying Li
+author organization:Beijing University of Chemical Technology
+author id:2562860408|
+author name:Yonghao Wu
+author organization:Beijing University of Chemical Technology
+author id:2912947677|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2572910380|
+]
+abstract:localization|cluster|software|developers|empirical|accuracy|fault|experimental|faulty|false|faults|approach|three|coincidental|improved|knearest|identification|enable|engineering|block|manipulation|fwknn|manipulate|algorithm|respectively|using|efficiency|probability|rate|impact|lower|reduced|accurately|classification|execute|propose|samples|illustrated|provide|versions|cases|programs|coverage|algorithms|average|methods|utilizing|weighted|indicate|popular|compared|cc|mitigate|strategies|efficient|abstract|neighbor|correct|computation|single|positive|information|cbfl|techniques|correct|simple|alleviate|find|presented|recall|weighted|potential|results|various|comparison|test|strategies|cbfl|cost|widely|labeled|presented|conducted|identification|important|measure|proposed|effect|position|present|higher|classify|code|coveragebased|effort|statements|identifying|investigate|negative|similarity|statement|debugging|studies|passed|localization|fuzzy|highly|effectiveness|execution|process|cases|cost|identify|effectively|studied|fault|also|specific|suggested|supervised|application|location|fuzzy|time
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Data mining|Similarity measure|Fuzzy classification|Computer science|Fuzzy logic|Real-time computing|Test case|Statistical classification|Debugging|Computation
+references:8870360|303139982|1486172410|1950030762|1977331076|1992031231|1992862603|1994410331|2002261889|2013655083|2018430492|2034998024|2038777498|2065201438|2069358561|2070249305|2070581427|2073880961|2075117029|2083825874|2092742242|2099855131|2101819268|2106053110|2119269793|2120457925|2122111042|2128049346|2130323538|2137522044|2144935315|2157151971|2158870716|2159949130|2166007208|2293737317|2340020088|2342997079|2343875716|2408267940|2546562498|2563500353|2620081107|2751165549|2768250993
+
+
+id:2996901087
+title:Class Imbalance Data-Generation for Software Defect Prediction
+year:2019
+author information:[
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2996950991|
+author name:Xingyao Zhang
+author organization:Beijing University of Chemical technology
+author id:2997021159|
+author name:Junxia Guo
+author organization:Beijing University of Chemical
+author id:2306432149|
+author name:Ying Shang
+author organization:Beijing University of Chemical
+author id:2997367101|
+]
+abstract:imbalance|software|data|accuracy|approach|number|defect|balance|generated|defective|intraclass|model|different|results|generation|reduce|based|including|subregions|imbalanced|issue|method|experiment|sampling|impact|interclasses|handle|classified|subregions|difficulty|proposed|improve|defects|prediction|focused|simultaneously|deal|according|show|learning|generating|distribution|balanced|example|increases|effective|paper|feature|class|density|nature|strategies|effectively|clustered|approaches|data|interclass|sample|model|corresponding|increasing|achieved|space|imbalance
+venue name:Asia-Pacific Software Engineering Conference
+venue id:1134663949
+venue type:C
+document type:Conference
+study fields:Data mining|Feature vector|Computer science|Software bug|Real-time computing|Data imbalance|Sampling (statistics)|Test data generation
+references:1930624869|2011376672|2087240369|2104933073|2105776892|2118978333|2122111042|2128965734|2132791018|2148143831|2476464413|2737319015|2964050365
+
+
+id:3005688497
+title:Test Case Generation Based on Client-Server of Web Applications by Memetic Algorithm
+year:2019
+author information:[
+author name:Weiwei Wang
+author organization:Beijing University of Technology
+author id:3006549128|
+author name:Xiaohong Guo
+author organization:Beijing University of Chemical Technology
+author id:3005717039|
+author name:Zheng Li
+author organization:Beijing University of Chemical
+author id:2809674349|
+author name:Ruilian Zhao
+author organization:Beijing University of Chemical
+author id:2950962687|
+]
+abstract:considered|server|focus|faults|mechanisms|approach|cover|four|model|filtering|case|algorithm|generation|based|testing|sensitive|side|server|role|experiments|web|serverside|behavior|connect|side|involve|certain|open|effectively|source|guided|vulnerable|either|attacks|test|generated|regardless|results|generate|discover|test|serverside|difficult|insufficient|conducted|proposed|paths|demonstrate|potentially|erroneous|code|crucial|detect|memetic|interactions|client|studies|coverage|plays|cases|existing|due|vulnerabilities|detected|clientside|evolutionary|applications
+venue name:International Symposium on Software Reliability Engineering
+venue id:1157832733
+venue type:C
+document type:Conference
+study fields:Server-side|Memetic algorithm|Client-side|Computer science|Evolutionary testing|Filter (signal processing)|Computer network|Real-time computing|Test case|Web application|Client–server model
+references:878206596|2011539648|2026701697|2029775954|2037703285|2041694760|2051485057|2064924033|2092215304|2110517011|2126446220|2133591107|2144611797|2156817734|2171670202|2231486937|2262639634|2292865721|2570420616|2570579516|2577042338|2614667882|2809281541
+
+
+id:1680796032
+title:Periodic resource integration
+year:2015
+author information:[
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Chunhui Guo
+author organization:Illinois Institute of Technology
+author id:2469428965|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:equivalent|period|upper|empirical|none|problem|realtime|drawn|tasks|splitting|give|method|issue|lower|analysis|resource|community|jointly|years|integration|bounds|resourcesprovided|developed|study|increased|periodic|pattern|focuses|occurrence|two|capacity|unknown|emerging|together|fixedpattern|within|scheduling|integrate|nonsplittable|resourceprovided|theoretical|available|research|subcategory|sufficient|scheduling|always|last|resource|real|develop|task|fixed|present|support|instead|schedulability|provided|integrated|paper|studies|task|practical|multiple|arbitrary|resources|attention|time
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Job shop scheduling|Computer science|Scheduling (computing)|Real-time computing|Real systems|Periodic graph (geometry)|Resource integration|Empirical research|Distributed computing
+references:1582433831|1975489240|2005838647|2007233634|2014554712|2051607127|2065124096|2065398381|2074119815|2085630704|2097759096|2097874914|2109039029|2109488193|2121607363|2143508547|2157605676|2161022036|2166592660|2167972204|2170600460|2313175617
+
+
+id:1859328436
+title:Reliability guaranteed energy minimization on mixed-criticality systems
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Western Illinois University
+author id:2255041425|
+author name:Chunhui Guo
+author organization:Illinois Institute of Technology, Chicago, IL 60616, USA
+author id:2469428965|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology, Chicago, IL 60616, USA
+author id:2164263775|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+]
+abstract:extensive|constraints|simulation|improves|empirical|approach|stringent|problem|earlier|mc|scheduling|guarantees|results|analyze|energy|algorithm|resource|comparing|conducted|demand|saving|task|proposed|minimization|solve|analyze|algorithm|present|problemevaluate|evaluate|reliability|experiments|show|mixedcriticality|constraintsdevelop|paper|systems|scenariosachieve|studies|deadline|based|minimizes|validate|compared|set|approaches|heuristic|consumption|also|approaches|formulated|existing|performance|various|time|requirements|work|first
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Heuristic|Mathematical optimization|Computer science|Scheduling (computing)|Mixed criticality|Real-time computing|Energy consumption|Reliability engineering|Energy minimization
+references:297641684|1966770256|1980363975|1980576963|1987991317|1992967961|1994680589|2005353733|2014519677|2023062258|2034608968|2046574337|2054164942|2054666005|2078000719|2096840168|2105823724|2110460500|2120629818|2127739920|2133147762|2139613807|2141440050|2145815796|2621879533
+
+
+id:1974462383
+title:A greedy approach to tolerate defect cores for multimedia applications
+year:2011
+author information:[
+author name:Ke Yue
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2223964270|
+author name:Soumia Ghalim
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2229548870|
+author name:Zheng Li
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2255041425|
+author name:Frank Lockom
+author organization:Illinois Institute of Technology
+author id:2231249613|
+author name:Shangping Ren
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2159811858|
+author name:Lei Zhang
+author organization:Key Laboratory of CSA, Institute of Computing Technology, Chinese Academy of Sciences
+author id:2921180853|
+author name:Xiaowei Li
+author organization:Key Laboratory of CSA, Institute of Computing Technology, Chinese Academy of Sciences
+author id:2124183125|
+]
+abstract:systemonchip|simulation|approach|computationintensive|cores|algorithm|based|topology|resemblance|expected|size|algorithm|soc|reliability|variations|yield|indicate|redundancy|behavior|based|emerging|address|may|decreased|caused|one|replaced|defecttolerant|multimedia|meet|metric|unified|first|noc|used|clearly|developed|high|defective|greedy|communication|different|results|offers|infrastructure|given|new|ensure|networkonchip|timing|often|changes|develop|measure|improve|one|chips|parameters|tens|virtual|reconfiguration|reconfigure|redundant|platform|corelevel|effective|manycore|finetuned|define|effectiveness|mobile|specific|devices|minimized|topologies|performance|application|form|uses|integrates|applications
+venue name:Embedded Systems for Real-Time Multimedia
+venue id:1182252188
+venue type:C
+document type:Conference
+study fields:Decreased size|Application specific|Computer science|Real-time computing|Redundancy (engineering)|Control reconfiguration|System on a chip|Parallel computing|Greedy algorithm|Network topology|Mobile device|Multimedia|Embedded system
+references:2001304594|2061579081|2098725818|2099184371|2107184893|2109265409|2114673901|2132249049|2137813456|2148619379|2152781336|2160683277|2165738656|2167160754|2504219001
+
+
+id:1984487299
+title:Optimal Voting Strategy against Random and Targeted Attacks
+year:2013
+author information:[
+author name:Li Wang
+author organization:Illinois Institute of Technology, Chicago, IL, USA
+author id:2696419603|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+author name:Kevin Kwiat
+author organization:Air Force Research Laboratory, Rome, NY - USA
+author id:2248632246|
+]
+abstract:residency|optimal|voters|reliable|existence|voting|used|tolerating|number|introduced|problem|deciding|find|maximizes|participating|reliability|different|results|settings|commonly|individual|considering|illustrate|impact|often|significant|develop|system|selection|varies|replication|authors|algorithms|study|reliability|experiments|two|naturally|random|failures|intentionally|without|attack|taken|targeted|value|participants|replication|process|types|failures|participate|set|caused|replicas|makes|affects|attackers|approaches|performed|strategy|strategy
+venue name:International Journal of Secure Software Engineering
+venue id:43656255
+venue type:J
+document type:Journal
+study fields:Data mining|Voting|Computer science|Computer security
+references:180604521|301824129|1689905033|1968274760|1992580876|2020279381|2023143558|2037335935|2060053570|2061471463|2088668129|2090472855|2097545679|2100319778|2109554526|2110765100|2133048719|2147031831
+
+
+id:1987991317
+title:Energy minimization for checkpointing-based approach to guaranteeing real-time systems reliability
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Li Wang
+author organization:Department of Computer Science, Illinois Institute of Technology, Chicago, Illinois
+author id:2696419603|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida International University
+author id:2101967527|
+]
+abstract:experimental|executing|processors|entire|constraints|approach|problem|reliability|recent|energy|reduce|using|thus|large|overhead|work|theoretic|system|much|consumption|switching|study|compare|prove|reliability|overhead|guarantee|technique|neighboring|uniform|desired|based|deadline|empirically|set|particularly|one|change|frequency|scaling|checkpointing|checkpoint|small|framebased|achieves|frequency|results|guaranteed|real|develop|published|task|proposed|minimization|dynamic|needed|show|effective|minimal|optimizes|voltage|execution|allocation|literature|consumption|also|maximal|time|strategy|formally|frequencies
+venue name:International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing
+venue id:1174688487
+venue type:C
+document type:Conference
+study fields:Dynamic voltage frequency scaling|Computer science|Real-time computing|Real-time operating system|Time–frequency analysis|Transient analysis|Energy consumption|Energy minimization
+references:1547679562|1556221539|1853358807|1901543340|1980363975|1993686617|2068171717|2110460500|2116175063|2121002012|2127739920|2150607063|2154509298|2155195529|2163690561|2621879533
+
+
+id:2010657377
+title:Maximizing online service profit for time-dependent applications
+year:2013
+author information:[
+author name:Shuhui Li
+author organization:Illinois Institute of Technology
+author id:2311207198|
+author name:Miao Song
+author organization:Illinois Institute of Technology
+author id:2281630203|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida Int. University
+author id:2101967527|
+]
+abstract:functions|objective|maximize|navigation|utility|optimization|timedependent|tasks|respectively|goal|emerging|accepts|exist|fail|timedependent|system|provide|highest|predictionbased|algorithms|two|gain|systems|computers|density|representing|scheduling|many|advantages|associated|complete|first|evidence|used|scheduling|phgdf|profit|first|potential|results|commonly|deadline|iterative|respect|proposed|internet|request|generic|aware|total|paper|profit|algorithms|cost|profit|mobile|clear|earliest|technology|pair|penalty|simulation|accrued|online|time|iphgdf|applications|presents
+venue name:Embedded and Real-Time Computing Systems and Applications
+venue id:1152082401
+venue type:C
+document type:Conference
+study fields:Lottery scheduling|Fair-share scheduling|Computer science|Real-time computing|Two-level scheduling|Least slack time scheduling|Rate-monotonic scheduling|Dynamic priority scheduling|Earliest deadline first scheduling|Round-robin scheduling|Distributed computing
+references:50083869|56398976|2013472408|2015688941|2019047347|2101946201|2109488193
+
+
+id:2018858385
+title:Overall System Value Maximization for Resource Constrained Heterogeneous Real-Time Systems
+year:2012
+author information:[
+author name:Li Wang
+author organization:Dept. of Comput. Sci., Illinois Institute of Technol., Chicago, IL, USA
+author id:2696419603|
+author name:Zheng Li
+author organization:Dept. of Comput. Sci., Illinois Institute of Technol., Chicago, IL, USA
+author id:2255041425|
+author name:Shangping Ren
+author organization:Dept. of Computer Science, Illinois Institute of Tech., Chicago, IL
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida Int. University
+author id:2101967527|
+]
+abstract:multicore|select|experimental|approach|mainstream|maximize|problem|balance|tasks|tasks|hardware|respectively|quality|consolidated|system|processing|maximized|obtained|become|formulate|maxminmin|share|map|composing|compared|computationally|linear|may|problem|efficient|heuristic|many|computation|elements|scarce|first|integer|used|challenging|good|platforms|deploy|solution|different|results|programming|solver|commonly|timing|solutions|cplex|especially|proposed|perceived|overall|demonstrate|present|values|provides|value|met|requirements|cost|appropriately|resources|user|subset|applications
+venue name:Computational Science and Engineering
+venue id:1177288818
+venue type:C
+document type:Conference
+study fields:Heuristic|Mathematical optimization|Heuristic (computer science)|Computer science|Real-time computing|Integer programming|Solver|Heuristic programming|Maximization|Distributed computing|Computation
+references:1784710995|1923615342|1972300623|2010868970|2012059473|2018115912|2049602716|2073821436|2096816255|2109488193|2118236818|2119477620|2119921084|2120080222|2123315201|2124084473|2141076233|2146997196|2158002367|2160918806|2163007708|2168848281
+
+
+id:2018934282
+title:Reliability guaranteed energy-aware frame-based task set execution strategy for hard real-time systems
+year:2013
+author information:[
+author name:Zheng Li
+author organization:Illinois Institute of Technology, Chicago, IL 60616, USA
+author id:2255041425|
+author name:Li Wang
+author organization:Illinois Institute of Technology, Chicago, IL, USA
+author id:2696419603|
+author name:Shuhui Li
+author organization:Illinois Institute of Technology, Chicago, IL 60616, USA
+author id:2311207198|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida International University
+author id:2101967527|
+]
+abstract:select|optimal|judiciously|simulation|processors|executing|faults|approach|problem|realtime|calculate|tasks|energy|give|large|overhead|require|theoretic|execute|saving|system|reserved|transient|highest|processing|set|appropriate|switching|shared|study|prove|works|reliability|least|guarantee|executed|neighboring|existed|uniform|desired|share|based|set|particularly|purposes|many|reexecute|framebased|achieves|used|research|frequency|negligible|shown|different|directly|results|ensure|commonly|individual|level|guaranteed|task|dvfsenabled|rather|searching|frequent|occur|recovery|effective|recoverybased|consumes|execution|amount|literature|heuristically|resources|fault|consumption|also|approaches|improvement|minimized|formally|frequencies|subset
+venue name:Journal of Systems and Software
+venue id:37879656
+venue type:J
+document type:Journal
+study fields:Heuristic|Computer science|Real-time computing|Frame based|Energy consumption|Distributed computing
+references:1547679562|1853358807|1966770256|1980363975|2043318181|2059875042|2068171717|2110460500|2112996550|2114634893|2116175063|2118309158|2127739920|2129316999|2139613807|2145815796|2154509298|2154557633|2155195529|2163690561
+
+
+id:2020771764
+title:Resource Minimization for Real-Time Applications Using Computer Clouds
+year:2013
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+]
+abstract:dagbased|called|upper|experimental|deadlines|number|problem|realtime|finds|slack|scheduling|msmd|results|tasks|algorithm|reduce|give|using|ensure|resource|lower|develop|less|span|minimization|bounds|deadline|algorithms|distance|needed|endtoend|show|guarantee|clouds|existed|computer|minimal|schedules|based|deadline|make|computers|allocated|compared|minimize|address|literature|resources|heuristic|satisfaction|minimized|application|time|minimum|first|applications|span
+venue name:IEEE/ACM International Conference Utility and Cloud Computing
+venue id:2898324166
+venue type:C
+document type:Conference
+study fields:Computer science|Scheduling (computing)|Heuristic (computer science)|Real-time computing|Least slack time scheduling|Minification|Resource allocation|Minimisation (psychology)|Schedule|Cloud computing|Distributed computing
+references:2018198861|2083518825|2092333800|2096949818|2112943392|2117706453|2148652008|2149294210|2167384564
+
+
+id:2024649806
+title:Enhancing throughput of the Hadoop Distributed File System for interaction-intensive tasks
+year:2014
+author information:[
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:accessing|negligible|tasks|hardware|algorithm|large|issue|hadoop|distributed|system|size|throughput|bulk|commodity|average|access|frequently|experiments|increases|standalone|file|analyzes|ability|together|architecture|interactionintensive|set|accessed|problem|abstract|decreases|distributed|associated|sets|small|data|run|degradation|used|high|shown|dramatically|throughput|decrease|enhanced|proposed|relatively|files|file|purpose|cause|storage|system|general|operations|paper|along|provides|designed|overcomes|allocation|hdfs|performance|suitable|handling|user|applications|presents
+venue name:Journal of Parallel and Distributed Computing
+venue id:157146593
+venue type:J
+document type:Journal
+study fields:Distributed File System|Data set|General purpose|Computer science|Cache|Parallel computing|Degradation Problem|Allocation algorithm|Throughput|Commodity hardware|Operating system|Distributed computing
+references:11077074|1577668191|1660433879|2045177066|2081109058|2103128343|2110528713|2118947072|2119738171|2123066915
+
+
+id:2039220072
+title:Maintaining real-time application timing similarity for defect-tolerant NoC-based many-core systems
+year:2014
+author information:[
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Frank Lockom
+author organization:Illinois Institute of Technology
+author id:2231249613|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:employ|backup|noc|processors|cores|realtime|defective|broad|greedy|different|programming|based|given|new|including|networkonchip|timing|topology|expected|changes|develop|propose|topologies|yield|measure|improve|binary|one|parameters|algorithms|manycore|noc|mixed|reconfigure|corelevel|manycore|similarity|finetuned|applications|behavior|emerging|may|one|replaced|defecttolerant|quadratic|multimedia|application|meet|metric|first
+venue name:ACM Transactions in Embedded Computing Systems
+venue id:136160450
+venue type:J
+document type:Journal
+study fields:Virtualization|Binary quadratic programming|Computer science|Parallel computing|Network on a chip|Network topology|Greedy algorithm|Real-time computing|Backup|Distributed computing
+references:1586805319|1974462383|2058338151|2061579081|2098725818|2113968888|2117122374|2120538858|2123184444|2137813456|2142386205|2152159617|2152781336|2160642395|2160683277|2165738656|2168082067|2336259629|2434921293
+
+
+id:2046846266
+title:Dynamic Reservation-Based Mixed-Criticality Task Set Scheduling
+year:2014
+author information:[
+author name:Zheng Li
+author organization:Dept. of Comput. Sci., Illinois Institute of Technol., Chicago, IL, USA
+author id:2255041425|
+author name:Shangping Ren
+author organization:Dept. of Comput. Sci., Illinois Institute of Technol. Chicago, Chicago, IL, USA
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida Int. University
+author id:2101967527|
+]
+abstract:usage|experimental|approach|problem|reservationbased|tasks|algorithm|respectively|edfvd|systems|deadlines|one|guarantee|modern|systems|share|deadline|embedded|greedy|key|minimize|set|address|mixedcriticality|many|meet|drbs|ratio|validated|high|ratio|scheduling|dynamic|results|always|resource|need|widely|addressed|task|proposed|improve|present|allow|locriticality|deployed|challenges|schedulability|show|respective|mixedcriticality|miss|provides|design|effectiveness|also|experimentally|approaches|schedule|existing|platform|reduction|hicriticality
+venue name:High Performance Computing and Communications
+venue id:1148948064
+venue type:C
+document type:Conference
+study fields:Fixed-priority pre-emptive scheduling|Fair-share scheduling|Computer science|Deadline-monotonic scheduling|Real-time computing|Least slack time scheduling|Schedule|Rate-monotonic scheduling|Dynamic priority scheduling|Earliest deadline first scheduling|Distributed computing
+references:1988249672|1992967961|2005353733|2034608968|2078000719|2096840168|2105823724|2106327115|2120629818|2133147762|2137654363|2141440050|2171679413
+
+
+id:2049720718
+title:A genetic algorithm based approach to maximizing real-time system value under resource constraints
+year:2012
+author information:[
+author name:Li Wang
+author organization:Dept . of Computer Science|Illinois Institute of Technology
+author id:2696419603|
+author name:Zheng Li
+author organization:Dept . of Computer Science|Illinois Institute of Technology
+author id:2255041425|
+author name:Miao Song
+author organization:Dept . of Computer Science|Illinois Institute of Technology
+author id:2281630203|
+author name:Shangping Ren
+author organization:Dept . of Computer Science|Illinois Institute of Technology
+author id:2159811858|
+]
+abstract:optimal|processors|approach|problem|realtime|diverse|tasks|hardware|algorithm|based|large|made|demand|consolidated|system|selection|obtained|astd|choices|compare|deadlines|gabased|executed|functionality|existed|literature|decisions|embedded|close|deployment|genetic|may|decision|problem|approaches|heuristic|possible|many|meet|small|available|growing|different|results|selected|making|maximized|guaranteed|chosen|twice|task|functionalities|present|values|contribute|show|deployed|platform|due|value|limited|nphard|resources|experimentally|approaches|performance|application|enumerating|scale|applications
+venue name:International Performance, Computing, and Communications Conference
+venue id:1153926724
+venue type:C
+document type:Conference
+study fields:Heuristic|Optimal decision|Software deployment|Computer science|Quality of service|Real-time operating system|Real-time computing|Resource allocation|Genetic algorithm|Computational complexity theory|Distributed computing
+references:17748033|1540838551|1567206874|1586409345|1639032689|1784710995|1863682313|1923615342|1972300623|1983354559|2010868970|2012059473|2017709142|2018115912|2022637272|2027197113|2049602716|2073821436|2096816255|2109488193|2118236818|2119477620|2119921084|2123315201|2124084473|2141076233|2142743910|2146997196|2153726799|2158002367|2160918806|2163007708|2163109311|2168848281
+
+
+id:2063510879
+title:Resource and Instance Hour Minimization for Deadline Constrained DAG Applications Using Computer Clouds
+year:2016
+author information:[
+author name:Hao Wu
+author organization:Illinois Institute of Technology
+author id:2403652775|
+author name:Xiayu Hua
+author organization:Illinois Institute of Technology
+author id:2164263775|
+author name:Zheng Li
+author organization:Illinois Institute of Technology
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+]
+abstract:application|called|upper|experimental|ihm|decided|number|problem|finds|slack|applied|tasks|algorithm|reduce|give|lower|execute|autoscaling|bounds|execution|deadline|makespan|algorithms|turned|endtoend|guarantee|computer|deadline|based|minimizes|compared|address|heuristic|satisfaction|constrained|machine|complete|operation|minimum|first|instance|dbus|deadlines|directedacyclicgraphbased|qosbase|scheduling|msmd|vms|results|ensure|resource|heft|develop|less|proposed|minimization|clouds|vm|virtual|distance|instances|applied|needed|show|deployed|clouds|moheft|percent|total|minimal|hour|schedules|allocated|execution|hours|determine|literature|effectively|resources|minimized|schedule|application|time|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Job shop scheduling|Virtual machine|Scheduling (computing)|Heuristic (computer science)|Computer science|Parallel computing|Real-time computing|Minification|Schedule|Least slack time scheduling|Distributed computing|Cloud computing
+references:1738767047|1903036498|1970168772|1999875337|2009839239|2018198861|2028111074|2028351695|2030460158|2066248324|2068739318|2092333800|2096949818|2105908337|2112943392|2116358491|2128525985|2142243927|2149294210|2150186085|2151975141|2153657167|2167384564|2176044726
+
+
+id:2076523427
+title:Hungarian algorithm based virtualization to maintain application timing similarity for defect-tolerant NoC
+year:2012
+author information:[
+author name:Ke Yue
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2223964270|
+author name:Frank Lockom
+author organization:Illinois Institute of Technology
+author id:2231249613|
+author name:Zheng Li
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2255041425|
+author name:Soumia Ghalim
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2229548870|
+author name:Shangping Ren
+author organization:Department of CS, Illinois Institute of Technology, Chicago, Illinois 60616
+author id:2159811858|
+author name:Lei Zhang
+author organization:Institute of Comput. Technol., Beijing, China
+author id:2921180853|
+author name:Xiaowei Li
+author organization:Key Lab. of CSA, Institute of Comput. Technol., Beijing, China
+author id:2124183125|
+]
+abstract:employ|optimal|simulation|processors|program|approach|priori|introduced|cores|realtime|broad|case|algorithm|based|mapping|using|method|topology|expected|accurately|difference|obtained|evaluate|differences|pattern|known|variations|yield|indicate|redundancy|behavior|based|embedded|close|emerging|address|may|caused|one|replaced|defecttolerant|defectredundant|meet|metric|unified|able|standard|performs|noc|used|developed|solution|defective|communication|different|calculated|resemblances|traffic|given|new|including|comparison|timing|networkonchip|often|changes|less|graph|core|task|measure|proposed|improve|one|chips|parameters|virtual|homogeneous|reconfiguration|reconfigure|assignments|redundant|platform|corelevel|effective|random|similarity|manycore|finetuned|studies|applications|deviation|also|specific|minimized|topologies|application|form|infrastructure|hungarian
+venue name:Asia and South Pacific Design Automation Conference
+venue id:1137823534
+venue type:C
+document type:Conference
+study fields:Hungarian algorithm|Virtualization|Airfield traffic pattern|Computer science|A priori and a posteriori|Network on a chip|Real-time computing|Network topology|Redundancy (engineering)|Control reconfiguration|Distributed computing
+references:1556387124|1966606806|2054302810|2137813456|2142386205|2152781336|2153608655|2160683277|2160847478
+
+
+id:2087973217
+title:Energy minimization for reliability-guaranteed real-time applications using DVFS and checkpointing techniques
+year:2015
+author information:[
+author name:Zheng Li
+author organization:Illinois Institute of Technology, Chicago, IL 60616, USA
+author id:2255041425|
+author name:Shangping Ren
+author organization:Illinois Institute of Technology USA
+author id:2159811858|
+author name:Gang Quan
+author organization:Florida International University
+author id:2101967527|
+]
+abstract:experimental|executing|processors|approach|without|sacrificing|realtime|reliability|energy|using|issue|large|overhead|utilizes|execute|system|highest|switching|compare|prove|reliability|overhead|save|guarantee|neighboring|uniform|desired|deadline|based|empirically|compared|particularly|approaches|abstract|caused|one|change|makes|satisfaction|frequency|scaling|requirements|checkpointing|addresses|theoretical|developed|stringent|frequency|backward|results|needs|develop|published|proposed|minimization|techniques|used|useful|dynamic|show|recovery|minimal|paper|voltage|consumes|execution|requirements|recently|fault|also|consumption|minimized|application|strategy|work|formally|frequencies|applications|dvfs
+venue name:Journal of Systems Architecture
+venue id:127660348
+venue type:J
+document type:Journal
+study fields:Dynamic voltage frequency scaling|Computer science|Parallel computing|Real-time computing|Energy consumption|Embedded system|Energy minimization
+references:1519198589|1547679562|1556221539|1853358807|1901543340|1966770256|1980363975|1987991317|1993686617|2010966375|2011024076|2018934282|2028435775|2043318181|2058898331|2068171717|2096834828|2098864349|2110460500|2116175063|2118309158|2121002012|2127739920|2139613807|2142386205|2145815796|2150607063|2154509298|2155195529|2163690561|2169213530|2171476193
+
+
+id:2559788967
+title:Cost-Aware Region-Level Data Placement in Multi-Tiered Parallel I/O Systems
+year:2017
+author information:[
+author name:Shuibing He
+author organization:Wuhan University
+author id:2203336383|
+author name:Yang Wang
+author organization:Shenzhen Institute of Advanced Technology
+author id:2674815308|
+author name:Zheng Li
+author organization:Western Illinois University
+author id:2255041425|
+author name:Xian-He Sun
+author organization:Dept. of Comput. Sci., Illinois Institute of Technol., IL, USA
+author id:2984675560|
+author name:Chenzhong Xu
+author organization:Shenzhen Institute of Advanced Technology, Chinese Academy of Science,ShenZhen,China
+author id:2329287985|
+]
+abstract:regionlevel|carl|entire|evaluation|promising|based|large|ssds|benefiting|propose|whose|highperformance|traditional|system|among|placement|completely|environment|systems|regions|access|scheme|achieve|unknown|window|file|library|systems|place|orangefs|emerging|policy|performance|mitigate|within|scarl|workload|places|able|small|data|several|hdds|remains|parallel|selectively|dcarl|placing|high|shows|implemented|multitiered|dynamic|feasible|benchmarks|different|representative|challenge|significantly|combine|dcarl|static|mpiio|patterns|adapt|includes|servers|migrates|improve|costaware|region|proper|burden|servers|tier|parallel|divides|dataintensive|costs|types|cost|costs|calculates|multitiered|superior|performance|application|uses|time|applications
+venue name:IEEE Transactions on Parallel and Distributed Systems
+venue id:97130795
+venue type:J
+document type:Journal
+study fields:Data modeling|File system|Computer science|Server|Computer network|Real-time computing|Dynamic data|Software|Distributed database|Solid-state drive|Parallel I/O|Distributed computing
+references:29965319|1498936153|1544082942|1793325024|1986223365|1990819515|2002125998|2007868391|2023678166|2024329288|2029515800|2065685496|2082416889|2084717310|2090132317|2097620557|2099337733|2101675015|2106436364|2106732943|2107200720|2119738171|2120298634|2124256298|2124995848|2125499854|2125788329|2126857476|2128134963|2129805326|2129855029|2131645490|2148132761|2155238187|2157191610|2162288748|2165836929|2169909584|2272886950|2342454696|2343096070|2913877777
+
+
+id:2770759135
+title:Fixed-Priority Scheduling for Two-Phase Mixed-Criticality Systems
+year:2017
+author information:[
+author name:Zheng Li
+author organization:Western Illinois University
+author id:2255041425|
+author name:Shuibing He
+author organization:Wuhan University
+author id:2203336383|
+]
+abstract:extensive|instructions|fixedpriority|theoretical|experimental|different|mc|find|model|twophase|results|tasks|tasks|theoretical|developed|phase|given|test|foundations|conducted|priority|memoryaccess|computation|traditional|proposed|requires|assignment|schedulability|experiments|best|mixedcriticality|based|phases|validate|established|effectiveness|execution|assignment|twostage|computation|fetch|approach|first
+venue name:ACM Transactions in Embedded Computing Systems
+venue id:136160450
+venue type:J
+document type:Journal
+study fields:Fixed-priority pre-emptive scheduling|Fair-share scheduling|Computer science|Parallel computing|Deadline-monotonic scheduling|Two-level scheduling|Rate-monotonic scheduling|Earliest deadline first scheduling|Dynamic priority scheduling|Round-robin scheduling
+references:173440190|1981263595|1992967961|2005353733|2034608968|2036414762|2037933704|2046846266|2056227251|2078000719|2086061827|2091580198|2096840168|2105823724|2106327115|2109488193|2120629818|2133147762|2137189977|2137654363|2141440050|2146412113|2267268515|2346584580|2491606241|2529424151
+
+
+id:2922170405
+title:Run-time timing prediction for system reconfiguration on many-core embedded systems
+year:2019
+author information:[
+author name:Zheng Li
+author organization:Stockton University
+author id:2921538989|
+author name:Shuibing He
+author organization:Wuhan University
+author id:2921300896|
+]
+abstract:extensive|select|optimal|focus|approach|without|realtime|model|usually|utilized|investigated|hardware|still|using|work|impact|runtime|invokes|operate|system|among|appropriate|systems|experiments|result|offline|malfunction|systems|accommodate|embedded|validate|may|strategies|initial|abstract|could|change|one|possible|continuously|stage|approach|supported|choices|constraints|acceptable|data|hostile|historical|research|mode|runtime|fine|dynamic|different|results|alter|train|needs|timing|behaviors|conducted|proposed|violation|prediction|vital|manycore|deployed|choose|tune|manycore|induced|predict|effectiveness|execution|supervision|twostage|environment|performance|application|response|migration|online|time|strategy
+venue name:Journal of Systems Architecture
+venue id:127660348
+venue type:J
+document type:Journal
+study fields:Computer science|Response time|Mode change|System reconfiguration|Embedded system
+references:1480376833|1507582159|1973914465|1992967961|2030532958|2039220072|2062664863|2113968888|2117122374|2117285153|2127961257|2132511032|2137498048|2142131732|2147733201|2157070686|2168361773|2215983828|2509809785|2596801064|2726730097
+
+
+id:2213647436
+title:A novel constrained tendon-driven serpentine manipulator
+year:2015
+author information:[
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Haoyong Yu
+author organization:National University
+author id:2184589503|
+author name:Hongliang Ren
+author organization:Nat. University of Singapore
+author id:2109301670|
+author name:Philip W.Y. Chiu
+author organization:the Chinese University of Hong Kong
+author id:2095630781|
+author name:Ruxu Du
+author organization:Chinese University of Hong Kong
+author id:2149778378|
+]
+abstract:workspace|smaller|constant|translational|section|experimental|developed|curvature|shows|ctsm|model|controlling|results|based|invasive|tendondriven|introducing|minimally|presented|comprises|expansion|bending|length|suited|flexible|analysis|serpentine|larger|stiffer|tendons|analysis|assumption|improved|idea|constraint|piecewise|enhancement|design|manipulator|concentric|backbone|validate|set|length|also|constrained|prototype|kinematic|controlled|dexterity|constraint|novel|surgery
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Concentric|Constant curvature|Curvature|Kinematics|Control theory|Computer science|Workspace|Control engineering|Bending|Piecewise|Tendon
+references:1533067550|1967728830|2032366047|2041825572|2049460350|2101667962|2111866551|2131150943|2133997127|2134555091|2167138223|2911915723
+
+
+id:2506351120
+title:Design and prototyping of a concentric wire-driven manipulator
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Chengzhi Song
+author organization:Chinese University of Hong Kong
+author id:2508419359|
+author name:Hongmin Wang
+author organization:The Chinese University of Hong Kong
+author id:2513420412|
+]
+abstract:accessibility|manipulators|inside|body|curvature|motivates|bend|surgical|representative|new|invasive|researchers|widely|cavity|less|develop||two|sections|bending|objective|tube|especially|fixed|embraced|flexible|success|improve|wiredriven|confined|manipulator|concentric|manipulability|key|limits|include|multitude|could|control|excel|lengths|due|minimally|wdms|space|intend|design|surgery|traumatic
+venue name:IEEE International Conference on Biomedical Robotics and Biomechatronics
+venue id:2754868432
+venue type:C
+document type:Conference
+study fields:Wavelength-division multiplexing|Curvature|Concentric|Manipulator|Bending|Control engineering|Engineering
+references:1891615552|2041825572|2101667962
+
+
+id:2566338237
+title:Design and kinematic modeling of a concentric wire-driven mechanism targeted for minimally invasive surgery
+year:2016
+author information:[
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Philip W.Y. Chiu
+author organization:the Chinese University of Hong Kong
+author id:2095630781|
+author name:Ruxu Du
+author organization:Chinese University of Hong Kong
+author id:2149778378|
+]
+abstract:conforms|separate|modeling|section|experimental|developed|nested|tip|preliminary|mechanisms|results|dominants|wdm|based|shape|compared|wdm|presented|outer|comprises|stiffness|inner|bending|contains|tube|flexible|much|wiredriven|wider|serves|two|design|cwm|concentric|backbone|mechanism|workspace|demonstrated|validate|set|advantage|section|wires|prototype|simulations|kinematic|controlled|distal|conventional|pulling|controllable|concept|overlapped|base
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Wavelength-division multiplexing|Concentric|Kinematics|Stiffness|Computer science|Workspace|Mechanical engineering|Cwm|Bending|Electronic engineering|Control engineering|Kinematic modeling
+references:1508870809|1528755127|1891615552|1967728830|1988003703|1991443363|2020635539|2087104703|2090150807|2101667962|2111866551|2119531408|2131150943|2213647436|2535851765
+
+
+id:2591758702
+title:Static modeling and analysis of continuum surgical robots
+year:2016
+author information:[
+author name:Han Yuan
+author organization:the Chinese University of Hong Kong
+author id:2735137327|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Hongmin Wang
+author organization:The Chinese University of Hong Kong
+author id:2513420412|
+author name:Chengzhi Song
+author organization:Chinese University of Hong Kong
+author id:2508419359|
+]
+abstract:increasingly|modeling|modeling|considered|percent|years|curvature|observed|continuum|robot|newtoneuler|assumption|model|recent|investigated|element|based|using|invasive|shape|method|stype|minimally|analysis|loading|load|driven|invalid|force|circumstances|internal|focuses|backbone|based|robots|established|continuum|loads|conditions|elastic|certain|adopted|surgery|statics|constant|reveal|robots|loaded|endeffector|method|potential|calculated|cable|results|given|static|commonly|finite|widely|less|affected|bending|external|position|disks|error|paper|validated|gravity|motion|limited|simulation|due|tubes|significantly|applications
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Rigidity (psychology)|Constant curvature|Statics|Static analysis|Bending|Control engineering|Finite element method|Engineering|Robot|Elasticity (economics)|Structural engineering
+references:1503317857|1967728830|1996023871|2053614949|2059944434|2091884377|2096645690|2101667962|2119531408|2126182407|2147492425|2154963387|2168393068|2184993170
+
+
+id:2592249832
+title:Design and prototyping of a soft earthworm-like robot targeted for GI tract inspection
+year:2016
+author information:[
+author name:HoLam Heung
+author organization:the Chinese University of Hong Kong
+author id:2593473964|
+author name:Philip W.Y. Chiu
+author organization:the Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:expanding|regulate|tested|section|delivered|inside|without|monitored|pig|crawl|robot|colon|actuators|prototyped|robots|vivo|drag|tubular|different|soft|respectively|n|using|pwm|pressure|sections|three|gastrointestinal|bending|contains|tube|ex|versions|driven|force|crawling|present|tract|steep|show|function|slowing|slopes|inspection|two|speed|pneumatic|paper|robot|targeted|enables|allows|earthworm|could|effectively|one|also|environment|results|maximum|pvc|extending
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Drag|Crawling|Simulation|Bending|Control engineering|Engineering|Robot|Actuator
+references:2054628872
+
+
+id:2663063359
+title:Shape-Reconstruction-Based Force Sensing Method for Continuum Surgical Robots With Large Deformation
+year:2017
+author information:[
+author name:Han Yuan
+author organization:School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen
+author id:2735137327|
+author name:Philip Wai Yan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:delicate|depend|accuracy|resolution|years|continuum|robot|algorithm|based|invasive|issue|method|shape|past|minimally|require|propose|provide|mis|letter|analyze|force|cables|requires|average|deal|experiments|validate|continuum|within|g|model|simulations|extensive|accuracy|results|tensions|maximum|operations|information|surgery|angle|addresses|robots|surgical|tip|feasible|robots|potential|new|pose|g|driving|proposed|critical|angles|force|kinematicstatic|show|structures|error|attracting|value|carried|sensing|attentions|groups|palpation|deflection|due|reconstruction|applications
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Deflection (engineering)|Control theory|Mechanical engineering|Continuum (design consultancy)|Engineering|Deformation (mechanics)|Robot|Shape reconstruction|Structural engineering
+references:1964620727|1997480144|2005284429|2020409524|2049460350|2057785338|2081704684|2101667962|2101797976|2105942676|2111551460|2113858239|2122748217|2153361386|2184993170|2276112427|2413056234|2416176951|2556348820|2562881420|2591758702|2758416491
+
+
+id:2772510304
+title:Design and prototyping of a soft magnetic anchored and guidance endoscope system
+year:2017
+author information:[
+author name:Truman Cheng
+author organization:The Chinese University of Hong Kong
+author id:2704449066|
+author name:Calvin Sze Hang Ng
+author organization:The Chinese University of Hong Kong
+author id:2100697975|
+author name:Philip Wai Yan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:joints|anchored|offer|accessing|instruments|camera|magnetic|fabricating|recent|soft|invasive|magnets|made|fabrication|cavity|testing|assembling|substantial|easy|make|contains|system|size|liberates|decades|current|internal|one|two|seen|maneuver|rigid|crowded|controller|particularly|could|model|single|site|constraint|endoscope|novel|surgery|small|laparoendoscopic|inside|lab|port|solution|surgical|potential|results|always|settings|development|maneuvering|mags|experimental|replaceable|difficult|includes|system|articulated|external|present|show|lightweight|relies|components|porcine|guidance|due|minimally|stable|wireless
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Endoscope|Control theory|Computer science|Control engineering|Guidance system|Computer hardware|Wireless camera
+references:1972057105|2024789029|2066506863|2203557876
+
+
+id:2909043882
+title:A Biomimetic Soft Robot for Inspecting Pipeline with Significant Diameter Variation
+year:2018
+author information:[
+author name:Xue Zhang
+author organization:The Chinese University of Hong Kong Department of Surgery
+author id:2803361807|
+author name:Tianle Pan
+author organization:the Chinese University of Hong Kong
+author id:2910845490|
+author name:Ho Lam Heung
+author organization:the Chinese University of Hong Kong
+author id:2908692018|
+author name:Philip Wai Yan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:mostly|central|developed|three|variation|conventional|robot|pipelines|solution|diameter|model|pipe|robots|tubular|results|tasks|inspection|soft|navigate|large|made|experimental|adapt|significant|system|gastrointestinal|size|provide|especially|etc|materials|present|environment|generator|tract|analytical|times|additional|turnings|show|fundamental|current|earthwormlike|predict|rigid|pattern|navigation|could|change|control|soft|variation|sharp|pipeline|environment|change|well|consists|maximum
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Pipeline transport|Computer science|Control engineering|Soft robotics|Control system|Robot|Size change|Mobile robot|Actuator
+references:1977051477|2054628872|2131607098|2142602006|2343985080|2591614560|2592249832|2770873596
+
+
+id:2913626197
+title:Autonomous Flexible Endoscope for Minimally Invasive Surgery With Enhanced Safety
+year:2019
+author information:[
+author name:Xin Ma
+author organization:Chinese University of Hong Kong
+author id:2807786716|
+author name:Chengzhi Song
+author organization:Chinese University of Hong Kong
+author id:2911554336|
+author name:Philip Waiyan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:increasingly|occupation|optimal|safer|experimental|without|concern|robot|safety|guide|servoing|based|safety|invasive|method|compared|instruments|minimally|kit|system|flexible|level|become|study|automatically|vinci|automatically|mechanism|nearby|rigid|minimize|automation|continuum|one|comfort|help|advantages|apart|endoscope|da|adopted|surgery|conditional|remains|used|developed|robotic|research|space|autonomy|automation|major|surgical|topic|results|assistants|attractive|tendondriven|less|task|proposed|improve|present|full|show|integrated|operations|degreeoffreedoms|track|visual|highly|six|motion|control|although|achievable|existing|performance|reducing|user
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Kinematics|Optimal control|SAFER|Control engineering|Flexible endoscope|Automation|Robotic surgery|Visual servoing|Engineering|Robot
+references:1973086629|1977272108|2021435529|2047374551|2061417916|2135611875|2151242910|2167501464|2169181282|2792613771
+
+
+id:2954561861
+title:Shared Autonomy of a Flexible Manipulator in Constrained Endoluminal Surgical Tasks
+year:2019
+author information:[
+author name:Xin Ma
+author organization:The Chinese University of Hong Kong
+author id:2807786716|
+author name:Peng Wang
+author organization:The Chinese University of Hong Kong
+author id:2953411423|
+author name:Minxin Ye
+author organization:The Chinese University of Hong Kong
+author id:2940266277|
+author name:Philip Wai Yan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:automation|tissue|falcon|defines|via|feedback|instruments|would|deformation|recent|manipulation|surrounding|excision|based|work|simulated|active|dynamically|years|system|rely|flexible|stereo|consideration|device|environment|shared|surgeons|planned|manual|adaptive|current|editorial|automation|controller|teleoperation|makes|possible|constrained|controlled|framework|novint|operations|transanal|operation|endoscope|levels|material|surgery|endoluminal|becoming|mesorectal|good|robotics|operator|autonomy|test|level|fictional|difficult|collision|task|points|techniques|mock|full|manipulator|dissection|submucosal|science|dissection|threedegreeoffreedom|candidate|total|validated|lies|manipulator|highly|six|introduce|although|achievable|trajectory|endoscopic|existing|marking
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Control theory|Task analysis|Manipulator|Autonomy|Control engineering|Automation|Artificial intelligence|Engineering|Endoscopic submucosal dissection|Robotics|Trajectory
+references:1553291853|2041825572|2167667767|2530266826|2566338237|2598070036|2792613771|2964128428
+
+
+id:2955986137
+title:Visual Servo Control of a Novel Magnetic Actuated Endoscope for Uniportal Video-Assisted Thoracic Surgery
+year:2019
+author information:[
+author name:Truman Cheng
+author organization:The Chinese University of Hong Kong
+author id:2704449066|
+author name:Weibing Li
+author organization:The Chinese University of Hong Kong
+author id:2954352411|
+author name:Calvin Sze Hang Ng
+author organization:The Chinese University of Hong Kong
+author id:2100697975|
+author name:Philip Wai Yan Chiu
+author organization:Chinese University of Hong Kong
+author id:2095630781|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:workspace|compact|anchored|following|robots|contributions|visual|magnetic|surgical|model|servo|case|chest|development|workflow|method|simulation|conducted|videoassisted|system|feasibility|expand|improve|letter|uniportal|errors|endoscope|prove|automatically|capable|instrument|proving|experiments|prevent|systems|muscle|instrument|fatigues|track|designed|close|human|derived|actuated|vats|validate|allows|include|implementing|verified|control|constrained|kinematic|first|suitable|endoscope|thoracic|operation|space|first|novel|presents|surgery
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Endoscope|Kinematics|Simulation|Workspace|Surgical instrument|Control engineering|Aerospace electronics|Engineering|Servo control|Robot|Cardiothoracic surgery
+references:2001104271|2082511574|2084188715|2116123087|2137924757|2169181282|2301565817|2772510304|2810031855|2890204523|2913626197
+
+
+id:2966021522
+title:Design of a 3D Printed Soft Robotic Hand for Stroke Rehabilitation and Daily Activities Assistance
+year:2019
+author information:[
+author name:Kelvin H. L. Heung
+author organization:The Chinese University of Hong Kong
+author id:2897690774|
+author name:Zhi Qiang Tang
+author organization:The Chinese University of Hong Kong
+author id:2964428750|
+author name:Leo Ho
+author organization:The Chinese University of Hong Kong
+author id:2965604437|
+author name:Macro Tung
+author organization:The Chinese University of Hong Kong
+author id:2966301332|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Raymond K. Y. Tong
+author organization:The Chinese University of Hong Kong
+author id:2714142024|
+]
+abstract:reach|facilitated|source|observed|output|rehabilitation|actuator|seca|survivors|model|coin|tasks|soft|algorithm|using|worn|method|two|printed|input|force|evaluate|providing|extension|direct|flexion|personalized|seca|accommodate|actively|hand|finger|grasping|composite|predictive|maximum|used|robotic|function|tip|different|results|n|new|softelastic|bending|survivors|daily|present|kpa|pressurizing|angles|show|training|learning|assistance|integrated|intentionbased|recruited|actuator|sizes|multiple|performing|control|also|improvement|stroke|secas|activities|iterative|base
+venue name:IEEE International Conference on Rehabilitation Robotics
+venue id:2755355420
+venue type:C
+document type:Conference
+study fields:Rehabilitation|Torque|Activities of daily living|Simulation|Computer science|Model predictive control|Stroke|Soft robotics|Iterative learning control|Actuator
+references:1571978122|2002019593|2054628872|2409339128|2588682554|2896890685
+
+
+id:2967653827
+title:A Novel Iterative Learning Model Predictive Control Method for Soft Bending Actuators
+year:2019
+author information:[
+author name:Zhi Qiang Tang
+author organization:The Chinese University of Hong Kong
+author id:2967707024|
+author name:Ho Lam Heung
+author organization:the Chinese University of Hong Kong
+author id:2968114136|
+author name:Kai Yu Tong
+author organization:The Chinese University of Hong Kong
+author id:2968671618|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+]
+abstract:mpc|accurate|modeling|simulation|accuracy|curve|process|remains|experimental|used|ilc|challenging|approach|research|improved|output|actuator|composite|method|model|satisfactory|robots|results|soft|method|compared|iterative|propose|difficulty|bending|take|proposed|guess|rely|improve|pseudorigidbody|attract|show|learning|softelastic|gradually|reduces|ability|behavior|free|validate|sensing|initial|predictive|learning|control|soft|outperforms|worldwide|conventional|due|uniqueness|interests|actuators|significantly|novel
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Uniqueness|Iterative method|Control theory|Model predictive control|Control engineering|Soft robotics|Engineering|Iterative learning control|Robot|Learning curve|Actuator
+references:2007726556|2119343887|2137670317|2143007722|2156378823|2159038290|2166624756|2168393068
+
+
+id:2973840551
+title:An Experimental Study on the Fish Body Flapping Patterns by Using a Biomimetic Robot Fish
+year:2020
+author information:[
+author name:Fengran Xie
+author organization:The Chinese University of Hong Kong
+author id:2791321495|
+author name:Zheng Li
+author organization:Chinese University of Hong Kong
+author id:2306593770|
+author name:Yang Ding
+author organization:Beijing Computational Science Research Center, Beijing, China
+author id:2140427325|
+author name:Yong Zhong
+author organization:South China University of Technology
+author id:2928245465|
+author name:Ruxu Du
+author organization:South China University of Technology
+author id:2947588647|
+]
+abstract:elongated|half|recoil|experimental|asymmetry|theory|robot|improved|number|balance|four|fish|guidelines|model|phase|shape|conclusions|traveling|sinusoidal|provide|among|letter|following|triangular|generator|study|affect|experiments|pattern|cambering|swimming|mimics|fish|reduces|based|gives|characterized|pattern|beating|swims|cruising|designing|fish|ratio|findings|central|used|body|developed|arrangement|skeleton|high|different|generate|results|thrust|offers|patterns|follows|understandings|conducted|real|cruising|proposed|largest|smallest|investigate|speed|wave|muscle|flapping|performances|designed|body|built|biomimetic|control|structure|efficiency|better|parameter|time|presents
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Robot fish|Control theory|Robot kinematics|Shape parameter|Engineering|Recoil|Central pattern generator|Amplitude|Thrust|Flapping
+references:20669627|1146793508|1957381638|1981581109|1999272004|2000076730|2032366047|2054770607|2147137560|2737009002|2793128170|2913775185
+

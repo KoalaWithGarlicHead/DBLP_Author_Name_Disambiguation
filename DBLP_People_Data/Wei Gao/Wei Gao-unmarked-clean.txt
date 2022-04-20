@@ -1,0 +1,2660 @@
+
+id:185460875
+title:Tracking Sentiment and Topic Dynamics from Social Media
+year:2012
+author information:[
+author name:Yulan He
+author organization:Open University
+author id:2124193838|
+author name:Chenghua Lin
+author organization:Open University
+author id:2141260205|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Kam Fai Wong
+author organization:Chinese University of Hong Kong
+author id:2189748902|
+]
+abstract:joint|data|tracking|newly|dynamics|reviews|generated|shifts|dynamic|model|recurrent|crawled|sequentially|propose|distributions|sentiment|proposed|topic|word|addon|sentiment|mozilla|inference|according|show|update|derive|arrived|current|captured|procedures|epochs|views|allows|effectiveness|detection|previous|efficient|specific|sentimenttopic|assuming|online|interests
+venue name:International Conference on Weblogs and Social Media
+venue id:1124713781
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Inference|Sentiment analysis|Computer science|Natural language processing|Artificial intelligence|Topic model
+references:359818833|2108420397|2122369144|2123751690
+
+
+id:368657786
+title:Cross-Lingual Identification of Ambiguous Discourse Connectives for Resource-Poor Language
+year:2012
+author information:[
+author name:Lanjun Zhou
+author organization:Chinese University of Hong Kong
+author id:2107258247|
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Binyang Li
+author organization:Chinese University of Hong Kong
+author id:2135234778|
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Kam-Fai Wong
+author organization:Qatar Foundation
+author id:2189748902|
+]
+abstract:usage|languages|ambiguities|soon|annotated|terms|corpora|limitations|resourcepoor|based|using|method|classification|quality|discourse|algorithm|word|become|independent|utilizing|fundamental|connectives|dictionary|lexicon|may|connective|available|many|nondiscourse|framework|bilingual|showed|chinese|cotraining|first|disambiguated|data|treebank|senses|recognizing|corpus|language|research|ambiguity|high|brings|bilingual|signal|results|experimental|towards|publicly|lack|penn|ambiguities|proposed|present|alignment|translating|effort|parallel|chinese|built|start|estimated|also|discourse|english|performance|achieved|information
+venue name:International Conference on Computational Linguistics
+venue id:1169674987
+venue type:C
+document type:Conference
+study fields:Cross lingual|Computer science|Lexicon|Natural language processing|Artificial intelligence|Treebank|Ambiguity|Linguistics|Poor language
+references:141052578|203098336|1497300277|1580880669|1865572304|1992085875|2044599851|2085625396|2096204319|2116343275|2156985047|2164567676|2166957049|2170496269|2251569735|2400613571
+
+
+id:1528738305
+title:Joint Ranking for Multilingual Web Search
+year:2009
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Cheng Niu
+author organization:Microsoft Research Asia , Beijing
+author id:2667075803|
+author name:Ming Zhou
+author organization:Microsoft
+author id:2143584880|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:graphical|languages|accuracy|approach|evaluation|equilibrium|introduced|retrieval|directly|thermal|rank|relevancy|model|documents|tasks|based|probability|mlir|correlations|relevance|induce|estimation|web|among|determined|learningtorank|adopting|algorithms|average|besides|collaboratively|two|layer|popular|precision|multilingual|languages|learn|within|probabilistic|topics|one|benchmarks|combining|leveraged|information|ranking|exploit|represent|joint|documents|using|language|retrieved|ranking|optimize|function|different|directly|regardless|created|query|language|solely|relevant|estimation|task|ranks|improve|focused|parameters|framework|identifying|trained|hidden|scores|approaching|show|salient|approaches|outperforms|existing|nodes|mean|significantly|existing
+venue name:European Conference on Information Retrieval
+venue id:1180513217
+venue type:C
+document type:Conference
+study fields:Data mining|Information retrieval|Ranking|Okapi BM25|Computer science|Exploit|Ranking (information retrieval)|Graphical model|Probabilistic logic|Salient
+references:78284816|1482214997|1485063768|1985554184|2039371384|2042492924|2078396654|2089130131|2107890099|2118295805|2127176025|2143331230|2152577431|2162830513
+
+
+id:1865572304
+title:Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence Polarity Ambiguities
+year:2011
+author information:[
+author name:Lanjun Zhou
+author organization:Chinese University of Hong Kong
+author id:2107258247|
+author name:Binyang Li
+author organization:Chinese University of Hong Kong
+author id:2135234778|
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:recognized|constraints|without|number|defined|utilized|based|method|large|classification|cue|unsupervised|semantic|integrating|scheme|theory|sentences|methods|intrasentence|representations|empirically|structure|key|discovering|set|positive|filter|classification|showed|information|relations|phrases|novel|adopted|small|eliminating|recognizing|later|results|polarity|new|opinionated|level|experimental|patterns|significant|ambiguities|rhetorical|proposed|converted|collect|weigh|sentiment|analysis|instances|sequential|sentiments|relations|negative|paper|cuephrasebased|polarity|sentencelevel|effectively|ssrs|also|improvement|discourse|challenge|achieved|presents
+venue name:Empirical Methods in Natural Language Processing
+venue id:1192655580
+venue type:C
+document type:Conference
+study fields:Rhetorical Structure Theory|Computer science|Sentiment analysis|Artificial intelligence|Natural language processing|Small set|Sentence
+references:134926581|159038999|184846173|1497300277|1541881462|1965585496|1965796357|2044599851|2098136027|2116343275|2146111747|2152197045|2154407881|2158570207|2160660844|2166706824|2234490075|2408742777
+
+
+id:1972969301
+title:A link-bridged topic model for cross-domain document classification
+year:2013
+author information:[
+author name:Pei Yang
+author organization:The Chinese University of Hong Kong
+author id:2724204326|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Qi Tan
+author organization:South China University of Technol
+author id:2671899507|
+author name:Kam Fai Wong
+author organization:Chinese University of Hong Kong
+author id:2189748902|
+]
+abstract:called|improves|linkbridged|stateoftheart|approach|structure|assumption|model|text|documents|knowledge|algorithm|based|mapping|steps|classification|encodes|utilizes|propose|latent|generalization|among|domain|transfer|difference|simultaneously|must|bridge|mined|shared|crossdomain|methods|document|direct|datasets|two|experiments|across|statistics|share|embedding|relationship|key|abstract|topics|structures|combines|consistent|transformation|domain|leveraged|model|classification|unified|associated|cocitation|information|novel|treat|data|documents|available|source|domains|view|act|plain|different|lbt|kernel|hyperlink|discover|indirect|labeled|domains|graph|achieving|transfer|background|topic|facilitate|commonality|link|show|learning|probabilities|content|point|network|differential|effective|related|common|auxiliary|gap|ignore|topic|types|learned|target|existing|performance|consists|well|significantly
+venue name:Information Processing and Management
+venue id:174847851
+venue type:J
+document type:Journal
+study fields:Graph kernel|Document classification|Data mining|Embedding|Information retrieval|Computer science|Transfer of learning|Knowledge transfer|Plain text|Hyperlink|Topic model
+references:1502375784|1510073064|1595222087|1978394996|1979584682|1990334093|2010526612|2019363670|2048679005|2060777747|2068463433|2069875088|2097089247|2101210369|2107008379|2107021927|2108346334|2111557120|2111700528|2111730140|2115124945|2120262857|2122838776|2123562225|2143374704|2147152072|2147179108|2151375682|2161047120|2161881409|2162630660|2165698076|2165744911
+
+
+id:1975594555
+title:Detect Rumors Using Time Series of Social Context Information on Microblogging Websites
+year:2015
+author information:[
+author name:Jing Ma
+author organization:Beijing University of Posts and Telecommunications
+author id:2617652984|
+author name:Wei Gao
+author organization:Qatar Computing Research Institute Doha Qatar
+author id:2421005930|
+author name:Zhongyu Wei
+author organization:The University of Texas at Dallas
+author id:2153343683|
+author name:Yueming Lu
+author organization:Beijing University of Posts and Telecommunications
+author id:2704433482|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:modeling|automatically|rumors|stateoftheart|approach|variation|context|model|temporal|events|based|using|method|large|work|propose|broadcast|microblog|strong|experiments|focuses|datasets|two|detection|initial|confirm|stage|series|websites|novel|incorporate|research|rumor|features|microblogging|time|demonstrates|capture|users|important|propagation|especially|detecting|identifying|issue|applied|importance|margins|technique|media|related|ignore|early|characteristics|social|approaches|message|outperforms|existing|performance|various|online|information|time
+venue name:Conference on Information and Knowledge Management
+venue id:1194094125
+venue type:C
+document type:Conference
+study fields:Time series modeling|Social environment|Broadcasting|World Wide Web|Social media|Message propagation|Information retrieval|Computer science|Microblogging|Rumor
+references:1546111015|1880262756|2018165284|2032897813|2050619059|2084591134|2100974526|2159981908|2263969377
+
+
+id:1987716752
+title:Mainstream media behavior analysis on Twitter: a case study on UK general election
+year:2013
+author information:[
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Yulan He
+author organization:Aston University
+author id:2124193838|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Binyang Li
+author organization:Chinese University of Hong Kong
+author id:2135234778|
+author name:Lanjun Zhou
+author organization:Chinese University of Hong Kong
+author id:2107258247|
+author name:Kam-fai Wong
+author organization:the Chinese University of Hong Kong
+author id:2189748902|
+]
+abstract:results|lifespan|empirical|measures|exert|based|likely|audience|shape|mainstream|active|analysis|propose|analyze|strengthening|study|compare|diffusion|role|prominent|emerged|tools|journalists|retweeted|found|seeding|categories|behavior|compared|sources|shaping|opinion|media|parties|information|first|indicator|tv|political|tweets|good|influence|faster|uk|bias|different|facebook|actual|development|including|patterns|newspapers|correlates|quantify|longer|measure|general|since|sentiment|show|twitter|media|platforms|pure|engaging|public|challenged|election|coverage|election|social|recently|played|spread|better|quantitative|various|organizations
+venue name:ACM Conference on Hypertext
+venue id:2532863000
+venue type:C
+document type:Conference
+study fields:Media relations|World Wide Web|Social media|Media bias|Computer science|Sentiment analysis|Information cascade|Public opinion|Mainstream|General election
+references:1892820855|1897880214|2026318959|2112896229|2117192789|2963218240
+
+
+id:2003514165
+title:Relevant knowledge helps in choosing right teacher: active query selection for ranking adaptation
+year:2011
+author information:[
+author name:Peng Cai
+author organization:East China Normal University
+author id:2722914768|
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Aoying Zhou
+author organization:East Normal University
+author id:2111470091|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:mentor|select|targetdomain|mutually|adaptation|prohibitive|collected|annotate|replenished|approach|setting|would|reinforce|rank|transfer|fully|knowledge|order|domainspecific|still|abundant|expected|active|propose|whose|selection|among|domain|utilize|appropriate|iterates|challenge|search|intuitively|web|labeling|actively|power|based|annotation|committee|set|rank|right|data|procedure|many|domain|queries|framework|unified|advancing|ranking|new|principle|data|exhausts|source|used|learning|substantiate|prior|members|variant|problems|selected|budget|new|commonly|already|adapt|query|labeled|informative|gather|weighting|chosen|relevant|important|adjust|knowledge|seems|useful|since|disagrees|instances|importance|learning|training|life|random|pursued|common|related|mixture|supervision|every|enhancing|limited|built|automatic|enough|capability|target|outperforms|learner|challenge|easier|significantly|rankers
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Learning to rank|Data mining|Data set|Weighting|Ranking SVM|Computer science|Ranking (information retrieval)|Artificial intelligence|Annotation|Active learning|Ranking|Information retrieval|Machine learning
+references:1494113748|1514707997|1531797482|1553262910|1587567107|1973971139|1985554184|1990325095|1993691599|2002323050|2007815473|2018770010|2031972533|2032536435|2050782125|2068744901|2069875088|2071643468|2080021732|2083196438|2085989833|2097385711|2102630986|2111362445|2113640060|2114900318|2118108643|2120708938|2124052064|2124504084|2130492741|2133909527|2138504274|2149427297|2157063199|2158108973|2168220262|2170347328|2912934387|2952362487
+
+
+id:2010307194
+title:Democracy is good for ranking: towards multi-view rank learning and adaptation in web search
+year:2014
+author information:[
+author name:Wei Gao
+author organization:Qatar Computing Research Institute Doha Qatar
+author id:2421005930|
+author name:Pei Yang
+author organization:South China University of Technol
+author id:2724204326|
+]
+abstract:multiview|singleview|optimal|listwise|mutually|complementary|approach|consistency|reinforce|strengthen|rank|model|dependent|models|based|semisupervised|divergent|method|propose|yahoo|web|subsets|appropriate|strong|independent|aim|scheme|document|adaptation|extended|adaptive|letor|search|intuitively|based|learning|rank|data|queries|nonoverlapping|distributions|framework|unified|ranking|proactively|leverages|features|novel|principle|data|use|source|used|originated|learning|features|conformant|view|act|separation|prior|different|predicted|obtain|baselines|including|test|commonly|query|domains|weighting|viewbased|core|rankings|especially|improve|knowledge|present|seems|idea|distinct|learning|training|exists|ranker|impose|views|learned|follow|target|outperforms|perspectives|significantly
+venue name:Web Search and Data Mining
+venue id:1120384002
+venue type:C
+document type:Conference
+study fields:Data mining|Learning to rank|Weighting|Ranking SVM|Computer science|Baseline (configuration management)|Ranking (information retrieval)|Artificial intelligence|Information retrieval|Ranking|Test data|Machine learning|Model learning
+references:61058509|1590700995|1985554184|2002323050|2003514165|2007815473|2032536435|2037603696|2048679005|2056960254|2059001985|2069875088|2083196438|2085860938|2091158010|2096623622|2101210369|2103179193|2107021927|2108862644|2110308599|2111362445|2111700528|2113640060|2118045473|2120354757|2120708938|2127176025|2128614648|2133909527|2138504274|2140076625|2143806604|2145234365|2149427297|2158108973|2215421138|2785349534|2883783597
+
+
+id:2017291483
+title:Dynamic joint sentiment-topic model
+year:2013
+author information:[
+author name:Yulan He
+author organization:Aston University
+author id:2124193838|
+author name:Chenghua Lin
+author organization:Open University
+author id:2141260205|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:considered|users|tracking|three|newly|number|dynamics|long|shifts|model|short|recent|dependent|large|dependency|crawled|consideration|analysis|joint|dynamically|propose|distributions|sentiment|text|multiscale|word|requires|study|mozilla|inference|skip|derive|arrived|current|ways|taken|procedures|epochs|social|detection|sentimenttopic|efficient|topics|continuously|interests|sliding|data|use|language|accounting|uncontrolled|reviews|generated|capturing|dynamic|different|skipping|recurrent|sentimenttopicspecific|last|sequentially|history|produced|proposed|topic|epochs|addon|sentiment|according|show|update|sentiments|media|captured|timescale|views|allows|effectiveness|previous|nature|also|sentimenttopic|assuming|online|window
+venue name:ACM Transactions on Intelligent Systems and Technology
+venue id:2492086750
+venue type:J
+document type:Journal
+study fields:Data mining|Social media|Dependency information|Sliding window protocol|Sentiment analysis|Computer science|Inference|Artificial intelligence|Topic model|Topic analysis|Machine learning
+references:258053484|359818833|1915315806|1998819761|2008689742|2040466507|2042737139|2072644219|2100802943|2103587173|2105664460|2108420397|2121194706|2121903040|2122369144|2123751690|2123939205|2127467141|2129294185|2141685271|2161152810|2170337404|2171343266|2293546752|2295672673
+
+
+id:2046353967
+title:Exploiting query logs for cross-lingual query suggestions
+year:2010
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Cheng Niu
+author organization:Microsoft Research Asia , Beijing
+author id:2667075803|
+author name:Jian-Yun Nie
+author organization:Université de Montréal, Montréal, Canadá
+author id:2149813270|
+author name:Ming Zhou
+author organization:Microsoft
+author id:2143584880|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+author name:Hsiao-Wuen Hon
+author organization:Microsoft Research
+author id:2299524537|
+]
+abstract:query|important|languages|scenarios|approach|retrieval|estimate|tasks|respectively|similar|models|using|work|specify|methods|baseline|resulting|extend|input|traditional|system|word|evaluate|needs|experiments|clir|cooccurrence|clqs|chineseenglish|log|map|means|suggestion|one|benchmarks|translation|suggest|queries|model|information|clqsbased|combined|relations|several|language|used|pairs|find|different|given|query|language|monolingual|dictionarybased|users|relevant|important|technologies|enhanced|pseudorelevance|helps|demonstrate|present|higher|instead|show|discriminative|crosslingual|effective|related|similarity|applications|effectiveness|aims|limited|relying|outperforms|better|existing|translation|typical|previous|uses|crosslanguage|significantly|frenchenglish
+venue name:ACM Transactions on Information Systems
+venue id:87067389
+venue type:J
+document type:Journal
+study fields:Data mining|Query language|Computer science|Web query classification|Natural language processing|Artificial intelligence|Cross-language information retrieval|Query optimization|Web search query|RDF query language|Query expansion|Information retrieval|Sargable
+references:1482214997|1492371337|1509815353|1599696202|1599955416|1964348731|1964357740|1966497645|1978394996|2006969979|2008248260|2015629112|2024181699|2026953311|2027913861|2035390437|2041179002|2042030928|2043909051|2047221353|2055234600|2056989505|2058156520|2065096648|2093390569|2096223431|2099548400|2111299261|2136542423|2138151602|2140016149|2140636881|2146685010|2150071570|2153635508|2153653739|2156985047|2159744538|2161935199|2162059093|2162355876|2168801328|2186872665|2595715041|2626190081
+
+
+id:2069875088
+title:Learning to rank only using training data from related domain
+year:2010
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Peng Cai
+author organization:East China Normal University
+author id:2722914768|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+author name:Aoying Zhou
+author organization:East Normal University
+author id:2111470091|
+]
+abstract:adaptation|annotate|fair|approach|without|annotated|relateddomain|pairwise|retrieval|rank|model|tasks|based|semisupervised|method|baseline|propose|traditional|domain|requires|relative|document|experiments|search|heuristics|costly|popular|experts|learn|available|scheme|domain|information|ranking|exploit|dataset|first|data|documents|instanceweighting|annotations|retrieved|simple|like|ranking|incorporated|different|directly|estimates|individual|labeled|domains|weights|worse|adaptable|demonstrate|present|trained|importance|provided|learning|training|effective|transform|related|due|algorithms|highly|amount|studied|yet|target|outperforms|supervised|time|significantly
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Data mining|Learning to rank|Weighting|Computer science|Heuristics|Artificial intelligence|Labeled data|Training set|Pairwise comparison|Information retrieval|Ranking|Exploit|Machine learning
+references:179016587|1482214997|1978394996|1985554184|2002323050|2007815473|2032536435|2050782125|2056960254|2083196438|2093390569|2096623622|2104094955|2107890099|2108862644|2111362445|2112483442|2115403315|2120354757|2120708938|2124052064|2124841703|2127176025|2131343135|2133909527|2136542423|2138504274|2142623206|2143331230|2143806604|2149427297|2156909104|2158108973|2165644552|2811380766
+
+
+id:2077088910
+title:Extracting common emotions from blogs based on fine-grained sentiment clustering
+year:2011
+author information:[
+author name:Shi Feng
+author organization:University
+author id:2143565497|
+author name:Daling Wang
+author organization:University
+author id:2121474311|
+author name:Ge Yu
+author organization:University
+author id:2168806630|
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:extensive|considered|coherent|users|approach|extracted|different|concern|realworld|reflect|companies|navigation|cluster|guidelines|model|neglect|based|issue|method|classification|extraction|finegrained|distributions|latent|afford|web|analysis|methods|experiments|emerged|datasets|web|partition|collective|literatures|embedded|blogs|business|words|people|consisting|emotion|feelings|novel|becoming|blogs|semantic|express|blog|good|features|topics|major|find|presented|different|results|emotions|individual|conducted|important|take|timelines|proposed|overall|sentiment|hidden|according|show|sentiments|platform|common|similarity|clusters|emotionoriented|stories|previous|probabilistic|factors|existing|corresponding|clustering|age|account
+venue name:Advanced Data Mining and Applications
+venue id:1184106476
+venue type:C
+document type:Conference
+study fields:Data mining|Automatic summarization|Computer science|Sentiment analysis|Timeline|Probabilistic latent semantic analysis|Public opinion|Cluster analysis|Feeling|The Internet
+references:274937545|1497709229|1575191768|1577289782|1980995378|1983286042|1989145535|1998257453|2002102838|2010080507|2026164260|2029778779|2040307101|2064906988|2068818669|2104215898|2107743791|2120163431|2136776259|2139517011|2142827986|2153697547|2154970197|2155328222|2157589241|2165897980|2166706824|2166900514|2167439930|2171836785|2398854657
+
+
+id:2077269746
+title:Ranking model selection and fusion for effective microblog search
+year:2014
+author information:[
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Wei Gao
+author organization:Qatar Computing Research Institute Doha Qatar
+author id:2421005930|
+author name:Tarek El-Ganainy
+author organization:Qatar Computing Research Institute Doha Qatar
+author id:324599987|
+author name:Walid Magdy
+author organization:Qatar Computing Research institute
+author id:1990912753|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:mostly|reranking|approach|problem|querysensitive|selectionbased|rank|model|order|models|based|using|models|impact|relevance|selection|microblog|study|effectiveness|achieve|methods|given|result|orthogonal|search|found|explore|learn|combines|positive|single|learners|learners|ranking|features|use|available|retrieved|tweets|mainly|shown|function|results|respect|produced|fusion|lists|focused|trec|higher|yet|learning|ensemble|best|ranker|search|reranking|effectiveness|outperform|learned|advantage|multiple|clear|also|approaches|base|better|existing|form|various|significantly
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Learning to rank|Data mining|Social media|Ranking SVM|Information retrieval|Ranking|Computer science|Microblogging|Fusion|Model selection|Artificial intelligence|Machine learning
+references:322992670|1532409436|1561650654|1964348731|1974548136|1988686126|1990589796|1995672491|2048978851|2060494110|2078396654|2093390569|2107890099|2128721751|2143331230|2146081744|2147152072|2148972377|2149427297|2162059449|2167601972|2181829939|2188117874|2291052875|2296285930|2399079233|2407527146|2911964244
+
+
+id:2096968276
+title:Exploiting Bilingual Information to Improve Web Search
+year:2009
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:John Blitzer
+author organization:University of California Berkeley
+author id:2138672428|
+author name:Ming Zhou
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2143584880|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:standard|equivalent|data|vary|using|available|stateoftheart|variation|pairs|features|function|bilingual|logs|generate|given|widely|query|monolingual|language|reconstruct|significant|publicly|propose|quality|web|even|leads|algorithm|demonstrate|log|show|technique|learning|two|exploits|across|search|along|linear|languages|need|learn|learned|one|queries|exploiting|appear|english|ranking|corresponding|interests|well|chinese|information|ranking|exploit|features|represent|improvements
+venue name:International Joint Conference on Natural Language Processing
+venue id:1126706392
+venue type:C
+document type:Conference
+study fields:Web search query|Query language|Information needs|Ranking SVM|Information retrieval|Ranking|Computer science|Exploit|Ranking (information retrieval)|Natural language processing|Artificial intelligence
+references:78284816|89239156|301824129|1974360117|1982858363|1985554184|1990190154|2026953311|2043909051|2047221353|2051834357|2066636486|2073722401|2076470289|2116211107|2121759644|2130778797|2132300069|2135645798|2136542423|2142623206|2143954309|2164363339|2168596725
+
+
+id:2100880101
+title:Build Emotion Lexicon from Microblogs by Combining Effects of Seed Words and Emoticons in a Heterogeneous Graph
+year:2015
+author information:[
+author name:Kaisong Song
+author organization:University
+author id:2161065254|
+author name:Shi Feng
+author organization:University
+author id:2143565497|
+author name:Wei Gao
+author organization:Hamad bin Khalifa University
+author id:2421005930|
+author name:Daling Wang
+author organization:University
+author id:2121474311|
+author name:Ling Chen
+author organization:University of Technology
+author id:2420538054|
+author name:Chengqi Zhang
+author organization:University of Technol
+author id:2166080598|
+]
+abstract:graphical|focus|stateoftheart|building|realworld|complex|strengthen|model|recent|dependent|neglect|algorithm|promising|natural|method|finegrained|classification|propose|distributions|years|labels|emoticons|text|estimation|attracted|simultaneously|seed|methods|lexicons|distribution|multilabel|lexicon|compared|emotional|words|combining|performed|single|emotion|framework|increasing|unified|overly|leverages|novel|reveal|data|achieves|heterogeneous|capturing|helpful|results|emotions|resource|experimental|capture|effects|effect|accurately|rather|indispensable|lexicons|weakness|random|candidate|overcomes|subjective|threelayer|constructed|multiple|emotion|automatic|existing|attention|walk
+venue name:ACM Conference on Hypertext
+venue id:2532863000
+venue type:C
+document type:Conference
+study fields:Graph|Social media|Emoticon|Computer science|Microblogging|Emotion classification|Speech recognition|Lexicon|Artificial intelligence|Natural language processing
+references:38739846|40549020|185460875|193743989|1552217991|1972846540|2010080507|2017291483|2040467972|2061364982|2066636486|2072007696|2077088910|2077587655|2083306472|2099813784|2114315281|2131090205|2131305515|2136961259|2139517011|2145844195|2150362751|2209088148|2235475559|2250666945|2250734458|2251198526|2404480901|2962750587
+
+
+id:2107599729
+title:Information-theoretic Multi-view Domain Adaptation
+year:2012
+author information:[
+author name:Pei Yang
+author organization:South China University of Technol
+author id:2724204326|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Qi Tan
+author organization:South China University of Technol
+author id:2671899507|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:data|use|main|source|stateoftheart|consistency|domains|features|strengthen|different|domainspecific|based|multiway|correlations|clusterings|boost|present|word|crossdomain|identifying|idea|document|link|show|training|experiments|informationtheoretic|seemingly|views|multiview|views|clusters|together|adaptation|multiple|draw|baselines|target|outperforms|imam|classification|unrelated|model|sides|clustering|iteratively|significantly
+venue name:Meeting of the Association for Computational Linguistics
+venue id:1188739475
+venue type:C
+document type:Conference
+study fields:Document classification|Training set|Computer science|Domain adaptation|Natural language processing|Artificial intelligence|Cluster analysis|Machine learning
+references:98563929|1998894210|2048679005|2107008379|2107021927|2111362445|2115124945|2118045473|2120708938|2140076625|2147179108|2162630660|2163302275|2434205482|2883783597
+
+
+id:2111299261
+title:Cross-lingual query suggestion using query logs of different languages
+year:2007
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Cheng Niu
+author organization:Microsoft Research Asia , Beijing
+author id:2667075803|
+author name:Jian-Yun Nie
+author organization:Université de Montréal, Montréal QC, Canada
+author id:2149813270|
+author name:Ming Zhou
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2143584880|
+author name:Jian Hu
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2962927412|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+author name:Hsiao-Wuen Hon
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2299524537|
+]
+abstract:mostly|query|important|tested|languages|scenarios|query|terms|retrieval|estimate|tasks|similar|based|specify|methods|baseline|resulting|extend|input|traditional|system|etc|word|needs|clir|search|cooccurrence|french|clqs|log|map|means|suggestion|one|benchmarks|translation|suggest|queries|model|help|information|relations|performs|bidding|language|used|advertisement|keyword|results|given|query|monolingual|dictionarybased|users|relevant|important|technologies|trec|demonstrate|present|collections|higher|instead|show|discriminative|crosslingual|effective|engine|similarity|effectiveness|aims|relying|better|existing|english|suggested|translation|crosslanguage|significantly
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Query language|RDF query language|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|Artificial intelligence|Natural language processing|Cross-language information retrieval
+references:1482214997|1492371337|1599696202|1599955416|1964357740|1966497645|2006969979|2008248260|2015629112|2024181699|2026953311|2027913861|2041179002|2043909051|2047221353|2055234600|2056989505|2096223431|2099548400|2138151602|2150071570|2156985047|2161935199|2162059093|2162355876
+
+
+id:2118271908
+title:Query Weighting for Ranking Model Adaptation
+year:2011
+author information:[
+author name:Peng Cai
+author organization:East China Normal University
+author id:2722914768|
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:Aoying Zhou
+author organization:East Normal University
+author id:2111470091|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:query|loss|measures|estimate|rank|model|compressing|based|method|weighting|methods|finegrained|propose|labels|estimation|domain|aggregates|level|object|algorithms|document|experiments|adaptation|two|feature|key|set|vector|compresses|combines|queries|efficiently|compression|ranking|information|first|resulted|instance|data|documents|reasonable|source|second|directly|potential|level|query|weighting|measure|demonstrate|present|instances|importance|divided|values|learning|similarity|adaptation|argue|schemes|target|outperforms|conduct|step|risk|conducts|significantly|referred
+venue name:Meeting of the Association for Computational Linguistics
+venue id:1188739475
+venue type:C
+document type:Conference
+study fields:Query optimization|Data mining|Web search query|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|Ranking (information retrieval)|Spatial query|Online aggregation
+references:1660390307|2002323050|2007815473|2032536435|2047221353|2050782125|2069875088|2083196438|2096623622|2103851188|2104094955|2107890099|2108862644|2110822809|2111362445|2112483442|2115403315|2120708938|2124052064|2127176025|2133909527|2138504274|2142623206|2143331230|2149427297|2158108973|2811380766|2915999502
+
+
+id:2148412748
+title:An Empirical Study on Uncertainty Identification in Social Media Context
+year:2013
+author information:[
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Junwen Chen
+author organization:Chinese University of Hong Kong
+author id:2428023936|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+author name:Binyang Li
+author organization:Chinese University of Hong Kong
+author id:2135234778|
+author name:Lanjun Zhou
+author organization:Chinese University of Hong Kong
+author id:2107258247|
+author name:Yulan He
+author organization:Aston University
+author id:2124193838|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:socialmediabased|corpus|source|construct|tweets|characteristics|cues|platforms|features|identification|generated|context|variant|text|different|interpretations|based|identification|propose|users|important|utilize|since|uncertainty|study|scheme|experiments|media|uncertainty|derive|annotation|effectiveness|detection|types|social|many|specific|produce|tweets|ineffective|existing|conduct|information|first|applications
+venue name:Meeting of the Association for Computational Linguistics
+venue id:1188739475
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Annotation|Information retrieval|Computer science|Natural language processing|Artificial intelligence|Empirical research|Text detection
+references:208016162|1910766207|1982464493|1990435674|2006016176|2006587457|2006941876|2084591134|2123107826|2124499489|2124738354|2153804780|2159230276|2159981908|2167355161|2171972263
+
+
+id:2170144149
+title:Using English information in non-English web search
+year:2008
+author information:[
+author name:Wei Gao
+author organization:Chinese University of Hong Kong
+author id:2421005930|
+author name:John Blitzer
+author organization:University of California Berkeley
+author id:2138672428|
+author name:Ming Zhou
+author organization:Microsoft Res., Asia, Beijing, China
+author id:2143584880|
+]
+abstract:decade|functions|leading|languages|lnl|stateoftheart|ambiguous|building|improved|query|engines|absent|rank|microsoft|documents|method|minimally|live|linguistically|relevance|altered|etc|domain|qin|one|engine|pages|search|web|gives|al|consistent|many|queries|call|chinese|ranking|logs|exploit|first|improvements|data|nonlocal|good|pairs|features|proceeds|query|employing|graph|et|improve|specialized|translating|reasons|clickthrough|show|technique|ranker|around|crosslingual|effective|computing|china|designed|highly|identify|effectively|spent|automatic|monolingual|also|english|ranking|counterparts|translation|relational|subset
+venue name:Improving Non English Web Searching
+venue id:2759110750
+venue type:C
+document type:Conference
+study fields:Web search engine|PageRank|Web search query|Learning to rank|Information retrieval|Query expansion|Web page|Computer science|Web query classification|Ranking (information retrieval)|Artificial intelligence|Natural language processing
+references:78284816|1485063768|1976398589|1985554184|2010463775|2047221353|2048679005|2066636486|2107890099|2109042199|2116211107|2119013622|2127176025|2130716237|2139823104|2142623206|2143331230|2146442558|2162059093|2162830513|2171541062
+
+
+id:2188117874
+title:Microblog Search and Filtering with Time Sensitive Feedback and Thresholding bsed on BM25.
+year:2012
+author information:[
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:ln|considered|need|used|faster|tried|realtime|retrieval|filtering|results|tasks|algorithm|combine|based|frnding|fashions|track|work|microblogs|tlack|relevance|relevant|traditional|system|techniques|trec|adhoc|microblog|rrsthand|blind|sources|applied|examine|methods|automatically|twitter|search|previously|effectiveness|detection|process|pilot|built|multiple|also|peak|many|specific|thc|report|typical|information|respond|techniques
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Information retrieval|Computer science|Microblogging|Time sensitive|Filter (signal processing)|Thresholding
+references:1482214997|1532325895|1559270406|2114013702|2128721751|2162830513
+
+
+id:2250852467
+title:Utilizing Microblogs for Automatic News Highlights Extraction
+year:2014
+author information:[
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+]
+abstract:newstweets|automatically|reflect|problem|story|sentence|based|using|method|singledocument|extraction|propose|resulting|article|microblog|compression|strong|sentences|given|formulate|indicative|two|substitute|pieces|top|indicate|set|succinct|consisting|microblogs|highlights|results|assist|challenging|information|ranking|novel|summarization|use|corpus|tweets|limit|find|extraction|baselines|rankthenextract|important|extract|improve|effect|inherently|highlight|producing|ranked|summary|news|outperform|length|also|artificial|gist|form|although|due|pairing|hypothesis|significantly
+venue name:International Conference on Computational Linguistics
+venue id:1169674987
+venue type:C
+document type:Conference
+study fields:Automatic summarization|Social media|Information retrieval|Ranking|Computer science|Microblogging|Sentence extraction|Artificial intelligence|Natural language processing
+references:75488458|179757531|192444966|1479916289|1501617060|1880262756|1974339500|1985710361|2029516281|2029811272|2037278107|2068796797|2069667724|2083305840|2102269292|2107890099|2110693578|2112077341|2112699412|2115322217|2133182690|2133750501|2139392091|2146007434|2146867136|2168332560|2251434949|2251803607|2252115056|2252160877|2535726973
+
+
+id:2250938315
+title:Using Content-level Structures for Summarizing Microblog Repost Trees
+year:2015
+author information:[
+author name:Jing Li
+author organization:University of Hong Kong
+author id:2712563541|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+author name:Zhongyu Wei
+author organization:University of Texas at Dallas
+author id:2153343683|
+author name:Baolin Peng
+author organization:Chinese University of Hong Kong
+author id:2596235521|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:leader|select|called|therein|develops|conditional|construct|trees|annotated|differentiating|rank|model|probabilities|events|cascaded|repost|reduce|based|sampling|propose|contents|messages|microblog|strong|messages|kinds|two|result|reposting|across|detection|event|one|confirm|help|framework|novel|clues|summarization|main|leaders|used|microblogging|random|variant|method|results|described|given|experimental|tree|capture|paths|steps|users|fields|propagation|improve|adjustment|present|summarization|detect|relations|media|error|random|salient|provides|randomwalkbased|derived|enhancing|effectiveness|social|effectively|contentlevel|structure|walk
+venue name:Empirical Methods in Natural Language Processing
+venue id:1192655580
+venue type:C
+document type:Conference
+study fields:Conditional random field|Automatic summarization|Propagation of uncertainty|Social media|Random walk|Computer science|Microblogging|Artificial intelligence|Sampling (statistics)|Machine learning|Salient
+references:37473190|100239005|1602831581|1871078626|1901464671|1921650316|1967082914|2025327237|2031248101|2043775452|2044028121|2048207804|2103404183|2110693578|2118585731|2139686264|2147406357|2147880316|2151348518|2177844813|2182779895|2250925602|2251434949|2251797717|2535726973
+
+
+id:2251483986
+title:Using Tweets to Help Sentence Compression for News Highlights Generation
+year:2015
+author information:[
+author name:Zhongyu Wei
+author organization:University of Texas at Dallas
+author id:2153343683|
+author name:Yang Liu
+author organization:Texas University
+author id:2432973528|
+author name:Chen Li
+author organization:University of Texas at Dallas
+author id:2420290809|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+]
+abstract:corpus|experimental|tweets|approach|guided|syntactic|edge|importance|terms|method|results|sentence|given|based|using|method|tree|weight|baseline|article|relevant|extend|contains|proposed|unsupervised|improve|compression|summarization|show|generating|public|incorporating|compared|news|explore|dependencytree|tweet|compressive|generic|help|performance|informativeness|highlights|information|articles|significantly
+venue name:International Joint Conference on Natural Language Processing
+venue id:1126706392
+venue type:C
+document type:Conference
+study fields:Automatic summarization|Information retrieval|Computer science|Sentence compression|Artificial intelligence|Natural language processing|Syntax
+references:75488458|192444966|1966421434|2005603124|2029811272|2037278107|2068796797|2081388731|2110693578|2115937944|2118119027|2145882814|2163076329|2168332560|2251384446|2251425698|2251564431|2251656952|2251750971
+
+
+id:2251506003
+title:QCRI: Answer Selection for Community Question Answering - Experiments for Arabic and English
+year:2015
+author information:[
+author name:Massimo Nicosia
+author organization:UNIVERSITY OF TRENTO
+author id:2064796211|
+author name:Simone Filice
+author organization:Qatar Foundation
+author id:2014445613|
+author name:Alberto Barrón-Cedeño
+author organization:Qatar Foundation
+author id:129635349|
+author name:Iman Saleh
+author organization:Qatar Foundation
+author id:2609703928|
+author name:Hamdy Mubarak
+author organization:Qatar Foundation
+author id:2251487896|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Preslav Nakov
+author organization:Qatar Foundation
+author id:1989325080|
+author name:Giovanni Da San Martino
+author organization:Qatar Foundation
+author id:2150053968|
+author name:Alessandro Moschitti
+author organization:Qatar Foundation
+author id:48142092|
+author name:Kareem Darwish
+author organization:Qatar Foundation
+author id:2064042002|
+author name:Lluis Màrquez
+author organization:Qatar Foundation
+author id:2778247807|
+author name:Shafiq Joty
+author organization:Qatar Foundation
+author id:1208744602|
+author name:Walid Magdy
+author organization:
+author id:1990912753|
+]
+abstract:task|approach|features|arabic|context|manifold|text|presence|others|including|considering|web|among|comment|word|participation|sentiment|selection|learning|best|two|reallife|paper|offered|targeted|question|english|apply|performing|one|subtasks|subtask|specific|describes|english|supervised|third|machine|community
+venue name:North American Chapter of the Association for Computational Linguistics
+venue id:1173951661
+venue type:C
+document type:Conference
+study fields:Question answering|Arabic|Sentiment analysis|Computer science|Artificial intelligence|Natural language processing|Linguistics
+references:1494404649|1994790623|2067802667|2073265902|2141599568|2144211451|2250539671|2251803266|2252217313|2743736970
+
+
+id:2291052875
+title:QCRI at TREC 2013 Microblog Track.
+year:2013
+author information:[
+author name:Tarek El-Ganainy
+author organization:Qatar Foundation
+author id:324599987|
+author name:Walid Magdy
+author organization:School of Informatics
+author id:1990912753|
+author name:Wei Gao
+author organization:Qatar Foundation
+author id:2421005930|
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+]
+abstract:results|dataset|stateoftheart|approach|realtime|terms|retrieval|rank|model|validation|algorithm|promising|models|based|using|ad|urls|track|models|work|relevance|benchmark|later|system|reranking|microblog|hoc|reranking|algorithms|components|utilizing|document|concurrent|focuses|two|search|feature|embedded|queries|single|pipeline|showed|report|ranking|dataset|microblog|tweets|judgment|different|topic|results|train|enriching|query|differs|expansion|improving|task|hybrid|leverage|additional|learning|ensemble|related|salient|webbased|effectiveness|webpages|previous|constructed|apply|approaches|tracks|conduct
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Learning to rank|Data mining|Social media|Information retrieval|Query expansion|Web page|Ranking|Computer science|Microblogging|Feature engineering|Salient
+references:322992670|347410617|1512290716|1814023381|1964348731|1990589796|1995672491|2043037645|2047221353|2098980763|2107890099|2118271908|2128721751|2142646165|2143331230|2143806604|2149298154|2149427297|2162059449|2181829939|2188117874|2296285930|2407527146|2911964244|2917952075
+
+
+id:2338376082
+title:PerSentiment: A Personalized Sentiment Classification System for Microblog Users
+year:2016
+author information:[
+author name:Kaisong Song
+author organization:University
+author id:2161065254|
+author name:Ling Chen
+author organization:University of Technology
+author id:2420538054|
+author name:Wei Gao
+author organization:Hamad bin Khalifa University
+author id:2421005930|
+author name:Shi Feng
+author organization:University
+author id:2143565497|
+author name:Daling Wang
+author organization:University
+author id:2121474311|
+author name:Chengqi Zhang
+author organization:University of Technol
+author id:2166080598|
+]
+abstract:increasingly|authenticated|called|collected|extracting|none|attempt|building|via|number|realworld|despite|four|classifier|recent|guide|based|large|natural|preprocessing|response|understand|personal|classification|analysis|today|latent|system|provide|analyze|microblog|microblogs|appropriate|systems|works|personalized|posted|necessary|makes|visualizing|services|people|opinion|considering|follows|emoticontagged|model|progress|first|novel|individualitydependent|language|tweets|influence|instantly|bias|factor|distinctions|different|finally|users|friends|important|daily|playing|present|useful|sentiment|trained|requesting|roles|provided|twitter|sentiments|life|microblogging|considerable|ignore|retweets|make|extensible|live|understanding|better|existing|consists|user
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:World Wide Web|Social media|Authentication|Computer science|Sentiment analysis|Microblogging|Preprocessor|Classifier (linguistics)
+references:127363045|2048508267|2077587655|2165571577|2166706824|2166714878|2218755335|2235475559|2250747010
+
+
+id:2407527146
+title:Exploring Tweets Normalization and Query Time Sensitivity for Twitter Search
+year:2011
+author information:[
+author name:Zhongyu Wei
+author organization:Chinese University of Hong Kong
+author id:2153343683|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+author name:Lanjun Zhou
+author organization:Chinese University of Hong Kong
+author id:2107258247|
+author name:Binyang Li
+author organization:Chinese University of Hong Kong
+author id:2135234778|
+author name:Kam Fai Wong
+author organization:Chinese University of Hong Kong
+author id:2189748902|
+]
+abstract:results|rerank|decay|score|problem|terms|reflects|temporal|large|work|expected|baseline|relevance|realtime|web|unique|deal|proportion|methods|irregular|two|experiments|search|timesensitive|event|characterized|abstract|topics|one|many|queries|lead|tweets|generally|texts|normalizing|mismatch|first|date|task|topical|microblog|clearly|tweets|second|capturing|runs|topic|results|like|query|track|significant|adjust|trec|demonstrate|divided|aspects|according|twitter|distinct|medium|inclusion|illformed|paper|adhoc|behavior|factor|characteristics|outperform|introduce|tweet|distinguished|better|timeinsensitive|significantly|presents
+venue name:Text REtrieval Conference
+venue id:2534788800
+venue type:C
+document type:Conference
+study fields:Data mining|Social media|Normalization (statistics)|Information retrieval|Expression (mathematics)|Computer science|Microblogging
+references:1995672491|2087663869|2146867136|2167072947
+
+
+id:2464050240
+title:Build Emotion Lexicon from the Mood of Crowd via Topic-Assisted Joint Non-negative Matrix Factorization
+year:2016
+author information:[
+author name:Kaisong Song
+author organization:University
+author id:2161065254|
+author name:Wei Gao
+author organization:Hamad bin Khalifa University
+author id:2421005930|
+author name:Ling Chen
+author organization:University of Technology
+author id:2420538054|
+author name:Shi Feng
+author organization:University
+author id:2143565497|
+author name:Daling Wang
+author organization:University
+author id:2121474311|
+author name:Chengqi Zhang
+author organization:University of Technol
+author id:2166080598|
+]
+abstract:incorporates|joint|generates|lexicon|developing|process|approach|research|building|via|exploitation|ignores|builtinhouse|model|given|using|closely|often|classification|expressions|benchmark|crowdannotated|labels|topicspecific|obtained|demonstrate|evaluate|affective|articles|matrix|nonnegative|relationship|matrices|lexicon|correlated|annotation|news|highquality|topics|crowdsourced|also|factorization|witness|emotion|readers|build|results|online|datasets|articles|novel
+venue name:International ACM SIGIR Conference on Research and Development in Information Retrieval
+venue id:1140684652
+venue type:C
+document type:Conference
+study fields:Annotation|Information retrieval|Expression (mathematics)|Computer science|Matrix decomposition|Emotion classification|Lexicon|Natural language processing|Artificial intelligence|Non-negative matrix factorization|Factorization|Affect (psychology)
+references:193524605|2013029404|2017291483|2040467972|2043545458|2083306472|2100880101|2108919995|2129294185|2136961259|2150362751|2161228561|2235475559|2295653402|2338376082|2962750587
+
+
+id:2507349564
+title:Topic Extraction from Microblog Posts Using Conversation Structures
+year:2016
+author information:[
+author name:Jing Li
+author organization:University of Hong Kong
+author id:2712563541|
+author name:Ming Liao
+author organization:Chinese University of Hong Kong
+author id:2507136523|
+author name:Wei Gao
+author organization:(Qatar Computing Research Institute)
+author id:2421005930|
+author name:Yulan He
+author organization:Aston University
+author id:2124193838|
+author name:Kam Fai Wong
+author organization:Chinese University of Hong Kong
+author id:2189748902|
+]
+abstract:leader|shift|focus|echo|trees|conventional|poor|context|model|repost|models|based|thus|extraction|dependencies|quality|among|messages|microblog|word|enhances|experiments|reposting|cooccurrence|key|contain|may|topics|words|thorough|model|information|renders|sparseness|topical|data|generates|alleviate|posts|initiate|topics|differentiate|enrich|different|results|conversation|new|extents|lack|proposed|focused|topic|demonstrate|since|according|aspects|reply|structures|previously|organize|induced|messagelevel|replying|derived|effectiveness|follower|captures|introduce|patterns|structure|ineffective|simply
+venue name:Meeting of the Association for Computational Linguistics
+venue id:1188739475
+venue type:C
+document type:Conference
+study fields:World Wide Web|Conversation|Social media|Computer science|Microblogging|Topic model
+references:192460397|1654173042|1714665356|1880262756|2004192095|2056797132|2063904635|2076219102|2107743791|2108824730|2112971401|2130339025|2132827946|2137268161|2137958601|2147880316|2159426623|2168332560|2171343266|2222893162|2250938315|2251797717|2293174806
+
+
+id:2770407860
+title:From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter
+year:2017
+author information:[
+author name:Bhavtosh Rath
+author organization:University of Minnesota
+author id:2769248868|
+author name:Wei Gao
+author organization:Victoria University of Wellington
+author id:2421005930|
+author name:Jing Ma
+author organization:Chinese University of Hong Kong
+author id:2617652984|
+author name:Jaideep Srivastava
+author organization:Qatar Computing Research institute
+author id:2192802387|
+]
+abstract:extent|collected|complementary|approach|propagated|realworld|measures|identification|four|leveraging|based|likely|using|large|method|veracity|spreading|proportional|propose|stopping|retweeter|algorithm|strong|margin|experiments|believability|two|trustingness|taken|urgent|based|situations|hits|retweet|authenticity|timecritical|opportunities|leveraged|machine|information|fake|dataset|novel|edgeweighted|use|network|diffuse|platforms|rumorous|rumor|trustworthiness|microblogging|brings|online|inferred|variant|generate|baselines|like|behaviors|users|important|especially|spreaders|perceived|ample|demonstrate|trust|classify|concept|learning|media|representation|network|hypothesize|outperform|determine|identify|social|retweeting|effectively|false|automatic|also|spread|ubiquitous|information|user
+venue name:Advances in Social Networks Analysis and Mining
+venue id:1194409624
+venue type:C
+document type:Conference
+study fields:Internet privacy|HITS algorithm|Convolutional neural network|Computer science|Trustworthiness|Tweeter|Artificial intelligence|Semantic similarity|World Wide Web|Social media|Microblogging|Rumor|Machine learning
+references:1546111015|1560513922|1638051351|1888005072|1975594555|2041614930|2051405935|2064675550|2084591134|2101396617|2107878631|2138621811|2139977214|2154851992|2156523427|2158899491|2172140247|2290484796|2554230530|2577888896|2742144412|2962756421|2963523292
+
+
+id:2898258407
+title:Utilizing computational trust to identify rumor spreaders on Twitter
+year:2018
+author information:[
+author name:Bhavtosh Rath
+author organization:University of Minnesota
+author id:2769248868|
+author name:Wei Gao
+author organization:Victoria University of Wellington
+author id:2421005930|
+author name:Jing Ma
+author organization:Chinese University of Hong Kong
+author id:2617652984|
+author name:Jaideep Srivastava
+author organization:Minnesota University
+author id:2192802387|
+]
+abstract:extent|facing|collected|complementary|approach|propagated|realworld|measures|identification|four|leveraging|proxies|likely|based|models|using|large|method|veracity|proportional|propose|stopping|opens|algorithm|algorithms|margin|another|believability|networks|two|trustingness|systems|taken|verify|socalled|urgent|demonstrated|situations|hits|retweet|authenticity|timecritical|one|representing|unprecedented|information|fake|dataset|novel|edgeweighted|use|network|diffuse|used|platforms|rumorous|rumor|trustworthiness|microblogging|online|inferred|variant|assessing|reply|generate|recurrent|computational|behaviors|particular|check|users|important|rnnbased|measure|chances|especially|spreaders|proposed|perceived|trust|classify|neural|challenges|concept|twitter|learning|media|representation|network|experimented|define|hypothesize|outperform|machinelearningbased|identify|social|apply|effectively|false|automatic|nonrnn|also|intelligent|spread|ubiquitous|information|truthful|believability|user
+venue name:Social Network Analysis and Mining
+venue id:2764891196
+venue type:J
+document type:Journal
+study fields:HITS algorithm|Social media|Intelligent decision support system|Computer science|Rumor|Microblogging|Recurrent neural network|Artificial intelligence|Computational trust|Machine learning|Feature learning
+references:1503398984|1546111015|1560513922|1638051351|1810943226|1888005072|1972213839|1975594555|2032897813|2041614930|2051405935|2064675550|2084591134|2101396617|2107878631|2118585731|2131174347|2138621811|2139977214|2154851992|2156523427|2158899491|2201399812|2281420995|2290484796|2554230530|2577888896|2610676001|2741930413|2742144412|2742330194|2770407860|2798787718|2798966390|2799165947|2962756421|2963523292|2964199361
+
+
+id:2912078280
+title:Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning
+year:2019
+author information:[
+author name:Jing Ma
+author organization:Chinese University of Hong Kong
+author id:2617652984|
+author name:Wei Gao
+author organization:Victoria University of Wellington
+author id:2421005930|
+author name:Kam-Fai Wong
+author organization:Chinese University
+author id:2189748902|
+]
+abstract:extensive|networks|generative|adversarial|rumors|stateoftheart|promoted|attempt|approach|uncertain|different|via|campaigns|order|chaos|examples|shape|method|effective|methods|inspired|propose|benchmark|traditional|analysis|much|aim|experiments|indicative|datasets|representations|two|collective|detection|robust|learn|training|society|produce|information|lowfrequency|concerned|achieves|challenging|originated|rumor|shows|consequences|adversarial|widespread|results|individual|typically|patterns|capture|conflicting|datadriven|devastating|nontrivial|demonstrate|events|idea|cause|generator|twitter|learning|stronger|rumors|make|designed|fight|news|original|deliberately|complicating|automatic|threads|discriminator|better|pressurize|conversational|opinions|ganstyle
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Computer science|Rumor|Thread (computing)|Artificial intelligence|Generative grammar|Machine learning|Adversarial system
+references:1546111015|1638051351|1902237438|1975594555|2032897813|2051405935|2084591134|2099471712|2137515395|2158899491|2172140247|2577888896|2737907513|2741930413|2742144412|2798787718|2808228212|2809476703|2949335953|2949888546|2951523806
+
+
+id:2181770152
+title:Rate Distortion Optimized Inter-View Frame Level Bit Allocation Method for MV-HEVC
+year:2015
+author information:[
+author name:Hui Yuan
+author organization:SHANDONG UNIVERSITY
+author id:2111217681|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Xu Wang
+author organization:Shenzhen University
+author id:2620118085|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Yun Zhang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2508586812|
+]
+abstract:multiview|allocation|bit|propagated|consistency|problem|optimization|nonreference|model|represented|order|efficiency|ratedistortion|method|dependency|methods||quality|rd|must|account|complexity|rv|achieve|pictures|coding|taken|based|could|interview|analyzed|picture|analytic|comparable|adopted|mathematical|nrvs|solved|reference|view|method|results|experimental|tool|important|proposed|improve|prediction|demonstrate|since|distortion|higher|video|convex|derived|allocation|better|existing|performance|account|taking
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Algorithmic efficiency|Computer science|Lagrange multiplier|Coding (social sciences)|Distortion|Convex optimization|Rate–distortion optimization|Mathematical problem|Encoding (memory)
+references:1511982185|1987193942|2003061329|2036056096|2044470449|2052635379|2058442122|2061078171|2079489112|2081508026|2091298358|2099922041|2110505887|2112559731|2125291623|2125857474|2127295759|2146029364|2146395539|2156853977|2159163997|2169007001|2169735804|2171249278
+
+
+id:2240965729
+title:DCT Coefficient Distribution Modeling and Quality Dependency Analysis Based Frame-Level Bit Allocation for HEVC
+year:2016
+author information:[
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Hui Yuan
+author organization:City University of Hong Kong
+author id:2111217681|
+author name:Xu Wang
+author organization:City University of Hong Kong
+author id:2620118085|
+]
+abstract:stateoftheart|bit|gains|scene|optimization|model|respectively|based|psnr|method|frames|dependency|skipmode|lower|quality|dependencies|synthesized|among|cases|pixelbased|much|status|modelbased|average|works|framelevel|distribution|urq|relationship|based|db|compared|linear|change|laplacian|unified|domainbased|describe|ratio|standard|qdf|shows|efficiency|percentage|bdpeak|buffer|results|new|experimental|discrete|proposed|improve|video|cosine|prediction|coding|demerits|analysis|show|transform|mixture|prediction|transformed|factor|high|allocation|signaltonoise|synld|deviation|also|control|performance|proposed|stable|coefficients|achieved|well|avoid
+venue name:IEEE Transactions on Circuits and Systems for Video Technology
+venue id:115173108
+venue type:J
+document type:Journal
+study fields:Discrete cosine transform|Coding (social sciences)|Artificial intelligence|Distortion|Mathematical optimization|Laplace distribution|Pattern recognition|Algorithm|Pixel|Standard deviation|Mathematics|Lambda|Encoding (memory)
+references:1964204065|1985322471|1997706589|2012356104|2043292349|2052718775|2063245159|2099922041|2105869895|2107451302|2117189707|2119368490|2134762513|2138163228|2146395539|2156376988|2156416207|2156853977|2158017793|2166060026|2407574721
+
+
+id:2247872695
+title:Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding
+year:2015
+author information:[
+author name:Xu Wang
+author organization:Shenzhen University
+author id:2620118085|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Yu Zhou
+author organization:City University of Hong Kong
+author id:2618528065|
+author name:Hui Yuan
+author organization:SHANDONG UNIVERSITY
+author id:2111217681|
+author name:Yun Zhang
+author organization:Shenzhen Institute of Adv. Technol., Shenzhen, China
+author id:2508586812|
+]
+abstract:acceptable|solved|videos|bit|good|employed|view|problem|optimization|cauchydensity|model|results|quantization|algorithm|computational|based|ratedistortion|maps|level|experimental|comparing|propose|plus|quality|synthesized|size|proposed|mvd|oriented|distortion|properties|full|multiview|complexity|achieve|fundamental|video|coding|search|rate|convex|relationship|demonstrated|map|smooth|algorithms|allocation|linear|texture|scheme|view|fitted|model|depth|framework|performance|approximately|step|represent
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Computer vision|Computer science|Multiview Video Coding|Artificial intelligence|Harmonic Vector Excitation Coding|Depth map|Quantization (signal processing)|Convex optimization|Distortion|Optimization problem|Computational complexity theory
+references:1965777286|1986071884|2003061329|2005564112|2025238817|2043408583|2087045569|2099922041|2131769232
+
+
+id:2314317712
+title:SSIM-Based Game Theory Approach for Rate-Distortion Optimized Intra Frame CTU-Level Bit Allocation
+year:2016
+author information:[
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Yu Zhou
+author organization:City University of Hong Kong
+author id:2618528065|
+author name:Hui Yuan
+author organization:SHANDONG UNIVERSITY
+author id:2111217681|
+]
+abstract:sufficiently|delta|stateoftheart|bit|approach|gains|bjontegaard|optimization|respectively|based|efficiency|ratedistortion|method|compared|peaksignaltonoiseratio|bdssim|propose|remaining|quality|metrics|theory|scheme|achieve|utility|nash|coding|proved|ctulevel|refinementbased|close|limits|maintains|set|initial|scheme|model|minimum|improvements|rd|good|defined|rssim|high|solution|fixedqp|method|feasible|different|tree|significant|encoding|proposed|ssimgt|game|optimized|complexity|video|units|structural|rate|similarity|convex|performances|considers|allocation|characteristics|bitrate|bargaining|also|twostage|formulated|performance|averagely|ssimbased|achieved
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Computer science|Visualization|Regular polygon|Coding (social sciences)|Game theory|Intra-frame|Smoothness|Encoding (memory)|Bargaining problem
+references:1985322471|1997706589|2038408185|2052718775|2061078171|2061587708|2067064538|2068523542|2087033344|2094601085|2095709228|2099474155|2103997799|2105869895|2123729354|2124188622|2133665775|2134762513|2146395539|2156416207|2165450954|2166060026|2168099043|2181770152|2240965729|2407574721
+
+
+id:2332590713
+title:Bilevel optimization of block compressive sensing with perceptually nonlocal similarity
+year:2016
+author information:[
+author name:Yu Zhou
+author organization:City University of Hong Kong
+author id:2618528065|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Hainan Guo
+author organization:City University of Hong Kong
+author id:2747674242|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Xu Wang
+author organization:Shenzhen University
+author id:2620118085|
+]
+abstract:upper|intrinsically|stateoftheart|objective|artifact|problem|locally|optimization|subblocks|complex|visual|block|optimizing|represented|tasks|order|reduce|based|bcs|method|lower|accurately|bcs|dictionary|discrepancy|among|much|subblock|solve|independent|methods|focuses|sparsity|two|measurement|noise|bridged|relationship|minimizing|precision|together|stress|reconstructed|linear|address|abstract|one|makes|combines|compressive|l|cs|recovered|traditional|upperlevel|constraint|approximate|dl|achieves|good|norm|high|optimize|major|function|results|combination|obtain|always|image|fixing|level|multiplier|experimental|longer|task|mutual|proposed|sparse|minimization|solve|used|demonstrate|higher|dictionary|importance|learning|representation|singlelevel|nonlocal|effective|numerical|similarity|influences|perceptual|sensing|aims|lagrangian|learned|subblock|bilevel|formulated|bilevel|performance|easier|coefficients|objectives|simply
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Lagrange multiplier|Minification|Artificial intelligence|Optimization problem|Compressed sensing|Mathematical optimization|Bilevel optimization|Sparse approximation|Algorithm|Norm (mathematics)|Linear function|Machine learning|Mathematics
+references:52537375|1815498672|1967212196|1974028655|1974573780|1978567114|1978749115|1985679544|1989233244|1992408872|2002670936|2005089986|2017399967|2023722580|2039875692|2046658845|2052460458|2054118750|2063473853|2064451467|2065030431|2069441534|2080398725|2095978736|2097731086|2099474155|2100556411|2103115408|2119634769|2122275806|2124659975|2127271355|2129638195|2131024476|2133665775|2141983208|2153663612|2157785665|2164071750|2168668658|2296616510
+
+
+id:2411936263
+title:A phase congruency based patch evaluator for complexity reduction in multi-dictionary based single-image super-resolution
+year:2016
+author information:[
+author name:Yu Zhou
+author organization:City University of Hong Kong
+author id:2618528065|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Xu Wang
+author organization:Shenzhen University
+author id:2620118085|
+]
+abstract:results|maintain|mdsisr|hr|stateoftheart|lowresolution|resolution|three|attempt|without|adaptively|patch|sisr|visual|phase|respectively|reduce|based|images|method|researchers|patches|numberical|baseline|degraded|benchmark|quality|flexible|contents|adopt|competitive|much|complexity|images|superresolution|achieve|two|sparsely|low|reduces|categories|proposeda|conisderable|reconstructed|highresolution|approaches|one|many|framework|accuracy|represent|scaled|lr|process|degradation|used|tremendous|pairs|fsim|high|lesssignificant|congruency|different|results|computational|singleimage|image|treated|multidictionary|experimental|reconstruct|significant|patches|coded|proposed|improve|demonstrate|dictionaries|classify|applied|scale|simpler|burden|numerical|database|studies|divide|singleimage|methodscompared|evaluator|smooth|types|aims|recover|cost|multiple|contents|reconstructs|approaches|frameworkdifferent|conventional|deterioration|reconstruction|significantly
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Hierarchical clustering|Computer vision|Reduction (complexity)|Artificial intelligence|Superresolution|Phase congruency|Mathematics|Computational complexity theory
+references:54257720|640294433|814272769|935139217|1530630642|1627216380|1791560514|1973794531|1979045902|1982251998|1982851590|1992136697|1992365893|1995363561|1998443077|2011699662|2011952414|2032826816|2041311305|2054118750|2064451467|2080878340|2080994061|2088254198|2097200430|2097725016|2098506229|2110652930|2117865218|2121058967|2127271355|2133665775|2140094223|2148312679|2150081556|2167400582|2190743529|2332590713
+
+
+id:2587456036
+title:Phase Congruency based edge saliency detection and rate control for perceptual image and video coding
+year:2016
+author information:[
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+]
+abstract:stateoftheart|bit|introduced|coding|coding|based|method|frames|bits|quality|field|size|compression|evaluate|ie|works|achieve|two|coding|congruency|firstly|relationship|distortions|map|compared|change|smoothness|accuracy|information|combined|small|paper|rd|used|unit|analyzed|features|edge|efficiency|tree|results|image|given|maps|level|intra|solutions|experimental|significant|tool|measure|proposed|video|demonstrate|modeled|distortion|consumed|meansquarederror|phase|optimized|video|effective|rate|influences|high|allocation|control|also|pc|performance|well|step
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Computer vision|Coding tree unit|Computer science|Multiview Video Coding|Coding (social sciences)|Artificial intelligence|Sub-band coding|Harmonic Vector Excitation Coding|Phase congruency|Distortion|Context-adaptive binary arithmetic coding
+references:2017809579|2042003931|2123950557|2181770152|2240965729|2244426060|2247872695|2314317712
+
+
+id:2590117390
+title:Multiscale phase congruency analysis for image edge visual saliency detection
+year:2016
+author information:[
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Yu Zhou
+author organization:City University of Hong Kong
+author id:2618528065|
+author name:Yuheng Jia
+author organization:City University of Hong Kong
+author id:2278733936|
+author name:Jia Zhang
+author organization:City University of Hong Kong
+author id:2590382937|
+author name:Wenhui Wu
+author organization:City University of Hong Kong
+author id:2593055313|
+]
+abstract:mpc|textures|threshold|stateoftheart|saliency|edge|function|suppression|congruency|results|generate|phase|based|image|method|maps|experimental|methods|analysis|traditional|proposed|final|processing|multiscale|region|applied|show|paper|merged|regions|salient|map|detection|texture|effectively|center|edges|suppress|nonsalient|better|several|pc|detailed|gaussian|novel|priors
+venue name:International Conference on Machine Learning and Cybernetics
+venue id:1120608147
+venue type:C
+document type:Conference
+study fields:Computer science|Salience (neuroscience)|Edge detection|Image segmentation|Artificial intelligence|Gaussian function|Computer vision|Pattern recognition|Image texture|Visualization|Feature extraction|Phase congruency|Machine learning
+references:1510835000|1978479866|2015196405|2036943946|2041719651|2060196876|2100470808|2128272608|2129053638|2130184867|2135957164|2141983208|2146103513
+
+
+id:2750318222
+title:Joint Machine Learning and Game Theory for Rate Control in High Efficiency Video Coding
+year:2017
+author information:[
+author name:Wei Gao
+author organization:Shenzhen University
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Yuheng Jia
+author organization:City University of Hong Kong
+author id:2278733936|
+]
+abstract:modeling|maintain|accuracy|stateoftheart|bit|optimization|visual|qp|efficiency|ratedistortion|frames|method|inter|cooperative|quality|rc|theory|much|scheme|framelevel|achieve|modelbased|overcome|utility|nash|convexity|coding|adaptive|ctulevel|search|vector|close|limits|model|framework|change|machine|minimum|dilemma|multiclassification|joint|rd|learningbased|onepass|reference|high|solution|function|fixedqp|method|buffer|results|quantization|level|intra|experimental|adjusted|tree|iterative|mlgtbased|unit|proposed|improve|prediction|demonstrate|support|frame|distortion|game|legacy|machinebased|learning|mixed|video|rate|parameter|ratios|make|performances|smooth|allocation|subjective|bargaining|resources|control|consumption|better|performance|optimization|achieved
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Coding tree unit|Computer science|Support vector machine|Game theory|Inter frame|Artificial intelligence|Intra-frame|Harmonic Vector Excitation Coding|Quantization (signal processing)|Machine learning|Bargaining problem
+references:1483301077|1997706589|2026699246|2043292349|2052718775|2096942043|2123729354|2140227114|2146395539|2153635508|2156416207|2161920802|2168099043|2172000360|2181770152|2183793224|2240965729|2314317712|2315954324|2407574721|2511584835|2513169612|2558205878|2587456036|2590117390|2753736066
+
+
+id:2769773494
+title:Sparse Bayesian Learning-Based Kernel Poisson Regression
+year:2019
+author information:[
+author name:Yuheng Jia
+author organization:City University of Hong Kong
+author id:2278733936|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Wenhui Wu
+author organization:City University of Hong Kong
+author id:2593055313|
+author name:Ran Wang
+author organization:Shenzhen University
+author id:2950200665|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+]
+abstract:data|stateoftheart|conjugate|realworld|prior|loggamma|method|model|solutions|results|computational|reduce|based|given|give|models|approximation|efficiency|method|individual|solutions|experimental|bayesian|count|benefit|poisson|proposed|sparse|regression|leads|solve|obtained|demonstrate|parameters|problems|inference|intractable|learning|distribution|integrated|analytically|flexibility|applications|enhance|toy|closedform|applying|outperform|practical|problem|introduce|kernel|data|sbkpr|regression|cannot|gaussian|approach|time
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Bayesian inference|Principal component regression|Bayesian linear regression|Nonparametric regression|Polynomial kernel|Artificial intelligence|Kernel regression|Mathematical optimization|Pattern recognition|Algorithm|Count data|Mathematics|Kernel (statistics)
+references:165787321|1648445109|1746819321|1965801346|1985516812|2008717648|2015725852|2018798674|2038974670|2078381696|2088929512|2111414067|2123175289|2125833791|2133871228|2135980307|2137226992|2137559179|2146000945|2146247053|2148154358|2150057984|2151386286|2171980229|2254069717|2541389513|2594551469|2963762195
+
+
+id:2782630728
+title:Nonnegative matrix factorization with mixed hypergraph regularization for community detection
+year:2018
+author information:[
+author name:Wenhui Wu
+author organization:City University of Hong Kong
+author id:2593055313|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Yu Zhou
+author organization:Shenzhen University
+author id:2618528065|
+author name:Yuheng Jia
+author organization:City University of Hong Kong
+author id:2278733936|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+]
+abstract:named|mixing|stateoftheart|realworld|identified|higherorder|connection|based|method|topology|achieved|testing|methods|underlying|community|propose|latent|among|networks|consideration|assumes|kinds|matrix|networks|two|regularized|eight|term|attribute|takes|performance|detection|set|within|abstract|clustered|makes|nonnegative|lowdimensional|factorization|help|framework|organization|able|efficiently|information|topological|novel|use|regularization|identical|hypergraph|neighbors|benchmarks|generate|results|discover|demonstrates|hyperedges|often|significant|onto|proposed|forces|full|mixed|discriminative|representation|projected|related|structural|similarity|enhance|hyperedge|structure|better|artificial|nodes|clustering|information|community
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Community structure|Subspace topology|Hypergraph|Theoretical computer science|Regularization (mathematics)|Artificial intelligence|Non-negative matrix factorization|Cluster analysis|Discriminative model|Centroid|Machine learning|Mathematics
+references:136278976|1692247819|1817993605|1940617452|1966286510|1974451338|1977713568|1992190284|2014967532|2068096985|2097645701|2098318489|2102931907|2108119513|2115632271|2116542188|2119571791|2140245639|2144359569|2146591355|2152284345|2153622543|2170057991|2252355162|2346847115|2557489574
+
+
+id:2890000486
+title:Data-Driven Rate Control for Rate-Distortion Optimization in HEVC Based on Simplified Effective Initial QP Learning
+year:2019
+author information:[
+author name:Wei Gao
+author organization:Shenzhen University
+author id:2618038996|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Qiuping Jiang
+author organization:NingBo University
+author id:2109624842|
+author name:Chi-Keung Fong
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2891223925|
+author name:Peter H. W. Wong
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2925238299|
+author name:Wilson Y. F. Yuen
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2890403788|
+]
+abstract:equivalent|empirical|accuracy|bit|approach|extracted|gains|different|setting|scene|model|per|qp|similar|efficiency|using|ratedistortion|method|frames|thus|parameters|work|bits|benchmark|remaining|labels|quality|cases|criterion|coding|motivations|refined|intracoding|db|latest|initial|change|inaccuracy|single|framework|smoothness|traditionally|bdbr|novel|liqp|occupancy|rd|used|clearly|learningbased|features|high|buffer|quantization|maximizing|significant|testing|achieving|proposed|improve|bdpsnr|prediction|prevented|present|parameters|reasons|instead|learning|video|calculative|paper|related|rate|parameter|pixel|bpp|control|also|pair|versus|target|outperforms|performance|conventional|build|stable|well|avoid
+venue name:IEEE Transactions on Broadcasting
+venue id:100142436
+venue type:J
+document type:Journal
+study fields:Data-driven|Computer science|Algorithm|Coding (social sciences)|Electronic engineering|Color depth|Feature extraction|Quantization (signal processing)|Smoothness|Rate–distortion optimization|Encoding (memory)
+references:1518233497|1552322894|1596717185|1964204065|1964357740|1977921104|2043292349|2068655254|2076723282|2108995755|2109024809|2109519887|2117532751|2119821739|2137226992|2139212933|2142827986|2144720682|2146395539|2153635508|2156376988|2156909104|2159321764|2166060026|2169113461|2172000360|2240965729|2246661590|2314317712|2407574721|2513169612|2557283755|2587456036|2750318222
+
+
+id:2901376605
+title:Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images
+year:2019
+author information:[
+author name:Qiuping Jiang
+author organization:NingBo University
+author id:2109624842|
+author name:Feng Shao
+author organization:Ningbo University
+author id:2134211256|
+author name:Wei Gao
+author organization:Shenzhen University
+author id:2618038996|
+author name:Zhuo Chen
+author organization:Nanyang Technological University
+author id:2901919130|
+author name:Gangyi Jiang
+author organization:NingBo University
+author id:2162420529|
+author name:Yo-Sung Ho
+author organization:Gwangju Institute of Science  Technology, Gwangju, South Korea
+author id:2111212957|
+]
+abstract:manifestations|mdsi|type|problem|terms|mblvps|visual|simulate|images|using|method|underlying|binocular|modalityspecific|jointly|resulting|quality|monocular|distortions|input|dictionary|modality|field|regression|determined|sdsi|mdsis|superiority|given|minimized|two|local|across|modalities|feature|distortions|sdsis|responses|set|yielding|singly|learn|within|probabilistic|performed|single|characterize|stereoscopic|unified|responses|databases|noreference|joint|manner|several|taskdriven|main|receptive|challenging|assessment|features|consider|different|mechanisms|cortex|including|encoding|weights|distorted|effects|sparse|final|mdsis|distortion|idea|penalty|mixed|learning|generating|error|primitives|paper|due|multiply|evaluator|learned|multiple|verified|also|supervised|corresponding|response|fused|reconstruction|inconsistency|qualityoriented|properties|presents
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Computer vision|Visual cortex|Pattern recognition|Visualization|Stereoscopy|Feature extraction|Artificial intelligence|Probabilistic logic|Monocular|Distortion|Mathematics|Encoding (memory)
+references:1500458919|1513661237|1545192369|1558079668|1963932623|1964859077|1972006393|1972491016|1973674417|1977246677|1981076008|1982471090|1985560945|1987489060|2030294991|2040277449|2057224480|2061513831|2063360098|2069737080|2070322626|2072441879|2073812468|2085448797|2090030266|2099254324|2099308462|2106775624|2117430149|2117804578|2121927366|2129644086|2130172650|2133665775|2133803071|2141983208|2145725161|2153635508|2157074091|2162692770|2169363967|2171349048|2258211000|2280408335|2284685575|2293889938|2303076655|2310059960|2319957123|2320663691|2362296076|2401075073|2430408220|2473697052|2481395713|2531892808|2546855109|2566149141|2566445787|2586772604|2601548332|2606609731|2612455073|2735451741|2750972358|2755066601|2765934933|2767658402
+
+
+id:2912289640
+title:SSIM-Based Global Optimization for CTU-Level Rate Control in HEVC
+year:2019
+author information:[
+author name:Mingliang Zhou
+author organization:City University of Hong Kong
+author id:2913232610|
+author name:Xuekai Wei
+author organization:City University of Hong Kong
+author id:2919393718|
+author name:Shiqi Wang
+author organization:University of Hong Kong
+author id:2134010418|
+author name:Sam Kwong
+author organization:City University of Hong Kong
+author id:2101867916|
+author name:Chi-Keung Fong
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2891223925|
+author name:Peter H. W. Wong
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2925238299|
+author name:Wilson Y. F. Yuen
+author organization:TFI Digital Media Ltd., Hong Kong
+author id:2890403788|
+author name:Wei Gao
+author organization:City University of Hong Kong
+author id:2618038996|
+]
+abstract:optimal|software|experimental|bit|scene|characterizes|problem|optimization|normalization|terms|visual|model|algorithm|based|using|ratedistortion|propose|quality|consistently|substantially|algorithms|enhances|scheme|achieve|global|hevc|local|coding|ctulevel|variations|perspective|relationship|established|robust|bits|solved|reference|updating|presented|rateperceptual|different|results|new|given|test|tree|establish|unit|improve|configurations|distortion|divisive|applied|show|rate|parameter|convex|transformed|allocation|bitrate|control|outperforms|efficiency|existing|budget|performance|ssimbased|optimization|strategy
+venue name:IEEE Transactions on Multimedia
+venue id:137030581
+venue type:J
+document type:Journal
+study fields:Algorithmic efficiency|Normalization (statistics)|Pattern recognition|Coding tree unit|Global optimization|Computer science|Algorithm|Coding (social sciences)|Artificial intelligence|Distortion|Convex optimization|Encoding (memory)
+references:1520175347|1990360769|2007529692|2042016847|2052718775|2061078171|2061887118|2064428286|2070610470|2079247436|2095709228|2098191106|2103997799|2105869895|2106446411|2119368490|2133665775|2136477141|2146395539|2148269510|2163362100|2163809262|2314317712|2315954324|2407574721|2438352614|2474131947|2749432756
+
+
+id:2972352920
+title:A Risk-Aware Pairwise Rank Learning Approach for Visual Discomfort Prediction of Stereoscopic 3D
+year:2019
+author information:[
+author name:Qiuping Jiang
+author organization:NingBo University
+author id:2109624842|
+author name:Feng Shao
+author organization:Ningbo University
+author id:2134211256|
+author name:Wei Gao
+author organization:Peking University
+author id:2977943251|
+author name:Hong Li
+author organization:Ningbo University
+author id:2972328195|
+author name:Yo-Sung Ho
+author organization:Gwangju Institute of Science  Technology, Gwangju, South Korea
+author id:2111212957|
+]
+abstract:focus|extracted|approach|viewing|evaluation|featurescore|problem|pairwise|visual|rank|model|based|images|mapping|using|method|robustness|inspired|propose|former|traditional|algorithm|completely|ie|algorithms|tools|experiments|feature|raprl|riskaware|vdp|robust|learn|predictive|rank|exploiting|riskaware|field|stereoscopic|framework|accuracy|powerful|first|novel|scores|addresses|use|rarl|learning|features|unlike|different|dedicated|level|efforts|extract|proposed|improve|prediction|learning|constraint|comparisonbased|common|pairwise|experienced|effectiveness|subjective|limited|verified|twostage|approaches|existing|discomfort|regression|typical
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:Pairwise comparison|Regression|Pattern recognition|Visualization|Stereoscopy|Robust learning|Feature extraction|Robustness (computer science)|Visual Discomfort|Artificial intelligence|Mathematics
+references:1558079668|1977246677|1982471090|2030294991|2038094733|2072441879|2120823735|2129644086|2145725161|2153635508|2161907179|2162692770|2171349048|2206823058|2341145739|2488089073|2549557196|2590402370|2767658402|2901376605
+
+
+id:1995341435
+title:Multicasting in delay tolerant networks: a social network perspective
+year:2009
+author information:[
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Qinghua Li
+author organization:Pennsylvania State University
+author id:2599055213|
+author name:Bo Zhao
+author organization:Pennsylvania State University
+author id:2307592195|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:extensive|networks|measured|data|node|focus|used|approach|delay|number|problem|centrality|impair|epidemic|reduce|tracedriven|similar|dissemination|solutions|community|perspective|node|selections|delay|used|difference|greatly|mobility|study|formulate|endtoend|show|relays|structures|forwarding|investigate|unicast|tolerant|network|dtns|effectiveness|delivery|destination|address|cost|social|relay|multiple|although|approaches|socialbased|exploiting|multicast|simulations|single|existing|unified|knapsack|significantly|disconnections|first|essential|ratio
+venue name:Mobile Ad Hoc Networking and Computing
+venue id:1151146444
+venue type:C
+document type:Conference
+study fields:Source-specific multicast|Protocol Independent Multicast|Multicast address|Delay-tolerant networking|Computer science|Xcast|Computer network|Pragmatic General Multicast|Unicast|Multicast|Distributed computing
+references:1997405607|2010634640|2046868922|2082674813|2096509679|2112316694|2112876030|2126505669|2128466234|2135480767|2135712710|2136420233|2137774589|2142522527|2152855729|2166093893|2293146328
+
+
+id:2009620906
+title:Contact duration aware data replication in Delay Tolerant Networks
+year:2011
+author information:[
+author name:Xuejun Zhuo
+author organization:Tsinghua University
+author id:2036663402|
+author name:Qinghua Li
+author organization:Pennsylvania State University
+author id:2599055213|
+author name:Wei Gao
+author organization:The Pennsylvania State University. USA
+author id:2118807127|
+author name:Guohong Cao
+author organization:The Pennsylvania State University. USA
+author id:2167398159|
+author name:Yiqi Dai
+author organization:Tsinghua University
+author id:2635421485|
+]
+abstract:extensive|without|problem|network|popularization|recent|fully|give|item|topology|distributed|schemes|recognize|packet|propose|opportunities|traditional|among|utilize|level|scheme|operates|formulate|tolerant|dtns|share|reduces|enables|replication|replicate|one|limits|generally|simulations|complete|closetooptimal|sharing|treat|data|achieves|manner|delay|handheld|centralized|realistic|solution|contact|directly|computational|infrastructure|buffers|traces|difficult|duration|algorithm|users|unstable|synthetic|exploited|techniques|replication|internet|support|complexity|show|storage|network|duration|analytically|aware|common|studies|ignore|make|move|interconnectivity|practical|limited|apply|mobile|data|schemes|although|outperforms|better|existing|form|deficiency|aware
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Replication (computing)|Delay-tolerant networking|Computer science|Network packet|Data sharing|Computer network|Network topology|Mobile device|Distributed database|Mobile telephony|Distributed computing
+references:1966518282|1966924243|1989289072|1995341435|2005026120|2026357470|2035041033|2039157284|2082674813|2100834185|2105766965|2112316694|2118518442|2129223406|2130228020|2139352451|2140581108|2141472779|2143374307|2143554828|2149721632|2161450107|2164237594|2166093893|2169926009
+
+
+id:2013269950
+title:Delay-Constrained Caching in Cognitive Radio Networks
+year:2016
+author information:[
+author name:Jing Zhao
+author organization:Pennsylvania State University
+author id:2510571624|
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Yi Wang
+author organization:Pennsylvania State University
+author id:2662205128|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:increased|accessed|users|constraints|approach|ongoing|problem|optimization|terms|cache|goal|distributed|substantial|propose|delay|cognitive|spectrum|among|improvement|must|placement|access|achieve|delaybased|formulate|networks|costbased|takes|minimize|licensed|address|may|problem|makes|many|meet|underutilized|performs|data|use|subject|available|caching|radio|transmissions|transmission|vacate|results|combine|solutions|interrupted|develop|users|hybrid|techniques|solve|interference|unlicensed|show|constraint|best|switch|total|design|since|hard|bounded|applications|outperform|cost|satisfy|satisfying|statistically|approaches|existing|performance|simulation|avoid|time|significantly
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Mobile computing|Computer science|Cache|Transmission delay|Communication channel|Computer network|Optimization problem|Data access|Distributed computing|Cognitive radio|Performance improvement
+references:1484750604|1975290397|2011823863|2017725978|2027522306|2041738377|2042959783|2070607702|2094518706|2099470650|2099574482|2103227185|2107203691|2112053513|2112316694|2118518442|2120875707|2131787605|2137163110|2139841919|2146723212|2147879413|2148588212|2151537887|2156719196|2161450107|2165197855|2166324783|2170577762|2274250074
+
+
+id:2028922670
+title:To Lie or to Comply: Defending against Flood Attacks in Disruption Tolerant Networks
+year:2013
+author information:[
+author name:Qinghua Li
+author organization:Pennsylvania State University
+author id:2599055213|
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Sencun Zhu
+author organization:Pennsylvania State University
+author id:2170715427|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:employ|networks|counts|packets|number|order|violated|efficiency|contact|probability|opportunity|distributed|packet|limiting|analysis|propose|simulations|flood|node|provide|among|utilize|interval|pigeonhole|evaluate|mobility|packet|scheme|guarantee|tolerant|receiving|dtns|detection|resources|detection|address|may|limits|attackers|possible|many|inconsistent|lead|extensive|contacts|principle|data|vulnerable|attacks|contact|limit|claim|buffer|deplete|communication|generate|tracedriven|communications|count|difficult|sent|lack|rigorous|claims|disruption|carry|send|limitation|overuse|detect|network|opportunistic|due|rate|defend|make|carried|effectiveness|limited|replicas|crosscheck|resources|attacker|structure|nodes|due|adopts|challenge|uses|time
+venue name:IEEE Transactions on Dependable and Secure Computing
+venue id:133795288
+venue type:J
+document type:Journal
+study fields:Cryptography|Computer security|Computer science|Network packet|Computer network|Bandwidth (signal processing)|Statistical power|Limiting|Flood myth|Routing protocol|Pigeonhole principle
+references:1940397557|1974942795|1995341435|2005725110|2010634640|2038761746|2075346329|2079274032|2082674813|2083454089|2097625638|2098697029|2102248411|2109505558|2112316694|2113261592|2122426592|2126505669|2128381560|2129849999|2135712710|2136904248|2142522527|2143554828|2146595929|2148593892|2149406753|2157445816|2159502757|2161147255|2164988386|2589327169|2610275508
+
+
+id:2075202824
+title:Minimum Latency Data Diffusion in Intermittently Connected Mobile Networks
+year:2012
+author information:[
+author name:Maheswaran Sathiamoorthy
+author organization:University of Southern California
+author id:313946723|
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Bhaskar Krishnamachari
+author organization:University of Southern
+author id:1600658949|
+author name:Guohong Cao
+author organization:Dept . of Computer Science and Engineering|Pennsylvania State University|University Park
+author id:2167398159|
+]
+abstract:optimal|desirable|decide|realizable|path|problem|contribution|diffusing|state|shortest|goal|work|underlying|examples|contents|must|terminate|starting|much|diffusion|global|two|desired|heuristics|cached|taken|smallscale|stochastic|copy|minimize|decision|explore|initial|bandwidth|markov|solution|connected|state|able|information|approach|practically|using|main|whenever|prior|function|graph|consider|results|obtain|given|kind|numerically|particular|formal|take|transfer|focused|topic|configuration|show|storage|content|due|process|mobile|contents|encounter|formulated|nodes|assuming|intermittently|interested|time|strategy
+venue name:Vehicular Technology Conference
+venue id:1176978676
+venue type:C
+document type:Conference
+study fields:Mobile radio|Mathematical optimization|Markov process|Shortest path problem|Computer science|Cache|Markov decision process|Heuristics|Bandwidth (signal processing)|Cellular network|Distributed computing
+references:1995341435|1997405607|2002641702|2040459121|2045295122|2063742592|2171053358
+
+
+id:2077259008
+title:Forwarding redundancy in opportunistic mobile networks: Investigation and elimination
+year:2014
+author information:[
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Qinghua Li
+author organization:University of Arkansas
+author id:2599055213|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:experimental|consist|via|forwarding|fully|based|efficiency|separately|devices|destinations|distributed|utilization|schemes|propose|contacts|methods|relays|deliver|eliminate|global|networks|current|reduces|redundancy|resources|may|efficient|connected|first|operable|manner|data|intermittent|manner|upon|opportunistic|realistic|contact|selected|impair|ignored|ensure|resource|develop|overlap|techniques|improve|shortrange|carry|cause|investigations|forwarding|network|relies|opportunistic|due|hence|selecting|characteristics|capabilities|limited|warding|mobile|radios|unnecessary|nodes|performance|intermittently|information
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Mobile computing|Network connectivity|Global network|Resource (disambiguation)|Computer science|Computer network|Redundancy (engineering)|Mobile device|Distributed computing
+references:1966518282|1981107414|1998280181|2002169759|2010634640|2039157284|2083454089|2097625638|2112316694|2118518442|2129849999|2135365254|2143374307|2143554828|2145517691|2148899275|2153297552|2171053358|2293146328
+
+
+id:2082620054
+title:Forwarding Redundancy in Opportunistic Mobile Networks: Investigatio
+year:2015
+author information:[
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Qinghua Li
+author organization:University of Arkansas
+author id:2599055213|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:extensive|required|consist|via|forwarding|fully|based|efficiency|separately|devices|destinations|lower|distributed|utilization|schemes|propose||much|contacts|methods|relays|deliver|eliminate|global|networks|adaptive|current|reduces|redundancy|resources|may|efficient|connected|minimum|first|operable|manner|data|intermittent|manner|upon|opportunistic|realistic|contact|results|selected|impair|ignored|tracedriven|ensure|resource|cost|develop|overlap|techniques|improve|shortrange|carry|show|cause|forwarding|network|relies|opportunistic|due|intentionally|hence|selecting|enhance|characteristics|amount|capabilities|evaluations|limited|satisfy|effectively|mobile|radios|unnecessary|control|nodes|performance|furthermore|intermittently|investigation|information|strategy|unconsciously
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Mobile computing|Forwarding plane|Computer science|Computer network|Bidirectional Forwarding Detection|Reverse path forwarding|Redundancy (engineering)|Virtual routing and forwarding|Mobile telephony|Packet forwarding|Distributed computing
+references:1966518282|1981107414|1995341435|1998280181|2002169759|2002641702|2010634640|2015099766|2045295122|2071882951|2077345313|2082674813|2083454089|2092329696|2096509679|2112316694|2113397920|2116345518|2129849999|2135365254|2135712710|2142522527|2143554828|2145368408|2145517691|2148899275|2153297552|2168260350|2168463792|2170904274|2171053358|2181306409|2293146328
+
+
+id:2083454089
+title:On exploiting transient contact patterns for data forwarding in Delay Tolerant Networks
+year:2010
+author information:[
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:networks|data|experimental|approach|delay|realistic|contacting|contact|others|decision|based|similar|cost|unpredictable|patterns|schemes|propose|lack|node|proposed|transient|improve|networks|carry|metrics|choices|much|dtn|appropriate|mobility|applied|achieve|formulate|relays|global|choose|best|forwarding|tolerant|current|capability|low|dtns|studies|compared|effectiveness|may|within|forward|relay|patterns|cumulative|exploiting|heterogeneity|effective|better|existing|nodes|performance|due|various|short|information|time|novel
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Mobile radio|Computer science|Global information|Computer network|Peer to peer computing|Bidirectional Forwarding Detection|Virtual routing and forwarding|Relay|Mobile telephony|Packet forwarding|Distributed computing
+references:1504324583|1966518282|1995341435|1998280181|2002169759|2002641702|2010634640|2040459121|2045295122|2079274032|2082674813|2092003045|2096509679|2112316694|2112876030|2129849999|2135365254|2135712710|2142522527|2143374307|2143554828|2145517691|2153297552|2164988386|2170904274|2171053358|2293146328|2589327169
+
+
+id:2113027181
+title:Fine-grained mobility characterization: steady and transient state behaviors
+year:2010
+author information:[
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:mostly|accurate|access|approach|research|handheld|realistic|formulation|hidden|popularization|knowledge|based|making|devices|behaviors|traces|personal|accurately|finegrained|important|movement|synthetic|among|improve|future|demonstrate|present|device|coarsegrained|mobility|geographical|pattern|show|effort|recent|characterizing|effective|points|computing|prediction|variety|predict|mobility|applications|characterized|transientstate|applying|steadystate|limited|markov|mobile|makes|also|experimentally|transition|characterize|performance|form|model|wireless|user|characterization|novel
+venue name:Mobile Ad Hoc Networking and Computing
+venue id:1151146444
+venue type:C
+document type:Conference
+study fields:Mobile computing|Wireless|Computer science|Mobility model|Transient state|Mobile device|Mobility prediction|Hidden Markov model|Distributed computing
+references:185215740|1591136752|1979745145|1992956547|1995341435|2006614016|2018798792|2069896075|2105081458|2112316694|2116790923|2129495413|2133286823|2143374307|2147854123|2149891651|2153248811|2160494326
+
+
+id:2113397920
+title:On Exploiting Transient Social Contact Patterns for Data Forwarding in Delay-Tolerant Networks
+year:2013
+author information:[
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+author name:T. La Porta
+author organization:Pennsylvania State University
+author id:1994251058|
+author name:Jiawei Han
+author organization:University
+author id:2121939561|
+]
+abstract:networks|experimental|delaytolerant|approach|connectivity|based|similar|period|unpredictable|schemes|community|propose|node|provide|transient|metrics|choices|much|traces|appropriate|forwarding|achieve|relays|global|current|capability|low|dtns|compared|may|within|forward|cumulative|exploiting|heterogeneity|information|constraint|novel|represent|data|challenging|characteristics|realistic|contacting|contact|others|cost|patterns|lack|proposed|improve|carry|dtn|analytical|applied|choose|best|forwarding|network|effective|formulations|studies|make|effectiveness|characteristics|social|relay|patterns|structure|better|existing|nodes|performance|due|various|short|time
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Social network|Delay-tolerant networking|Computer science|Computer network|Centrality|Bidirectional Forwarding Detection|Relay|Mobile telephony|Packet forwarding|Virtual routing and forwarding|Distributed computing
+references:1504324583|1966518282|1995341435|1998280181|2002169759|2010634640|2040459121|2079274032|2082674813|2083454089|2096509679|2112316694|2129849999|2135365254|2135712710|2142522527|2143374307|2143554828|2145517691|2153297552|2164988386|2170904274|2171053358|2293146328|2589327169
+
+
+id:2116547166
+title:An Incentive Framework for Cellular Traffic Offloading
+year:2014
+author information:[
+author name:Xuejun Zhuo
+author organization:Tsinghua University
+author id:2036663402|
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Guohong Cao
+author organization:Dept . of Computer Science and Engineering|Pennsylvania State University|University Park
+author id:2167398159|
+author name:Sha Hua
+author organization:New York University
+author id:2100822645|
+]
+abstract:satisfaction|extensive|networks|offloading|decreases|incentive|connectivity|let|promising|based|using|efficiency|large|analysis|overload|nonnegligible|delay|provide|cellular|cases|excessive|prioritized|submitting|utilizing|facing|networks|tradeoff|bids|tolerant|result|stochastic|verify|offloading|minimize|may|caused|solution|satisfaction|reverse|delay|simulations|framework|severe|proactively|wifi|novel|offloaded|intermittent|express|delay|high|dynamic|potential|tolerance|traffic|given|tracedriven|illustrate|capture|users|cellular|offloading|problems|since|dtn|leverage|part|investigate|auction|motivate|predict|amount|characteristics|cost|effectively|mobile|demands|currently|forms
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Mobile computing|Delay-tolerant networking|Incentive|Computer science|Computer network|Cellular traffic|Cellular network|Reverse auction|Cost reduction|Mobile telephony|Distributed computing
+references:1498081891|1598783139|1967283355|1979745145|1983750266|1992240028|1995341435|2002169759|2005026120|2007201570|2009620906|2016312880|2068310603|2097281067|2101395606|2106306378|2120964727|2132777427|2134289576|2139352451|2141472779|2144195948|2151893328|2162343230|2162555816|2166093893|2167718801|2170681489|2170904274|2171090088
+
+
+id:2118518442
+title:Supporting Cooperative Caching in Disruption Tolerant Networks
+year:2011
+author information:[
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+author name:Arun Iyengar
+author organization:IBM
+author id:1251078740|
+author name:Mudhakar Srivatsa
+author organization:IBM T.J. Watson research center
+author id:1449758934|
+]
+abstract:extensive|networks|accessibility|improves|focus|accessed|users|approach|network|easily|based|cache|work|locations|propose|cooperative|node|selection|among|ncl|appropriate|mobility|providing|access|scheme|overhead|global|tolerant|current|low|dtns|cached|reduces|enables|compared|characterized|set|probabilistic|delay|simulations|novel|data|network|central|caching|research|coordination|optimize|tracedriven|coordinate|unpredictable|sharing|done|lack|efforts|disruption|basic|support|idea|show|network|effective|intentionally|ensures|limited|mobile|multiple|schemes|existing|nodes|trade|performance|information|significantly
+venue name:International Conference on Distributed Computing Systems
+venue id:1200222865
+venue type:C
+document type:Conference
+study fields:Global network|Cache|Computer science|Computer network|Peer to peer computing|Wireless ad hoc network|Probabilistic logic|Data access|Mobile telephony|Distributed computing
+references:1918432491|1966518282|1995341435|1997405607|1998280181|2002641702|2045295122|2063742592|2082674813|2083454089|2084182494|2096509679|2112053513|2112316694|2113027181|2126540423|2128466234|2129223406|2135365254|2135712710|2136975273|2140581108|2142522527|2145517691|2152855729|2164237594|2165197855|2170904274|2171053358|2172034104|2293146328
+
+
+id:2127416604
+title:Provenance-driven data dissemination in disruption tolerant networks
+year:2011
+author information:[
+author name:Mudhakar Srivatsa
+author organization:IBM T.J. Watson research center
+author id:1449758934|
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Arun Iyengar
+author organization:IBM
+author id:1251078740|
+]
+abstract:networks|accessibility|improves|focus|accessed|users|approach|degrees|problem|connectivity|terms|network|easily|model|based|using|cache|work|locations|raw|come|propose|cooperative|quality|node|selection|ncl|obtained|appropriate|mobility|providing|compare|access|scheme|examine|overhead|global|tradeoff|tolerant|current|varying|low|dtns|semiring|examined|enables|compared|characterized|product|address|set|probabilistic|one|fusing|queries|extensive|metric|information|innetwork|approach|novel|data|network|central|caching|research|optimize|us|tracedriven|coordinate|level|unpredictable|establish|lack|quantify|efforts|proposed|disruption|basic|support|trust|sources|challenges|idea|show|qoi|network|effective|provenance|opportunistic|intentionally|allows|ensures|limited|mobile|multiple|schemes|existing|nodes|performance|furthermore|fused|information|user|significantly
+venue name:International Conference on Information Fusion
+venue id:2623423368
+venue type:C
+document type:Conference
+study fields:Mobile computing|Mobile radio|Cache|Computer science|Computer network|Dissemination|Probabilistic logic|Wireless ad hoc network|Data access|Mobile telephony|Distributed computing
+references:1966518282|1995341435|1998280181|2058329128|2082674813|2084182494|2096509679|2099636580|2112053513|2112316694|2118518442|2126540423|2128466234|2135365254|2135712710|2136975273|2142522527|2145517691|2152855729|2159255950|2165197855|2170904274|2172034104|2293146328|2293299776
+
+
+id:2141472779
+title:Win-Coupon: An incentive framework for 3G traffic offloading
+year:2011
+author information:[
+author name:Xuejun Zhuo
+author organization:Tsinghua University
+author id:2036663402|
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+author name:Yiqi Dai
+author organization:Tsinghua University
+author id:2635421485|
+]
+abstract:satisfaction|extensive|networks|offloading|decreases|users|incentive|connectivity|let|case|promising|based|using|efficiency|large|overload|delay|provide|excessive|prioritized|submitting|study|utilizing|facing|networks|tradeoff|bids|tolerant|result|stochastic|verify|offloading|minimize|may|caused|solution|satisfaction|reverse|delay|simulations|framework|severe|proactively|wifi|novel|offloaded|intermittent|express|delay|high|dynamic|potential|tolerance|traffic|given|tracedriven|illustrate|capture|users|take|nonnegligible|offloading|problems|since|dtn|leverage|analysis|part|investigate|auction|opportunistic|motivate|predict|amount|characteristics|cost|effectively|mobile|currently|demands|forms
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Resource management|Coupon|Mobile computing|Femtocell|Incentive|Computer science|Computer network|Reverse auction|Mobile telephony|Distributed computing
+references:1498081891|1979745145|1995341435|2002169759|2005026120|2009620906|2016312880|2068310603|2101395606|2105766965|2106306378|2120964727|2132777427|2139352451|2139366636|2144195948|2166093893|2170904274|2171090088
+
+
+id:2149406753
+title:A routing protocol for socially selfish delay tolerant networks
+year:2012
+author information:[
+author name:Qinghua Li
+author organization:Pennsylvania State University
+author id:2599055213|
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Sencun Zhu
+author organization:Pennsylvania State University
+author id:2170715427|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:networks|select|modeling|maintain|packets|assignment|tracedriven|restrictions|algorithm|way|philosophy|propose|provide|algorithms|tolerant|cope|routing|capability|low|social|performance|socially|efficient|forward|following|willingness|routing|people|simulations|metric|machine|mathematical|others|strength|data|willing|achieves|good|delay|transmission|contact|nodes|cost|selfishness|tie|real|users|measure|techniques|ssar|varies|problem|assume|show|learning|forwarding|effective|ties|design|considers|allows|process|multiple|knapsack|social|satisfy|mobile|selfishness|derives|nodes|performance|aware|user|demands|existing|formulates
+venue name:Ad Hoc Networks
+venue id:1121344769
+venue type:C
+document type:Conference
+study fields:Computer science|Network packet|Computer network|Selfishness|Knapsack problem|Philosophy of design|Interpersonal ties|Routing algorithm|Distributed computing|Routing protocol
+references:1480006018|1571527322|1966518282|1973264045|1995341435|2010634640|2011107399|2024668293|2063742592|2079274032|2082674813|2083454089|2096509679|2099567938|2110950500|2112316694|2115022330|2122426592|2124142520|2126505669|2135712710|2136904248|2142522527|2143374307|2143554828|2159502757|2164988386|2171053358|2293146328
+
+
+id:2156719196
+title:Cooperative Caching for Efficient Data Access in Disruption Tolerant Networks
+year:2014
+author information:[
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+author name:Arun Iyengar
+author organization:IBM
+author id:1251078740|
+author name:Mudhakar Srivatsa
+author organization:IBM T.J. Watson research center
+author id:1449758934|
+]
+abstract:extensive|accessibility|improves|focus|accessed|users|approach|easily|based|cache|work|propose|cooperative|node|selection|among|ncl|appropriate|providing|access|scheme|overhead|global|networks|tradeoff|current|low|dtns|cached|reduces|enables|compared|characterized|set|efficient|probabilistic|coordinates|delay|simulations|metric|novel|tolerant|data|network|caching|research|coordination|optimize|tracedriven|unpredictable|sharing|done|lack|efforts|disruption|basic|support|idea|show|network|central|intentionally|ensures|limited|mobile|multiple|schemes|existing|nodes|performance|information|locations|significantly
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Mobile computing|Global network|Cache|Computer science|Computer network|Peer to peer computing|Probabilistic logic|Wireless ad hoc network|Data access|Distributed computing
+references:1918432491|1966518282|1995341435|1997405607|1998280181|2002641702|2039157284|2045295122|2063742592|2082674813|2083454089|2084182494|2096509679|2107203691|2112053513|2112316694|2113397920|2118518442|2120875707|2126540423|2129223406|2129849999|2135365254|2140581108|2142522527|2148899275|2149071511|2153297552|2161450107|2164237594|2165197855|2168463792|2170904274|2171053358|2172034104|2293146328
+
+
+id:2168260350
+title:Wakeup scheduling for energy-efficient communication in opportunistic mobile networks
+year:2013
+author information:[
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Qinghua Li
+author organization:Pennsylvania State University
+author id:2599055213|
+]
+abstract:extensive|improves|periodic|approach|required|consist|adaptively|communication|asleep|energy|happen|likely|efficiency|devices|propose|node|current|times|another|networks|battery|balances|periods|reduces|intercontact|compared|opportunistically|simulations|energyefficient|probabilistically|novel|contacts|communicate|research|opportunistic|optimize|contact|communication|tracedriven|wakeup|insufficient|seriously|predicts|stays|efforts|techniques|facilitate|show|life|analytically|times|opportunistic|probing|limited|mobile|consumption|schemes|devices|schedule|existing|nodes|performance|wakes|restricted|reducing|significantly
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Mobile radio|Efficient energy use|Scheduling (computing)|Computer science|Computer network|Mobile device|Battery (electricity)|Energy consumption|Distributed computing
+references:1966518282|1966924243|1995341435|1998280181|2000652320|2002169759|2039157284|2040459121|2083454089|2084182494|2084314197|2097625638|2118518442|2128928510|2129565328|2135365254|2137587950|2140581108|2143554828|2155962735|2168463792|2293146328|2293631622
+
+
+id:2171053358
+title:User-centric data dissemination in disruption tolerant networks
+year:2011
+author information:[
+author name:Wei Gao
+author organization:Pennsylvania State University
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:networks|data|theoretical|achieves|experimental|ignoring|approach|centrality|dissemination|contact|maximizes|evaluated|based|tracedriven|dissemination|thus|overhead|patterns|lower|perspectives|networkcentric|schemes|propose|maintaining|users|formal|selection|disruption|useful|current|show|investigate|tradeoff|tolerant|network|analytically|effective|considers|ensures|effectiveness|costeffectiveness|social|relay|bound|mobile|data|satisfying|schemes|many|generally|better|existing|performance|interests|selection|usercentric|information|interests|user|novel|applications
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Data modeling|Mobile radio|Computer science|Centrality|Computer network|Dissemination|Probabilistic logic|Relay|Maintenance engineering|Distributed computing|User-centered design
+references:1966518282|1995341435|1997405607|2002641702|2010634640|2035041033|2045295122|2063742592|2079274032|2082674813|2083454089|2084182494|2100902269|2112316694|2113027181|2118518442|2128466234|2130228020|2135712710|2136170414|2140581108|2142522527|2145517691|2164988386|2166093893|2170904274|2293146328
+
+
+id:2294954437
+title:Contact Duration Aware Data Replication in DTNs with Licensed and Unlicensed Spectrum
+year:2016
+author information:[
+author name:Jing Zhao
+author organization:Dept . of Computer Science and Engineering|Pennsylvania State University|University Park
+author id:2510571624|
+author name:Xuejun Zhuo
+author organization:Tsinghua University
+author id:2036663402|
+author name:Qinghua Li
+author organization:University of Arkansas
+author id:2599055213|
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Guohong Cao
+author organization:Dept . of Computer Science and Engineering|Pennsylvania State University|University Park
+author id:2167398159|
+]
+abstract:extensive|without|problem|terms|retrieval|popularization|recent|fully|algorithm|based|item|using|topology|probability|distributed|schemes|recognize|packet|propose|traditional|delay|spectrum|among|study|scheme|operates|formulate|two|coding|dtns|share|operating|enables|replication|replicate|licensed|one|simulations|complete|techniques|sharing|tolerant|treat|erasure|manner|data|integer|handheld|realistic|contact|directly|scenarios|programming|infrastructure|level|traces|difficult|users|unstable|synthetic|exploited|techniques|internet|support|unlicensed|show|mixed|network|duration|analytically|common|make|successful|move|interconnectivity|cases|spectrum|practical|limited|apply|mobile|data|schemes|outperforms|existing|form|deficiency|various|consists
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Mobile computing|Spectrum management|Replication (computing)|Data retrieval|Computer science|Data sharing|Network packet|Computer network|Network topology|Distributed database|Distributed computing
+references:1966518282|1966924243|1979745145|1981107414|1989289072|1998280181|2002169759|2005026120|2009620906|2026357470|2041738377|2082674813|2095922672|2097861666|2100834185|2105766965|2112316694|2116547166|2123446225|2127586140|2129223406|2130228020|2135712710|2140581108|2143374307|2143554828|2149721632|2156719196|2161450107|2164237594|2166093893|2171267091
+
+
+id:2307667287
+title:Energy-Efficient Computation Offloading in Cellular Networks
+year:2015
+author information:[
+author name:Yeli Geng
+author organization:Pennsylvania State University
+author id:2279210831|
+author name:Wenjie Hu
+author organization:Pennsylvania State University
+author id:2141145961|
+author name:Yi Yang
+author organization:Pennsylvania State University
+author id:2584844440|
+author name:Wei Gao
+author organization:University of Tennessee
+author id:2118807127|
+author name:Guohong Cao
+author organization:Pennsylvania State University
+author id:2167398159|
+]
+abstract:introduces|optimal|simulation|quickly|offloading|experimental|problem|batteries|energy|algorithm|knowledge|reduce|smartphones|impact|utilizes|propose|cellular|analyze|networks|device|consumption|algorithms|androidbased|aim|one|networks|drain|tradeoff|long|offloading|address|may|efficient|tail|computation|future|perfect|use|research|solution|find|implemented|results|intensive|decision|tracedriven|cost|failed|develop|effects|task|additional|show|relies|since|viable|characteristics|previous|implementation|mobile|computationally|special|formalize|corresponding|online|latter|significantly|account|applications
+venue name:International Conference on Network Protocols
+venue id:1156688768
+venue type:C
+document type:Conference
+study fields:Online algorithm|Android (operating system)|Optimal decision|Computer science|Computation offloading|Mobile device|Cellular network|Energy consumption|Dijkstras algorithm|Distributed computing
+references:1607437805|1987584196|1992706503|2012423440|2023380813|2049577911|2067071928|2069211379|2075410792|2088692353|2101788345|2104237724|2104587577|2111395469|2126462381|2129636357|2129861682|2140622625|2144190599|2155840492
+
+
+id:2547014793
+title:PrivacyCamera: Cooperative Privacy-Aware Photographing with Mobile Phones
+year:2016
+author information:[
+author name:Ang Li
+author organization:University of Arkansas
+author id:2502944587|
+author name:Qinghua Li
+author organization:University of Arkansas
+author id:2599055213|
+author name:Wei Gao
+author organization:University of Arkansas
+author id:2566234324|
+]
+abstract:convenience|experimental|building|evaluation|number|problem|cameras|usually|cooperation|thus|way|received|propose|cooperative|photo|system|taken|privacy|automatically|blur|experiments|protect|takes|embedded|efficient|anywhere|anytime|photo|people|prototype|describes|face|powerful|scenario|increasing|reveal|use|sometimes|upon|photos|system|take|carrying|little|request|privacycamera|unexpected|show|phones|privacy|paper|due|photographer|included|breach|literature|effectively|mobile|also|target|attention|stranger|user
+venue name:Sensor, Mesh and Ad Hoc Communications and Networks
+venue id:1134706482
+venue type:C
+document type:Conference
+study fields:Internet privacy|Computer security|Computer science
+references:1969431173|1974371521|1987372379|2011593588|2024988921|2044931626|2065322187|2066588645|2069721762|2082040534|2093316511|2103399383|2110132168|2123427850|2137100320|2148728861|2152612780|2156380793|2165120273|2296277157|2345856471|2554125638
+
+
+id:2884932875
+title:Reducing Event Latency and Power Consumption in Mobile Devices by Using a Kernel-Level Display Server
+year:2019
+author information:[
+author name:Stephen Marz
+author organization:University of Tennessee
+author id:2523877894|
+author name:Brad Vander Zanden
+author organization:University of Tennesse
+author id:2276732019|
+author name:Wei Gao
+author organization:University of Pittsburgh
+author id:2118807127|
+]
+abstract:handles|software|called|maintain|allowed|graphical|inception|server|required|without|tablet|meaning|graphics|drawing|gui|even|kds|moving|events|order|hardware|reduce|devices|layer|require|rendering|propose|saving|contains|system|phone|milliseconds|force|device|consumption|server|average|access|one|direct|ms|battery|two|facts|layer|increases|guioriented|systems|reduces|power|operating|event|computers|reaction|kernel|discussed|display|draw|many|mobile|applicationlevel|calls|series|efficiently|located|information|cpu|placing|screen|computer|drawback|interrupt|implement|consider|different|us|combination|area|streamline|package|coordinate|might|minutes|duplicate|less|improve|techniques|forces|cpu|adjustment|needed|scheduled|latency|interface|percent|life|duration|tend|desktop|event|spend|extra|make|middleware|scheduler|limited|implementation|mobile|also|consumption|approaches|conserve|increase|differ|schedule|existing|application|activities|queues|communicated|typical|handling|time|user|applications
+venue name:IEEE Transactions on Mobile Computing
+venue id:69141925
+venue type:J
+document type:Journal
+study fields:Interrupt|Application layer|CPU time|Latency (engineering)|Computer science|Server|Computer network|Mobile device|Graphical user interface|Mobile phone|Operating system
+references:1522823845|1577404640|1998042148|2038718634|2061031123|2062473359|2094035319|2136787497|2531288672|2554125638
+
+
+id:2916266369
+title:The Computing Landscape of the 21st Century
+year:2019
+author information:[
+author name:Mahadev Satyanarayanan
+author organization:Carnegie-Mellon University
+author id:416104820|
+author name:Wei Gao
+author organization:University of Pittsburgh
+author id:2118807127|
+author name:Brandon Lucia
+author organization:Carnegie-Mellon University
+author id:2158780061|
+]
+abstract:constraints|software|compact|subject|reasoning|simple|constraints|dominate|explanatory|shows|terms|complex|tier|hardware|typically|system|distinct|represents|computing|paper|tier|design|power|value|implementations|set|alternative|predictive|many|model|framework|stable|attention|understood|landscape|design|discuss
+venue name:International Workshop on Mobile Computing Systems and Applications
+venue id:2758613574
+venue type:C
+document type:Conference
+study fields:Edge computing|Mobile computing|Architecture|Industrial engineering|Computer science|Systems design|Implementation|Software|Explanatory power|Cloud computing
+references:1507214953|1966068407|1973371066|2001438822|2005373714|2007567551|2043120522|2047826381|2050127041|2074871523|2099461393|2101182400|2109595453|2111223826|2115721786|2135099885|2150125749|2151227991|2159694746|2284351912|2333320475|2403742959|2513383105|2518281301|2568772110|2620872300|2625576481|2766979722|2790352815|2869395566|2889774534|2899106940
+
+
+id:2920361340
+title:Enabling Cross-Technology Coexistence for Extremely Weak Wireless Devices
+year:2019
+author information:[
+author name:Ruirong Chen
+author organization:University of Pittsburgh
+author id:2942813977|
+author name:Wei Gao
+author organization:University of Pittsburgh
+author id:2118807127|
+]
+abstract:incur|play|channel|crosstechnology|without|adaptively|loss|extremely|evaluated|fully|hardware|efficiency|devices|utilization|schemes|resulting|fail|delay|spectrum|processing|rfids|strong|unaffordable|coexistence|concurrent|loss|smart|weak|healthcare|diversity|embedded|emerging|enables|phy|collisions|embee|connected|transmissions|exploit|wifi|data|transmissions|zero|transmission|things|implemented|implement|throughput|different|signal|scenarios|results|computational|new|cities|experiment|important|especially|crosstechnology|improve|internet|largescale|basic|support|applied|roles|idea|crucial|additional|show|technique|network|causing|design|extra|reserve|hence|occupied|zigbee|cost|effectively|custom|approaches|devices|existing|sensors|performance|application|wireless|avoid
+venue name:International Conference on Computer Communications
+venue id:1143723981
+venue type:C
+document type:Conference
+study fields:Wireless network|Wireless|Computer science|Transmission delay|Computer network|Communication channel|Bandwidth (signal processing)|Throughput|Wireless sensor network|Orthogonal frequency-division multiplexing|Distributed computing
+references:2001471234|2010457225|2037869946|2057768919|2076728480|2085093677|2095937454|2109927551|2111025245|2120145688|2135560014|2155753432|2161310102|2466695848|2546526263|2761022049|2763753824|2798580458|2821242355|2905243000
+
+
+id:2993337477
+title:EasyPass: combating IoT delay with multiple access wireless side channels
+year:2019
+author information:[
+author name:Haoyang Lu
+author organization:university of pittsburgh
+author id:2923779026|
+author name:Ruirong Chen
+author organization:University of Pittsburgh
+author id:2942813977|
+author name:Wei Gao
+author organization:University of Pittsburgh
+author id:2118807127|
+]
+abstract:channel|air|accessed|without|enable|margin|devices|congested|traffic|delay|simultaneously|excessive|access|networks|snr|yield|reduces|many|mbps|key|phy|side|severe|traditional|exploit|narrowband|compete|data|stringent|radio|transmission|implemented|throughput|different|results|dedicated|transmitters|experiment|delayed|easypass|signals|techniques|demonstrate|present|allow|idea|link|technique|platforms|iot|congested|provides|allows|softwaredefined|requirements|multiple|transmit|devices|separating|wireless|applications
+venue name:Conference on Emerging Network Experiment and Technology
+venue id:1126937784
+venue type:C
+document type:Conference
+study fields:Narrowband|Wireless|Data transmission|Computer science|Computer network|Communication channel|Exploit|Side channel attack|Throughput|PHY
+references:1584950990|1947927401|1967754176|1979569707|1980045853|1995612435|1995683830|1999657246|2009951705|2011582944|2014060493|2026440125|2037869946|2038187727|2057768919|2058401212|2065120532|2076728480|2091729149|2103331800|2104933959|2106749358|2108359457|2115147171|2122125652|2122361019|2125161536|2126477936|2128805726|2128938148|2134960780|2140669960|2158715121|2161822490|2170354096|2469129173|2546526263|2546932245|2564924736|2566392544|2761022049|2763753824|2794022528|2798580458|2920361340
+
+
+id:807476078
+title:A brief survey on secure multi-party computing in the presence of rational parties
+year:2015
+author information:[
+author name:Yilei Wang
+author organization:ludong university
+author id:2790511158|
+author name:Tao Li
+author organization:LUDONG University
+author id:2601445346|
+author name:Hairong Qin
+author organization:LUDONG University
+author id:2525263198|
+author name:Jin Li
+author organization:Guangzhou University
+author id:2917358720|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2799237809|
+author name:Zhe Liu
+author organization:University of Luxembourg
+author id:2133103894|
+author name:Qiuliang Xu
+author organization:ShanDong University
+author id:2922936564|
+]
+abstract:architectures|rational|executing|maximize|protocols|actuators|disadvantages|presence|definitions|goals|using|agents|still|expected|cooperating|traditional|etc|multiparty|actions|status|utility|intelligent|notions|rational|emerging|utilitybased|means|goals|discussed|agents|call|lots|framework|advantages|entities|parties|removes|certain|open|twoparty|others|autonomous|upon|secure|observe|research|assumptions|act|protocols|communication|maximizing|towards|enormous|real|achieving|utilities|rsmpc|adjust|parties|demonstrate|problems|impossibility|critical|applied|choose|represents|computing|incentives|security|paper|working|fairness|introduction|considers|potentials|previous|smpc|better|environment|sensors|activities|typical|equilibrium
+venue name:Ambient Intelligence
+venue id:1197908299
+venue type:C
+document type:Conference
+study fields:Intelligent agent|Incentive|Simulation|Computer security|Computer science|Communication channel|Impossibility|Game theory|Nash equilibrium
+references:44936433|152464401|165274269|177552246|1490410513|1496938880|1507248442|1509305322|1515945955|1517142201|1533330079|1541247584|1602159460|1639501231|1777311972|1845169462|1875574498|1895254779|1907580662|1922720366|1963958140|1964545136|1965916170|1967004519|1969882998|1970290087|1973992946|1979621498|1982450663|1983947776|1985322847|1990577018|1996724548|1997859100|2001469271|2001486211|2004271588|2016152136|2018568088|2033640190|2044772384|2048071985|2050209678|2053163860|2062468501|2070974172|2075770085|2077734015|2078907844|2085349316|2090677129|2092990377|2095077828|2099323800|2107510526|2108854854|2111556950|2113585721|2114246582|2114486350|2120391870|2120510885|2143929067|2153090491|2158546392|2168325212|2232834728|2254427680|2256584712|2259141738|2293878697|2294423262|2326627146
+
+
+id:1481764664
+title:One-Round ID-Based Threshold Signature Scheme from Bilinear Pairings
+year:2009
+author information:[
+author name:Wei Gao
+author organization:LUDONG University
+author id:2762878473|
+author name:Guilin Wang
+author organization:University of Birmingham
+author id:2951582031|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2113196468|
+author name:Zhenguang Yang
+author organization:Ludong University
+author id:2226190992|
+]
+abstract:called|channel|avoided|approach|number|shared|easily|model|needed|advantages|element|generation|based|using|work
+venue name:Informatica (lithuanian Academy of Sciences)
+venue id:57195646
+venue type:J
+document type:Journal
+study fields:Bilinear map|Mathematical optimization|Computer science|Random oracle|Communication channel|Theoretical computer science|Public-key cryptography|Broadcast channels|Distributed key generation|Bilinear interpolation|Distributed computing|Computation
+references:40231453|1521274767|1569083856|1600495091|1643928249|1838876034|1910870380|2019616576|2052267638|2086042811|2096024255|2099259414|2112914778|2167882086|2168970529
+
+
+id:1525794108
+title:One-Round ID-Based Blind Signature Scheme without ROS Assumption
+year:2008
+author information:[
+author name:Wei Gao
+author organization:LUDONG University
+author id:2798743713|
+author name:Guilin Wang
+author organization:University of Birmingham
+author id:2780829145|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2113196468|
+author name:Fei Li
+author organization:Ludong University
+author id:2627696171|
+]
+abstract:smaller|optimal|called|infeasible|without|equations|formalized|signer|based|using|exchanges|scratch|schemes|propose|deduced|system|following|contrast|schnorr|modulo|complexity|scheme|signature|assumption|guarantee|two|attack|means|linear|user|one|r|provably|first|features|andom|achieves|secure|idbs|diffiehellman|generated|find|computational|inhomogenities|new|level|supposes|proposed|ros|blind|signature|bilinear|requesting|qwith|onemore|pairings|security|inversion|parallel|olvable|construction|oneround|bound|relying|message|generic|existing|round|identitybased
+venue name:International Conference on Pairing-based Cryptography
+venue id:2756132311
+venue type:C
+document type:Conference
+study fields:Security level|System of linear equations|Modulo|Algorithm|Random oracle|Theoretical computer science|Security parameter|Blind signature|Mathematics|Bilinear interpolation|Schnorr signature
+references:70239856|1497727788|1515472247|1521274767|1523567567|1526037005|1536662568|1545286522|1548701190|1569083856|1569125871|1579903585|1600495091|1601001795|1603546715|1608511627|1610688607|1838876034|1839386101|2052267638|2086042811|2088412955|2112914778|2143899187|2148865534|2167496998|2167882086|2169194339|2408152474|2951337103
+
+
+id:1999864473
+title:On Generic Construction for Private Designated Verifier Signatures
+year:2012
+author information:[
+author name:Wei Gao
+author organization:Shanghai Jiaotong University
+author id:2663954431|
+author name:Zhenyou Wang
+author organization:Guangdong University of Technol
+author id:2096306584|
+author name:Fei Li
+author organization:Ludong University
+author id:2142530175|
+]
+abstract:construct|diffiehellman|finds|designated|generated|agreement|underlying|schemes|constructed|private|code|scheme|signature|seen|protocol|paper|utilizing|key|authentication|could|message|modularly|better|efficiency|framework|verifier|simply
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Hash-based message authentication code|Message authentication code|Cryptographic protocol|Computer science|Computer security|Computer network|Digital signature|Key-agreement protocol|Designated verifier signature|Blind signature|Public-key cryptography
+references:1500682127|1542255234|1546600652|1568745847|1569033204|2052267638|2107561818|2126609334|2129483619|2911473785
+
+
+id:2010110700
+title:An Efficient Generic Framework for Three-Factor Authentication With Provably Secure Instantiation
+year:2014
+author information:[
+author name:Jiangshan Yu
+author organization:University of Birmingham
+author id:2461895243|
+author name:Guilin Wang
+author organization:Huawei International Pte Ltd., Singapore
+author id:2780829145|
+author name:Yi Mu
+author organization:Wollongong University
+author id:2050318273|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2710327134|
+]
+abstract:mostly|introduces|discussion|remote|secure|three|characteristics|without|mechanisms|case|combination|threefactor|upgrading|widely|distributed|schemes|adapted|something|users|formal|exposing|preserving|proposed|twofactor|present|systems|study|enhances|scheme|privacy|provided|show|remote|privacy|security|relies|paper|derived|authentication|authentication|efficient|studied|one|implementation|scheme|generic|existing|framework|user
+venue name:IEEE Transactions on Information Forensics and Security
+venue id:61310614
+venue type:J
+document type:Journal
+study fields:Lightweight Extensible Authentication Protocol|Chip Authentication Program|Generic Bootstrapping Architecture|Computer science|Challenge–response authentication|Computer security|SSLIOP|Data Authentication Algorithm|Authentication protocol|Multi-factor authentication
+references:1535290512|1542059364|1885156594|1966841760|1981342917|1983831676|1997330811|1999788626|2016120028|2017815160|2021923324|2026772001|2029874224|2032551902|2049355773|2055507113|2067438990|2070188354|2076392080|2082874810|2106137793|2109554690|2113446256|2114024372|2116380612|2124926080|2127451689|2127593133|2135543188|2138121290|2144342348|2147764505|2151413173|2151915275|2152882618|2153281696|2157298821|2161239015|2168397026|2169556652
+
+
+id:2074225420
+title:Improvement and applications of secure outsourcing of scientific computations
+year:2015
+author information:[
+author name:Jianhua Yu
+author organization:South China Normal University
+author id:2670443309|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2636999662|
+author name:Wei Gao
+author organization:Lu Dong University
+author id:2647066314|
+]
+abstract:play|emerge|nonlinear|equations|obtained|based|equations|reduced|methods|resource|computation|terms|slow|deals|following|much|systems|strong|deal|role|methods|secret|tools|computer|ways|integral|power|protect|cryptographic|linear|abstract|many|computation|help|grid|conditional|secure|cloud|outsource|find|function|cryptography|protocols|different|results|us|needs|new|need|difficult|users|chosen|important|outsourcing|improve|helps|parameters|methods|problems|algebraic|solving|studied|verifiably|scientific|privacy|differential|numerical|random|security|paper|hence|mentioned|practical|previous|equation|technology|super|special|better|cloud|designed|applications
+venue name:Ambient Intelligence
+venue id:1197908299
+venue type:C
+document type:Conference
+study fields:Symbolic-numeric computation|Equation solving|Nonlinear system|Cryptographic protocol|Computer science|Symbolic computation|Theoretical computer science|Secure two-party computation|Computer technology|Computation
+references:1557386445|1564189060|1571821840|1899316545|1971286892|1975199330|1995551841|2005991258|2108590723|2145166073|2151167752|2170444562|2172786069|2493140356
+
+
+id:2077608959
+title:Chameleon hash without key exposure based on Schnorr signature
+year:2009
+author information:[
+author name:Wei Gao
+author organization:LUDONG University
+author id:2429154120|
+author name:Fei Li
+author organization:Ludong University
+author id:2657410019|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2113196468|
+]
+abstract:semantic|scheme|signature|enjoys|based|new|famous|chameleon|previous|propose|advantages|keyexposurefreeness|schnorr|hash
+venue name:Computer Standards  Interfaces
+venue id:119630662
+venue type:J
+document type:Journal
+study fields:Semantic security|ElGamal signature scheme|Merkle signature scheme|Computer security|Computer science|Digital Signature Algorithm|Hash function|Hash chain|Schnorr signature
+references:1520478394|1599846125|1646354800|2117797270|2132172731|2162593813
+
+
+id:2104705304
+title:Efficient identity-based threshold signature scheme from bilinear pairings in standard model
+year:2014
+author information:[
+author name:Fei Li
+author organization:Guangzhou University
+author id:2687677108|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2429154120|
+author name:Guilin Wang
+author organization:Huawei Technologies Co. Ltd., Singapore
+author id:2780829145|
+author name:Kefei Chen
+author organization:Hangzhou Normal University
+author id:2988085100|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2113196468|
+]
+abstract:standard|roundcomplexity|optimal|channel|threshold|secure|enjoying|protocol|communication|computational|generation|new|verifying|propose|lowest|servers|broadcasting|among|following|except|party|since|broadcast|complexity|shared|private|scheme|bilinear|signature|rather|generator|appears|shares|two|pairings|security|timeconsuming|low|identity|functionality|resilience|key|cost|enough|one|considerably|procedure|requirement|model|single|signers|message|advantages|identitybased|pairing|provably|associated|signing|pays
+venue name:International Journal of Internet Protocol Technology
+venue id:97755082
+venue type:J
+document type:Journal
+study fields:Broadcasting|Computer science|Server|Computer network|Communication channel|Pairing|Public-key cryptography|Provable security|Bilinear interpolation|Computational complexity theory
+references:40231453|98696450|1481764664|1521274767|1569083856|1600495091|1730634423|1925483862|2002930326|2019616576|2028372707|2086042811|2089972318|2093921460|2105807578|2112138431|2152688060|2167882086
+
+
+id:2141690499
+title:Perfect Subliminal Channel in a Paring-Based Digital Signature
+year:2009
+author information:[
+author name:Zhenyou Wang
+author organization:Guangdong University of Technol
+author id:2096306584|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2629823015|
+author name:Lie Chen
+author organization:South China University of Technol
+author id:2506808876|
+author name:Fei Li
+author organization:Ludong University
+author id:2142530175|
+]
+abstract:signature|signature|channel|existence|paring|shows|paper|subliminal|easily|digital|based|broadband|constructed|bandwidth|recently|scheme|proposed|conjectures|disproves
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Digital signatures cryptography|Cryptography|Broadband communication|Computer science|Digital signature|Theoretical computer science|Bandwidth (signal processing)|Artificial intelligence|Computer engineering|Subliminal channel|Machine learning
+references:68013446|1643928249|1824839086|1878907771|1981386223|2015453719|2055993618|2112914778|2117797270|2151888728|2162764126|2404879667
+
+
+id:2149304636
+title:An Efficient Threshold Signature Scheme Without Random Oracles
+year:2009
+author information:[
+author name:Wei Gao
+author organization:LUDONG University
+author id:2629823015|
+author name:Zhenyou Wang
+author organization:Guangdong University of Technol
+author id:2096306584|
+author name:Fei Li
+author organization:Ludong University
+author id:2142530175|
+author name:Lie Chen
+author organization:South China University of Technol
+author id:2506808876|
+]
+abstract:waters|threshold|wang|secure|without|diffiehellman|terms|communication|recent|computational|efficiency|oracle|compared|et|computation|present|much|scheme|signature|assumption|random|oracles|construction|robust|efficient|procedure|derives|application|due|provably|signing|comparable|novel
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:ElGamal signature scheme|Merkle signature scheme|Computer science|Cryptography|Computational Diffie–Hellman assumption|Random oracle|Digital signature|Theoretical computer science|Provable security|Schnorr signature
+references:1505884345|1541239915|1885156594|2019616576|2096024255|2113929724|2117797270|2152688060|2167882086|2610525718
+
+
+id:2156415293
+title:Round-Optimal ID-Based Blind Signature Schemes without ROS Assumption
+year:2012
+author information:[
+author name:Wei Gao
+author organization:University of Wollongong
+author id:2798665529|
+author name:Guilin Wang
+author organization:
+author id:2951074224|
+author name:Xueli Wang
+author organization:
+author id:2113196468|
+author name:Fei Li
+author organization:
+author id:2680819755|
+]
+abstract:optimal|infeasible|ibbs|without|different|equations|advantages|order|algorithm|based|large|exchanges|scratch|sense|schemes|underlying|extraction|system|versions|following|constructions|idbased|signer|modulo|complexity|assumes|customized|signature|achieve|enjoy|two|proved|popular|key|compared|linear|may|one|diffie|identitybased|q|features|first|used|enjoying|assumptions|generated|find|cryptography|formalizedwe|group|new|need|solvable|proposed|inhomogenities|ros|blind|bilinear|requesting|show|onemore|blindly|random|security|paper|inversion|due|pairings|applications|blind|hellman|previous|constructed|bound|interesting|also|message|round|signature|work|user|presents
+venue name:Journal of Communications
+venue id:184821498
+venue type:J
+document type:Journal
+study fields:Overdetermined system|System of linear equations|Cryptography|Computer science|Modulo|Ring signature|Algorithm|Theoretical computer science|Blind signature|Bilinear interpolation|Provable security
+references:70239856|1489496897|1497727788|1515472247|1521274767|1523567567|1525794108|1526037005|1536662568|1545286522|1548701190|1569083856|1569125871|1579903585|1589399207|1599334842|1600495091|1601001795|1603546715|1608511627|1610688607|1838876034|1839386101|1979819800|1998368731|2008549741|2013474422|2029076343|2052267638|2054482077|2086042811|2088412955|2112914778|2167496998|2167882086|2169194339|2913105718
+
+
+id:2158986808
+title:An Abuse-Free Optimistic Fair Exchange Protocol Based on BLS Signature
+year:2008
+author information:[
+author name:Wei Gao
+author organization:LUDONG University
+author id:2629823015|
+author name:F. Li
+author organization:Ludong University
+author id:2142530175|
+author name:B. Xu
+author organization:LuDong University
+author id:2643828523|
+]
+abstract:fair|used|secure|protocol|email|cryptography|pairingbased|new|based|contract|signatures|propose|tool|epayment|among|exchange|signature|signature|bls|show|fundamental|best|optimistic|security|primitives|certified|cryptographic|popular|efficient|one|schemes|many|abusefree|short|signing|first|applications
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Bilinear map|Cryptographic protocol|Computer security|Computer science|Cryptography|Cryptographic primitive|Digital signature|Optimistic fair exchange|Public-key cryptography|Short signature
+references:1500682127|1567793234|1601892586|1788452017|1915871378|2014239329|2032218333|2035406799|2068804521|2086042811|2104326461|2112240651|2123602747|2167882086|2170778527
+
+
+id:2555862382
+title:Round-optimal ID-based dynamic authenticated group key agreement
+year:2016
+author information:[
+author name:Fei Li
+author organization:Guangzhou University
+author id:2692937298|
+author name:Dongqing Xie
+author organization:Guangzhou University
+author id:2714933722|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2644732221|
+author name:Jianhua Yan
+author organization:Ludong University
+author id:2558950867|
+author name:Xu An Wang
+author organization:Engineering University of PAP
+author id:2640408751|
+]
+abstract:authenticated|join|agreement|among|shared|assumption|achieve|least|secret|two|proved|security|attack|subsequent|cryptographic|identitybased|key|preferred|set|forward|one|refresh|decisional|provably|efficiently|cannot|rounds|members|achieves|compute|diffiehellman|protocol|leave|members|dynamic|protocols|dagka|communication|dbdh|group|goal|need|presented|certificatebased|keys|joining|resists|users|establish|exchange|leaving|updated|since|bilinear|session|keys|membership|securely|public|provides|practical|previous|secure|control|procedure|message|akesecurity|round|identitybased|management|significance|ones|setup|simplify
+venue name:International Journal of High Performance Systems Architecture
+venue id:174117138
+venue type:J
+document type:Journal
+study fields:Key management|Key distribution|Group key|Key generation|Key exchange|Computer science|Computer security|Key-agreement protocol|Key authentication|Session key
+references:821314984|1482965486|1484417539|1493437388|1504634919|1518270133|1545843592|1583594557|1858700764|1977251372|1997068411|2007909731|2012168171|2036126441|2038683747|2044136803|2046046930|2054251041|2058093319|2073849766|2085491607|2086042811|2086415583|2090548846|2112739182|2134105200|2135042651|2138463237|2140626418|2149345136|2154671641|2156186849|2156554043|2259934781|2395086025|2397053612|2406713471
+
+
+id:2736430934
+title:Authentication of outsourced linear function query with efficient updates
+year:2017
+author information:[
+author name:Gang Sheng
+author organization:Guangzhou University
+author id:2560234196|
+author name:Chunming Tang
+author organization:Guangzhou University
+author id:2303184943|
+author name:Hongyan Han
+author organization:Liaocheng University
+author id:2685913741|
+author name:Wei Gao
+author organization:LUDONG University
+author id:2680769621|
+author name:Xing Hu
+author organization:Hunan University
+author id:2476063863|
+]
+abstract:merkle|results|nowadays|issues|query|algorithm|respectively|maturity|index|theoretic|analysis|execute|two|univariate|input|side|outsourced|level|completely|server|b|authenticate|works|scheme|achieve|seek|two|result|top|popularity|intersections|enables|side|linear|necessary|efficient|possible|store|performed|stored|returned|novel|first|data|almost|used|second|cloud|outsource|shows|whether|function|tree|implement|results|verification|level|bottom|query|check|less|becomes|condition|proposed|largescale|present|higher|request|line|divided|part|update|investigate|computing|security|paper|storing|authentication|owner|correct|computations|limited|parts|alternative|perform|instead|structure|manage|efficiency|owner|user
+venue name:Cluster Computing
+venue id:106148199
+venue type:J
+document type:Journal
+study fields:Query optimization|Server-side|Data structure|Authentication|Computer science|Outsourcing|B-tree|Univariate|Database|Cloud computing
+references:1484276943|1488126327|1566345534|1582090474|1980516015|2010010507|2035426245|2043414352|2052388228|2084945437|2106011067|2114486350|2121246530|2145166073|2153486647|2289626168|2329726227|2404094717|2439128763|2520288416
+
+
+id:2765662175
+title:Certificateless Cryptography with KGC Trust Level 3 Revisited
+year:2017
+author information:[
+author name:Fei Li
+author organization:Nanjing University of Information Science  Technology
+author id:2692937298|
+author name:Wei Gao
+author organization:Nanjing University
+author id:2922791231|
+author name:Dongqing Xie
+author organization:Guangzhou University
+author id:2714933722|
+author name:Chunming Tang
+author organization:Guangzhou University
+author id:2688629521|
+]
+abstract:tan|standard|functions|binding|construct|secure|revisits|improved|adding|cryptography|model|proof|dependent|oracle|issue|level|depends|obtaining|ap|achieving|trapdoor|authority|basic|hash|generator|trust|prove|scheme|yang|technique|technique|random|security|paper|oracles|encryption|extra|cryptographic|key|applying|aims|original|provable|problem|constructed|kgc|one|certificateless|schemes|modularly|scheme|model|framework|application|conventional|open
+venue name:International Conference on Cloud Computing
+venue id:1137657189
+venue type:C
+document type:Conference
+study fields:Computer security|Computer science|Cryptography|Random oracle|Encryption|Hash function|Certificateless cryptography|Key generator|Computer security model|Provable security
+references:1554085335|1586910863|1591524234|1974113789|2005176264|2040987689|2052667569|2054938238|2056442302|2086042811|2089437326|2092125514|2123952952|2137807850|2283945092
+
+
+id:2767823984
+title:Efficient identity-based threshold decryption scheme from bilinear pairings
+year:2018
+author information:[
+author name:Wei Gao
+author organization:Nanjing University
+author id:2772407253|
+author name:Guilin Wang
+author organization:Singapore Research Center of Huawei
+author id:2780829145|
+author name:Kefei Chen
+author organization:Hangzhou Normal University
+author id:2988085100|
+author name:Xueli Wang
+author organization:South China Normal University
+author id:2113196468|
+]
+abstract:slightly|tries|without|number|depending|based|schemes|propose|idbased|prove|access|increased|scheme|secret|two|tools|share|baek|ability|key|gives|compared|paringbased|efficient|indirectly|ibtd|noticeable|model|suite|requiring|drastically|decryption|first|improvements|generator|use|using|threshold|developed|second|features|group|new|oracle|sharing|expense|length|especially|private|bilinear|pairings|random|security|pairings|ciphertext|literature|form|identitybased|pairing|reducing|user|significantly
+venue name:Frontiers of Computer Science in China
+venue id:134228058
+venue type:J
+document type:Journal
+study fields:Secret sharing|Computer science|Random oracle|Pairing|Theoretical computer science|Ciphertext|Public-key cryptography|Computation|Provable security|Bilinear interpolation
+references:168367987|174706587|179888710|1441821354|1569083856|1585096027|1586513730|1995875503|2009432965|2017304617|2068136832|2086042811|2088749147|2091331878|2109675772|2116881075|2117685508|2126378506|2130708931|2138018104|2146149890|2153193245|2344811709|2490265015|2610525718|2912577494
+
+
+id:786434639
+title:Fusion of Auxiliary Imaging Information for Robus
+year:2014
+author information:[
+author name:Hainan Cui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2539067361|
+author name:Shuhan Shen
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2139815839|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:extensive|called|accuracy|experimental|scene|optimization|cameras|terms|centers|usually|evaluated|fully|algorithm|images|method|efficiently|focusing|exif|converge|etc|exclusively|contaminated|sfm|algorithms|deal|one|global|two|current|found|initialized|camera|means|robust|though|efficient|could|noisy|many|exploiting|information|scalable|performs|inliers|solving|data|available|gps|aerial|stateofart|directly|potential|results|image|reconstruct|however|iterative|informative|real|imaging|estimation|focal|proposed|improve|streetview|initialization|present|largescale|potentially|initiated|rather|show|usable|effective|auxiliary|car|similarly|captured|digital|orientation|process|advantage|introduce|rotation|length|estimated|better|conventional|reconstruction|well|datasets|location|information|taking
+venue name:Asian Conference on Computer Vision
+venue id:1174644639
+venue type:C
+document type:Conference
+study fields:Reprojection error|Computer vision|Epipolar geometry|Pattern recognition|Bundle adjustment|Computer science|Reconstruction algorithm|Artificial intelligence|Inertial measurement unit|Real image|Initialization|3D reconstruction
+references:29546508|109304646|117099968|1820096659|1993336109|2010429811|2010642153|2023991840|2059496137|2084613528|2102000110|2105303354|2107181183|2109635530|2109757902|2121493770|2128017662|2129201358|2129404737|2163446794|2164029916|2171244244|2539923485
+
+
+id:1499715726
+title:Efficient Large-Scale Structure From Motion by Fusing Auxiliary Imaging Information
+year:2015
+author information:[
+author name:Hainan Cui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2539067361|
+author name:Shuhan Shen
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2139815839|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:extensive|averaging|accuracy|experimental|approach|scene|optimization|cameras|terms|centers|usually|evaluated|fully|algorithm|images|method|efficiently|focusing|converge|exclusively|contaminated|algorithms|deal|one|global|two|measurement|current|found|initialized|camera|means|robust|though|efficient|could|noisy|many|exploiting|sets|information|scalable|performs|inliers|solving|data|available|gps|aerial|global|stateofart|directly|results|image|reconstruct|iterative|informative|real|imaging|unmanned|unit|focal|proposed|improve|streetview|initialization|largescale|present|potentially|positioning|initiated|rather|show|usable|system|effective|auxiliary|similarly|captured|digital|orientation|process|motion|advantage|introduce|rotation|length|estimated|inertial|structure|better|conventional|reconstruction|well|location|information|epipolar|taking
+venue name:IEEE Transactions on Image Processing
+venue id:115304631
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Structure from motion|Computer vision|Epipolar geometry|Pattern recognition|Reconstruction algorithm|Inertial measurement unit|Artificial intelligence|Initialization|Real image|Mathematics|3D reconstruction
+references:29546508|109304646|117099968|148241443|153821953|786434639|1486125899|1565312575|1796703886|1820096659|1993336109|2001790138|2007806707|2010429811|2010642153|2013267678|2023991840|2043995994|2058017216|2059496137|2071616405|2084613528|2089087992|2102000110|2105303354|2105413810|2107181183|2109757902|2112634643|2119088708|2121493770|2128017662|2129201358|2129404737|2133660362|2161220183|2163446794|2164029916|2171244244
+
+
+id:2026590782
+title:Hybrid Parallel Bundle Adjustment for 3D Scene Reconstruction with Massive Points
+year:2012
+author information:[
+author name:Xin Liu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2679494932|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhan-Yi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:multicore|massivepoints|called|reconstruction|numerous|mpba|experimental|preconditioned|conjugate|alleviated|case|algorithm|hardware|images|using|compared|mixedprecision|explored|much|ba|algorithms|classical|consuming|modern|variety|camera|bundle|embedded|precision|reconstructed|highresolution|strategies|several|efficiently|comparable|memoryusage|use|several|evaluated|points|acceleration|faster|problems|generate|five|results|new|image|often|maintaining|graphicmemory|used|tackle|adjustment|sparse|present|problems|limitation|solving|crucial|careful|show|point|times|design|class|bundle|effectively|implementation|special|performance|cpus|well|step|time|intend|explored
+venue name:Journal of Computer Science and Technology
+venue id:161516442
+venue type:J
+document type:Journal
+study fields:Structure from motion|Bundle adjustment|Computer science|Algorithm|Acceleration|3D reconstruction
+references:1484371059|1796703886|1874298837|1964826176|1969827732|2001790138|2024794876|2099443716|2124313187|2133192850|2133803493|2156539155|2156598602|2160972224|2163446794
+
+
+id:2053444796
+title:Stereo matching with adaptive support-weight correlation and Graph Cuts
+year:2010
+author information:[
+author name:Limin Shi
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2663315027|
+author name:Fusheng Guo
+author organization:Institute of Automation, Chinese Academy of Sciences, Beijing, China
+author id:2167753586|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:data|use|issues|approach|three|good|reliable|constructing|method|obtained|middlebury|rank|model|classifies|results|energy|based|new|similar|using|method|experimental|homepage|weight|classification|assigned|important|unstable|stable|volume|cuts|pixels|graph|correlation|proposed|occlusion|stereo|algorithms|integrating|according|show|two|adaptive|top|disparity|get|term|supportweight|minimizing|pixel|map|weight|set|constructed|volume|confidence|better|performance|listed|handling|first
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Cut|Stereo matching|Graph theory|Pattern recognition|Computer science|Correlation|Minification|Artificial intelligence|Pixel|Contextual image classification|Computer graphics|Machine learning
+references:1604112931|2054536235|2093117706|2101309634|2104974755|2106813532|2107884096|2116397829|2117227997|2123782500|2127441588|2137017911|2140200866|2143516773|2148648767|2151646056|2154234100|2156226240|2169363967
+
+
+id:2776055234
+title:Robust 3D Indoor Map Building via RGB-D SLAM with Adaptive IMU Fusion on Robot
+year:2017
+author information:[
+author name:Xinrui Meng
+author organization:University of Chinese Academy of Sciences
+author id:2779125356|
+author name:Wei Gao
+author organization:University of Chinese Academy of Sciences
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:University of Chinese Academy of Sciences
+author id:2160150884|
+]
+abstract:robustly|reliably|pedestrians|issues|tracking|building|via|adaptively|robot|estimate|visual|preliminary|presence|moving|algorithm|reduce|models|large|propose|system|even|following|indoor|must|partial|building|works|experiments|technique|two|fuse|map|key|situations|slam|address|mounted|efficiently|information|movement|first|rgbd|used|align|second|commonly|pose|accumulation|patterns|prerequisite|difficult|imu|sensor|issue|weaktextured|show|augmented|error|platform|design|effectively|increase|ranging|efficiency|environment|build|various|service|well
+venue name:International Conference on Image and Graphics
+venue id:1166922208
+venue type:C
+document type:Conference
+study fields:Computer vision|Computer science|Augmented reality|Eye tracking|Ranging|Inertial measurement unit|RGB color model|Artificial intelligence|Fuse (electrical)|Robot|Service robot
+references:826954055|1612997784|1983516323|1987648924|2025572378|2069479606|2091226544|2098860918|2113243634|2143769815|2151290401|2160547335|2233828343|2250172176
+
+
+id:2792936462
+title:Efficient multi-plane extraction from massive 3D points for modeling large-scale urban scenes
+year:2019
+author information:[
+author name:Wei Wang
+author organization:Zhoukou Normal University
+author id:2632626359|
+author name:Wei Gao
+author organization:University of Chinese Academy of Sciences
+author id:2681557167|
+]
+abstract:plane|modeling|extracting|scene|reliable|number|model|inferring|generation|based|method|extraction|resulting|traditional|present|role|regions|methods|frequently|explores|global|local|segments|timeconsuming|priors|map|detection|dominant|initial|efficient|markov|many|noisy|produce|confirm|appear|massive|framework|powerless|efficiently|prone|vast|complete|relations|first|rapid|points|random|sufficient|potential|results|multiplane|experimental|planes|real|produced|important|proposed|points|solve|detecting|scenes|largescale|multiline|applied|line|according|structures|field|paper|missing|projection|incorporating|carried|plays|also|instead|structure|urban|guidance|simplify|fitting|presents
+venue name:The Visual Computer
+venue id:73060445
+venue type:J
+document type:Journal
+study fields:Computer vision|Line segment|Map projection|Computer science|Markov random field|Plane fitting|Artificial intelligence|Prior probability|3D reconstruction
+references:19395395|1519594923|1971410590|2007139619|2022775854|2024276620|2028541416|2053627315|2054571258|2085261163|2091297047|2108836590|2119185245|2129404737|2132710519|2135887870|2148953571|2150722677|2152327564|2343617489|2462648945|2511444570|2605275482
+
+
+id:2902289818
+title:Voting-based Incremental Structure-from-Motion
+year:2018
+author information:[
+author name:Hainan Cui
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2539067361|
+author name:Shuhan Shen
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2139815839|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+]
+abstract:kept|closeness|considered|imagebased|stateoftheart|ambiguous|approach|number|national|terms|structurefrommotion|estimate|foundation|fail|going|compared|double|work|robustness|propose|system|registered|following|registration|simultaneously|sfm|prioritized|rotations|key|register|methods|experiments|priori|global|natural|two|cameras|preferentially|camera|everything|poses|calibration|estimating|could|consistent|incremental|extensive|accuracy|votes|prevalent|supported|performs|inliers|achieves|process|used|upon|accurate|potential|incremental|program|pose|especially|degree|votingbased|reconstruct|improve|demonstrate|part|science|technique|getting|incrementally|similarly|china|make|vote|highly|determine|relying|false|way|better|reconstruction
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Structure from motion|Iterative reconstruction|Computer vision|Voting|Pattern recognition|Bundle adjustment|Computer science|Closeness|Robustness (computer science)|Artificial intelligence|Calibration
+references:109304646|1499715726|1820096659|1958116060|1991544872|2007806707|2028015000|2084613528|2087867746|2097649661|2105303354|2109635530|2112634643|2115362620|2117443688|2129201358|2135973942|2155056756|2163446794|2199898507|2211196523|2217143704|2471962767|2519570530|2552011333|2584979312|2605778869|2611881041|2743497034
+
+
+id:2902798221
+title:High-Quality and Memory-Efficient Volumetric Integration of Depth Maps Using Plane Priors
+year:2018
+author information:[
+author name:Yangdong Liu
+author organization:NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2791250388|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:plane|extensive|volumetric|use|usage|main|used|stateoftheart|saves|enable|denoise|well|new|method|maps|planar|devices|widely|develop|dense|quality|allocate|volumetric|integration|region|higher|systems|memory|scanning|experiments|save|show|fuse|current|maps|priors|voxels|compared|high|detection|characteristics|resources|gradients|limited|introduce|one|mobile|integrate|disadvantages|depth|footprint|approximately|reconstruction|priors
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Voxel|Computer vision|High memory|Visualization|Computer science|Memory management|Footprint|Artificial intelligence|Memory footprint|Simultaneous localization and mapping|3D reconstruction
+references:1499715726|1625949922|1987648924|2000018820|2009422376|2016285927|2021851106|2058535340|2071906076|2088485134|2091226544|2099244020|2108402667|2129201358|2135209101|2143769815|2171363519|2284939270|2410627718|2527300128|2738596250|2743497034
+
+
+id:2903291755
+title:Online Temporal Calibration of Camera and IMU using Nonlinear Optimization
+year:2018
+author information:[
+author name:Jinxu Liu
+author organization:NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+author id:2903486525|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+]
+abstract:odometry|experimental|stateoftheart|nonlinear|suffer|national|optimization|terms|visual|foundation|temporal|order|algorithm|likely|using|method|devices|work|lowcost|whose|preintegration|delay|system|aligned|converge|turning|key|relative|aim|natural|smart|cameras|result|feature|sudden|indicate|camera|calibration|measurements|compared|closer|fast|calibrate|supported|sliding|precision|faster|windows|temporally|results|add|new|program|iterative|real|less|android|imu|improve|calibration|timestamps|provided|part|science|phones|appears|china|observations|value|stop|estimated|instead|inertial|way|online|time
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Inertial frame of reference|Computer vision|Android (operating system)|Visualization|Computer science|Nonlinear programming|Odometry|Timestamp|Inertial measurement unit|Artificial intelligence|Calibration
+references:1481925518|1612997784|1998058414|2077751272|2091790851|2118223742|2138566468|2396274919|2538522345|2745859992
+
+
+id:2916758154
+title:3D Scanning of High Dynamic Scenes Using an RGB-D Sensor and an IMU on a Mobile Device
+year:2019
+author information:[
+author name:Yangdong Liu
+author organization:National Laboratory of Pattern Recognition Institute of Automation, Chinese Academy of Sciences, Beijing, China
+author id:2791250388|
+author name:Wei Gao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2681557167|
+author name:Zhanyi Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2160150884|
+]
+abstract:representation|stateoftheart|number|recent|flow|reduce|images|using|large|method|devices|signed|handle|air|propose|years|opens|scanning|methods|voxelbased|experiments|measurement|eight|era|low|ipad|camera|compared|witnessed|device|kinectfusion|set|truncated|static|great|depth|elements|progress|comparable|first|novel|optical|improvements|rgbd|use|high|segment|function|dynamic|results|development|static|last|pose|labeled|unit|pixels|sparse|scenes|scenes|sensor|rotational|updated|imu|distance|applied|part|values|show|integrated|captured|make|designed|voxels|freespace|processes|determine|introduce|mobile|perform|inertial|possible|better|apple|sensors|footprint|reconstruction|integrates
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Iterative reconstruction|Computer vision|Computer science|Signed distance function|Image segmentation|Inertial measurement unit|RGB color model|Artificial intelligence|Pixel|Optical flow|3D reconstruction|Distributed computing
+references:1625949922|1987648924|2009422376|2013345945|2016285927|2021930164|2026179794|2065906272|2071398263|2071906076|2099244020|2118877769|2130103520|2135209101|2143769815|2248805773|2284939270|2482368135|2520105578|2527142681|2529254295|2737068486|2808571300|2890213701|2977516037
+

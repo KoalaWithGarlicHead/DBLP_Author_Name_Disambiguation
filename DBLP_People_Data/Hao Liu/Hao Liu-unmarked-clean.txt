@@ -1,0 +1,2947 @@
+
+id:1860375885
+title:Achieving Context Sensitivity of Service-Oriented Applications with the Business-End Programming Language VINCA
+year:2004
+author information:[
+author name:Hao Liu
+author organization:Chinese Academy of Sciences,  Graduate school of the Chinese Academy of Sciences
+author id:2659008475|
+author name:Yanbo Han
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2283620712|
+author name:Gang Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2098057600|
+author name:Cheng Zhang
+author organization:Chinese Academy of Sciences,  Graduate school of the Chinese Academy of Sciences
+author id:2714799646|
+]
+abstract:modeling|manner|language|approach|serviceoriented|context|mechanisms|models|level|adaptability|facilitating|resulting|part|focuses|personalized|flexibility|paper|composition|targeted|applications|enabling|business|justintime|intuitive|service|increasing|information|uses|user|activation|novel|presents|essential
+venue name:Grid and Cooperative Computing
+venue id:1163190608
+venue type:C
+document type:Conference
+study fields:Adaptability|Software engineering|Computer science|Service oriented applications|Context awareness|Service composition|Context model|Service oriented|Service selection|Web service|Multimedia|Distributed computing
+references:1555058027|1563992033|1575837962|1576835806|1597136223|1653946268|1882088395|2050416659|2156526680
+
+
+id:1965844277
+title:WCOM: The science scenario and objectives of a global water cycle observation mission
+year:2014
+author information:[
+author name:Jiancheng Shi
+author organization:Chinese Academy of Sciences , China
+author id:2780532654|
+author name:Xiaolong Dong
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2255570833|
+author name:Tianjie Zhao
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences
+author id:2100679195|
+author name:Jinyang Du
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences
+author id:2137906066|
+author name:Lingmei Jiang
+author organization:Beijing Normal University
+author id:2153552409|
+author name:Yang Du
+author organization:Zhejiang University
+author id:2274512093|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Zhenzhan Wang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2102656876|
+author name:Dabin Ji
+author organization:State Key Laboratory of Remote Sensing Science,Institute of Remote Sensing and Digital Earth,Chinese Academy of Sciences
+author id:2118946051|
+author name:Chuan Xiong
+author organization:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences
+author id:2316724991|
+]
+abstract:play|water|projections|equivalent|accurate|accuracy|would|understanding|model|trends|limitations|reduce|space|academy|expected|refine|cycle|provide|studies|etc|providing|role|dominates|global|soil|research|datasets|restrict|cycle|current|management|decisions|ability|key|measurements|necessary|observation|change|consistent|hydrological|series|elements|chinese|information|use|used|mission|longtime|uncertainties|satellites|new|program|including|priority|constrain|water|system|regarding|ocean|snow|observation|support|higher|critical|concept|detect|earth|observations|satellite|make|existing|earthclimate|aiming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Research program|Global change|Satellite|Computer science|Space Science|Remote sensing|Water cycle|Water use|restrict|Snow
+references:2039348932|2141219203|2146705192
+
+
+id:1980063370
+title:Imaging Analysis and First Results of the Geostationary Interferometric Microwave Sounder Demonstrator
+year:2015
+author information:[
+author name:Cheng Zhang
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2510472118|
+author name:Hao Liu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2578592504|
+author name:Ji Wu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2157728972|
+author name:Shengwei Zhang
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2100040594|
+author name:Jingye Yan
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2124326048|
+author name:Lijie Niu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2150671752|
+author name:Weiying Sun
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2126654544|
+author name:Huiling Li
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2669790775|
+]
+abstract:antenna|resolution|scene|orbit|preliminary|geostationary|developed|using|successfully|gims|circular|radiometric|angular|field|integration|algorithm|proofofconcept|experiments|microwave|timesharing|k|bands|meteorological|temperature|operating|synthesis|within|one|sounder|interferometric|aperture|future|elements|theoretical|sounder|mode|view|demonstrator|new|presented|less|sounding|imaging|tests|ghz|rotating|concept|aspects|instrument|capable|earth|atmospheric|array|working|satellite|geostationary|microwave|early|characteristics|interferometric|center|also|radiometer|array|uses|time|aliasfree
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Field of view|Aperture synthesis|Satellite|Synthetic aperture radar|Remote sensing|Optics|Antenna array|Angular resolution|Time delay and integration|Mathematics|Geostationary orbit
+references:1981718659|2058986445|2078498319|2103442239|2109535177|2131337518|2142132682|2157349060|2165379047
+
+
+id:1991687641
+title:Imaging simulation of the microwave radiometer aboard the MICAP for sea surface salinity measurement
+year:2015
+author information:[
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Lin Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2638361492|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:passive|space|discusses|measurement|energy|new|using|surface|imager|sharing|water|imaging|sea|important|mission|active|ocean|proposed|techniques|adopt|focused|aboard|components|role|concept|microwave|micap|kinds|instrument|two|lband|cycle|parabolic|paper|array|feeds|reflector|microwave|recently|performance|salinity|plays|linear|one|radiometer|interferometric|various|variable|chinese|uses|cylinder|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Microwave|L band|Computer science|Synthetic aperture radar|Remote sensing|Atmospheric model|Scatterometer|Interferometry|Radiometer|Microwave radiometer
+references:1971258418|2041837781|2071166662|2115817712|2121620307|2138652664|2146705192|2166042469|2169499397
+
+
+id:2001141039
+title:First Result From Takelimgan Desert Campaign for SMOS CAL/VAL
+year:2010
+author information:[
+author name:Weiguo Zhang
+author organization:Center for space science and application research (CHINA)
+author id:2619591021|
+author name:Ji Wu
+author organization:Center for space science and application research (CHINA)
+author id:2157728972|
+author name:Heguang Liu
+author organization:Center for space science and application research (CHINA)
+author id:2104756108|
+author name:Hao Liu
+author organization:Center for space science and application research (CHINA)
+author id:2806459790|
+]
+abstract:simulation|historical|areas|pioneer|works|frequency|defines|analyzing|shows|problem|shown|experiment|rfi|smos|assumption|band|sampling|based|tactically|analysis|affected|radiometric|constructed|suited|ground|taklamakan|investigate|l|spaceborne|tools|specified|low|miras|china|confirms|calibration|designed|microwave|requirements|problem|necessary|observation|data|many|technically|radiometer|environment|truth|sensors|depth|well|desert
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|L band|Computer science|Remote sensing|Ground truth|Radiometry|Sampling (statistics)|Electromagnetic wave interference|Microwave radiometry|Calibration|Radiometer
+references:2132549823|2155459956
+
+
+id:2008688593
+title:Surface scattering and emission models for ocean surface salinity remote sensing
+year:2014
+author information:[
+author name:Jie Zhu
+author organization:University of Chinese Academy of Sciences
+author id:2720482198|
+author name:Xiangkun Zhang
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, CAS, Beijing, China
+author id:2624381615|
+author name:Hao Liu
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, CAS, Beijing, China
+author id:2578592504|
+author name:Yongjun Cai
+author organization:University of Chinese Acad. of Sci
+author id:2110378389|
+]
+abstract:illustrating|ace|program|type|shown|roughness|order|surf|new|surface|need|active|refine|sensitive|practicable|backscattering|ocean|eliminated|coefficient|sensor|lband|measurement|sea|temperature|construction|behavior|elimination|salinity|change|makes|dramatic|passive|possible|better|brightness|premeditated|combined|embarks|engendered
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Brightness temperature|Remote sensing|Backscatter|Surface brightness|Scattering|Surface finish|Salinity|Geology|Sea surface salinity
+references:2141219203|2146705192
+
+
+id:2012988759
+title:Design of phased array microwave scatterometer with digital beam forming technique in active and passive combining observation system for sea surface salinity
+year:2013
+author information:[
+author name:Xiangkun Zhang
+author organization:Key Lab. of Microwave Remote Sensing, Center for Space Sci.  Appl. Res., Beijing, China
+author id:2624381615|
+author name:Hao Liu
+author organization:CAS Key Lab. of Microwave Remote Sensing, Center for Space Sci.  Appl. Res., Beijing, China
+author id:2578592504|
+]
+abstract:beam|forming|phased|accurate|main|azimuth|used|resolution|mode|number|roughness|obtained|measurement|band|signal|area|surface|corrected|baseline|backscattering|footprints|synthetic|active|pushbroom|largest|chirp|sources|scanning|technique|range|instrument|l|error|two|scatterometer|measurement|sea|arranged|array|provides|get|radiometer|dimension|make|narrow|microwave|salinity|digital|salinity|set|derived|observation|one|cross|combining|combines|passive|direction|radiometer|aperture|elements|achieved|information|observing|corresponds|adopted|coming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|L band|Computer science|Remote sensing|Phased array|Scatterometer|Chirp|Surface roughness|Microwave radiometer|Radiometer
+references:2071166662|2119673020|2160812412
+
+
+id:2024271414
+title:Analysis and experimental study of high stability microwave radiometer
+year:2014
+author information:[
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:theoretical|cas|developed|groundbased|high|stability|needs|new|given|analysis|synthetic|mission|ocean|proposed|sensitivity|demonstrate|onedimension|critical|technical|concept|part|instrument|lband|radiometer|calibration|stability|performance|salinity|prototype|passive|radiometer|aperture|challenge|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Synthetic aperture radiometer|Computer science|Remote sensing|Calibration|Microwave radiometer|Radiometer
+references:2041837781|2071166662
+
+
+id:2033906415
+title:MICAP (Microwave imager combined active and passive): A new instrument for Chinese ocean salinity satellite
+year:2015
+author information:[
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2578592504|
+author name:Di Zhu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2108866898|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2150671752|
+author name:Lin Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2638361492|
+author name:Caiyun Wang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2466723784|
+author name:Xue Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2674261803|
+author name:Xin Zhao
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2699581087|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2510472118|
+author name:Xiangkun Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2624381615|
+author name:Xiaobin Yin
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2168586794|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:named|paper|dbf|remote|approach|observation|introduced|introduced|payload|band|preliminary|recent|selected|promising|based|new|surface|active|includes|sharing|water|imager|sea|important|mission|system|ocean|mir|suit|role|micap|global|instrument|proven|lband|cycle|parabolic|candidate|design|satellite|onedimensional|reflector|salinity|sensing|plays|specification|sss|interferometric|future|chinese|cylinder|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Beamforming|Microwave|Satellite|K band|L band|Computer science|Remote sensing|Scatterometer|Microwave radiometer|Payload
+references:2024271414|2039348932|2041837781|2071166662|2146705192|2165379047
+
+
+id:2040858769
+title:A clock scanning synthetic aperture radiometer as a potential payload of SPORT
+year:2014
+author information:[
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Weiying Sun
+author organization:Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences National Space Science Center, Chinese Academy of Sciences
+author id:2126654544|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Jingye Yan
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2124326048|
+]
+abstract:telescope|polar|paper|main|space|frequency|introduced|national|payload|retrieval|presented|weather|implement|recent|potential|space|image|using|including|visibility|clock|schemes|sharing|synthetic|mission|system|proposed|science|scan|orbit|sport|solar|rotation|radiometer|interferometric|aperture|progress|essentially|time|sampling
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Visibility|Telescope|Polar orbit|Space Science|Computer science|Synthetic aperture radar|Remote sensing|Space weather|Payload|Radiometer
+references:2082342385|2100601806|2110330430
+
+
+id:2041837781
+title:System study and development of an L-band 1-D synthetic aperture radiometer for ocean salinity measurement
+year:2013
+author information:[
+author name:Hao Liu
+author organization:Center for Space Sci.  Appl. Res., Nat. Space Sci. Center, Beijing, China
+author id:2806459790|
+author name:Lijie Niu
+author organization:Center for Space Sci.  Appl. Res., Nat. Space Sci. Center, Beijing, China
+author id:2150671752|
+author name:Cheng Zhang
+author organization:Center for Space Sci.  Appl. Res., Nat. Space Sci. Center, Beijing, China
+author id:2510472118|
+author name:Xiangkun Zhang
+author organization:Center for Space Sci.  Appl. Res., Nat. Space Sci. Center, Beijing, China
+author id:2624381615|
+author name:Jingye Yan
+author organization:Center for Space Sci.  Appl. Res., Beijing
+author id:2124326048|
+author name:Ji Wu
+author organization:Center for Space Sci.  Appl. Res., Beijing
+author id:2157728972|
+]
+abstract:study|simulation|part|paper|instrument|system|lband|recent|introduced|observation|introduced|onedimensional|microwave|hardware|salinity|development|passive|synthetic|radiometer|aperture|interferometric|system|ocean|progresses|combined|spacebased
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|L band|Synthetic aperture radiometer|Remote sensing|Ocean chemistry|Interferometric radiometer|Salinity|Geology|Microwave radiometer|Radiometer
+references:2039348932|2071166662|2146705192|2165379047
+
+
+id:2048974605
+title:FPIR: The dual polarization antenna
+year:2013
+author information:[
+author name:Jingye Yan
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2124326048|
+author name:Ji Wu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2157728972|
+author name:Xiaocheng Yang
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2490670779|
+author name:Hao Liu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2806459790|
+author name:Cheng Zhang
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2510472118|
+author name:Guang Liu
+author organization:Key Lab. of Microwave Remote Sensing (Mirslab), Nat. Space Sci. Center (NSSC/CAS), Beijing, China
+author id:2479589432|
+author name:Heguang Liu
+author organization:Key Lab. of Microwave Remote Sensing (Mirslab), Nat. Space Sci. Center (NSSC/CAS), Beijing, China
+author id:2104756108|
+]
+abstract:antenna|polarization|introduces|dimensional|simulation|concept|full|network|fpir|paper|array|design|feeding|emphasis|stripline|isolation|radiometer|polarimetric|described|linear|interferometric|one|synthetic|novel|radiometer|antenna
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Antenna (radio)|Antenna measurement|Radiation pattern|Computer science|Remote sensing|Optics|Coaxial antenna|Stripline|Dual-polarization interferometry|Microstrip antenna|Radiometer
+references:2116725186|2127449117|2131303382|2169968682
+
+
+id:2050175881
+title:FPIR: The demonstrator and first image
+year:2010
+author information:[
+author name:Jingye Yan
+author organization:Center for Space Science and Applied Research (CSSAR), Chinese Academy of Sciences (CAS)
+author id:2124326048|
+author name:Ji Wu
+author organization:Center for Space Science and Applied Research (CSSAR), Chinese Academy of Sciences (CAS)
+author id:2157728972|
+author name:Manuel Martin-Neira
+author organization:European Space Research and Technology Centre (ESTEC), The European Space Agency (ESA), the Netherlands
+author id:333147742|
+author name:Hao Liu
+author organization:Center for Space Science and Applied Research (CSSAR), Chinese Academy of Sciences (CAS)
+author id:2806459790|
+author name:Heguang Liu
+author organization:Chinese Academy of science, Beijing
+author id:2104756108|
+author name:Jingshan Jiang
+author organization:Chinese Academy of science, Beijing
+author id:2020111800|
+]
+abstract:antenna|polarization|beam|application|dimensional|polarimeter|differing|resolution|arrays|full|high|introduced|enable|presented|employs|demonstrator|orthogonally|first|polarizations|polarimetric|based|image|precedents|including|receiver|weight|demonstrator|imaging|light|techniques|therefore|synthesis|two|fpir|dual|interlaced|compared|estarlike|digital|interferometric|xband|one|image|aperture|brightness|conical|main|optical|radiometer
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Aperture synthesis|Orthogonal polarization spectral imaging|Polarimetry|Astronomical interferometer|Remote sensing|Optics|Interferometry|Image resolution|Polarimeter|Physics
+references:2116725186|2127449117|2132643318|2157349060|2167094734
+
+
+id:2058986445
+title:The Geostationary Interferometric Microwave Sounder (GIMS): Instrument overview and recent progress
+year:2011
+author information:[
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2578592504|
+author name:Ji Wu
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2157728972|
+author name:Shengwei Zhang
+author organization:Center for Space Science and Applied Research, Chinese Academy of Sciences, China
+author id:2100040594|
+author name:Jingye Yan
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences (MIRS/CSSAR/CAS), China
+author id:2124326048|
+author name:Lijie Niu
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences (MIRS/CSSAR/CAS), China
+author id:2150671752|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2510472118|
+author name:Weiying Sun
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences (MIRS/CSSAR/CAS), China
+author id:2126654544|
+author name:Huiling Li
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences (MIRS/CSSAR/CAS), China
+author id:2669790775|
+author name:Bin Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2678550864|
+]
+abstract:preliminary|paper|groundbased|thinned|investigated|presented|demonstrator|geostationary|results|defined|developed|generation|based|test|gims|circular|analysis|system|proposed|next|rotating|complexity|studied|concept|microwave|spaceborne|tradeoff|meteorological|design|satellite|geostationary|interferometric|also|sounder|performance|elements|fullscale|aiming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Satellite|Computer science|Remote sensing|Systems design|Interferometry|Microwave imaging|Microwave radiometry|Calibration|Geostationary orbit
+references:1981718659|2103442239|2131337518
+
+
+id:2071166662
+title:A combined L-band synthetic aperture radiometer and fan-beam scatterometer for soil moisture and Ocean salinity measurement
+year:2012
+author information:[
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2578592504|
+author name:Xiangkun Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2624381615|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2150671752|
+author name:Xin Zhao
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2699581087|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2510472118|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2157728972|
+author name:Jingye Yan
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences, China
+author id:2124326048|
+author name:Qiong Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences, China
+author id:2688319503|
+author name:Weiguo Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center/Center for Space Science and Applied Research, Chinese Academy of Sciences, China
+author id:2619591021|
+]
+abstract:beam|forming|preliminary|paper|type|evaluation|groundbased|scatterometer|introduced|demonstrator|defined|new|active|moisture|spaceborne|synthetic|system|ocean|proposed|sensor|concept|part|development|soil|lband|measurement|design|onedimensional|digital|salinity|also|passive|considerations|aperture|performance|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Moisture measurement|L band|Synthetic aperture radiometer|Computer science|Remote sensing|Scatterometer|Beam (structure)|Water content|Salinity|Radiometer
+references:2027900120|2039348932|2145451932|2146705192
+
+
+id:2074611471
+title:Sampling patterns and perspective applications of clock scanning synthetic aperture imaging radiometer
+year:2013
+author information:[
+author name:Cheng Zhang
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2510472118|
+author name:Ji Wu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2157728972|
+author name:Hao Liu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2806459790|
+author name:Jingye Yan
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2124326048|
+author name:Weiying Sun
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2126654544|
+]
+abstract:antenna|resolve|resolution|required|frequency|temporally|horizontal|unpractical|continuous|narrow|swaths|specifically|potential|radiometers|new|using|large|sampling|patterns|opportunity|real|clock|geo|traditional|provide|size|especially|leads|relatively|sensor|items|rather|scanning|concept|paper|interest|low|bands|array|provides|observations|applications|microwave|compared|coverage|synthesis|hours|problem|revisit|unfortunately|approaches|passive|describes|special|radiometer|aperture|interferometric|advantages|spatially|earth|leo|applying|time
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture synthesis|Aperture|Side looking airborne radar|Computer science|Synthetic aperture radar|Remote sensing|Optics|Radiometry|Sampling (statistics)|Microwave radiometer|Radiometer
+references:2058986445|2082342385|2110330430|2131337518
+
+
+id:2082342385
+title:Recent progress on rotational time shared scanning synthetic aperture imaging radiometer
+year:2012
+author information:[
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Weiying Sun
+author organization:Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences (MirsLab/CAS), National Space Science Center, Chinese Academy of Sciences (NSSC/CAS), Beijing, 100190, China
+author id:2126654544|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Jingye Yan
+author organization:Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences (MirsLab/CAS), National Space Science Center, Chinese Academy of Sciences (NSSC/CAS), Beijing, 100190, China
+author id:2124326048|
+]
+abstract:necessary|type|developed|high|time|weather|dramatically|orbit|airborn|geostationary|recent|radiometers|polarimetric|hardware|image|period|orbit|double|sampling|reduced|schemes|imaging|synthetic|system|present|considered|rotational|correction|frame|complexity|shared|scheme|scanning|methods|scan|kinds|non|two|shot|earth|scan|low|rate|taken|microwave|within|observation|rotation|technology|single|aperture|earth|increasing|progress|time|certain|demands|applications|snap
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Aperture synthesis|Polarimetry|Computer science|Remote sensing|Optics|Microwave imaging|Earth observation|Earths orbit|Radiometer|Geostationary orbit
+references:2058986445|2110330430|2131337518|2165379047
+
+
+id:2082605210
+title:Design of X° rotating-scanning circular antenna array for synthetic aperture radiometer
+year:2014
+author information:[
+author name:Weiying Sun
+author organization:Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences National Space Science Center, Chinese Academy of Sciences
+author id:2126654544|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:antenna|called|simulation|focus|degrees|via|introduced|introduced|usually|spatial|recent|similar|method|sampling|circular|system|examples|samplings|even|domain|obtained|circle|complexity|prove|scanning|range|simulating|angle|aperture|x|validity|strategy|angle|used|frequency|points|optimize|different|results|obtain|new|decrease|synthetic|proposed|background|rotating|numerical|array|design|radiometer|designed|rotatingscanning|requirements|radiometer|array|strategy|important|subsequently
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Dipole antenna|Antenna (radio)|Antenna measurement|Side looking airborne radar|Computer science|Radiation pattern|Remote sensing|Antenna array|Optics|Coaxial antenna|Antenna aperture
+references:2110330430|2155459956
+
+
+id:2093099022
+title:Comparison of Sensitivities Generated by Real Aperture and Synthetic Aperture Radiometers
+year:2008
+author information:[
+author name:Jingye Yan
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2124326048|
+author name:Ji Wu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2157728972|
+author name:M. Marin-Neira
+author organization:European Space Research and Technology Center (ESTEC)
+author id:2275664462|
+author name:Hao Liu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2578592504|
+author name:Shenwei Zhang
+author organization:Center for Space Sci.  Appl. Res. (CSSAR), Chinese Acad. of Sci., Beijing
+author id:2279833584|
+author name:Heguang Liu
+author organization:Center for Space Sci.  Appl. Res. (CSSAR), Chinese Acad. of Sci., Beijing
+author id:2104756108|
+author name:Jingshan Jiang
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. of Sci., Beijing
+author id:2020111800|
+]
+abstract:explicitly|derived|normalized|discussions|kinds|effective|either|radiometers|relate|paper|discusses|radiometer|different|defined|kind|instruments|sensitivities|real|synthetic|radiometer|aperture|integration|achieved|sensitivity|demonstrate|relations|comparable
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Synthetic aperture radar|Computer science|Remote sensing|Optics|Pixel|Time delay and integration|Image resolution|Calibration|Microwave radiometer|Radiometer
+references:2100507482|2109535177|2146104749
+
+
+id:2094967847
+title:Target brightness temperature simulation and analysis for the geostationary interferometric microwave sounder (GIMS)
+year:2015
+author information:[
+author name:Ying Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2306284108|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2806459790|
+author name:Ji Wu
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2157728972|
+author name:Jieying He
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2171937724|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences
+author id:2510472118|
+]
+abstract:accurate|sounder|simulation|used|put|analyses|given|near|band|preliminary|results|oxygen|case|using|maps|simulation|thus|method|absorption|finally|simulated|presented|real|discussed|forecasting|use|system|adjust|transfer|sensor|evaluate|parameters|research|system|target|design|radiative|temperature|geostationary|microwave|tovs|simulating|observation|also|watervapor|target|weather|help|interferometric|brightness|performance|model
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Brightness temperature|Computer science|Remote sensing|Atmospheric model|Interferometry|Radiative transfer|Image resolution|RTTOV|Geostationary orbit
+references:2058986445|2103442239|2117109040|2131337518|2146121649
+
+
+id:2110330430
+title:Clock scan of imaging interferometric radiometer and its applications
+year:2007
+author information:[
+author name:Ji Wu
+author organization:Chinese Academy of science, Beijing
+author id:2157728972|
+author name:Cheng Zhang
+author organization:Chinese Academy of science, Beijing
+author id:2510472118|
+author name:Hao Liu
+author organization:Chinese Academy of science, Beijing
+author id:2578592504|
+author name:Weiying Sun
+author organization:Chinese Academy of science, Beijing
+author id:2126654544|
+author name:Jingye Yan
+author organization:Chinese Academy of science, Beijing
+author id:2124326048|
+]
+abstract:called|paper|potential|resolution|number|presented|spatial|element|image|new|using|large|antennas|however|clock|imaging|synthetic|shared|scheme|concept|overcome|scan|receiving|taken|temperature|radiometer|microwave|high|limited|also|technology|passive|radiometer|aperture|interferometric|brightness|application|future|time|arms|channels|novel|applications
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Brightness temperature|Space technology|Computer science|Remote sensing|Optics|Communication channel|Interferometric radiometer|Radiometry|Microwave imaging|Image resolution
+references:2132643318|2157349060
+
+
+id:2132643318
+title:The CAS airborne X-band synthetic aperture radiometer: system configuration and experimental results
+year:2004
+author information:[
+author name:Hao Liu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2806459790|
+author name:Ji Wu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2157728972|
+author name:Shouzheng Ban
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2669762305|
+author name:Jie Lu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2686378989|
+author name:Jingye Yan
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2124326048|
+author name:Suyun Zhu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2103144348|
+author name:Shifeng Zheng
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2658297955|
+author name:Changhong Jiang
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2712467839|
+author name:Qiong Wu
+author organization:Center for Space Sci.  Appl. Res., Chinese Acad. Sci., Beijing
+author id:2688319503|
+]
+abstract:held|steady|using|sensing|experimental|laboratory|developed|observation|thinned|instruments|national|accomplished|experiment|results|described|space|new|academy|imaging|applied|synthetic|measure|system|twodimensional|cas|progresses|flying|integration|detail|relative|since|configuration|microwave|science|technique|remote|instrument|research|distribution|earth|airborne|array|sciences|miras|temperature|xband|onedimensional|microwave|center|cases|estar|technology|radiometer|interferometric|aperture|brightness|earth|typical|achieved|chinese|first
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Brightness temperature|Computer science|Remote sensing|Optics|Interferometry|Earth observation|Microwave imaging|Radiometer|X band|Microwave radiometer
+references:2126976078|2127104311
+
+
+id:2142132682
+title:Radiometric analysis of the rotating synthetic aperture radiometers utilizing grid-based measurement approach
+year:2007
+author information:[
+author name:Hao Liu
+author organization:Chinese Academy of science, Beijing
+author id:2578592504|
+author name:P. de Maagt
+author organization:European Space Agency
+author id:2139481757|
+author name:J. Christensen
+author organization:SAAB Ericsson Space, Sweden
+author id:2973635881|
+author name:A. Emrich
+author organization:Omnisys Instruments, Gruvgatan 8, 421 30 Göteborg, Sweden
+author id:1842845943|
+author name:Ji Wu
+author organization:Center for Space Science and Applied Research, Chinese Academy of Sciences,(CAS-CSSAR), PO Box 8701, 100080, Beijing, China
+author id:2157728972|
+]
+abstract:antenna|samples|approach|required|number|thinned|high|sounding|spatial|results|radiometers|reduce|image|visibility|like|distributed|computation|geo|radiometric|system|proposed|especially|sensitivity|rotating|gridbased|facilitate|synthetic|nonregular|units|measurement|atmospheric|paper|array|effectively|aperture|performance|reconstruction|applications
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Visibility|Computer science|Synthetic aperture radar|Remote sensing|Atmospheric sounding|Radiometry|Image resolution|Grid|Radiometer
+references:2077321795|2140955769
+
+
+id:2199307933
+title:Clock Scanning Microwave Interferometric Radiometer and Potential Application Analysis
+year:2015
+author information:[
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+]
+abstract:play|antenna|reconstruction|areas|remote|resolution|required|investigates|weather|narrow|orbit|spatial|large|work|sampling|lower|opportunity|geo|provide|unreplaceable|swath|theory|coverage|scanning|microwave|bands|long|measurement|imagery|research|deployable|low|polarization|problem|revisit|climate|produce|conceptual|simulations|interferometric|increasing|associated|lowfrequency|essential|resolve|prevents|simple|temporally|investigated|time|continuous|potential|radiometers|new|image|csmir|presented|mw|clock|especially|leads|prediction|principles|relatively|ground|hourly|purpose|roles|concept|aspects|earth|numerical|paper|bands|array|provides|design|virtue|geostationary|microwave|applying|approaches|hemispheric|radiometer|spatially|sst|largesized|reconstruction|frequencies|demands|presents|applications
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Aperture synthesis|Microwave|Remote sensing|Earths orbit|Image resolution|Mathematics|Radiometer|Geostationary orbit|Microwave radiometer|Numerical weather prediction
+references:1980063370|2058986445|2077321795|2099944953|2106134696|2109535177|2110330430|2122760653|2131303382|2131337518|2131946362|2155459956|2157349060|2167275027
+
+
+id:2461403410
+title:Interelement Phase Calibration for the Geostationary Interferometric Microwave Sounder (GIMS)
+year:2016
+author information:[
+author name:Donghao Han
+author organization:University of Chinese Academy of Sciences
+author id:2510669193|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+author name:Zhang Cheng
+author organization: Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2717590559|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Ying Zhang
+author organization:University of Chinese Academy of Sciences
+author id:2674623205|
+]
+abstract:experiment|sounder|simulation|approach|thinned|introduced|continuous|model|orbit|geostationary|radiometers|hardware|phase|new|dedicated|method|natural|compared|selfcalibration|owing|gims|imaging|interelement|traditional|proposed|field|relative|calibration|rotating|average|scheme|needed|achieve|concept|microwave|inherently|earth|running|meteorological|atmospheric|nominal|array|low|instrument|working|satellite|letter|demonstrated|geostationary|calibration|microwave|enhance|particularly|interferometric|signaltonoise|observation|merged|sounder|interferometric|future|neither|earth|scene|novel|ratio|normally
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Microwave|Satellite|Signal-to-noise ratio|Remote sensing|Optics|Interferometry|Microwave imaging|Mathematics|Calibration|Radiometer|Geostationary orbit
+references:1501747717|1980063370|2058986445|2078745998|2094967847|2103442239|2108092177|2112395132|2125977049|2127753027|2131337518|2135952980|2157349060|2293673475
+
+
+id:2547484036
+title:Microwave interferometric radiometer with uniform circular antenna array
+year:2016
+author information:[
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Jingye Yan
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2124326048|
+]
+abstract:application|named|theoretical|configurations|used|remote|developed|concern|introduced|sensing|rfi|terms|implemented|results|various|defined|new|using|sampling|finally|circular|analysis|radiometric|synthetic|yshaped|mir|sensor|sensitivity|demonstrate|hexagonal|theory|numerical|superiority|configuration|microwave|technique|uncertainty|two|quantitatively|paper|array|mitigation|firstly|verify|based|factor|microwave|early|antenna|performance|also|passive|compares|factors|simulations|radiometer|characterize|interferometric|aperture|proposed|performance|array|first|presents
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Microwave|Synthetic aperture radar|Computer science|Remote sensing|Circular buffer|Antenna array|Optics|Interferometric radiometer|Sampling (statistics)|Microwave imaging|Image resolution
+references:1964730552|1980063370|1981718659|2077321795|2103442239|2109535177|2124149142|2131337518|2155459956
+
+
+id:2547523064
+title:Inter-element phase self-calibration for GIMS (geostationary interferometric microwave sounder)
+year:2016
+author information:[
+author name:Donghao Han
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, CO 100190, China
+author id:2510669193|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+]
+abstract:simulation|approach|millimeter|thanks|introduced|model|band|hardware|phase|using|method|natural|selfcalibration|gims|traditional|field|relative|complexity|average|role|scheme|nominal|low|snr|noise|instrument|demonstrated|calibration|observation|aperture|interferometric|novel|experiment|use|paper|network|thinned|interelement|continuous|implemented|radiometers|dedicated|difficult|imaging|important|synthetic|especially|proposed|overall|correlated|calibration|rotating|needed|inherently|wave|running|divider|array|working|radiometer|geostationary|microwave|waveguide|enhance|plays|merged|due|neither|earth|achieved|injection|scene|normally
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Extremely high frequency|Synthetic aperture radar|Computer science|Remote sensing|Signal-to-noise ratio|Interferometry|Microwave imaging|Calibration|Geostationary orbit|Radiometer
+references:1980063370|2058986445|2078745998|2094967847|2103442239|2108092177|2112395132|2157349060|2293673475
+
+
+id:2547779752
+title:Data pre-processing of MICAP (microwave imager combined active and passive) scatterometer
+year:2016
+author information:[
+author name:Xingou Xu
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2125768436|
+author name:Risheng Yun
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2232210503|
+author name:Xiaolong Dong
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2255570833|
+author name:Di Zhu
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2108866898|
+author name:Xiaobin Yin
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2168586794|
+author name:Hao Liu
+author organization:The CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, P.O. Box 8710, Beijing, China
+author id:2806459790|
+]
+abstract:resulted|beam|data|perfect|simple|introduced|payload|roughness|retrieval|presented|definitions|selected|flow|obtain|surface|level|work|simulated|active|preprocessing|discussed|imager|contains|ocean|processing|wind|retrieving|purpose|lband|scatterometer|sea|candidate|ready|elimination|digital|salinity|progress|set|verified|also|corresponding|future|chinese|future|progress|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Microwave|Computer science|Flow (psychology)|Remote sensing|Data pre-processing|Scatterometer|Microwave imaging|Surface roughness|Calibration|Payload
+references:1995122473|2012988759|2033906415|2041837781|2119193769|2160812412
+
+
+id:2547941224
+title:Preliminary performance simulation of microwave imager combined active/passive - a new instrument for Chinese salinity mission
+year:2016
+author information:[
+author name:Xiaobin Yin
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2168586794|
+author name:Lanjie Zhang
+author organization: Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2627257490|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Risheng Yun
+author organization: Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2232210503|
+author name:Lin Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2638361492|
+author name:Xingou Xu
+author organization: Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2125768436|
+author name:Di Zhu
+author organization:Key Laboratory of Microwave Remote Sensing, CAS, Beijing, 100190, China
+author id:2108866898|
+]
+abstract:called|accuracy|objective|high|instruments|roughness|payload|estimate|geophysical|stability|reduce|dedicated|surface|imager|system|proposed|ghz|retrieve|sensitivity|errors|wind|onboard|optimized|micap|satellite|scatterometer|sea|candidate|observations|temperature|ocean|satellite|microwave|salinity|china|analyzed|requirement|designing|salinity|interferometric|sss|due|sst|combined|space
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Microwave|Satellite|Sea surface temperature|Computer science|Remote sensing|Scatterometer|Microwave imaging|Surface roughness|Microwave radiometer|Payload
+references:2054023067|2092670880|2119193769
+
+
+id:2548367527
+title:Prelminary design of water cycle observation mission (WCOM)
+year:2016
+author information:[
+author name:Xiaolong Dong
+author organization:Key Laboratory of Microwave Remote Sensing, CAS, Beijing, 100190, China
+author id:2255570833|
+author name:Jiancheng Shi
+author organization:Chinese Academy of Sciences , China
+author id:2780532654|
+author name:Shengwei Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, Chinese Academy of Sciences, National Space Science Center, Beijing, China
+author id:2100040594|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Zhenzhan Wang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Beijing, China
+author id:2102656876|
+author name:Di Zhu
+author organization:Key Laboratory of Microwave Remote Sensing, CAS, Beijing, 100190, China
+author id:2108866898|
+author name:Lihua Zuo
+author organization:DFH Satellite Co, Ltd, Beijing, China
+author id:2548765988|
+author name:Changya Chen
+author organization:Shanghai Satellite Engineering Institute, China
+author id:2663701937|
+author name:Wen Chen
+author organization:Shanghai Engineering Center for Microsatellites, China
+author id:2642093072|
+]
+abstract:water|antenna|equivalent|three|resolution|issues|spatial|preliminary|temporal|order|addition|surface|large|active|sensitive|cycle|corrections|mission|wband|swath|providing|scanning|global|soil|cycle|measurement|lband|key|necessary|observation|satellite|aperture|width|wcom|data|downlink|frequency|major|roughness|segment|emphasis|mission|combination|dedicated|antennas|need|sounding|discussed|water|becomes|ocean|snow|leads|observation|ground|parameters|implements|technical|equipped|payloads|resolutions|synergetic|atmospheric|auxiliary|observations|design|satellite|microwave|requirements|capabilities|satisfy|multiple|also|requirement|passive|accommodation|challenge|investigation|frequencies
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Microwave|Satellite|Depth sounding|Computer science|Remote sensing|Temporal resolution|Water cycle|Surface roughness|Ground segment
+references:2073088282
+
+
+id:2548544861
+title:Analysis and simulation of GIMS observation on dynamic targets
+year:2016
+author information:[
+author name:Ying Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2306284108|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Jieying He
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2171937724|
+]
+abstract:optimal|sounder|simulation|configurations|period|channel|used|changing|matlab|frequency|analyses|given|imaging|presented|near|different|results|case|image|period|mapping|using|thus|method|gims|modeled|real|imaging|quality|important|system|analyze|effect|consideration|evaluate|quality|system|geostationary|microwave|determine|observation|also|target|help|interferometric|fast|performance|typhoon
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:MATLAB|Computer science|Remote sensing|Communication channel|Weather Research and Forecasting Model|Image quality|Interferometry|Microwave imaging|RTTOV|Geostationary orbit
+references:1980063370|1981718659|2058986445|2094967847|2103442239|2131337518
+
+
+id:2548633061
+title:The water cycle observation mission (WCOM): Overview
+year:2016
+author information:[
+author name:Jiancheng Shi
+author organization:Chinese Academy of Sciences , China
+author id:2780532654|
+author name:Xiaolong Dong
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, UK
+author id:2255570833|
+author name:Tianjie Zhao
+author organization:State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing and Digital Earth, China
+author id:2100679195|
+author name:Yang Du
+author organization:Zhejiang University
+author id:2274512093|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, UK
+author id:2806459790|
+author name:Zhenzhan Wang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, UK
+author id:2102656876|
+author name:Di Zhu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, UK
+author id:2108866898|
+author name:Dabin Ji
+author organization:State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing and Digital Earth, CAS
+author id:2118946051|
+author name:Chuan Xiong
+author organization:State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing and Digital Earth, CAS
+author id:2316724991|
+author name:Lingmei Jiang
+author organization:Beijing Normal University
+author id:2153552409|
+]
+abstract:play|water|projections|equivalent|accurate|accuracy|would|understanding|model|trends|limitations|reduce|space|period|academy|expected|refine|cycle|provide|studies|etc|providing|role|dominates|global|soil|research|datasets|restrict|cycle|current|management|decisions|ability|key|measurements|necessary|observation|change|consistent|hydrological|series|elements|chinese|information|wcom|use|used|implemented|fiveyearplan|mission|longtime|uncertainties|satellites|new|program|including|priority|constrain|water|system|regarding|ocean|snow|observation|support|higher|critical|concept|detect|earth|observations|satellite|make|existing|earthclimate|aiming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Research program|Global change|Satellite|Sea surface temperature|Space Science|Computer science|Remote sensing|Water use|Water cycle|Snow
+references:1965844277|2039348932|2141219203|2146705192
+
+
+id:2548713318
+title:IMI (Interferometric Microwave Imager): A L/S/C tri-frequency radiometer for Water Cycle Observation Mission(WCOM)
+year:2016
+author information:[
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Lin Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2638361492|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Xiangkun Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2624381615|
+author name:Xiaobin Yin
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2168586794|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:water|synchronized|wcom|advanced|main|three|research|newly|precipitation|introduced|demonstrator|mission|preliminary|group|dedicated|including|parameters|imi|filed|moisture|water|cycle|mission|system|proposed|ocean|provide|snow|science|progresses|observation|focused|trifrequency|payloads|achieve|one|concept|experiments|microwave|global|soil|instrument|cycle|measurement|lband|recent|capability|atmospheric|design|designed|key|salinity|observation|also|radiometer|names|change|earth|associated|aiming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Meteorology|Computer science|Remote sensing|Microwave imaging|Water content|Water cycle|Snow|Water vapor|Radiometer|Precipitation|Microwave radiometer
+references:2033906415|2039348932|2041837781|2073088282|2146705192|2165379047
+
+
+id:2548732733
+title:Experimental study of an L-band synthetic aperture radiometer for ocean salinity measurement
+year:2016
+author information:[
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Lin Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2638361492|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:concept|part|paper|experimental|developed|lband|groundbased|result|introduced|instrument|salinity|observation|active|passive|prototype|synthetic|aperture|performance|ocean|proposed|cas|sensor|combined|demonstrate|spacebased
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|L band|Synthetic aperture radiometer|Computer science|Remote sensing|Optics|Salinity|Image resolution|Microwave radiometry|Microwave radiometer
+references:2024271414|2033906415|2041837781|2071166662|2073088282|2108092177|2142581173
+
+
+id:2593423590
+title:Performance Analysis of Circular Antenna Array for Microwave Interferometric Radiometers
+year:2017
+author information:[
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Jingye Yan
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2124326048|
+]
+abstract:antenna|application|named|configurations|remote|resolution|arrays|concern|redefined|introduced|terms|manufacturing|spatial|drawn|greater|defined|reduce|using|efficiency|still|large|sampling|circular|analysis|radiometric|traditional|yshaped|mir|arrays|sensitivity|theory|numerical|superiority|uncomfortably|uncertainty|two|quantitatively|mitigation|instrument|verify|among|based|performance|compares|simulations|characterize|interferometric|aperture|grid|first|beam|theoretical|replace|main|used|developed|radio|frequency|thinned|sensing|rfi|implemented|results|various|new|finally|real|synthetic|keep|sensor|interference|demonstrate|hexagonal|higher|configuration|technique|best|prevent|unity|paper|array|factor|physical|microwave|early|also|increase|passive|factors|efficiency|radiometer|proposed|performance|detailed|significance|attention|uses|presents
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Antenna (radio)|Antenna measurement|Side looking airborne radar|Remote sensing|Antenna array|Optics|Phased array|Microwave imaging|Reflective array antenna|Mathematics|Antenna aperture
+references:1964730552|1979848913|1980063370|1981718659|2038608675|2077321795|2096625245|2099944953|2103442239|2109535177|2119709919|2124149142|2131337518|2131946362|2132643318|2155459956|2157349060|2166570534
+
+
+id:2757068026
+title:Statistical Analysis for Performance of Detection and Imaging of Dynamic Targets Using the Geostationary Interferometric Microwave Sounder
+year:2018
+author information:[
+author name:Ying Zhang
+author organization:University of Chinese Academy of Sciences
+author id:2674623205|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+author name:Jieying He
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2811421997|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+]
+abstract:smaller|passive|simulation|remote|variation|timerelated|western|properly|number|instruments|temperatures|weather|simulate|greater|guide|based|still|using|period|radiative|containing|lower|gims|forecast|radiometric|geo|system|among|grade|orbiting|internal|study|statistical|pattern|k|grades|targets|fastchanging|cyclones|bt|indicates|temperature|instrument|occurred|observation|change|analyzed|operational|model|tc|tropical|pacific|results|data|fed|distinction|rapid|retrieved|used|serve|research|frequency|frequencies|continuous|dynamic|different|potential|results|area|new|image|maps|adjusted|profiles|imaging|important|sequence|monitored|observations|disk|transfer|rootmeansquare|proposed|channels|relatively|region|fullearth|parameters|distortion|higher|configuration|h|show|changes|according|investigate|error|retrieving|earth|tend|atmospheric|intended|parameter|since|geostationary|microwave|sensing|determine|tcs|preresearch|rmse|increase|structure|target|brightness|application|typical|within|statistical|well|orbit|observing|frequencies
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Meteorology|Microwave|Remote sensing|Geosynchronous orbit|Atmospheric radiative transfer codes|Microwave imaging|Distortion|Image resolution|Brightness|Mathematics|Geostationary orbit
+references:1980063370|2058986445|2103442239|2131337518|2146121649
+
+
+id:2771432461
+title:Experimental performance analysis of the DBF technique on MICAP scatterometer demonstartor
+year:2017
+author information:[
+author name:Caiyun Wang
+author organization:National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2466723784|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Xiangkun Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2624381615|
+author name:Di Zhu
+author organization:Key Laboratory of Microwave Remote Sensing, CAS, Beijing, 100190, China
+author id:2108866898|
+author name:Xin Zhao
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2699581087|
+]
+abstract:beam|modes|advanced|demonstrator|dbf|experimental|space|groundbased|introduced|transmitting|experiment|function|demonstrator|transmitting|results|verification|hardware|phase|development|verifying|using|researches|separately|borne|active|towards|discussed|imager|innovative|mission|concepts|ocean|field|channels|analysis|present|problems|purpose|configuration|micap|technique|scatterometer|receiving|amplitude|carried|salinity|progress|caused|operational|performance|unbalance|future|verifies|step|combined|validity|open|first
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Spaceborne radar|Computer science|Remote sensing|Communication channel|Azimuth|Scatterometer|Electronic engineering|Chirp|Calibration
+references:2012988759|2051614772|2095522029
+
+
+id:2772066565
+title:Preliminary results of GIMS-II (Geostationary interferometric microwave sounder-second generation) demonstrator
+year:2017
+author information:[
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Donghao Han
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510669193|
+author name:Hao Lu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2559978678|
+author name:Xin Zhao
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2699581087|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:antenna|elements|sounder|tested|developed|required|millimeter|groundbased|evaluation|number|thinned|approved|ongoing|stationary|demonstrator|preliminary|geostationary|plan|recent|results|element|generation|reduce|new|successfully|development|presented|gims|circular|finished|imaging|proposed|utilize|progresses|supposed|demonstration|next|rotating|concept|proofofconcept|microwave|gimsii|wave|meteorological|mitigation|end|satellite|geostationary|summarized|interferometric|also|instead|foreseen|sounder|performance|yshape|activities|elements|risk|first|quarter
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Microwave|Satellite|Extremely high frequency|Computer science|Remote sensing|Interferometric radiometer|Interferometry|Microwave radiometry|Geostationary orbit
+references:1501747717|1980063370|2058986445|2103442239|2131337518
+
+
+id:2772844508
+title:Antenna pattern error calibration for L-band synthetic aperture radiometer
+year:2017
+author information:[
+author name:Aili Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, CO 100190, China
+author id:2774201632|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+author name:Lin Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2638361492|
+]
+abstract:antenna|simulation|approximate|oceanographic|paper|replace|retrieved|viewing|improved|reference|view|presented|method|near|spatial|imperfection|defined|case|algorithm|method|simulates|modeled|real|analysis|synthetic|system|submitted|proposed|field|methods|session|pattern|cause|error|lband|flat|temperature|maps|calibration|value|developments|antenna|process|observation|verified|image|systematic|target|special|radiometer|aperture|brightness|mean|series|elements|chinese|uses|meteorological|inconsistency
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Field of view|Satellite|L band|Brightness temperature|Synthetic aperture radiometer|Mean value|Computer science|Radiation pattern|Remote sensing|Calibration
+references:2022727695|2050560112|2096625245|2120555151|2157349060|2165379047|2548713318
+
+
+id:2774792516
+title:System design and preliminary tests of an L-band clock scan microwave interferometric radiometer
+year:2017
+author information:[
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:antenna|scanning|polar|simple|clock|developed|resolution|high|demonstrator|band|preliminary|problems|potential|geostationary|prime|new|using|csmir|orbit|large|sampling|clock|synthetic|angular|tests|interferometic|solve|requirement|much|technical|concept|microwave|l|lband|earth|scan|paper|deployable|related|array|design|validate|solar|interferometric|apply|radiometer|aperture|performance|advantages|future|presents|radiometer
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Array data structure|L band|Polar orbit|Computer science|Synthetic aperture radar|Remote sensing|Antenna array|Angular resolution|Radiometer|Geostationary orbit
+references:1980063370|1981718659|2103442239|2110330430|2155459956|2199307933
+
+
+id:2774806420
+title:Development and integration of the ground based MICAP scatterometer demonstrator
+year:2017
+author information:[
+author name:Caiyun Wang
+author organization:National Space Science Center, Chinese Academy of Sciences, Beijing, China
+author id:2466723784|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Xiangkun Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2624381615|
+author name:Di Zhu
+author organization:Key Laboratory of Microwave Remote Sensing, CAS, Beijing, 100190, China
+author id:2108866898|
+]
+abstract:shooting|paper|project|main|used|developed|groundbased|roughness|enable|retrieval|demonstrator|verification|selected|stability|order|dedicated|development|surface|imager|active|mission|system|ocean|provide|effect|following|support|wind|primary|functional|aim|technical|payloads|micap|functionality|scatterometer|measurement|paper|temperature|verify|trouble|end|calibration|microwave|estimating|salinity|salinity|discussed|one|phases|brightness|future|removal|chinese|challenge|well|describe|combined
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Functional verification|Sea surface temperature|Computer science|Remote sensing|Scatterometer|Microwave imaging|Temperature measurement|Surface roughness|Calibration|Payload
+references:2012988759|2119673020
+
+
+id:2802951974
+title:CSMIR: An L-Band Clock Scan Microwave Interferometric Radiometer
+year:2018
+author information:[
+author name:Cheng Zhang
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2510472118|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2578592504|
+author name:Lijie Niu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2150671752|
+author name:Ji Wu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:achievements|polar|simple|experimental|clock|csmir|discusses|helpful|geostationary|results|hardware|new|development|still|orbit|visibility|imperfections|easy|synthetic|exist|tests|flexible|improve|future|overall|experiments|demonstrate|errors|lessons|applied|concept|scan|lband|earth|deployable|paper|array|radiometer|calibration|microwave|effectiveness|potentials|solar|learned|discussed|systematic|prototype|outdoor|radiometer|interferometric|aperture|advantages|performance|although|due|future|missions|sampling|presents
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Aperture synthesis|Aperture|Array data structure|Visibility|L band|Polar orbit|Remote sensing|Antenna array|Mathematics|Geostationary orbit
+references:1964730552|1968944821|1980063370|1981718659|1984271210|2016021095|2039348932|2040858769|2103442239|2110330430|2117957988|2131337518|2146705192|2155459956|2157349060|2199307933|2293673475
+
+
+id:2838639262
+title:Preliminary Analysis of the Potential and Limitations of MICAP for the Retrieval of Sea Surface Salinity
+year:2018
+author information:[
+author name:Lanjie Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Beijing, China
+author id:2627257490|
+author name:Xiaobin Yin
+author organization:Beijing Piesat Information Technology Co. Ltd, 100195, China
+author id:2168586794|
+author name:Zhenzhan Wang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Beijing, China
+author id:2102656876|
+author name:Hao Liu
+author organization:Key Lab. of Microwave Remote Sensing, Nat. Space Sci. Center, Beijing, China
+author id:2578592504|
+author name:Mingsen Lin
+author organization:State Oceanic Administration, National State Ocean Application Service, Beijing, China
+author id:2167334414|
+]
+abstract:accuracy|led|resolution|scatterometer|instruments|retrieval|band|drift|reduce|using|surface|sense|analysis|imager|provide|simultaneously|remotely|wind|operates|onboard|simultaneous|satellite|global|k|lband|sea|measurement|speed|capability|default|low|multiparameters|temperature|noise|ocean|db|administration|km|middle|caused|one|single|interferometric|combined|levels|preliminary|sensitivities|high|shows|payload|roughness|noises|sst|geophysical|uncertainties|stability|new|less|estimation|pixels|ocean|month|corrections|state|ghz|errors|oceanic|concept|micap|estimated|instrument|latitudes|candidate|china|onedimensional|microwave|salinity|requirements|monitor|salinity|radiometer|sss
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Satellite|K band|Wind speed|L band|Sea surface temperature|Remote sensing|Scatterometer|Mathematics|Radiometer|Payload
+references:1964281743|2012988759|2033906415|2039348932|2051103814|2054023067|2073844413|2086394450|2091049524|2092670880|2099374696|2113338915|2118969139|2119193769|2121620307|2132549823|2146705192|2158778754|2162711423|2166828747|2166921550|2171229228|2570365658
+
+
+id:2900537072
+title:Imaging Comparison Between the Real Aperture and Synthetic Aperture Microwave Radiometers: a Case Study for Geo Sounder
+year:2018
+author information:[
+author name:Cheng Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, China
+author id:2510472118|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2157728972|
+]
+abstract:atmosphere|antenna|simulation|accuracy|areas|none|four|orbit|near|preliminary|geostationary|reduce|similar|using|thus|come|sounding|circular|geo|concepts|even|reality|decades|greatly|predesigned|achieve|microwave|samwr|two|observatory|atmospheric|example|esa|taken|indicate|ramwr|lasted|sounder|several|aperture|simple|launching|different|results|dedicated|samwr|comparison|real|sounding|imaging|synthetic|proposed|especially|dream|disc|higher|benefits|divided|concept|error|earth|numerical|pursued|paper|array|china|ramwr|applications|geostationary|make|performances|microwave|cassegrain|earch|interferometric|radiometer
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Computer science|Synthetic aperture radar|Remote sensing|Atmospheric sounding|Microwave imaging|Cassegrain antenna|Geostationary orbit|Radiometer|Microwave radiometer
+references:1980063370|1981718659|1984271210|2103442239|2131337518|2167275027|2772066565
+
+
+id:2900926482
+title:An End-to-End Simulation of Ocean Salinity Using L/S/C TRI-Frequency Radiometer for Water Cycle Observation Mission (WCOM)
+year:2018
+author information:[
+author name:Yan Li
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center (NSSC), Chinese Academy of Sciences (CAS), Beijing, 100190, China
+author id:2375987060|
+author name:Hao Liu
+author organization:CAS Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences
+author id:2806459790|
+]
+abstract:water|payloads|wcom|named|measuring|simulation|main|three|research|introduced|payload|presented|mission|preliminary|results|illustrated|dedicated|using|including|imi|briefly|imager|moisture|water|cycle|mission|system|ocean|science|observation|focused|parameters|trifrequency|primary|concept|microwave|endtoend|global|soil|instrument|retrieval|cycle|design|onedimensional|designed|key|salinity|algorithms|synthesis|salinity|interferometric|forward|change|procedure|tb|radiometer|aperture|earth|consists|aiming|first
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture synthesis|Global change|Sea surface temperature|Computer science|Remote sensing|Atmospheric model|Salinity|Water cycle|Payload|Radiometer
+references:2051103814|2121620307
+
+
+id:2901802408
+title:Quantitative Evaluation of Linear Feed Array of Interferometric Synthetic Aperature Microwave Imager on Wcom
+year:2018
+author information:[
+author name:Aili Zhang
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing, CO 100190, China
+author id:2774201632|
+author name:Hao Liu
+author organization:Key Laboratory of Microwave Remote Sensing, National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China
+author id:2806459790|
+author name:Ji Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2656929057|
+author name:Lin Wu
+author organization:National Space Science Center,Chinese Academy of Sciences
+author id:2289265231|
+author name:Xue Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2674261803|
+]
+abstract:antenna|wcom|data|optimal|simulation|several|arrays|mainly|influence|resolution|patch|evaluation|arrangement|accomplished|different|spatial|results|selected|imi|comparing|moisture|real|imager|imaging|quality|important|synthetic|feed|system|ocean|improve|arrays|sensitivity|trifrequency|proper|soil|distribution|measurement|parabolic|capability|deployable|paper|array|provides|consisted|feeds|onedimensional|microwave|salinity|mesh|processing|imager|linear|efficient|consistent|also|requirement|radiometer|interferometric|aperture|array|reflector|quantitative|cylinder|aiming
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Aperture|Microwave|Data processing|Antenna feed|Computer science|Synthetic aperture radar|Remote sensing|Interferometry|Image resolution|Microwave radiometer
+references:2127104311|2548713318
+
+
+id:1973316765
+title:Robust Tracking Control of a Quadrotor Helicopter
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Tsinghua University
+author id:2667293137|
+author name:Yongqiang Bai
+author organization:Luoyang Electronic Equipment Test Center of China, Luoyang, Peoples Republic of China 471003
+author id:2499255954|
+author name:Geng Lu
+author organization:Tsinghua University
+author id:2138357783|
+author name:Zongying Shi
+author organization:Tsinghua University
+author id:2167322070|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:proportionalderivative|channel|tracking|feedback|compensating|method|pitch|results|given|static|method|experimental|presented|includes|ultimately|converge|position|neighborhood|demonstrate|attitude|altitude|angles|origin|roll|proven|error|two|helicopter|desired|controller|track|designed|effectiveness|angles|controller|robust|automatic|quadrotor|control|combining|trajectory|produce|yaw|landing|stabilize|angle
+venue name:Journal of Intelligent and Robotic Systems
+venue id:91329792
+venue type:J
+document type:Journal
+study fields:Control theory|Control theory|Communication channel|Euler angles|Control engineering|Engineering|Robust control|Flight dynamics|Trajectory|Tracking error
+references:1576721254|1977277930|1994143699|1994262247|2001700252|2003272792|2026447021|2050415548|2056212673|2126578616|2166417006|2171541961
+
+
+id:1981979037
+title:Robust motion control of quadrotors
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2786103215|
+author name:Jianxiang Xi
+author organization:High-Tech Institute of Xian, Xian, China
+author id:2670013841|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:quadrotors|disturbances|translational|nonlinear|tracking|influence|introduced|problem|restrain|controllers|boundaries|method|uncertainties|results|investigated|parameters|experimental|includes|bounded|external|proposed|rotational|position|demonstrate|errors|attitude|parametric|proven|choosing|two|specified|nominal|dynamics|controller|compensator|effectiveness|include|controller|compensators|robust|motion|abstract|quadrotor|control|ultimately
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Motion control|Control theory|Nonlinear system|Coupling|Control theory|Control engineering|Parametric statistics|Robust control|Open-loop controller|Mathematics|Bounded function
+references:1574945970|1973734421|1986651551|1992742133|2003272792|2014441923|2026447021|2038377822|2043270542|2126578616|2132376708|2139118640|2163532765|2166417006|2171541961
+
+
+id:2010857923
+title:Real-Time Implementation of Decoupled Controllers for Multirotor Aircrafts
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+author name:Danjun Li
+author organization:Tsinghua University
+author id:2154165471|
+author name:Jonghyuk Kim
+author organization:Australian Nat. University
+author id:2126143894|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:subsystems|disturbances|considered|nonlinear|tracking|subsystems|degrees|output|coupling|realtime|presented|four|model|whereas|aircraftsquadrotors|origin|results|height|given|method|decoupled|apriori|exist|external|system|converge|uncertainties|obtained|neighborhood|demonstrate|errors|divided|parametric|proven|viability|freedom|nominal|design|controller|applicability|practical|six|linear|robust|set|multirotor|implementation|quadrotor|control|although|ultimately|proposed
+venue name:Journal of Intelligent and Robotic Systems
+venue id:91329792
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Coupling|Control theory|Communication channel|Six degrees of freedom|Control engineering|Parametric statistics|Engineering|Robust control|Multirotor
+references:1973316765|1994143699|2003272792|2019271926|2026447021|2064837978|2122147410|2126578616|2138458403
+
+
+id:2016893631
+title:Robust output tracking control of a laboratory helicopter for automatic landing
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Tsinghua University
+author id:2667293137|
+author name:Geng Lu
+author organization:Tsinghua University
+author id:2138357783|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:subject|deck|tracking|required|output|feedback|high|investigated|introduced|problem|shown|vessel|restrain|property|results|stability|experimental|compensator|seas|external|timeinvariant|laboratory|oscillating|synchronise|demonstrate|simultaneously|waveinduced|parametric|helicopter|nominal|influences|nonlinearities|designed|effectiveness|controller|robust|linear|motion|disturbances|automatic|control|motions|consisting|landing|achieved|designed|approach|eg
+venue name:International Journal of Systems Science
+venue id:129640837
+venue type:J
+document type:Journal
+study fields:Control theory|Feedback controller|Control theory|Control engineering|Deck|Parametric statistics|Robust control|Mathematics
+references:1576721254|1974535681|1990200712|1994262247|2001700252|2050415548|2056212673|2100419780|2123877553|2124264782|2124308301|2126578616|2163532765|2166417006
+
+
+id:2025910874
+title:Robust output tracking control of a laboratory helicopter for automatic landing
+year:2013
+author information:[
+author name:Hao Liu
+author organization:Tsinghua University
+author id:2667293137|
+author name:Geng Lu
+author organization:Tsinghua University
+author id:2138357783|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:deck|lab|tracking|required|output|high|introduced|problem|shown|restrain|property|results|stability|synchronize|achieved|experimental|compensator|seas|timeinvariant|uncertainties|oscillating|dealt|vessel|demonstrate|helicopter|nominal|influences|designed|effectiveness|controller|robust|linear|motion|robust|automatic|control|consisting|landing|proposed|approach
+venue name:American Control Conference
+venue id:2238538125
+venue type:C
+document type:Conference
+study fields:Synchronization|Control theory|Linear system|Control theory|Computer science|Tracking system|Robustness (computer science)|Control engineering|Deck|Robust control
+references:1576721254|1994262247|2001700252|2050415548|2056212673|2100419780|2123877553|2124264782|2124308301|2126578616|2163532765|2166417006
+
+
+id:2026447021
+title:Robust LQR Attitude Control of a 3-DOF Laboratory Helicopter for Aggressive Maneuvers
+year:2013
+author information:[
+author name:Hao Liu
+author organization:Tsinghua University
+author id:2667293137|
+author name:Geng Lu
+author organization:Tsinghua University
+author id:2138357783|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:small|closedloop|nonlinear|three|tracking|interaxis|investigated|dynamics|problem|shown|time|linearized|restrain|results|given|involves|finite|experimental|guaranteed|compensator|effects|external|system|proposed|converge|laboratory|neighborhood|demonstrate|attitude|strong|deal|coupling|applied|origin|error|threedegreeoffreedom|helicopter|nominal|feedforward|compensator|derived|designed|effectiveness|controller|robust|linear|robust|disturbances|control|quadratic|lqr|regulation|strategy|strategy
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Linear system|Control theory|Control engineering|Attitude control|Helicopter dynamics|Engineering|Robust control|Tracking error|Feed forward
+references:1985995013|2000875278|2001700252|2044089809|2050415548|2056212673|2100419780|2123877553|2124264782|2126578616|2137686885|2160438804|2163532765|2166417006
+
+
+id:2038377822
+title:Robust hierarchical control of a laboratory helicopter
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2786103215|
+author name:Jianxiang Xi
+author organization:High-Tech Institute of Xian, Xian, China
+author id:2670013841|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:generates|achieves|nonlinear|three|tracking|uncertain|reference|problem|hierarchical|pitch|results|degreeoffreedom|based|given|including|neighborhoods|experimental|ultimately|system|proposed|converge|laboratory|deals|position|demonstrate|errors|attitude|multipleinput|angles|proven|error|paper|helicopter|desired|helicopter|angle|controller|elevation|effectiveness|angles|multipleoutput|controller|robust|abstract|control|travel|strategy
+venue name:Journal of The Franklin Institute-engineering and Applied Mathematics
+venue id:183498172
+venue type:J
+document type:Journal
+study fields:Control theory|Pitch angle|Nonlinear system|Control theory|MIMO|Control engineering|Elevation|Mathematics|Tracking error
+references:1576721254|1973734421|1986651551|1990200712|1994262247|2001700252|2019735028|2026447021|2050415548|2056212673|2123877553|2124264782|2139118640|2144426941|2166417006
+
+
+id:2082418195
+title:Experimental results on robust optimal attitude feedback control of a model helicopter
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2981070630|
+author name:Jianxiang Xi
+author organization:High-Tech Institute of Xian, Xian, China
+author id:2693932526|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:addresses|optimal|added|considered|proven|nonlinear|tracking|without|observer|introduced|problem|estimate|method|model|uncertainties|results|stability|reduce|given|experimental|real|compensator|system|angular|external|system|demonstrate|attitude|applied|achieve|asymptotical|paper|helicopter|nominal|desired|parameter|influences|firstly|designed|effectiveness|controller|robust|linear|robust|one|disturbances|control|velocity|existing|measurements|properties
+venue name:European Control Conference
+venue id:2754459719
+venue type:C
+document type:Conference
+study fields:Control theory|Angular velocity|Linear system|Linear-quadratic-Gaussian control|Control theory|Attitude control|Control engineering|Adaptive control|Engineering|Observer (quantum physics)|Robust control
+references:1576721254|2026447021|2038377822|2100419780|2123877553|2124264782|2124308301|2126578616|2166417006
+
+
+id:2093597151
+title:Quaternion-Based Robust Attitude Control for Uncertain Robotic Quadrotors
+year:2015
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+author name:Xiafu Wang
+author organization:High-Tech Institute of Xi’an, Xi’an, China
+author id:2658429289|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:quadrotors|equivalent|closedloop|disturbances|subject|considered|nonlinear|developed|robotic|good|tracking|uncertain|feedback|restrain|model|dynamic|state|uncertainties|results|based|new|given|method|experimental|methods|guaranteed|system|input|external|effects|system|proposed|quaternion|attitude|show|representation|parameter|nonlinearities|compared|controller|robust|steadystate|disturbances|control|performance|attenuated
+venue name:IEEE Transactions on Industrial Informatics
+venue id:184777250
+venue type:J
+document type:Journal
+study fields:Control theory|Control theory|Computer science|Nonlinear control|Full state feedback|Control engineering|Robustness (computer science)|Automatic control|Adaptive control|Control system|Robust control
+references:1994143699|2003272792|2014165057|2015030512|2026447021|2038377822|2043151145|2051523049|2056212673|2056365674|2091382785|2098087953|2100419780|2101918532|2122593097|2124308301|2138990295|2139118640|2144426941|2154074205|2160438804|2164223642|2166417006|2171541961
+
+
+id:2116525206
+title:Real-time implementation of a robust hierarchical controller for a laboratory helicopter
+year:2013
+author information:[
+author name:Hao Liu
+author organization:Tsinghua University
+author id:2667293137|
+author name:Geng Lu
+author organization:Tsinghua University
+author id:2138357783|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:nonlinear|three|tracking|uncertain|reference|problem|generated|hierarchical|pitch|origin|results|degreeoffreedom|based|given|neighborhoods|experimental|system|addressed|system|proposed|converge|laboratory|position|demonstrate|errors|attitude|multipleinput|angles|proven|error|helicopter|desired|helicopter|angle|controller|elevation|effectiveness|multipleoutput|controller|robust|reference|control|also|ultimately|consists|achieved|travel|angle|strategy
+venue name:Asian Control Conference
+venue id:2755813646
+venue type:C
+document type:Conference
+study fields:Pitch angle|Control theory|Nonlinear system|Control theory|Robustness (computer science)|Attitude control|Control engineering|Engineering|Robust control|Open-loop controller|Tracking error
+references:1576721254|1973734421|1990200712|1994262247|2001700252|2019735028|2050415548|2056212673|2123877553|2124264782|2166417006
+
+
+id:2294747335
+title:Robust Three-Loop Trajectory Tracking Control for Quadrotors With Multiple Uncertainties
+year:2016
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Danjun Li
+author organization:Tsinghua University
+author id:2154165471|
+author name:Zongyu Zuo
+author organization:Beihang University
+author id:2123471603|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:closedloop|disturbances|controls|translational|nonlinear|quadrotors|three|tracking|influence|coupling|compensating|loop|method|uncertainties|results|given|including|experimental|restrains|includes|decentralized|ultimately|external|timeinvariant|system|proposed|converge|rotational|position|neighborhood|errors|attitude|achieve|origin
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Control theory|Attitude control|Robustness (computer science)|Control engineering|Control system|Adaptive control|Engineering|Robust control|Trajectory
+references:1574945970|1576721254|1973734421|1977277930|1986045690|1988444843|1994143699|2003272792|2011714907|2014165057|2026447021|2028372828|2028998091|2056365674|2066133236|2089908769|2091382785|2093597151|2122147410|2134069001|2139118640|2163532765|2171541961
+
+
+id:2494859051
+title:Robust attitude stabilization controller design for quadrotor systems with multiple uncertainties and delays
+year:2016
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Danjun Li
+author organization:Tsinghua University
+author id:2154165471|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:closedloop|stabilization|experimental|uncertain|restrain|method|state|uncertainties|results|theoretical|quadrotor|given|proposes|includes|analysis|compensator|system|input|external|effects|delay|proposed|delays|delays|attitude|paper|nominal|systems|parameter|design|free|designed|validate|effectiveness|controller|robust|control|involve|time|approach
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Control theory|Nonlinear system|Coupling|Control theory|Computer science|Design methods|Control engineering|Attitude control|Robustness (computer science)|Control system|Robust control
+references:1576721254|1965584704|1994262247|2022568305|2042983171|2066133236|2070034250|2091382785|2124308301|2139799964|2144426941|2171541961
+
+
+id:2521981704
+title:Robust Control for Quadrotors With Multiple Time-Varying Uncertainties and Delays
+year:2017
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Wanbing Zhao
+author organization:Beihang University
+author id:2656711979|
+author name:Zongyu Zuo
+author organization:Beihang University
+author id:2123471603|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:subject|nonlinear|tracking|quadrotors|problem|compensating|neighbourhood|hierarchical|model|state|uncertainties|results|described|based|given|including|cascade|finite|experimental|input|external|system|proposed|converge|delays|dealt|timevarying|position|multipleout|coupled|errors|attitude|multipleinput|scheme|parametric|origin|provided|technique|proven|vehicle|verify|controller|effectiveness|controller|robust|robust|multiple|quadrotor|control|trajectory
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Control theory|Control engineering|Attitude control|Robustness (computer science)|Parametric statistics|Control system|Engineering|Robust control|Trajectory
+references:1576721254|1965584704|1973734421|1977277930|1986045690|1991103959|2003272792|2015030512|2026447021|2042983171|2043151145|2066133236|2070034250|2093597151|2101918532|2134069001|2139799964|2294747335|2334895298|2400810967
+
+
+id:2577284694
+title:Robust attitude control for uncertain quadrotors with input time delays
+year:2016
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2981070630|
+author name:Deyuan Liu
+author organization:Beihang University
+author id:2664543408|
+author name:Zongyu Zuo
+author organization:Beihang University
+author id:2123471603|
+]
+abstract:closedloop|added|experimental|nonlinear|dynamics|presented|restrain|model|results|theoretical|involves|real|whose|compensator|system|input|external|system|proposed|delays|multipleout|attitude|multipleinput|parametric|error|two|nominal|firstly|designed|validate|effectiveness|controller|robust|robust|quadrotor|control|time
+venue name:European Control Conference
+venue id:2754459719
+venue type:C
+document type:Conference
+study fields:Errors-in-variables models|Control theory|Nonlinear system|Control theory|Control engineering|Attitude control|Parametric statistics|Control system|Engineering
+references:1576721254|1965584704|1973734421|2022568305|2026447021|2066133236|2070034250|2124308301|2139799964|2144426941|2171541961
+
+
+id:2591002471
+title:Robust Attitude Stabilization for Nonlinear Quadrotor Systems With Uncertainties and Delays
+year:2017
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Jianxiang Xi
+author organization:High-Tech Institute of Xi’an, Xi’an, China
+author id:2651464922|
+author name:Yisheng Zhong
+author organization:Tsinghua University
+author id:2366401411|
+]
+abstract:resulted|closedloop|stabilization|added|subject|proven|nonlinear|uncertain|feedback|boundedinput|coupling|problem|restrain|method|model|state|uncertainties|results|stability|twoloop|given|including|method|experimental|compensator|system|type|input|external|effects|delay|timeinvariant|system|proposed|delays|delays|leads|dealt|timevarying|attitude|achieve|parametric|statefeedback|asymptotical|uniform|nominal|desired|feature|systems|design|free|compensator|designed|validate|effectiveness|controller|robust|linear|robust|unmodeled|quadrotor|control|consisting|boundedstate
+venue name:IEEE Transactions on Industrial Electronics
+venue id:58031724
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Coupling|Control theory|Robustness (computer science)|Control engineering|Vehicle dynamics|Parametric statistics|Engineering|Control system|Robust control
+references:1576721254|1965584704|1973734421|1986045690|1994262247|2022568305|2042983171|2066133236|2070034250|2091382785|2093597151|2124308301|2139799964|2144426941|2171541961|2294747335|2334895298|2343218201|2400810967|2494859051|2521981704
+
+
+id:2885445574
+title:Robust Optimal Attitude Controller Design for Tail-Sitters
+year:2018
+author information:[
+author name:Deyuan Liu
+author organization:Beihang University
+author id:2886254965|
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Cunjia Liu
+author organization:Loughborough University
+author id:2143299725|
+author name:Bing Zhu
+author organization:Beihang University
+author id:2761879932|
+author name:Zhaoying Li
+author organization:Beihang University
+author id:2888339131|
+]
+abstract:optimal|aerial|approach|tracking|mode|time|presented|tailsitter|method|results|given|transitions|finite|robustness|unmanned|converge|proposed|neighborhood|errors|attitude|flight|achieve|origin|show|vehicles|proven|paper|class|performances|effectiveness|robust|control|simulation|properties|presents
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Feedforward systems|Optimal control|Control theory|Controller design|Computer science|Quaternion|Robustness (computer science)|Control engineering|Vehicle dynamics|Finite time|Aerodynamics
+references:1814722403|2016251776|2093597151|2129587492|2294747335|2521981704|2547048148|2738304489|2742425317
+
+
+id:2888836358
+title:Robust Controller Design for a Tail-sitter UAV in Flight Mode Transitions
+year:2018
+author information:[
+author name:Zhaoying Li
+author organization:Beihang University
+author id:2904862308|
+author name:Wenjie Zhou
+author organization:Beihang University
+author id:2569066571|
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+]
+abstract:disturbances|nonlinear|challenging|tracking|feedback|presented|state|different|uncertainties|signal|results|stability|based|tailsitters|ensure|method|proposes|robustness|compensator|establish|system|synthesized|system|proposed|demonstrate|theory|flight|dynamic|technique|guarantee|error|two|existed|vehicle|paper|dynamics|inversion|design|controller|designed|effectiveness|controller|robust|regime|control|simulation|due|compensation|adopted|properties
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Control theory|Nonlinear system|Full state feedback|Control theory|Robustness (computer science)|Control engineering|Vehicle dynamics|Control system|Engineering|Robust control|Tracking error
+references:1814722403|2021410094|2026447021|2093597151|2095580478|2294747335|2577647445|2591002471
+
+
+id:2889275882
+title:Robust Formation Control for Multiple Quadrotors Subject to Nonlinear Dynamics and Disturbances
+year:2018
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+author name:Xiwang Dong
+author organization:Beihang University
+author id:2140457361|
+author name:Frank L. Lewis
+author organization:University of Texas
+author id:2149702018|
+author name:Yan Wan
+author organization:University of Texas at Arlingon
+author id:2112469157|
+author name:Kimon P. Valavanis
+author organization:University of Denver
+author id:49782907|
+]
+abstract:subject|unmnanned|show|formation|quadrotors|protocol|dynamics|problem|four|controller|results|designed|effectiveness|given|controller|robust|multiple|disturbances|distributed|control|includes|whose|external|simulation|dealt|position|attitude
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Control theory|Nonlinear system|Control theory|Control engineering|Engineering|Underactuation
+references:2019271926|2024351662|2026892237|2093597151|2115775310|2119120935|2129891269|2294747335|2499597001|2735822044|2771250673
+
+
+id:2899293690
+title:Nonlinear Robust Flight Mode Transition Control for Tail-Sitter Aircraft
+year:2018
+author information:[
+author name:Zhaoying Li
+author organization:Beihang University
+author id:2888339131|
+author name:Wenjie Zhou
+author organization:Beihang University
+author id:2569066571|
+author name:Hao Liu
+author organization:Beihang University
+author id:2685059286|
+author name:Lixin Zhang
+author organization:Beihang University
+author id:2755507102|
+author name:Zongyu Zuo
+author organization:Beihang University
+author id:2123471603|
+]
+abstract:standard|disturbances|closedloop|nonlinear|transitions|challenging|tracking|mode|dynamics|introduced|problem|addressed|time|presented|restrain|tailsitter|method|dynamic|uncertainties|results|loopshaping|obtain|based|including|transitions|finite|compensator|establish|system|external|effects|system|involved|proposed|converge|uncertainties|neighborhood|demonstrate|errors|flight|tracking|parametric|origin|technique|proven|error|two|vehicle|inversion|nominal|desired|nonlinearities|designed|performances|compared|controller|robust|unmodeled|aircraft|control|consisting|advantages|simulation|due|designed|adopted
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Control theory|Nonlinear system|Computer science|Inversion (meteorology)|Control theory|Mode (statistics)|Vehicle dynamics|Parametric statistics|Aerodynamics|Tracking error|Distributed computing
+references:1814722403|1973012280|1977042701|1978085828|1986045690|2021410094|2028998091|2042618610|2067757631|2069821847|2073071710|2079121704|2092079136|2093597151|2108806801|2144396810|2294747335|2340316143|2341206624|2490503364|2505527254|2521981704|2577647445|2591002471|2617896805|2808667805|2898358912|2964082289
+
+
+id:2901493688
+title:Robust Tracking Control for Tail-Sitters in Flight Mode Transitions
+year:2019
+author information:[
+author name:Hao Liu
+author organization:University of Texas at Arlington
+author id:2667293137|
+author name:Fachun Peng
+author organization:BeiHang University Beijing
+author id:2901741019|
+author name:Frank L. Lewis
+author organization:Northeastern University
+author id:2149702018|
+author name:Yan Wan
+author organization:University of Texas at Arlingon
+author id:2112469157|
+]
+abstract:modes|simulation|nonlinear|developed|tracking|mode|rotarywing|theoretical|coordinate|method|parameters|transitions|need|conducted|analysis|system|switched|flight|tailsitters|achieve|fixedwing|two|paper|studies|verify|develops|effectiveness|controller|robust|aircraft|structures|control|trajectory|transition|fly|neither|approach|critical
+venue name:IEEE Transactions on Aerospace and Electronic Systems
+venue id:193624734
+venue type:J
+document type:Journal
+study fields:Coordinate system|Control theory|Nonlinear control|Control theory|Vehicle dynamics|Control system|Mathematics|Trajectory|Aerodynamics
+references:1973012280|1986045690|2015030512|2016251776|2019271926|2028998091|2070034250|2129226301|2129587492|2135315647|2294747335|2341206624|2521981704|2574761396|2591002471|2617896805|2738304489|2898358912
+
+
+id:2912323328
+title:Robust Bipartite Output Containment of Heterogeneous Non-introspective MAS on Signed Digraphs
+year:2018
+author information:[
+author name:Shan Zuo
+author organization:University of Texas at Arlington
+author id:2777438640|
+author name:Frank L. Lewis
+author organization:University of Texas
+author id:2149702018|
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+author name:Ali Davoudi
+author organization:University of Texas
+author id:2152865964|
+]
+abstract:called|digraphs|uncertain|investigates|thanks|output|problem|digraph|spanned|weights|model|presence|knowledge|based|rboc|collaborative|nonintrospective|distributed|signed|require|explicit|digraphs|converge|among|obtained|conditions|mas|relative|internal|numerical|formulate|local|containment|antagonistic|proved|variations|systems|output|procedures|linear|robust|nonnegative|performed|simulations|absolute|information|hull|certain|first|outputs|agent|network|solved|asymptotically|used|heterogeneous|zero|protocol|sufficient|dynamic|expressed|communication|new|making|illustrate|agent|modeled|weights|respect|efforts|proposed|designs|errors|principles|rather|statefeedback|outputfeedback|negative|paper|parameter|design|convex|value|designed|performances|aims|multiagent|agents|go|control|bipartite|leaders|nonintrospective|provided|achieved
+venue name:Conference on Decision and Control
+venue id:1198780418
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Telecommunications network|Explicit knowledge|Computer science|Absolute value|Bipartite graph|Convex hull|Internal model|Digraph|Goto
+references:1967509640|1970760998|2001874077|2072302088|2102885431|2146804198|2146890818|2167675457|2343734929|2415645061|2569238770|2592442839|2602709848|2765454702
+
+
+id:2928707119
+title:Robust formation tracking control for multiple quadrotors under aggressive maneuvers
+year:2019
+author information:[
+author name:Hao Liu
+author organization:Beihang University
+author id:2667293137|
+author name:Yu Tian
+author organization:Beihang University
+author id:2890120097|
+author name:Frank L. Lewis
+author organization:University of Texas
+author id:2149702018|
+author name:Yan Wan
+author organization:University of Texas at Arlingon
+author id:2112469157|
+author name:Kimon P. Valavanis
+author organization:University of Denver
+author id:49782907|
+]
+abstract:concerned|theoretical|considered|simulation|quadrotors|tracking|approach|degrees|dynamics|problem|presented|tasked|model|results|theoretical|analysis|external|system|proposed|theory|stems|framework|achieve|formation|prescribed|composed|freedom|parameter|aggressive|validate|brief|effectiveness|six|robust|linear|fundamentals|abstract|multiagent|underactuated|patterns|multiple|disturbances|control|quadratic|trajectory|regulation|compensation|account
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Control theory|Linear quadratic|Six degrees of freedom|Underactuation|Robust control|Trajectory|Mathematics
+references:1495971413|1981826826|2003446166|2024351662|2091083460|2093597151|2093848766|2106413402|2115775310|2119120935|2140665365|2294747335|2328033575|2336158624|2341521787|2499597001|2520079139|2590210788|2614186282|2735822044|2766894408|2771250673|2898358912|2901493688|2904448246|2964045297
+
+
+id:2963420183
+title:Completely Distributed Guaranteed-Performance Consensualization for High-Order Multiagent Systems With Switching Topologies
+year:2019
+author information:[
+author name:Jianxiang Xi
+author organization:Rocket Force University of Engineering
+author id:2883500064|
+author name:Cheng Wang
+author organization:Rocket Force University of Engineering
+author id:2788931446|
+author name:Hao Liu
+author organization:Beihang University
+author id:2967231103|
+author name:Le Wang
+author organization:Rocket Force University of Engineering
+author id:2883677851|
+]
+abstract:theoretical|results|criteria|regulate|main|manner|nonlinear|constraints|approach|lipschitz|adaptively|protocol|shown|terms|consensualization|state|realize|new|given|proposes|adjusted|conclusions|distributed|sense|weights|basis|translationadaptive|topologies|riccati|proposed|examples|among|cases|completely|demonstrate|guaranteedperformance|errors|switching|criterion|independent|highorder|provided|respectively|inequality|matrix|neighboring|two|extended|regulated|gain|adaptive|numerical|paper|systems|design|linear|cost|inequalities|realized|control|agents|consensus|motions|interaction|strategy|multiagent|first
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Nonlinear system|Consensus control|Computer science|Matrix (mathematics)|Multi-agent system|Network topology|Lipschitz continuity|Riccati inequality
+references:1976907074|1997382471|2000481360|2000806524|2016493824|2024978411|2043270542|2049725326|2079629840|2079888961|2086186132|2098127225|2103419342|2105850748|2108383324|2119959427|2122375213|2167260329|2277723519|2321207147|2344401470|2410943624|2413751968|2415645061|2465203691|2490503364|2499597001|2501602109|2511127296|2528815323|2554143848|2560289364|2560370148|2569238770|2582030674|2584807945|2585867354|2615464946|2624130076|2732426795|2756339389|2765910425|2771382046|2776859894|2781532022|2963252619|2964082289|2964270034
+
+
+id:2964082289
+title:Dynamic Output Feedback Guaranteed-Cost Synchronization for Multiagent Networks With Given Cost Budgets
+year:2018
+author information:[
+author name:Jianxiang Xi
+author organization:High-Tech Institute of Xi’an, Xi’an, China
+author id:2883500064|
+author name:Cheng Wang
+author organization:High-Tech Institute of Xi’an, Xi’an, China
+author id:2788931446|
+author name:Hao Liu
+author organization:Beihang University
+author id:2967231103|
+author name:Zhong Wang
+author organization:High-Tech Institute of Xi’an, Xi’an, China
+author id:2808407606|
+]
+abstract:addresses|theoretical|results|guaranteedcost|criteria|nonlinear|output|feedback|features|protocol|shown|terms|presented|function|dynamic|usually|state|different|leaderfollowing|budget|realize|energy|algorithm|give|given|using|proposes|distributed|require|impacts|analysis|leaderless|explicit|proposed|examples|networks|demonstrate|problems|deal|works|independent|highorder|according|neighboring|criteria|tradeoff|states|general|numerical|current|paper|design|previously|linear|cost|expression|consumption|structure|agents|budget|performance|regulation|interaction|synchronization|cannot|information|multiagent|first|existing
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Synchronization|Nonlinear system|State information|Computer science|Network topology|Energy consumption|Distributed computing
+references:1997382471|2016493824|2019878120|2022903073|2024978411|2049725326|2099285706|2100935517|2108383324|2122375213|2136241075|2168515859|2277723519|2280043427|2321207147|2344401470|2359514031|2413751968|2430985532|2490503364|2511127296|2528815323|2565273161|2582030674|2584807945|2592938128|2615464946|2624130076|2703003505|2755424168|2756339389|2765404998|2781532022
+
+
+id:2964270034
+title:Adaptive guaranteed-performance consensus design for high-order multiagent systems
+year:2018
+author information:[
+author name:Jianxiang Xi
+author organization:Rocket Force University of Engineering
+author id:2883500064|
+author name:Jie Yang
+author organization:Rocket Force University of Engineering
+author id:2810609626|
+author name:Hao Liu
+author organization:Beihang University
+author id:2967231103|
+author name:Tang Zheng
+author organization:Rocket Force University of Engineering
+author id:2883444237|
+]
+abstract:results|approach|required|investigates|terms|usually|eigenvalue|respectively|distributed|topology|conclusions|distributed|leaderless|examples|completely|guaranteedperformance|inequalities|works|criterion|highorder|matrix|two|gain|adaptive|current|feature|systems|means|linear|abstract|nonzero|leaderfollower|laplacian|consensus|associated|information|complete|minimum|theoretical|paper|investigated|presented|consensualization|realize|new|given|intrinsic|translationadaptive|graph|riccati|proposed|demonstrate|problems|provided|extensions|numerical|paper|design|costs|inequalities|cases|control|structure|existing|topologies|regulation|interaction|strategy|multiagent
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Topology|Discrete mathematics|Complete graph|Laplacian matrix|Consensus control|Matrix (mathematics)|Network topology|Multi-agent system|Mathematics|Eigenvalues and eigenvectors
+references:1883592110|1994947552|1997382471|2000481360|2000806524|2016493824|2024978411|2049725326|2108383324|2122375213|2344401470|2410943624|2413751968|2415645061|2490503364|2511127296|2528815323|2554143848|2560289364|2584807945|2592360218|2615464946|2624130076|2732426795|2736191164|2755939145|2756339389|2760431120|2771382046|2781532022|2790150383|2790351206|2792977495|2795629717|2796868604|2802166347|2963252619|2963420183|2964082289
+
+
+id:1567569284
+title:Large deflection shape sensing of a continuum manipulator for minimally-invasive surgery
+year:2015
+author information:[
+author name:Hao Liu
+author organization:Johns Hopkins University
+author id:2806459790|
+author name:Amirhossein Farvardin
+author organization:Johns Hopkins University
+author id:2231008433|
+author name:Sahba Aghajani Pedram
+author organization:University of Hawaii at Manoa
+author id:2619443718|
+author name:Iulian Iordachita
+author organization:Johns Hopkins University
+author id:1209546023|
+author name:Russell H. Taylor
+author organization:Johns Hopkins University
+author id:2131329962|
+author name:Mehran Armand
+author organization:Johns Hopkins University
+author id:2159616990|
+]
+abstract:manipulators|fbg|used|inside|tracking|curvature|realtime|enable|surgical|radius|results|mm|invasive|shape|need|experimental|proposes|minimally|dcm|wires|detect|operate|proposed|techniques|triangular|sensor|arrays|much|larger|average|shape|utilizing|bragg|surgeries|curvatures|methods|fiber|detect|error|long|current|paper|along|dexterous|substrates|indicate|supporting|assembled|dcm|sensing|continuum|may|cross|section|control|many|grating|sensors|form|nitinol|wall|novel
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Deflection (engineering)|Optical fiber|Fiber Bragg grating|Curvature|Control theory|Radius of curvature|Manipulator|Continuum (design consultancy)|Electronic engineering|Acoustics|Engineering
+references:1538512411|1964461287|1977928632|2013681472|2037290941|2113168073|2119531408|2125817642|2147492425|2147802545|2164587356|2167480813
+
+
+id:2033033932
+title:A dynamic point matching for registration in image-guided minimally invasive vascular surgery: A simulation study
+year:2013
+author information:[
+author name:Wenpeng Gao
+author organization:Harbin Institute of Technology
+author id:2134945029|
+author name:Yili Fu
+author organization:Harbin Institute of Technology
+author id:2106975230|
+author name:Zaijuan Li
+author organization:Electr. Eng. Dept., Harbin Institute of Technol., Harbin, , China
+author id:2710401295|
+author name:Hao Liu
+author organization:ShenYang Institute of Autom., Shenyang, China
+author id:2806459790|
+author name:Shuguo Wang
+author organization:Harbin Institute of Technology
+author id:2117959000|
+]
+abstract:centerline|optimal|simulation|used|tracking|approach|path|introduced|experiment|registration|advances|dynamically|find|vessel|function|dynamic|results|using|issue|invasive|minimally|mivs|real|vascular|proposed|points|electromagnetic|refined|registration|obtained|neighborhood|assume|device|catheter|aligning|relax|distance|show|structures|error|two|point|local|matching|along|due|imageguided|catheter|indicate|based|minimizing|designed|key|centerline|set|correspondence|estimated|performed|deviation|transformation|performed|target|corresponding|sets|account|surgery
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Computer vision|Point set registration|Electromagnetic devices|Minimisation (psychology)|Video tracking|Artificial intelligence|Point set|Image registration|Robotics|Mathematics|Vascular surgery
+references:1979622972|2049981393|2107257130|2116801532|2133584444
+
+
+id:2068991773
+title:The master-slave catheterisation system for positioning the steerable catheter
+year:2011
+author information:[
+author name:Yili Fu
+author organization:Harbin Institute of Technology
+author id:2106975230|
+author name:Anzhu Gao
+author organization:State Key Laboratory of Robotics and System, Harbin Institute of Technology, Harbin Heilongjiang 150080, China
+author id:2309475030|
+author name:Hao Liu
+author organization:State Key Laboratory of Robotics and System, Harbin Institute of Technology, Harbin Heilongjiang 150080, China
+author id:2935251893|
+author name:Shuxiang Guo
+author organization:Harbin Institute of Technology
+author id:2165994380|
+]
+abstract:guiding|accuracy|tracking|feedback|function|magnetic|model|implement|utilise|generate|manipulate|stability|displayed|surrounding|image|including|positioning|shape|proposes|handle|vascular|vessels|catheterisation|system|operate|provide|insertion|force|relative|gear|rotating|steerable|catheter|virtual|surgeons|assistance|two|integrated|differential|paper|validated|masterslave|positioning|catheter|end|mechanism|relationship|based|designed|invitro|image|control|feedback|structure|room|master|sensors|distal|assist
+venue name:International Journal of Mechatronics and Automation
+venue id:2755340684
+venue type:C
+document type:Conference
+study fields:Catheter|Control engineering|Engineering|Master/slave|Control room|Haptic technology
+references:2057889805|2103683863|2103710021|2131150943|2157521920
+
+
+id:2074474940
+title:Inverse kinematics based point-tracking strategy of master-slave robotic catheter intervention
+year:2014
+author information:[
+author name:Anzhu Gao
+author organization:University of Chinese Academy of Sciences
+author id:2691379352|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Hongyi Li
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2108358540|
+]
+abstract:closeloop|developed|robotic|space|model|backlash|based|mapping|handle|safely|vascular|force|catheter|virtual|effectiveness|surgeons|provided|paper|masterslave|pointtracking|verify|inverse|motion|built|perform|kinematics|catheterization|control|procedure|performed|master|distal|silicon|assist|compensation|proximal|strategy|force|integrates|presents
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Catheter|Inverse kinematics|Backlash|Simulation|Control theory|Control engineering|Engineering|Master/slave|Point tracking
+references:2068991773
+
+
+id:2213566593
+title:A cross-helical tendons actuated dexterous continuum manipulator
+year:2015
+author information:[
+author name:Anzhu Gao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2691379352|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Zhenda Yang
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2344099368|
+author name:Zhidong Wang
+author organization:Chiba Institute of Technology,Dept. of Advanced Robotics,Japan
+author id:2805111249|
+author name:Hongyi Li
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2108358540|
+]
+abstract:crosshelical|manipulators|obstacles|paper|pairs|investigated|shapes|diameter|segment|tip|different|results|investigated|combine|realize|using|shape|invasive|planar|need|steerability|minimally|separately|towards|avoidance|propose|dcm|segment|current|c|tendons|omindirectional|show|two|segments|capability|ways|desired|shapes|directional|dexterous|preferred|actuated|compared|dcm|continuum|types|characteristics|built|surgeries|one|length|multibending|kinematics|control|realizing|capability|prototype|target|better|well
+venue name:Intelligent Robots and Systems
+venue id:1143279144
+venue type:C
+document type:Conference
+study fields:Kinematics|Control theory|Computer science|Manipulator|Continuum (design consultancy)|Control engineering|Planar
+references:1978706484|2053614949|2060525195|2101667962|2110708319|2119343887|2126182407|2147492425
+
+
+id:2295230963
+title:A novel gastroscope intervention mechanism with circumferentially pneumatic-driven clamping function.
+year:2015
+author information:[
+author name:Yanmin Li
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2705447375|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Hengzhi Wang
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2538499319|
+author name:Zhenda Yang
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2344099368|
+author name:Hongyi Li
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2827291560|
+author name:Yunsheng Yang
+author organization:Gastroenterology Department of Chinese PLA General Hospital, Beijing, China
+author id:2711447208|
+]
+abstract:accuracy|gastroscope|radial|clamps|guidelines|evenly|respectively|similar|robotic|circumferential|assisted|traditional|axial|provide|flexible|intervention|force|evaluate|average|infection|risk|nonuniform|air|experiments|existed|pneumatic|uniform|systems|mechanism|relationship|pressure|develops|means|slipping|polynomial|could|analyzed|quadratic|performed|fitted|showed|scopes|novel|used|gastroscope|research|mode|operation|different|potential|results|commonly|like|gim|pressure|airbag|destroying|measure|solve|safe|intervention|twist|problems|critical|clamping|rollers|designed|delivery|motion|relay|velocity|friction|radiation|various|realizes|achieved|risk|specially|force
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Clamping|Slipping|Computer science|Mechanical engineering|Flexible endoscope|Artificial intelligence|Airbag|Robotics
+references:2117561047|2129417101|2144400435
+
+
+id:2429730967
+title:Modeling and Optimization of Class-E Amplifier at Subnominal Condition in a Wireless Power Transfer System for Biomedical Implants
+year:2017
+author information:[
+author name:Hao Liu
+author organization:University of Chinese Academy of Science
+author id:2806459790|
+author name:Qi Shao
+author organization:University of Chinese Academy of Sciences
+author id:2250342091|
+author name:Xuelin Fang
+author organization:University of Chinese Academy of Sciences
+author id:2104600464|
+]
+abstract:mosfet|measured|neglects|called|optimal|reach|loss|experiment|optimization|model|efficiency|method|implants|feasibility|system|highest|determined|circuit|guarantee|amplifier|receiving|nominal|conduction|power|relationship|validate|stress|biomedical|model|cannot|novel|paper|analyzed|ratio|wpt|subnominal|always|given|implants|proposes|condition|unit|transfer|proposed|solve|safe|amplifier|parameters|higher|capsule|optimized|platform|classe|effective|paper|validated|design|derived|carried|characteristics|voltage|condition|duty|wireless
+venue name:IEEE Transactions on Biomedical Circuits and Systems
+venue id:80299757
+venue type:J
+document type:Journal
+study fields:Class e amplifier|Wireless power transfer|Computer science|Duty cycle|Voltage|Control engineering|Electronic engineering|Conduction loss|MOSFET|Electrical engineering|Amplifier
+references:2008917039|2017865445|2025120427|2038114690|2052403216|2104371273|2143310461|2145956156|2147761718|2155874879|2157672113|2160400740
+
+
+id:2506164035
+title:3-DOF force-sensing micro-forceps for robot-assisted membrane peeling: Intrinsic actuation force modeling
+year:2016
+author information:[
+author name:Anzhu Gao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2691379352|
+author name:Berk Gonenc
+author organization:CISST ERC at Johns Hopkins University
+author id:290461521|
+author name:Jiangzhen Guo
+author organization:CISST ERC at Johns Hopkins University
+author id:2619285359|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Peter Gehlbach
+author organization:Johns Hopkins University
+author id:700590262|
+author name:Iulian Iordachita
+author organization:CISST ERC at Johns Hopkins University
+author id:1209546023|
+]
+abstract:delicate|mostly|simulation|friction|tissue|fbg|type|three|loads|pick|exerting|deformation|model|displacement|manipulation|element|based|using|fiber|tissues|arise|raw|sense|accurately|axial|jaws|force|actuation|obtained|peeling|appropriate|retinal|tooltotissue|bragg|another|experiments|tools|indicate|architecture|jaws|linear|may|procedure|model|grating|requiring|elastic|adverse|measurements|microforceps|surgeon|preliminary|membrane|separate|importantly|used|developed|challenging|lateral|fine|feasible|results|new|involves|need|solutions|finite|insufficient|significant|develop|intrinsic|tool|external|measure|forceps|forces|effect|attached|coefficient|sensor|tip|careful|investigate|imperceptible|integrated|interactions|peeling|along|paper|design|membrane|predict|adds|sensing|previous|motion|also|friction|sensors|material|due|pulling|force|presents
+venue name:IEEE International Conference on Biomedical Robotics and Biomechatronics
+venue id:2754868432
+venue type:C
+document type:Conference
+study fields:Fiber Bragg grating|Coefficient of friction|Forceps|Mechanical engineering|Optics|Finite element method|Deformation (engineering)|Robot|Materials science
+references:124560532|1964461287|1974070762|2010867526|2044873840|2088054425|2106929373|2158951152
+
+
+id:2532558315
+title:Evaluating the deflection of dexterous continuum manipulators with unevenly distributed compliant joints
+year:2016
+author information:[
+author name:Anzhu Gao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2691379352|
+author name:Ryan J. Murphy
+author organization:Johns Hopkins University Applied Physics Lab. LLC
+author id:2143816015|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Iulian Iordachita
+author organization:Johns Hopkins University
+author id:1209546023|
+author name:Mehran Armand
+author organization:Johns Hopkins University
+author id:2159616990|
+]
+abstract:manipulators|reach|joints|simulation|channel|apex|offer|surgery|optimizing|investigated|element|height|evenly|based|using|large|method|distributed|analysis|propose|determined|explored|driven|lesion|treatment|experiments|distribution|indicates|validate|compared|continuum|fea|may|great|performed|results|increasing|surgery|procedures|hip|space|fabricated|petrous|dcms|limit|surgical|tip|dcms|joints|potential|results|exploration|accomplishing|finite|removal|dcm|revision|tendon|effects|preoperatively|osteolysis|lesion|boundary|distance|trajectories|optimized|show|instrument|reaching|investigate|percent|previously|shapes|design|skull|designed|unevenly|requirements|dexterous|advantage|performing|cross|improvement|increase|minimallyinvasive|deflection|typical|removal|compliant|base
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Deflection (engineering)|Space requirements|Computer science|Finite element method|Trajectory|Structural engineering
+references:2063706473|2065776126|2126182407|2147492425|2167480813|2409390816
+
+
+id:2586629171
+title:Design and Analysis of a Mutual Inductance Coupling-Based Microdeformation Sensor
+year:2017
+author information:[
+author name:Rumei Zhang
+author organization:State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, 110016, China
+author id:2142720652|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Zhenda Yang
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2344099368|
+author name:Jianda Han
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2285187042|
+]
+abstract:electronics|inductance|reconstruction|pick|terms|magnetic|deformation|surgery|displacement|respectively|based|invasive|minimally|lockin|deformation||size|tiny|utilize|mutual|force|sensitivity|obtained|compression|average|algorithms|components|systems|circuit|experiments|measurement|multiaxis|promote|angle|indicate|precise|relationship|inclination|reconstructed|address|linear|explore|linearity|microtriaxial|polynomial|yet|compact|theoretical|microdeformation|precision|quasistatic|high|shows|excitation|function|method|dynamic|expressed|results|simulations|including|spaceconfined|signals|mutual|rootmeansquare|electromagnetic|triaxial|coefficient|sensor|longitudinal|errors|allow|couplingbased|changes|detect|technique|paper|along|direction|carried|sensing|orientation|sensors|application|arctan|corresponding|achieved|reconstruction|derivation|fitting|presents
+venue name:IEEE Transactions on Instrumentation and Measurement
+venue id:10892749
+venue type:J
+document type:Journal
+study fields:Coupling|Inductance|Inductive coupling|System of measurement|Electromagnetics|Linearity|Control engineering|Electronic engineering|Deformation (mechanics)|Inverse trigonometric functions|Physics
+references:1979671083|2083865153|2149311703|2151725934|2160565606|2161350666
+
+
+id:2592665943
+title:A Contact-Aided Asymmetric Steerable Catheter for Atrial Fibrillation Ablation
+year:2017
+author information:[
+author name:Anzhu Gao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, China
+author id:2691379352|
+author name:Yun Zou
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2734432922|
+author name:Ming Liang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2597657145|
+author name:Zulu Wang
+author organization:Department of Advanced Robotics, Chiba Institute of Technology, Narashino, Chiba, Japan
+author id:2576362645|
+author name:Zhidong Wang
+author organization:Department of Cardiology, General Hospital of Shenyang Command of Chinese PLA, Shenyang, China
+author id:2669625558|
+author name:Hao Liu
+author organization:Department of Cardiology, General Hospital of Shenyang Command of Chinese PLA, Shenyang, China
+author id:2806459790|
+]
+abstract:practice|contactaided|anatomy|path|bend|golden|algorithm|selfcollision|using|successfully|ablation|isolation|propose|traditional|provide|twodimensional|asymmetric|treatment|study|effectiveness|lesions|clinical|atrial|formation|two|fibrillation|capability|indicate|mechanism|free|validate|compared|one|great|designing|help|results|cannot|constraint|adopted|standard|bidirectional|workspace|used|lateral|investigated|shows|kinematics|tip|different|exploration|widely|adapt|finally|bending|entry|phantom|improving|proposed|paths|unidirectional|reachability|lesion|catheter|steerable|confined|angles|line|size|bends|integrated|effective|tendonactuated|shapes|electrical|render|carried|orientation|characteristics|blocks|affects|specific|target|direction|special|point|form|compliant
+venue name:International Conference on Robotics and Automation
+venue id:1163902177
+venue type:C
+document type:Conference
+study fields:Compliant mechanism|Biomedical engineering|Catheter|Kinematics|Workspace|Imaging phantom|Ablation|Bending|STRIPS|Engineering
+references:1650079017|2005284429|2040511350|2167480813|2214234935|2409390816|2544641369
+
+
+id:2594056827
+title:Analysis on the force propagation of the tendon-sheath actuation in dexterous surgical robots
+year:2016
+author information:[
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+author name:Chongyang Wang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2594265040|
+author name:Zhidong Wang
+author organization:Chiba Institute of Technology,Dept. of Advanced Robotics,Japan
+author id:2805111249|
+]
+abstract:considered|tested|friction|used|robots|robotic|major|diameter|presented|orifice|modified|model|different|results|correctness|invasive|natural|like|widely|minimally|important|tendon|propagation|port|adjust|effect|force|experiments|actuation|tendon|sheath|experiments|classical|show|characters|verify|end|transluminal|laparoscopy|carried|particularly|problem|also|friction|model|diameters|factors|single|endoscopic|distal|first|series|pulling|proximal|surgery
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Single-port laparoscopy|Robotic systems|Curvature|Mechanical engineering|Tendon sheath|Body orifice|Engineering|Natural orifice transluminal endoscopic surgery|Robot|Tendon
+references:2070927739|2134162555|2140031923|2151420688|2162394694|2184993170|2353621230
+
+
+id:2755005395
+title:Robust tracking of dexterous continuum robots: Fusing FBG shape sensing and stereo vision
+year:2017
+author information:[
+author name:Rumei Zhang
+author organization:State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, 110016, China
+author id:2142720652|
+author name:Hao Liu
+author organization:State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, 110016, China
+author id:2806459790|
+author name:Jianda Han
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2285187042|
+]
+abstract:closedloop|averaging|recognized|accuracy|fbg|experimental|calibrated|tracking|safety|estimate|visual|easily|anticipated|respectively|fiber|invasive|shape|morphology|minimally|robustness|system|stereo|algorithm|registration|obtained|scheme|bragg|experiments|local|matching|matrices|integral|verify|indicate|camera|continuum|reconstructed|particularly|set|suffers|efficient|shortcomings|fusing|cumulative|grating|accuracy|results|absolute|compensate|operation|novel|centerline|used|robots|challenging|repeated|tip|feasible|robots|mm|coordinate|researchers|reconstruct|spaceconfined|respect|lack|important|fusion|vision|improving|task|proposed|leads|improve|sensor|position|present|errors|platform|previously|patient|positioning|transformed|carried|sensing|robust|estimated|control|error|distal|previous
+venue name:International Conference of the IEEE Engineering in Medicine and Biology Society
+venue id:2232857946
+venue type:C
+document type:Conference
+study fields:Coordinate system|Computer vision|Fiber Bragg grating|Matrix (mathematics)|Stereopsis|Computer science|Continuum (design consultancy)|Robustness (computer science)|Eye tracking|Artificial intelligence|Robot
+references:1567569284|2001104271|2129935047|2295380675|2322287462
+
+
+id:2792020579
+title:Three dimensional point cloud hole repairing strategy for binocular stereo reconstruction
+year:2017
+author information:[
+author name:Erjie Nie
+author organization:Shenyang Jianzhu University
+author id:2790776513|
+author name:Jie Li
+author organization:Shenyang Jianzhu University
+author id:2792653478|
+author name:Rumei Zhang
+author organization:State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, 110016, China
+author id:2793776087|
+author name:Lei Cao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences
+author id:2791758232|
+author name:Liangliang Sun
+author organization:Shenyang Jianzhu University
+author id:2793884071|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+]
+abstract:reconstruction|surgeon|accuracy|tissue|problem|delaunay|spatial|guide|order|surrounding|based|still|invasive|morphology|method|surface|minimally|safely|accurately|concaveconvex|attracted|affect|achieve|scatter|indicate|minimizing|close|compared|address|fast|exists|operation|surgery|high|threedimensional|time|method|results|new|triangulation|prerequisite|real|important|effects|proposed|merits|repair|recovery|paper|roboticassisted|patient|smooth|effectiveness|process|procedure|structure|dexterity|hole|better|retained|existing|interpolation|various|attention|reconstruction|presents
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Iterative reconstruction|Computer vision|Surface reconstruction|Binocular stereo|Control theory|Interpolation|Artificial intelligence|Engineering|Point cloud|Surgery procedure|Maintenance engineering|Delaunay triangulation
+references:2051076065|2107465918
+
+
+id:2792992009
+title:A S shape continuum robot with a single actuation structured by NiTi slices
+year:2017
+author information:[
+author name:Hao Liu
+author organization:Shenyang Ligong University
+author id:2806459790|
+author name:Zhuqing Ji
+author organization:Shenyang Ligong University
+author id:2789304770|
+author name:Jie Li
+author organization:Shenyang Jianzhu University
+author id:2792653478|
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Chongyang Wang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2594265040|
+author name:Peng Ba
+author organization:Shenyang Ligong University
+author id:2793734716|
+]
+abstract:robot|introduced|surgery|bend|recent|planar|shape|tissues|invasive|excellent|pass|minimally|wires|experiments|actuation|drive|environment|invasive|achieve|capacity|capability|known|dexterous|structured|continuum|contain|could|great|single|field|advantages|meet|requirements|novel|compact|developed|contacting|diameter|niti|surgical|tip|robots|avoiding|widely|significant|intrinsic|important|external|especially|seems|importance|instrument|rigidity|notches|researched|load|designed|length|verified|also|maximal|requirement|rapidly|structure|target|distal|compliance|mean|minimally|well
+venue name:Robotics and Biomimetics
+venue id:1172483547
+venue type:C
+document type:Conference
+study fields:Rigidity (psychology)|Control theory|Mechanical engineering|Continuum (design consultancy)|Surgical instrument|Robot kinematics|Planar|Deformation (mechanics)|Engineering|Robot|Nickel titanium
+references:2073677587|2119343887|2126182407|2146031911|2147492425|2164806098
+
+
+id:2970368706
+title:Design and Analysis of a Novel Bionic Cardiac Simulator
+year:2018
+author information:[
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Wei Jiang
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2970262444|
+author name:Lei Cao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences
+author id:2791758232|
+author name:Chongyang Wang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2594265040|
+author name:Cheng Zhang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2962619525|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+]
+abstract:heart|illustrates|valves|surgeon|identified|slice|scanned|deformation|obtained|simulate|based|images|invasive|parameters|devices|cardiac|oneway|testing|minimally|accurately|movement|bionic|doctors|mitral|drive|appearing|adult|cardiac|improvements|components|methods|achieve|experiments|increases|current|composed|tricuspid|mechanism|incorrect|correspondence|muscledriven|many|blood|ct|meet|difficulties|reasons|decreases|tightly|cannot|closed|first|medical|data|correct|paper|backflows|clearly|used|ventricular|basically|beat|problems|realize|new|test|need|equipment|real|pressure|imaging|heart|system|lack|volume|driving|phantom|external|proposed|solve|true|flowing|basic|parameters|chambers|show|training|enddiastolic|adults|rate|uneven|designed|bpm|simulator|biomimetic|aspects|control|also|peak|stroke|rpm|artificial|healthy|circulation|detected|physiological
+venue name:International Conference on Information and Automation
+venue id:2623485896
+venue type:C
+document type:Conference
+study fields:Stroke volume|Ventricular pressure|Diastole|Simulation|Medical imaging|Computer science|Imaging phantom|Control system|Heart rate|Systole
+references:2000808336|2047881712
+
+
+id:2970832275
+title:Analysis of Springback Displacement of dura mater Substitute for Precise Electrode Implantation
+year:2018
+author information:[
+author name:Lei Cao
+author organization:State key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences
+author id:2791758232|
+author name:Jie li
+author organization:Shenyang Jianzhu University
+author id:2792653478|
+author name:Chongyang Wang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2594265040|
+author name:Cheng Zhang
+author organization:State Key Laboratory.of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2962619525|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+]
+abstract:localization|conservation|reason|mechanical|process|whole|tissue|three|relation|superficial|character|major|implemented|displacement|model|usually|different|calculated|validation|energy|described|mater|based|velocities|electrode|accepted|establish|dura|proposed|leads|parts|parameters|finally|springback|experiments|show|error|two|eight|getting|electrode|along|brain|perspective|phases|validate|velocity|electrodedura|identify|implantation|analyzed|inaccurate|implantation|artificial|puncture|series|mean|interaction|well|properties|represent
+venue name:International Conference on Information and Automation
+venue id:2623485896
+venue type:C
+document type:Conference
+study fields:Biomedical engineering|Dura mater|Control theory|Computer science|Artificial tissue|Electrode
+references:2065887310|2128851696
+
+
+id:2976729866
+title:Automatic feature group combination selection method based on GA for the functional regions clustering in DBS
+year:2020
+author information:[
+author name:Lei Cao
+author organization:UNIVERSITY OF CHINESE ACADEMY OF SCIENCES, Beijing, China
+author id:2791758232|
+author name:Jie Li
+author organization:Shenyang Jianzhu University
+author id:2979880221|
+author name:Yuanyuan Zhou
+author organization:Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+author id:2598312670|
+author name:Yunhui Liu
+author organization:China Medical University
+author id:2954505893|
+author name:Hao Liu
+author organization:INSTITUTE OF AUTOMATION CHINESE ACADEMY OF SCIENCES
+author id:2806459790|
+]
+abstract:localization|cluster|optimal|empirical|accuracy|type|stn|extracted|three|division|reliable|identified|identification|sizes|surgery|validation|algorithm|respectively|based|multiunit|background|method|work|dbs|methods|samples|input|stereotactic|selection|field|provide|unsupervised|algorithm|neurophysiological|obtained|dhc|valuable|functional|regions|activity|gabased|dv|local|result|routine|found|feature|get|bilateral|trajectory|compared|genetic|patients|dorsoventral|abstract|conclusions|brain|single|several|results|showed|dataset|findings|mm|assessment|features|dbs|hierarchical|surgical|robots|potential|representative|selected|group|combination|mm|microelectrode|including|objective|unit|measure|fgs|background|mer|methods|divisive|dorsal|deep|critical|rather|borders|divided|show|recording|assistance|electrode|relies|along|indexes|result|mers|universal|stimulation|highly|identify|groups|automatic|neurosurgeons|target|performance|pd|ventral|consists|achieved|datasets|clustering|step|signal|presents
+venue name:Computer Methods and Programs in Biomedicine
+venue id:138959710
+venue type:J
+document type:Journal
+study fields:Hierarchical clustering|Computer vision|Deep brain stimulation|Dorsum|Feature selection|Neurophysiology|Pattern recognition|Computer science|Artificial intelligence|Local field potential|Cluster analysis|Genetic algorithm
+references:2018713381|2026892527|2040533152|2086247534|2087177425|2090957273|2113586398|2118246710|2130740043|2132795055|2150031358|2178957972|2501483506|2561648699
+
+
+id:1514026545
+title:RM-MAC: A routing-enhanced multi-channel MAC protocol in duty-cycle sensor networks
+year:2015
+author information:[
+author name:Ye Liu
+author organization:Southeast University
+author id:2633075216|
+author name:Hao Liu
+author organization:Southeast University
+author id:2721931465|
+author name:Qing Yang
+author organization:Montana State University
+author id:2628316931|
+author name:Shaoen Wu
+author organization:Ball State University
+author id:2197666421|
+]
+abstract:multichannel|select|channel|reliable|interference|terms|based|require|mac|traffic|among|broadcast|multichannel|wakingup|access|independent|delaysensitive|multihop|endtoend|range|networks|routing|supports|muchmac|mechanism|deficient|address|efficient|loads|sensors|transmissions|efficiently|operation|data|achieves|polling|transmissions|results|traffic|including|significant|resists|important|external|rmmac|ripple|sensor|present|support|show|inherently|media|crosslayer|unicast|routingenhanced|coordinately|times|parallel|provides|schedules|supporting|rmmac|allows|wide|control|also|improvement|nodes|simulation|due|timely|wireless|information|existing|applications
+venue name:International Conference on Communications
+venue id:1130451194
+venue type:C
+document type:Conference
+study fields:Key distribution in wireless sensor networks|Multiple Access with Collision Avoidance for Wireless|Media access control|Computer science|Broadcasting (networking)|Computer network|Wireless Routing Protocol|Mobile wireless sensor network|Unicast|Wireless sensor network|Distributed computing
+references:1506913041|2012600624|2014550373|2036750863|2053664276|2059950942|2095186358|2104015834|2118921653|2120145688|2127552607|2132823273|2135505702|2140248117|2144017041|2156836281|2170044052
+
+
+id:1969434581
+title:An Appointment Based MAC Protocol for Wireless Sensor Networks
+year:2012
+author information:[
+author name:Hao Liu
+author organization:Southeast University
+author id:2709451704|
+author name:Fulong Jiang
+author organization:Southeast University
+author id:2713448904|
+author name:Guoliang Yao
+author organization:Southeast University
+author id:2688213326|
+]
+abstract:leading|macs|improves|channel|degradation|appointment|experimental|protocol|transmission|terms|enable|protocols|results|traffic|energy|based|abmac|efficiency|batch|pay|comparing|contention|propose|mac|fusion|proposed|effect|sensor|networks|little|scheme|scheduled|achieve|overhead|latency|pattern|overcome|show|cycle|communications|current|common|low|asynchronous|xmac|pattern|power|senders|manytoone|multiple|better|efficiency|several|senders|performance|duty|attention|wireless
+venue name:Cyber-Enabled Distributed Computing and Knowledge Discovery
+venue id:1131680737
+venue type:C
+document type:Conference
+study fields:Asynchronous communication|Key distribution in wireless sensor networks|Multiple Access with Collision Avoidance for Wireless|Wireless|Wireless distribution system|Computer science|Computer network|Real-time computing|Throughput|Wi-Fi array|Wireless sensor network
+references:1506913041|1974583560|1976889764|2110361884|2132823273|2141825620|2150039965|2159013099|2165677640|2168606903
+
+
+id:1991488810
+title:VLA-MAC: A Variable Load Adaptive MAC Protocol for Wireless Sensor Networks
+year:2009
+author information:[
+author name:Guoliang Yao
+author organization:Southeast University
+author id:2227488430|
+author name:Hao Liu
+author organization:Southeast University
+author id:2656831013|
+author name:Hao Chen
+author organization:Southeast University
+author id:2673450197|
+author name:Longxing Shi
+author organization:Southeast University
+author id:2680612479|
+]
+abstract:measured|transmits|alleviate|packets|listen|via|protocol|high|problem|saves|online|vlamac|unlike|results|utilized|energy|traffic|based|efficiency|period|accumulation|need|mac|removing|adjust|letter|sensor|style|burst|adjustment|achieve|latency|according|show|networks|adaptive|protocol|current|load|low|unnecessary|dutycycle|also|performance|conditions|simulation|condition|variable|online|obvious|wireless|novel|presents|improvements
+venue name:IEICE Transactions on Communications
+venue id:2493627025
+venue type:J
+document type:Journal
+study fields:Wireless network|Detection theory|Dynamic load testing|Computer science|Sensor array|Network packet|Computer network|Latency (engineering)|Packet switching|Wireless sensor network
+references:2112030268|2132694969|2136086557|2159013099|2165677640|2169354478
+
+
+id:2001526601
+title:An Energy-Efficient Asynchronous MAC for Bulk-Data Collection in Wireless Sensor Networks
+year:2013
+author information:[
+author name:Fulong Jiang
+author organization:Southeast University
+author id:2713448904|
+author name:Hao Liu
+author organization:Southeast University
+author id:2709451704|
+]
+abstract:multichannel|access|data|simulation|channel|stateoftheart|protocol|problem|largely|results|new|similar|inefficiency|tdma|wakeup|collection|develop|schemes|propose|mac|unscheduled|ondemand|sensor|networks|bulk|allow|scheme|latency|overcome|show|routingenhanced|collecting|sleep|adaptive|consuming|transform|asynchronous|reduces|mechanism|assignment|dutycycle|energy|fashion|dutycycling|single|schedule|bulkdata|wireless|avoid
+venue name:Cyber-Enabled Distributed Computing and Knowledge Discovery
+venue id:1131680737
+venue type:C
+document type:Conference
+study fields:Multiple Access with Collision Avoidance for Wireless|Key distribution in wireless sensor networks|Asynchronous communication|Media access control|Computer science|Packet loss|Computer network|Real-time computing|Time division multiple access|Wireless sensor network|Channel allocation schemes
+references:1976889764|2102372792|2105749254|2132823273|2140987300|2148239975|2159013099
+
+
+id:2011313134
+title:Optimal MISO secrecy beamforming via quasi-convex programming with rank-one transmit covariance guarantee
+year:2010
+author information:[
+author name:Ling Tang
+author organization:Southeast University
+author id:2723421556|
+author name:Hao Liu
+author organization:Southeast University
+author id:2709038330|
+author name:Jianhui Wu
+author organization:Southeast University
+author id:2719179907|
+]
+abstract:optimal|channel|output|presence|transmitter|algorithm|based|receiver|thus|efficiently|input|concealing|difference|obtained|covariance|k|matrix|capacity|search|nonconvex|known|maxmin|implementations|efficient|eavesdroppers|computation|single|accuracy|rankone|maximum|cannot|information|minimum|channels|solved|eavesdroppers|transmission|maximizes|communication|guarantees|always|finite|proposes|guaranteed|mutual|quasiconvex|leads|critical|equipped|paper|secrecy|rate|beamforming|achievable|studies|miso|practical|multiple|transmit|also|message|formulated|communicating|step|user|antenna
+venue name:International Conference on Wireless Communications and Mobile Computing
+venue id:1131534676
+venue type:C
+document type:Conference
+study fields:Beamforming|Transmitter|Mathematical optimization|Computer science|Secrecy|Communication channel|Mutual information|Covariance matrix|Convex optimization|Covariance
+references:1819333753|1991614769|2030546921|2043769961|2063773941|2072563372|2104562009|2130334496|2133406100|2134841917|2135585435|2144007657|2148124193|2156255878
+
+
+id:2036906608
+title:Distributed Congestion Mitigation and Medium Access in Duty Cycling Wireless Sensor Networks
+year:2014
+author information:[
+author name:Hao Liu
+author organization:Southeast University
+author id:2655139304|
+author name:Ye Liu
+author organization:Southeast University
+author id:2633570410|
+]
+abstract:preamble|channel|cycling|approach|packets|investigates|evaluation|introduced|telosb|energy|based|efficiency|using|impact|deteriorate|contention|schemes|packet|priority|propose|congested|traditional|delay|happening|networks|access|scheme|achieve|experiments|transmission|facts|long|drain|rapidly|testbed|get|mechanism|key|may|mitigate|efficient|approaches|aggravate|efficiently|congestion|first|queue|accumulated|high|transmission|problems|results|amplified|batch|chances|proposed|sensor|adjustment|show|random|paper|duty|design|allows|length|terminal|channel|better|nodes|performance|due|wireless|window
+venue name:International Journal of Distributed Sensor Networks
+venue id:64417657
+venue type:J
+document type:Journal
+study fields:Preamble|Packet transmission|Computer science|Efficient energy use|Queue|Network packet|Computer network|Communication channel|Duty cycling|Wireless sensor network
+references:1971903460|2037609314|2101264646|2109936326|2110361884|2132823273|2138933282|2141825620|2148239975|2150039965|2153905331|2159013099|2160512199|2168606903
+
+
+id:2054340412
+title:Performance Optimization Based on NODE-RTI Model for Wireless Sensor Nodes
+year:2008
+author information:[
+author name:Chen Fang
+author organization:Southeast University
+author id:2635099156|
+author name:Hao Liu
+author organization:Southeast University
+author id:2662911061|
+]
+abstract:resulted|period|solved|setting|high|problem|solution|model|nodes|events|generation|based|still|significant|technologies|node|sensor|functional|extension|needed|rti|proper|networks|advances|provides|power|event|make|amount|missed|consumption|noderti|proposed|wireless|compromise
+venue name:International Conference on Networking, Sensing and Control
+venue id:1164469504
+venue type:C
+document type:Conference
+study fields:Sensor node|Wireless network|Key distribution in wireless sensor networks|Wireless|Computer science|Computer network|Real-time computing|Wi-Fi array|Mobile wireless sensor network|Wireless sensor network|Energy consumption
+references:2055746889|2075086017|2110936068|2121782351|2158443804
+
+
+id:2081902121
+title:A Phase-divided TCP Congestion Avoidance Arithmetic over Wireless Networks
+year:2008
+author information:[
+author name:Guoliang Yao
+author organization:Southeast University
+author id:2690947661|
+author name:Hao Liu
+author organization:Southeast University
+author id:2662911061|
+]
+abstract:named|robustly|simulation|decide|second|improved|bottleneck|modified|buffer|throughput|results|connections|phase|based|circumstances|preserved|method|proposes|avoidance|slowly|estimation|throughput|parameters|relative|tcp|sub|scheme|link|show|two|increases|partition|paper|divides|make|fairness|linear|failures|introduce|phases|length|also|rapidly|yolanda|wireless|window|congestion|analytic|first|improvements
+venue name:International Conference on Networking, Sensing and Control
+venue id:1164469504
+venue type:C
+document type:Conference
+study fields:H-TCP|TCP Westwood plus|CUBIC TCP|Computer science|Computer network|Zeta-TCP|TCP acceleration|TCP tuning|TCP global synchronization|TCP Friendly Rate Control|Distributed computing
+references:1894154420|2097851952|2101182788|2101214690|2110322370|2118760020|2129150997|2257924330
+
+
+id:2095186358
+title:SC-MAC: A sender-centric asynchronous MAC protocol for burst traffic in wireless sensor networks
+year:2012
+author information:[
+author name:Ye Liu
+author organization:Southeast University
+author id:2636751603|
+author name:Fulong Jiang
+author organization:Southeast University
+author id:2651216708|
+author name:Hao Liu
+author organization:Southeast University
+author id:2656831013|
+author name:Jianhui Wu
+author organization:Southeast University
+author id:2692237359|
+]
+abstract:latency|cluster|introduces|simulation|stateoftheart|loads|optimization|energy|order|period|large|demand|propose|mac|node|light|simultaneously|networks|compare|simultaneous|overhead|multihop|collisionfree|networks|cycle|mechanism|feature|causes|scmac|event|minimizes|minimize|one|severe|data|achieves|protocol|transmission|amounts|eventdriven|results|traffic|new|sink|head|tree|often|significant|sensor|burst|correlated|sources|latency|show|protocol|asynchronous|extra|designed|delivery|idle|introduce|multiple|transmit|consumption|also|structure|environment|sensors|performance|detected|duty|wireless|time|significantly|applications
+venue name:Asia-Pacific Conference on Communications
+venue id:2624612140
+venue type:C
+document type:Conference
+study fields:Asynchronous communication|Multiple Access with Collision Avoidance for Wireless|Key distribution in wireless sensor networks|Data transmission|Computer science|Latency (engineering)|Duty cycle|Computer network|Real-time computing|Energy consumption|Wireless sensor network
+references:1990715400|1991106893|2102372792|2110361884|2132549513|2135505702|2138409789|2141825620|2144017041|2150039965|2168606903|2401034535
+
+
+id:2126880192
+title:An adaptive energy-efficient and low-latency MAC protocol for wireless sensor networks
+year:2010
+author information:[
+author name:Hao Liu
+author organization:Southeast University
+author id:2656831013|
+author name:Guoliang Yao
+author organization:Southeast University
+author id:2227488430|
+author name:Jianhui Wu
+author organization:Southeast University
+author id:2676127493|
+author name:Longxing Shi
+author organization:Southeast University
+author id:2680612479|
+]
+abstract:latency|measured|used|alleviate|packets|listen|protocol|high|action|throughput|vlamac|results|case|energy|traffic|reduce|efficiency|accumulation|packet|mac|bursts|traditional|proposed|provide|sensor|networks|conditions|sensor|higher|adjustment|achieve|latency|show|adaptive|load|low|variabletrafficload|approaches|transmit|unnecessary|also|consumption|nodes|conditions|simulation|decreases|online|achieved|wireless|removes
+venue name:Journal of Communications and Networks
+venue id:173102057
+venue type:J
+document type:Journal
+study fields:Wireless network|Latency (engineering)|Efficient energy use|Computer science|Computer network|Real-time computing|Latency (engineering)|Packet switching|Throughput|Energy consumption|Wireless sensor network
+references:2118498353|2118921653|2121255383|2122432011|2129232814|2137486085|2150039965|2159013099|2160512199|2165677640|2169354478|2171863263
+
+
+id:2132848378
+title:LC-MAC: An Efficient MAC Protocol for the Long-Chain Wireless Sensor Networks
+year:2011
+author information:[
+author name:Chen Fang
+author organization:Southeast University
+author id:2252153098|
+author name:Hao Liu
+author organization:Southeast University
+author id:2671984400|
+author name:LiLi Qian
+author organization:Southeast University
+author id:2098769056|
+]
+abstract:forwards|booking|called|data|simulation|achieves|manner|without|advance|sacrificing|protocol|smac|transmitting|longchain|results|order|energy|reduce|new|sleeps|efficiency|upstream|significant|packet|mac|node|lcmac|node|delay|throughput|sensor|burst|intelligently|present|sync|send|frame|access|scheduled|endtoend|longchain|show|media|immediately|exploits|network|across|along|scenario|mechanism|route|delivery|relay|multiple|downstream|dutycycle|improvement|efficiency|super|schedule|nodes|wakes|hops|travel|upcoming
+venue name:Communications and Mobile Computing
+venue id:1131239835
+venue type:C
+document type:Conference
+study fields:Media access control|Computer science|Network packet|Computer network|Real-time computing|Schedule|Throughput|sync|Ring network|Wireless sensor network|Relay
+references:2118498353|2118921653|2122432011|2129232814|2130979451|2131600161|2135505702|2136086557|2159013099|2165677640|2169354478|2171863263
+
+
+id:2334784231
+title:A Non Destructive Interference based receiver-initiated MAC protocol for wireless sensor networks
+year:2016
+author information:[
+author name:Ye Liu
+author organization:Southeast University
+author id:2633075216|
+author name:Qi Chen
+author organization:Montana State University
+author id:2308435846|
+author name:Hao Liu
+author organization:Southeast University
+author id:2721931465|
+author name:Chen Hu
+author organization:Southeast University
+author id:2697501910|
+author name:Qing Yang
+author organization:Montana State University
+author id:2628316931|
+]
+abstract:called|synchronous|interference|loads|terms|dissemination|rendezvous|nondestructive|reliability|energy|singlehop|distributed|packet|mac|receivers|traffic|increased|primitive|simultaneous|concurrent|networks|low|variety|enables|efficient|nondestructive|trigger|many|data|achieves|used|research|transmissions|high|transmission|widespread|finish|routingfree|results|traffic|new|evaluation|nondestructive|ensure|interference|capture|constructive|collection|achieving|exploited|effect|sensor|demonstrate|interference|present|attract|latency|show|unicast|relies|backcast|studies|receiverinitiated|senders|middleware|delivery|recently|multiple|also|consumption|performance|attention|wireless|ndimac|integrates
+venue name:Consumer Communications and Networking Conference
+venue id:1136042413
+venue type:C
+document type:Conference
+study fields:Key distribution in wireless sensor networks|Multiple Access with Collision Avoidance for Wireless|Data transmission|Computer science|Latency (engineering)|Network packet|Computer network|Real-time computing|Latency (engineering)|Unicast|Wireless sensor network
+references:1991106893|2018336881|2019610001|2078570019|2091319069|2102372792|2110361884|2116878889|2117103333|2132549513|2132823273|2140248117|2141825620|2146971820|2149429999|2150039965|2160343401|2163592558|2401034535
+
+
+id:2594294640
+title:Cross-layer cooperative multichannel medium access for internet of things
+year:2018
+author information:[
+author name:Ye Liu
+author organization:Southeast University
+author id:2633075216|
+author name:Chenglin Fan
+author organization:Montana State University
+author id:2950500602|
+author name:Hao Liu
+author organization:Southeast University
+author id:2721931465|
+author name:Qing Yang
+author organization:Montana State University
+author id:2628316931|
+author name:Shaoen Wu
+author organization:Ball State University
+author id:2197666421|
+]
+abstract:introduces|channel|access|problem|overflows|terms|evaluated|models|based|successfully|multichannel|devices|things|avoidance|simulations|quality|delay|even|analyze|intelligently|theory|mitigates|access|relaying|neighboring|long|orthogonal|contentions|deteriorates|firstly|mechanism|combinatorics|enables|performance|enabling|address|caused|great|extensive|interconnected|operation|queue|channels|wireless|small|communicate|access|networking|challenging|ccmma|high|multichannel|wake|overflow|attracts|huge|dynamic|solutions|results|intensive|traffic|given|incoming|need|significant|establish|dense|collision|contentions|proposed|leads|medium|relatively|internet|region|since|problems|show|medium|routingenhanced|iot|network|provides|viable|crosslayer|sensing|amount|lowpower|cooperative|effectively|multiple|also|improvement|devices|recently|existing|carrier|performance|nodes|queues|service|attention|avoid
+venue name:Peer-to-peer Networking and Applications
+venue id:177487720
+venue type:J
+document type:Journal
+study fields:Cross layer|Wireless network|Computer science|Internet of Things|Queue|Quality of service|Computer network|Communication channel|Collision|Network performance|Distributed computing
+references:182833728|1506913041|1573358362|1832096620|1896770059|1920649228|1977012208|1977824522|1979493600|1983136955|1990417591|1995875503|2007877577|2032924581|2034088535|2059950942|2072641892|2086402015|2094124335|2099913025|2102372792|2110361884|2114460660|2117103333|2118921653|2122881565|2126311411|2132823273|2156836281|2160343401|2162742838|2170044052|2171526582|2490265015
+
+
+id:2903268680
+title:A Light CNN based Method for Hand Detection and Orientation Estimation
+year:2018
+author information:[
+author name:Li Yang
+author organization:Southeast University
+author id:2903337676|
+author name:Zhi Qi
+author organization:Southeast University
+author id:2902169434|
+author name:Zeheng Liu
+author organization:Southeast University
+author id:2902726951|
+author name:Shanshan Zhou
+author organization:Southeast University
+author id:2903376592|
+author name:Yang Zhang
+author organization:Southeast University
+author id:2902734687|
+author name:Hao Liu
+author organization:Southeast University
+author id:2656831013|
+author name:Jianhui Wu
+author organization:Southeast University
+author id:2572595145|
+author name:Longxing Shi
+author organization:Southeast University
+author id:2680612479|
+]
+abstract:employ|projections|hands|accurate|reaches|robustly|axes|outperforming|accuracy|changing|improved|context|estimate|tasks|order|models|still|using|method|propose|size|light|conditions|titan|object|average|cnn|methods|achieve|blur|two|bounding|across|orthogonal|feature|hand|architecture|detection|robust|set|problem|many|expense|framework|fast|orientation|hand|information|levels|features|essential|generates|precision|cluttered|enclosing|challenging|horizontal|nvidia|high|modified|different|computational|including|maps|evaluated|hand|hci|fusion|estimation|improve|detecting|support|topdown|fps|extractor|detect|resolutions|vertical|box|network|mobilenet|along|company|applications|oxford|sizes|orientation|recover|motion|previous|ssd|yet|also|exactly|manage|efficiency|various|step|uses|location|significantly|integrates
+venue name:International Conference on Pattern Recognition
+venue id:1131605622
+venue type:C
+document type:Conference
+study fields:Object detection|Computer vision|Pattern recognition|Convolution|Computer science|Motion blur|Orthogonality|Feature extraction|Robustness (computer science)|Artificial intelligence|Detector|Minimum bounding box
+references:2000761799|2005496958|2028471190|2063362452|2132023035|2136900990|2137401668|2168356304|2193145675|2513258067|2557728737|2560934276|2565639579|2572745118|2579985080|2608527876|2612445135|2613718673|2736668798
+
+
+id:2950275009
+title:An embedded implementation of CNN-based hand detection and orientation estimation algorithm
+year:2019
+author information:[
+author name:Li Yang
+author organization:Southeast University
+author id:2903337676|
+author name:Zhi Qi
+author organization:Southeast University
+author id:2902169434|
+author name:Zeheng Liu
+author organization:Southeast University
+author id:2902726951|
+author name:Hao Liu
+author organization:Southeast University
+author id:2656831013|
+author name:Ming Ling
+author organization:Southeast University
+author id:2951282045|
+author name:Longxing Shi
+author organization:Southeast University
+author id:2680612479|
+author name:Xinning Liu
+author organization:Southeast University
+author id:2951737668|
+]
+abstract:employ|projections|hands|accurate|reaches|robustly|axes|outperforming|accuracy|changing|building|improved|realtime|context|estimate|tasks|order|algorithm|models|still|using|meets|method|propose|size|light|reached|processing|conditions|titan|object|average|cnn|methods|achieve|blur|two|bounding|across|orthogonal|feature|embedded|implementations|hand|architecture|processing|detection|robust|set|problem|many|expense|framework|fast|orientation|jetson|hand|information|levels|features|essential|generates|precision|available|network|cluttered|enclosing|challenging|deploy|horizontal|high|optimize|basically|modified|different|computational|including|maps|evaluated|hand|modules|hci|fusion|estimation|improve|detecting|support|topdown|code|nvidia|fps|extractor|detect|resolutions|vertical|box|platform|speed|network|mobilenet|along|company|applications|oxford|sizes|orientation|recover|motion|previous|ssd|implementation|yet|also|requirement|exactly|manage|efficiency|various|step|uses|location|significantly|integrates
+venue name:Machine Vision Applications
+venue id:1155500043
+venue type:C
+document type:Conference
+study fields:Feature fusion|Computer science|Orthogonality|Implementation|Robustness (computer science)|Artificial intelligence|Minimum bounding box|Computer vision|Object detection|Pattern recognition|Motion blur|Algorithm|Extractor
+references:2000761799|2005496958|2028471190|2063362452|2132023035|2136900990|2137401668|2155893237|2168356304|2193145675|2513258067|2515751428|2557728737|2560934276|2565639579|2587872917|2608527876|2612445135|2613718673|2736668798|2798742349|2950800384
+

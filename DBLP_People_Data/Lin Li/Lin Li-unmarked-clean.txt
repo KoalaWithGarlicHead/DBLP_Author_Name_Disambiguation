@@ -1,0 +1,2270 @@
+
+id:150354051
+title:Suggestions for Fresh Search Queries by Mining Mircoblog Topics
+year:2013
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Xing Chen
+author organization:Wuhan University of Technol
+author id:2610397698|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+]
+abstract:authenticated|query|quickly|experimental|approach|users|soon|source|engines|context|accurately|propose|web|rely|utilize|microblog|word|partial|much|compare|methods|quality|search|offered|get|evidences|mine|ordered|set|need|topics|suggestion|words|suggest|possible|queries|help|information|logs|dataset|statistics|suggestions|websearch|historical|express|clearly|source|tweets|sina|frequency|topics|high|major|starts|different|logs|potential|results|selected|new|need|query|difficult|mining|users|relevant|extract|proposed|typing|final|topic|demonstrate|collect|suggesting|leverage|words|network|conclusion|effective|candidate|engine|mircoblog|selecting|effectiveness|determine|social|effectively|match|completions|consists|comment|fresh|user
+venue name:Social Informatics
+venue id:1188440540
+venue type:C
+document type:Conference
+study fields:Query optimization|Data mining|Web search query|Query language|Query expansion|Information retrieval|Computer science|Sargable|Web query classification|Ranking (information retrieval)|Spatial query
+references:1497288441|1564094940|1979560453|2011373486|2018838261|2061296752|2070812453|2098326081|2099966806|2101196063|2111299261|2116279572|2124814993|2135843591|2135940730|2139273454|2145050101|2153190022|2170741935|2171743956
+
+
+id:183954864
+title:The Media Feature Analysis of Microblog Topics
+year:2013
+author information:[
+author name:Xing Chen
+author organization:Wuhan University of Technol
+author id:2705147963|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Shili Xiong
+author organization:Communication University of China
+author id:2493506936|
+]
+abstract:authenticated|select|microblog|whole|evaluation|reflect|appeared|model|text|order|grows|reduce|give|based|period|considering|conclude|active|analysis|extraction|exist|latent|microblog|microblogs|semantic|respectively|datasets|trainning|lot|feature|outdated|situation|topics|replaced|many|exploring|chinese|certain|firstly|data|source|tweets|characteristics|research|sina|topics|microblogging|late|find|method|dirichlet|starts|topic|allocation|new|studying|ideal|users|especially|month|topic|crawling|present|diffierent|rather|twitter|lda|media|redundant|related|observations|studied|also|evolution|peak|english|interval|due|service|short|time|articles|upcoming
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Data source|World Wide Web|Latent Dirichlet allocation|Social media|Authentication|Crawling|Information retrieval|Computer science|Popularity|Microblogging|Topic model|Pattern recognition (psychology)
+references:2000200507|2047443612|2087665422|2117410972|2134746982
+
+
+id:560627126
+title:Video Key Frame Extraction for Semantic Retrieval
+year:2013
+author information:[
+author name:Xian Zhong
+author organization:Huazhong University of Science and Technolgy
+author id:2528844218|
+author name:Yan-Sheng Lu
+author organization:Huazhong University of Science and Tech
+author id:2646557375|
+author name:Lin Li
+author organization:Wuhan University
+author id:2651041295|
+]
+abstract:use|frames|main|whole|used|issues|three|research|number|retrieval|extraction|semanticbased|topic|large|frames|work|extraction|becomes|important|unit|extract|provide|difference|obtained|completely|basic|support|frame|accurately|semantic|technical|divided|part|video|hot|retrieval|content|shot|paper|top|feature|segmentation|supporting|key|process|emergence|makes|lacking|contentbased|information|represent|presents
+venue name:international conference on Information Computing and Applications
+venue id:2756048078
+venue type:C
+document type:Conference
+study fields:Reference frame|Graph center|Computer vision|Video retrieval|Information retrieval|Segmentation|Computer science|Feature extraction|Video tracking|Artificial intelligence|Key frame|Video compression picture types
+references:1989510016|2033507407|2061833242|2088670710|2109506130|2171210830
+
+
+id:976126684
+title:Training Data of City Tunnel Traffic Situation Awareness
+year:2013
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2651041295|
+author name:Weiguo Wu
+author organization:Wuhan University of Technology
+author id:2717509847|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2661217057|
+]
+abstract:data|use|awareness|heterogeneous|mainly|problem|awareness|discusses|complex|traffic|realize|group|using|environmental|multisource|need|prerequisite|methods|monitoring|background|solve|sensor|finally|deal|strong|city|according|association|training|learning|video|characteristic|network|aware|paper|systems|situation|mine|set|determine|groups|many|great|tunnel|corresponding|build|machine|associated|consists|accumulated|tunnel
+venue name:international conference on Information Computing and Applications
+venue id:2756048078
+venue type:C
+document type:Conference
+study fields:Training set|Data mining|Monitoring system|Situation awareness|Computer science|Support vector machine|Association rule learning|Traffic awareness|Environmental data|Hidden Markov model
+references:2142504438|2157977660|2166559705|2279308123|2293636571
+
+
+id:1517623124
+title:MARS: A multi-aspect Recommender system for Point-of-Interest
+year:2015
+author information:[
+author name:Xin Li
+author organization:University of Science  Technology of China
+author id:2983370557|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+author name:Enhong Chen
+author organization:University of Science and Technology of
+author id:2136372366|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+]
+abstract:turnover|recommendation|overlooked|recommendations|lbsns|terms|review|case|give|based|using|dealing|collaborative|preference|merchant|poi||system|provide|adopt|difference|pervasive|systems|networking|utility|emerged|smart|exploits|across|systems|customers|based|social|preferences|alongside|business|multiaspect|pointofinterests|theory|component|organization|exists|novel|first|use|several|experience|mainly|reviews|function|besides|locationbased|regardless|scenarios|given|filtering|commonly|often|real|mining|overall|present|allow|additional|values|show|aspects|learning|gpsenabled|integrated|provides|ratings|studies|recommender|introduce|multiple|also|typical|opinions|merchants|user|location|existing
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Recommender system|World Wide Web|User experience design|Social network|Collaborative filtering|Computer science|Server|Exploit|Preference learning|Point of interest|Database
+references:2029542641|2054141820|2101409192|2160409620|2666600683
+
+
+id:1531938654
+title:Query Recommendation Using Large-Scale Web Access Logs and Web Page Archive
+year:2008
+author information:[
+author name:Lin Li
+author organization:University of Tokyo
+author id:2619327808|
+author name:Shingo Otsuka
+author organization:National Institute for Materials Science, Tsukuba,Japan
+author id:2950915618|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:expanding|communitybased|query|recommendation|experimental|extracted|users|three|conventional|terms|based|thus|satisfied|past|nounbased|input|system|web|urlbased|evaluate|access|quality|search|top|feature|initial|strategies|queries|help|future|stored|information|evidence|documents|source|suggests|different|results|logs|like|query|users|improving|extract|focused|spaces|page|present|largescale|one|sources|additional|show|effective|related|engine|ranked|assisting|thesaurus|argue|approaches|various
+venue name:Database and Expert Systems Applications
+venue id:1192664773
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|RDF query language|World Wide Web|Query language|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|Spatial query|Database
+references:1558776135|1972645849|1979459060|1982896842|1998196377|2041179002|2088123540|2099548400|2115205574|2154136278|2626304854
+
+
+id:1550789463
+title:Towards efficient dominant relationship exploration of the product items on the web
+year:2007
+author information:[
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Lin Li
+author organization:University of Tokyo
+author id:2619327808|
+author name:Botao Wang
+author organization:University of Tokyo
+author id:2306260332|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:extensive|complementary|engines|rank|recent|efficiency|natural|devised|work|methods|propose|traditional|system|web|scheme|experiments|believe|prevalence|search|current|web|structured|relationship|engines|explore|dominant|strategies|data|querying|consisting|efficiently|cannot|exists|information|websites|ranking|compressed|databases|supported|encode|data|process|good|employed|pages|updating|find|dynamic|illustrate|graph|efficient|useful|facilitate|integrated|paper|define|effectiveness|effectively|structure|ranking|yields|online|relational|hyperlinks
+venue name:National Conference on Artificial Intelligence
+venue id:1184914352
+venue type:C
+document type:Conference
+study fields:Relational database|Web page|Computer science|Search-oriented architecture|Hyperlink|Artificial intelligence|Dynamic web page|Web search query|World Wide Web|Information retrieval|Ranking|Data model|Machine learning
+references:1553019137|1584003909|1973501242|1992963068|2000055640|2005314985|2012449655|2021955908|2026413985|2049864887|2096547754|2104557718|2118269922|2118322263|2121612399|2127782281|2150693557|2158454296|2170188482
+
+
+id:1599211320
+title:A Rule-Based Recommendation for Personalization in Social Networks
+year:2014
+author information:[
+author name:Rui Zhang
+author organization:Wuhan University
+author id:2654751095|
+author name:Yueqi Zhou
+author organization:Wuhan University Of Technol
+author id:2223084567|
+author name:Lin Li
+author organization:Wuhan University
+author id:2648597081|
+author name:Chengming Zou
+author organization:Wuhan University of Technol
+author id:2679059255|
+]
+abstract:reveal|data|interactive|recommendation|used|recommendations|conducting|rulebased|different|reflects|method|abundant|strategies|behaviors|personal|gather|individuals|real|activities|relevant|extract|present|shared|experiments|show|networks|recommenders|effective|supports|make|according|preferences|identify|social|also|data|online|information|interests
+venue name:Asia-Pacific Services Computing Conference
+venue id:1167554496
+venue type:C
+document type:Conference
+study fields:World Wide Web|Rule-based system|Social network|Computer science|Personalization
+references:1596258944|1967507014|2017102965|2057169561|2073415627|2092912084|2107569009|2117831564|2119343909|2122997783|2153889650|2164361866
+
+
+id:1859343538
+title:Modeling user hidden navigational behavior for Web recommendation
+year:2011
+author information:[
+author name:Guandong Xu
+author organization:Victoria University
+author id:2482500164|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Yanchun Zhang
+author organization:Victoria University
+author id:2100438523|
+author name:Xun Yi
+author organization:Victoria University
+author id:2129912041|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:usage|recommendation|determination|recommendations|approach|via|problem|context|model|optimizing|exhibit|inferring|promising|based|collaborative|probability|preference|understand|preference|underlying|facilitating|propose|adapted|latent|latent|provide|web|contents|even|interpretation|analysis|associations|semantic|discovered|access|inference|log|achieve|another|analyses|pages|distribution|experiments|variety|clicking|discovering|preferences|expression|learn|could|inference|data|lead|encountered|advantages|efficiently|information|interests|dataset|techniques|novel|unseen|data|semantic|main|used|space|employed|preferable|reference|pages|navigational|dirichlet|tasksimplex|new|making|comparison|commonly|might|patterns|capture|conducted|real|users|important|sequence|task|infer|usagebased|identifying|locate|hidden|analysis|lda|show|training|learning|investigate|allocation|provides|designers|capabilities|effectively|patterns|also|target|better|existing|performance|clicks|user|base
+venue name:Web Intelligence and Agent Systems: An International Journal
+venue id:152598483
+venue type:J
+document type:Journal
+study fields:Data mining|Web mining|Semantic Web Stack|Web page|Computer science|Web modeling|Artificial intelligence|Social Semantic Web|Information retrieval|Data Web|Web navigation|Web service|Machine learning
+references:189016807|299861242|1504239663|1559119672|1570104120|1593088422|1596232131|1608295134|1655772330|1880262756|1971040550|1989534515|2012516036|2013453370|2049455633|2053069480|2058437249|2060275317|2085937320|2087221762|2111180285|2134731454|2134737843|2141951313|2147152072|2158454296|2171836785
+
+
+id:2014975478
+title:Random walk based rank aggregation to improving web search
+year:2011
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Guandong Xu
+author organization:Victoria University
+author id:2482500164|
+author name:Yanchun Zhang
+author organization:Victoria University
+author id:2100438523|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:pageranklike|empirical|competition|three|number|problem|retrieval|concurrently|rank|specifically|wins|using|item|steps|aggregated|propose|quality|traditional|system|provide|web|returns|aid|items|methods|affect|pursuit|given|quality|pages|result|search|mechanism|socalled|mechanism|evidences|address|initial|queries|single|lists|framework|ranking|rounds|several|retrieved|clearly|manner|last|pages|aggregating|graph|first|different|results|experimental|query|sort|finding|list|users|graph|ranks|proposed|revise|improve|lists|page|demonstrate|needed|according|show|aggregation|random|items|related|engine|parallel|competitor|considers|processes|apply|also|calculating|generic|existing|suggested|serial|build|consists|serially|strategy|forms|walk
+venue name:Knowledge Based Systems
+venue id:10169007
+venue type:J
+document type:Journal
+study fields:Data mining|Web page|Computer science|Web query classification|Artificial intelligence|Jump search|Web search query|Search engine|Information retrieval|Semantic search|Beam search|Search analytics|Machine learning
+references:1511363262|1532325895|1550469973|1562079279|1622454088|2000300218|2028709054|2031888594|2041179002|2051834357|2052191066|2056714990|2063296656|2075377384|2079694973|2092656548|2099548400|2105981469|2108509742|2109436673|2115205574|2144882256|2146081744|2147872511|2153576228|2154481380|2167649100|2293888960
+
+
+id:2026572232
+title:A feature-free search query classification approach using semantic distance
+year:2012
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2688905513|
+author name:Guandong Xu
+author organization:Victoria University
+author id:2482500164|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:counts|experimental|taxonomy|stateoftheart|approach|observed|number|suffer|measures|easily|rank|usually|based|inability|using|large|distance|containing|require|flexibility|classification|propose|utilizes|classifying|categories|provide|rely|web|analyze|semantic|study|frequently|respectable|adaptive|consuming|search|known|feature|categories|precision|popular|set|may|caused|queries|highcost|extensive|accuracy|machine|information|performs|data|use|features|high|pages|updating|outdated|dynamic|different|obtain|attractive|solutions|adapt|query|insufficient|featurefree|external|name|topic|page|since|sources|distance|additional|competitively|changes|show|learning|training|inherently|similarity|engine|relabeling|retraining|make|effectiveness|amount|determine|estimated|approaches|target|conventional|conduct|content|time|category
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Data mining|Web page|Computer science|Web query classification|Artificial intelligence|Training set|Semantic similarity|Web search query|Search engine|Semantic search|Information retrieval|Web content|Machine learning
+references:1481308070|1972645849|1985182453|1986475174|1995262888|1998196377|2002388301|2004227778|2010463775|2034927834|2036373663|2038029738|2041179002|2052191066|2053699633|2064522604|2066343754|2073853190|2091802992|2098876286|2101134969|2104217798|2106592976|2122683551|2124416056|2124658502|2140553565|2144882256|2147872511|2149393279|2156037541|2158952538|2162993204|2165897980|2171970775|2431495623
+
+
+id:2052413224
+title:User-assisted similarity estimation for searching related web pages
+year:2007
+author information:[
+author name:Lin Li
+author organization:University of Tokyo
+author id:2619327808|
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Kulwadee Somboonviwat
+author organization:University of Tokyo
+author id:2878402|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:handles|whole|favorable|supply|users|approach|three|lowers|adaptively|measures|problem|estimate|rank|based|google|similar|using|subjectivity|subgraphs|inlinks|whose|dynamically|web|flexible|utilize|implicit|ordering|given|experiments|pages|originating|assistance|categories|relatedness|set|connected|similarities|inlink|clustering|information|novel|topical|precision|pairs|pages|hierarchical|propagate|inducing|combination|given|adjusted|sort|list|graph|outlinks|candidates|extract|measure|directory|page|demonstrate|identifying|hidden|scores|according|show|investigate|retrieving|related|similarity|parameter|definition|distances|effectively|intuitive|due|consists|user
+venue name:ACM Conference on Hypertext
+venue id:2532863000
+venue type:C
+document type:Conference
+study fields:Hierarchical clustering|Data mining|World Wide Web|HITS algorithm|User assistance|Web page|Information retrieval|Computer science|sort|Graph partition|Cluster analysis|Nearest neighbor search
+references:1972645849|1981202432|1984374364|1987777228|2005207065|2007995029|2020423193|2066636486|2072840758|2076008912|2080676333|2085950095|2085989730|2097776316|2099548400|2102931907|2117831564|2120407371|2120797124|2141075029|2151626491|2162495634
+
+
+id:2053699884
+title:Extraction and Analysis of Chinese Microblog Topics from Sina
+year:2012
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2679737829|
+author name:Xing Chen
+author organization:Wuhan University of Technol
+author id:2693805649|
+]
+abstract:microblog|number|diverse|period|grouped|depends|conclude|active|study|nowadays|outdated|indicate|relationship|explore|topics|replaced|many|tweets|tweet|meet|chinese|information|requirements|certain|data|mircoblogs|used|interpersonal|tweets|characteristics|research|sina|features|topics|late|find|starts|new|actual|including|level|widely|degree|users|especially|month|topic|crawling|present|higher|rather|aspects|twitter|medium|paper|related|observations|evolution|english|interval|service|attention|articles|microblog|properties|upcoming
+venue name:International Conference on Cloud and Green Computing
+venue id:2754925037
+venue type:C
+document type:Conference
+study fields:World Wide Web|Interpersonal communication|Social media|Crawling|Computer science|Microblogging|User interface|Multimedia
+references:1497288441|1964869462|1997358273|2000200507|2047443612|2101196063|2117410972|2121761994|2134746982
+
+
+id:2078619217
+title:A Feature-Free Flexible Approach to Topical Classification of Web Queries
+year:2011
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Guandong Xu
+author organization:Victoria University
+author id:2482500164|
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Yanchun Zhang
+author organization:Victoria University
+author id:2100438523|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:counts|experimental|taxonomy|stateoftheart|approach|observed|number|suffer|measures|rank|usually|based|inability|using|containing|flexibility|classification|propose|utilizes|categories|provide|web|rely|flexible|study|respectable|machine|search|known|feature|analyzes|categories|popular|set|may|caused|queries|accuracy|information|performs|topical|data|use|features|pages|dynamic|different|obtain|attractive|solutions|adapt|query|insufficient|featurefree|external|task|topic|page|classify|sources|additional|competitively|changes|show|frequent|learning|training|inherently|similarity|engine|make|effectiveness|determine|queries|estimated|approaches|target|conventional|conduct|content|category
+venue name:Semantics, Knowledge and Grid
+venue id:1135681269
+venue type:C
+document type:Conference
+study fields:Data mining|Web page|Computer science|Web query classification|Web modeling|Artificial intelligence|Social Semantic Web|The Internet|Web search query|Information retrieval|Web content|Semantics|Machine learning
+references:1481308070|1985182453|1986475174|1995262888|2002388301|2010463775|2034927834|2036373663|2064522604|2066343754|2073853190|2091802992|2098876286|2104217798|2122683551|2124416056|2124658502|2140553565|2147872511|2149393279|2156037541|2158952538|2162993204|2165897980|2171970775|2431495623
+
+
+id:2093696867
+title:Efficient Analyzing General Dominant Relationship Based on Partial Order Models
+year:2010
+author information:[
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Lin Li
+author organization:Department of Computer Science and Technology  Wuhan University of Technology
+author id:2859986615|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:extensive|construct|generalized|problem|connection|order|efficiency|methods|propose|remaining|concisely|partial|study|dominates|given|another|experiments|least|skyline|relationship|based|interrelated|skyline|decision|dominant|problem|strategies|one|many|p|q|framework|efficiently|dataset|data|dominate|points|parcube|dimensions|find|details|new|illustrate|query|ndimensional|basis|users|important|proposed|solve|show|point|represents|effective|said|relationship|dimension|queries|better|equal|existing|userpreference|interested
+venue name:IEICE Transactions on Information and Systems
+venue id:2486202937
+venue type:J
+document type:Journal
+study fields:Skyline|Data structure|Data mining|Computer science|Decision support system
+references:1518543119|1676985236|1973501242|2012449655|2021955908|2049864887|2052915895|2096547754|2104557718|2106742801|2109821166|2112212668|2113295349|2118269922|2121612399|2126500482|2131103246|2134644026|2142113273|2143369903|2150693557|2153516800|2155035579|2158454296|2167723076|2170188482|2171717425|2221389368
+
+
+id:2115941024
+title:An efficient approach to suggesting topically related web queries using hidden topic model
+year:2013
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Guandong Xu
+author organization:Aalborg University
+author id:2482500164|
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Peter Dolog
+author organization:Aalborg University
+author id:1122187853|
+author name:Yanchun Zhang
+author organization:Victoria University
+author id:2100438523|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:results|experimental|complementary|approach|toplisted|suffer|terms|model|usually|calculate|inferring|based|similar|lexical|steps|posterior|propose|quality|computation|input|traditional|web|formulating|determined|domain|greatly|much|appropriate|explicitly|utilizing|distribution|two|url|offline|search|web|feature|term|keywordbased|key|performance|expression|sets|initial|efficient|suggestion|suggest|queries|clicked|produce|meet|difficulties|information|organizing|implicitrelevance|novel|scores|data|suggestions|use|used|topically|source|space|features|reexpress|sufficient|directly|results|needs|widely|query|real|list|finding|users|tool|lack|expand|extract|improve|pseudorelevance|topic|suggestion|locating|hidden|scores|expandable|additional|show|effective|computing|candidate|querytoquery|related|engine|similarity|accurately|expression|affects|approaches|instead|lengths|due|corresponding|modellearning|inquiry|short|online|user
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Web search engine|Data mining|Latent Dirichlet allocation|Computer science|Web query classification|Artificial intelligence|Web search query|Search engine|Information retrieval|Domain knowledge|Spatial query|Topic model|Machine learning
+references:1531938654|1532325895|1604621732|1612003148|1847544500|1880262756|1972645849|1979809564|1991678929|1998196377|2000145992|2000270827|2000672666|2002306339|2028709054|2033540739|2040546864|2041179002|2045435172|2052191066|2055395329|2061296752|2073853190|2086751477|2092656548|2097776316|2098326081|2099548400|2101134969|2104396529|2105106523|2115205574|2117831564|2118306531|2120797124|2127314673|2128909455|2146950091|2153190022|2153249473|2154136278|2167649100|2168849694|2170324617|2171743956
+
+
+id:2118306531
+title:Finding Related Search Engine Queries by Web Community Based Query Enrichment
+year:2010
+author information:[
+author name:Lin Li
+author organization:University of Tokyo
+author id:2619327808|
+author name:Shingo Otsuka
+author organization:National Institute for Materials Science, Tsukuba,Japan
+author id:2950915618|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:called|experimental|accessed|contentignorant|terms|estimate|usually|based|alternative|enriched|lower|noun|accurately|community|japanese|propose|quality|rely|web|much|shared|access|contentsensitive|kinds|pages|two|url|search|feature|get|term|collective|relatedness|store|relatedness|small|queries|exploiting|generally|cannot|space|first|novel|generates|using|precision|available|space|pages|enrich|dynamic|logs|results|given|individual|created|experimental|query|applicable|archive|finding|expressions|users|measure|overlap|extract|proposed|improve|spaces|produces|page|since|analysis|scores|needed|crucial|show|link|expressions|related|common|engine|nontext|behavior|types|queries|estimated|approaches|better|conventional|short
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Web search engine|Static web page|Web search query|Web page|Information retrieval|Semantic search|Computer science|Web query classification|Rewrite engine|Web crawler
+references:1532325895|1558776135|1972645849|1979459060|1982896842|1984374364|1985926365|1987777228|1998196377|2000145992|2000672666|2002306339|2009202693|2020423193|2028709054|2041179002|2052191066|2053069480|2073853190|2088123540|2092656548|2099548400|2101134969|2102931907|2105106523|2115205574|2127314673|2138621811|2144882256|2146950091|2151626491|2152130932|2154136278|2167649100
+
+
+id:2148034949
+title:QUBiC: An adaptive approach to query-based recommendation
+year:2013
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2688905513|
+author name:Zhenglu Yang
+author organization:University of Tokyo. Tokyo/Japan
+author id:2124214372|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo Tokyo Japan
+author id:390930505|
+]
+abstract:results|query|called|considered|queryurl|recommendation|accuracy|extracting|experimental|recommendations|approach|bicliquebased|preparation|adaptively|evaluation|qubic|contribution|connectivity|pairwise|terms|phrasing|engines|rank|phase|based|similar|using|merging|thus|utilizes|devise|web|demand|bridge|bipartite|affinity|recommending|implicit|vertices|ordering|utilizing|recommend|threephase|personalized|search|flexibility|systems|measure|vector|precise|operating|mechanism|precision|compared|relatedness|participate|yielding|efficient|could|makes|hac|possible|queries|lead|framework|discovery|able|clustering|ranking|information|approach|returned|indeterminacy|first|novel|topical|generates|qubic|historical|main|second|search|hierarchical|inducing|satisfactory|hacbased|keywordbased|directly|results|weighted|interactively|actual|recommendation|query|comparing|capture|often|users|graph|software|determinacy|difficulty|propagation|improve|lists|helps|present|changed|values|according|show|collection|effective|related|engine|similarity|gap|highly|enhancing|effectiveness|distances|original|assistant|queries|edges|bipartite|encounter|allowing|instead|improvement|queryurl|conventional|third|consists|agglomerative|clustering|strategy|significantly|user
+venue name:Intelligent Information Systems
+venue id:1140961231
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Data mining|Query language|Information retrieval|Query expansion|Computer science|Sargable|Web query classification|Ranking (information retrieval)|Spatial query
+references:1490207935|1492327544|1525341925|1532325895|1972645849|1979459060|1993547771|1998196377|2000145992|2000672666|2002306339|2007995029|2009202693|2014975478|2017328855|2028709054|2041179002|2052191066|2068049309|2072840758|2073853190|2083222330|2092656548|2097776316|2099548400|2105106523|2109291623|2115205574|2117831564|2118306531|2120797124|2127314673|2138621811|2146950091|2154136278|2157667213|2162173340|2404809390
+
+
+id:2152940919
+title:Enhancing Web Search by Aggregating Results of Related Web Queries
+year:2009
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Guandong Xu
+author organization:Victoria University
+author id:2482500164|
+author name:Yanchun Zhang
+author organization:Victoria University
+author id:2100438523|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:users|approach|number|problem|engines|retrieval|rank|concurrently|wins|based|item|specify|aggregated|propose|quality|traditional|system|web|returns|items|methods|affect|pursuit|given|pages|result|search|mechanism|empirically|performance|address|initial|combines|suggest|queries|produce|single|lists|framework|ranking|novel|commercial|reasonable|retrieved|clearly|manner|implemented|different|results|experimental|devising|query|particular|finding|list|proposed|improve|lists|helps|needed|show|aggregation|investigate|items|random|related|engine|parallel|competitor|considers|processes|alternative|also|calculating|generic|existing|suggested|serially|strategy|forms|walk
+venue name:Web Information Systems Engineering
+venue id:1128202388
+venue type:C
+document type:Conference
+study fields:Web search query|Data mining|Metasearch engine|Information retrieval|Phrase search|Query expansion|Semantic search|Computer science|Web query classification|Search analytics|Web crawler|Database
+references:1511363262|1532325895|1550469973|1562079279|1928047241|1972645849|1988686126|2000300218|2028709054|2031888594|2041179002|2051834357|2052191066|2056714990|2092656548|2099548400|2105981469|2109436673|2115205574|2144882256|2146081744|2147872511|2167649100|2293888960
+
+
+id:2166762424
+title:Towards efficient dominant relationship exploration of the product items on the web
+year:2007
+author information:[
+author name:Zhenglu Yang
+author organization:Tokyo University
+author id:2124214372|
+author name:Lin Li
+author organization:University of Tokyo
+author id:2619327808|
+author name:Botao Wang
+author organization:University of Tokyo
+author id:2306260332|
+author name:Masaru Kitsuregawa
+author organization:University of Tokyo
+author id:390930505|
+]
+abstract:extensive|complementary|engines|rank|recent|efficiency|natural|devised|work|methods|propose|traditional|system|web|poster|scheme|experiments|believe|prevalence|search|current|web|structured|relationship|engines|explore|dominant|strategies|data|querying|consisting|efficiently|cannot|exists|information|websites|ranking|compressed|databases|supported|encode|data|process|good|employed|pages|updating|find|dynamic|illustrate|graph|efficient|useful|facilitate|integrated|define|effectiveness|effectively|structure|ranking|yields|online|relational|hyperlinks
+venue name:The Web Conference
+venue id:1135342153
+venue type:C
+document type:Conference
+study fields:Compressed data structure|Data mining|Web page|Relational database|Computer science|Hyperlink|Artificial intelligence|Dynamic web page|World Wide Web|Information retrieval|Ranking|Information extraction|Data model|Machine learning
+references:1553019137|1973501242|1992963068|2000055640|2005314985|2012449655|2021955908|2026413985|2049864887|2096547754|2104557718|2118269922|2118322263|2121612399|2127782281|2150693557|2158454296|2170188482
+
+
+id:2212600059
+title:Learning to rank domain experts in microblogging by combining text and non-text features
+year:2015
+author information:[
+author name:Lu Qi
+author organization:Wuhan University of Technology
+author id:2233363876|
+author name:Yanyi Huang
+author organization:China University of Geosciences
+author id:2280099498|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+]
+abstract:currently|precision|experimental|descriptions|posts|users|three|influence|features|problem|engines|find|function|rank|greedy|method|text|results|addition|based|closely|orderbased|domaindependent|analysis|propose|users|certification|input|selection|highest|topic|microblog|study|identifying|compare|influential|according|show|kinds|svm|fuse|search|related|nontext|sorting|authentication|keywords|may|profile|rank|approaches|many|publish|traditional|self|achieved|information
+venue name:International Conference on Behavioral, Economic, and Socio-Cultural Computing
+venue id:2754241216
+venue type:C
+document type:Conference
+study fields:Learning to rank|Authentication|Computer science|Artificial intelligence|Sorting algorithm|Social media|Information retrieval|Support vector machine|Microblogging|Feature extraction|Sorting|Greedy algorithm|Machine learning
+references:1814023381|1995672491|2076219102|2101196063|2125398996|2293546542
+
+
+id:2244504487
+title:Learning User Preferences across Multiple Aspects for Merchant Recommendation
+year:2015
+author information:[
+author name:Xin Li
+author organization:University of Science  Technology of China
+author id:2983370557|
+author name:Guandong Xu
+author organization:University of Science and Technology of China
+author id:2482500164|
+author name:Enhong Chen
+author organization:University of Science and Technology of
+author id:2136372366|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+]
+abstract:recommendation|experimental|stateoftheart|approach|analyzing|realworld|problem|optimization|terms|estimate|model|algorithm|based|item|efficiency|using|thus|past|collaborative|collaborative|preference|merchant|methods|personal|propose|years|pervasive|evaluate|aim|achieve|utilizing|recommend|emerged|two|personalized|merchant|share|based|rational|enables|social|utilitybased|preferences|address|user|following|combining|coldstart|success|information|approach|novel|practicability|treat|use|rating|developed|differentiate|reviews|implemented|method|locationbased|different|intuition|results|recommendation|train|new|discover|individual|real|experiences|users|proposed|techniques|demonstrate|useful|show|represents|views|apply|limited|mobile|aspects|rich|allowing|breed|target|outperforms|conventional|application|various|visited|opinions|datasets|gaussian|merchants|user|simply|lastly|location|existing
+venue name:International Conference on Data Mining
+venue id:1183478919
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Rational choice theory|Collaborative filtering|Personal experience|Social network|Computer science|Context model|Mobile device|Artificial intelligence|Optimization algorithm|Machine learning
+references:1489119327|1517623124|1525202408|1984189333|1989341178|2009779426|2024577186|2054141820|2059512573|2073013176|2073021764|2087692915|2093219534|2098655743|2101409192|2110953678|2117587045|2137245235|2149814409|2159662257|2160409620|2405496393|2408538552
+
+
+id:2404488922
+title:Hashtag Biased Ranking for Keyword Extraction from Microblog Posts
+year:2015
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Chang Su
+author organization:Wuhan University Of Technol
+author id:2668615965|
+author name:Yueqing Sun
+author organization:Wuhan University Of Technol
+author id:2541726693|
+author name:Shengwu Xiong
+author organization:Wuhan University Of Technol
+author id:2713476999|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+]
+abstract:approach|number|terms|text|usually|based|method|work|speical|probability|understand|biased|extraction|propose|benefit|traditional|determined|microblog|word|evaluate|walk|document|experiments|literature|web|term|precision|hashtag|keyword|approaches|within|many|help|filtering|frequecy|chinese|ranking|first|keywords|documents|networking|posts|influence|features|guides|post|generated|stationary|extraction|huge|consider|keyword|topic|weighted|us|like|kind|collection|real|interations|graph|extract|proposed|final|purpose|applied|importance|show|wordpost|according|posts|constructs|content|recent|effective|random|studies|applying|amount|social|build|account|walk|applications|taking
+venue name:Knowledge Science, Engineering and Management
+venue id:1155746833
+venue type:C
+document type:Conference
+study fields:Data mining|Graph|Content filtering|Social media|Social network|Ranking|Information retrieval|Keyword extraction|Random walk|Computer science|Microblogging|Word graph
+references:5221400|32253530|117915344|1497288441|1525595230|1532325895|1579690747|2045181608|2053487388|2054470031|2057465077|2064237629|2064418625|2101196063|2105745072|2111538853|2111551466|2112324543|2124168655|2133299088|2145049651|2145766604|2154455818|2163659824
+
+
+id:2490973952
+title:A comparison study of clustering algorithms for microblog posts
+year:2016
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Jingjing Ye
+author organization:Wuhan University Of Technol
+author id:2603909566|
+author name:Fang Deng
+author organization:Hubei Collaborative  Innovative Center for Basic Educational Technology, Wuhan, China
+author id:2483085472|
+author name:Shengwu Xiong
+author organization:Wuhan University Of Technol
+author id:2649267728|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2707662252|
+]
+abstract:cluster|improves|crawled|accuracy|experimental|approach|terms|four|msdica|paralleled|model|text|algorithm|based|efficiency|preprocessing|crawled|sampling|hadoop|distributed|analysis|propose|weibo|traditional|unsupervised|comparisons|algorithm|microblog|evaluate|microblogs|algorithms|study|times|manual|kmeans|popular|close|topics|incremental|model|computation|data|run|sina|mapreduce|extraction|dynamic|first|results|five|programming|comparison|including|mining|weighting|done|extract|proposed|topic|internet|speeding|show|learning|posts|speed|platform|running|effective|china|aspects|threads|thread|clustering|technology|clustering
+venue name:Cluster Computing
+venue id:106148199
+venue type:J
+document type:Journal
+study fields:Data mining|k-means clustering|Weighting|Social media|Programming paradigm|Computer science|Microblogging|Thread (computing)|Unsupervised learning|Preprocessor|Cluster analysis
+references:65194033|1532908237|1996531611|2009260473|2011269336|2012538493|2019071678|2048978851|2067764102|2085129404|2085967996|2107474859|2141081215|2144861746|2150593711|2151734548|2156733809|2165363188|2195033795|2385539949
+
+
+id:2568060981
+title:A comparison study of semi-supervised SVM algorithms for small business credit prediction
+year:2016
+author information:[
+author name:Jie Zhang
+author organization:Wuhan University Of Technol
+author id:2696678188|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Ge Zhu
+author organization:Wuhan University Of Technol
+author id:2671442686|
+author name:Xiangfu Meng
+author organization:Liaoning Technical University
+author id:2654681949|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2706753003|
+]
+abstract:increasingly|big|bad|deterministic|flow|number|companies|bank|least|classification|compare|cash|algorithm|money|semisupervised|lending|made|classification|provide|certificates|binary|evaluate|valuable|become|hundred|proportion|experiments|svm|datasets|reach|annealing|experts|set|may|within|reasons|series|cannot|information|complete|asymmetry|thousand|small|data|rating|several|good|assessment|semisupervised|rare|credit|different|business|results|need|often|real|important|especially|collect|squares|companies|show|choose|learning|investigate|considerable|credits|spend|predict|lend|amount|dollars|repay|better|worthless|supervised|performance|money|conduct|unknowing|challenge|time
+venue name:International Conference on Behavioral, Economic, and Socio-Cultural Computing
+venue id:2754241216
+venue type:C
+document type:Conference
+study fields:Transduction (machine learning)|Credit history|Actuarial science|Binary classification|Small business|Computer science|Support vector machine|Algorithm|Credit rating|Deterministic annealing|Cash flow
+references:92894758|2054489011|2107275319|2107968230|2122565017|2128097790|2147025064
+
+
+id:2594565548
+title:Multi-modal Multimedia Big Data Analyzing Architecture and Resource Allocation on Cloud Platform
+year:2017
+author information:[
+author name:K.P.N. Jayasena
+author organization:Sabaragamuwa University of Sri Lanka
+author id:2892075133|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2662446561|
+]
+abstract:big|simulation|focus|therefore|three|analyzing|depending|optimization|visual|hardware|algorithm|based|using|method|large|layer|hadoop|distributed|contains|traditional|system|xuggler|allocate|flexible|processing|achieve|layer|increases|optimally|file|systems|reduces|audio|executes|multimodal|architecture|multimedia|efficient|distribution|multimedia|framework|requirements|analytic|novel|data|mapreduce|cloud|features|amounts|time|layers|implement|results|combination|needs|infrastructure|new|resource|illustrate|significant|proposed|vm|topic|demonstrate|transcoding|formats|colony|scale|media|interface|platform|burden|running|computing|minimal|provides|design|hadoop|amount|allocation|ant|implementation|modalities|libraries|specific|expensive|platform|build|service|infrastructure|response|time|user|applications
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Ant colony optimization algorithms|Transcoding|Computer science|Response time|Real-time computing|Artificial intelligence|Service layer|Distributed computing|Distributed File System|Resource allocation|User requirements document|Machine learning|Cloud computing
+references:18239051|44630272|81583347|169396430|1133916940|1529225083|1569106572|1964211771|1975890805|1977046764|1978559254|1979493600|1981975711|1993756470|1999314592|2000780492|2007877577|2013119597|2049675780|2056935845|2068396837|2084028080|2087295784|2091017734|2118316762|2151853135|2190643377|2199453705|2204046476|2230471818|2282442744|2285252321|2532516272
+
+
+id:2603433898
+title:Co-training an Improved Recurrent Neural Network with Probability Statistic Models for Named Entity Recognition
+year:2017
+author information:[
+author name:Yueqing Sun
+author organization:Wuhan University Of Technol
+author id:2541726693|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Zhongwei Xie
+author organization:Wuhan University Of Technol
+author id:2728011228|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2727156996|
+author name:Xin Li
+author organization:iFlyTek Research
+author id:2983370557|
+author name:Guandong Xu
+author organization:University of Technology
+author id:2482500164|
+]
+abstract:entity|currently|results|focus|conditional|experimental|whole|output|improved|network|hidden|obtained|model|models|using|thus|compared|probability|recurrent|extraction|traditional|field|even|recognition|ie|neural|become|compare|experiments|natural|two|lot|get|benchmark|popular|close|situation|compared|performance|named|redefining|necessary|markov|one|makes|subtask|data|accuracy|model|information|ner|cotraining|small|atis|data|use|recognition|alleviate|good|saturation|rnn|random|function|modified|consider|different|results|train|needs|new|statistic|avoids|labeled|degree|conducted|lack|improving|proposed|crf|activation|problems|higher|studied|cotraining|part|show|function|learning|size|processing|field|language|scope|hard|wildly|performances|original|hmm|also|improvement|way|supervised|sigmoid|rnn|strategy
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Recurrent neural network|Co-training|Artificial intelligence|Sigmoid function|Conditional random field|Pattern recognition|Supervised learning|Information extraction|Hidden Markov model|Named-entity recognition|Machine learning
+references:156053711|179875071|382051402|1595968133|1986065616|1999854424|2048679005|2051999173|2057383669|2086776298|2109711517|2158899491|2179823001|2205981794|2399456070|2410156476|2470368200|2512630954|2525225104|2528626222|2533179929|2553754377|2557283755|2963625095
+
+
+id:2740695460
+title:Translation Language Model Enhancement for Community Question Retrieval Using User Adoption Answer
+year:2017
+author information:[
+author name:Ming Chen
+author organization:Wuhan University
+author id:2740431448|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2740539134|
+]
+abstract:called|improves|semantics|relation|number|terms|retrieval|specifically|model|knowledge|based|lexical|translation|using|linking|answering|gap|baseline|traditional|provide|web|precision|word|much|inference|save|direct|retrieval|adoption|chasm|question|queried|questions|set|question|problem|average|combining|services|model|help|component|mismatch|model|chinese|information|essential|data|use|questions|used|cqa|different|results|us|obtain|experimental|real|finding|users|important|relevant|proposed|improve|topic|acquisition|mean|words|show|candidate|considerable|language|gap|topic|make|enhancing|queries|alternative|improvement|performance|translation|time|user|community
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Question answering|Information retrieval|Inference|Computer science|Translation language|User information|Natural language processing|Artificial intelligence|Topic model|Semantics|Knowledge acquisition
+references:1532325895|1880262756|1973923101|1994842363|2042980227|2065240770|2093390569|2102394389|2105051853|2108873957|2120284981|2134731454|2142905080|2147308966|2151429169|2161401012|2162355876|2163931541|2251429856|2269075722|2292153778|2339630617
+
+
+id:2767552667
+title:A potential-based clustering method with hierarchical optimization
+year:2018
+author information:[
+author name:Xin Liu
+author organization:Wuhan University
+author id:2752261916|
+author name:Yongjian Liu
+author organization:Wuhan University Of Technol
+author id:2432261024|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2662446561|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Zhixu Li
+author organization:Soochow University
+author id:2158257452|
+]
+abstract:cluster|criteria|experimental|without|analyzing|number|optimization|merge|centers|algorithm|based|merging|work|field|stop|size|algorithm|stage|appropriate|density|average|automatically|two|local|mechanism|takes|close|compared|subcluster|initial|distribution|field|subclusters|dataset|novel|first|welldesigned|edgeweighted|values|data|using|points|optimize|hierarchical|satisfactory|potential|results|designating|border|proposes|tree|follows|mutual|proposed|hypothetical|produces|values|divided|according|show|advance|minima|derived|clusters|distances|process|aims|cases|identify|advantage|effectively|merged|arbitrary|existing|build|stages|clustering
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Hierarchical clustering|Canopy clustering algorithm|Data mining|CURE data clustering algorithm|Correlation clustering|Computer science|Hierarchical clustering of networks|Consensus clustering|Cluster analysis|Brown clustering
+references:651457188|1466719059|1489991816|1577058187|1602689817|1673310716|1838320885|1888898201|2002370809|2007508006|2007595256|2011430131|2066773665|2073301055|2093836791|2111004121|2118950593|2119456790|2125464731|2148959739|2151295706|2153233077|2155074104|2166635253|2166933393|2335437633|2528186827|2603192734|2753230413
+
+
+id:2782929368
+title:Urban emergency shelter site selection
+year:2017
+author information:[
+author name:Yang Liu
+author organization:Lanzhou University
+author id:2782631612|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Zhongwei Xie
+author organization:Wuhan University Of Technol
+author id:2783292053|
+author name:Ge Zhu
+author organization:Wuhan University Of Technol
+author id:2671442686|
+author name:Guiming Xu
+author organization:University of Mayland
+author id:2783142260|
+]
+abstract:expert|necessary|chocie|construct|evaluation|shows|results|calculated|prevention|order|combine|based|models|new|natural|models|disasters|work|proposes|comparing|quality|traditional|proposed|improve|science|frequently|theory|shelter|disaster|integrated|world|paper|manmade|get|occurred|social|model|better|site|choice|statistics
+venue name:International Conference on Behavioral, Economic, and Socio-Cultural Computing
+venue id:2754241216
+venue type:C
+document type:Conference
+study fields:Social choice theory|Computer science|Emergency management|Operations research|Site selection|Emergency Shelter|Analytic hierarchy process
+references:2070280024|2071698610
+
+
+id:2783290285
+title:Urban emergency evacuation strategy
+year:2017
+author information:[
+author name:Zhongwei Xie
+author organization:Wuhan University Of Technol
+author id:2728011228|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Yueqing Sun
+author organization:Wuhan University Of Technol
+author id:2541726693|
+author name:Wangping Li
+author organization:Wuhan University Of Technol
+author id:2783280849|
+author name:Guiming Xu
+author organization:University of Mayland
+author id:2783142260|
+]
+abstract:optimal|data|emergency|experimental|mainly|scrupulous|discusses|complex|model|results|traffic|algorithm|based|making|using|simulated|comparing|economy|analysis|algorithm|system|attached|genetic|best|annealing|two|seen|routing|search|paper|particle|algorithms|evacuation|genetic|means|figure|decision|problem|social|built|great|significance|better|environment|performance|swarm|along|strategy|strategy|mathematical
+venue name:International Conference on Behavioral, Economic, and Socio-Cultural Computing
+venue id:2754241216
+venue type:C
+document type:Conference
+study fields:Simulated annealing|Mathematical optimization|Emergency evacuation|Particle swarm algorithm|Genetic algorithm
+references:2057656582
+
+
+id:2785502633
+title:Interactive resource recommendation algorithm based on tag information
+year:2018
+author information:[
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2662446561|
+author name:Feng Xiong
+author organization:Wuhan University of Technology
+author id:2783205343|
+author name:Tian Han
+author organization:Wuhan University of Technology
+author id:2581242256|
+author name:Yongjian Liu
+author organization:Wuhan University Of Technol
+author id:2432261024|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Zhifeng Bao
+author organization:RMIT
+author id:2098147036|
+]
+abstract:accurate|helping|interactive|recommendation|users|approach|feedback|realworld|problem|popularization|utilized|algorithm|based|similar|considering|work|preference|adjusts|personal|dynamically|system|experiments|overcome|datasets|matrix|personalized|desired|get|embedding|popular|explore|one|analyzed|data|coldstart|factorization|predictions|framework|associated|information|vast|represent|exponential|rating|process|employed|tagbased|amounts|major|generated|find|tag|different|selected|resource|users|enhanced|candidates|proposed|demonstrate|higher|recommendation|challenges|media|effective|items|operations|recommender|make|considers|identify|social|effectively|probabilistic|resources|recommended|efficiency|online|growth|information|time|user
+venue name:World Wide Web
+venue id:129236917
+venue type:J
+document type:Journal
+study fields:Recommender system|Probabilistic matrix factorization|Embedding|Collaborative filtering|Social media|Computer science|Algorithm|Time factor|Artificial intelligence|Machine learning|Exponential growth
+references:29619028|1549014378|1877467562|1976859382|1982895893|2005038750|2042281163|2072422262|2093219534|2097945753|2102456297|2109145143|2116926073|2125658185|2126539515|2135598826|2137245235|2142144955|2151464835|2159094788|2167575362|2171960770|2243591118|2315045027|2339074556|2444485119|2503831216|2519424674|2520496276|2524956964|2539206656|2765897485|2783019718|2964341035
+
+
+id:2802644759
+title:CNN-feature based automatic image annotation method
+year:2019
+author information:[
+author name:Yanchun Ma
+author organization:Wuhan University Of Technol
+author id:2802290384|
+author name:Yongjian Liu
+author organization:Wuhan University Of Technol
+author id:2432261024|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2662446561|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+]
+abstract:considered|extracted|three|neighbors|problem|model|refinement|models|based|similar|images|using|work|schemes|propose|removing|tags|traditional|sem|simultaneously|automatic|semantic|cnn|methods|utilizing|experiments|semanticgap|knn|datasets|manual|layer|proved|feature|verify|distribute|annotation|address|famous|efficient|neighbor|performed|model|combined|selfdefined|features|addressing|experience|features|tag|group|image|test|kind|crafted|maintaining|group|proposed|solve|final|useful|belong|distance|according|simplicity|espgame|finely|divides|effectiveness|original|bayesianbased|assignment|modelalexnet|typical|well|information|referred
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Computer vision|Annotation|Automatic image annotation|Pattern recognition|Convolutional neural network|Computer science|Semantic information|Feature extraction|Artificial intelligence|Feature based|Standard test image|Bayesian probability
+references:1666447063|1686810756|1950117310|1983988843|2056935845|2062118960|2097117768|2111993661|2114507260|2127615881|2130660124|2137918516|2140275264|2141282920|2147800946|2156336347|2161050705|2161381512|2187487650|2194775991|2271840356|2282231212|2335437633|2466939964|2509591188|2536305071|2547411571|2592222102|2593190442|2594335931|2611926148|2614818206|2618530766|2743129437|2952186574|2953360861
+
+
+id:2883531212
+title:PBR: A Personalized Book Resource Recommendation System
+year:2018
+author information:[
+author name:Yajie Zhu
+author organization:Wuhan University of Technology
+author id:2884109114|
+author name:Feng Xiong
+author organization:Wuhan University of Technology
+author id:2783205343|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2662446561|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Yongjian Liu
+author organization:Wuhan University Of Technol
+author id:2432261024|
+]
+abstract:introduces|functions|recommendation|desirable|users|feedback|realtime|visual|publishing|work|preference|utilizes|recommendation|system|provide|providing|quality|facing|deliver|personalized|systems|precise|resources|address|may|efficient|change|details|coldstart|help|massive|framework|efficiently|information|good|find|tag|results|always|actual|resource|widely|difficult|users|modules|important|relevant|candidates|especially|materials|improve|overall|since|problems|recommendation|technical|applied|book|show|interact|sometimes|digital|industry|introduce|reading|resources|conventional|service|online|well|user
+venue name:Web-Age Information Management
+venue id:1173521070
+venue type:C
+document type:Conference
+study fields:Recommender system|World Wide Web|Service quality|Computer science|Artificial intelligence|Machine learning|Electronic publishing
+references:2042281163|2752904570|2785502633
+
+
+id:2892164947
+title:Enhancing multimodal deep representation learning by fixed model reuse
+year:2019
+author information:[
+author name:Zhongwei Xie
+author organization:Wuhan University Of Technol
+author id:2728011228|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Xian Zhong
+author organization:Wuhan University Of Technol
+author id:2742549153|
+author name:Yang He
+author organization:Wuhan University of Technology
+author id:2892308970|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2743895081|
+]
+abstract:reuse|focus|accuracy|experimental|stateoftheart|approach|terms|retrieval|leveraging|visual|rank|model|text|imagecaptioning|tasks|neglecting|page|multimodal|deals|intermediate|longtextbased|deal|study|distribution|two|layer|result|yield|embedding|poses|based|multilingual|architecture|validate|explore|languages|data|inconsistent|great|leveraged|model|textual|regard|observable|information|improvements|ability|crossmodal|data|incorporate|heterogeneous|mainly|helpful|different|results|new|image|difficult|multilingual|take|offtheshelf|task|proposed|median|specifically|improve|fixed|narrowing|trained|provided|cause|learning|representation|integrated|textgenerating|related|ocr|extra|task|enhance|effectiveness|outperform|advantage|multiple|approaches|improvement|target|existing|yields|challenge|information|ocr
+venue name:Multimedia Tools and Applications
+venue id:110206669
+venue type:J
+document type:Journal
+study fields:Modalities|Computer vision|Architecture|Embedding|Information retrieval|Computer science|Reuse|Image retrieval|Artificial intelligence|Feature learning
+references:21006490|1523385540|1525595230|1527575280|1572158434|1573040851|1895577753|1957706851|1993557076|2009112943|2033673972|2053667957|2064675550|2085375449|2095705004|2099106019|2100235303|2106277773|2107878631|2109255472|2122585011|2127141656|2144965813|2149557440|2149933564|2152464310|2158928168|2159291411|2163605009|2163922914|2164863177|2165698076|2180844455|2183341477|2184188583|2185175083|2203271703|2250742840|2412094331|2499049467|2582558662|2586148577|2604559389|2606965845|2625961748|2738486593|2791779647|2805679356|2949547296
+
+
+id:2896731267
+title:A Hybrid Model Reuse Training Approach for Multilingual OCR
+year:2018
+author information:[
+author name:Zhongwei Xie
+author organization:Wuhan University Of Technol
+author id:2728011228|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Xian Zhong
+author organization:Wuhan University Of Technol
+author id:2742549153|
+author name:Luo Zhong
+author organization:Wuhan University of Technol
+author id:2743895081|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2727156996|
+author name:Jianwen Xiang
+author organization:Wuhan University Of Technol
+author id:2897654550|
+]
+abstract:reuse|shortterm|memory|quickly|languages|accuracy|approach|without|character|model|text|based|excellent|yielded|demand|printed|traditional|flexible|networks|reused|scheme|grabs|networks|cope|web|get|yield|unilingual|multilingual|fixed|set|lstm|approaches|analyzed|scheme|great|model|able|model|information|initialize|certain|optical|postprocessing|bidirectional|recognition|implicitly|incorporated|layers|accelerate|results|need|experimental|proposes|finally|hybrid|weights|posed|task|proposed|long|fixed|coupled|useful|higher|challenges|pretrained|show|training|discriminative|generating|assistance|paper|applications|process|effectively|recognition|reuse|latinbased|enough|hmr|target|various|applications|ocr
+venue name:Web Information Systems Engineering
+venue id:1128202388
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Reuse|Optical character recognition|Web application|Discriminative model
+references:1993557076|1997674818|2064675550|2095705004|2099106019|2107878631|2127141656|2144965813|2158928168|2164863177|2165698076|2412094331|2499049467|2604559389|2613030841|2618530766|2730785892|2805679356|2805955670|2949667497|2951670162
+
+
+id:2942043911
+title:Top-k Spatial Keyword Quer with Typicality and Semantics
+year:2019
+author information:[
+author name:Xiangfu Meng
+author organization:Liaoning Technical University
+author id:2164761214|
+author name:Xiaoyan Zhang
+author organization:Liaoning Technical University
+author id:2954989840|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Quangui Zhang
+author organization:Liaoning Technical University
+author id:2941531562|
+author name:Pan Li
+author organization:Liaoning Technical University
+author id:2941797475|
+]
+abstract:measured|dataset|objects|threshold|used|approach|locationsemantic|relationships|query|generated|find|method|relevancy|spatial|keyword|preliminary|representative|order|given|semantically|using|method|proposes|query|remaining|estimation|provide|selection|proximity|processing|orders|algorithm|object|semantic|facilitate|experiments|according|relationships|expeditiously|paper|related|computes|densitybased|effectiveness|topk|probabilistic|querying|leveraged|corresponding|results|showed|typical|online|gaussian|step|dataset|first
+venue name:Database Systems for Advanced Applications
+venue id:1184699546
+venue type:C
+document type:Conference
+study fields:Data mining|Computer science|Gaussian|Probabilistic logic|Semantics|Online processing
+references:2006307108|2112129327|2343086240|2440199141|2666600683|2804311930|2911424601
+
+
+id:2942060499
+title:A Novel Algorithm for Group Recommendation Based on Combination of Recessive Characteristics
+year:2018
+author information:[
+author name:Yi Liu
+author organization:Development and Design Center, Department of Information System China Ship, Wuhan, China
+author id:2940804200|
+author name:Xian Zhong
+author organization:Development and Design Center, Department of Information System China Ship, Wuhan, China
+author id:2942363357|
+author name:Lin Li
+author organization:Development and Design Center, Department of Information System China Ship, Wuhan, China
+author id:2619327808|
+author name:Jingling Yuan
+author organization:Development and Design Center, Department of Information System China Ship, Wuhan, China
+author id:2944008550|
+]
+abstract:calculation|recommendation|experimental|used|users|characteristics|life|view|reflect|problem|complex|truly|results|group|algorithm|combination|combine|based|widely|weight|personal|real|basis|propose|recommendation|important|system|proposed|solve|prediction|algorithm|show|effective|npr|found|get|grbcrc|studies|characteristics|could|groups|combining|many|way|better|performance|information|interests|user|novel|recessive
+venue name:International Conference on Behavioral, Economic, and Socio-Cultural Computing
+venue id:2754241216
+venue type:C
+document type:Conference
+study fields:Recommender system|Singular value decomposition|Information overload|Computer science|Algorithm
+references:2062428888
+
+
+id:2953900813
+title:A Group Recommendation Approach Based on Neural Network Collaborative Filtering
+year:2019
+author information:[
+author name:Jia Du
+author organization:Wuhan University of Technology
+author id:2953471265|
+author name:Lin Li
+author organization:Wuhan University
+author id:2619327808|
+author name:Peng Gu
+author organization:Wuhan University of Technology
+author id:2954407953|
+author name:Qing Xie
+author organization:Wuhan University Of Technol
+author id:2955743174|
+]
+abstract:projects|improves|recommendation|accuracy|kdd|experimental|nonlinear|users|three|evaluation|lfm|experiment|optimization|model|filtering|recent|cup|based|still|natural|method|compared|itembased|collaborative|analysis|traditional|latent|userbased|succeeded|algorithms|semantic|average|deal|achieve|experiments|least|networks|nash|computer|feature|systems|popular|processing|product|combining|many|satisfaction|compares|single|accuracy|speech|adopted|first|data|use|language|used|multilayer|research|mainly|mlp|features|academic|results|group|combination|obtain|misery|ensure|individual|acoustic|conducted|inner|users|fusion|square|vectors|hybrid|especially|proposed|improve|deep|recommendation|belong|neural|lfmmlp|show|learning|items|public|paper|auxiliary|root|studies|factor|class|designed|process|effectively|index|mean|interaction|equilibrium|strategy|track|taking
+venue name:International Conference on Data Engineering
+venue id:1163988186
+venue type:C
+document type:Conference
+study fields:Recommender system|Data mining|Feature vector|Collaborative filtering|Computer science|Artificial intelligence|Factor analysis|Deep learning|Nash equilibrium|Artificial neural network|Perceptron
+references:1925450849|1993897382|2046362076|2064293828|2117130368|2137028279|2137983211|2138857742|2157530295|2157881433|2164587673|2509893387|2593689141|2605350416|2739273093|2778215850|2785523195|2788942989|2949650786
+
+
+id:3006561432
+title:An Efficient Semantic Segmentation Method using Pyramid ShuffleNet V2 with Vortex Pooling
+year:2019
+author information:[
+author name:Jiansheng Dong
+author organization:Wuhan University of technology
+author id:2897034568|
+author name:Jingling Yuan
+author organization:Wuhan University of Technol
+author id:3008749467|
+author name:Lin Li
+author organization:Wuhan University
+author id:3007358829|
+author name:Xian Zhong
+author organization:Wuhan University Of Technol
+author id:2955290196|
+author name:Weiru Liu
+author organization:University of Bristol
+author id:2148409606|
+]
+abstract:contextual|accurate|focus|stateoftheart|resolution|building|realtime|poor|spatial|per|similar|still|using|frames|devices|compared|achieved|module|size|requires|semantic|works|inference|achieve|speed|segmentation|many|embedded|performance|device|particularly|problem|efficient|highresolution|kernel|possible|shufflenet|jetson|information|open|first|features|board|use|achieves|autonomous|pooling|employed|second|xavier|high|generate|development|test|like|capture|important|driving|task|especially|proposed|leads|efficient|try|cityscapes|nvidia|speed|iou|network|aggregate|vortex|dwconvolution|instead|better|agx|performance|mean|pyramid|compromise|applications
+venue name:International Conference on Tools with Artificial Intelligence
+venue id:1153494057
+venue type:C
+document type:Conference
+study fields:Spatial analysis|Open problem|Pattern recognition|Computer science|Inference|Segmentation|Pooling|Pyramid|Artificial intelligence|Frame rate|Image resolution
+references:1745334888|1821462560|1901129140|1903029394|2119144962|2286929393|2340897893|2419448466|2508741746|2531409750|2592939477|2612445135|2630837129|2762439315|2775208825|2793866399|2797789005|2803097213|2883780447|2884370868|2886934227|2934262148|2952596663|2962850830|2963125010|2963163009|2964217532
+
+
+id:2896277401
+title:GPU based Parallel Optimization for Real Time Panoramic Video Stitching
+year:2019
+author information:[
+author name:Chengyao Du
+author organization:Wuhan University of Technology
+author id:2896090563|
+author name:Jingling Yuan
+author organization:Wuhan University of Technol
+author id:2651201509|
+author name:Jiansheng Dong
+author organization:Wuhan University of technology
+author id:2897034568|
+author name:Lin Li
+author organization:Wuhan University
+author id:2735295401|
+author name:Mincheng Chen
+author organization:Wuhan University of Technology
+author id:2708898760|
+author name:Tao Li
+author organization:University of Florida
+author id:2467427483|
+]
+abstract:depend|three|resolution|required|analyzing|maximize|improved|unsatisfying|realtime|experiment|record|order|algorithm|based|images|efficiency|compared|possess|reduced|utilization|extraction|propose|former|traditional|system|processing|algorithm|video|strong|cuda|smart|products|matching|feature|low|stream|power|stitching|based|embedded|resources|abstract|framework|sift|occupancy|use|panoramic|cpu|gpu|mainly|abilities|view|high|post|accomplished|time|results|dissipation|stability|lsh|image|development|sort|real|improve|solve|orb|full|framework|show|video|point|speed|running|times|paper|parallel|rate|surveillance|mentioned|make|converged|panoramic|resources|requirement|recorded|performance|stages|consists|lorb|strategy|scene
+venue name:Pattern Recognition Letters
+venue id:151820558
+venue type:J
+document type:Journal
+study fields:Scale-invariant feature transform|Computer vision|Image stitching|Video stitching|Parallel optimization|CUDA|sort|Orb (optics)|Feature extraction|Artificial intelligence|Mathematics
+references:1491719799|1572158434|1988511239|1992717873|1994623790|2038436579|2106199912|2111308925|2115583071|2117228865|2124386111|2126060993|2149013409|2151103935|2162006472|2170037597|2208560416|2342822214|2345356781|2469524028|2531849700|2582558662|2584333262|2585541333|2625961748|2738486593|2752197020|2791779647|2799150641|2805347283|2887057599|2906502833|2951344452
+
+
+id:1988512338
+title:G-Bean: an ontology-graph based web tool for biomedical literature retrieval
+year:2014
+author information:[
+author name:James Zijun Wang
+author organization:Clemson University
+author id:2778676119|
+author name:Yuanyuan Zhang
+author organization:Clemson University
+author id:2227282659|
+author name:Liang Dong
+author organization:Barnes and Noble, LLC
+author id:2616386946|
+author name:Lin Li
+author organization:Seattle University
+author id:2614895494|
+author name:Pradip K. Srimani
+author organization:University
+author id:2089465206|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+]
+abstract:expanding|accurate|rerank|reranking|document|cover|evaluation|national|limitations|based|merging|using|efficiently||intention|concepts|science|umls|concepts|returns|appropriate|scheme|document|automatically|sea||result|search|raph|ontologygraph|rch|gbean|analyzes|creation|b|g|pagerank|database|iomedical|people|biomedical|queries|medicine|advantages|discovery|meet|frequency|information|publications|documents|available|language|source|developed|pubmed|compute|generate|results|ontology|need|query|en|term|significant|finding|graph|article|especially|nonexpert|concept|additional|articles|life|related|statement|existing|form|articles|users|three|selects|strings|disadvantages|terms|four|inverse|boolean|algorithm|order|natural|index|relevance|benchmark|selections|even|performance|medline|drawbacks|top|initial|user|could|ohsumed|return|retrieval|addresses|use|parallel|used|ontologygraph|employed|shows|major|find|presented|personalized|selected|new|individual|already|pertaining|difficult|failed|weighting|important|relevant|true|retrieve|library|multithreaded|database|ranked|make|csp|constructed|determine|automatic|specific|ameliorate|bibliographical|information|uses|strategy|user
+venue name:BMC Bioinformatics
+venue id:19032547
+venue type:J
+document type:Journal
+study fields:Information needs|Query expansion|tf–idf|Information retrieval|Computer science|Search engine indexing|Natural language user interface|Bioinformatics|Unified Medical Language System|MEDLINE|Boolean conjunctive query
+references:73613318|1555766779|1591327551|1977343191|2031105697|2055518963|2059321073|2059491546|2060553481|2071664212|2073247784|2104049510|2105106523|2122402213|2157054705|2163303745|2170344111
+
+
+id:1988654925
+title:Automatic diagnosis of melanoma using machine learning methods on a spectroscopic system
+year:2014
+author information:[
+author name:Lin Li
+author organization:Seattle University
+author id:2614895494|
+author name:Qizhi Zhang
+author organization:University of Florida
+author id:2148636413|
+author name:Yihua Ding
+author organization:Clemson University
+author id:2100466036|
+author name:Huabei Jiang
+author organization:University of Florida
+author id:2168274475|
+author name:Bruce H Thiers
+author organization:Medical University of South Carolina
+author id:2618256657|
+author name:James Z Wang
+author organization:School of Computing Clemson University Clemson USA
+author id:2299283204|
+]
+abstract:accurate|distinguishing|accuracy|type|approach|measures|deadliest|trivial|extremely|complex|subjective|potential|reduce|needs|based|issue|sampling|diagnosis|melanoma|melanoma|clinical|tests|especially|even|laboratory|solve|rate|mole|skin|judgements|paper|nonsubjective|morbidity|early|experienced|makes|automatic|also|quantitative|mortality|presents
+venue name:BMC Medical Imaging
+venue id:6505649
+venue type:J
+document type:Journal
+study fields:Skin cancer|Clinical diagnosis|Spectrum analysis|Melanoma|Medicine|Pathology
+references:1827261456|1994267552|2026720263|2028181519|2094941886|2131264832|2133990480|2162515926
+
+
+id:2007095477
+title:Continuous development of schemes for parallel computing of the electrostatics in biological systems: Implementation in DelPhi
+year:2013
+author information:[
+author name:Chuan Li
+author organization:Clemson University
+author id:2984856810|
+author name:Marharyta Petukh
+author organization:Clemson University
+author id:1861032145|
+author name:Lin Li
+author organization:Clemson University
+author id:2510437989|
+author name:Emil Alexov
+author organization:Clemson University
+author id:2007271094|
+]
+abstract:macromolecules|illustrating|chem|modeling|software|approach|via|cluster|depending|complex|nanoobjects|mitochondrial|energy|phase|efficiency|large|surface|work|topology|parallelization|utilizes|distributions|explicit|field|biomolecules|even|domain|algorithm|calculations|demonstration|obtained|become|sep|study|components|scheme|methods|delphi|computer|capability|electrostatic|reported|popular|include|continuum|salt|may|efficient|speedup|media|report|calculated|cannot|immersed|requirements|standard|folds|macromolecular|use|several|space|high|implemented|different|potential|results|calculated|computational|alone|development|including|electrostatics|applicable|comput|enormous|water|energies|task|supercomplex|memory|importance|obtainable|computing|due|molecular|algorithmic|allows|quantity|previous|electric|resources|calculating|approaches|corresponding|due|bovine|time
+venue name:Journal of Computational Chemistry
+venue id:21117631
+venue type:J
+document type:Journal
+study fields:Electrostatics|Poisson–Boltzmann equation|Scheduling (computing)|Computer science|Parallel computing|Computational chemistry|Delphi|Software|Computational science|Macromolecular Complexes|Computer cluster|Speedup
+references:1967809254|1973060079|2014383457|2036856453|2044701646|2103860533|2106956326|2110562802|2118233996|2132262459|2132629607|2149537211|2149541064|2170802700
+
+
+id:2028181519
+title:A Computer-Aided Spectroscopic System for Early Diagnosis of Melanoma
+year:2013
+author information:[
+author name:Lin Li
+author organization:Murray State University
+author id:2614895494|
+author name:Qizhi Zhang
+author organization:University of Florida
+author id:2148636413|
+author name:Yihua Ding
+author organization:Clemson University
+author id:2100466036|
+author name:Huabei Jiang
+author organization:University of Florida
+author id:2168274475|
+author name:Bruce T. Thiers
+author organization:Med. University of South Carolina
+author id:2224256592|
+author name:James Z. Wang
+author organization:University
+author id:2299283204|
+]
+abstract:fed|collected|type|malignant|extracted|objective|reflect|deadliest|identification|spectroscopic|layers|potential|reduce|based|image|involves|judgments|images|melanoma|classification|system|diseased|early|sensitivity|support|device|parameters|statistical|specificity|classifier|skin|svm|intensities|paper|feature|skin|benign|vector|features|morbidity|pixel|early|measures|detection|subjects|makes|morphologies|automated|classification|quantitative|machine|achieved|mortality|presents
+venue name:International Conference on Tools with Artificial Intelligence
+venue id:1153494057
+venue type:C
+document type:Conference
+study fields:Computer vision|Pattern recognition|Computer science|Computer-aided|Support vector machine|Skin cancer|Image processing|Feature extraction|Artificial intelligence|Pixel|Melanoma|Contextual image classification
+references:2153635508
+
+
+id:2050941490
+title:Detection of Mild Cognitive Impairment Using Image Differences and Clinical Features
+year:2010
+author information:[
+author name:Lin Li
+author organization:Clemson University
+author id:2614895494|
+author name:James Z. Wang
+author organization:University
+author id:2299283204|
+author name:Dheeraj Chahal
+author organization:Clemson University
+author id:2223196388|
+author name:Mark A. Eckert
+author organization:Med. University of South Carolina
+author id:2916753884|
+author name:Carl Lozar
+author organization:Med. University of South Carolina
+author id:2022563640|
+]
+abstract:select|atrophy|tested|access|accuracy|number|scans|imaging|magnetic|algorithm|based|images|using|method|mild|resonance|classification|studies|delay|cognitive|mci|regions|mri|differences|controls|matter|characteristic|open|gray|feature|vector|based|demonstrated|detection|subjects|analyzed|systematic|onset|mci|pivotal|machine|atrophy|ranking|unseeded|features|adopted|small|growing|features|high|presented|subjects|weighted|selected|group|image|pronounced|crossvalidation|thresholdbased|clinical|group|early|relatively|present|region|support|applied|importance|prevent|regions|included|designed|early|disease|identify|determine|voxelbyvoxel|multiple|control|intensity|leaveoneout|series|impairment
+venue name:Bioinformatics and Bioengineering
+venue id:1153779279
+venue type:C
+document type:Conference
+study fields:Computer science|Feature ranking|Image segmentation|Artificial intelligence|Audiology|Cognition|Contextual image classification|Cognitive impairment|Computer vision|Support vector machine|Atrophy|Machine learning|Magnetic resonance imaging
+references:1575873451|1970300450|1986014162|2031983299|2119479037|2150534249|2153635508|2155164847
+
+
+id:2059321073
+title:G-Bean: An ontology-graph based web tool for biomedical literature retrieval
+year:2013
+author information:[
+author name:Yuanyuan Zhang
+author organization:Clemson University
+author id:2227282659|
+author name:Liang Dong
+author organization:Barnes  Noble LLC, New York, NY, USA
+author id:2616386946|
+author name:Lin Li
+author organization:Murray State University
+author id:2614895494|
+author name:Pradip K. Srimani
+author organization:University
+author id:2089465206|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+author name:James Z. Wang
+author organization:University
+author id:2299283204|
+]
+abstract:accurate|documents|process|used|ontologygraph|shown|terms|retrieval|multithreading|generate|based|discover|inefficiency|need|already|query|index|resulting|expansion|intention|relevant|expand|true|retrieve|medline|searching|additional|automatically|document|technique|manual|effective|search|paper|web|engine|parallel|interest|gbean|process|address|indexing|efficient|initial|database|also|specific|biomedical|information|uses|articles|presents
+venue name:Bioinformatics and Biomedicine
+venue id:1156210184
+venue type:C
+document type:Conference
+study fields:Query optimization|Web search query|Query language|Information retrieval|Query expansion|Computer science|Web query classification|Search-oriented architecture|Ranking (information retrieval)|Concept search
+references:73613318|1555766779|1591327551|1977343191|1988512338|2031105697|2055518963|2059491546|2060553481|2071664212|2073247784|2104049510|2105106523|2122402213|2157054705|2163303745|2170344111
+
+
+id:2110595429
+title:G-SESAME: web tools for GO-term-based gene similarity analysis and knowledge discovery
+year:2009
+author information:[
+author name:Zhidian Du
+author organization:Clemson University
+author id:2134247560|
+author name:Lin Li
+author organization:Clemson University
+author id:2614895494|
+author name:Chin Fu Chen
+author organization:Clemson University
+author id:2635149229|
+author name:Philip S. Yu
+author organization:Clemson University
+author id:2125104194|
+author name:James Z. Wang
+author organization:University
+author id:2778676119|
+]
+abstract:semantic|measuring|functional|ontology|available|used|developed|tools|times|october|gene|terms|knowledge|discovering|set|gene|go|database|countries|biomedical|institutions|similarities|million|online|since
+venue name:Nucleic Acids Research
+venue id:134668137
+venue type:J
+document type:Journal
+study fields:Similarity analysis|World Wide Web|Gene|Biology|Gene ontology|Knowledge extraction|Bioinformatics|Genetics|Semantics|The Internet
+references:1659833910|2126225210|2127563440|2128049108|2133340731|2148602507|2953332543
+
+
+id:2111009930
+title:Routing strategy with waiting time on scale-free network
+year:2010
+author information:[
+author name:Dan Wang
+author organization:Shenyang University
+author id:2673961604|
+author name:Yanping Li
+author organization:Shenyang University
+author id:2706811769|
+author name:Wenwei Liu
+author organization:Shenyang University
+author id:2650762323|
+author name:Liang Dong
+author organization:College of Information Science and Engineering Northeastern University
+author id:2700911960|
+author name:Lin Li
+author organization:Northeastern University
+author id:2644063881|
+]
+abstract:depend|optimal|network|delivered|degrees|dynamics|implemented|probabilities|case|traffic|algorithm|delivering|new|based|simulations|proportional|packet|propose|node|node|ba|next|study|waiting|show|degree|networks|local|network|capacity|routing|tunable|ability|according|scalefree|estimated|also|maximal|single|controlled|parameter|information|time|strategy|topological|corresponds
+venue name:International Conference on Control, Automation, Robotics and Vision
+venue id:1168170433
+venue type:C
+document type:Conference
+study fields:Link-state routing protocol|Equal-cost multi-path routing|Multipath routing|Dynamic Source Routing|Computer science|Static routing|Computer network|Routing domain|Routing table|Geographic routing
+references:1527463082|2107047240
+
+
+id:2158463163
+title:Modeling the electrostatic potential of asymmetric lipopolysaccharide membranes: The MEMPOT algorithm implemented in DelPhi
+year:2014
+author information:[
+author name:Roberta P. Dias
+author organization:Department of Fundamental ChemistryFederal University of Pernambuco
+author id:2133649978|
+author name:Lin Li
+author organization:Department of PhysicsComputational Biophysics and BioinformaticsClemson UniversityClemson South Carolina
+author id:2510437989|
+author name:Thereza A. Soares
+author organization:Department of Fundamental ChemistryFederal University of Pernambuco
+author id:2120597863|
+author name:Emil Alexov
+author organization:Department of PhysicsComputational Biophysics and BioinformaticsClemson UniversityClemson South Carolina
+author id:2007271094|
+]
+abstract:rough|membrane|aeruginosa|pseudomonas|approach|dynamics|molecular|investigated|chemotypes|lipopolysaccharides|four|water||simulations|explicit|poisso|combined
+venue name:Journal of Computational Chemistry
+venue id:21117631
+venue type:J
+document type:Journal
+study fields:Poisson–Boltzmann equation|Analytical chemistry|Biological system|Computational chemistry|Chemistry|Membrane|Lipopolysaccharide|Molecular dynamics|Static electricity
+references:2002501126|2007095477|2012707864|2110562802|2128572087|2171268876
+
+
+id:2161060409
+title:Structural and energetic determinants of tyrosylprotein sulfotransferase sulfation specificity.
+year:2014
+author information:[
+author name:Praveen Nedumpully-Govindan
+author organization:Clemson University
+author id:160746730|
+author name:Lin Li
+author organization:Clemson University
+author id:2510437989|
+author name:Emil Georgiev Alexov
+author organization:Clemson University
+author id:2007271094|
+author name:Mark Alan Blenner
+author organization:Clemson University
+author id:12526051|
+author name:Feng Ding
+author organization:Clemson University
+author id:2108722815|
+]
+abstract:modeling|buried|binding|type|without|estimate|sulfated|energy|determinants|peptide|sulfotransferases|method|depends|work|local|underlying|uncover|posttranslational|secondary|light|affinities|affinity|binding|study|role|peptides|peptides|availability|sequences|catalyzed|local|systems|proteins|variations|specificity|processes|predicting|welldefined|energetic|ordered|tyrosylprotein|may|structures|suggest|many|great|mediating|expect|associated|sulfation|variants|elusive|renders|shed|data|transferable|available|remains|sites|used|accessibility|differentiate|find|online|host|motif|results|potential|bioinformatics|tyrosine|tyrosines|including|modification|important|sequence|thermodynamic|solvent|useful|differentiation|unfolding|crucial|ptm|around|interactions|structural|biologically|molecular|supplementary|scripts|tyrosinecontaining|enzyme|costs|plays|nonsulfated|perform|interplay|also|better|achieved|tpst
+venue name:Bioinformatics
+venue id:52395412
+venue type:J
+document type:Journal
+study fields:Tyrosine sulfation|Plasma protein binding|Sulfation|Biochemistry|Computer science|Ligand (biochemistry)|Sequence motif|Peptide|Tyrosine|Tyrosylprotein sulfotransferase
+references:2075319133|2108257090|2111854851|2142479026|2144482528|2161062388
+
+
+id:2176033110
+title:Measure the Semantic Similarity of GO Terms Using Aggregate Information Content
+year:2013
+author information:[
+author name:Xuebo Song
+author organization:Clemson University
+author id:2103864685|
+author name:Lin Li
+author organization:Clemson University
+author id:2614895494|
+author name:Pradip K. Srimani
+author organization:University
+author id:2089465206|
+author name:Philip S. Yu
+author organization:University of Chicago
+author id:2125104194|
+author name:James Z. Wang
+author organization:University
+author id:2778676119|
+]
+abstract:extensive|addresses|data|use|rapid|implicitly|annotate|experimental|annotations|annotated|gene|terms|huge|necessitate|reflects|limitations|based|development|using|closely|method|genes|gene|proposes|ancestor|matches|graph|terms|measure|perception|correlation|obtained|semantic|functional|ontology|methods|show|measurement|content|aggregate|represents|paper|similarity|studies|term|human|amount|expression|determine|efficient|go|also|data|biomedical|computation|beings|outperforms|existing|genes|information|content|location|novel
+venue name:International Symposium on Bioinformatics Research and Applications
+venue id:1156741871
+venue type:C
+document type:Conference
+study fields:Semantic similarity|Graph|Information retrieval|Computer science|Gene ontology|Ancestor|Perception|Computation
+references:1647729745|1659833910|1961827049|1999722941|2007038646|2017936606|2084168100|2100935296|2109047523|2110595429|2121343862|2126225210|2128049108|2141012957|2146827656|2605068739
+
+
+id:2623747081
+title:Treating ion distribution with Gaussian-based smooth dielectric function in DelPhi
+year:2017
+author information:[
+author name:Zhe Jia
+author organization:Clemson University Computational Biophysics and Bioinformatics
+author id:2103480354|
+author name:Lin Li
+author organization:Clemson University
+author id:2510437989|
+author name:Arghya Chakravorty
+author organization:Clemson University
+author id:2579976020|
+author name:Emil Alexov
+author organization:Clemson University
+author id:2007271094|
+]
+abstract:macromolecules|tested|ion|binding|experimental|approach|without|via|inc|pearson|wiley|model|near|dielectric|energy|phase|respectively|surface|natural|layer|invokes|correlations|resulting|present|boundary|complexes|treatment|gaussianbased|extension|solutesolvent|distribution|local|penalty|electrostatic|dependence|ions|place|free|salt|question|framework|boltzmann|partially|governed|standard|reports|added|stern|surface|function|boundaries|solute|potential|commonly|definite|water|article|take|solvent|penalty|determines|relies|along|desolvation|molecular|smooth|constructed|equation|mobile|concentration|treats
+venue name:Journal of Computational Chemistry
+venue id:21117631
+venue type:J
+document type:Journal
+study fields:Dielectric function|Boltzmann distribution|Desolvation|Macromolecule|Finite difference|Computational chemistry|Chemistry|Gaussian|Solvent|Ion
+references:1973060079|2006450060|2062224822|2107317356|2149537211|2150785142|2170802700|2190363753
+
+
+id:2781628627
+title:A comparison of dimension reduction techniques for support vector machine modeling of multi-parameter manufacturing quality prediction
+year:2019
+author information:[
+author name:Yun Bai
+author organization:Dongguan University of Tech
+author id:2329197025|
+author name:Zhenzhong Sun
+author organization:DONGGUAN UNIVERSITY OF TECHNOLOGY
+author id:2531244509|
+author name:Bo Zeng
+author organization:Dongguan University of Technology
+author id:2069829756|
+author name:Jianyu Long
+author organization:DONGGUAN UNIVERSITY OF TECHNOLOGY
+author id:2771403523|
+author name:Lin Li
+author organization:Dongguan University of Tech
+author id:2711554552|
+author name:José Valente de Oliveira
+author organization:Universidade do Algarve
+author id:2138016299|
+author name:Chuan Li
+author organization:Dongguan University of Technology
+author id:2274390432|
+]
+abstract:modeling|modeling|leading|experimental|collected|competition|nonlinear|three|locally|terms|qualitative|manufacturing|model|investigated|utilized|models|using|mapping|analysis|quality|perspective|curse|difference|compare|methods|experiments|industry|global|svm|two|local|capacity|modern|feature|vector|indicate|embedding|address|linear|lowdimensional|lab|component|difficulties|machine|information|techniques|reveal|data|developed|brings|tianchi|comparison|isometric|pca|improving|measure|datadriven|techniques|prediction|support|lle|analysis|technique|learning|isomap|principal|getting|effective|candidate|multiparameter|manufacturing|dimension|effectiveness|china|monitor|control|data|outperforms|multistage|performance|various|quantitative|reduction
+venue name:Journal of Intelligent Manufacturing
+venue id:161464388
+venue type:J
+document type:Journal
+study fields:Data mining|Global dimension|Nonlinear system|Dimensionality reduction|Support vector machine|Feature extraction|Curse of dimensionality|Artificial intelligence|Engineering|Principal component analysis|Machine learning|Isomap
+references:818564445|1577151368|1987913709|2002106843|2009251346|2018849884|2025248735|2031407623|2033885131|2035034399|2056625397|2091746867|2127369782|2128728535|2158698691|2267620405|2326928968|2344627449|2557303445|2574179923|2615673769
+
+
+id:2106956326
+title:DelPhi web server v2
+year:2012
+author information:[
+author name:Nicholas Smith
+author organization:Clemson University
+author id:2503745772|
+author name:Shawn Witham
+author organization:Clemson University
+author id:2002628105|
+author name:Subhra Sarkar
+author organization:Clemson University
+author id:2122530856|
+author name:Jie Zhang
+author organization:Clemson University
+author id:2716490105|
+author name:Lin Li
+author organization:Clemson University
+author id:2510437989|
+author name:Chuan Li
+author organization:Clemson University
+author id:2984856810|
+author name:Emil Alexov
+author organization:Clemson University
+author id:2007271094|
+]
+abstract:cluster|data|objects|available|html|used|hydrogen|via|presentation|visualize|online|model|manipulated|results|potential|bioinformatics|released|new|given|including|jmol|achieved|follows|real|utilizes|software|energies|size|atomic|biological|http|nanosize|position|object|server|supercomputer|edition|back|delphi|fixes|atoms|macromolecules|desired|electrostatic|web|structural|ionic|php|ability|together|adds|architecture|carried|include|implementation|geometrical|built|calculates|structure|computation|figures|corresponding|time|user
+venue name:Bioinformatics
+venue id:52395412
+venue type:J
+document type:Journal
+study fields:Web API|Client|Computer science|Delphi|Bioinformatics|Hypertext Transfer Protocol|Web service|Database|Operating system|The Internet|Web server|Application server
+references:2040474140|2110562802
+
+
+id:1628607222
+title:Simulation-based production scheduling with optimization of electricity consumption and cost in smart manufacturing systems
+year:2015
+author information:[
+author name:Zeyi Sun
+author organization:University of Illinois at Chicago
+author id:2166750892|
+author name:Dong Wei
+author organization:Siemens Corporation, Princeton, NJ
+author id:2698952857|
+author name:Lingyun Wang
+author organization:Corporate Technology, Siemens Corporation, Princeton, NJ 08540, USA
+author id:2686601700|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:carbon|manufacturing|case|energy|reduce|environmental|method|focusing|packages|system|practitioners|decisionmaking|plant|metrics|energyintegrated|systems|study|brought|pursuit|facing|plants|functionality|smart|integrators|systems|plants|many|discussed|vendors|operational|future|increasing|interests|commercial|auto|developed|high|awareness|solution|presented|scheduling|method|throughput|different|sector|development|illustrate|modeled|pressure|real|regarding|footprints|proposed|mounting|survey|benefits|production|part|numerical|due|direction|brief|cost|consumption|existing|industrial|performance|proposed|application|conduct|management|optimization|well|providers
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Energy management|Secondary sector of the economy|Electricity|Manufacturing engineering|Scheduling (production processes)|Schedule|Energy management system|Throughput|Engineering|Energy consumption
+references:1976082178|1997811690|2092483720|2165515882
+
+
+id:1631300229
+title:Data driven production runtime energy control of manufacturing systems
+year:2015
+author information:[
+author name:Zeyi Sun
+author organization:University of Illinois at Chicago
+author id:2166750892|
+author name:Dong Wei
+author organization:Siemens Corporation, Princeton, NJ
+author id:2698952857|
+author name:Lingyun Wang
+author organization:Corporate Technology, Siemens Corporation, Princeton, NJ 08540, USA
+author id:2686601700|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:optimal|considered|entire|different|gradually|manufacturing|case|energy|reduce|based|environmental|neglecting|method|schemes|indicators|propose|system|provide|decisionmaking|plant|evaluate|systems|study|scheme|methods|utilizing|save|protection|offline|energy|systems|plants|many|key|climate|decisionmaking|change|increasing|information|auto|joint|developed|implemented|method|dynamic|cost|illustrate|runtime|conducted|real|maintaining|regarding|production|proposed|datadriven|focused|overall|production|part|integrated|effectiveness|processes|cost|manufacturers|consumption|control|concerns|specific|performance|due|management|online|time
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Energy engineering|Energy management|Performance indicator|Process development execution system|Computer-integrated manufacturing|Manufacturing engineering|Engineering|Energy accounting|Energy consumption|Reliability engineering|Manufacturing execution system
+references:1968115262|2062100139
+
+
+id:1968115262
+title:Opportunity Estimation for Real-Time Energy Control of Sustainable Manufacturing Systems
+year:2013
+author information:[
+author name:Zeyi Sun
+author organization:University of Illinois at Chicago
+author id:2166750892|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:optimal|used|research|without|investigates|impedes|sacrificing|high|realtime|carbon|manufacturing|method|buffer|buffers|results|case|energy|based|efficiency|compared|considering|illustrate|lower|multimachine|opportunity|real|lack|estimation|efforts|system|proposed|leads|throughput|automotive|much|complexity|study|works|line|ecology|competitiveness|global|dioxide|increases|numerical|modern|paper|due|systems|assembly|stochastic|company|factor|designed|effectiveness|multiple|control|performed|single|existing|industrial|environment|destroyed|management|machine|typical|machines|significantly|operation|pointofview
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Energy engineering|Energy management|Energy conservation|Efficient energy use|Simulation|Computer science|Computer-integrated manufacturing|Control engineering|Energy consumption|Reliability engineering|Sustainability|Automotive industry
+references:2031007582|2071723183
+
+
+id:1984915403
+title:A PSO algorithm for constrained redundancy allocation in multi-state systems with bridge topology
+year:2014
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:optimal|called|allowed|approach|required|problem|optimization|advances|meaning|case|element|generation|models|efficiency|nearoptimal|topology|investment|received|two|circuits|system|applies|bridge|much|reliability|tradeoff|availability|proved|computer|systems|electronic|particle|power|redundancy|minimizing|characterized|multistate|transportation|topology|heterogeneous|elements|conveyor|constraints|used|research|results|commonly|solutions|maximizing|difficult|engineering|finding|enhanced|bridgestructured|proposed|solve|allocating|coal|bridge|studied|redundant|metaheuristic|load|paper|validated|mixture|extra|design|studies|formulations|effectiveness|allocation|types|aims|cost|practical|literature|limited|effectively|electric|control|satisfying|improvement|structure|balancing|performance|swarm|typical|attention|applications
+venue name:Computers  Industrial Engineering
+venue id:196821226
+venue type:J
+document type:Journal
+study fields:Particle swarm optimization|Topology|Mathematical optimization|Problem Formulations|Load balancing (computing)|Redundancy (engineering)|Dual modular redundancy|Engineering|Electronic circuit|Electricity generation
+references:642414339|1967438615|1968992039|1971945294|1976868141|1978855890|1988854130|2001565273|2002371394|2005954501|2013163609|2013168395|2013600375|2028411773|2031611406|2034629430|2065939477|2068892407|2069280737|2076501149|2081749411|2081795579|2087696187|2096344948|2103750433|2131562862|2138137850|2148606018|2170516164
+
+
+id:1985272633
+title:Feature selection using tabu search with long-term memories and probabilistic neural networks
+year:2009
+author information:[
+author name:Yong Wang
+author organization:University of Michigan
+author id:2661038228|
+author name:Lin Li
+author organization:University of Michigan
+author id:2423074595|
+author name:Jun Ni
+author organization:University of Michigan
+author id:2134711422|
+author name:Shuhong Huang
+author organization:Huazhong University of Science  Technology
+author id:2109367341|
+]
+abstract:extensive|delicate|smaller|select|optimal|dimensionality|feature|approach|realworld|number|problem|shorten|order|algorithm|reduce|using|tuning|classification|selection|curse|experiments|global|networks|cycle|measurement|local|backpropagationbased|search|feature|indicates|sets|training|probabilistic|performed|traps|accuracy|data|rapid|shortterm|research|features|classifiers|solutions|problems|computational|comparison|bayesian|differs|decrease|improving|hybrid|outgrowth|proposed|improve|tabu|necessity|memory|neural|applied|convergence|generating|integrated|outperform|previous|relieve|length|instead|equal|risk|avoid|reduction|longterm
+venue name:Pattern Recognition Letters
+venue id:151820558
+venue type:J
+document type:Journal
+study fields:Search algorithm|Dimensionality reduction|Feature selection|Probabilistic neural network|Artificial intelligence|Probabilistic logic|Backpropagation|Artificial neural network|Tabu search|Mathematics|Machine learning
+references:1523989055|1974542028|2001169470|2004338242|2014915963|2017337590|2018020721|2026535637|2065004162|2068458829|2084792706|2097260197|2097653553|2102353333|2104862701|2119479037|2122111042|2132549764|2143153057|2164743815
+
+
+id:2001565273
+title:Heterogeneous Redundancy Allocation for Series-Parallel Multi-State Systems Using Hybrid Particle Swarm Optimization and Local Search
+year:2012
+author information:[
+author name:Yong Wang
+author organization:University of Hong Kong
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:standard|ls|heterogeneous|problem|solution|optimization|terms|function|modified|consider|unlike|results|algorithm|method|level|illustrate|adapt|pso|quality|homogeneous|hybrid|system|proposed|provide|tabu|solve|comparisons|evaluate|metaheuristics|nonhybrid|availability|facilitate|systems|seriesparallel|colony|applied|generating|technique|local|integrated|case|literature|search|desired|heuristics|design|reported|studies|particle|redundancy|universal|allows|genetic|allocation|cost|previous|problem|strategies|multistate|ant|structure|efficiency|advantages|swarm|able|provided|well|minimum|novel
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Ant colony optimization algorithms|Particle swarm optimization|Mathematical optimization|Hybrid algorithm|Computer science|Redundancy (engineering)|Artificial intelligence|Local search (optimization)|Tabu search|Genetic algorithm|Machine learning|Metaheuristic
+references:1574146411|1577668191|1971945294|1985043293|2034629430|2069280737|2076501149|2081749411|2081795579|2087696187|2109988251|2112515691|2116827549|2148606018|2160998879|2165046421|2169245194
+
+
+id:2022071794
+title:A Novel Modeling Method for Both Steady-State and Transient Analyses of Serial Bernoulli Production Systems
+year:2015
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:modeling|advanced
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Settling time|Systems modeling|Steady state|Probability theory|Optimization problem|Eigenvalues and eigenvectors|Atomic model|Mathematics|Bernoullis principle
+references:1968992039|1984915403|2001565273|2007001378|2028411773|2031007582|2045505643|2062100139|2064493542|2065841986|2068892407|2096594645|2124711572|2128224570|2148606018|2165515882|2170858755
+
+
+id:2028105921
+title:Real time electricity demand response for sustainable manufacturing systems: Challenges and a case study
+year:2012
+author information:[
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+author name:Zeyi Sun
+author organization:University of Illinois at Chicago
+author id:2166750892|
+author name:Zhijun Tang
+author organization:Innovation Center, Eaton Corporation, Southfield, MI, 48076 USA
+author id:2653655627|
+]
+abstract:united|recognized|without|states|gradually|realtime|review|manufacturing|case|energy|generation|compared|work|expected|impact|investment|demand|planning|system|appropriate|study|numerical|control|long|literature|systems|seldom|term|side|electricity|many|performed|grid|found|research|analyzed|academia|huge|throughput|sector|stability|new|illustrate|real|significant|maintaining|efforts|mounting|production|purpose|challenges|provided|negative|load|due|company|possibility|shave|brief|industry|implementation|consumption|peak|significance|existing|industrial|management|response|time|reduction|customer
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Electricity market|Load management|Electricity|Demand response|Peak demand|Production planning|Demand management|Electricity retailing|Environmental economics|Business
+references:1974810281|1985329954|1993728659|2056482368
+
+
+id:2028411773
+title:Reliability and covariance estimation of weighted k-out-of-n multi-state systems
+year:2012
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+author name:Shuhong Huang
+author organization:Huazhong University of Sci.  Tech
+author id:2109367341|
+author name:Qing Chang
+author organization:Stony Brook University
+author id:2101859864|
+]
+abstract:calculation|empirical|simple|serve|koutofn|building|measures|known|solution|function|method|usually|weighted|calculated|case|based|using|including|equations|estimation|system|propagation|binary|true|completely|level|propagates|assumes|uncertainty|systems|applied|reliability|estimators|function|generating|covariance|uncertainty|derive|literature|paper|estimator|systems|parallel|studies|applications|mechanism|universal|process|practical|derived|may|multistate|blocks|estimated|also|data|sample|structure|component|corresponding|unbiased|series|arises|unified|complicated|approach|complete
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Estimation of covariance matrices|Universal generating function|Structure function|Mathematics|Estimator|System level|Binary number|Covariance
+references:642414339|1574146411|1984987698|1999203685|2001565273|2001854852|2030246750|2065420841|2077508721|2081328775|2081795579|2083847842|2104785986|2136305032|2149044304|2157830874
+
+
+id:2062100139
+title:Dynamic Energy Control for Energy Efficiency Improvement of Sustainable Manufacturing Systems Using Markov Decision Process
+year:2013
+author information:[
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+author name:Zeyi Sun
+author organization:University of Illinois at Chicago
+author id:2166750892|
+]
+abstract:optimal|united|introduced|extremely|carbon|complex|manufacturing|model|state|buffers|case|energy|algorithm|generation|efficiency|method|nearoptimal|work|considering|dynamically|system|warming|consideration|greenhouse|become|study|achieve|focuses|global|process|systems|assembly|decisions|power|markov|society|states|low|solution|systematic|decision|approach|adopted|constraints|approximate|section|used|developed|research|view|find|buffers|illustrate|modeled|real|done|establish|lack|emitted|proposed|singlemachine|vital|problems|little|analytical|production|line|dioxide|states|numerical|related|due|design|gas|evolutions|emissions|human|effectiveness|electric|multiple|control|consumption|improvement|existing|industrial|application|management|typical|interaction|time|machines
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Manufacturing|Markov process|Efficient energy use|Computer science|Systems design|Markov decision process|Energy accounting|Energy consumption|Electricity generation
+references:2007630731|2018692097|2043332017|2060127356|2185277641
+
+
+id:2068892407
+title:Effects of Uncertainty in Both Component Reliability and Load Demand on Multistate System Reliability
+year:2012
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:focus|accuracy|approach|analytical|complex|attempts|based|period|method|considering|expected|monte|demand|simulations|extend|system|estimation|examples|uncertainty|completely|form|affect|reliability|uncertainty|two|systems|indicate|sets|mss|multistate|component|binarystate|operation|msss|source|used|either|function|different|results|various|admitted|iterative|done|expressions|estimation|effects|proposed|considerable|seriesparallel|analytical|structures|generating|investigate|factors|general|load|paper|validated|parallel|studies|ignore|value|derived|universal|previous|calculating|carlo|factors|ways|variance|restricted
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Monte Carlo method|Mathematical optimization|Random variable|Expression (mathematics)|Computer science|Iterative method|Sensitivity analysis|Uncertainty analysis|Symmetric matrix|Expected value
+references:642414339|1574146411|1982976761|1984987698|1993490880|2001565273|2052616521|2069280737|2077508721|2081795579|2083592025|2099432182|2104785986|2112515691|2131562456|2136159456|2136305032|2152803823|2157830874|2163045919
+
+
+id:2073347537
+title:Real time electricity demand response for sustainable manufacturing systems considering throughput bottleneck detection
+year:2013
+author information:[
+author name:Zhichao Zhou
+author organization:University of Illinois at Chicago
+author id:2649041037|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:thought|united|constraints|without|introduced|bottleneck|manufacturing|case|promising|period|method|compared|considering|expected|impact|demand|peaks|feasibility|planning|system|throughput|decades|valleys|distribution|capacity|yield|periods|indicate|power|detection|heuristic|electricity|great|increasing|constraint|capital|research|shifting|high|curtailing|academia|scheduling|throughput|results|potential|new|real|especially|state|rare|next|critical|production|inexpensive|technique|numerical|negative|load|due|since|studies|highly|smooth|industry|satisfy|peak|increase|concerning|management|infrastructure|response|growth|time|reducing|significantly|demands|longterm
+venue name:Conference on Automation Science and Engineering
+venue id:2757360906
+venue type:C
+document type:Conference
+study fields:Load management|Bottleneck|Manufacturing|Demand forecasting|Electricity|Computer science|Demand response|Scheduling (production processes)|Throughput|Environmental economics
+references:1985329954|1993728659|2028105921
+
+
+id:2168958548
+title:Process mining based modeling and analysis of workflows in clinical care - A case study in a chicago outpatient clinic
+year:2014
+author information:[
+author name:Zhichao Zhou
+author organization:University of Illinois at Chicago
+author id:2309575250|
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:accurate|simulation|united|outpatient|states|complex|model|flow|case|based|efficiency|method|considering|system|provide|flexible|doctors|analyze|creating|discrete|improvement|decades|care|spends|statistical|study|methods|quantitatively|healthcare|systems|processes|event|based|product|one|suggest|expenditure|sensitivity|powerful|able|logs|estimations|expenditure|used|abstractlevel|meaningful|domestic|analyses|view|continue|dynamic|results|discover|gross|workflow|involves|behaviors|illustrate|capture|mining|tool|discrete|clinical|proposed|useful|next|costeffective|investigate|patient|value|center|carried|process|processes|practical|nature|limited|nurses|lowering|resources|also|improving|performance|currently|management|activities|clinic|rise|methodology
+venue name:International Conference on Networking, Sensing and Control
+venue id:1164469504
+venue type:C
+document type:Conference
+study fields:Data science|Health care|Patient flow|Computer science|Workflow|Gross domestic product|Discrete event modeling|Performance improvement|Process mining|Discrete event simulation
+references:1495107092|1522642647|2057733989|2067221614|2097166787|2099753123|2113920655|2118882248|2129594570|2155862563|2170917993
+
+
+id:2170858755
+title:Derivation of Reliability and Variance Estimates for Multi-State Systems With Binary-Capacitated Components
+year:2012
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+author name:Shuhong Huang
+author organization:Huazhong University of Science  Technology
+author id:2109367341|
+]
+abstract:equivalent|results|accuracy|derivation|improved|estimate|state|pseudo|probabilities|based|using|method|monte|utilizes|approximated|system|interval|components|reliability|formulate|another|respectively|two|example|literature|systems|indicate|table|compared|product|multistate|distribution|simulations|comparisons|associated|approach|component|process|used|developed|function|estimates|illustrate|closedform|iterative|binomial|replacing|expressions|three|estimation|proposed|configurations|virtual|seriesparallel|analytical|applied|generating|expectation|analytically|paper|universal|derived|effectiveness|coverage|components|constructed|confidence|carlo|binarycapacitated|derives|formulated|variance|derivation|significantly
+venue name:IEEE Transactions on Reliability
+venue id:87725633
+venue type:J
+document type:Journal
+study fields:State transition table|Binomial distribution|Monte Carlo method|Iterative method|Probabilistic logic|Statistics|Confidence interval|Mathematics|Reliability theory|Binary number
+references:642414339|1984987698|2021163084|2052616521|2069280737|2077508721|2081795579|2083592025|2104785986|2128800651|2136305032|2149044304|2152803823|2157830874
+
+
+id:2171218346
+title:Uncertainty Importance Measure of Individual Components in Multi-State Systems
+year:2015
+author information:[
+author name:Yong Wang
+author organization:University of Illinois at Chicago
+author id:2661038228|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:combinations|accuracy|newly|measures|complex|rank|usually|reliability|variancebased|defined|reduce|models|based|successfully|models|testing|utilizes|extend|approximated|system|field|examples|components|reliability|research|emerged|uncertainty|extended|estimator|systems|measure|multistate|structures|data|generally|help|component|traditional|binarystate|uims|calculation|available|research|ideas|generated|function|method|estimates|dedicated|typically|lack|proposed|failure|true|reliabilities|demonstrate|importance|values|provided|generating|multinomial|relies|studies|derived|universal|potentials|process|components|limited|estimated|corresponding|variance|well|derivation|account
+venue name:IEEE Transactions on Reliability
+venue id:87725633
+venue type:J
+document type:Journal
+study fields:Propagation of uncertainty|Iterative method|Multinomial distribution|Universal generating function|Measurement uncertainty|Statistics|Mathematics|Reliability engineering|Estimator
+references:642414339|1574146411|1977527690|1984915403|1987824485|1994080277|2001565273|2006458258|2028411773|2042089001|2048993427|2068892407|2089520569|2102660190|2124000105|2127368091|2138776859|2142194347|2170858755
+
+
+id:2810013164
+title:Integrated Electricity and Natural Gas Demand Response for Manufacturers in the Smart Grid
+year:2019
+author information:[
+author name:Fadwa Dababneh
+author organization:Department of Mechanical and Industrial Engineering University of Illinois at Chicago Chicago IL USA
+author id:2187776349|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:maintain|usage|supply|problem|realtime|manufacturing|gasfired|model|savings|fully|case|energy|algorithm|reduce|inadequate|interdependency|using|large|natural|dependency|response|simulated|baseline|demand|decisionmaking|driven|opens|simultaneously|notifications|numerical|sustainable|eventbased|methods|comes|smart|manufacturer|promote|msa|customers|power|compared|reaction|problem|electricity|many|opportunities|grid|increasing|cannot|suppliers|influence|solution|operation|scheduling|established|implemented|modified|consider|sector|scenarios|illustrate|proposed|solve|environmentally|benefits|solving|studied|production|generation|annealing|gas|timebased|studies|fails|considers|cost|manufacturers|contributing|realized|peak|outperforms|industrial|due|providers|various|interaction|well|achieved|methodology
+venue name:IEEE Transactions on Smart Grid
+venue id:59604973
+venue type:J
+document type:Journal
+study fields:Load management|Job shop scheduling|Smart grid|Electricity|Demand response|Control engineering|Scheduling (production processes)|Engineering|Natural gas|Environmental economics|Grid
+references:1570949702|1989357193|2055947209|2063104570|2079585583|2082291889|2088134026|2130998364|2207925239|2282306053|2344624305|2730891456
+
+
+id:2903579256
+title:Joint Asymmetric Tolerance Design and Manufacturing Decision-Making for Additive Manufacturing Processes
+year:2019
+author information:[
+author name:Azadeh Haghighi
+author organization:University of Illinois at Chicago
+author id:2095890994|
+author name:Lin Li
+author organization:University of Illinois
+author id:2423074595|
+]
+abstract:seamlessly|considered|manufacturers|approach|evaluation|phase|optimization|manufacturing|estimate|guidelines|concurrently|usually|fabricating|developed|based|assemblies|methodologies|probability|made|considering|way|require|impacts|jointly|additive|practitioners|standards|traditional|examples|slow|unique|note|obtained|asymmetric|level|requires|systems|components|statistical|methods|quality|priori|proven|bootstrap|distribution|layer|unknown|products|statistics|capability|timeconsuming|known|assembly|decisions|processes|product|density|problem|optimum|many|extensive|stage|cannot|normality|novel|cyclic|adopted|joint|dimensional|used|assumptions|trial|fabricated|growing|function|method|feasible|different|tolerance|selected|need|illustrate|significant|develop|affected|tool|lack|important|task|proposed|allocating|tackle|parameters|errors|critical|applied|costeffective|production|crucial|provided|technique|error|speed|numerical|productivity|design|tolerances|enhancing|effectiveness|symmetricity|allocation|characteristics|processes|designers|process|cost|practical|determine|implementation|confidence|tolerance|specification|approaches|formulated|application|build|due|efforts|significantly|methodology
+venue name:IEEE Transactions on Automation Science and Engineering
+venue id:34881539
+venue type:J
+document type:Journal
+study fields:Process capability|Resource management|Population|Mathematical optimization|Trial and error|Computer science|A priori and a posteriori|Design tool|Process control|Product design|Reliability engineering
+references:1520757484|1998095362|1999769953|2080574972|2082639035|2115435866|2160935659|2345286239|2529908109|2567177733
+
+
+id:1197203508
+title:Semantic volume texture for virtual city building model visualisation
+year:2015
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:XinQiao Duan
+author organization:Wuhan University
+author id:2165394291|
+author name:HaiHong Zhu
+author organization:Wuhan University
+author id:2639041036|
+author name:RenZhong Guo
+author organization:Urban Planning, Land and Resources Commission of Shenzhen Municipality, 518034 Shenzhen, China
+author id:2690806765|
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+]
+abstract:illustrations|practice|objects|imagebased|illustrative|direct|preparation|visual|model|spatial|longstanding|navigation|give|models|efficiency|reconstructing|surface|thus|cues|robustness|boundarydescribed|removing|environments|cognitive|provide|occlusion|valuable|imitating|semantic|direct|pattern|global|experiments|extended|svt|embedding|costly|microscale|popular|suffers|within|efficient|abstract|implementing|texture|clustered|raster|consistent|residential|explorative|urbanisation|entities|instruction|increasing|cutting|operations|illustration|geometry|complete|rapid|amendments|prevents|svtbased|contexts|crosssectioning|cutaways|space|threedimensional|presented|houses|avoiding|computational|development|clutter|semantically|making|proposes|confronted|sections|article|volume|concern|citygml|proposed|keep|preserving|illustrating|boundary|demonstrated|away|challenges|show|layered|effective|positioning|visually|practical|cross|visualisations|separated|easily|environment|suitable|illustration|properties|integrates|multilayered|base|applications
+venue name:Computers, Environment and Urban Systems
+venue id:60115552
+venue type:J
+document type:Journal
+study fields:Data mining|Raster graphics|Computer science|Visual navigation|Robustness (computer science)|Artificial intelligence|CityGML|Schema (psychology)|Computer vision|Embedding|Simulation|Visualization|Building model
+references:55299843|1503455798|1793657606|1806118002|1829374766|1833474242|1964163274|1965821308|1970930083|1978706250|1981995643|1986801238|1987574372|1992375419|1996517959|1996772125|2002436811|2012432153|2028687412|2032195236|2033581337|2034845925|2035113918|2047242678|2058114706|2060556621|2065493180|2066757766|2072591132|2079685598|2081181113|2090267299|2098293552|2099407246|2116196132|2121223684|2122140178|2128000233|2135201882|2139982105|2150415161|2150874632|2151228210|2204595578|2278668406|2293779956|2398995085
+
+
+id:1964360651
+title:Extraction of land cover from ZY-3 imagery using ontology-based method
+year:2015
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Heng Luo
+author organization:Wuhan University
+author id:2225593541|
+author name:Xi Kuai
+author organization:Wuhan University
+author id:2790485623|
+author name:Zhijun Zhang
+author organization:Tianjin Institute of Surveying  Mapping, Tianjin, China
+author id:2498634622|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+]
+abstract:cgncm|considered|using|extracted|conditions|cover|features|automation|national|spatial|results|acquired|geographic|image|images|using|method|presented|extraction|analysis|mission|class|ontologybased|statistical|automatically|year|summer|capacity|highlight|validated|china|land|subsequent|class|monitoring|identify|one|prototype|help|framework|form|referenced|stored|information
+venue name:International Geoscience and Remote Sensing Symposium
+venue id:1195013065
+venue type:C
+document type:Conference
+study fields:Ontology (information science)|Ontology|Data mining|Computer science|Remote sensing|Feature extraction|Automation|Land cover|Statistical analysis
+references:2012172914|2029106110|2046203906|2077312680|2129931535|2151446246|2151967082|2156613212
+
+
+id:1978706250
+title:Developing a 3D cadastre for the administration of urban land use: A case study of Shenzhe
+year:2013
+author information:[
+author name:Renzhong Guo
+author organization:Wuhan University
+author id:2690806765|
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+author name:Ping Luo
+author organization:Shenzhen Centre for Assessment and Development of Land and Estate, 518034 Shenzhen, China
+author id:2699088921|
+author name:Biao He
+author organization:Urban Planning, Land and Resources Commission, Shenzhen Municipality
+author id:2965267068|
+author name:Renrong Jiang
+author organization:Shenzhen Centre for Assessment and Development of Land and Estate, 518034 Shenzhen, China
+author id:2682179475|
+]
+abstract:shift|without|cadastre|embed|case|fully|ad|surface|researchers|utilization|presenting|require|urbanization|demand|easy|parcelbased|traditional|system|alteration|excessive|hoc|parcels|taking|city|two|exploitation|current|encourage|fast|broken|means|abstract|implementing|cadastral|space|economic|relying|practicability|data|administration|use|rapid|developed|procedures|space|threedimensional|shown|quite|actual|development|cities|administration|accepted|develop|cadastre|modification|system|institutions|demonstrate|present|support|frame|full|technical|paradigm|instances|recent|effective|paper|china|design|land|limited|implementation|china|resources|concentration|realized|urban|application|management|administrative|challenge|growth|presents
+venue name:Computers, Environment and Urban Systems
+venue id:60115552
+venue type:J
+document type:Journal
+study fields:Data mining|Urbanization|Cadastre|Environmental planning|China|Land administration|Legislation|Civil engineering|Geography|Land use|Land resources
+references:1900417662|1969625343|1983115718|1991795748|1995966996|1997063735|2010802967|2031276850|2039985602|2100502356|2102861042|2116075278|2132717390|2165619506|2196734151
+
+
+id:1995966996
+title:Building 3D cadastral system based on 2D survey plans with SketchUp
+year:2011
+author information:[
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Renzhong Guo
+author organization:Urban Planning, Land and Resources Commission of Shenzhen Municipality
+author id:2690806765|
+]
+abstract:trend|objects|express|topologic|used|construct|body|building|relationships|property|model|spatial|programming|manipulate|sketchup|models|development|method|concentrates|language|utilization|resulting|planning|system|spatial|plans|among|geometric|survey|plans|support|thematic|become|sketchup|analysis|automatically|representation|current|metropolis|operations|paper|land|construction|ruby|built|cadastral|analyzed|consistent|manage|threedimensional|urban|management|units|attributes|information|topological|complete|maintenance|objects|presents
+venue name:Geo-spatial Information Science
+venue id:36798160
+venue type:J
+document type:Journal
+study fields:Construction engineering|Computer vision|Cadastre|Urban planning|Geometric representation|Artificial intelligence|Thematic map|Management system|Mathematics|Cartography|Land development
+references:1524016741|2010802967|2027103314|2029631753|2057431659
+
+
+id:2029106110
+title:User-Oriented Image Quality Assessment of ZY-3 Satellite Imagery
+year:2014
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Heng Luo
+author organization:Wuhan University
+author id:2225593541|
+author name:Mengyuan She
+author organization:Wuhan University
+author id:2232587502|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+]
+abstract:effect|evaluation|national|far|imagery|grayscale|revealed|visual|order|moderate|viewpoint|images|using|mapping|understand|analysis|quality|multispectral|angular|contrast|evaluating|presenting|wider|statistical|quality|two|confirmed|moment|products|result|entropy|gray|perspective|relationship|close|according|product|texture|image|data|assess|showed|maximum|statistics|standard|data|rating|good|second|assessment|features|potential|marked|image|comparison|panchromatic|level|conducted|users|respect|histogram|proposed|effect|scales|functionalities|survey|interpretability|higher|niirs|purpose|rating|scale|homogeneity|paper|similarity|scope|useroriented|interpretability|satellite|included|characteristics|advantage|estimated|also|scale|imagery|factors|better|performance|due|interpretability|various|suitable
+venue name:IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+venue id:117727964
+venue type:J
+document type:Journal
+study fields:Interpretability|Histogram|Computer vision|Satellite imagery|Image texture|Remote sensing|Multispectral image|Image quality|Artificial intelligence|Grayscale|Mathematics|NIIRS
+references:2029558746|2061630568|2130503956|2133665775
+
+
+id:2066332081
+title:An efficient dichotomizing interpolation algorithm for the refinement of TIN-based terrain surface from contour maps
+year:2014
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Xi Kuai
+author organization:Wuhan University
+author id:2790485623|
+]
+abstract:geodatabases|psts|polygons|establishing|accuracy|approach|building|investigates|triangles|number|elevation|problem|national|terms|generating|centers|dems|refinement|terrain|algorithm|eliminated|efficiency|goal|surface|slope|extraction|contoursan|reached|models|algorithm|algorithms|study|vertices|methods|achieve|reliability|comes|lines|irregular|local|proposedsupplementary|estimating|may|necessary|forward|many|contour|puts|interpolated|tin|emerge|algorithmthe|critical|iteratively|eliminating|available|used|completeness|points|high|adding|sufficient|theoretically|elevation|pan|wellknown|new|commonlyused|demonstrates|maps|commonly|iterative|pst|involved|triangulated|geometric|higher|locating|rather|applied|additional|psts|digital|refining|network|verifiedthe|database|paper|polygons|performances|derived|dichotomizing|enhance|requirements|processes|satisfy|china|also|adjacent|dem|better|tin|interpolation|performance|conventional|build|reducing|strategy|applications|referred
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Polygon|Tin|Computer science|Terrain|Contour line|Interpolation|Algorithm|Digital elevation model|Elevation|Triangulated irregular network
+references:1651292946|1965167217|1979678861|1989791028|1993510684|2002827932|2017440808|2029797847|2040795802|2061969459|2075019391|2075406630|2085235746|2098457762|2116814002|2153759474|2950200454
+
+
+id:2165601596
+title:Construction of 3D Volumetric Objects for a 3D Cadastral System
+year:2015
+author information:[
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+author name:Renzhong Guo
+author organization:Urban Planning, Land and Resources Commission of Shenzhen Municipality
+author id:2690806765|
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Peter van Oosterom
+author organization:Delft University of Technology
+author id:2558014341|
+author name:Jantien E. Stoter
+author organization:Delft University of Technology
+author id:2012722071|
+]
+abstract:straightforward|results|maintain|objects|adjacency|focus|approach|nonmanifold|relationships|differ|assumption|validation|tral|based|still|method|topology|made|testing|utilization|feasibility|input|onthe|among|parcels|object|methods|valid|change|cadastral|single|consisting|surveyors|drastically|topological|faces|incidence|represent|creation|correctly|shown|create|various|new|given|development|constructing|including|practice|illustrate|real|article|system|dense|volume|volumetric|specified|true|geometric|loose|present|support|cadas|boundary|identifying|needed|show|non|effective|primitives|construction|relationship|process|types|cases|constructed|implementation|ent|existing|urban|build|challenge|independently|presents|base|existing
+venue name:Transactions in Gis
+venue id:859791518
+venue type:J
+document type:Journal
+study fields:Adjacency list|Urban space|Data mining|Cadastre|Computer science|Gravitational singularity
+references:139459838|1509040171|1534935986|1605422666|1835757176|1981995643|1995966996|2004511394|2027103314|2057431659|2059344649|2100502356|2177815488|2403816202
+
+
+id:2172849645
+title:ACSEBUL: An Approach for the Construction of Spatial Entities Based on Unified Logic
+year:2016
+author information:[
+author name:Renzhong Guo
+author organization:Wuhan University
+author id:2690806765|
+author name:Changbin Yu
+author organization:Wuhan University
+author id:2307839221|
+author name:Lin Li
+author organization:Wuhan University School of Resource and Environmental Sciences
+author id:2622510277|
+author name:Zhigang Zhao
+author organization:Urban Planning, Land and Resources Commission, Shenzhen Municipality
+author id:2789646284|
+author name:Biao He
+author organization:Urban Planning, Land and Resources Commission, Shenzhen Municipality
+author id:2920504108|
+]
+abstract:considered|construct|used|descriptions|research|shown|definitions|results|validation|acsebul|respectively|based|using|construction|constructing|widely|proposes|comparing|discussed|article|examples|even|spatial|approach|demonstrate|parcels|applied|automatically|experiments|fundamental|guarantee|detailed|example|primitives|lowerdimensional|studies|construction|entities|based|logic|situations|constructed|china|lacking|unified|performed|entities|entities|unified|typical|approaches
+venue name:Transactions in Gis
+venue id:859791518
+venue type:J
+document type:Journal
+study fields:Data mining|Polygon|Computer science
+references:1978706250|1996517959|2010802967|2038087279|2044867286|2154892210|2177815488
+
+
+id:2350707518
+title:A two-level topological model for 3D features in CityGML
+year:2016
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Feng Luo
+author organization:Wuhan University
+author id:2556913876|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+author name:Zhigang Zhao
+author organization:Shenzhen Research Center of Digital City Engineering, 518034 Shenzhen, China
+author id:2789646284|
+]
+abstract:called|maintain|approach|consistency|three|feature|relationships|terms|disjoint|experimentation|model|validation|models|topology||contains|aggregates|topoade|application|shared|semantic|city|primitives|indicates|sets|abstract|representing|highlevel|model|information|topological|adopted|geometriclevel|represent|standard|data|rules|used|xlink|features|appearance|different|test|proposes|presented|touch|basis|respect|twolevel|citygml|overlap|proposed|geometry|geometric|lowlevel|exchange|domain|thematic|semanticlevel|citygml|representation|paper|derived|limited|implementation|rich|equal|five|adopts|consists|objects
+venue name:Computers, Environment and Urban Systems
+venue id:60115552
+venue type:J
+document type:Journal
+study fields:Digital topology|Topology|Topological space|Geometric primitive|Initial topology|CityGML|Extension topology|Geometric topology|3D city models|Mathematics
+references:852874|5053679|24399478|139459838|1526337814|1849252796|1903466446|1969383549|1987574372|1992375419|2003357237|2011598290|2015428026|2017837013|2047927510|2053164535|2053592869|2059850603|2061890311|2066762016|2066950425|2067629381|2072410948|2073578867|2087302006|2141236369|2177815488|2258611702
+
+
+id:2401534060
+title:3D modeling of the ownership structure of condominium units
+year:2016
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Jindi Wu
+author organization:Wuhan University
+author id:2556886696|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+author name:Xinqiao Duan
+author organization:Wuhan University
+author id:2165394291|
+author name:Feng Luo
+author organization:Wuhan University
+author id:2556913876|
+]
+abstract:ade|modeling|objects|condominium|approach|via|suggests|describing|legal|feasible|model|counterparts|reflects|case|depth|interrelations|land|citygml|concepts|proposed|studies|explored|domain|domain|present|semantic|internal|extension|immovable|units|two|precisely|paper|validated|studies|mechanism|based|physical|legislation|administration|abstract|structure|ownership|application|model|units|relations|extending|existing
+venue name:Computers, Environment and Urban Systems
+venue id:60115552
+venue type:J
+document type:Journal
+study fields:Data mining|Application domain extension|Land administration|Legislation|Economy|Architectural engineering|CityGML|3D modeling|Geography|Domain model
+references:1968331169|1978706250|1986602501|2026934506|2035113918|2165601596|2740581576
+
+
+id:2543462775
+title:A bibliometric and visual analysis of global geo-ontology research
+year:2017
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Yu Liu
+author organization:Wuhan University
+author id:2687367217|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+author name:Shen Ying
+author organization:Wuhan University
+author id:2199938128|
+author name:Qinyao Luo
+author organization:Wuhan University
+author id:2561783648|
+author name:Heng Luo
+author organization:Wuhan University
+author id:2225593541|
+author name:Xi Kuai
+author organization:Wuhan University
+author id:2790485623|
+author name:Hui Xia
+author organization:Wuhan University
+author id:2894115063|
+author name:Hang Shen
+author organization:Wuhan University
+author id:2565264327|
+]
+abstract:illustrating|cluster|reuse|modeling|collected|areas|computerhuman|approach|three|western|contributions|visual|majority|needed|knowledge|human|based|still|visualized|collaborative|academy|active|require|countries|portable|analysis|attention|interdisciplinary|geoontology|web|highest|granularity|solved|attracted|eastern|centrality|semantic|deal|geographical|independent|methods|automatically|cited|global|notable|confirmed|asia|research|study|sciences|national|map|key|progress|usa|owl|abstract|journals|makes|great|geographical|producers|diagram|diagram|geoontology|entities|future|mismatch|chinese|cocitation|information|dominance|topological|relations|communities|geography|country|institutions|data|semantic|numbers|main|journal|rework|research|geographic|academic|bibliometric|results|potential|ontology|needs|development|presented|published|finding|users|institutions|propagation|university|present|support|heat|computers|largest|identifying|keywords|ontology|science|crosslinguistic|information|error|papers|network|database|primitives|ontologydriven|wuhan|virtue|international|overview|cognition|trends|perform|disclosing|also|geosciences|activities|chord|translation|well|articles
+venue name:Computers  Geosciences
+venue id:61699894
+venue type:J
+document type:Journal
+study fields:Ontology (information science)|Data science|Data mining|Ontology-based data integration|Ontology|Geographic information system|World Wide Web|Computer science|Semantic Web|Bibliometrics|Social Semantic Web|Upper ontology
+references:1522529670|1888811121|1978018233|1999204157|2007171636|2042037135|2045788992|2050212325|2052061796|2054229986|2077293009|2079624749|2086848096|2088698266|2116209312|2119305001|2133109597|2155436615|2158864412|2166721403|2199453705|2437778516
+
+
+id:2905554249
+title:A 3D spatial data model of the solar rights associated with individual residential properties
+year:2019
+author information:[
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+author name:Yuan Lei
+author organization:Wuhan Land Use and Urban Spatial Planning Research Center, No.55, Sanyang Road, Wuhan 430014, China
+author id:2899305932|
+author name:Lei Tang
+author organization:Wuhan University
+author id:2633508970|
+author name:Fen Yan
+author organization:Wuhan University
+author id:2904598907|
+author name:Feng Luo
+author organization:Wuhan University
+author id:2556913876|
+author name:Haihong Zhu
+author organization:Wuhan University
+author id:2639041036|
+]
+abstract:extent|aroused|enable|context|property|model|spatial|stipulations|using|separately|distributed|classified|countries|demand|land|standards|extensions|system|domain|neighbouring|study|housing|methods|experiments|solar|range|utility|extended|buildings|current|rights|administration|address|may|abstract|guaranteeing|cadastral|health|database|many|lead|sunlight|residential|regulations|elements|associated|model|exists|describe|certain|represent|incorporates|presently|data|use|using|clearly|developed|legal|implemented|feasible|residence|described|ensure|individual|already|stipulations|lack|relevant|effects|citygml|especially|buildings|enacted|geometric|residents|systematically|demonstrate|domain|properties|description|mental|units|integrated|duration|increased|negative|easements|wide|highrise|china|clarification|temporalspatial|existing|application|sunlight|properties|presents
+venue name:Computers, Environment and Urban Systems
+venue id:60115552
+venue type:J
+document type:Journal
+study fields:Spatial analysis|Data mining|Cadastre|Land administration|Easement|Architectural engineering|Application domain|CityGML|Data model|Geography|Domain model
+references:1986602501|1990481324|2026934506|2401534060|2460704291
+
+
+id:2947376266
+title:Extracting urban landmarks from geographical datasets using a random forests classifier
+year:2019
+author information:[
+author name:Yue Lin
+author organization:Wuhan University
+author id:2947437098|
+author name:Yuyang Cai
+author organization:China University of Geoscience
+author id:2947915921|
+author name:Yue Gong
+author organization:Wuhan University
+author id:2947842595|
+author name:Mengjun Kang
+author organization:Wuhan University
+author id:2947048381|
+author name:Lin Li
+author organization:Wuhan University
+author id:2622510277|
+]
+abstract:navigation|cognition|importance|methods|focus|landmarks|significant|extraction|mainly|salience|current|route|abstracturban|visual|spatial|landmark
+venue name:International Journal of Geographical Information Science
+venue id:111872859
+venue type:J
+document type:Journal
+study fields:Computer science|Spatial cognition|Artificial intelligence|Classifier (linguistics)|Random forest|Landmark|Salience (language)|Machine learning
+references:1480883159|1483589200|1484803940|1544772936|1574611684|1615372193|1620043111|2006488799|2010566104|2090783856|2090795630|2112404266|2124788642|2133788446|2148143831|2200797162|2563286815|2594159138|2911964244
+

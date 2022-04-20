@@ -1,0 +1,2905 @@
+
+id:1908865975
+title:Detection Probability of a CFAR Matched Filter with Signal Steering Vector Errors
+year:2015
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Weijian Liu
+author organization:Wuhan, China
+author id:2169910319|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Hongbin Li
+author organization:Stevens Institute of Technology
+author id:2111831403|
+]
+abstract:constant|theoretical|used|scenarios|developed|evaluation|realworld|problem|white|signal|case|actual|work|probability|analyze|exact|matched|power|one|neglected|facilitate|aim|unknown|nominal|alarm|noise|vector|cfarmf|derived|detection|expression|false|rata|steering|filter|mismatched|performance|mismatch|exists|cannot|gaussian
+venue name:IEEE Signal Processing Letters
+venue id:120629676
+venue type:J
+document type:Journal
+study fields:False alarm|Noise power|Pattern recognition|Artificial intelligence|Constant false alarm rate|Matched filter|Detector|Additive white Gaussian noise|Mathematics
+references:1976204635|2012322974|2034748641|2034839437|2041929039|2078249088|2103148898|2120802460|2122274174|2134001300|2146302771|2156626848|2241013740
+
+
+id:1936624938
+title:A Fast Parallel Genetic Algorithm for Graph Coloring Problem Based on CUDA
+year:2015
+author information:[
+author name:Buhua Chen
+author organization:Xidian University
+author id:2291126103|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Xuefeng Zhang
+author organization:Xidian University
+author id:2117144429|
+]
+abstract:quickly|achieves|experimental|problem|time|presented|coloring|results|algorithm|based|using|architecture|device|graph|benchmark|mutation|graph|selection|solve|competitive|much|algorithms|np|solving|show|proven|parallel|operators|hard|designed|compared|genetic|problem|unified|way|threads|performance|converges|gcp|polynomial|compute|novel
+venue name:Cyber-Enabled Distributed Computing and Knowledge Discovery
+venue id:1131680737
+venue type:C
+document type:Conference
+study fields:Memetic algorithm|Crossover|Graph power|Computer science|Algorithm|Real-time computing|Theoretical computer science|Graph bandwidth|Greedy coloring|Time complexity|Genetic algorithm|Graph coloring
+references:1550332924|1963597719|2093373574|2177504485
+
+
+id:1970089434
+title:Max-Margin Discriminant Projection via Data Augmentation
+year:2015
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hao Zhang
+author organization:Xidian University
+author id:2803946276|
+author name:Xuefeng Zhang
+author organization:Xidian University
+author id:2117144429|
+author name:Wei Wen
+author organization:Xidian University
+author id:2718375681|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+]
+abstract:employ|nonlinear|variables|setting|via|conjugate|realworld|classifier|model|based|similar|models|efficiency|method|classification|jointly|synthesized|latent|effectiveness|conditionally|methods|sparsity|seek|extended|feature|vector|takes|explore|sets|efficient|kernel|framework|machine|data|use|approximate|simple|used|developed|associate|prior|inferred|candidates|unlike|bvs|new|including|test|learns|bayesian|spikeandslab|basis|vectors|proposed|modifications|conditioning|discriminant|final|demonstrate|largescale|support|parameters|discriminative|augmented|representation|thanks|task|projection|subspace|original|introduce|advantage|sampler|gibbs|sought|existing|maxmargin|criterion|corresponding|variable
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Graph kernel|Pattern recognition|Radial basis function kernel|Computer science|Kernel embedding of distributions|Support vector machine|Kernel Fisher discriminant analysis|Polynomial kernel|Artificial intelligence|String kernel|Kernel method|Machine learning
+references:26816478|102036530|1510073064|1648445109|2027717478|2032052034|2035221948|2035337734|2043035462|2049502219|2091956075|2097018403|2098316308|2099537822|2100931213|2103731208|2109323631|2112121851|2113616339|2116470445|2117111086|2123614589|2124925761|2133047848|2133864802|2140095548|2140433132|2142422094|2150286230|2155904486|2156909104|2157791002|2163112044|2164552042|2170858770
+
+
+id:1993291061
+title:Max-margin similarity preserving factor analysis via Gibbs sampling
+year:2015
+author information:[
+author name:Buhua Chen
+author organization:Xidian University
+author id:2291126103|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Xuefeng Zhang
+author organization:Xidian University
+author id:2117144429|
+]
+abstract:data|simple|space|via|conjugate|realworld|classifier|inferred|model|efficiency|test|learns|bayesian|develop|analysis|classification|utilizes|jointly|mmspfa|latent|improve|prediction|demonstrate|preserving|support|parameters|effectiveness|criterion|united|conditionally|methods|discriminative|constraint|similarity|thanks|vector|term|factor|performance|subspace|learn|efficient|sampler|gibbs|model|maxmargin|framework|machine|variable
+venue name:International Workshop on Machine Learning for Signal Processing
+venue id:2624449468
+venue type:C
+document type:Conference
+study fields:Data modeling|Pattern recognition|Subspace topology|Computer science|Support vector machine|Latent variable|Artificial intelligence|Classifier (linguistics)|Discriminative model|Gibbs sampling|Machine learning|Bayesian probability
+references:2084716923|2098316308|2122683976|2132329643|2156909104|2160905702|2165670763
+
+
+id:1997782455
+title:Knowledge-Based Spatial-Temporal Hierarchical MIMO Radar Waveform Design Method for Target Detection in Heterogeneous Clutter Zone
+year:2015
+author information:[
+author name:Bo Jiu
+author organization:Xidian University
+author id:2008299885|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Xu Wang
+author organization:Xidian University
+author id:2609736706|
+author name:Lei Zhang
+author organization:Xidian University
+author id:2590418246|
+author name:Yinghua Wang
+author organization:Xidian University
+author id:2230828756|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+]
+abstract:approach|via|output|problem|optimization|premise|mimo|biiterative|order|sidelobe|efficiency|method|subproblem|probability|beampattern|synthesized|correlation|waveform|nphard|numerical|cvx|foundation|two|receiving|minimizing|based|modulus|detection|problem|knowledgebased|filter|mismatched|radar|constraint|spatialtemporal|cyclic|first|subproblems|effectively|constant|joint|paper|solved|developed|heterogeneous|second|zone|function|hierarchical|method|signal|results|programming|new|clutter|level|maintaining|addressed|proposed|mainlobe|improve|solve|tackle|knowledgebased|decompose|show|design|convex|cost|original|transmit|energy|peak|target|approximately
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Object detection|Mathematical optimization|Algorithm design|Clutter|Waveform|Energy (signal processing)|Correlation function|Constant false alarm rate|Convex optimization|Mathematics
+references:1960387497|2000317822|2041463139|2097767885|2101815503|2108625419|2115794860|2115948820|2118799287|2130632339|2133044356|2135915867|2136489881|2155951048|2156427903
+
+
+id:2004225566
+title:Simultaneous Multibeam Resource Allocation Scheme for Multiple Target Tracking
+year:2015
+author information:[
+author name:Junkun Yan
+author organization:Xidian University
+author id:2729061542|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Jiu
+author organization:Xidian University
+author id:2008299885|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Zheng Liu
+author organization:Xidian University
+author id:2697076213|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2182529994|
+]
+abstract:optimal|accuracy|tracking|improved|number|problem|realtime|optimization|utilized|case|colocated|lower|resulting|beams|system|among|reformulated|algorithm|obtained|greatly|multipleinput|criterion|prove|numerical|simultaneous|two|targets|management|ability|power|address|set|scheme|state|radar|efficiently|multibeam|beam|paper|developed|mode|aids|problems|results|us|resource|finite|solutions|bayesian|basis|square|improving|task|directions|proposed|adjust|worst|nonconvex|targets|purpose|show|technique|error|total|provides|convex|working|derived|multipleoutput|allocation|bound|multiple|transmit|estimated|target|performance|mean|information|strategy|beams
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Resource management|Mathematical optimization|Transmitter power output|Radar tracker|Upper and lower bounds|Control theory|MIMO|Mean squared error|Resource allocation|Optimization problem|Mathematics
+references:1994096034|2000700028|2017100024|2041463139|2042450198|2056333091|2104130465|2114694381|2135915867|2152079373|2160337655
+
+
+id:2015311866
+title:A kernel optimization method based on the localized kernel Fisher criterion
+year:2008
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2920833189|
+]
+abstract:measured|multimodally|recognized|nonlinear|improved|optimization|classifier|based|using|expected|profile|methods|distributed|classification|matches|propose|benchmark|exist|traditional|even|criterion|localized|range|local|feature|fisher|motivated|embedded|linear|may|highresolution|kernel|transformation|many|radar|choice|space|margins|data|ideally|used|optimize|whether|function|method|results|selected|separable|experimental|widely|linearly|proposed|discriminant|determines|classes|kernelbased|show|function|rule|rule|induced|cost|obviously|instead|increase|performance|suitable
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Radial basis function kernel|Pattern recognition|Kernel embedding of distributions|Kernel Fisher discriminant analysis|Kernel principal component analysis|Artificial intelligence|String kernel|Variable kernel density estimation|Fisher kernel|Machine learning|Mathematics|Kernel (statistics)
+references:1510073064|1510538563|1567323455|1823600381|1970940244|2010483898|2028590934|2041406732|2081933356|2088032561|2106131881|2108727084|2123068691|2133047848|2140389641|2142387771|2145295623|2146308415|2156909104|2157532876|2158001550|2160359047|2163999590|2165058613|2170356051
+
+
+id:2017100024
+title:Prior Knowledge-Based Simultaneous Multibeam Power Allocation Algorithm for Cognitive Multiple Targets Tracking in Clutter
+year:2015
+author information:[
+author name:Junkun Yan
+author organization:Xidian University
+author id:2729061542|
+author name:Bo Jiu
+author organization:Xidian University
+author id:2008299885|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2182529994|
+]
+abstract:meansquare|whole|tracking|transmitters|problem|optimization|terms|recursion|case|utilized|knowledge|algorithm|order|colocated|method|lower|beams|synthesized|system|cognitive|algorithm|multipleinput|criterion|scheme|simultaneous|viewed|power|cramerrao|gives|measurements|reaction|gradient|radar|information|multibeam|clutter|beam|paper|solved|developed|either|generated|prior|modified|different|results|predicted|ensure|transmitters|resource|bayesian|system|signals|measure|proposed|exploited|adjust|improve|worst|nonconvex|targets|according|show|best|error|cycle|achievable|root|projection|factor|derived|incorporating|probing|allocation|multipleoutput|limited|bound|multiple|false|transmit|target|outperforms|equal|performance|simulation|various|adopts|reduction|significantly
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Radar engineering details|Transmitter power output|Radar tracker|Control theory|Clutter|Bistatic radar|Constant false alarm rate|Low probability of intercept radar|Optimization problem|Mathematics
+references:1965305830|1989476724|1994096034|2042450198|2054030480|2056333091|2062688624|2102723707|2104130465|2106873007|2109499745|2127021804|2130054489|2145555609|2156546747|2166543177
+
+
+id:2035337734
+title:Optimizing the data-dependent kernel under a unified kernel optimization framework
+year:2008
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2920833189|
+]
+abstract:play|employ|multimodally|functions|optimal|criteria|years|without|objective|improved|cluster|optimization|pairwise|complex|resort|case|developed|promising|order|based|margin|efficiency|distributed|underlying|propose|distributions|benchmark|affinity|role|multivariate|covariance|matrix|augment|feature|fisher|accordingly|means|kernel|one|change|data|many|single|unified|choice|space|data|use|ideally|used|manner|classes|research|optimize|generated|function|method|expressed|different|results|datadependent|experimental|functions|discriminant|solve|demonstrate|derivations|classes|rule|area|central|common|paper|due|matrices|class|normal|apply|recently|obviously|also|formulated|corresponding|suitable|applications
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Radial basis function kernel|Kernel embedding of distributions|Kernel Fisher discriminant analysis|Kernel principal component analysis|Tree kernel|Kernel method|Variable kernel density estimation|Mathematics|Kernel (statistics)
+references:1510538563|1523154159|1567323455|1793242010|1823600381|1970940244|2010483898|2015311866|2031839470|2041406732|2081933356|2108727084|2114217318|2117553576|2123068691|2130418330|2133047848|2136040699|2140389641|2142387771|2143103810|2145295623|2157532876|2158001550|2160359047|2164552042|2165058613|2166028535|2170356051
+
+
+id:2067963045
+title:An Efficient Kernel Optimization Method for Radar High-Resolution Range Profile Recognition
+year:2007
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2920833189|
+]
+abstract:principle|data|paper|experimental|extracted|employed|via|features|optimize|optimization|fluctuations|function|restrained|method|evaluated|different|results|based|efficiency|method|profile|analysis|classification|benchmark|fusion|proposed|demonstrate|support|speckle|norm|optimized|classifier|range|radarmeasured|vector|based|compared|characteristics|sets|highresolution|kernel|analyzed|hrrp|combines|also|component|performance|machines|gaussian
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Kernel smoother|Radial basis function kernel|Computer science|Kernel embedding of distributions|Algorithm|Kernel principal component analysis|Polynomial kernel|Kernel method|Variable kernel density estimation|Kernel (statistics)
+references:1510073064|1510538563|2041406732|2088032561|2108727084|2133047848|2140389641|2156909104
+
+
+id:2077550182
+title:Adaptively Segmenting Angular Sectors for Radar HRRP Automatic Target Recognition
+year:2008
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:
+author id:2155495874|
+author name:Li Yuan
+author organization:
+author id:2305151987|
+author name:Zheng Bao
+author organization:
+author id:2182529994|
+]
+abstract:measured|promising|according|recognition|range|experimental|adaptively|curvature|paper|presented|aspect|manifold|firstly|results|characteristics|sectors|method|highresolution|pose|profile|hrrp|data|target|radar|segmenting|proposed|geometry|evaluating|manifold
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Radar|Computer vision|Curvature|Market segmentation|Automatic target recognition|Adaptive method|Segmentation|Computer science|Artificial intelligence|Manifold
+references:1510538563|2133047848|2149544245
+
+
+id:2090449701
+title:Large margin nearest local mean classifier
+year:2010
+author information:[
+author name:Jing Chai
+author organization:Xidian University
+author id:2501242002|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Chen
+author organization:Duke University
+author id:2601901235|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2182529994|
+]
+abstract:margins|community|leading|challenging|nearest|classes|heterogeneous|introduced|high|dimensions|classifier|consider|different|results|distance|tasks|eigenvalue|programming|promising|algorithm|reduce|new|globally|margin|large|experimental|classification|propose|improving|converge|adopt|parts|basic|scheme|show|learning|two|local|paper|low|design|highly|aims|linear|may|also|semidefinite|formulated|accuracies|separability|metric|due|machine|mean|assured|lmnlm
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Margin (machine learning)|Metric (mathematics)|Linear map|Eigendecomposition of a matrix|Margin classifier|Classifier (linguistics)|Large margin nearest neighbor|Semidefinite programming|Mathematics
+references:1733921475|2015932775|2051170628|2081933356|2082973241|2104752854|2108727084|2117001265|2117154949|2121647436|2130556178|2133047848|2136261952|2139212933|2144935315|2149253979|2165874743|2912522929
+
+
+id:2098525496
+title:Large Margin Feature Weighting Method via Linear Programming
+year:2009
+author information:[
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Jing Chai
+author organization:Xidian University
+author id:2501242002|
+author name:Zheng Bao
+author organization:Xidian University
+author id:2920833189|
+]
+abstract:multimodally|experimental|approach|problem|optimization|combinatorial|based|margin|using|method|large|distributed|selection|experiments|range|local|feature|minimizing|together|linear|highresolution|neighbor|closer|radar|machine|series|efficiently|consequent|uci|margins|data|recognition|solved|challenging|points|features|high|relevance|consider|different|results|classifiers|learns|profiles|difficult|weighting|task|proposed|demonstrate|present|assessed|classes|learning|programming|algorithms|effectiveness|practical|cost|aims|automatic|specific|factors|possible|target|microarray|separating|pulling|well|knearest
+venue name:IEEE Transactions on Knowledge and Data Engineering
+venue id:30698027
+venue type:J
+document type:Journal
+study fields:Data mining|Weighting|Feature selection|Computer science|Minification|Linear programming|Artificial intelligence|Optimization problem|Automatic target recognition|Pattern recognition|Feature (computer vision)|Statistical classification|Machine learning
+references:1583700199|1808644423|1827261456|2015311866|2015932775|2017337590|2031839470|2035337734|2081933356|2097839764|2106053110|2107014760|2108727084|2117001265|2119479037|2119821739|2124225314|2130556178|2132549764|2133047848|2136261952|2139212933|2148394752|2435251607|2912522929
+
+
+id:2104190734
+title:Infinite max-margin factor analysis via data augmentation
+year:2016
+author information:[
+author name:Xuefeng Zhang
+author organization:Xidian University
+author id:2117144429|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Lei Zuo
+author organization:Xidian University
+author id:2627287146|
+author name:Bo Feng
+author organization:Xidian University
+author id:2149086867|
+]
+abstract:measured|multimodally|echo|mixtures|via|thanks|conjugate|realworld|model|models|natural|models|outlier|distributed|handle|analysis|classification|utilizes|jointly|extend|synthesized|latent|consideration|subspaceclustering|deal|criterion|infinite|datasets|two|extended|gain|get|vector|validate|performance|learn|probabilistic|performancehaving|single|distributions|radar|framework|machine|efficiently|dataset|mmfa|addresses|data|jointly|simple|good|space|classifiers|inferred|dirichlet|implement|described|including|bayesian|learns|develop|rejection|immfa|estimation|especially|proposed|improve|prediction|fa|support|parameters|since|united|description|discriminative|constraint|learning|paper|mixture|reject|observations|factor|samplesin|subspace|process|sampler|gibbs|immfathanks|maxmargin|performance|variable|gaussian
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Dirichlet process|Pattern recognition|Support vector machine|Outlier|Latent variable|Artificial intelligence|Cluster analysis|Discriminative model|Machine learning|Gibbs sampling|Mixture model|Mathematics
+references:102036530|163566918|1496805632|1504988876|1977124374|2007377718|2015311866|2016023518|2035337734|2069645876|2082062903|2098316308|2098949458|2100294832|2100683382|2100931213|2103731208|2103914106|2112121851|2122683976|2125126592|2125394697|2130071187|2130139955|2132329643|2133568543|2133703553|2154036191|2155319834|2158698691|2159433169|2164552042|2170567396|2402457424|2951351492
+
+
+id:2215288895
+title:Performance of the SMI beamformer with signal steering vector errors in heterogeneous environments
+year:2016
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Weijian Liu
+author organization:Wuhan, China
+author id:2169910319|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Zi-Jing Zhang
+author organization:Xidian University
+author id:2189821187|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+]
+abstract:data|theoretical|environments|approximate|beamforming|heterogeneity|used|scenarios|heterogeneous|output|evaluation|terms|consider|different|signal|results|using|environmental|test|real|monte|smi|highlightswe|beamformer|consideredapproximate|consideration|obtained|sinr|neglected|average|facilitate|analytical|normalized|show|training|covariance|expectation|matrix|matrices|inversion|sinrboth|examined|vector|signaltointerferenceplusnoise|derived|close|mismatches|expression|steering|vector|carlo|sample|heterogeneity|performance|simulation|mismatch|cannot|beamforming|mismatch|account|techniques|taking|ratio
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Training set|Beamforming|Monte Carlo method|Normalization (statistics)|Adaptive beamformer|Control theory|Matrix (mathematics)|Sample matrix inversion|Mathematics|Covariance
+references:1968644212|1971846076|1975067759|1990732315|2027585039|2056487989|2057871041|2077602393|2091980924|2106094087|2109994031|2115828205|2121348175|2126568557|2129934596|2149826217|2166307990|2167606540|2169985682
+
+
+id:2241013740
+title:Modified Rao Test for Multichannel Adaptive Signal Detection
+year:2016
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Weijian Liu
+author organization:Wuhan, China
+author id:2169910319|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Hongbin Li
+author organization:Stevens Institute of Technology
+author id:2111831403|
+author name:Chengpeng Hao
+author organization:State Key Laboratory of Acoustics, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China
+author id:1981421876|
+]
+abstract:rao|deviates|offer|problem|generalized|property|probabilities|case|based|propose|likelihood|cases|numerical|coordinates|covariance|mrt|unknown|flexibility|known|noise|detection|mismatched|subspace|mismatch|first|ratio|constant|presumed|modified|signal|results|new|test|introducing|matrix|includes|bears|expressions|rejection|belongs|detecting|demonstrate|adjustable|present|show|tunable|rate|increases|provides|parameter|alarm|colored|capacities|closedform|subspace|studied|false|target|special|better|parameter|gaussian|derivation
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Radar|False alarm|Detection theory|Likelihood-ratio test|Subspace topology|Control theory|Algorithm|Speech recognition|Constant false alarm rate|Covariance matrix|Signal subspace|Mathematics
+references:1560269653|1963758962|1973176871|1978971170|2017904472|2023620992|2031515207|2034748641|2054521533|2070736078|2081936987|2085468243|2091489596|2104076888|2106999806|2107470042|2107820823|2110562101|2115346419|2125341398|2127748925|2131222639|2131608081|2134001300|2139180787|2140775152|2149826217|2152451050|2154051216|2155812907|2164506690|2166279893|2168805632
+
+
+id:2292481059
+title:Convolutional Neural Network With Data Augmentation for SAR Target Recognition
+year:2016
+author information:[
+author name:Jun Ding
+author organization:Xidian University
+author id:2677253960|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Mengyuan Huang
+author organization:Xidian University
+author id:2169396736|
+]
+abstract:data|recognition|issues|three|approach|challenging|variation|realworld|method|invariance|consider|different|results|tolerance|efficiency|using|pose|experimental|synthetic|proposed|improve|demonstrate|obtained|conditions|speckle|deep|cnn|neural|trained|sar|methods|training|best|investigate|augmentation|network|random|capability|operations|seldom|missing|many|convolutional|effectiveness|types|practical|pose|recognition|data|target|aperture|radar|performance|combined|showing
+venue name:IEEE Geoscience and Remote Sensing Letters
+venue id:126920919
+venue type:J
+document type:Journal
+study fields:Speckle pattern|Synthetic aperture radar|Convolutional neural network|Remote sensing|Artificial intelligence|Speckle noise|Artificial neural network|Computer vision|Pattern recognition|Support vector machine|Inverse synthetic aperture radar|Feature extraction|Mathematics
+references:1571809481|1665214252|1686810756|1696131234|2066916495|2097117768|2098477387|2102605133|2118585731|2138287042|2150486153|2163605009
+
+
+id:2296630171
+title:Average SINR Calculation of a Persymmetric Sample Matrix Inversion Beamformer
+year:2016
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Weijian Liu
+author organization:Wuhan, China
+author id:2169910319|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Xiang-Gen Xia
+author organization:Xidian University
+author id:2227162020|
+author name:Fengzhou Dai
+author organization:Xidian University
+author id:2669848300|
+]
+abstract:equivalent|output|loss|persymmetric|case|using|thus|work|received|monte|smi|traditional|system|beamformer|exact|matched|trains|average|study|priori|doubling|covariance|matrix|derive|matrices|based|signaltointerferenceplusnoise|beamformers|linear|expression|structures|sample|exploiting|reduced|considering|mismatch|exists|cannot|information|symmetrically|techniques|ratio|reveal|data|theoretical|approximate|spaced|exploitation|different|signal|results|obtain|test|nonhomogeneous|sinr|beamformer|equipped|normalized|decomposition|training|expectation|wishart|random|inversion|array|amount|limited|verified|steering|carlo|structure|environment|simulation|pulse|work|significantly|signal
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Adaptive beamformer|Control theory|Matrix (mathematics)|Signal-to-noise ratio|Algorithm|Symmetric matrix|Sample matrix inversion|Statistics|Wishart distribution|Mathematics|Random matrix|Covariance
+references:1964366482|2005602327|2075261934|2077602393|2087527144|2100975169|2106094087|2113249205|2122420047|2123776775|2126528280|2126568557|2129934596|2143694437|2145376813|2154051216|2156166401|2166855863
+
+
+id:2396521624
+title:Multiple scattering effects on the localization of two point scatterers
+year:2016
+author information:[
+author name:Gang Shi
+author organization:Xidian University
+author id:2715998646|
+author name:Arye Nehorai
+author organization:Washington University
+author id:756665149|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Yuehai Wang
+author organization:Zhejiang University
+author id:2718831320|
+]
+abstract:localization|precision|via|higherorder|consider|signal|energy|always|ignored|still|commonly|comparing|benefit|estimation|effects|scattering|directions|beneficial|scatterers|processing|improvement|firstorder|conditions|parameters|much|larger|ranges|arrival|show|identifying|matrix|two|point|analytically|general|fisher|detrimental|estimating|detection|multiple|components|problem|multiple|although|increase|lead|farfield|setup|exists|well|resolved|information|location|significantly|scatterers|open
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:Cramér–Rao bound|Signal processing|Mathematical optimization|Open problem|Computer science|Fisher information|Scattering
+references:2122335138|2160303938
+
+
+id:2401208482
+title:Performance analysis of a modified Rao test for adaptive subspace detection
+year:2016
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Weijian Liu
+author organization:Wuhan, China
+author id:2169910319|
+]
+abstract:rao|deviates|presumed|offer|problem|generalized|modified|signal|probabilities|results|case|test|introducing|matrix|includes|propose|expressions|rejection|likelihood|belongs|cases|detecting|demonstrate|adjustable|numerical|coordinates|covariance|mrt|unknown|tunable|flexibility|known|increases|provides|parameter|noise|alarm|colored|capacities|closedform|subspace|detection|derived|studied|false|target|special|better|mismatched|parameter|subspace|mismatch|gaussian|ratio
+venue name:International Conference on Acoustics, Speech, and Signal Processing
+venue id:1121227772
+venue type:C
+document type:Conference
+study fields:False alarm|Likelihood-ratio test|Subspace topology|Expression (mathematics)|Pattern recognition|Computer science|Artificial intelligence|Constant false alarm rate|Covariance matrix|Colored gaussian noise|Signal subspace
+references:1963758962|1978971170|1995126167|2023620992|2031515207|2034748641|2069205140|2076660936|2081936987|2091489596|2106999806|2107820823|2149826217|2164506690|2247519849
+
+
+id:2407940913
+title:Nonparametric Bayesian Attributed Scattering Center Extraction for Synthetic Aperture Radar Targets
+year:2016
+author information:[
+author name:Yulai Cong
+author organization:Xidian University
+author id:2226555938|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Jiu
+author organization:Xidian University
+author id:2008299885|
+]
+abstract:measured|highfrequency|encumber|construct|number|suffer|introduced|problem|concise|enable|complex|model|algorithm|jump|based|efficiency|natural|parameters|method|backscatter|posterior|extraction|monte|prior|physically|provide|field|levy|algorithm|greatly|role|methods|imprecise|modelbased|distribution|targets|unknown|asc|feature|segmentation|ascs|chain|yielding|may|attributed|markov|inference|lead|confirm|aperture|radar|fast|able|associated|novel|represent|joint|regularization|recognition|good|features|high|prior|results|computational|image|experimental|bayesian|develop|relevant|important|synthetic|scattering|proposed|sparse|tackle|relatively|present|fields|framework|sar|representation|random|induced|reversible|applications|effectiveness|practical|center|automatic|specification|also|carlo|played|nonparametric|way|formulated|target|existing
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Data mining|Mathematical optimization|Random field|Automatic target recognition|Synthetic aperture radar|Sparse approximation|Algorithm|Reversible-jump Markov chain Monte Carlo|Image segmentation|Feature extraction|Prior probability|Mathematics
+references:1972756357|1986931325|2027805700|2039156452|2082476922|2085803676|2086587667|2122146783|2123457453|2130428211|2134905716|2149918662|2157906684|2162966311|2163112044|2168983711|2169892604|2296399167
+
+
+id:2507782627
+title:Radar HRRP target recognition with deep networks
+year:2017
+author information:[
+author name:Bo Feng
+author organization:Xidian University
+author id:2149086867|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+]
+abstract:measured|moderately|called|considered|establishing|nonlinear|feature|via|loss|optimization|model|usually|stacked|based|profile|methods|extraction|correlation|generalization|autoencoders|even|utilize|adopting|set|algorithms|average|extension|ratr|range|covariance|restrict|networks|matrix|targets|result|capability|scae|feature|key|highresolution|learn|abstract|learning|characterize|radar|series|aiming|traditional|shallow|data|use|recognition|incomplete|employs|function|unlabeled|mahalanobis|proposed|demonstrate|correction|properties|frame|deep|stacked|distance|show|technique|proper|training|network|term|effective|paper|effectiveness|limited|built|advantage|automatic|hrrp|also|structure|target|criterion|performance|stable|corrective|multilayered|taking
+venue name:Pattern Recognition
+venue id:414566
+venue type:J
+document type:Journal
+study fields:Data mining|Feature extraction algorithm|Mahalanobis distance|Artificial intelligence|Training set|Radar|Pattern recognition|Feature extraction|Covariance matrix|Machine learning|Mathematics|Feature learning|Nonlinear networks
+references:44815768|1972127950|1985809919|2045731367|2072128103|2097323375|2098525496|2110798204|2132329643|2133047848|2133257461|2134905716|2145094598|2146676920|2147973859|2158313596|2160815625|2160905702|2161893161|2163922914|2202505358|2295582178|2546302380
+
+
+id:2516095003
+title:SINR analysis in persymmetric adaptive processing
+year:2016
+author information:[
+author name:Jun Liu
+author organization:Xidian University
+author id:2664319581|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Xiang-Gen Xia
+author organization:Delaware University
+author id:2227162020|
+]
+abstract:equivalent|reveal|output|exploitation|obtained|persymmetric|results|received|smi|beamformer|exact|sinr|average|study|normalized|priori|doubling|training|expectation|matrix|inversion|signaltointerferenceplusnoise|amount|expression|structures|data|sample|exploiting|structure|sinr|simulation|information|signal|ratio
+venue name:IEEE Signal Processing Workshop on Statistical Signal Processing
+venue id:2754534549
+venue type:C
+document type:Conference
+study fields:Training set|Normalization (statistics)|A priori and a posteriori|Algorithm|Speech recognition|Sample matrix inversion|Mathematics
+references:2076660936|2123776775|2143694437|2247802672|2295344367|2296630171
+
+
+id:2567882304
+title:Multiple-Instance feature extraction at the bag and instance levels using the maximum trace-difference criterion
+year:2017
+author information:[
+author name:Jing Chai
+author organization:Taiyuan University of Technology
+author id:2501242002|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Fan Liu
+author organization:Xian University of Technology
+author id:2662393251|
+author name:Zehua Chen
+author organization:Dalian University of Technology
+author id:2698077415|
+author name:Xinghao Ding
+author organization:Xiamen University
+author id:2143042214|
+]
+abstract:dimensionality|tested|multipleinstance|bag|bagtobag|experimental|feature|wherein|problem|algorithm|discriminant|respectively|based|preprocessing|classification|propose|labels|mil|analysis|adopt|improvement|simultaneously|competitive|object|algorithms|betweenclass|minimizes|enables|tracedifference|contain|makes|noisy|baglevel|consisting|framework|scattering|levels|essential|mife|dimensions|instance|data|instancelevel|learning|maximum|maximizes|extraction|different|results|us|obtain|refers|scattering|withinclass|featureextraction|instances|show|best|design|algorithms|distances|original|classtobag|introduce|multiple|also|realization|obtains|treats|existing|performance|approximately|corresponding|provided|datasets|reduction
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Dimensionality reduction|Pattern recognition|Computer science|Feature extraction|Preprocessor|Artificial intelligence|Linear discriminant analysis|Machine learning|Performance improvement
+references:101414327|1535599202|1540386283|1553309915|1554039773|1556251288|1565746575|1581034630|1692149637|1999211850|2026486243|2045056560|2061458158|2078579128|2090579338|2098166271|2105055468|2107143555|2108745803|2109531142|2110119381|2116133729|2121647436|2125508569|2128981757|2132851637|2133288557|2135533176|2135607475|2136595724|2141284791|2144935315|2154318594|2162685317|2163474322
+
+
+id:2754873973
+title:Robust Variational Auto-Encoder for Radar HRRP Target Recognition
+year:2017
+author information:[
+author name:Ying Zhai
+author organization:Xidian University
+author id:2755263869|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hao Zhang
+author organization:Xidian University
+author id:2803946276|
+author name:Zhengjue Wang
+author organization:Xidian University
+author id:2803867291|
+]
+abstract:highresolution|measured|called|data|use|recognition|used|nonlinear|developed|resolution|without|features|model|usually|inherent|based|efficiency|profile|range|classification|latent|algorithm|frame|average|deep|variational|show|learning|networks|representations|profile|rvae|result|effective|capability|feature|reserve|ignore|task|physical|according|effectiveness|characteristics|address|frame|explore|limited|learn|robust|hrrp|autoencoder|structure|target|radar|proposed|stable|able|migration|traditional|variational|novel|properties
+venue name:International Conference on Intelligent Science and Big Data Engineering
+venue id:2756331671
+venue type:C
+document type:Conference
+study fields:Radar|Computer vision|Nonlinear system|Autoencoder|Computer science|Feature extraction|Artificial intelligence|Feature learning
+references:1972127950|1985809919|2045731367|2098525496|2110798204|2132329643|2133047848|2145094598|2146676920|2147973859|2158313596|2160905702|2161893161|2163922914|2507782627
+
+
+id:2803164693
+title:Deep Max-Margin Discriminant Projection
+year:2019
+author information:[
+author name:Hao Zhang
+author organization:Xidian University
+author id:2803946276|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Zhengjue Wang
+author organization:Xidian University
+author id:2803867291|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+]
+abstract:measured|modeling|functions|nonlinear|via|relationships|realworld|structure|four|classifier|realizations|flexibly|models|efficiency|inferences|profile|handle|monte|analysis|whose|jointly|latent|even|carlo|perceptron|degenerated|experiments|endtoend|range|representations|distribution|feature|multilayered|stochastic|ability|popular|convolutional|chain|linear|learn|efficient|markov|highresolution|gradient|one|model|integrate|radar|framework|unified|able|shallow|statistics|scalable|data|space|either|expressive|sufficient|function|benchmarks|different|computational|image|including|bayesian|follows|includes|take|observations|especially|proposed|discriminant|demonstrate|assume|mltilayer|largescale|parameters|deep|trained|neural|complexity|kernelbased|structures|learning|representation|layerwisely|parameter|projection|derived|highly|effectiveness|normal|advantage|realized|structure|existing|maxmargin|build|detailed|singlelayer
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Feature vector|MNIST database|Bayesian inference|Markov chain Monte Carlo|Pattern recognition|Convolutional neural network|Artificial intelligence|Artificial neural network|Perceptron|Feature learning|Machine learning|Mathematics
+references:163566918|1523385540|1536680647|1592410721|1666690886|1719489212|1849277567|1959608418|1970089434|1975701770|2027717478|2032052034|2091956075|2098525496|2100931213|2103731208|2105644991|2107878631|2111051539|2113616339|2118858186|2124925761|2130325614|2132329643|2134905716|2144193737|2155893237|2163605009|2164411961|2165652770|2167433878|2170858770|2238987678|2257483379|2294059674|2408432900|2507782627|2527569769|2548077621|2611668303|2962897886
+
+
+id:2890548663
+title:Deep Poisson gamma dynamical systems
+year:2018
+author information:[
+author name:Dandan Guo
+author organization:
+author id:2785888606|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hao Zhang
+author organization:
+author id:2962833996|
+author name:Mingyuan Zhou
+author organization:University of Texas at Austin
+author id:2170042945|
+]
+abstract:scalable|downward|data|propagation|using|mcmc|variables|observed|equations|realworld|multilayer|hierarchical|capturing|backward|model|temporal|upward|models|excellent|sampling|count|sequentially|series|develop|mining|synthetic|improving|proposed|latent|demonstrate|firstorder|deep|sophisticated|inference|multivariate|update|augmentation|experiments|long|previously|systems|auxiliary|variety|provides|propagating|stochastic|derived|highly|closedform|dynamical|simpletoimplement|longrange|forward|gradient|gibbs|predictive|also|structure|poissongamma|information|time|dependencies|interpretable|first|represent
+venue name:arXiv: Machine Learning
+venue id:2597365278
+venue type:J
+document type:Repository
+study fields:Markov chain Monte Carlo|Multivariate statistics|Algorithm|Latent variable|Dynamical systems theory|Sampling (statistics)|Count data|Artificial intelligence|Poisson distribution|Gibbs sampling|Mathematics|Machine learning
+references:143080133|1915315806|1966626570|2068728923|2083380015|2085534751|2110529144|2118760499|2130748102|2136111243|2159505618|2165652770|2166063021|2167433878|2185758820|2186080577|2187625046|2216511711|2238987678|2529448042|2556738441|2594223320|2753176491|2957415859|2958856460|2962732346|2964094663
+
+
+id:2895550165
+title:Target-Aware Recurrent Attentional Network for Radar HRRP Target Recognition
+year:2019
+author information:[
+author name:Bin Xu
+author organization:Xidian University
+author id:2895009484|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Jinwei Wan
+author organization:Xidian University
+author id:2894593747|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+author name:Lin Jin
+author organization:Xidian University
+author id:2895097434|
+]
+abstract:employ|measured|areas|thanks|network|model|state|evaluated|reflects|temporal|based|efficiency|timestep|compared|recurrent|analysis|traditional|utilize|domain|scatterers|dimension|competitive|sensitivity|recognition|automatic|range|distribution|profile|target|mechanism|radar|dependence|relationship|mechanism|effectiveness|robust|explore|within|abstract|data|sample|spectrogram|features|highresolution|use|recognition|rnn|find|function|besides|discover|attentional|weight|informative|develop|range|since|memory|hidden|sequential|provided|discriminative|informative|targetaware|taran|along|make|timeshift|hrrp|also|target|cells|detailed|attention|time
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Radar|Time domain|Mathematical optimization|Pattern recognition|Spectrogram|Artificial intelligence|Discriminative model|Mathematics|Radar automatic target recognition
+references:1753482797|1815076433|1972127950|1992272902|2034996255|2045731367|2075308157|2098525496|2108727084|2110485445|2129672003|2133047848|2143612262|2145094598|2147973859|2153182373|2158313596|2160905702|2171810632|2342171291|2402268235|2507782627|2964199361
+
+
+id:2896335160
+title:Variational probabilistic generative framework for single image super-resolution
+year:2019
+author information:[
+author name:Zhengjue Wang
+author organization:Xidian University
+author id:2803867291|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hao Zhang
+author organization:Xidian University
+author id:2803946276|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+]
+abstract:called|hr|representation|stateoftheart|lowresolution|three|patch|model|optimizing|based|mapping|efficiency|method|patches|methods|jointly|likelihood|latent|competitive|shared|variational|inference|methods|superresolution|networks|distribution|noise|stochastic|examined|popular|sr|implied|highresolution|efficient|abstract|probabilistic|forward|consistent|model|single|help|likewise|framework|advantages|joint|conditional|use|recognition|generated|prior|examplebased|results|image|new|corrupted|experimental|informative|develop|proposed|especially|infer|demonstrate|full|framework|deep|applied|show|learning|codingbased|regressionbased|generative|general|accomplish|public|parameterized|provides|task|effectiveness|process|assembles|pair|existing|guidance|regression|datasets
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Parameterized complexity|Regression|Inference|Coding (social sciences)|Artificial intelligence|Probabilistic logic|Generative grammar|Superresolution|Machine learning|Mathematics
+references:54257720|135113724|1522301498|1779483307|1791560514|1850888726|1885185971|1930824406|1973788353|1976416062|1976496742|1999821839|2047920195|2072128103|2088254198|2103844245|2118103795|2118963448|2120432039|2121058967|2121927366|2123325925|2126739786|2128002512|2133665775|2140611763|2149669120|2157190232|2161516371|2163935418|2164551808|2169488311|2172128189|2188365844|2344138609|2511114923|2523714292|2607041014|2618530766|2725606191|2735144566|2791840139|2949079773|2950872229|2962879080
+
+
+id:2909390529
+title:Factorized discriminative conditional variational auto-encoder for radar HRRP target recognition
+year:2019
+author information:[
+author name:Chuan Du
+author organization:Xidian University
+author id:2908657146|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Bin Xu
+author organization:Xidian University
+author id:2895009484|
+author name:Dandan Guo
+author organization:Xidian University
+author id:2963400982|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+]
+abstract:encode|measured|conditional|data|sufficiently|recognition|achieves|experimental|multiplicative|resolution|multilayer|observed|perception|high|profiles|sufficient|model|potential|results|algorithm|promising|reduce|approximation|reconstructing|thus|parameters|factorized|mlps|profile|posterior|weight|capture|propose|proposed|improve|targetaspect|offering|overall|sensitivity|demonstrate|average|threeway|range|discriminative|tensors|representations|variability|regularized|interactions|generative|feature|performance|learn|abstract|introduce|effectively|hrrp|label|target|considering|radar|extensive|reconstruction|information|taking|statistics
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Radar|ENCODE|Mathematical optimization|Autoencoder|Pattern recognition|Tensor|Multiplicative function|Artificial intelligence|Sufficient statistic|Discriminative model|Mathematics|Generative model
+references:1522301498|1551219034|1779483307|1836465849|1972127950|1985809919|1989092755|2010570954|2045731367|2055318503|2072128103|2096765209|2098525496|2102882097|2108727084|2115096495|2132329643|2132798771|2133047848|2133257461|2134905716|2145094598|2146337213|2146502635|2146676920|2147973859|2157589572|2158313596|2160815625|2160905702|2163398148|2163922914|2188365844|2233492911|2429903989|2507782627|2601450892|2616180702|2949650786|2962897886|2963135265|2963223306|2964186239
+
+
+id:2912181232
+title:Noise-Robust Motion Compensation for Aerial Maneuvering Target ISAR Imaging by Parametric Minimum Entropy Optimization
+year:2019
+author information:[
+author name:Jiadong Wang
+author organization:National Laboratory of Radar Signal Processing Xidian University Xian China
+author id:2791216403|
+author name:Lei Zhang
+author organization:Xidian University
+author id:2590418246|
+author name:Lan Du
+author organization:Xidian University
+author id:2154903899|
+author name:Dongwen Yang
+author organization:Xidian University
+author id:2905555545|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+]
+abstract:plane|measured|changing|tracking|three|via|would|optimization|estimate|obtained|model|gradientbased|case|order|phase|based|using|method|parameters|simulated|robustness|methods|propose|induce|traditional|exact|strong|prove|methods|global|experiments|extended|local|spatialvariant|entropy|low|optimum|noise|based|gives|established|kalman|chip|expression|initial|change|trapping|model|compensation|filter|aperture|wellfocused|efficiently|information|compensate|minimum|iteratively|adopted|data|main|developed|challenging|snr|find|coarse|continuous|method|signal|solver|always|image|maneuvering|nonuniform|applicable|seriously|real|estimation|synthetic|involved|proposed|noiserobust|parameters|errors|parametric|cause|error|prevent|projection|blurred|effectiveness|inverse|motion|effectively|rotation|estimated|increase|target|conventional|optimization|isar|compensation|information|errors|treating
+venue name:IEEE Transactions on Geoscience and Remote Sensing
+venue id:111326731
+venue type:J
+document type:Journal
+study fields:Computer vision|Extended Kalman filter|Local optimum|Motion compensation|Algorithm|Inverse synthetic aperture radar|Robustness (computer science)|Parametric statistics|Artificial intelligence|Motion estimation|Projection plane|Mathematics
+references:1572699023|1980846205|1980867543|1997528906|2008633406|2020873585|2039016879|2050206299|2091155613|2102707018|2146554500|2147991993|2159484283|2166785746|2241421345
+
+
+id:2920313172
+title:Convolutional neural networks for radar HRRP target recognition and rejection
+year:2019
+author information:[
+author name:Jinwei Wan
+author organization:Xidan University
+author id:2894593747|
+author name:Bo Chen
+author organization:Xidan University
+author id:2601901235|
+author name:Bin Xu
+author organization:Xidan University
+author id:2895009484|
+author name:Hongwei Liu
+author organization:Xidan University
+author id:2155495874|
+author name:Lin Jin
+author organization:Xidan University
+author id:2895097434|
+]
+abstract:measured|together|stateoftheart|characterizes|model|tasks|order|phase|using|compared|profile|outlier|handle|extraction|devise|correlation|twodimensional|among|domain|deconvolutional|cnn|methods|range|networks|cells|amplitude|feature|feature|structured|convolutional|address|explore|problem|efficient|highresolution|many|integrate|radar|spectrogram|information|data|recognition|features|adding|besides|results|attractive|experimental|rejection|take|extract|task|critical|neural|records|show|discriminative|ratr|onedimensional|robust|advantage|automatic|hrrp|also|target|outperforms|cells|time|properties
+venue name:EURASIP Journal on Advances in Signal Processing
+venue id:35920007
+venue type:J
+document type:Journal
+study fields:Time domain|Radar|Computer vision|Pattern recognition|Computer science|Convolutional neural network|Spectrogram|Outlier|Feature extraction|Artificial intelligence|Discriminative model|Radar automatic target recognition
+references:71795751|1665214252|1686810756|1836465849|1886630596|1972127950|1976526581|2025768430|2077550182|2097117768|2098525496|2103914106|2104190734|2108501770|2108727084|2112739286|2129672003|2130325614|2132329643|2133047848|2134905716|2141154209|2146676920|2147973859|2157589572|2158313596|2160905702|2163605009|2163922914|2194775991|2263236809|2507782627|2530876040|2570539041
+
+
+id:2947451847
+title:Long short-term memory-based recurrent neural networks for nonlinear target tracking
+year:2019
+author information:[
+author name:Chang Gao
+author organization:Xidian University
+author id:2762330255|
+author name:Junkun Yan
+author organization:Xidian University
+author id:2729061542|
+author name:Shenghua Zhou
+author organization:Xidian University
+author id:2120560461|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Hongwei Liu
+author organization:Xidian University
+author id:2155495874|
+]
+abstract:considered|accuracy|tracking|output|newly|problem|estimate|model|state|shorter|efficiency|mapping|methods|handle|nonlinearities|traditional|system|provide|even|exact|statistical|strong|methods|networks|uncertainty|balanced|long|sufficient|particle|among|automatically|compared|though|initial|abstract|observation|filter|able|manner|resolve|data|shortterm|unknown|shown|prior|recurrent|results|computational|obtain|nonlinear|memorybased|undergoes|estimation|take|proposed|true|deep|neural|sequential|nearly|provided|show|training|states|related|observations|effectiveness|implementation|capabilities|networkbased|structure|target|better|simulation|online|essentially|time|fitting
+venue name:Signal Processing
+venue id:154637859
+venue type:J
+document type:Journal
+study fields:Training set|Nonlinear system|Control theory|Particle filter|Recurrent neural network|Long short term memory|Artificial neural network|Mathematics|System model
+references:1889624880|1968669537|2055936398|2064675550|2067619114|2073117938|2078516695|2097785478|2104094955|2137983211|2160337655|2160815625|2263483072|2523060838|2528491735|2557283755|2618530766|2766164908|2766808838|2949888546
+
+
+id:2951589572
+title:Convolutional Poisson Gamma Belief Network
+year:2019
+author information:[
+author name:Chaojie Wang
+author organization:
+author id:2788987037|
+author name:Bo Chen
+author organization:Xidian University
+author id:2601901235|
+author name:Sucheng Xiao
+author organization:
+author id:2946564724|
+author name:Mingyuan Zhou
+author organization:
+author id:2170042945|
+]
+abstract:increasingly|building|via|builds|block|text|order|based|models|layer|hierarchy|resorts|analysis|propose|sampler|poisson|pooling|latent|boost|completely|word|embeds|weibull|variational|operates|document|onehot|distribution|representations|feature|variety|phraselevel|belief|convolutional|highquality|efficient|probabilistic|one|words|vector|lowdimensional|leveraged|phrases|gamma|novel|order|lossy|either|ignores|topics|cpgbn|enrich|directly|results|autoencoder|experimental|capture|often|lossless|couples|develop|dense|sequence|extract|vectors|demonstrate|representation|network|general|ignore|hence|factor|highdimensional|processes|captures|wide|gibbs|specific|existing|cpfa|variable|forms
+venue name:arXiv: Machine Learning
+venue id:2597365278
+venue type:J
+document type:Repository
+study fields:Feature vector|Word order|Lossy compression|Inference|Theoretical computer science|Bayesian network|Artificial intelligence|Poisson distribution|Probabilistic logic|Machine learning|Mathematics|Gibbs sampling
+references:22861983|1666690886|1810499140|1832693441|1880262756|1924770834|1985462363|2027875450|2027922120|2061873838|2063392856|2064675550|2070246124|2085534751|2094472029|2100002341|2107789863|2110529144|2113459411|2113552117|2114524997|2119821739|2120615054|2134905716|2135029798|2147152072|2153579005|2158958710|2162931300|2163455955|2166706824|2169751147|2170678468|2250879510|2271840356|2529448042|2586756136|2594155836|2740721704|2753738274|2788195014|2798898313|2949208669|2957415859|2962732346|2962800561|2962836999|2963083845|2963908579|2963921497|2964091265|2964094663
+
+
+id:1504941771
+title:On-Line Scheduling a Batch Processing System to Minimize Total Weighted Job Completion Time
+year:2009
+author information:[
+author name:Bo Chen
+author organization:City University of Hong Kong
+author id:2620689060|
+author name:Xiaotie Deng
+author organization:University of Hong Kong
+author id:2134590396|
+author name:Wenan Zang
+author organization:University of Warwick
+author id:2251352021|
+]
+abstract:construct|objective|setting|problem|online|model|assigning|algorithm|sense||system|provide|processing|simultaneously|algorithms|c|unrestrictive|deterministic|two|batches|modelled|minimize|completion|b|address|linear|may|problem|e|jobs|irrevocably|restrictive|scheduling|j|n|decadea|extensively|machine|certain|first|constant|existence|proceeds|function|scheduling|weighted|last|involves|batch|sequence|know|job|show|batchth|times|total|arrive|process|original|studied|minimizedin|way|guarantees|schedule|laterour|performance|determining|time
+venue name:International Symposium on Algorithms and Computation
+venue id:1175727152
+venue type:C
+document type:Conference
+study fields:Multiprocessor scheduling|Job shop scheduling|Fair-share scheduling|Computer science|Flow shop scheduling|Algorithm|Least slack time scheduling|Rate-monotonic scheduling|Job scheduler|Dynamic priority scheduling
+references:1531908439|1545031341|1966523365|1994027672|2016906275|2017896057|2047403924|2105821629|2111001493|2130626677|2145972154|2148204686
+
+
+id:1544555851
+title:An Optimal Algorithm for Preemptive On-line Scheduling
+year:1994
+author information:[
+author name:Bo Chen
+author organization:ERASMUS University Rotterdam
+author id:2620689060|
+author name:André van Vliet
+author organization:Erasmus University
+author id:2171970623|
+author name:Gerhard J. Woeginger
+author organization:TU Graz
+author id:694944117|
+]
+abstract:increasingly|identical|problem|allowed|online|scheduling|case|algorithm|approximation|goal|exist|worst|prove|guarantee|investigate|derive|guarantee|parallel|every|minimize|makespan|jobs|better|machines|preemption|tends
+venue name:European Symposium on Algorithms
+venue id:1154039276
+venue type:C
+document type:Conference
+study fields:Big M method|Approximation algorithm|Discrete mathematics|Mathematical optimization|Preemption|Job shop scheduling|Computer science|Scheduling (computing)
+references:2011039300|2084524235
+
+
+id:1899332102
+title:On-Line Algorithms for Cardinality Constrained Bin Packing Problems
+year:2001
+author information:[
+author name:Luitpold Babel
+author organization:Technische Universität München
+author id:1996407141|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Hans Kellerer
+author organization:Institut für Statistik und Operations Research, Universität Graz, Universitätsstr. 15, A-8010 Graz, Austria
+author id:71710964|
+author name:Vladimir Kotov
+author organization:University of Minsk
+author id:2322125166|
+]
+abstract:bin|allowed|upon|second|number|problem|imposes|online|capacity|algorithm|approximation|bin|towards|list|version|unit|asymptotic|improve|asks|schwetman|present|items|algorithms|smallest|values|show|best|packing|two|result|heuristics|known|worstcase|bins|problem|efficient|one|considerably|possible|k|possible|performance|kitem|additionally|increasing|shen|constraint|first|tends|ratio
+venue name:International Symposium on Algorithms and Computation
+venue id:1175727152
+venue type:C
+document type:Conference
+study fields:Approximation algorithm|Discrete mathematics|Combinatorics|Bin|Performance ratio|Best bin first|Algorithm|Cardinality|Heuristics|Mathematics|Bin packing problem
+references:1987566992|2005908084|2025787252|2048628062|2100172689|2169657806
+
+
+id:1994243396
+title:Algorithms for on-line bin-packing problems with cardinality constraints
+year:2004
+author information:[
+author name:Luitpold Babel
+author organization:EADS Germany, Landshuterstraße 26, D-5705, Unterschleißheim, Germany
+author id:1996407141|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Hans Kellerer
+author organization:Institut für Statistik und Operations Research, Universität Graz, Universitätsstr. 15, A-8010 Graz, Austria
+author id:71710964|
+author name:Vladimir Kotov
+author organization:University of Minsk
+author id:2322125166|
+]
+abstract:allowed|upon|second|number|problem|imposes|sizes|ratio|online|capacity|algorithm|optimal|bin|towards|list|unit|asymptotic|improve|asks|bounds|presenting|present|items|algorithms|smallest|values|show|best|packing|two|result|known|ratios|close|worstcase|bins|problem|efficient|one|bound|considerably|possible|k|binpacking|performance|kitem|additionally|increasing|constraint|first|tends|ratio
+venue name:Discrete Applied Mathematics
+venue id:171741597
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Combinatorics|Bin|Performance ratio|Algorithm|Cardinality|Mathematics|Bin packing problem
+references:1549010977|1595825807|1966797778|1987566992|2005908084|2025787252|2037728500|2043862089|2048628062|2100172689
+
+
+id:1996869102
+title:New lower and upper bounds for on-line scheduling
+year:1994
+author information:[
+author name:Bo Chen
+author organization:ERASMUS University Rotterdam
+author id:2620689060|
+author name:André Van Vliet
+author organization:Erasmus University Rotterdam
+author id:2171970623|
+author name:Gerhard J. Woeginger
+author organization:Institute for Theoretical Computer Science, TU Graz, Austria
+author id:694944117|
+]
+abstract:almost|upper|mainly|objective|identical|deviations|problem|time|online|scheduling|list|results|inevitable|lower|bounds|overall|algorithm|independent|guarantee|best|investigate|derive|matching|finishing|known|parallel|minimizing|worstcase|set|cases|jobs|optimum|heuristic|scheduling|possible|small|possible|encountered|machines|interested
+venue name:Operations Research Letters
+venue id:27769002
+venue type:J
+document type:Journal
+study fields:Heuristic|Mathematical optimization|List scheduling|Scheduling (computing)|Upper and lower bounds|Mathematics
+references:55614575|1982084418|2084524235
+
+
+id:2000021718
+title:The price of atomic selfish ring routing
+year:2010
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Xujin Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2163295434|
+author name:Xiaodong Hu
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2112852317|
+]
+abstract:latency|constant|functions|ring|approximate|existence|main|issues|equilibrium|pos|price|stability|unsplittable|establishment|respect|bounds|study|latency|show|networks|nash|result|routing|computing|homogeneous|selfish|flows|reduces|additionally|minimizing|algorithmic|linear|address|also|maximum
+venue name:Journal of Combinatorial Optimization
+venue id:107925523
+venue type:J
+document type:Journal
+study fields:Flow network|Mathematical optimization|Algorithmics|Homogeneous function|Price of stability|Latency (engineering)|Retard|Nash equilibrium|Ring network|Mathematics
+references:6948751|1501066815|1526250527|1540416954|1590340002|1596040816|1983103400|2013530391|2017227260|2021677593|2053387401|2059997911|2061040942|2077066745|2112269231|2143950057|2145297839|2153541270|2167101557|2406309358
+
+
+id:2010467898
+title:A comprehensive decision-making model for risk management of supply chain
+year:2011
+author information:[
+author name:De Xia
+author organization:WuHan University of Technol
+author id:2131570756|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+]
+abstract:practice|pertinence|optimal|strategic|improves|interactive|supply|three|relation|identified|model|promotes|cooperation|organizational|based|efficiency|interrelationship|propose|practitioners|intercirculative|selection|decisionmaking|among|managerial|internal|access|methods|tailor|unilateral|research|cycle|two|example|sc|dual|management|verify|processes|relationship|cornerstone|takes|based|chain|product|plc|explore|decision|four|analyzed|operational|great|model|triggering|partners|elements|logic|analytic|opc|verified|available|cycles|influence|clue|dynamic|feasible|mechanisms|results|stability|whole|important|guideline|tactics|provided|risk|life|network|numerical|operations|paper|design|hence|designed|clusters|sc|measures|process|types|built|apply|factors|path|tools|performance|management|build|corresponding|well|risk|suitable|main|account|methodology
+venue name:Expert Systems With Applications
+venue id:13144211
+venue type:J
+document type:Journal
+study fields:Decision-making models|Organizational performance|Computer science|Supply chain risk management|Risk analysis (engineering)|Analytic network process|Risk management|Supply chain|Decision model|Artificial intelligence|Product lifecycle|Machine learning
+references:1989365519|1994010952|2021290920|2032670208|2038428061|2115070561|2128011585|2145836573
+
+
+id:2014475002
+title:Lot-sizing scheduling with batch setup times
+year:2006
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Yinyu Ye
+author organization:University
+author id:2097765390|
+author name:Jiawei Zhang
+author organization:University
+author id:2125406074|
+]
+abstract:concerned|allowed|several|otherwise|required|number|split|problem|time|scheduling|polynomialtime|case|fully|algorithm|give|approximation|uninterrupted|former|machine|strongly|individually|approximation|job|arbitrarily
+venue name:Journal of Scheduling
+venue id:91278097
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Mathematical optimization|Job shop scheduling|Computer science|Scheduling (computing)|Real-time computing|Sizing|Unit of time
+references:1982427368|1987135795|2009990213|2010632596|2011039300|2082649910|2159580476
+
+
+id:2025039409
+title:Approximation algorithms for two-machine flow shop scheduling with batch setup times
+year:1998
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Chris N. Potts
+author organization:University Of Southampton
+author id:2146379270|
+author name:Vitaly A. Strusevich
+author organization:University of Greenwich
+author id:2064398894|
+]
+abstract:switches|programming|required|objective|improved|inc|problem|schedule|flow|similar|grouped|grouping|propose|generalization|processing|algorithm|besides|independent|another|direct|classical|two|optimally|known|jobs|minimizing|sequenced|worstcase|makespan|jobs|heuristic|mathematical|many|batching|performed|forcing|machine|published|minimum|first|ratio|addresses|solved|developed|second|split|setups|scheduling|wellknown|constructing|batch|elsevier|sequence|creates|job|shop|batches|science|nonpreemptively|total|paper|bv|algorithms|practical|nphard|adjacent|allowing|twomachine|schedule|performance|setup|investigation|avoid|time|batch
+venue name:Mathematical Programming
+venue id:193920097
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Mathematical optimization|Heuristic|Job shop scheduling|Scheduling (computing)|Computer science|Performance ratio|Flow shop scheduling|Job scheduler
+references:1987135795|2010632596|2093229192|2105390489
+
+
+id:2035754921
+title:A New Heuristic for Three-Machine Flow Shop Scheduling
+year:1996
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Celia A. Glass
+author organization:University of Southampton
+author id:2079097563|
+author name:Chris N. Potts
+author organization:University Of Southampton
+author id:2146379270|
+author name:Vitaly A. Strusevich
+author organization:University of Greenwich
+author id:2064398894|
+]
+abstract:optimal|available|sequencing|objective|problem|shown|generate|flow|algorithm|job|based|last|presented|discussed|thereby|threemachine|shop|log|best|general|times|paper|minimizing|worstcase|considers|completion|previous|jobs|length|heuristic|also|n|schedule|performance|application|time|reducing|ratio
+venue name:Operations Research
+venue id:125775545
+venue type:J
+document type:Journal
+study fields:Binary logarithm|Mathematical optimization|Heuristic|Job shop scheduling|Scheduling (computing)|Computer science|Performance ratio|Flow shop scheduling|Scheduling (production processes)|Operations management|Partition method
+references:1967955864|1974874234|1991124379|2007315235|2044336241|2157846217
+
+
+id:2055593727
+title:Cost-effective designs of fault-tolerant access networks in communication systems
+year:2009
+author information:[
+author name:Xujin Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2163295434|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+]
+abstract:ring|capacities|inapproximability|required|via|sss|inc|problem|terms|wiley|despite|sps|modular|subscribers|two|rings|constructions|algorithms|access|given|sum|logarithmic|networks|ability|sp|faulttolerant|minimize|set|address|one|connecting|minimum|scalable|concerned|features|time|sufficient|constantfactor|variant|links|tolerance|approximation|pay|article|establish|proposed|sps|solve|architecture|problems|costeffective|link|rings|show|quartic|error|network|general|design|capacities|apxhard|ensuring|selecting|costs|aims|determine|studied|costs|manage|management|service|locations|providers
+venue name:Networks
+venue id:191798613
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Mathematical optimization|Telecommunications|Telecommunications network|Network planning and design|Computer network|Service provider|Fault tolerance|Access control|Mathematics|Access network|Scalability
+references:1970931805|1970975943|1971458369|1973529814|1990099879|2001139415|2003159902|2027278505|2040546552|2074048915|2119037546|2141355868|2143996311|2190953556
+
+
+id:2059107044
+title:Efficiency analysis of load balancing games with and without activation costs
+year:2012
+author information:[
+author name:Bo Chen
+author organization:Qufu Normal University
+author id:2620689060|
+author name:Sinan Gürel
+author organization:University of Warwick
+author id:2311182017|
+]
+abstract:poa|assess|identical|problem|terms|price|variant|games|consider|stability|case|models|new|asymptotically|individual|resource|loadbalancing|anarchy|quality|provide|bounds|tight|activation|pos|parameters|involving|average|study|game|parametric|classical|pure|nash|two|costs|allocation|equilibria|identify|social|bound|costs|resources|sharp|suitable
+venue name:Journal of Scheduling
+venue id:91278097
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Mathematical economics|Load balancing (computing)|Computer science|Price of stability|Cost sharing|Parametric statistics|Resource allocation|Price of anarchy|Nash equilibrium
+references:1496361382|1501066815|1526250527|1991582670|1996249306|2000786377|2011144523|2017227260|2019792818|2075004702|2088559962|2091484735|2095094403|2112269231|2123442845|2124691213|2125537511|2133243407|2145141809|2160126722|2160367301|2406309358
+
+
+id:2072770591
+title:Approximation Algorithms for Soft-Capacitated Facility Location in Capacitated Network Design
+year:2009
+author information:[
+author name:Xujin Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2163295434|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+]
+abstract:incur|variants|constraints|bifactor|problem|diverse|combinatorial|operations|algorithm|shipment|answering|demand|extend|provide|snphard|strongly|integration|algorithms|approximation|max|research|capacity|installation|include|question|combining|study|designing|requiring|polynomial|facilities|facility|minimum|open|first|imposed|approximate|several|serve|shown|time|constantfactor|cable|primaldual|area|approximation|cables|published|provision|techniques|present|buyatbulk|unsplitable|installing|network|running|admit|paper|design|client|cost|cubic|lagrangian|costs|opening|logistic|service|arises|achieved|location|clustering|demands|applications
+venue name:Algorithmica
+venue id:89324355
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Combinatorics|Mathematical optimization|Network planning and design|Facility location problem|Combinatorial optimization|Lagrangian relaxation|Cluster analysis|Time complexity|1-center problem|Mathematics
+references:1482186473|1973529814|1990327548|2001139415|2011823863|2032338909|2101622070|2120679858|2139841919|2142758253|2146391825|2147879413
+
+
+id:2074048915
+title:A Multiexchange Local Search Algorithm for the Capacitated Facility Location Problem
+year:2005
+author information:[
+author name:Jiawei Zhang
+author organization:New-York University e  e  e  e
+author id:2125406074|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Yinyu Ye
+author organization:University
+author id:2097765390|
+]
+abstract:comput|upper|capacities|mahdian|programming|introduced|problem|algorithm|order|give|based|universal|exchanges|analysis|matches|combin|multiexchange|cflp|optim|obtained|simultaneously|locationproc|guarantee|local|uniform|search|williamson|notion|known|al|bestknown|foundations|sci|algorithms|machine|facility|capacitated|facilities|facility|operation|ratio|constant|approximating|use|tight|conf|capacitiesproc|shown|scheduling|problems|ieee|possibly|obtain|area|new|given|approximation|graph|et|proposed|techniques|chudak|exchange|present|show|best|annual|operations|previously|sympos|parallel|hard|make|proc|bound|interesting|multiple|also|improvement|eur|integer|pail|performance|location
+venue name:Mathematics of Operations Research
+venue id:55826652
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Discrete mathematics|Graph|Combinatorics|Mathematical optimization|Upper and lower bounds|Performance guarantee|Facility location problem|e|Integer programming|Local search (optimization)|Mathematics
+references:1516365398|1559577696|1696776098|1967391655|1987503114|2003719999|2006514056|2010410498|2019628992|2033687872|2055996587|2057010620|2101622070|2149106399
+
+
+id:2098280248
+title:On-line scheduling of small open shops
+year:2001
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Donglei Du
+author organization:University of Texas at Dallas
+author id:2124417112|
+author name:Jiye Han
+author organization:Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing, People’s Republic of China
+author id:2644022516|
+author name:Jianjun Wen
+author organization:University of California
+author id:2805674780|
+]
+abstract:competitive|show|investigate|two|three|preemptive|objective|problem|online|scheduling|minimizing|permutation|algorithm|makespan|nonpreemptive|develop|propose|better|schedule|shops|machines|open|first
+venue name:Discrete Applied Mathematics
+venue id:171741597
+venue type:J
+document type:Journal
+study fields:Discrete mathematics|Fixed-priority pre-emptive scheduling|Mathematical optimization|Job shop scheduling|Fair-share scheduling|Computer science|Flow shop scheduling|Two-level scheduling|Real-time computing|Rate-monotonic scheduling|Earliest deadline first scheduling|Dynamic priority scheduling
+references:2093229192|2112475567|2179639784
+
+
+id:2038303146
+title:Scheduling on identical machines: How good is LPT in an on-line setting?
+year:1997
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Arjen P. A. Vestjens
+author organization:University of Technology
+author id:259364132|
+]
+abstract:allowed|release|available|arrival|identical|improved|number|problem|time|online|scheduling|consider|algorithm|propose||becomes|analyze|following|processing|tight|job|largest|deal|finished|prove|independent|scheduled|show|least|guarantee|advance|unknown|lpt|known|parallel|arrive|minimizing|set|availabe|jobs|bound|schedule|performance|machine|time|preemption
+venue name:Operations Research Letters
+venue id:27769002
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Preemption|Machine scheduling|Job shop scheduling|Release date|Scheduling (computing)|Upper and lower bounds|Computer science|Performance guarantee
+references:2003173671|2080316412|2104680817|2142932691|2156978792
+
+
+id:2112475567
+title:An optimal algorithm for preemptive on-line scheduling
+year:1995
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:André Van Vliet
+author organization:Erasmus University Rotterdam
+author id:2171970623|
+author name:Gerhard J. Woeginger
+author organization:TU Graz, Institut für Mathematik, Steyrergasse 30, 8010 Graz, Austria
+author id:694944117|
+]
+abstract:increasingly|identical|problem|allowed|online|scheduling|algorithm|approximation|goal||exist|prove|guarantee|investigate|derive|guarantee|parallel|every|worstcase|minimize|makespan|jobs|better|machines|preemption|tends
+venue name:Operations Research Letters
+venue id:27769002
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Combinatorics|Mathematical optimization|Preemption|Job shop scheduling|Upper and lower bounds|Scheduling (computing)|Algorithm|Mathematics
+references:2009990213
+
+
+id:2117782865
+title:Logistics scheduling with batching and transportation
+year:2008
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Chung Yee Lee
+author organization:Hong Kong University of Science  Technology
+author id:2559152036|
+]
+abstract:delivered|objective|number|problem|case|algorithm|thus|firststage|destinations|completed|processor|traditional|accompanied|provide|cases|complexity|algorithms|sum|key|minimize|completion|problem|jobs|one|draw|batching|picture|transportation|call|polynomial|available|second|arrangement|prespecified|scheduling|different|weighted|approximation|need|involves|cost|batch|solvable|modes|overall|job|parameters|importance|logistics|guarantee|general|total|paper|studies|since|delivery|cases|also|twostage|factors|processed|performance|various|time
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Approximation algorithm|Batch production|Mathematical optimization|Job shop scheduling|Scheduling (computing)|Operations research|Transportation theory|Performance measurement|Job scheduler|Batch processing|Operations management|Mathematics
+references:1993634122|2001312822|2039769484|2053913299|2063824453|2095831266|2103404729|2119554075
+
+
+id:2144456638
+title:Normal-form preemption sequences for an open problem in scheduling theory
+year:2016
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Ed Coffman
+author organization:Columbia University
+author id:2461074888|
+author name:Dariusz Dereniowski
+author organization:Gdask University of Technology
+author id:200937336|
+author name:Wiesław Kubiak
+author organization:Memorial University
+author id:2007159491|
+]
+abstract:play|optimal|called|release|shift|focus|approach|preemptive|consist|objective|number|problem|sizes|far|property|shifts|combinatorial|polynomialtime|recent|investigated|tantalizing|order|completions|large|optimality|structural|lower|analysis|processors|preempted|generalization|among|bounds|stillopen|must|interval|obtained|theory|papers|primary|nphard|prominent|role|intrees|fundamental|immediately|two|literature|corners|found|minimize|completion|exponentially|necessary|question|jobs|ith|solution|simplification|n|sharpens|instances|expect|minimum|open|first|preemption|tight|second|linearprogram|earlier|exceed|scheduling|problems
+venue name:Journal of Scheduling
+venue id:91278097
+venue type:J
+document type:Journal
+study fields:Binary logarithm|Mathematical optimization|Preemption|Open problem|Upper and lower bounds|Scheduling (computing)|Real-time computing|Polytope|Schedule|Mathematics|Bounded function
+references:1704392916|1976306508|1977961697|1996256520|2001364911|2022226221|2027372432|2039075619|2063771307|2083845110|2090947986|2092333800|2095614028|2153657089|2154964518|2588837743
+
+
+id:2168963756
+title:On-line service scheduling
+year:2009
+author information:[
+author name:Zhenbo Wang
+author organization:Tsinghua University
+author id:2162801827|
+author name:Wenxun Xing
+author organization:Tsinghua University
+author id:2123802469|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+]
+abstract:concerned|combinations|arrival|used|occurs|upon|three|tight|without|problem|scheduling|ordinary|needs|obtain|practice|classified|completion|dynamically|flexible|customers|served|bounds|considered|assume|evaluate|become|study|classes|policies|paper|known|systems|arrive|customers|worstcase|carried|facilities|special|performance|service|time
+venue name:Journal of Scheduling
+venue id:91278097
+venue type:J
+document type:Journal
+study fields:Service design|Service level objective|Computer science|Service system|Differentiated service|Real-time computing|Service guarantee|Service product management|Service level requirement|Service delivery framework
+references:1501066815|1981135899|2005845593|2027920448|2064467943|2080316412|2116245106|2142932691|2156867662
+
+
+id:2170425807
+title:Tactical fixed job scheduling with spread-time constraints
+year:2014
+author information:[
+author name:Shuyu Zhou
+author organization:East China University of Science and Technology
+author id:2951608833|
+author name:Xiandong Zhang
+author organization:Fudan University
+author id:2647269045|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Steef Van De Velde
+author organization:Erasmus University
+author id:2193822992|
+]
+abstract:objective|number|problem|strongly|assigned|experiments|nphard|times|branchandprice|l|flexibility|jobs|spreadtime|compared|minimize|address|set|jobs|situations|machine|associated|cannot|constraints|available|used|classes|influence|jobs|sufficient|scheduling|solves|results|group|computational|given|tactical|develop|solve|class|fixed|job|instances|classes|according|show|units|investigate|total|end|process|cost|limited|start|groups|earliest|consecutive|processed|machines|time|machines
+venue name:Computers  Operations Research
+venue id:173256270
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Machine scheduling|Branch and price|Real-time computing|Job scheduler|Unit of time|Neighborhood search|Total cost|Mathematics
+references:1560337332|1761548667|1965526085|1969142790|1973727721|1976936136|1978018515|2012541639|2051158805|2086080176|2099813847|2123862470|2167580124
+
+
+id:2271727958
+title:The importance of voting order for jury decisions by sequential majority voting
+year:2017
+author information:[
+author name:Steve Alpern
+author organization:University of Warwick
+author id:1962519860|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+]
+abstract:optimal|vary|decide|without|would|terms|majority|public|order|probability|made|investment|size|verdict|reached|managerial|larger|affect|simultaneous|two|q|antiseniority|collective|ability|close|nature|implications|decision|question|state|answer|first|convened|votes|information|experts|economic|seniority|correct|voting|jurors|abilities|legal|results|decision|actual|usually|juror|maximized|often|verdict|relevant|median|private|sequential|show|reaching|states|gap|make|jury|determine|decides|better|growth|ageold|showing|significantly
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Hung jury|Actuarial science|Anti-plurality voting|Voting|Public relations|Disapproval voting|Cardinal voting systems|Bullet voting|Operations management|Mathematics|Condorcet method|Approval voting
+references:2101483277|2121952996
+
+
+id:2611395148
+title:A Network Game of Dynamic Traffic
+year:2017
+author information:[
+author name:Zhigang Cao
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2271472274|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Xujin Chen
+author organization:CHINESE ACADEMY OF SCIENCES
+author id:2163295434|
+author name:Changjun Wang
+author organization:Beijing University of Tech
+author id:2311481153|
+]
+abstract:called|reach|quickly|path|enter|dependent|flow|models|agents|began|trying|atomic|study|systems|assumes|vertices|infinite|least|fundamental|sum|two|capacity|routing|literature|selfish|acyclic|set|one|incurred|draw|positive|agents|associated|queue|agent|theoretical|od|integer|freeflow|edge|dynamic|traffic|new|static|cost|experiences|edge|volume|selfish|transit|fixed|position|game|waiting|origin|discretized|latency|destination|time|network|total|flows|costs|directed|cost|recently|edges|played|possible|special|path|horizon|form|variable|attention|well|essentially|uses|time
+venue name:Economics and Computation
+venue id:2537263150
+venue type:C
+document type:Conference
+study fields:Integer|Mathematical optimization|Time horizon|Traffic flow|Vertex (geometry)|Computer science|Microeconomics|Queue|Subgame perfect equilibrium|Nash equilibrium|Total cost
+references:2007051395|2065929266|2106700782|2201653440
+
+
+id:2901569208
+title:Scheduling with time-of-use costs
+year:2019
+author information:[
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Xiandong Zhang
+author organization:Fudan University
+author id:2647269045|
+]
+abstract:subject|objective|scheduling|polynomialtime|computational|algorithm|approximation|level|tractable|onto|establish|charges|provide|processing|job|problems|timeofuse|independent|tractability|intractable|criteria|total|class|regular|minimize|address|set|cost|efficient|pseudopolynomialtime|abstract|jobs|one|scheme|single|performance|machine|variable|tariffs|minimum
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Time of use|Scheduling (computing)|Total cost|Mathematics
+references:142814830|2031847401|2056052030|2057559771|2072307179|2076845371|2084114854|2090605329|2096833120|2120017944|2161148179|2169927262|2583876468
+
+
+id:2910698331
+title:Price of fairness in two-agent single-machine scheduling problems
+year:2019
+author information:[
+author name:Alessandro Agnetis
+author organization:Università di Siena
+author id:2928565201|
+author name:Bo Chen
+author organization:University of Warwick
+author id:2620689060|
+author name:Gaia Nicosia
+author organization:Università Roma Tre, Italy
+author id:2143594910|
+author name:Andrea Pacifici
+author organization:Dipartimento di Ingegneria Civile e Ingegneria Informatica, Università degli Studi di Roma Tor Vergata, via del Politecnico 1, 00133 Roma, Italy
+author id:2008983856|
+]
+abstract:compete|date|agent|use|fair|tight|wish|jobs|problem|price|twoagent|scheduling|consider|resource|execute|propose|respect|extend|singlemachine|tardiness|study|providing|concept|investigate|two|total|times|notion|common|maxmin|fairness|definition|minimizing|situation|fairness|minimize|completion|allocation|set|aims|explore|apply|one|bound|agents|single|proportionally|due|machine|maximum|first|seeks
+venue name:European Journal of Operational Research
+venue id:103321696
+venue type:J
+document type:Journal
+study fields:Max-min fairness|Mathematical optimization|Single-machine scheduling|Tardiness|Scheduling (computing)|Resource allocation|Proportionally fair|Mathematics
+references:2013518095|2022749618|2044764725|2131801993|2134747248|2145233361|2155047985|2156671446|2156804741|2167101557|2215472514|2463480808|2618748045
+
+
+id:1646967508
+title:Networked fusion kalman filtering with multiple uncertainties
+year:2015
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Wenan Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:optimal|depend|upper|investigates|problem|model|dropouts|filtering|probabilities|reduce|using|optimality|packet|analysis|delays|note|bounds|conditions|systems|computed|occurrence|gain|systems|stochastic|compared|innovation|kalman|robust|steadystate|observation|computation|filter|multisensor|describe|novel|filters|presented|sufficient|method|stability|given|simulations|including|fusion|addressed|proposed|sensor|helps|networked|show|augmentation|random|failures|paper|parameter|matrices|class|designed|dimension|effectiveness|original|cost|multiple|reduceddimension|also|filters|observationfusion|burden
+venue name:IEEE Transactions on Aerospace and Electronic Systems
+venue id:193624734
+venue type:J
+document type:Journal
+study fields:Extended Kalman filter|Control theory|Network packet|Filter (signal processing)|Stochastic process|Sensor fusion|Robustness (computer science)|Kalman filter|Mathematics|Computation
+references:1984277564|1987571991|1987805571|1989351213|1993780626|2000646173|2018142823|2023308898|2029774596|2030600611|2046450805|2051234657|2052361561|2074946112|2085352907|2110240006|2117926741|2130951814|2133893543|2139295716|2142185403|2142315243|2151836956|2152480638|2165168261
+
+
+id:1717043929
+title:Information Fusion Estimation for spatially distributed cyber-physical systems with communication delay and bandwidth constraints
+year:2015
+author information:[
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:optimal|dimensionality|transmitted|remote|problem|estimate|model|state|filtering|probabilities|distributed|sense|underlying|impacts|jointly|node|node|delay|selection|determined|obtained|dfkf|criterion|guarantee|local|matrices|systems|stochastic|bandwidth|measurements|kalman|bandwidth|filter|information|cyberphysical|operation|subject|sufficient|satisfactory|directly|communication|weighted|stability|sink|finite|sent|fusion|estimation|square|condition|proposed|sensor|fc|arbitrarily|deployed|recursively|error|paper|studies|since|physical|class|designed|derived|center|multiple|control|sensors|performance|corresponding|mean|condition|reduction|strategy|probabilitydependent|convergent
+venue name:Advances in Computing and Communications
+venue id:1190039108
+venue type:C
+document type:Conference
+study fields:Dimensionality reduction|Computer science|Physical system|Control theory|Mean squared error|Sensor fusion|Control engineering|Kalman filter|Cyber-physical system|Bandwidth (signal processing)|Recursion
+references:1886186365|1967900990|1984277564|1984609538|1987571991|1993780626|2026957851|2030600611|2034878739|2038169746|2039250476|2046450805|2052334067|2059078529|2059330422|2064183516|2076618762|2085352907|2085512144|2091674687|2091739459|2142315243|2151836956|2252822868
+
+
+id:1977811695
+title:H∞ Filtering for Markovian Switching Genetic Regulatory Networks with Time-Delays and Stochastic Disturbances
+year:2011
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+]
+abstract:meansquare|illustrative|nonlinear|gains|approach|required|feedback|problem|markovian|protein|estimate|filtering|dependent|jump|method|analysis|exist|system|exact|fluctuation|switching|functional|inequalities|aim|h|networks|matrix|l|two|measurement|lyapunov|example|resorting|desired|noise|noise|stochastic|genetic|linear|set|model|filter|statistics|concerned|available|known|shown|signal|stability|described|given|modeled|intrinsic|bounded|estimation|addressed|signals|asymptotic|true|demonstrate|concentrations|regulatory|mrna|exists|error|prescribed|paper|extrinsic|design|class|designed|ensures|effectiveness|process|arbitrary|outputs|proposed|regulation|translation|statedependent|errors
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Nonlinear system|Linear filter|Control theory|Matrix (mathematics)|Filter (signal processing)|Stochastic process|Filtering problem|Exact statistics|Mathematics|Bounded function
+references:1657456078|1970897473|1987307299|1993904195|2016577279|2025945253|2082982706|2109944603|2120510384|2167476310
+
+
+id:1993780626
+title:Distributed Fusion Estimation With Communication Bandwidth Constraints
+year:2015
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Haiyu Song
+author organization:ZheJiang University of Technol
+author id:2543667933|
+]
+abstract:constraints|concerned|process|simple|illustrative|transmitted|untransmitted|introduced|problem|transmitting|estimate|model|communication|filtering|group|given|finite|distributed|methods|fusion|estimation|square|signals|proposed|multisensor|binary|suboptimal|partial|fc|networked|sense|note|judgement|components|dfkf|criterion|technical|show|error|local|restructure|recursive|example|minimal|systems|vector|class|designed|effectiveness|kalman|variables|linear|kalman|determine|bandwidth|satisfy|center|multiple|step|filter|component|variance|mean|compensation|time|strategy|minimum|novel
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Minimum-variance unbiased estimator|Mathematical optimization|Control theory|Mean squared error|Sensor fusion|Kalman filter|Bandwidth (signal processing)|Linear programming|Fusion center|Estimation theory|Mathematics
+references:1971887588|2013698273|2023854323|2038169746|2062749753|2064183516|2079836048|2085352907|2089105767|2112440948|2117561657|2118066229|2142315243|2154515344|2154546286|2154828437|2252822868
+
+
+id:2001794116
+title:Exponential convergence rate estimation for neutral BAM neural networks with mixed time-delays
+year:2011
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+]
+abstract:exponential|bidirectional|concerned|results|delaydependent|criteria|considered|decay|approach|allowable|problem|terms|presented|associative|method|stability|based|given|neutral|distributed|analysis|three|delay|examples|proposed|delays|obtained|demonstrate|ratedependent|involved|memory|neural|utilizing|mixed|decomposition|networks|matrix|numerical|paper|rate|class|derived|effectiveness|linear|inequalities|constructed|appropriately|estimated|maximum|novel
+venue name:Neural Computing and Applications
+venue id:147897268
+venue type:J
+document type:Journal
+study fields:Content-addressable memory|Bidirectional associative memory|Control theory|Models of neural computation|Exponential stability|Rate of convergence|Discrete time and continuous time|Artificial neural network|Mathematics|Linear matrix inequality
+references:1590643820|1964083743|1987775360|1988041926|1998515821|2036406657|2039348363|2039795485|2041289944|2042397365|2066931881|2098153188|2139354882|2157431869
+
+
+id:2003047132
+title:Error-Driven Adaptiv
+year:2012
+author information:[
+author name:Aman H. Bura
+author organization:Zhejiang University of Technol
+author id:2566316693|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2632358423|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2640326361|
+]
+abstract:experimental|faulty|approach|three|upgrades|integrity|complex|injected|optimizing|model|state|filtering|algorithm|reduce|based|identifies|method|thus|easy|traditional|system|provide|flexible|plant|algorithms|providing|modelbased|least|availability|measurement|machine|adaptive|proved|noise|assembly|noise|imperative|architecture|kalman|detection|associates|learn|advantages|machine|model|efficiently|self|operation|measurements|techniques|speedy|using|several|healing|high|differentiate|spite|implemented|results|estimates|combination|described|errordriven|actual|degree|square|proposed|failure|sensor|present|errors|multilevel|values|show|update|recovery|states|disaster|paper|provides|predict|behavior|designed|allows|normal|process|identify|fault|control|virtual|correction|performance|proposed|application|platform|achieved|online|comprehensive
+venue name:International Conference on Machine Learning and Applications
+venue id:1138691947
+venue type:C
+document type:Conference
+study fields:Virtual machine|Computer science|Fault detection and isolation|Kalman filter|Real-time computing|Fault tolerance|Artificial intelligence|Control system|Adaptive control|High availability|Machine learning
+references:1829813581|2127424516
+
+
+id:2030600611
+title:Distributed Finite-Horizon Fusion Kalman Filtering for Bandwidth and Energy Constrained Wireless Sensor Networks
+year:2014
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:allowed|criteria|illustrative|transmitted|problem|estimate|transmitting|easily|filtering|dependent|probabilities|energy|algorithm|probability|distributed|multisensor|consumptions|squared|partial|sense|components|dfkf|local|example|systems|vector|situation|kalman|means|linear|bandwidth|constrained|sends|filter|component|information|choice|compensate|minimum|novel|concerned|network|untransmitted|notice|implemented|method|communication|nmfss|given|need|finite|particular|bounded|fusion|estimation|addressed|proposed|know|sensor|demonstrate|fc|networked|errors|update|recursively|paper|since|class|derived|designed|selecting|effectiveness|satisfy|center|performance|variance|mean|finitehorizon|intermittently|wireless|compensation|reducing|strategy|convergent
+venue name:IEEE Transactions on Signal Processing
+venue id:168680287
+venue type:J
+document type:Journal
+study fields:Key distribution in wireless sensor networks|Minimum-variance unbiased estimator|Soft sensor|Control theory|Sensor fusion|Kalman filter|Bandwidth (signal processing)|Fusion center|Wireless sensor network|Mathematics
+references:1969091711|1971887588|1984277564|2023854323|2038169746|2048562877|2053736348|2061834282|2062749753|2064183516|2074946112|2079836048|2085352907|2089105767|2097032753|2097773828|2100420544|2104192126|2110079746|2110936068|2112229211|2117561657|2119193463|2142315243|2149976859|2151836956|2152480638|2154546286|2154828437|2165489013
+
+
+id:2049078959
+title:Multi-Sensor-Based Estimation in Wireless Sensor Network with Stochastic Competitive Transmission
+year:2013
+author information:[
+author name:Haiyu Song
+author organization:ZheJiang University of Technol
+author id:2429046119|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+]
+abstract:concerned|theoretical|results|several|network|illustrative|periodically|problem|transmission|estimate|algorithm|using|estimation|fusion|proposed|sensor|competitive|demonstrate|provided|stagger|recursive|states|example|paper|asynchronous|stochastic|sampled|derived|effectiveness|kalman|abstract|center|transmissions|target|future|wireless|information|multisensorbased|strategy
+venue name:International Conference on Systems
+venue id:1159975077
+venue type:C
+document type:Conference
+study fields:Asynchronous communication|Transmission (mechanics)|Control theory|Computer science|Electronic engineering|Control engineering|Fusion center|Kalman estimation|Wireless sensor network|Recursion
+references:1984277564|2029774596|2046450805|2052178830|2064183516|2110079746|2115177366|2169329579
+
+
+id:2053736348
+title:Networked multi-sensor fusion estimation with delay
+year:2012
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Haiyu Song
+author organization:ZheJiang University of Technol
+author id:2543667933|
+]
+abstract:optimal|considered|upper|delayed|illustrative|variables|dropouts|problem|filtering|dependent|probabilities|reduce|using|distributed|sense|packet|analysis|system|multisensor|delays|dropout|binary|bounds|nmfes|obtained|phenomenon|occurrence|recursive|resorting|known|without|demonstrated|measurements|compared|innovation|kalman|linear|observation|caused|computation|filter|help|example|randomly|minimum|concerned|conditional|white|method|results|described|fusion|estimation|sequence|proposed|failure|delays|sensor|networked|augmentation|bernoulli|random|failures|paper|design|missing|dimension|designed|effectiveness|costs|original|rates|multiple|performance|variance
+venue name:International Conference on Control, Automation, Robotics and Vision
+venue id:1168170433
+venue type:C
+document type:Conference
+study fields:Minimum-variance unbiased estimator|Extended Kalman filter|Random variable|Conditional probability|Control theory|Computer science|Network packet|Control engineering|Kalman filter|Sensor fusion|Probability distribution
+references:1975700532|1978656865|1984277564|1997214638|2029774596|2046450805|2085352907|2096596047|2098643386|2110240006|2121813417|2127857386|2139295716|2142185403|2151836956|2165168261
+
+
+id:2074946112
+title:Robust Information Fusion Estimator for Multiple Delay-Tolerant Sensors With Different Failure Rates
+year:2013
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Andong Liu
+author organization:ZheJiang University of Technol
+author id:2111804714|
+]
+abstract:optimal|considered|delayed|illustrative|subsystems|introduced|problem|model|state|filtering|probabilities|dependent|algorithm|reduce|models|using|parameters|robustness|distributed|sense|analysis|system|examples|multisensor|delays|binary|crosscovariance|matrix|two|recursive|resorting|estimator|varying|known|systems|without|stochastic|based|recursively|measurements|compared|innovation|kalman|variables|robust|failures|linear|observation|computation|filter|information|randomly|measurements|minimum|subsystem|space|method|weighted|given|fusion|estimation|proposed|failure|sensor|show|augmentation|error|states|random|failures|parameter|included|derived|dimension|designed|effectiveness|costs|original|multiple|rates|performance|variance|perturbations
+venue name:IEEE Transactions on Circuits and Systems I-regular Papers
+venue id:116977442
+venue type:J
+document type:Journal
+study fields:Extended Kalman filter|Control theory|Covariance intersection|Sensor fusion|Robustness (computer science)|Kalman filter|Recursive filter|Invariant extended Kalman filter|Ensemble Kalman filter|Mathematics
+references:1978656865|1984277564|1989351213|1991963113|2000646173|2003279586|2029774596|2035501838|2038420319|2039475488|2046450805|2047474857|2052178830|2064183516|2073744038|2085352907|2097625638|2098865243|2102158101|2110240006|2113580668|2115177366|2115545972|2120331976|2127857386|2142185403|2142315243|2146237093|2151836956|2153344006|2160643434|2160694105|2161949562|2164597631|2166736144|2168515859
+
+
+id:2078821596
+title:Energy-Efficient Weighted Observation Fusion Kalman Filtering with Randomly Delayed Measurements
+year:2014
+author information:[
+author name:Jian Chen
+author organization:Digital Information Technology Department, Zhejiang Technical Institute of Economics, Hangzhou , Peoples Republic of China 310018
+author id:2646206614|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Zhen Hong
+author organization:Zhejiang SCI-TECH University
+author id:2692126825|
+]
+abstract:constraints|equivalent|concerned|optimal|centralized|problem|rank|weighted|filtering|energy|reduce|simulations|using|filter|wofkf|way|methods|fusion|proposed|multisensor|delays|sensor|full|show|decomposition|augmentation|measurement|random|proved|resorting|paper|systems|without|class|effectiveness|kalman|derived|observation|center|equation|sends|filter|performance|intermittently|information
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Rank (linear algebra)|Extended Kalman filter|Fast Kalman filter|Efficient energy use|Control theory|Fusion|Kalman filter|Sensor fusion|Fusion center|Mathematics
+references:1983794252|1987805571|2030600611|2038169746|2053736348|2054312097|2064183516|2074946112|2078566052|2091739459|2093228399|2097032753|2097625638|2097773828|2102158101|2102646308|2110079746|2139295716|2142185403|2142315243|2151836956|2160694105|2164597631|2165489013|2252822868
+
+
+id:2091739459
+title:Distributed Fusion Estimation With Missing Measurement
+year:2014
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:concerned|optimal|results|illustrative|problem|transmission|presented|sufficient|model|dropouts|filtering|weighted|nmfss|based|given|distributed|packet|bounded|fusion|proposed|multisensor|delays|sensor|demonstrate|conditions|networked|note|dfkf|criterion|technical|example|random|matrices|systems|missing|stochastic|class|designed|derived|mse|effectiveness|kalman|steadystate|also|filter|describe|convergent|novel
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Extended Kalman filter|Random variable|Control theory|Matrix (mathematics)|Network packet|Stochastic process|Kalman filter|Stochastic modelling|Mathematics|Bounded function
+references:1984277564|1987805571|2029774596|2046450805|2053736348|2064183516|2074946112|2078786957|2085352907|2115177366|2139295716|2142185403|2142315243|2151836956
+
+
+id:2112440948
+title:Distributed fusion Kalman filtering with communication constraints
+year:2013
+author information:[
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Haiyu Song
+author organization:ZheJiang University of Technol
+author id:2543667933|
+]
+abstract:considered|allowed|meansquare|transmitted|introduced|problem|transmitting|model|filtering|dependent|distributed|sense|multisensor|binary|partial|judgement|components|dfkf|criterion|local|systems|vector|bandwidth|mse|kalman|variables|linear|bandwidth|step|computation|filter|component|constraint|minimum|novel|concerned|subject|process|assumptions|shown|unbiasedestimators|restructured|communication|signal|group|finite|particular|fusion|estimation|signals|proposed|suboptimal|fc|networked|recursively|error|restructure|minimal|paper|class|designed|kalman|determine|center|multiple|sensors|variance|compensation|time|strategy|simply
+venue name:American Control Conference
+venue id:2238538125
+venue type:C
+document type:Conference
+study fields:Minimum-variance unbiased estimator|Control theory|Computer science|Control engineering|Kalman filter|Sensor fusion|Fusion center|Estimation theory|Recursion|Binary number|Computation
+references:1971887588|2023854323|2053736348|2062749753|2064183516|2076618762|2079836048|2085352907|2089105767|2104192126|2116577425|2117561657|2119193463|2142315243|2154546286|2154828437
+
+
+id:2334643484
+title:Distributed Covariance Intersection Fusion Estimation for Cyber-Physical Systems With Communication Constraints
+year:2016
+author information:[
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:dfe|transmitted|remote|problem|estimate|model|state|dropouts|using|distributed|raw|impacts|packet|node|illustrated|delays|preprocessed|independent|covariance|local|proved|varying|estimator|systems|based|measurements|initial|procedure|conditions|cps|example|constraint|cyberphysical|operation|certain|addresses|subject|intersection|communication|directly|stability|estimates|obtain|new|sink|finite|fusion|estimation|square|condition|addressed|fc|note|covering|technical|values|recursively|error|network|numerical|design|since|class|designed|derived|center|control|performance|cpss|mean
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Telecommunications network|Computer science|Control theory|Network packet|Covariance intersection|Mean squared error|Kalman filter|Bandwidth (signal processing)|Fusion center|Estimator
+references:1646967508|1717043929|1843572907|1920841386|1967900990|1977851207|1984277564|1984609538|1987571991|1993780626|2005850412|2011457345|2030600611|2039250476|2046450805|2050884389|2052334067|2064183516|2085512144|2091739459|2151836956|2295270784
+
+
+id:2344997249
+title:Hierarchical Fusion Estimation for Clustered Asynchronous Sensor Networks
+year:2016
+author information:[
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Michael Z. Q. Chen
+author organization:University of Hong Kong
+author id:2217254662|
+]
+abstract:equivalent|constraints|smaller|allowed|precision|centralized|shown|realtime|estimator|presented|hierarchical|intersection|satisfactory|case|computational|energy|asynchronously|method|work|sampling|lower|batch|losses|bci|applicable|packet|smf|two|fusion|estimation|estimation|proposed|provide|delays|aperiodic|sensor|much|sequential|complexity|estimators|covariance|networks|augmentation|measurement|local|burden|general|estimator|asynchronous|design|close|compared|types|ci|clustered|rates|sensors|requiring|sci|setup|suitable|applications
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Control theory|Computer science|Covariance intersection|Artificial intelligence|Aperiodic graph|Asynchronous communication|Network packet|Algorithm|Sampling (statistics)|Wireless sensor network|Machine learning|Computational complexity theory|Estimator
+references:1969708660|1984609538|2011573697|2018142823|2023308898|2064183516|2092985346|2097032753|2102983250|2121813417|2142725869|2164522996
+
+
+id:2384886036
+title:Distributed Robust Fusion Estimation With Application to State Monitoring Systems
+year:2017
+author information:[
+author name:Bo Chen
+author organization:City University of Hong Kong
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:standard|optimal|software|packages|lemma|solved|tracking|problem|white|optimization|presented|sufficient|easily|rank|state|uncertainties|obtain|using|distributed|real|analysis|monitoring|bounded|weighting|system|fusion|estimation|condition|system|proposed|converted|note|set|methods|reactor|deterministic|guarantee|covariance|matrix|local|random|admissible|paper|estimator|covariances|parameter|noise|convex|studies|stochastic|demonstrated|stirred|derived|effectiveness|variables|robust|necessary|advantage|target|criterion|performance|gaussian|discretetime
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Computer science|Control theory|Optimal estimation|Robustness (computer science)|Robust statistics|Sensor fusion|White noise|Convex optimization|Covariance|Estimator
+references:1646967508|1843572907|1978217662|1989351213|1993780626|1997214638|2000646173|2030600611|2035258221|2039250476|2053263841|2061834282|2064183516|2074946112|2080042467|2133637167|2137125972|2141751707|2142315243|2295270784|2308148917|2507465479
+
+
+id:2526584692
+title:Multisensor-Based Periodic Estimation in Sensor Networks With Transmission Constraint and Periodic Mixed Storage
+year:2017
+author information:[
+author name:Haiyu Song
+author organization:Zhejiang University of Finance  Econ
+author id:2543667933|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+]
+abstract:communicate|manner|results|simulation|holdinput|periodically|heterogeneous|problem|transmission|updating|far|presented|describing|consider|state|communication|strict|buffers|mechanisms|filtering|generate|algorithm|estimates|inevitable|using|two|estimation|fusion|examples|proposed|sensor|competitive|zeroinput|fc|object|shared|deal|away|periodic|show|deployed|mixed|storage|networks|recursive|network|asynchronous|singlechannelbased|stochastic|derived|effectiveness|combing|kalman|variables|linear|center|model|channel|sensors|stored|continuoustime|constraint|information|describe|strategy|novel
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Asynchronous communication|Mathematical optimization|Control theory|Communication channel|Stochastic process|Kalman filter|Stochastic modelling|Fusion center|Periodic graph (geometry)|Wireless sensor network|Mathematics
+references:1988697047|1992901306|1997214638|2021723764|2023308898|2023854323|2025911940|2029274891|2029774596|2036019278|2042297527|2046824382|2051235988|2052113935|2052178830|2053838805|2058180136|2062074596|2062669470|2064183516|2089677352|2093958427|2102646308|2113118558|2124472104|2125767543|2132734429|2133893543|2135135908|2140496621|2141751707|2142591293|2143667229|2335692478|2338393438|2465921773
+
+
+id:2608020405
+title:Networked Fusion Estimation With Bounded Noises
+year:2017
+author information:[
+author name:Bo Chen
+author organization:City University of Hong Kong
+author id:2569495969|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:optimal|software|transmitted|constraints|tracking|without|problem|optimization|terms|estimate|state|period|probability|sampling|distributed|system|selection|timevarying|study|criterion|matrix|local|gain|target|estimator|systems|established|linear|bandwidth|model|generally|unified|standard|packages|solved|compensating|method|communication|quantization|described|new|given|resource|modeled|bounded|weighting|fusion|estimation|square|proposed|effect|networked|problems|solving|show|error|design|convex|bounded|designed|class|derived|effectiveness|noises|center|mean
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Mathematical optimization|Control theory|Upper and lower bounds|Mean squared error|Convex function|Fusion center|Quantization (signal processing)|Convex optimization|Mathematics|Estimator|Bounded function
+references:1646967508|1920841386|1984277564|1987571991|1997214638|2030600611|2035501838|2059330422|2064183516|2085512144|2091739459|2097773828|2142315243|2151836956|2252822868|2295270784
+
+
+id:2615951371
+title:Distributed Dimensionality Reduction Fusion Estimation for Cyber-Physical Systems Under DoS Attacks
+year:2019
+author information:[
+author name:Bo Chen
+author organization:City University of Hong Kong
+author id:2569495969|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:dimensionality|objects|available|dos|illustrative|constraints|problem|optimization|different|stability|though|new|based|given|resource|dkfe|distributed|modeled|methods|attacker|two|fusion|estimation|explicit|square|condition|addressed|proposed|examples|suboptimal|problems|denialofservice|show|error|recursive|effective|paper|estimator|systems|attack|studies|bounded|based|class|designed|derived|established|effectiveness|kalman|bandwidth|attacker|cpss|form|corresponding|mean|compensation|information|reduction|strategy|cyberphysical|attacks|defender
+venue name:Systems, Man and Cybernetics
+venue id:1170695740
+venue type:C
+document type:Conference
+study fields:Mathematical optimization|Dimensionality reduction|Denial-of-service attack|Computer science|Mean squared error|Kalman filter|Cyber-physical system|Artificial intelligence|Optimization problem|Machine learning|Recursion|Estimator
+references:1562080458|1571323288|1651728063|1967900990|1977851207|1979038365|1987571991|1993780626|1998285730|2007630898|2030600611|2039250476|2043973235|2045684773|2062132646|2063688797|2064183516|2112784437|2138319443|2142315243|2146467316|2157078218|2252822868|2269317137|2315448583|2334643484|2337446187|2342716830|2384886036|2465921773|2507465479|2523889590|2546109980|2570816186|2608020405
+
+
+id:2728389370
+title:Secure Fusion Estimation for Bandwidth Constrained Cyber-Physical Systems Under Replay Attacks
+year:2018
+author information:[
+author name:Bo Chen
+author organization:City University of Hong Kong
+author id:2569495969|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:accuracy|illustrative|transmitted|remote|problem|estimate|model|investigated|made|robustness|distributed|methods|monitoring|bandwidthdependent|node|obtained|compression|conditions|sense|algorithms|study|role|achieve|reliability|dkfes|two|local|recursive|example|attackdependent|estimator|desired|systems|perspective|according|performance|kalman|linear|bandwidth|constrained|characterize|several|multisensor|information|cyberphysical|minimum|channels|essential|mife|attacks|mathematical|data|secure|developed|major|attacks|communication|different|new|given|attractive|sink|replay|estimation|fusion|concern|cpss|proposed|state|improve|demonstrate|problems|potentially|importance|classes|security|paper|provides|supervision|class|designed|derived|enhance|effectiveness|plays|center|alternative|performance|variance|compensation|strategy
+venue name:IEEE Transactions on Systems, Man, and Cybernetics
+venue id:76152103
+venue type:J
+document type:Journal
+study fields:Computer science|Communication channel|Kalman filter|Real-time computing|Robustness (computer science)|Bandwidth (signal processing)|Cyber-physical system|Fusion center|Replay attack|Estimator
+references:207267598|1562080458|1717043929|1967900990|1977851207|1987571991|1993780626|2009257627|2009292627|2015903243|2025911940|2030600611|2039250476|2043973235|2050955150|2064284013|2076618762|2112784437|2122559297|2138319443|2142315243|2157078218|2158469273|2166931651|2295270784|2323410298|2608020405
+
+
+id:2744762704
+title:A bank of sequential unscented Kalman Filters for target tracking in range-only WSNs
+year:2017
+author information:[
+author name:Xusheng Yang
+author organization:Zhejiang University of Technology
+author id:2104960098|
+author name:Wen-An Zhang
+author organization:ZheJiang University of Technol
+author id:2640923749|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:concerned|accuracy|observable|used|tracking|employed|bank|generated|presented|implement|sukf|recursion|stability|estimates|method|kind|sense|fusion|estimation|rangeonly|improve|contrast|squared|sensor|obtained|termed|updated|convergence|sequential|networks|error|speed|result|paper|estimator|demonstrated|measurements|bank|means|kalman|orientation|linear|set|unscented|pruned|separated|unscented|transformation|integrate|target|sukfs|simulations|filter|single|better|mean|wireless|instant|minimum
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Extended Kalman filter|Control theory|Filter bank|Minimum mean square error|Kalman filter|Control engineering|Engineering|Wireless sensor network|Recursion|Estimator
+references:2011754354|2016448024|2044125567|2159891802|2344997249|2385652188|2401859733|2472557795
+
+
+id:2751195795
+title:A New Approach to Linear/Nonlinear Distributed Fusion Estimation Problem
+year:2019
+author information:[
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Daniel W.C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:localization|optimal|software|upper|nonlinear|tracking|robot|problem|optimization|terms|using|method|considering|distributed|methods||system|provide|timevarying|obtained|study|statistical|criterion|matrix|local|unknown|estimator|systems|established|linear|problem|advantages|series|novel|standard|packages|solved|find|noises|new|given|taylor|goes|constructive|bounded|weighting|fusion|estimation|square|addressed|proposed|solving|according|show|error|kalmanlike|design|convex|bounded|designed|derived|effectiveness|bound|mobile|target|corresponding|time
+venue name:IEEE Transactions on Automatic Control
+venue id:184954342
+venue type:J
+document type:Journal
+study fields:Nonlinear system|Upper and lower bounds|Artificial intelligence|Taylor series|Mathematical optimization|Algorithm|Sensor fusion|Convex function|Convex optimization|Mathematics|Machine learning|Estimator|Bounded function
+references:1974092307|1997214638|2005850412|2053263841|2059330422|2064183516|2076618762|2085352907|2087988339|2092770992|2101051269|2123487311|2138896396|2142315243|2295270784|2334643484|2336416123|2384886036|2385652188|2575324621|2593819095|2608020405|2744762704
+
+
+id:2790978760
+title:Distributed SINR Fusion Estimation for a Class of Wireless Networks
+year:2018
+author information:[
+author name:Yaohui Wu
+author organization:Ningbo University
+author id:2792175475|
+author name:Youming Li
+author organization:Ningbo University
+author id:2791255508|
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+]
+abstract:standard|optimal|software|upper|packages|solved|problem
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Wireless network|Mathematical optimization|Upper and lower bounds|Control theory|Signal-to-noise ratio|Symmetric matrix|White noise|Convex optimization|Mathematics|Estimator|Bounded function
+references:2035258221|2089126682|2115168887|2120053777|2139832014|2142315243|2145683520|2166745810|2509949981|2523614638|2607432341|2608020405
+
+
+id:2807953172
+title:Distributed Fault-Tolerant Consensus Protocol for Fuzzy Multi-Agent Systems
+year:2019
+author information:[
+author name:Shun Chen
+author organization:Huazhong Agriculture University
+author id:2808303040|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Feng Shi
+author organization:Huazhong Agriculture University
+author id:2808240606|
+]
+abstract:theoretical|results|paper|analyzing|actuator|devotes|investigated|stability|wellknown|method|compared|distributed|conducted|analysis|utilizes|proposed|effect|demonstrate|control|provided|lyapunov|example|adaptive|paper|systems|faulttolerant|fuzzy|effectiveness|problem|multiagent|fault|designing|consensus|advantages|simulation|strategy|methodology|unfold
+venue name:Circuits Systems and Signal Processing
+venue id:20109229
+venue type:J
+document type:Journal
+study fields:Consensus|Mathematical optimization|Consensus control|Control theory|Fuzzy logic|Lyapunov stability|Multi-agent system|Fault tolerance|Mathematics|Actuator
+references:976830867|1842211470|2000512919|2011453710|2020274357|2049119205|2055953081|2070762211|2079589234|2090021621|2094436758|2095046350|2099175737|2101959500|2102646308|2107396783|2107853656|2112801564|2143843955|2147971990|2148741468|2165719629|2165744313|2200614381|2310756702|2534354651|2550108196|2558974349|2574116068|2604117940|2758971652|2762900329
+
+
+id:2894006938
+title:Nonlinear state estimation under bounded noises
+year:2018
+author information:[
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+]
+abstract:optimal|software|upper|illustrative|nonlinear|problem|estimator|optimization|terms|state|using|method|satisfied|methods|require|accurately|analysis|provide|examples|bounds|obtained|conditions|statistical|study|methods|matrix|two|gain|secondorder|estimator|established|linear|may|abstract|advantages|series|information|novel|standard|packages|solved|unknown|employed|find|noises|stability|always|asymptotically|taylor|constructive|bounded|system|estimation|square|addressed|proposed|know|show|error|design|convex|bounded|applications|derived|designed|effectiveness|noises|practical|bound|also|existing
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Nonlinear system|Matrix (mathematics)|Upper and lower bounds|Control theory|Stability conditions|Convex optimization|Mathematics|Bounded function|Taylor series|Estimator
+references:1501672519|2034745144|2054091988|2101051269|2123487311|2124826205|2138890480|2145405826|2151916095|2295270784|2334643484|2401859733|2594638107
+
+
+id:2901013730
+title:Packet-Based State Feedback Control Under DoS Attacks in Cyber-Physical Systems
+year:2019
+author information:[
+author name:Shaoyu Lai
+author organization:Zhejiang University of Technology
+author id:2900495305|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Tongxiang Li
+author organization:Zhejiang University of Technology
+author id:2901008088|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:concerned|reasonable|several|dos|secure|developed|constraints|nested|employed|number|problem|transmission|attacks|method|dependent|stability|energy|based|constructing|method|gird|resist|proposed|assume|conditions|switching|denialofservice|show|packetbased|matrix|smart|example|systems|design|bounded|according|brief|effectiveness|controller|linear|inequalities|control|consecutive|considering|maximum|cyberphysical|novel|attacks
+venue name:IEEE Transactions on Circuits and Systems Ii-express Briefs
+venue id:93916849
+venue type:J
+document type:Journal
+study fields:Denial-of-service attack|Matrix (mathematics)|Controller design|Control theory|Network packet|Stability conditions|Cyber-physical system|Mathematics|Bounded function|Actuator
+references:2039250476|2057843061|2100318360|2103135112|2114456964|2125767543|2150113962|2315448583|2340384825|2397967825|2582126286|2604394353|2615951371|2619461977|2697204375|2728389370|2762155482|2790978760
+
+
+id:2901505152
+title:Distributed Kalman filtering for time-varying discrete sequential systems
+year:2019
+author information:[
+author name:Bo Chen
+author organization:Nanyang Technol. University
+author id:2569495969|
+author name:Guoqiang Hu
+author organization:Nanyang Technol. University
+author id:2123683487|
+author name:Daniel W.C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:optimal|illustrative|subsystems|automation|problem|locally|white|state|different|results|filtering|stability|given|distributed|methods|estimation|square|condition|system|proposed|focused|discrete|timevarying|demonstrate|fields|systems|sequential|error|example|sequentiallyconnected|found|estimator|dsss|bounded|designed|derived|effectiveness|kalman|noises|processes|linear|dynamical|abstract|studied|many|dsss|consisting|variance|series|mean|gaussian|minimum|applications
+venue name:Automatica
+venue id:51360982
+venue type:J
+document type:Journal
+study fields:Minimum-variance unbiased estimator|Control theory|Mean squared error|Kalman filter|Gaussian|Direct-sequence spread spectrum|Dynamical system|Mathematics|Estimator|Bounded function
+references:1974637237|2030917988|2052161176|2055212915|2080042467|2103054970|2104192126|2126119985|2134535165|2342414121|2343581650|2608020405
+
+
+id:2913078833
+title:Event/Self-Triggered Control for Leader-Following Consensus Over Unreliable Network With DoS Attacks
+year:2019
+author information:[
+author name:Wenying Xu
+author organization:Southeast University
+author id:2156576861|
+author name:Daniel W. C. Ho
+author organization:City University of Hong Kong
+author id:2165300193|
+author name:Jie Zhong
+author organization:City University of Hong Kong
+author id:2244419171|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+]
+abstract:subject|synchronous|dos|investigates|protocol|transmission|communication|presence|protocols|leaderfollowing|possibly|reduce|issue|schemes|proposed|determined|unreliable|selftriggered|updated|environment|next|denialofservice|scheme|achieve|provided|update|network|instant|example|malicious|numerical|computing|paper|eventtriggered|asynchronous|induced|verify|event|effectiveness|cost|constructed|strategies|effectively|control|triggering|consensus|characterize|schedule|information|information|first|attacks
+venue name:IEEE Transactions on Neural Networks
+venue id:42080949
+venue type:J
+document type:Journal
+study fields:Asynchronous communication|Information processing|Denial-of-service attack|Computer science|Network communication|Computer network|Multi-agent system|Information transmission|Probability distribution|Artificial intelligence|Machine learning
+references:1967557378|1977813047|1985431331|1994186360|2000806524|2011714344|2039533720|2054856671|2055953081|2056470748|2066544832|2114482313|2144114773|2146467316|2160643434|2214195367|2231268124|2282604327|2296271400|2310756702|2315448583|2334643484|2337446187|2340384825|2343000015|2412429737|2469144727|2509548973|2514514867|2521320587|2522440390|2524687611|2539372614|2584604366|2623264272|2697204375|2744711035|2796694120
+
+
+id:2988493638
+title:Event-triggered Secure Estimation for Large-scale Interconnected Systems Based on Intermediate Estimator
+year:2019
+author information:[
+author name:Jing Zhou
+author organization:Zhejiang University
+author id:2983914305|
+author name:Bo Chen
+author organization:Zhejiang University
+author id:2569495969|
+author name:Li Yu
+author organization:Zhejiang University
+author id:2121964278|
+]
+abstract:concerned|masterslave|threshold|decide|used|secure|transmitted|newly|output|actuator|problem|whether|uniformly|context|state|boundedness|guaranteed|methods|received|decentralized|node|estimation|proposed|intermediate|timevarying|demonstrate|largescale|systems|estimators|vehicles|error|local|paper|estimator|eventtriggered|systems|attack|mechanism|based|designed|measurements|effectiveness|constructed|multiple|ultimately|cyberphysical
+venue name:International Conference on Control and Automation
+venue id:1168290671
+venue type:C
+document type:Conference
+study fields:Secure state|Control theory|Control engineering|Event triggered|Engineering|Actuator|Estimator
+references:2052113351|2062132646|2221032419|2284373869|2395221178|2509705371|2552129899|2595545394|2615951371|2624952351|2728389370|2753275249|2766003054|2901013730|2963639842
+
+
+id:13035363
+title:Non-negative Sparse Representation Based on Block NMF for Face Recognition
+year:2013
+author information:[
+author name:Meng Chen
+author organization:ShenZhen University
+author id:2485090852|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+]
+abstract:tested|serve|developed|approach|via|features|feret|method|block|singlefeature|bnmffeature|directly|problems|results|attempts|algorithm|based|images|successfully|method|experimental|query|proposes|basis|nsr|fusion|square|proposed|sparse|utilize|discriminant|learnt|greatly|algorithms|solving|applied|bnmfbasisimage|least|orl|show|learning|matrix|representation|two|nonnegative|paper|compatibility|feature|power|based|facial|enhance|recognition|namely|also|combining|factorization|outperforms|face|nsrfeature|suitable|bnmf|databases
+venue name:Chinese conference on Biometric Recognition
+venue id:2754601805
+venue type:C
+document type:Conference
+study fields:Least squares|Facial recognition system|Pattern recognition|Discriminant|FERET|Computer science|Sparse approximation|Matrix decomposition|Non-negative matrix factorization|Artificial intelligence|Sparse learning
+references:2073940236|2129812935|2135029798|2135161976
+
+
+id:71775451
+title:A Novel Cross Iterative Selection Method for Face Recognition
+year:2014
+author information:[
+author name:Xiuli Dai
+author organization:ShenZhen University
+author id:2108535587|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:optimal|approach|balance|builds|algorithm|databases|methods|two|selection|interval|algorithm|obtained|criterion|automatically|tradeoff|global|distribution|local|feature|feature|fall|power|nonlinearly|based|compared|efficient|combining|data|face|information|novel|incorporates|recognition|used|features|theoretically|feret|results|udp|experimental|matrix|weight|iterative|cis|proposed|discriminant|geometric|parameters|orl|show|update|training|paper|parameter|design|projection|derived|enhance|determine|cross|also|existing|superior|performance|formulae|apd
+venue name:Chinese conference on Biometric Recognition
+venue id:2754601805
+venue type:C
+document type:Conference
+study fields:Training set|Facial recognition system|Data mining|Pattern recognition|Discriminant|FERET|Projection (linear algebra)|Feature extraction|Artificial intelligence|Geometric distribution|Mathematics
+references:1985809919|2047058143|2079130430|2096786554|2121647436|2143103810|2154872931|2157168022
+
+
+id:295521187
+title:Supervised Kernel Construction for Unsupervised PCA on Face Recognition
+year:2014
+author information:[
+author name:Yang Zhao
+author organization:Shenzhen University
+author id:2583134627|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:samples|construction|experimental|datadefined|nonlinear|entire|space|evaluations|shows|generated|incorporated|function|rbf|theoretically|obtained|feret|results|selected|kpca|given|mapping|successfully|method|compared|created|technology|analysis|inner|two|establish|highperformance|unsupervised|demonstrate|partial|interpolatory|applied|pattern|orl|function|training|matrix|extended|principal|paper|firstly|based|class|welldefined|performance|means|product|aims|expression|kernel|recognition|namely|label|supervised|component|face|superior|framework|analytic|novel|mercer
+venue name:Chinese Conference on Pattern Recognition
+venue id:2754767283
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Facial recognition system|Radial basis function kernel|Pattern recognition|Kernel embedding of distributions|Kernel principal component analysis|Polynomial kernel|Artificial intelligence|Kernel method|Machine learning|Mathematics|Kernel (statistics)
+references:1560724230|2001003881|2045621754|2072626792|2079315848|2114252311|2121647436|2140095548|2142187115
+
+
+id:2005595281
+title:Kernel Subspace LDA with Self-Constructed Mercer Kernel for Face Recognition
+year:2008
+author information:[
+author name:Xuehui Xie
+author organization:Shenzhen University
+author id:2641878448|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2706315930|
+author name:Hui Liu
+author organization:ShenZhen University
+author id:2618439920|
+]
+abstract:whole|nonlinear|approach|smkernel|rbf|block|based|mapping|using|ad|thus|kslda|analysis|two|samples|ar|hoc|evaluate|dot|matrix|extended|feature|based|product|kernel|namely|positive|functionthe|face|mercer|strategy|theoretical|serve|eigenvalue|space|shows|function|feret|results|selected|kernel|given|semidefinite|demonstrates|indepth|kind|experimental|proposes|matrix|smkernel|entries|submatrices|interpolatory|applied|lda|show|decomposition|training|paper|designed|selfconstructed|subspace|constructed|previous|recognition|really|outperforms|equal|performance|diagonal
+venue name:Computational Intelligence and Security
+venue id:1172683839
+venue type:C
+document type:Conference
+study fields:Radial basis function kernel|Computer science|Kernel principal component analysis|Polynomial kernel|Artificial intelligence|String kernel|Mathematical optimization|Pattern recognition|Kernel embedding of distributions|Kernel method|Variable kernel density estimation|Machine learning|Kernel (statistics)
+references:1510073064|1989702938|2033419168|2041657594|2097544162|2114252311|2119821739|2121647436|2140095548|2143304877|2164071167
+
+
+id:2083975357
+title:Image Segmentation and Selective Smoothing Based on Variational Framework
+year:2009
+author information:[
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2671628993|
+author name:Pong C. Yuen
+author organization:Hong Kong Baptist University
+author id:2154324748|
+author name:Jian-Huang Lai
+author organization:University
+author id:2168989598|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+]
+abstract:results|three|introduced|problem|obtained|model|smoothing|sacm|order|energy|algorithm|models|edgebased|method|compared|considering|probability|active|following|integration|algorithm|algorithms|statistical|internal|variational|regions|distribution|denoising|consuming|secondorder|get|segmentation|term|takes|computationally|robust|density|efficient|noisy|biomedical|contour|fast|advantages|framework|stage|unified|information|regionbased|fourthorder|contributions|addresses|curve|process|inside|developed|employed|edge|edges|different|results|new|image|subregions|segmentation|proposes|imaging|functions|effects|proposed|outside|solve|produces|preserving|parameters|problems|framework|reinitialization|penalized|symmetric|pde|paper|construction|considers|selective|also|evolution|blocky|better|existing|mean|avoid|time
+venue name:Signal Processing Systems
+venue id:1190659448
+venue type:C
+document type:Conference
+study fields:Active contour model|Scale-space segmentation|Median filter|Segmentation|Computer science|Segmentation-based object categorization|Image segmentation|Smoothing|Probability distribution|Artificial intelligence|Machine learning
+references:1983306738|2079690285|2086465792|2098152234|2104095591|2112895684|2116040950|2122184585|2122287830|2122661899|2129759040|2130604180|2134820502|2138524633|2142722911|2149929544|2150134853|2164822588|2168081935|2294303980
+
+
+id:2098692452
+title:Image Restoration Based on Fourth-Order PDE Model
+year:2008
+author information:[
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2634567536|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2687404204|
+author name:Li-Wei Zhang
+author organization:Shenzhen Institute of Adv. Technol., Chinese Acad. of Sci., Shenzhen
+author id:2662425651|
+]
+abstract:reliable|paper|median|simple|experimental|developed|alleviate|edge|symmetrical|visual|model|noises|different|filtering|results|utilized|order|new|image|models|give|images|psnr|fourneighbor|methods|preserve|effects|traditional|proposed|especially|difference|speckle|compare|numerical|scheme|last|values|show|best|restoring|remove|pde|enhancement|preservation|secondorder|based|make|efficient|also|blocky|processed|performance|qualities|gaussian|avoid|fourthorder
+venue name:International Conference on Natural Computation
+venue id:2622723275
+venue type:C
+document type:Conference
+study fields:Noise reduction|Mathematical optimization|Median filter|Noise measurement|Speckle pattern|Computer science|Gaussian|Artificial intelligence|Image restoration|Gaussian noise|Machine learning|Edge enhancement
+references:2112895684|2122287830|2122661899|2130604180|2150134853|2152023291
+
+
+id:2293208228
+title:Non-negative Compatible Kernel Construction for Face Recognition
+year:2015
+author information:[
+author name:Yang Zhao
+author organization:Shenzhen University
+author id:2583134627|
+author name:Wensheng Chen
+author organization:Shenzhen University
+author id:2153432313|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:data|called|nonnegativity|mapping|construct|evaluations|compatible|matrix|problem|generated|function|rbf|kernel|results|selected|knmf|obtain|new|databases|based|nonlinear|using|ensure|experimental|principle|techniques|analysis|nonnegative|knmf|mapped|tackle|methods|orl|function|proven|symmetric|nnmapping|pain|feature|paper|indicate|component|algorithms|outperform|apply|kernel|nmf|recognition|nonnegative|compatible|factorization|existing|incompatible|face|interpolation|nckernel|expression|polynomial|cannot|space|methodology|presents|strategy|mercer
+venue name:Chinese conference on Biometric Recognition
+venue id:2754601805
+venue type:C
+document type:Conference
+study fields:Kernel (linear algebra)|Facial recognition system|Symmetric function|Feature vector|Computer science|Interpolation|Algorithm|Polynomial kernel|Non-negative matrix factorization|Kernel (statistics)
+references:1510073064|1560724230|1676079609|1989034480|2024022568|2103697417|2110096996|2135029798|2140095548|2146739705|2149292383
+
+
+id:2337392139
+title:A Novel Framework for Learning Geometry-Aware Kernels
+year:2016
+author information:[
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Chen Xu
+author organization:Shenzhen University
+author id:2667609943|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:straightforward|called|dimensionality|empirical|nonlinear|required|directly|manifold|usually|evaluated|developed|tasks|propose|critically|flexible|utilize|assumed|algorithms|extension|computed|utilizing|methods|extended|matrices|world|viewed|close|enables|performance|kernel|learning|lowdimensional|data|many|context|framework|machine|information|exploit|choice|space|understood|novel|geometryaware|data|available|lie|used|good|outofsample|compute|function|theoretically|results|kernel|us|kernels|given|surge|widely|often|real|develop|important|proposed|refers|improve|geometric|framework|sources|instances|additional|show|detect|learning|general|effective|relies|interest|kernels|matrices|algorithms|highdimensional|learned|multiple|structure|existing|performance|corresponding|restricted|information|clustering|family|significantly|integrates
+venue name:IEEE Transactions on Neural Networks
+venue id:42080949
+venue type:J
+document type:Journal
+study fields:Graph kernel|Radial basis function kernel|Kernel embedding of distributions|Computer science|Geometric modeling kernel|Tree kernel|Artificial intelligence|Kernel method|String kernel|Variable kernel density estimation|Machine learning
+references:1495400410|1511160855|1548207260|1552347772|1774304772|1938690017|1966347620|1984707692|2017588182|2018967050|2053913299|2084809122|2087258967|2097308346|2097939965|2097973429|2104290444|2106668826|2117553576|2118670840|2120481923|2133026717|2136040699|2138477898|2148029428|2153934661|2158602558|2166151737|2285373897|2294984095
+
+
+id:2344026338
+title:Out-of-Sample Extensions for Non-Parametric Kernel Methods
+year:2017
+author information:[
+author name:Binbin Pan
+author organization:College of Mathematics and StatisticsShenzhen University
+author id:2537613311|
+author name:Wen-Sheng Chen
+author organization:College of Mathematics and StatisticsShenzhen University
+author id:2153432313|
+author name:Bo Chen
+author organization:College of Mathematics and StatisticsShenzhen University
+author id:2809784469|
+author name:Chen Xu
+author organization:Shenzhen University
+author id:2668850927|
+author name:Jianhuang Lai
+author organization:Sun Yat-sen University
+author id:2168989598|
+]
+abstract:straightforward|inductive|choosing|stateoftheart|approach|number|problem|defined|devoted|using|thus|method|methods|better|extend|flexible|utilize|cases|insample|extension|role|scheme|superiority|methods|matrix|experiments|without|indicate|key|may|problem|kernel|learning|many|characterize|face|cannot|information|comparable|data|recognition|developing|space|points|outofsample|function|results|hyper|offers|kernels|given|empirical|applicable|important|beforehand|proposed|solve|prediction|demonstrate|hilbert|potentially|applied|parametric|show|function|learning|reproducing|similarity|transductive|kernels|studies|make|plays|nonparametric|target|performance|form|corresponding|assuming|restricted|regression|suitable|referred
+venue name:IEEE Transactions on Neural Networks
+venue id:42080949
+venue type:J
+document type:Journal
+study fields:Pattern recognition|Radial basis function kernel|Kernel embedding of distributions|Computer science|Tree kernel|Kernel principal component analysis|Polynomial kernel|Artificial intelligence|String kernel|Variable kernel density estimation|Machine learning|Kernel (statistics)
+references:366764764|1487115931|1511160855|1551209770|1560724230|1565746575|1944448017|1971421855|1981025032|1984707692|2006793117|2017588182|2018967050|2019263612|2020439936|2033419168|2073869094|2083002797|2084809122|2087258967|2097939965|2109743529|2112019442|2112545207|2117154319|2118670840|2127309999|2137055149|2137557016|2140069289|2142387771|2145295623|2148029428|2153934661|2158602558|2163054398|2163808566|2166151737|2167608136|2170356051|2171188027|2285373897
+
+
+id:2394548493
+title:Supervised kernel nonnegative matrix factorization for face recognition
+year:2016
+author information:[
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Yang Zhao
+author organization:Shenzhen University
+author id:2583134627|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:dimensionality|experimental|stateoftheart|nonlinear|rkhs|approach|objective|would|promising|algorithm|limitations|images|mapping|dealing|large|method|compared|distributed|methods|degraded|classification|analysis|labels|input|unsupervised|nonnegative|force|rules|components|betweenclass|overcome|guarantee|matrix|local|feature|known|variations|scatter|power|linear|decomposed|nmf|could|kernel|data|factorization|face|complicated|relations|novel|small|nmf|data|use|nonnegativity|available|space|shows|extraction|function|theoretically|method|results|discover|proposes|proposed|improve|discriminant|withinclass|demonstrate|hilbert|potentially|applied|update|nonincreasing|paper|reproducing|make|facial|enhance|expression|illumination|aforementioned|recognition|supervised|superior|performance|reduction
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Facial recognition system|Dimensionality reduction|Pattern recognition|Feature extraction|Artificial intelligence|Non-negative matrix factorization|Linear discriminant analysis|Kernel method|Machine learning|Reproducing kernel Hilbert space|Mathematics
+references:1510073064|1555351116|1676079609|1761337995|1968288349|1968869676|1985809919|2002519017|2024022568|2045080125|2092733656|2100781145|2103697417|2108119513|2108919995|2110096996|2121647436|2123873803|2130569361|2135029798|2140095548|2144719328|2149292383|2149497493|2151999193|2168103112
+
+
+id:2397218121
+title:An Efficient Non-negative Matrix Factorization with Its Application to Face Recognition
+year:2015
+author information:[
+author name:Yugao Li
+author organization:ShenZhen University
+author id:2417712417|
+author name:Wensheng Chen
+author organization:Shenzhen University
+author id:2153432313|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Yang Zhao
+author organization:Shenzhen University
+author id:2583134627|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+]
+abstract:constraints|nonnegativity|recognition|steplength|rules|experimental|nonnegative|high|matrix|method|feret|results|utilized|attempts|algorithm|obtain|successfully|method|compared|develop|traditional|proposed|improve|determined|demonstrate|evaluate|larger|solving|convergence|applied|according|orl|update|choose|paper|rate|based|performance|established|effectiveness|requirements|efficient|nmf|appropriately|gradient|recognition|rates|factorization|descent|face|superior|fast|approach|novel
+venue name:Chinese conference on Biometric Recognition
+venue id:2754601805
+venue type:C
+document type:Conference
+study fields:Convergence (routing)|Facial recognition system|Gradient descent|Pattern recognition|FERET|Computer science|Matrix decomposition|Artificial intelligence|Rate of convergence|Non-negative matrix factorization
+references:2023781725|2114760097|2121647436|2135029798|2143103810|2144359569|2154872931|2241791199
+
+
+id:2400830811
+title:Sparse-View X-ray Computed Tomography Reconstruction via Mumford-Shah Total Variation Regularization
+year:2015
+author information:[
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2917224888|
+author name:Chen Zhang
+author organization:ShenZhen University
+author id:2518484065|
+author name:Zhao-Ying Bian
+author organization:Southern Medical University
+author id:2168320793|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Jian-Hua Ma
+author organization:Southern Medical University
+author id:2608820910|
+author name:Qing-Hua Zou
+author organization:ShenZhen University
+author id:2749403223|
+author name:Xiao-Hui Zhou
+author organization:ShenZhen University
+author id:2516161635|
+]
+abstract:reconstruction|accuracy|gains|resolution|variation|via|loss|qualitative|terms|attain|algorithm|based|artifacts|experiments|algorithm|evaluate|integrating|role|scheme|overcome|piecewise|executed|notable|computer|tomography|noise|based|discussed|ct|information|novel|tv|constant|regularization|mstv|analyses|edge|presented|drawback|weighted|results|image|segmentation|experimental|widely|proposes|often|important|phantom|proposed|minimization|leads|sparseview|pwlsmstv|mumfordshah|show|penalized|total|paper|plays|xray|introduce|leastsquares|performance|quantitative|reducing|properties
+venue name:International Conference on Intelligent Computing
+venue id:1134271186
+venue type:C
+document type:Conference
+study fields:Pattern recognition|Computer science|Imaging phantom|Image noise|Tomography|Image segmentation|Total variation denoising|Regularization (mathematics)|Artificial intelligence|Piecewise|Regularization perspectives on support vector machines
+references:1993822606|2019816115|2073983116|2098092211|2143163922|2163111080
+
+
+id:2490781471
+title:Efficient learning of supervised kernels with a graph-based loss function
+year:2016
+author information:[
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Wen-Sheng Chen
+author organization:ShenZhen University
+author id:2153432313|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+author name:Chen Xu
+author organization:Shenzhen University
+author id:2668850927|
+]
+abstract:theoretical|use|regularization|empirical|accuracy|used|stateoftheart|loss|shows|generated|terms|function|generate|results|addition|computational|new|similar|large|thus|method|cost|methods|analysis|classification|propose|graph|proposed|analyze|alternatives|demonstrate|alignment|problems|alignment|study|superiority|methods|learning|matrix|paper|nonlinearly|kernels|relationship|derived|close|make|amount|side|linear|efficient|learned|kernel|performed|laplacian|special|supervised|associated|fused|information|information|complete|certain|presents|strategy
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Graph kernel|Semi-supervised learning|Pattern recognition|Radial basis function kernel|Kernel embedding of distributions|Empirical risk minimization|Tree kernel|Artificial intelligence|String kernel|Variable kernel density estimation|Machine learning|Mathematics
+references:235305742|577101549|753105317|1155494995|1565746575|1774304772|1938690017|1966347620|1984707692|2018967050|2023405479|2039025536|2048758983|2057918986|2071590642|2087258967|2097308346|2097939965|2104290444|2112019442|2118670840|2123146423|2140095548|2140389641|2140554171|2142387771|2145295623|2153635508|2158602558|2163054398|2165874743|2285373897|2611147814|2907452271
+
+
+id:2789905194
+title:A sparse representation and dictionary learning based algorithm for image restoration in the presence of Rician noise
+year:2018
+author information:[
+author name:Wensheng Chen
+author organization:Shenzhen University
+author id:2153432313|
+author name:Jie You
+author organization:Shenzhen University
+author id:2792969526|
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2793514547|
+author name:Binbin Pan
+author organization:ShenZhen University
+author id:2537613311|
+author name:Lihong Li
+author organization:City University of New York
+author id:2789784252|
+author name:Marc Pomeroy
+author organization:State University of New York
+author id:2790035117|
+author name:Zhengrong Liang
+author organization:State University of New York
+author id:2965404236|
+]
+abstract:interpreting|depend|called|similarity|rician|measures|terms|imaging|model|presence|order|algorithm|based|devoted|using|images|compared|structural|resulting|quality|singular|dictionary|interpretation|algorithm|split|tvbased|appropriate|algorithms|images|mri|achieve|experiments|signal|deteriorates|noise|causes|noise|particularly|abstract|gradient|learning|produce|model|great|series|associated|information|variation|noise|use|decomposition|index|used|mainly|employed|denoising|shown|presented|implement|different|kernel|image|new|development|widely|develop|bregman|important|clinical|efforts|sparse|value|errors|newlyestablished|theorem|iteration|representation|magnetic|producing|paper|peak|designed|recently|also|superior|corresponding|various|quantitative|total|removal|resonance|errors|avoid|strategy|noiseremoval|applications|presents
+venue name:Neurocomputing
+venue id:45693802
+venue type:J
+document type:Journal
+study fields:Kernel (linear algebra)|Peak signal-to-noise ratio|Bregman iteration|Dictionary learning|Rician noise|Pattern recognition|Sparse approximation|Image quality|Algorithm|Artificial intelligence|Image restoration|Mathematics
+references:1593077517|1976709621|1979760628|2029684123|2049819383|2071768422|2089276535|2092663520|2117865218|2121058967|2132140814|2138461515|2150628503|2288483235
+
+
+id:2899259531
+title:Speckle Noise Removal Based on Adaptive Total Variation Model
+year:2018
+author information:[
+author name:Bo Chen
+author organization:ShenZhen University
+author id:2809784469|
+author name:Jinbin Zou
+author organization:ShenZhen University
+author id:2898990355|
+author name:Wensheng Chen
+author organization:Shenzhen University
+author id:2153432313|
+author name:Xiangjun Kong
+author organization:Qufu Normal University
+author id:2898746193|
+author name:Jianhua Ma
+author organization:Southern Med. University
+author id:2608820910|
+author name:Feng Li
+author organization:China Ship Scientific Research Center
+author id:2899237113|
+]
+abstract:experimental|variation|visual|model|energy|order|models|based|researchers|methods|removing|traditional|detail|diffusion|deal|numerical|coordinates|overcome|local|adaptive|low|noise|term|gradient|analyzed|diffusion|many|model|sharp|regularization|employed|edges|fine|function|retaining|different|results|image|new|velocities|preserve|proposed|minimization|speckle|show|speed|total|regions|convex|physical|enhancing|measures|characteristics|introduce|effectively|also|ultrasound|superior|quantitative|removal|properties
+venue name:Chinese Conference on Pattern Recognition
+venue id:2754767283
+venue type:C
+document type:Conference
+study fields:Local coordinates|Computer science|Algorithm|Convex function|Regularization (mathematics)|Image denoising|Speckle noise|Ultrasound image|Energy minimization
+references:1977700559|2004928853|2012775467|2031832209|2068111606|2081160575|2081351607|2127081471|2130094715|2136396015|2162457349|2574112684|2749075270
+
+
+id:2290040844
+title:Prediction model of human body composition based on physiological information entropy
+year:2015
+author information:[
+author name:Bo Chen
+author organization:Dalian University
+author id:2439914038|
+author name:Xiu-e Gao
+author organization:Dalian University
+author id:2754256480|
+author name:Aiqiang Zhang
+author organization:Dalian University
+author id:2711669157|
+]
+abstract:play|modeling|select|criteria|reasonable|improves|impedance|accuracy|body|issues|evaluation|selects|features|number|reflect|complex|draws|model|state|influencing|results|algorithm|based|give|experimental|analysis|selection|prediction|useful|parameters|theory|bioelectrical|role|show|characteristic|minimal|entropy|paper|feature|composition|prevention|prediction|body|human|establishes|disease|forward|effectively|also|many|fitted|model|puts|existing|interpret|aiming|information|first|physiological|subset
+venue name:BioMedical Engineering and Informatics
+venue id:1178831173
+venue type:C
+document type:Conference
+study fields:Feature selection|Bioelectrical impedance analysis|Pattern recognition|Computer science|Disease prevention|Composition of the human body|Mutual information|Artificial intelligence|Entropy (information theory)|Human body
+references:2058380590|2064278351|2107969104|2150249087|2157655583
+
+
+id:2588472480
+title:Design of the portable instrument for bioelectrical impedance
+year:2016
+author information:[
+author name:Bo Chen
+author organization:Dalian University
+author id:2755031047|
+author name:Xiu-e Gao
+author organization:Dalian University
+author id:2635990738|
+author name:Jinfeng Wu
+author organization:Dalian University
+author id:2588753611|
+author name:Qingguo Zheng
+author organization:Dalian University
+author id:2588366382|
+]
+abstract:upper|accuracy|relation|equations|introduced|problem|experiment|symmetrical|model|state|reflects|bioelectrical|using|meets|work|module|lower|portable|trunk|figuring|resistance|traditional|left|supplement|fivesegments|contrast|asymmetric|bioelectrical|two|existed|body|integral|based|close|according|right|certain|measuring|impedance|used|body|solution|shortage|exiting|results|needs|asymmetrical|basis|important|eightsegments|limbs|solving|part|show|instrument|subdivision|design|hard|human|satisfy|premised|designed|physiological
+venue name:International Congress on Image and Signal Processing
+venue id:2623715279
+venue type:C
+document type:Conference
+study fields:Measuring instrument|Computer vision|Equation solving|Bioelectrical impedance analysis|Computer science|Electrical impedance|Artificial intelligence|Acoustics|Trunk subdivision|Economic shortage|Trunk|Human body
+references:2063801359|2290040844|2390237441
+
+
+id:2589051927
+title:Research on human body composition prediction model based on Akaike Information Criterion and improved entropy method
+year:2016
+author information:[
+author name:Bo Chen
+author organization:Dalian University
+author id:2755031047|
+author name:Xiue Gao
+author organization:Dalian University
+author id:2635990738|
+author name:Qingguo Zheng
+author organization:Dalian University
+author id:2588366382|
+author name:Jingfeng Wu
+author organization:Dalian University
+author id:2588149995|
+]
+abstract:measured|comparative|put|improved|worked|experiment|model|aic|based|method|composition|analysis|akaike|correlation|study|characteristic|measurement|existed|unknown|entropy|composition|low|instrument|include|address|set|forward|predictive|combining|predictions|accuracy|showed|information|data|theoretical|used|body|good|influence|method|results|selected|actual|experimental|basis|bioelectricity|solve|prediction|parameters|problems|provided|information|redundant|paper|criterion|human|sampled|constructed|factors|existing|coefficients|physiological
+venue name:International Congress on Image and Signal Processing
+venue id:2623715279
+venue type:C
+document type:Conference
+study fields:Data modeling|Akaike information criterion|Pattern recognition|Computer science|Composition of the human body|Correlation|Artificial intelligence|Human body
+references:2123629600|2150847325
+
+
+id:2766639004
+title:Invulnerability Measure of a Military Heterogeneous Network Based on Network Structure Entropy
+year:2018
+author information:[
+author name:Xiue Gao
+author organization:Dalian University
+author id:2765874341|
+author name:Keqiu Li
+author organization:Dalian University
+author id:2170550945|
+author name:Bo Chen
+author organization:Dalian University
+author id:2766769303|
+]
+abstract:considered|whole|put|suffer|bottleneck|model|optimizing|flow|based|method|topology|accurately|node|correlation|provide|even|networks|evaluating|sensitivity|evaluate|methods|networks|capability|current|segmentation|betweenness|military|paralysis|failures|forward|lead|designing|cannot|information|theoretical|criticality|network|heterogeneous|mainly|impedes|edge|high|edges|transmission|major|military|calculated|results|new|level|often|basis|system|measure|proposed|little|irreversibility|technical|show|combat|network|paper|structural|invulnerability|factor|considers|characteristics|also|entropy|nodes|structure|efficiency|nodes|simulation|due|paid|attention|survivability|edge|presents
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Bottleneck|Survivability|Algorithm design|Computer science|Computer network|Network topology|Robustness (computer science)|Betweenness centrality|Complex network|Heterogeneous network|Distributed computing
+references:1987515125|2007673110|2010779214|2028793609|2072021304|2082464154|2092598586|2118271716|2123056824|2141884480|2166585032|2487171333|2558651951|2589578140
+
+
+id:2790955538
+title:A Cascading Failure Model for Command and Control Networks with Hierarchy Structure
+year:2018
+author information:[
+author name:Xiue Gao
+author organization:Dalian University
+author id:2765874341|
+author name:Duoping Zhang
+author organization:Dalian University
+author id:2790838677|
+author name:Keqiu Li
+author organization:Dalian University
+author id:2789433760|
+author name:Bo Chen
+author organization:Dalian University
+author id:2766769303|
+]
+abstract:employ|simulation|redistribution|without|put|improved|model|organizational|models|based|method|considering|hierarchy|impact|robustness|node|allocate|analyze|comparisons|networks|substantially|affect|highlighted|cascading|networks|neighboring|verify|proportions|demonstrated|failures|initial|could|forward|extent|defining|enhanced|novel|paper|quite|adjusting|dramatically|different|results|tolerance|hierarchydegree|level|nonuniform|degree|positions|misleading|proposed|failure|coefficient|adjustment|adjustable|coefficient|higher|provided|according|network|load|invulnerability|cascading|rationality|effectiveness|applying|characteristics|effectively|control|command|structure|existing|proposed|nodes|relational|strategy
+venue name:Security and Communication Networks
+venue id:120683614
+venue type:J
+document type:Journal
+study fields:Initial load|Command and control|Computer science|Computer network|Robustness (computer science)|Cascading failure|Redistribution (cultural anthropology)|Hierarchy|Distributed computing
+references:1876163459|2766173026
+
+
+id:2791245348
+title:Transmission power scheduling and control co-design for wireless sensor networks
+year:2018
+author information:[
+author name:Shixi Wen
+author organization:Dalian University
+author id:2969946809|
+author name:Ge Guo
+author organization:Northeastern University
+author id:2791161119|
+author name:Bo Chen
+author organization:Dalian University
+author id:2790756429|
+author name:Xiue Gao
+author organization:Dalian University
+author id:2791614173|
+]
+abstract:data|simulation|paper|dwell|approach|feedback|dynamics|introduced|transmission|generated|discusses|scheduling|established|mrcs|communication|different|energy|algorithm|given|using|conducted|analysis|msns|sequence|effects|system|allocate|thereby|proposed|sensor|simultaneously|algorithm|nonlinear|assumed|parameters|average|explicitly|code|codesign|automatically|networks|gain|sampleddata|numerical|paper|stochastic|verify|power|regular|policy|characterized|effectiveness|controller|determine|abstract|mobile|control|adhering|budget|nodes|framework|wireless|time|levels
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Dwell time|Transmission (mechanics)|Co-design|Nonlinear system|Data transmission|Computer simulation|Scheduling (computing)|Electronic engineering|Artificial intelligence|Wireless sensor network|Mathematics|Machine learning
+references:1074958431|1971075011|1980508604|1991781995|2002218489|2010900291|2011573697|2016562720|2020573937|2023308898|2030716926|2030776731|2040182770|2045698921|2046672513|2061834282|2066664087|2078804574|2110079746|2129901227|2162658997|2162663317|2179154826|2279956796|2293104122|2343419581|2344896637|2469287823|2514447902|2515370279|2546109980|2593297082|2763354547|2768779900|2769728167
+
+
+id:2791896324
+title:Event-triggered cooperative control of vehicle platoons in vehicular ad hoc networks
+year:2018
+author information:[
+author name:Shixi Wen
+author organization:Dalian University
+author id:2969946809|
+author name:Ge Guo
+author organization:Northeastern University
+author id:2791161119|
+author name:Bo Chen
+author organization:Dalian University
+author id:2790756429|
+author name:Xiue Gao
+author organization:Dalian University
+author id:2791614173|
+]
+abstract:results|transmitted|tracking|via|feedback|actuator|problem|terms|model|violated|ad|method|cooperative|system|delays|among|deals|timevarying|vehicular|conditions|hoc|functional|scheme|formulate|fueling|networks|matrix|inequality|vehicle|example|braking|eventtriggered|based|set|linear|abstract|caused|platoon|delay|ecs|stabilization|theoretical|threshold|employed|platoons|neighbors|sufficient|controllers|communication|stability|velocities|given|solutions|condition|proposed|parameters|show|error|numerical|tunable|paper|transformed|sampled|designed|effectiveness|follower|control|accelerations|suitable|designed
+venue name:Information Sciences
+venue id:192650101
+venue type:J
+document type:Journal
+study fields:Model transformation|Platoon|Control theory|Event triggered|Artificial intelligence|Wireless ad hoc network|Vehicle tracking system|Linear matrix inequality|Mathematics|Machine learning|Actuator|Tracking error
+references:1074958431|1241976795|1977270854|1978518835|1985235885|1988041926|1995500782|2004917926|2006096402|2010942529|2030716926|2048153718|2073210301|2076333832|2078804574|2080182810|2084209135|2089470280|2107415588|2107556430|2120498409|2141333364|2152072294|2197183251|2218489740|2276329747|2307055197|2327635608|2345006808|2509583637|2515370279|2526043704|2590454884|2611346233|2619229533|2754300070|2763354547|2768779900|2791994205
+
+
+id:2804838240
+title:A method of key links identification in command and control network based on bridging coefficient
+year:2018
+author information:[
+author name:Chengsheng Pan
+author organization:Dalian University
+author id:2664114029|
+author name:Xiaoshuang Chen
+author organization:Dalian University
+author id:2803891213|
+author name:Yunming Wang
+author organization:Dalian University
+author id:2889753535|
+author name:Bo Chen
+author organization:Dalian University
+author id:2633290430|
+]
+abstract:play|simulation|criticality|network|edge|identification|links|calculate|results|flow|bridging|based|method|impact|tertiary|degree|accurately|reachable|former|edge|secondary|take|paths|coefficient|vital|key|role|critical|methods|link|show|sum|phenomenon|networks|two|network|augment|link|key|endpoints|product|determine|identify|control|neighbor|command|calculates|considering|nodes|proposed|allegations|efficiently|information|account|novel|first|ratio
+venue name:International Conference on Networking, Sensing and Control
+venue id:1164469504
+venue type:C
+document type:Conference
+study fields:Command and control systems|Computer science|Command and control|Bridging (networking)|Computer network|Control engineering|Complex network|Criticality
+references:2559632703
+
+
+id:2895665855
+title:A Novel Multi-Attribute Decision Making Approach: Addressing the Complexity of Time Dependent and Interdependent Data
+year:2018
+author information:[
+author name:Bo Chen
+author organization:Dalian University
+author id:2889852203|
+author name:Yuanyuan Guo
+author organization:Dalian University
+author id:2894603402|
+author name:Xiue Gao
+author organization:Dalian University
+author id:2765874341|
+author name:Yunming Wang
+author organization:Dalian University
+author id:2889753535|
+]
+abstract:multiattribute|multiperiod|approach|put|consist|relationships|optimization|weights|dependent|defined|case|validation|models|method|preference|analysis|venture|innovative|fail|traditional|powerweighted|interdependent|completely|sensitivity|madm|relative|complexity|average|study|methods|factor|operators|precise|attribute|demonstrated|intuitionistic|funding|decision|within|forward|crosscomparison|overcoming|involve|data|approach|capital|data|environments|precision|achieves|seven|operator|compute|dynamic|consider|given|new|making|intervalvalued|weights|steps|geometric|systematically|demonstrate|present|option|provided|integrated|influences|studies|definition|company|fuzzy|evaluations|improvement|superior|currently|quantitative|well|step|time
+venue name:IEEE Access
+venue id:2485537415
+venue type:J
+document type:Journal
+study fields:Interdependence|Mathematical optimization|Computer science|Fuzzy logic|Fuzzy set|Time preference|Venture capital|Operator (computer programming)|Decision maker|Case analysis|Distributed computing
+references:951065567|1989995659|1992193696|1997215070|2015783558|2018804614|2060907774|2075916145|2080986991|2087959922|2116321937|2133102629|2144232912|2157687268|2165024836|2283590505|2347194893|2557449252|2591008318|2602038294|2611662467|2756443034|2761539206|2766313167|2766576419|2773087316|2778027311|2792780258|2794273717|2884758244|2912565176
+
+
+id:2959752636
+title:Hierarchical Evolution Model of Command and Control Network Based on Hypernetwork
+year:2019
+author information:[
+author name:Yunming Wang
+author organization:Dalian Jiaotong University
+author id:2960271346|
+author name:Bo Chen
+author organization:Lingnan Normal University
+author id:2633290430|
+author name:Xiaoshuang Chen
+author organization:Dalian University
+author id:2803891213|
+author name:Chengsheng Pan
+author organization:Dalian University
+author id:2664114029|
+]
+abstract:theoretical|simulation|heterogeneous|characteristics|frequency|number|shows|structure|connectivity|hierarchical|established|model|different|organizational|based|new|analysis|indicators|set|higher|joining|nonuniqueness|prove|reliability|hypernetwork|layer|measurement|network|stronger|according|characteristics|set|scalefree|multiple|control|evolution|structure|command|considering|better|nodes|proposed|derivation|strategy
+venue name:Journal of Control Science and Engineering
+venue id:11704996
+venue type:J
+document type:Journal
+study fields:Command and control|Theoretical computer science|Control engineering|Network model|Mathematics
+references:2091016205|2098005762|2766173026
+
