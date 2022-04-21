@@ -15,13 +15,16 @@ class Utils:
         p = 0.1
         if not os.path.exists(path):
             os.mkdir(path)
-        outputfileAuthor = open(path + name + '-Author.txt', 'w')
-        outputfileAbstact = open(path + name + '-Abstract.txt', 'w')
-        outputfileStudyfields = open(path + name + '-Studyfields.txt', 'w')
-        outputfileReference = open(path + name + '-Reference.txt', 'w')
-        outputfileInstitution = open(path + name + '-Institution.txt', 'w')
-        outputfileKeywords = open(path + name + '-Keywords.txt', 'w')
-        outputfileVenue = open(path + name + '-Venue.txt', 'w')
+        namepath = path+name+"/"
+        if not os.path.exists(namepath):
+            os.mkdir(namepath)
+        outputfileAuthor = open(namepath + name + '-Author.txt', 'w')
+        outputfileAbstact = open(namepath + name + '-Abstract.txt', 'w')
+        outputfileStudyfields = open(namepath + name + '-Studyfields.txt', 'w')
+        outputfileReference = open(namepath + name + '-Reference.txt', 'w')
+        outputfileInstitution = open(namepath + name + '-Institution.txt', 'w')
+        outputfileKeywords = open(namepath + name + '-Keywords.txt', 'w')
+        outputfileVenue = open(namepath + name + '-Venue.txt', 'w')
         originalData = data.split('\n\n')
         elementsID = []
         elementsTitle = []
@@ -116,7 +119,7 @@ class RW:
         self.suffix = suffix
 
     def setM(self):
-        inputfile = open(path+self.name+self.suffix+'.txt', 'r')
+        inputfile = open(path+self.name+"/"+self.name+self.suffix+'.txt', 'r')
         matrix = []
         for line in inputfile:
             infoStr = line[1:-2].split(',')
@@ -185,8 +188,9 @@ class Utils2:
                 walks.extend(next(dw))
             print("modeling")
             # sg = 1 用CBOW的方法
+            namepath = path+name+"/"
             model = word2vec.Word2Vec(walks, min_count=5, size=word2vecSize, window=word2vecWindow, sg=word2vecSG)
-            model.save(path + 'gensimModel-' + name + attribute + '-.model')
+            model.save(namepath+name + 'gensimModel-'+attribute + '.model')
 
         doRW("Author")
         doRW("Keywords")

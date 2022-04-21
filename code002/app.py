@@ -30,6 +30,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         self.pushButton_2.clicked.connect(self.openDirectory)
         self.pushButton_3.clicked.connect(self.start)
         self.pushButton_4.clicked.connect(self.cancel)
+        self.pushButton_contrast.clicked.connect(self.openContrast)
 
         self.progressBar.setVisible(False)
         self.progressBar.setValue(0)
@@ -51,6 +52,9 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         # 2 for finished
         # -1 for stopped
 
+        self.resource_contrast = None
+        self.data_contrast = ""
+
         self.newThread = None
 
     def openFile(self):
@@ -60,6 +64,13 @@ class MyWindow(QMainWindow, Ui_MainWindow):
             self.data = self.resource.read()
             self.lineEdit.setText(file)
             self.textBrowser.setText(self.data)
+
+    def openContrast(self):
+        file, ok = QFileDialog.getOpenFileName(self, "打开", "C:/", "Text Files(*.txt)")
+        if file:
+            self.resource_contrast = open(file, "r", encoding="utf-8")
+            self.data_contrast = self.resource_contrast.read()
+            self.lineEdit_contrast.setText(file)
 
     def openDirectory(self):
         directory = QFileDialog.getExistingDirectory(self, "选择文件夹", "C:/")
@@ -83,7 +94,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         self.authorName = self.lineEdit_3.text()
         self.dataIndex = self.comboBox.currentIndex()
         if not (self.resource and self.target):
-            QMessageBox.information(self, "Error", "请选择源文件和目标文件")
+            QMessageBox.information(self, "Error", "请选择源文件，标签文件和目标文件")
         elif not self.authorName:
             QMessageBox.information(self, "Error", "请输入消歧作者名")
         else:
@@ -167,7 +178,7 @@ class myThread(QThread):
 
     def run(self):
         try:
-            cor = getSamples(self.win.data, self.win.authorName, 10)
+            cor = getSamples(self.win.data, self.win.authorName, 10, self.win.data_contrast)
             while True:
                 rate = next(cor)
                 if rate == -1:

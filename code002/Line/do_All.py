@@ -61,10 +61,9 @@ def caiyang(vector_people, ls, size, num):
             rand_vector_select_combined, rand_vector_select_not_combined]
 
 
-def getContrast(name):
-    contrastFile = open(path +
-                        name + '/' + name + '-rst-clean.txt', 'r')
-    contrastFileData = contrastFile.read().split('\n')[:-1]
+def getContrast(contrast_data):
+
+    contrastFileData = contrast_data.split('\n')[:-1]
     contrast = []
     p = 0
     count = 0
@@ -131,7 +130,7 @@ def getTotalVector(name):
     return totalVectors
 
 
-def getSamples(data, name, num):
+def getSamples(data, name, num, contrast_data):
 
     code002.Line.graph.getAllAttributes(data, name)
     print("get attributes, done")
@@ -142,7 +141,7 @@ def getSamples(data, name, num):
     global rst, total
     totalVectors = getTotalVector(name)
     print("getTotalVectors, done")
-    contrast = getContrast(name)
+    contrast = getContrast(contrast_data)
     manyWeis = getWeiIndexs(contrast, num)
     # print(manyWeis)
     length = len(manyWeis)

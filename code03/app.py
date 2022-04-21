@@ -1,11 +1,9 @@
 import warnings
 
-# warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 
 import sys
 import os
-import threading
-import re
 from uipy.mainWindow import Ui_MainWindow
 from uipy.dialog1 import Ui_Dialog as Ui_Dialog1
 from uipy.dialog2 import Ui_Dialog as Ui_Dialog2
@@ -13,8 +11,6 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox, QDialog
 from PyQt5.QtCore import QThread, QObject, pyqtSignal, pyqtSlot
 import nn
-
-import scipy.special.cython_special
 
 resultFileName = "result"
 
@@ -32,6 +28,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         self.pushButton_2.clicked.connect(self.openDirectory)
         self.pushButton_3.clicked.connect(self.start)
         self.pushButton_4.clicked.connect(self.cancel)
+        self.pushButton_contrast.clicked.connect(self.openContrast)
 
         self.progressBar.setVisible(False)
         self.progressBar.setValue(0)
@@ -53,6 +50,9 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         # 2 for finished
         # -1 for stopped
 
+        self.resource_contrast = None
+        self.data_contrast = ""
+
         self.newThread = None
 
 
@@ -63,6 +63,13 @@ class MyWindow(QMainWindow, Ui_MainWindow):
             self.data = self.resource.read()
             self.lineEdit.setText(file)
             self.textBrowser.setText(self.data)
+
+    def openContrast(self):
+        file, ok = QFileDialog.getOpenFileName(self, "打开", "C:/", "Text Files(*.txt)")
+        if file:
+            self.resource_contrast = open(file, "r", encoding="utf-8")
+            self.data_contrast = self.resource_contrast.read()
+            self.lineEdit_contrast.setText(file)
 
     def openDirectory(self):
         directory = QFileDialog.getExistingDirectory(self, "选择文件夹", "C:/")
@@ -171,7 +178,7 @@ class myThread(QThread):
 
     def run(self):
         try:
-            cor = nn.getSamples(self.win.authorName, 10)
+            cor = nn.getSamples(self.win.data_contrast, self.win.data, self.win.authorName, 10)
             while True:
                 rate = next(cor)
                 rate = rate if rate <= 100 else 100

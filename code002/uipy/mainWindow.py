@@ -30,6 +30,20 @@ class Ui_MainWindow(object):
         self.pushButton = QtWidgets.QPushButton(self.frame_2)
         self.pushButton.setObjectName("pushButton")
         self.gridLayout.addWidget(self.pushButton, 1, 2, 1, 1)
+
+        # contrast
+        self.pushButton_contrast = QtWidgets.QPushButton(self.frame_2)
+        self.pushButton_contrast.setObjectName("pushButton_contrast")
+        self.gridLayout.addWidget(self.pushButton_contrast, 2, 2, 1, 1)
+        self.label_contrast = QtWidgets.QLabel(self.frame_2)
+        self.label_contrast.setObjectName("label_contrast")
+        self.gridLayout.addWidget(self.label_contrast, 2, 0, 1, 1)
+        self.lineEdit_contrast = QtWidgets.QLineEdit(self.frame_2)
+        self.lineEdit_contrast.setReadOnly(True)
+        self.lineEdit_contrast.setObjectName("lineEdit_contrast")
+        self.gridLayout.addWidget(self.lineEdit_contrast, 2, 1, 1, 1)
+
+
         self.label_3 = QtWidgets.QLabel(self.frame_2)
         self.label_3.setObjectName("label_3")
         self.gridLayout.addWidget(self.label_3, 1, 0, 1, 1)
@@ -39,14 +53,14 @@ class Ui_MainWindow(object):
         self.gridLayout.addWidget(self.lineEdit, 1, 1, 1, 1)
         self.label_4 = QtWidgets.QLabel(self.frame_2)
         self.label_4.setObjectName("label_4")
-        self.gridLayout.addWidget(self.label_4, 2, 0, 1, 1)
+        self.gridLayout.addWidget(self.label_4, 3, 0, 1, 1)
         self.lineEdit_2 = QtWidgets.QLineEdit(self.frame_2)
         self.lineEdit_2.setReadOnly(True)
         self.lineEdit_2.setObjectName("lineEdit_2")
-        self.gridLayout.addWidget(self.lineEdit_2, 2, 1, 1, 1)
+        self.gridLayout.addWidget(self.lineEdit_2, 3, 1, 1, 1)
         self.pushButton_2 = QtWidgets.QPushButton(self.frame_2)
         self.pushButton_2.setObjectName("pushButton_2")
-        self.gridLayout.addWidget(self.pushButton_2, 2, 2, 1, 1)
+        self.gridLayout.addWidget(self.pushButton_2, 3, 2, 1, 1)
         self.verticalLayout.addWidget(self.frame_2)
         self.frame_5 = QtWidgets.QFrame(self.centralwidget)
         self.frame_5.setFrameShape(QtWidgets.QFrame.StyledPanel)
@@ -162,6 +176,11 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "源文件"))
         self.label_4.setText(_translate("MainWindow", "目标文件"))
         self.pushButton_2.setText(_translate("MainWindow", "浏览..."))
+
+        # contrast
+        self.label_contrast.setText(_translate("MainWindow", "标签文件"))
+        self.pushButton_contrast.setText(_translate("MainWindow", "浏览..."))
+
         self.label_6.setText(_translate("MainWindow", "消歧作者名"))
         self.lineEdit_3.setPlaceholderText(_translate("MainWindow", "如 Wei Li"))
         self.label_7.setText(_translate("MainWindow", "数据格式类型"))
